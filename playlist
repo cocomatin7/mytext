@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/konanda-sg/mytext/master/epg"
 
-https://delivery.ghanacloud.ga/PremierLeagueChannel/index.m3u8
-
 
 #EXTINF:-1 group-title="DHAMMA", ပရိတ်ကြီး ၁၁ သုတ် မြောက်ဦးဆရာတော်
 https://www.youtube.com/watch?v=qtxyTrPdsJk
@@ -518,6 +516,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 
 #EXTINF:-1 group-title="cookie", CN
 http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-playlist.m3u8
+#EXTINF:-1 group-title="cookie", EPL
+https://delivery.ghanacloud.ga/PremierLeagueChannel/index.m3u8
 
 + + + + + + + + + + + + + + + + + + + 
 
