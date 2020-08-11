@@ -429,6 +429,17 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master01.m3u8
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png" group-title="SG",Channel News Asia"
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 
+#EXTINF:-1 group-title="SG",8新闻台
+https://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master.m3u8
+,8新闻台
+https://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master_1.m3u8
+,8新闻台
+https://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master_2.m3u8
+,8新闻台
+https://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master_3.m3u8
+,8新闻台
+https://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master_4.m3u8
+
 #EXTINF:-1 group-title="SG", Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
 #EXTINF:-1, CH5
