@@ -532,40 +532,40 @@ https://delivery.ghanacloud.ga/PremierLeagueChannel/index.m3u8
 + + + + + + + + + + + + + + + + + + + 
 
 #EXTINF:-1 tvg-id="FOX Movies HD" group-title="VN",Fox Movies |ftp
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
 #EXTINF:-1,National Geographic HD |ftp
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="FOX Family Movies HD",Fox Family Movies |ftp
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-KIX |ftp
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-Animal Planet |ftp
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/playlist.m3u8
+#EXTINF:-1,KIX |ftp
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
+#EXTINF:-1,Animal Planet |ftp
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
 #EXTINF:-1,BBC World News |ftp
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 ,Bloomberg /offline
-https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/playlist.m3u8
 ,CNN |ftp /offline
-https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/playlist.m3u8
 #EXTINF:-1,Discovery |ftp
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
 #EXTINF:-1,Discovery Asia |ftp
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
 
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 WBTV /offline |ftp
-https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KBS World HD",KBS World |ftp
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF:-1,Asian Food Network |ftp
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 #EXTINF:-1,NHK World Japan |ftp
-https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
- #EXTINF:-1 group-title="VN",CNA |ftp
-https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/world/nhkworld_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="VN",CNA |ftp
+https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
+
 
  group-title="VN|rtp",Asian Food Network (HD 6.5Mbps) |rtp
 http://123.18.1.200:4022/rtp/232.84.2.129:9570
@@ -4579,6 +4579,14 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin/epl-5_720/chunks.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin/epl-bein1_720/chunks.m3u8
 #EXTINF:-1,epl bein 2 |wwtv
 https://vodcache.worldwidetv.club/root-c2/liveorigin/epl-bein2_720/chunks.m3u8
+#EXTINF:-1,mysports 1 |wwtv
+https://vodcache.worldwidetv.club/root-c2/liveorigin/ch-mysports1_480/chunks.m3u8
+#EXTINF:-1,mysports 2 |wwtv
+https://vodcache.worldwidetv.club/root-c2/liveorigin/ch-mysports2_480/chunks.m3u8
+#EXTINF:-1,mysports 3 |wwtv
+https://vodcache.worldwidetv.club/root-c2/liveorigin/ch-mysports3_480/chunks.m3u8
+#EXTINF:-1,mysports 4 |wwtv
+https://vodcache.worldwidetv.club/root-c2/liveorigin/ch-mysports4_480/chunks.m3u8
 
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein10_480/playlist.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein12_480/playlist.m3u8
