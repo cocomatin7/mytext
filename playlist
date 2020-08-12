@@ -1957,6 +1957,8 @@ http://211.75.9.37:20060/20065
 
 #EXTINF:-1 group-title="TH/movie1168",epl-bein1 |m1168
 https://1168live.b-cdn.net/epl-bein1_720/index.m3u8
+#EXTINF:-1,epl-bein1' |m1168
+https://45.64.186.134:443/epl-bein1_720/index.m3u8
 
 https://1168live.b-cdn.net/epl-bein2_720/index.m3u8
 https://1168live.b-cdn.net/epl-x1_720/index.m3u8
@@ -2009,8 +2011,8 @@ https://1168live.b-cdn.net/uk-skysports-news_480/index.m3u8
 
 + + + + + https://www.doofree88.com + + + + +
 
-
 https://104.248.152.125/sd-asianfood_480/index.m3u8
+
 https://cdn-laos.workpoint.news/al-supersports1_480/index.m3u8
 https://cdn-laos.workpoint.news/al-supersports2_480/index.m3u8
 https://cdn-laos.workpoint.news/al-supersports3_480/index.m3u8
@@ -2385,7 +2387,7 @@ https://cdn1.ufalive.center/app/xzyte/playlist.m3u8
 #EXTINF:-1 group-title="ufalive",ziggo sport voetbal |ufalive
 https://cdn1.ufalive.center/app/ziggosportvoetbal/playlist.m3u8
 
-+ + + + + http://www.sportdoofree.com + + + + +
++ + + + + http://www.sportdoofree.com / 45.64.186.163:443 + + + + +
 
 #EXTINF:-1 group-title="TH/sportdoofree",bein 1 EPL
 https://cdn17.cloud-streaming.com/sportpack_x1/beinsport1_480p/chunks.m3u8?nimblesessionid=
@@ -2402,7 +2404,7 @@ https://cdn17.cloud-streaming.com/sportpack_x3/skynet4/chunks.m3u8?nimblesession
 https://cdn17.cloud-streaming.com/sportpack_x3/skynet5/chunks.m3u8?nimblesessionid=
 https://cdn17.cloud-streaming.com/sportpack_x3/skynet6/chunks.m3u8?nimblesessionid=
 
-+ + + + + https://www.ballsoi8.com + + + + +
++ + + + + https://www.ballsoi8.com / 103.253.74.3:443 + + + + +
 
 #EXTINF:-1 group-title="TH/ballsoi8",trueepl1
 https://cdn227.cloud-streaming.com/ballsoi8_r1/trueepl1_480p/chunks.m3u8?nimblesessionid=
@@ -2771,16 +2773,18 @@ http://fw02.livem3u8.me.totiptv.com:80/live/29a09591a6604ff3b798cd7ef809e4bd.m3u
 http://fw02.livem3u8.me.totiptv.com:80/live/29fb241f985c468e8e6ffa8942b00a69.m3u8?bitrate=1500&code=894544cfcef791e4a064261d29e02bed
 http://fw02.livem3u8.me.totiptv.com:80/live/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?bitrate=1500&code=be240fcc2bb5951c05a6a98a44066179
 
-+ + + + + http://doo2you.com TH + + + + +
++ + + + + http://doo2you.com/live-tv + + + + +
 
 offline
 
-+ + + + + https://www.warpfootball.games + + + + +
-https://www.warpfootball.games/live/?ch=epl1
++ + + + + https://www.warpfootball.games/live / 103.253.74.7:443 + + + + +
 
+https://www.warpfootball.games/live/?ch=epl1
+https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl1_480p/chunks.m3u8?nimblesessionid=4910196&wmsAuthSign=
+https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl2_480p/chunks.m3u8?nimblesessionid=4910202&wmsAuthSign=
 https://cdn221.cloud-streaming.com/wrapfootball_t5/hd-hbo-thai/chunks.m3u8?nimblesessionid=
 
-+ + + + + https://doomovie.com + + + + +
++ + + + + https://doomovie.com/live / 89.187.169.15:443 + + + + +
 
 #EXTINF:-1 group-title="doomovie",al-supersports1 |doomovie
 https://doomovielive.b-cdn.net/al-supersports1_480/index.m3u8|Referer=https://doomovie.com
@@ -3057,6 +3061,9 @@ https://edge-n1.worldwidetv.club/WYD0BWC2pN-VEbfCLT_OGQ/1595674238/live-abr/sd-s
 
 #EXTINF:-1 group-title="TH/tot",CH3 HD
 http://host4.dynns.com/stream/a4485b656d764f308c63b14a8bf62326.m3u8
+#EXTINF:-1,CH3 HD'
+http://nix02.livefile.me.totiptv.com/stream/a4485b656d764f308c63b14a8bf62326.m3u8
+
 ,CH5 HD
 http://host4.dynns.com/stream/1d92193b11fe490b8c67d0a88bee3fd6.m3u8
 ,CH7 HD
@@ -3910,8 +3917,614 @@ https://lnwlomtoe.atvlb.com/lnwlomtoe/ch69/playlist.m3u8
 
 + + + + + + + + + + +
 
- group-title="newhost/off",newhostshare < empty
+ group-title="newhost/off",newhostshare < 
 http://newhostshare.ddns.net:9981/playlist/channels
+
+#EXTINF:-1 tvg-id="3c0a48385b30fc09b113e7c117ba971d" group-title="newhost",70'S
+http://newhostshare.ddns.net:9981/stream/channelid/944245308?profile=pass
+#EXTINF:-1 tvg-id="1e47845f9ca30dc62bb000cd343f7d88",70'S
+http://newhostshare.ddns.net:9981/stream/channelid/1602504478?profile=pass
+#EXTINF:-1 tvg-id="299493383adfb8b9e9155802d5e68aed",80'S
+http://newhostshare.ddns.net:9981/stream/channelid/949195817?profile=pass
+#EXTINF:-1 tvg-id="7d648cc66ccca0b76f47a64a56275f37",80'S
+http://newhostshare.ddns.net:9981/stream/channelid/1183605885?profile=pass
+#EXTINF:-1 tvg-id="4b0ed05977e361930280f384df5e1246",AFN
+http://newhostshare.ddns.net:9981/stream/channelid/1506807371?profile=pass
+#EXTINF:-1 tvg-id="3d6033668d9039efaeb503e843003195",AFN
+http://newhostshare.ddns.net:9981/stream/channelid/1714643005?profile=pass
+#EXTINF:-1 tvg-id="223ef742006b86fa1f80940569b12462",AGRICULTURE/FOREST CHANNEL
+http://newhostshare.ddns.net:9981/stream/channelid/1123499554?profile=pass
+#EXTINF:-1 tvg-id="bba91e9ed2e091cfe53baa640dc2772c",ALT
+http://newhostshare.ddns.net:9981/stream/channelid/505326011?profile=pass
+#EXTINF:-1 tvg-id="d2e35f61c40774a849b5317f146431ca",ALT
+http://newhostshare.ddns.net:9981/stream/channelid/1633674194?profile=pass
+#EXTINF:-1 tvg-id="3b1686fc976b7bf679935e0fbc72e102",ANIMAL PLANET
+http://newhostshare.ddns.net:9981/stream/channelid/2089162299?profile=pass
+#EXTINF:-1 tvg-id="db8e61cad4da9f1b0039440bf661e0b7",AnimalPlanet
+http://newhostshare.ddns.net:9981/stream/channelid/1247907547?profile=pass
+#EXTINF:-1 tvg-id="6a871142b0a6767f0efe1105503e0536",ANIMAX
+http://newhostshare.ddns.net:9981/stream/channelid/1108445034?profile=pass
+#EXTINF:-1 tvg-id="407b166a288087cafb8531c939daef31",ANIMAX ASIA HD
+http://newhostshare.ddns.net:9981/stream/channelid/1779858240?profile=pass
+#EXTINF:-1 tvg-id="93545a70974de9ac66310c2f3a2479b6",ANT - BPTV3
+http://newhostshare.ddns.net:9981/stream/channelid/1884968083?profile=pass
+#EXTINF:-1 tvg-id="af790b0fa792fa63cc9b3785ec315ad0",ARIRANG
+http://newhostshare.ddns.net:9981/stream/channelid/252410287?profile=pass
+#EXTINF:-1 tvg-id="74ba2d3252c96f1ce50cc9bc01548de2",ASIAN MOVIES
+http://newhostshare.ddns.net:9981/stream/channelid/841857652?profile=pass
+#EXTINF:-1 tvg-id="1615c121f7c1ef03c6ca4da40471e25f",ASSP
+http://newhostshare.ddns.net:9981/stream/channelid/566301974?profile=pass
+#EXTINF:-1 tvg-id="917dc72f110ab7f4d897de1577437fef",ASSP2
+http://newhostshare.ddns.net:9981/stream/channelid/801602961?profile=pass
+#EXTINF:-1 tvg-id="b36413f99cdfd7727f1feff0f5abc65f",ASSP3
+http://newhostshare.ddns.net:9981/stream/channelid/2031314099?profile=pass
+#EXTINF:-1 tvg-id="7622c5f3bb3ab4c37e07c603ce8e1f2d",ASSP4
+http://newhostshare.ddns.net:9981/stream/channelid/1942299254?profile=pass
+#EXTINF:-1 tvg-id="51e9f91c2a3507e2ee3515a2bbefe760",AXN
+http://newhostshare.ddns.net:9981/stream/channelid/486140241?profile=pass
+#EXTINF:-1 tvg-id="14e30030ffd56f4b35efee46c751e3fa",AXN True
+http://newhostshare.ddns.net:9981/stream/channelid/805364500?profile=pass
+#EXTINF:-1 tvg-id="0100c7e622be9793db0bc6923b1b4d0a",BABY TV
+http://newhostshare.ddns.net:9981/stream/channelid/1724317697?profile=pass
+#EXTINF:-1 tvg-id="b7ef7530fdda5f260db4385624108ea0",BBC EARTH
+http://newhostshare.ddns.net:9981/stream/channelid/813035447?profile=pass
+#EXTINF:-1 tvg-id="4aa37f3adcd6bb0d13611786b1c301bf",BBC EARTH
+http://newhostshare.ddns.net:9981/stream/channelid/981443402?profile=pass
+#EXTINF:-1 tvg-id="449f7fcca9c5b5a831b6308ae49db5b7",BBC Earth
+http://newhostshare.ddns.net:9981/stream/channelid/1283432260?profile=pass
+#EXTINF:-1 tvg-id="762cf5733a6c2f6372ed0cd508787c54",BBC WORLD NEWS
+http://newhostshare.ddns.net:9981/stream/channelid/1945447542?profile=pass
+#EXTINF:-1 tvg-id="4c0f872c02a63f1d23206f6d81cd03ed",BBC Worldnews
+http://newhostshare.ddns.net:9981/stream/channelid/747048780?profile=pass
+#EXTINF:-1 tvg-id="66c702b3ae046c80b3a84baa29aa5730",BBM
+http://newhostshare.ddns.net:9981/stream/channelid/855820134?profile=pass
+#EXTINF:-1 tvg-id="716f13c3a4ddbde5f289906ac93611dd",BeIN Connect1
+http://newhostshare.ddns.net:9981/stream/channelid/1125347185?profile=pass
+#EXTINF:-1 tvg-id="d1fa0fe6af88f812aff6055b9680e1bd",BeIN Connect2
+http://newhostshare.ddns.net:9981/stream/channelid/1712323281?profile=pass
+
+#EXTINF:-1 tvg-id="6d72b56c330d875ea2fe7fb9ee27a52a",BT Sport ESPN HD
+http://newhostshare.ddns.net:9981/stream/channelid/1823830637?profile=pass
+#EXTINF:-1 tvg-id="7b13470e482b3ad2b1593237367f682a",BT Sport1HD
+http://newhostshare.ddns.net:9981/stream/channelid/239539067?profile=pass
+#EXTINF:-1 tvg-id="21e8828fca4573bcf3c6d0d6b22d77cf",BT Sport2HD
+http://newhostshare.ddns.net:9981/stream/channelid/260237345?profile=pass
+#EXTINF:-1 tvg-id="b7bd6d062d73ea203f0cd3f099e9e878",BT Sport3HD
+http://newhostshare.ddns.net:9981/stream/channelid/107855287?profile=pass
+#EXTINF:-1 tvg-id="0d56e7e315a435befd8f365dd9bb16d3",BUDDHA
+http://newhostshare.ddns.net:9981/stream/channelid/1676105229?profile=pass
+#EXTINF:-1 tvg-id="ea04491ca1829fe028918b58d2de77c9",Cartoon Club
+http://newhostshare.ddns.net:9981/stream/channelid/474547434?profile=pass
+#EXTINF:-1 tvg-id="cf333998b4b9b034e4e6d0a57cfefe3b",CARTOON NETWORK
+http://newhostshare.ddns.net:9981/stream/channelid/406401999?profile=pass
+#EXTINF:-1 tvg-id="07b396d1ca9764f63f1eb559ff32bc9f",CartoonNetwork HD
+http://newhostshare.ddns.net:9981/stream/channelid/1368830727?profile=pass
+
+#EXTINF:-1 tvg-id="5422190a4d685b1ca7fa7eb4dd77f7ef",CH-V
+http://newhostshare.ddns.net:9981/stream/channelid/169419348?profile=pass
+#EXTINF:-1 tvg-id="f4bebdf7b1b33261928f8bab53217278",CH2 DIGITAL TV
+http://newhostshare.ddns.net:9981/stream/channelid/2008923892?profile=pass
+#EXTINF:-1 tvg-id="0dee1e0648d78a4af36d80a1d83058a2",CH7 HD
+http://newhostshare.ddns.net:9981/stream/channelid/102690317?profile=pass
+#EXTINF:-1 tvg-id="c47cda30723dd4ad26dfb5f2c8e91b38",CHANNEL 9
+http://newhostshare.ddns.net:9981/stream/channelid/819625156?profile=pass
+#EXTINF:-1 tvg-id="5796d775aff9c74c6c0611be1da1d18d",CHANNEL ME
+http://newhostshare.ddns.net:9981/stream/channelid/1977062999?profile=pass
+#EXTINF:-1 tvg-id="52969eee9b84b58d60df4c787e82b5fd",CHANNEL NEWSASIA
+http://newhostshare.ddns.net:9981/stream/channelid/1855886930?profile=pass
+#EXTINF:-1 tvg-id="fd39f9824ad625424734bc791ab24404",CHILLO
+http://newhostshare.ddns.net:9981/stream/channelid/49887741?profile=pass
+#EXTINF:-1 tvg-id="dae552f6b10698d860348be0c24b3dfe",CHILLO
+http://newhostshare.ddns.net:9981/stream/channelid/1985144282?profile=pass
+#EXTINF:-1 tvg-id="0df5dd23e778897fe50bf564aef77ef0",CINEMAX
+http://newhostshare.ddns.net:9981/stream/channelid/601748749?profile=pass
+#EXTINF:-1 tvg-id="211491d3cb22c4bf30402c44184becf3",CINEMAX HD
+http://newhostshare.ddns.net:9981/stream/channelid/1402016801?profile=pass
+#EXTINF:-1 tvg-id="0eaa0a33c81c0b2cf8a8222051360197",CNBC
+http://newhostshare.ddns.net:9981/stream/channelid/856336910?profile=pass
+#EXTINF:-1 tvg-id="06b34312c77fda14d806d46c9af1bdc1",CNN
+http://newhostshare.ddns.net:9981/stream/channelid/306426630?profile=pass
+#EXTINF:-1 tvg-id="6e36ed31e446ebfc5dd8857bd08ce99d",CNN
+http://newhostshare.ddns.net:9981/stream/channelid/837629550?profile=pass
+#EXTINF:-1 tvg-id="d371289cb3cc5182aa07198371a4209f",COMEDY CENTRAL
+http://newhostshare.ddns.net:9981/stream/channelid/472412627?profile=pass
+#EXTINF:-1 tvg-id="1291e29d38a7c4db71b8ddac84660bcc",DANC
+http://newhostshare.ddns.net:9981/stream/channelid/501387538?profile=pass
+#EXTINF:-1 tvg-id="ca1859f1132949a3348a91567db70890",DANC
+http://newhostshare.ddns.net:9981/stream/channelid/1901664458?profile=pass
+#EXTINF:-1 tvg-id="4d131aa788037d493fb787c6ed1c4b6b",DISCOVERY ASIA HD
+http://newhostshare.ddns.net:9981/stream/channelid/656020301?profile=pass
+#EXTINF:-1 tvg-id="95d83d4198e550b3cfa2e450da4da5eb",DISCOVERY ASIA HD
+http://newhostshare.ddns.net:9981/stream/channelid/1094572181?profile=pass
+#EXTINF:-1 tvg-id="8f56678b92066f036a60610c01964166",DISCOVERY CHANNEL
+http://newhostshare.ddns.net:9981/stream/channelid/191321743?profile=pass
+#EXTINF:-1 tvg-id="481bf2cf0f4901d8b1de4ef3309a0242",DISCOVERY CHANNEL
+http://newhostshare.ddns.net:9981/stream/channelid/1341266760?profile=pass
+#EXTINF:-1 tvg-id="3c51459950886d19e2bcde6cbbe7c3f7",Discovery TH
+http://newhostshare.ddns.net:9981/stream/channelid/423973180?profile=pass
+#EXTINF:-1 tvg-id="e78d09351278f67fd39d1d9c7820a960",DiscoveryAsia True
+http://newhostshare.ddns.net:9981/stream/channelid/889818599?profile=pass
+#EXTINF:-1 tvg-id="9982dc51dc158057f50309c1a979d9a3",EDGE SPORT
+http://newhostshare.ddns.net:9981/stream/channelid/1373405849?profile=pass
+#EXTINF:-1 tvg-id="e38473f730928c8b0998b12c5ae2aad7",EDGE SPORT
+http://newhostshare.ddns.net:9981/stream/channelid/2004059363?profile=pass
+#EXTINF:-1 tvg-id="1e0312639fef6b994855f45da73e6d46",EDUCATION CHANNEL
+http://newhostshare.ddns.net:9981/stream/channelid/1662124830?profile=pass
+#EXTINF:-1 tvg-id="e07589c79ce67514e1ba4a1fe705821a",EGG NETWORK
+http://newhostshare.ddns.net:9981/stream/channelid/1200190944?profile=pass
+#EXTINF:-1 tvg-id="2d1787a2354e65e7f1356b775caeef24",EURO
+http://newhostshare.ddns.net:9981/stream/channelid/579278637?profile=pass
+#EXTINF:-1 tvg-id="d860bd4a72f02f5c5be17bf736db4191",EURO
+http://newhostshare.ddns.net:9981/stream/channelid/1253925080?profile=pass
+#EXTINF:-1 tvg-id="f1cbf5d161ffbbb3adaf0eadf1ecae00",EUROSPORT
+http://newhostshare.ddns.net:9981/stream/channelid/1375063025?profile=pass
+#EXTINF:-1 tvg-id="a31b335b04d40fd1faf46765a8c81410",EUROSPORT
+http://newhostshare.ddns.net:9981/stream/channelid/1530076067?profile=pass
+#EXTINF:-1 tvg-id="004a54eca5b9dee92924f10469e55ed7",EuroSport
+http://newhostshare.ddns.net:9981/stream/channelid/1817463296?profile=pass
+#EXTINF:-1 tvg-id="c32b1cfa9769b6bb837da3666c8f90f4",Fashion HD
+http://newhostshare.ddns.net:9981/stream/channelid/2048666563?profile=pass
+#EXTINF:-1 tvg-id="567f6989095f852985a66ec656eb2a13",FASHION ONE
+http://newhostshare.ddns.net:9981/stream/channelid/157908822?profile=pass
+#EXTINF:-1 tvg-id="de111299bddecc3fd9bc9257645e0202",FIGHT SPORTS HD
+http://newhostshare.ddns.net:9981/stream/channelid/420614622?profile=pass
+#EXTINF:-1 tvg-id="3c873023293a0978c95332284fdef2fb",FIGHT SPORTS HD
+http://newhostshare.ddns.net:9981/stream/channelid/590382908?profile=pass
+#EXTINF:-1 tvg-id="6ee6fe2eec729fe052d0ee2e4d102af1",FOX A HD
+http://newhostshare.ddns.net:9981/stream/channelid/788457070?profile=pass
+#EXTINF:-1 tvg-id="834ff345c129adcd3ae01944b9a082d1",FOX A HD
+http://newhostshare.ddns.net:9981/stream/channelid/1173573507?profile=pass
+#EXTINF:-1 tvg-id="cb314bd7e8b29b019643e401475bf6af",FOX A HD
+http://newhostshare.ddns.net:9981/stream/channelid/1464545739?profile=pass
+#EXTINF:-1 tvg-id="67b05c68bde99fe7b95701cfafc6ffd2",FOX A HD
+http://newhostshare.ddns.net:9981/stream/channelid/1750904935?profile=pass
+#EXTINF:-1 tvg-id="180081a34c39fb912fee1f4d06556eed",FOX Action Movies
+http://newhostshare.ddns.net:9981/stream/channelid/595656728?profile=pass
+#EXTINF:-1 tvg-id="d1dc2a3e40a6e203a5622aa5d6df042f",FOX ACTION MOVIES HD
+http://newhostshare.ddns.net:9981/stream/channelid/1042996433?profile=pass
+#EXTINF:-1 tvg-id="4dbbff22c3e7e635d4d064c055cd4b8c",FOX CRIME
+http://newhostshare.ddns.net:9981/stream/channelid/587184973?profile=pass
+#EXTINF:-1 tvg-id="09bd99462196e2e3861cb7345a05f97d",FOX FAMILY MOVIES
+http://newhostshare.ddns.net:9981/stream/channelid/1184480521?profile=pass
+#EXTINF:-1 tvg-id="3fab0486144d899d495ef5640a57bd58",FOX HD
+http://newhostshare.ddns.net:9981/stream/channelid/100969279?profile=pass
+#EXTINF:-1 tvg-id="03009a6bed7f96ea5fe76222fd15c558",FOX HD
+http://newhostshare.ddns.net:9981/stream/channelid/1805254659?profile=pass
+#EXTINF:-1 tvg-id="0dc89ace862a1fb77592a1580ac9dc22",FOX MOVIES
+http://newhostshare.ddns.net:9981/stream/channelid/1318766605?profile=pass
+#EXTINF:-1 tvg-id="a2405f50a8688df74682d35a1396db08",FOX MOVIES HD
+http://newhostshare.ddns.net:9981/stream/channelid/1348419746?profile=pass
+#EXTINF:-1 tvg-id="791adf924cff6c2af00ed8cee601ba24",FOX SPORTS 1
+http://newhostshare.ddns.net:9981/stream/channelid/316611193?profile=pass
+#EXTINF:-1 tvg-id="f357bc1d0cc56f72b9c381c7a1f186f9",FOX SPORTS 1
+http://newhostshare.ddns.net:9981/stream/channelid/498882547?profile=pass
+#EXTINF:-1 tvg-id="7a3d421d4c356327abf0a9f4f3d478e2",FOX SPORTS 2
+http://newhostshare.ddns.net:9981/stream/channelid/490880378?profile=pass
+#EXTINF:-1 tvg-id="0a15063c5ed684bfe45bb585a15eb5f1",FOX SPORTS 2
+http://newhostshare.ddns.net:9981/stream/channelid/1007031562?profile=pass
+#EXTINF:-1 tvg-id="8cbd4699f679883ff9140db805c5eecf",FOX SPORTS 3
+http://newhostshare.ddns.net:9981/stream/channelid/424066444?profile=pass
+#EXTINF:-1 tvg-id="429bcd67819696bf995451d81d75ed23",FOX SPORTS 3
+http://newhostshare.ddns.net:9981/stream/channelid/1741527874?profile=pass
+#EXTINF:-1 tvg-id="40581c6b95e06f6d5b4ab3cd5cbe01e8",Fox1
+http://newhostshare.ddns.net:9981/stream/channelid/1797019712?profile=pass
+#EXTINF:-1 tvg-id="d8d6ab895b09e18f16c4b10990062de8",FoxCrime TH
+http://newhostshare.ddns.net:9981/stream/channelid/162256600?profile=pass
+#EXTINF:-1 tvg-id="4c0553c988542544a4a19b5ae51d13f0",FOXLIFE
+http://newhostshare.ddns.net:9981/stream/channelid/1230177612?profile=pass
+#EXTINF:-1 tvg-id="fcfb47761911c8f1d2add75b860e1e47",FoxLife
+http://newhostshare.ddns.net:9981/stream/channelid/1984429052?profile=pass
+#EXTINF:-1 tvg-id="8f23641202de3f2559e981a4e8edfa03",FOXLIFE HD
+http://newhostshare.ddns.net:9981/stream/channelid/308552591?profile=pass
+#EXTINF:-1 tvg-id="b145189a9b1b07323ebe42510fb94435",FOXLIFE HD
+http://newhostshare.ddns.net:9981/stream/channelid/437798321?profile=pass
+#EXTINF:-1 tvg-id="a54ddbd75131f8eba9485834a7e953ed",FoxMovies True
+http://newhostshare.ddns.net:9981/stream/channelid/1473990053?profile=pass
+#EXTINF:-1 tvg-id="120b55120e6deb8bdf52db1c36b4b2af",FoxThai True
+http://newhostshare.ddns.net:9981/stream/channelid/307563282?profile=pass
+#EXTINF:-1 tvg-id="0c4cba72de86e5372ed3e15730deac87",FX
+http://newhostshare.ddns.net:9981/stream/channelid/1924811788?profile=pass
+#EXTINF:-1 tvg-id="f20a9f851a1a5983d6ea2e4aa3b684f5",FX TH
+http://newhostshare.ddns.net:9981/stream/channelid/94309106?profile=pass
+#EXTINF:-1 tvg-id="fb81fe2f0d56ad17e98dae76796b73ad",FYI,
+http://newhostshare.ddns.net:9981/stream/channelid/805208571?profile=pass
+#EXTINF:-1 tvg-id="66faccf9f2b463ba42e49169e06fbc5a",Gang Cartoon
+http://newhostshare.ddns.net:9981/stream/channelid/2043476582?profile=pass
+#EXTINF:-1 tvg-id="9c7fe0a6c2014c8d9f5977c5493704e5",GLOBALNET
+http://newhostshare.ddns.net:9981/stream/channelid/652246940?profile=pass
+#EXTINF:-1 tvg-id="00ee37f02a5a71d106e285ba5db94ac1",GMM25 HD DIGITAL TV
+http://newhostshare.ddns.net:9981/stream/channelid/1882713600?profile=pass
+#EXTINF:-1 tvg-id="c848700b17072d0262a1aa356ac612f5",GOLF
+http://newhostshare.ddns.net:9981/stream/channelid/191908040?profile=pass
+#EXTINF:-1 tvg-id="7ae8e9f5478273384dffa951848a1847",GOLF
+http://newhostshare.ddns.net:9981/stream/channelid/1978263674?profile=pass
+#EXTINF:-1 tvg-id="4500fce5c6dd8fd5e200637f5d2139ac",GolfHD True
+http://newhostshare.ddns.net:9981/stream/channelid/1711013957?profile=pass
+#EXTINF:-1 tvg-id="db01aed58bc7d20643914fe33a96c2ef",GROV
+http://newhostshare.ddns.net:9981/stream/channelid/1437467099?profile=pass
+#EXTINF:-1 tvg-id="35a825f6df11a977096c569d5ae79275",GROV
+http://newhostshare.ddns.net:9981/stream/channelid/1982179381?profile=pass
+#EXTINF:-1 tvg-id="9f141004e3a08f55ee17ee26daf42297",H2 HD
+http://newhostshare.ddns.net:9981/stream/channelid/68162719?profile=pass
+#EXTINF:-1 tvg-id="03d60f2833ecc794da6faf9128f21dd4",H2 HD
+http://newhostshare.ddns.net:9981/stream/channelid/672126467?profile=pass
+#EXTINF:-1 tvg-id="879872b319cf7d54e657e06bfe370052",H2 HD
+http://newhostshare.ddns.net:9981/stream/channelid/863148167?profile=pass
+#EXTINF:-1 tvg-id="fdda13653463cf5277850cd2f0714e42",H2 HD
+http://newhostshare.ddns.net:9981/stream/channelid/1695800061?profile=pass
+#EXTINF:-1 tvg-id="0bb38f021abc381e8eddd98d209a7fbe",H2 True
+http://newhostshare.ddns.net:9981/stream/channelid/42971915?profile=pass
+#EXTINF:-1 tvg-id="e97c237cfb962d53dfc742a1733c6638",HADAYA
+http://newhostshare.ddns.net:9981/stream/channelid/2082700521?profile=pass
+#EXTINF:-1 tvg-id="0a54e66b0b2eabbd3cedf9a70a3f0ac4",HBO
+http://newhostshare.ddns.net:9981/stream/channelid/1810256906?profile=pass
+#EXTINF:-1 tvg-id="d68253828f28fad613a3627365efb698",HBO HD
+http://newhostshare.ddns.net:9981/stream/channelid/39027414?profile=pass
+#EXTINF:-1 tvg-id="0f98369ea38f1f425c71c4cfa2f169ad",HBO HIT TH
+http://newhostshare.ddns.net:9981/stream/channelid/506894351?profile=pass
+#EXTINF:-1 tvg-id="cdad3c6c941e00381b9617d8a717e5dd",HBO TH
+http://newhostshare.ddns.net:9981/stream/channelid/1815915981?profile=pass
+#EXTINF:-1 tvg-id="8e8638d997231b48e2f67e1963102efa",HEALTH CHANNEL
+http://newhostshare.ddns.net:9981/stream/channelid/1496876686?profile=pass
+#EXTINF:-1 tvg-id="f9c61ab5b32e2e157056bd904aea5d49",HGTV
+http://newhostshare.ddns.net:9981/stream/channelid/890947321?profile=pass
+#EXTINF:-1 tvg-id="77e015d97f34d07433c025e7f0d06aab",HGTV
+http://newhostshare.ddns.net:9981/stream/channelid/1494605943?profile=pass
+#EXTINF:-1 tvg-id="e71d86817e27a1f718417d912e0245aa",HISTORY HD
+http://newhostshare.ddns.net:9981/stream/channelid/25566695?profile=pass
+#EXTINF:-1 tvg-id="643ebde4120adbeaa1ea158340f77486",History True
+http://newhostshare.ddns.net:9981/stream/channelid/1690123876?profile=pass
+#EXTINF:-1 tvg-id="0d1c1daddacbd4d45749eb21f23525c1",HITL
+http://newhostshare.ddns.net:9981/stream/channelid/756882445?profile=pass
+#EXTINF:-1 tvg-id="b7ad926c968eed2f685814b8ae4945a2",HITL
+http://newhostshare.ddns.net:9981/stream/channelid/1821552055?profile=pass
+#EXTINF:-1 tvg-id="cd54a8ea42028a65bf242e1cb13e1946",HLUTTAW
+http://newhostshare.ddns.net:9981/stream/channelid/1789416653?profile=pass
+#EXTINF:-1 tvg-id="cac7d3ab1ba4d23c252d148d91ed68fd",HOME CHANNEL
+http://newhostshare.ddns.net:9981/stream/channelid/735299530?profile=pass
+#EXTINF:-1 tvg-id="65d1af09c20ee1f75f4ab0f60bd388b9",INSE HD
+http://newhostshare.ddns.net:9981/stream/channelid/162517349?profile=pass
+#EXTINF:-1 tvg-id="baf6e11805509631ae444ab7fc2f9eed",INSE HD
+http://newhostshare.ddns.net:9981/stream/channelid/417461946?profile=pass
+#EXTINF:-1 tvg-id="073add56df503615b315e52eab1cf966",INSE HD
+http://newhostshare.ddns.net:9981/stream/channelid/1457338887?profile=pass
+#EXTINF:-1 tvg-id="f1e7e558041b5371e418567ed48b62d5",INSE HD
+http://newhostshare.ddns.net:9981/stream/channelid/1491462129?profile=pass
+#EXTINF:-1 tvg-id="16aa476845c06206077a9a73b3483aa1",INSE HD
+http://newhostshare.ddns.net:9981/stream/channelid/1749527062?profile=pass
+#EXTINF:-1 tvg-id="61cdad715421ead8800991197a99f77a",INSE HD
+http://newhostshare.ddns.net:9981/stream/channelid/1907215713?profile=pass
+#EXTINF:-1 tvg-id="fa5ed82d52ef24c1fcfe2aae45e072f7",INTERNATIONAL DRAMA HD
+http://newhostshare.ddns.net:9981/stream/channelid/769154810?profile=pass
+#EXTINF:-1 tvg-id="8cef92d0539a73790b286209fa1f5595",INTERNATIONAL DRAMA SD
+http://newhostshare.ddns.net:9981/stream/channelid/1351806860?profile=pass
+#EXTINF:-1 tvg-id="c00406cdd667be365883c9bb77fddf53",jasminchannel
+http://newhostshare.ddns.net:9981/stream/channelid/1292240064?profile=pass
+#EXTINF:-1 tvg-id="91310040b49df9404245670be5e31bb1",KM HD
+http://newhostshare.ddns.net:9981/stream/channelid/1073754513?profile=pass
+#EXTINF:-1 tvg-id="ce10a9d534d418b0bc2859c98ad2f5ce",KM HD
+http://newhostshare.ddns.net:9981/stream/channelid/1437143246?profile=pass
+#EXTINF:-1 tvg-id="403d9b5bddd4598d080872ff8f79e5e1",KM HD
+http://newhostshare.ddns.net:9981/stream/channelid/1536900416?profile=pass
+#EXTINF:-1 tvg-id="c659e662d7ee413f0dae6f9336489ad3",KM HD
+http://newhostshare.ddns.net:9981/stream/channelid/1659263430?profile=pass
+#EXTINF:-1 tvg-id="d31d4ea96991760ae96e5c89a65a92ef",LIFETIME
+http://newhostshare.ddns.net:9981/stream/channelid/692985299?profile=pass
+#EXTINF:-1 tvg-id="67e6725dd179716392d2764ecd57c75d",LiveSky 1 CSAT
+http://newhostshare.ddns.net:9981/stream/channelid/1567811175?profile=pass
+#EXTINF:-1 tvg-id="154a845eb91e998112caac564eaf1931",LiveSky2 CSAT
+http://newhostshare.ddns.net:9981/stream/channelid/1585728021?profile=pass
+#EXTINF:-1 tvg-id="0fd66e36e3f6e787c055cc393797e708",LiveSky3 CSAT
+http://newhostshare.ddns.net:9981/stream/channelid/913233423?profile=pass
+#EXTINF:-1 tvg-id="85dae3ccca4f60f550b8c07d465b5130",LiveSky4 CSAT
+http://newhostshare.ddns.net:9981/stream/channelid/1290001029?profile=pass
+#EXTINF:-1 tvg-id="a389680dbff5e722af6ad3f36cc6fe7c",LookthoongTV
+http://newhostshare.ddns.net:9981/stream/channelid/224954787?profile=pass
+#EXTINF:-1 tvg-id="026be45905e126f5c324e6750c48a7f1",MCOT HD
+http://newhostshare.ddns.net:9981/stream/channelid/1508141826?profile=pass
+#EXTINF:-1 tvg-id="abc7e37ae06b296bd4e13292689a95ae",MCOT HD
+http://newhostshare.ddns.net:9981/stream/channelid/2061748139?profile=pass
+#EXTINF:-1 tvg-id="53eab7ad2f984d173b5f366f5a963711",MCOTHD
+http://newhostshare.ddns.net:9981/stream/channelid/767027795?profile=pass
+#EXTINF:-1 tvg-id="8f3729c1e418bc77652aeffb35a5c492",MIR
+http://newhostshare.ddns.net:9981/stream/channelid/1093220239?profile=pass
+#EXTINF:-1 tvg-id="351c341218037698a089a03f1797886d",MITV
+http://newhostshare.ddns.net:9981/stream/channelid/305404981?profile=pass
+#EXTINF:-1 tvg-id="02f3680df2862178b99b88d20db34a0f",Mix Major
+http://newhostshare.ddns.net:9981/stream/channelid/224981762?profile=pass
+#EXTINF:-1 tvg-id="c3c39f53b19d595d077ffd898d6e0dc2",MNTV
+http://newhostshare.ddns.net:9981/stream/channelid/1402979267?profile=pass
+#EXTINF:-1 tvg-id="ef8bfe17e71bb94798d006118440bf8b",MONO PLUS HD
+http://newhostshare.ddns.net:9981/stream/channelid/402557935?profile=pass
+#EXTINF:-1 tvg-id="c1c3880b02787ddaa888b0a751c58f2d",MONO29
+http://newhostshare.ddns.net:9981/stream/channelid/193512385?profile=pass
+#EXTINF:-1 tvg-id="96351f044ae78bc8be83da266074c789",MONOPLUS+ DIGITAL TV
+http://newhostshare.ddns.net:9981/stream/channelid/69154198?profile=pass
+#EXTINF:-1 tvg-id="f82c8de7a6b5b4386f8f980f3a39c853",MOTORVISION
+http://newhostshare.ddns.net:9981/stream/channelid/1737305336?profile=pass
+#EXTINF:-1 tvg-id="61a836c261a45b546fecc5deb9908d50",Movies 1
+http://newhostshare.ddns.net:9981/stream/channelid/1110878305?profile=pass
+#EXTINF:-1 tvg-id="6184d9cfc2aa53c95b0ae85aa260c3dc",Movies2
+http://newhostshare.ddns.net:9981/stream/channelid/1339655265?profile=pass
+#EXTINF:-1 tvg-id="0224ca846c98fdbd09ead1bb8cd2dd8f",MRTV
+http://newhostshare.ddns.net:9981/stream/channelid/80356354?profile=pass
+#EXTINF:-1 tvg-id="e914bca3b7e5a59d7c27497ed3135e43",MTV CHINA
+http://newhostshare.ddns.net:9981/stream/channelid/599528681?profile=pass
+#EXTINF:-1 tvg-id="e2204cc3e85f40ca749ecd89dd7b9063",MTV LIVE HD
+http://newhostshare.ddns.net:9981/stream/channelid/1129062626?profile=pass
+#EXTINF:-1 tvg-id="8fcea3ffa93b144b7ca4266a2db2bf0b",MTV LIVE HD
+http://newhostshare.ddns.net:9981/stream/channelid/2141441679?profile=pass
+#EXTINF:-1 tvg-id="e0be250901fa0d483928703217bf3d8d",MTV SEA
+http://newhostshare.ddns.net:9981/stream/channelid/153468640?profile=pass
+#EXTINF:-1 tvg-id="aa01eac758b5202a85aec9479ab704d2",MVLAO
+http://newhostshare.ddns.net:9981/stream/channelid/1206518186?profile=pass
+#EXTINF:-1 tvg-id="a6e0a703ac5bfca79835e8e48e6d2ea5",MVSN
+http://newhostshare.ddns.net:9981/stream/channelid/61333670?profile=pass
+#EXTINF:-1 tvg-id="8684733a82b5a6cc641d9f5812a90562",MVSN
+http://newhostshare.ddns.net:9981/stream/channelid/980649094?profile=pass
+#EXTINF:-1 tvg-id="93b9a8b662f9bd94320c9f11a26c8050",MVTV75
+http://newhostshare.ddns.net:9981/stream/channelid/917027219?profile=pass
+#EXTINF:-1 tvg-id="a92097b713b4070f64c625a968c62e24",MWD
+http://newhostshare.ddns.net:9981/stream/channelid/932651177?profile=pass
+#EXTINF:-1 tvg-id="5759d32af41ee791eeea9c5a33c5b52d",MYANMAR ARTS
+http://newhostshare.ddns.net:9981/stream/channelid/718494039?profile=pass
+#EXTINF:-1 tvg-id="396642de205b14584d0106c54b047700",MYANMAR MOVIES
+http://newhostshare.ddns.net:9981/stream/channelid/1581409849?profile=pass
+#EXTINF:-1 tvg-id="ed44c279cdb3eedbd4479a31751de602",NAT GEO PEOPLE
+http://newhostshare.ddns.net:9981/stream/channelid/2042774765?profile=pass
+#EXTINF:-1 tvg-id="b92fbce7572511dcff37da2376713292",NAT GEO WILD
+http://newhostshare.ddns.net:9981/stream/channelid/1740386233?profile=pass
+#EXTINF:-1 tvg-id="bbf769ec0533c30e6b5b8ef6c9171f1d",NAT GEO WILD HD
+http://newhostshare.ddns.net:9981/stream/channelid/1818884027?profile=pass
+#EXTINF:-1 tvg-id="812e60fc0105ac448748e19b7392c57a",NAT GEO WILD HD
+http://newhostshare.ddns.net:9981/stream/channelid/2086678145?profile=pass
+#EXTINF:-1 tvg-id="5872183bdb46efbde20e929560e3fd6f",NATIONAL GEOGRAPHIC
+http://newhostshare.ddns.net:9981/stream/channelid/991457880?profile=pass
+#EXTINF:-1 tvg-id="e169afd2ca83b31124af9f0aca298c15",NATIONTV22 DIGITAL TV
+http://newhostshare.ddns.net:9981/stream/channelid/1387227617?profile=pass
+#EXTINF:-1 tvg-id="543ee749fd9ba4f9214fd22ddd363734",NBT HD
+http://newhostshare.ddns.net:9981/stream/channelid/1239891540?profile=pass
+#EXTINF:-1 tvg-id="87444e7b17c9b3352dc32f0bfa35a779",NEWTV DIGITAL TV
+http://newhostshare.ddns.net:9981/stream/channelid/2068726919?profile=pass
+#EXTINF:-1 tvg-id="845cb2301b81fee14319f9781da76985",NHK WORLD
+http://newhostshare.ddns.net:9981/stream/channelid/816995460?profile=pass
+#EXTINF:-1 tvg-id="ed301c69b10f27f654888c861f31a157",NHK WORLD PREMIUM
+http://newhostshare.ddns.net:9981/stream/channelid/1763455213?profile=pass
+#EXTINF:-1 tvg-id="711ad4e132bda07c92b789e0a6f9781d",NICKELODEON
+http://newhostshare.ddns.net:9981/stream/channelid/1641290353?profile=pass
+#EXTINF:-1 tvg-id="a144abd4918fe3b35564cd0e5d09302a",NICKJR
+http://newhostshare.ddns.net:9981/stream/channelid/1420510369?profile=pass
+#EXTINF:-1 tvg-id="62b80ad56ab7fa557e38f04d7a38a582",Olympic
+http://newhostshare.ddns.net:9981/stream/channelid/1426765922?profile=pass
+#EXTINF:-1 tvg-id="fae449529137e6692b658c34316356db",ONE NEWS
+http://newhostshare.ddns.net:9981/stream/channelid/1380574458?profile=pass
+#EXTINF:-1 tvg-id="487b73b9f269960084a84940594750f3",OSN Sport1
+http://newhostshare.ddns.net:9981/stream/channelid/963869512?profile=pass
+#EXTINF:-1 tvg-id="771a225b78b2335b32a67d2d7de9784f",PAY PER VIEWS HD 2
+http://newhostshare.ddns.net:9981/stream/channelid/1528961655?profile=pass
+#EXTINF:-1 tvg-id="b5492084ffc94f598127264a451311b2",PHOENIX INFO NEWS
+http://newhostshare.ddns.net:9981/stream/channelid/69224885?profile=pass
+#EXTINF:-1 tvg-id="03b3988e3d43d5602caa089313543aa1",POPA
+http://newhostshare.ddns.net:9981/stream/channelid/244888323?profile=pass
+#EXTINF:-1 tvg-id="3d4fab5cbd85790bd48729527f3e9905",POPA
+http://newhostshare.ddns.net:9981/stream/channelid/1554730813?profile=pass
+#EXTINF:-1 tvg-id="dd0737fb2e5372545b95fe03212d678d",PPTV HD
+http://newhostshare.ddns.net:9981/stream/channelid/2067204061?profile=pass
+#EXTINF:-1 tvg-id="7b616460b4b4f3914be3ddd50973649f",PPTV36 HD DIGITAL TV
+http://newhostshare.ddns.net:9981/stream/channelid/1617191291?profile=pass
+#EXTINF:-1 tvg-id="6e6bd8b82025c3a07f795a0e69ec8c37",Premier1
+http://newhostshare.ddns.net:9981/stream/channelid/953707374?profile=pass
+#EXTINF:-1 tvg-id="93ffea120340819bd45f6f2634d0e972",Premier2
+http://newhostshare.ddns.net:9981/stream/channelid/317390739?profile=pass
+#EXTINF:-1 tvg-id="f5b9a0a263989fd8406cae8ee67591ad",Premier3
+http://newhostshare.ddns.net:9981/stream/channelid/580958709?profile=pass
+#EXTINF:-1 tvg-id="aa30d856f1235d61d10bbaf8bc347042",PSI DIGITAl TV
+http://newhostshare.ddns.net:9981/stream/channelid/1457008810?profile=pass
+#EXTINF:-1 tvg-id="43d69a53e80b5409ecbcfa7a5722734a",PSI HD
+http://newhostshare.ddns.net:9981/stream/channelid/1402656323?profile=pass
+#EXTINF:-1 tvg-id="950fa4b05d16dd9729f034bcd0bf8122",R&B
+http://newhostshare.ddns.net:9981/stream/channelid/816058261?profile=pass
+#EXTINF:-1 tvg-id="812167775c0e8086b6ff46e767841392",R&B
+http://newhostshare.ddns.net:9981/stream/channelid/2003247489?profile=pass
+#EXTINF:-1 tvg-id="436e8666865ce25bf4e03e39bc6577f7",RED BY HBO
+http://newhostshare.ddns.net:9981/stream/channelid/1720086083?profile=pass
+#EXTINF:-1 tvg-id="1844363129bb248e64d72d0b9b1c92eb",REGION & STATE HLUTTAWS
+http://newhostshare.ddns.net:9981/stream/channelid/825639960?profile=pass
+#EXTINF:-1 tvg-id="30e9c1e2363dff1e04a7ab1fdfbc6d30",SBD TV
+http://newhostshare.ddns.net:9981/stream/channelid/1656875312?profile=pass
+#EXTINF:-1 tvg-id="840e78ee1141ef7b4a59904ab12ce6b4",SeriesHD IPM
+http://newhostshare.ddns.net:9981/stream/channelid/1853361796?profile=pass
+#EXTINF:-1 tvg-id="04b63687a209dd6c19827618653242bc",SHOPPING CHANNEL-1
+http://newhostshare.ddns.net:9981/stream/channelid/121026052?profile=pass
+#EXTINF:-1 tvg-id="501e206d6ab7a8ba3c6b40fedf435938",SHOPPING CHANNEL-2
+http://newhostshare.ddns.net:9981/stream/channelid/1830821456?profile=pass
+#EXTINF:-1 tvg-id="a600b6f367b27073b2e243660195ab49",SHWE FM 1
+http://newhostshare.ddns.net:9981/stream/channelid/1941307558?profile=pass
+#EXTINF:-1 tvg-id="4e1a22173f1ec52f11178937537fd6b5",SHWE FM 2
+http://newhostshare.ddns.net:9981/stream/channelid/388110926?profile=pass
+#EXTINF:-1 tvg-id="e866d21380e5856836940b3fe306258b",SICN HD
+http://newhostshare.ddns.net:9981/stream/channelid/332556008?profile=pass
+#EXTINF:-1 tvg-id="cef2042b2b43047dc192d4feb6f933a6",SICN HD
+http://newhostshare.ddns.net:9981/stream/channelid/721744590?profile=pass
+#EXTINF:-1 tvg-id="cc599adeff5451f245f2f86d76e6b904",SICN HD
+http://newhostshare.ddns.net:9981/stream/channelid/1587173836?profile=pass
+#EXTINF:-1 tvg-id="cc847ef43a9d04465826ce55e9582d2c",SICN HD
+http://newhostshare.ddns.net:9981/stream/channelid/1954448588?profile=pass
+#EXTINF:-1 tvg-id="92815877b8e8749b577147d34d4666b8",SKY SPORT SERIE A FHD
+http://newhostshare.ddns.net:9981/stream/channelid/2002289042?profile=pass
+#EXTINF:-1 tvg-id="b4ac61583c391c971ba1399861040b9e",SKYNET CARTOON
+http://newhostshare.ddns.net:9981/stream/channelid/1482796212?profile=pass
+#EXTINF:-1 tvg-id="220a2ff3ce9f76bb03ed16e08d4f8893",SKYNET CINEMA PAY PER VIEW
+http://newhostshare.ddns.net:9981/stream/channelid/1932462626?profile=pass
+#EXTINF:-1 tvg-id="466025981b71a32277f1c222c94db958",SKYNET INFO CHANNEL
+http://newhostshare.ddns.net:9981/stream/channelid/405102662?profile=pass
+#EXTINF:-1 tvg-id="20668799abf6cb7b0a094a62fc59a046",SKYNET KNOWLEDGE
+http://newhostshare.ddns.net:9981/stream/channelid/428303904?profile=pass
+#EXTINF:-1 tvg-id="d6eed79855637ec47f496a1ad9ba4545",SKYNET MUSIC
+http://newhostshare.ddns.net:9981/stream/channelid/416804566?profile=pass
+#EXTINF:-1 tvg-id="63ba6da074a89a5686121d989158e39f",SKYNET SD LIVE CHANNEL
+http://newhostshare.ddns.net:9981/stream/channelid/544062051?profile=pass
+#EXTINF:-1 tvg-id="d7d59230b60eeba54d6be29efddce510",SKYNET SPORTS 1
+http://newhostshare.ddns.net:9981/stream/channelid/814929367?profile=pass
+#EXTINF:-1 tvg-id="aaa1fac9546552b7a12f02d46ce1e1bb",SKYNET SPORTS 1
+http://newhostshare.ddns.net:9981/stream/channelid/1241162154?profile=pass
+#EXTINF:-1 tvg-id="3aeb0bd9f937b879dcc85068db23c8b8",SKYNET SPORTS 2
+http://newhostshare.ddns.net:9981/stream/channelid/1493953338?profile=pass
+#EXTINF:-1 tvg-id="0ec66c6edf7554d4708afc9a1b1d0b18",SKYNET SPORTS 2
+http://newhostshare.ddns.net:9981/stream/channelid/1852622350?profile=pass
+#EXTINF:-1 tvg-id="1c9d2d2a3df115c65125fd6f4f23c395",SKYNET SPORTS 3
+http://newhostshare.ddns.net:9981/stream/channelid/707632412?profile=pass
+#EXTINF:-1 tvg-id="38cc1bd09c2d0392e8ad0b5fee2602e2",SKYNET SPORTS 3
+http://newhostshare.ddns.net:9981/stream/channelid/1343999032?profile=pass
+#EXTINF:-1 tvg-id="00afd580a009b8ac03ad4afb795887ef",SKYNET SPORTS 4
+http://newhostshare.ddns.net:9981/stream/channelid/14003968?profile=pass
+#EXTINF:-1 tvg-id="c08838f0da2ffa874e2b4a6e8fe8ecbb",SKYNET SPORTS 4
+http://newhostshare.ddns.net:9981/stream/channelid/1882753216?profile=pass
+#EXTINF:-1 tvg-id="68c85e3ace0fb3d0652204e4563c133a",SKYNET SPORTS 5
+http://newhostshare.ddns.net:9981/stream/channelid/979290216?profile=pass
+#EXTINF:-1 tvg-id="664b5263c1ccb160ae3004dcc34957bd",SKYNET SPORTS 5
+http://newhostshare.ddns.net:9981/stream/channelid/1666337638?profile=pass
+#EXTINF:-1 tvg-id="ad271eeed932456c6e1ae66b1472391e",SKYNET SPORTS 6
+http://newhostshare.ddns.net:9981/stream/channelid/1847469997?profile=pass
+#EXTINF:-1 tvg-id="4a1e5efb77a32e79c3237de449f4d34f",SKYNET SPORTS 6
+http://newhostshare.ddns.net:9981/stream/channelid/2069765706?profile=pass
+#EXTINF:-1 tvg-id="c1b53275b2903ae5e24b7b16843668f4",SKYNET SPORTS HD
+http://newhostshare.ddns.net:9981/stream/channelid/1966257601?profile=pass
+#EXTINF:-1 tvg-id="68d401fa8fce51fc07c0a13795c8c6bd",SKYNET SPORTS HD
+http://newhostshare.ddns.net:9981/stream/channelid/2046940264?profile=pass
+#EXTINF:-1 tvg-id="ac225488fc6bba4132c185cbe3998522",SKYNET SPORTS PLUS
+http://newhostshare.ddns.net:9981/stream/channelid/139731628?profile=pass
+#EXTINF:-1 tvg-id="82aeaf46bc8bec5641e68b8633022e8e",SKYNET SPORTS PLUS
+http://newhostshare.ddns.net:9981/stream/channelid/1185918594?profile=pass
+#EXTINF:-1 tvg-id="ab8d3df940acef0dde2b256f19438e31",SKYNET TEEN
+http://newhostshare.ddns.net:9981/stream/channelid/2034077099?profile=pass
+#EXTINF:-1 tvg-id="6cbc8a330ef91055771f38d484002e34",SkySport Football
+http://newhostshare.ddns.net:9981/stream/channelid/864730220?profile=pass
+#EXTINF:-1 tvg-id="bcf943903ea076ed2cfa8ea832827df7",SkySport Premier
+http://newhostshare.ddns.net:9981/stream/channelid/272890300?profile=pass
+#EXTINF:-1 tvg-id="0a6631c0e27d288c48a8f485d9e30e66",SONY TEN1 HD
+http://newhostshare.ddns.net:9981/stream/channelid/1076979210?profile=pass
+#EXTINF:-1 tvg-id="6a759bf2cc3969b643d9ab26fb863314",SONY TEN2 HD
+http://newhostshare.ddns.net:9981/stream/channelid/1922790762?profile=pass
+#EXTINF:-1 tvg-id="4cf9483ce5fabf2fbd46d46e1e080cd8",SONY TEN3 HD
+http://newhostshare.ddns.net:9981/stream/channelid/1011415372?profile=pass
+#EXTINF:-1 tvg-id="ff2b334a6800425d963b33b56155b218",STAR CHINESE CHANNEL
+http://newhostshare.ddns.net:9981/stream/channelid/1244867583?profile=pass
+#EXTINF:-1 tvg-id="94d0725123f10a52d811ab2a5ac299be",STAR CHINESE MOVIES
+http://newhostshare.ddns.net:9981/stream/channelid/1366478996?profile=pass
+#EXTINF:-1 tvg-id="dcfca8f9680efc930c7e448865327429",Star Sport 1 HD Eng
+http://newhostshare.ddns.net:9981/stream/channelid/2041117916?profile=pass
+#EXTINF:-1 tvg-id="a81b1d8b9dd5796bbdf2ad4b1781f241",SUN TV
+http://newhostshare.ddns.net:9981/stream/channelid/186457000?profile=pass
+#EXTINF:-1 tvg-id="c9da484ac2b246f1c0ce10cbf892f489",SUPER SPORT1 HD AF
+http://newhostshare.ddns.net:9981/stream/channelid/1246288585?profile=pass
+#EXTINF:-1 tvg-id="9f4186f17114c0df1bf2aa4884f30970",SUPER SPORT10 HD AF
+http://newhostshare.ddns.net:9981/stream/channelid/1904624031?profile=pass
+#EXTINF:-1 tvg-id="9197f1be38c964e8e65d090c05c4a15e",SUPER SPORT11 HD AF
+http://newhostshare.ddns.net:9981/stream/channelid/1056020369?profile=pass
+#EXTINF:-1 tvg-id="a9c9601287d2068c5f6a0d86f7255c43",SUPER SPORT12 HD AF
+http://newhostshare.ddns.net:9981/stream/channelid/308332969?profile=pass
+#EXTINF:-1 tvg-id="9add50ebfd301eb435a9f58183f52f68",SUPER SPORT2 HD AF
+http://newhostshare.ddns.net:9981/stream/channelid/1800461722?profile=pass
+#EXTINF:-1 tvg-id="cfa5307315a7ddde128c012b4c4465e0",SUPER SPORT3 HD AF
+http://newhostshare.ddns.net:9981/stream/channelid/1932568015?profile=pass
+#EXTINF:-1 tvg-id="f122dd9b47183beba99156ab34483523",SUPER SPORT4 HD AF
+http://newhostshare.ddns.net:9981/stream/channelid/467477233?profile=pass
+#EXTINF:-1 tvg-id="7e3b3dca515abcef8f3b7b0a9b9e0be4",SUPER SPORT5 HD AF
+http://newhostshare.ddns.net:9981/stream/channelid/1245526910?profile=pass
+#EXTINF:-1 tvg-id="a329e436e0fe3048873d14b787e7e7a4",SUPER SPORT6 HD AF
+http://newhostshare.ddns.net:9981/stream/channelid/920922531?profile=pass
+#EXTINF:-1 tvg-id="9153448f59eae7acd2521214b96932a4",SUPER SPORT7 HD AF
+http://newhostshare.ddns.net:9981/stream/channelid/256136081?profile=pass
+#EXTINF:-1 tvg-id="c373fd0fccb1ace3101b19f59036160c",SUPER SPORT8 HD AF
+http://newhostshare.ddns.net:9981/stream/channelid/268268483?profile=pass
+#EXTINF:-1 tvg-id="fc801d0f94358826c6cf87723de83784",TENNIS
+http://newhostshare.ddns.net:9981/stream/channelid/253591804?profile=pass
+#EXTINF:-1 tvg-id="01ac8af5b1a369a038a07e17bc1eafb8",THAI PBS HD DIGITAL TV
+http://newhostshare.ddns.net:9981/stream/channelid/1972022273?profile=pass
+#EXTINF:-1 tvg-id="2778defe65ac09f19440551c52f83f7b",Thairat HD
+http://newhostshare.ddns.net:9981/stream/channelid/2128508967?profile=pass
+#EXTINF:-1 tvg-id="6ccf4fc05edc2ab36b61e9446df4dbe0",TINE YIN THAR CHANNEL
+http://newhostshare.ddns.net:9981/stream/channelid/1078972268?profile=pass
+#EXTINF:-1 tvg-id="e07a1d09df64038471fb23f297f4103c",TLC
+http://newhostshare.ddns.net:9981/stream/channelid/152926944?profile=pass
+#EXTINF:-1 tvg-id="8b486d7f068c380608393f34bca45585",TNN16 DIGITAL TV
+http://newhostshare.ddns.net:9981/stream/channelid/2137868427?profile=pass
+#EXTINF:-1 tvg-id="b58455aa44e829a6eb10a2ff50146209",TPF HD1
+http://newhostshare.ddns.net:9981/stream/channelid/710247605?profile=pass
+#EXTINF:-1 tvg-id="7f3e86d40113d550ed88f2eb38199c44",TPF HD1
+http://newhostshare.ddns.net:9981/stream/channelid/1418083967?profile=pass
+#EXTINF:-1 tvg-id="3af6a7d00b3538885a84b295a434e1d4",TPTV
+http://newhostshare.ddns.net:9981/stream/channelid/1353184826?profile=pass
+#EXTINF:-1 tvg-id="5d02a035ccc73a79f513600517dc2352",True Tennis HD
+http://newhostshare.ddns.net:9981/stream/channelid/899678813?profile=pass
+#EXTINF:-1 tvg-id="a72393c68e8c1cf7915f694387564f5d",TRUE4U
+http://newhostshare.ddns.net:9981/stream/channelid/1184048039?profile=pass
+#EXTINF:-1 tvg-id="1dfa9a553e1b7ae7c5f97efc360fb2fe",TrueGolf HD
+http://newhostshare.ddns.net:9981/stream/channelid/1436219933?profile=pass
+#EXTINF:-1 tvg-id="d5f6113c9f13f189391d860ada820930",TrueNBA HD
+http://newhostshare.ddns.net:9981/stream/channelid/1007810261?profile=pass
+#EXTINF:-1 tvg-id="82978f5aa656ad2de1ebcc1b2136d578",TrueSport HD
+http://newhostshare.ddns.net:9981/stream/channelid/1519359874?profile=pass
+#EXTINF:-1 tvg-id="e09c1d9241cd35fb3939fccf8dfb2282",TrueSport HD2
+http://newhostshare.ddns.net:9981/stream/channelid/303930592?profile=pass
+#EXTINF:-1 tvg-id="9906493402e5ffdd7be3dab6bbfd031b",TrueSport HD3
+http://newhostshare.ddns.net:9981/stream/channelid/877201049?profile=pass
+#EXTINF:-1 tvg-id="63429eef0174f8eebbc0073ca7881a40",TrueSport2 SD
+http://newhostshare.ddns.net:9981/stream/channelid/1872642659?profile=pass
+#EXTINF:-1 tvg-id="1a79f0c6c48f7237303be1dd86806428",TrueSport5 SD
+http://newhostshare.ddns.net:9981/stream/channelid/1190164762?profile=pass
+#EXTINF:-1 tvg-id="e6454a5440fc83cff710aa6998708bdf",TrueSport6 SD
+http://newhostshare.ddns.net:9981/stream/channelid/1414153702?profile=pass
+#EXTINF:-1 tvg-id="f7171280fcedab610dd06109fb313dc2",TrueSport7 SD
+http://newhostshare.ddns.net:9981/stream/channelid/1185783?profile=pass
+#EXTINF:-1 tvg-id="7ccf65869e875ea427074c9c5f2125aa",TV4 Movies
+http://newhostshare.ddns.net:9981/stream/channelid/107335548?profile=pass
+#EXTINF:-1 tvg-id="27920fe1b4f2c8889f98eca852558dae",TVB HD
+http://newhostshare.ddns.net:9981/stream/channelid/1628410407?profile=pass
+#EXTINF:-1 tvg-id="a5d18a2dda52ac91aa180d78899ae9b2",TVN
+http://newhostshare.ddns.net:9981/stream/channelid/764072357?profile=pass
+#EXTINF:-1 tvg-id="360642244e56dafbf7e060f27ffc9b34",UNIVERSAL
+http://newhostshare.ddns.net:9981/stream/channelid/608306742?profile=pass
+#EXTINF:-1 tvg-id="599cf847bee07dcd1e3ffe501c3344e6",UP TO DATE
+http://newhostshare.ddns.net:9981/stream/channelid/1207475289?profile=pass
+#EXTINF:-1 tvg-id="dd0c91ca0d42223ed31ddb369f41333f",UP1 Movies
+http://newhostshare.ddns.net:9981/stream/channelid/1251019997?profile=pass
+#EXTINF:-1 tvg-id="8f23313fd2f4ce831410ab7aaddf65ae",V2H 2TV DIGITAL TV
+http://newhostshare.ddns.net:9981/stream/channelid/1060184975?profile=pass
+
+#EXTINF:-1 tvg-id="2635c3da516178b847e145c1340a3885",WB True
+http://newhostshare.ddns.net:9981/stream/channelid/1522742566?profile=pass
+#EXTINF:-1 tvg-id="a36950765e810b348925ef2bedafc7b3",WorkPoint
+http://newhostshare.ddns.net:9981/stream/channelid/1984981411?profile=pass
+#EXTINF:-1 tvg-id="8d9a70841bb65ac60fb1f5f8763fabb3",WORKPOINT23 HD DIGITAL TV
+http://newhostshare.ddns.net:9981/stream/channelid/74488461?profile=pass
+#EXTINF:-1 tvg-id="3605f53740a72d22765bff303f184d65",WORLD DRAMA
+http://newhostshare.ddns.net:9981/stream/channelid/938804534?profile=pass
+#EXTINF:-1 tvg-id="2dccf555bfc5e3fc3c2ea4cea7b5a87d",WORLD MOVIES HD
+http://newhostshare.ddns.net:9981/stream/channelid/1442171949?profile=pass
+#EXTINF:-1 tvg-id="1f77fe6a76595f9e6a202a43078a8892",WORLD MOVIES SD
+http://newhostshare.ddns.net:9981/stream/channelid/1795061535?profile=pass
+#EXTINF:-1 tvg-id="3549c9350dc6f94d88d1b1a234aeebea",XZYT HD
+http://newhostshare.ddns.net:9981/stream/channelid/902383925?profile=pass
+#EXTINF:-1 tvg-id="8896a43af787089dfa55d941ac2fc539",XZYT HD
+http://newhostshare.ddns.net:9981/stream/channelid/983864968?profile=pass
+#EXTINF:-1 tvg-id="be2113c7d9f1306488faec0628527776",XZYT HD
+http://newhostshare.ddns.net:9981/stream/channelid/1192436158?profile=pass
+#EXTINF:-1 tvg-id="3548b5cf7307b309181a6d38dedd11d6",XZYT HD
+http://newhostshare.ddns.net:9981/stream/channelid/1337280565?profile=pass
+#EXTINF:-1 tvg-id="e8a3bc5e723dcb2b4c388e1410fb70c4",XZYT HD
+http://newhostshare.ddns.net:9981/stream/channelid/1589421032?profile=pass
+#EXTINF:-1 tvg-id="a82d2df831b8e901d5623e72a26ef45e",XZYT HD
+http://newhostshare.ddns.net:9981/stream/channelid/2016226728?profile=pass
+#EXTINF:-1 tvg-id="b090347044d87a133af7756c03bdc746",ZEE CINEMA
+http://newhostshare.ddns.net:9981/stream/channelid/1882493104?profile=pass
+#EXTINF:-1 tvg-id="de8c05c5cbc1251ab9c0481c8e3afe6d",ZEE TV
+http://newhostshare.ddns.net:9981/stream/channelid/1157991646?profile=pass
+#EXTINF:-1 tvg-id="4ae5b64cc35f1e908ade72133a95e227",ZeeNung
+http://newhostshare.ddns.net:9981/stream/channelid/1287054666?profile=pass
+#EXTINF:-1 tvg-id="6f660a485d727e7bcdd2e9e0f38d58a3" group-title="newhost",ZING
+http://newhostshare.ddns.net:9981/stream/channelid/1208641135?profile=pass
 
  group-title="newhost/off",Astro1 //newhost
 http://newhostshare.ddns.net:9981/stream/service/10d545655dad06a8ce22f2a9becde561
