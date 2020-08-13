@@ -1211,7 +1211,7 @@ https://104.248.152.125/hd-kbsworld_720/index.m3u8
 
 https://104.248.152.125/hd-mcot_720/index.m3u8
 https://104.248.152.125/hd-mono_480/index.m3u8
-#EXTINF:-1, mtvlive |104.248
+#EXTINF:-1, mtv live |104.248
 https://104.248.152.125/hd-mtvlive_720/index.m3u8
 
 https://104.248.152.125/hd-natgeo_720/index.m3u8
@@ -1220,6 +1220,9 @@ https://104.248.152.125/hd-natgeowild_720/index.m3u8
 https://104.248.152.125/hd-nba_720/index.m3u8
 https://104.248.152.125/hd-nfl_720/index.m3u8
 https://104.248.152.125/hd-pptv_720/index.m3u8
+#EXTINF:-1, star chinese |104.248
+https://104.248.152.125/hd-starchinese_720/index.m3u8
+
 https://104.248.152.125/hd-tennis_720/index.m3u8
 https://104.248.152.125/hd-tfilm2_720/index.m3u8
 https://104.248.152.125/hd-tfilm_720/index.m3u8
@@ -1428,6 +1431,9 @@ http://139.99.17.52:8081/liveorigin/hd-history_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-natgeowild_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-nba_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-nfl_720/playlist.m3u8
+#EXTINF:-1,star chinese |139.99
+http://139.99.17.52:8081/liveorigin/hd-starchinese_720/playlist.m3u8
+
 http://139.99.17.52:8081/liveorigin/hd-tennis_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-tfilm_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-tsport1_720/playlist.m3u8
@@ -1481,23 +1487,23 @@ http://139.99.17.52:8081/liveorigin/uk-skysports-news_480/playlist.m3u8
 
 + + + + + 145.239.255.4:8080 + + + + +
 
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" group-title="145.239",bbcnews HD |145
+ tvg-id="BBCWorldNews.uk" group-title="145.239",bbcnews HD |145
 http://145.239.255.4:8080/bbcnews/mono.m3u8?token=test
-#EXTINF:-1,CNN HD |145
+,CNN HD |145
 http://145.239.255.4:8080/en-CNN-HD/mono.m3u8?token=test
-#EXTINF:-1,MTV Hits |145
+,MTV Hits |145
 http://145.239.255.4:8080/MTVH/mono.m3u8?token=test
-#EXTINF:-1,Sky Movies Action |145
+,Sky Movies Action |145
 http://145.239.255.4:8080/SkyAction/mono.m3u8?token=test
-#EXTINF:-1,Sky Movies Comedy |145
+,Sky Movies Comedy |145
 http://145.239.255.4:8080/SkyComedy/mono.m3u8?token=test
-#EXTINF:-1,Sky Movies Disney |145
+,Sky Movies Disney |145
 http://145.239.255.4:8080/SkyDisney/mono.m3u8?token=test
-#EXTINF:-1,Sky Movies Premiere |145
+,Sky Movies Premiere |145
 http://145.239.255.4:8080/SkyPremiere/mono.m3u8?token=test
-#EXTINF:-1,Sony Movies |145 
+,Sony Movies |145 
 http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
-#EXTINF:-1 group-title="145.239",TCM |145 
+group-title="145.239",TCM |145 
 http://145.239.255.4:8080/TCMUK/mono.m3u8?token=test
 
 + + + + + 160.119.77.50 + + + + + 
@@ -2193,6 +2199,9 @@ https://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-pptv_720/index.m3u8
+#EXTINF:-1, star chinese |doofree88
+https://cdn-laos.workpoint.news/hd-starchinese_720/index.m3u8
+
 https://cdn-laos.workpoint.news/hd-tennis_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-tfilm2_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-tfilm_720/index.m3u8
@@ -2967,6 +2976,9 @@ https://doomovielive.b-cdn.net/hd-natgeowild_720/index.m3u8
 https://doomovielive.b-cdn.net/hd-nba_720/index.m3u8
 https://doomovielive.b-cdn.net/hd-nfl_720/index.m3u8
 https://doomovielive.b-cdn.net/hd-pptv_720/index.m3u8
+#EXTINF:-1,star chinese |doomovie
+https://doomovielive.b-cdn.net/hd-starchinese_720/index.m3u8
+
 https://doomovielive.b-cdn.net/hd-tennis_720/index.m3u8
 https://doomovielive.b-cdn.net/hd-tfilm2_720/index.m3u8
 https://doomovielive.b-cdn.net/hd-tfilm_720/index.m3u8
@@ -2977,7 +2989,9 @@ https://doomovielive.b-cdn.net/hd-tsport2_720/index.m3u8
 https://doomovielive.b-cdn.net/hd-tsport3_720/index.m3u8
 https://doomovielive.b-cdn.net/hd-tsport4_720/index.m3u8
 https://doomovielive.b-cdn.net/hd-tvn_480/index.m3u8
+#EXTINF:-1,Warner TV |doomovie
 https://doomovielive.b-cdn.net/hd-warnertv_720/index.m3u8
+
 https://doomovielive.b-cdn.net/hd-workpoint_480/index.m3u8
 https://doomovielive.b-cdn.net/hd-xzyte_720/index.m3u8
 #EXTINF:-1,asp 1hd |doomovie
@@ -3574,10 +3588,10 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/40.ts
 http://doo2you.com/tv/WE-PlAY-axn-hd.php
 http://doo2you.com/tv/WE-PlAY-BEIN-SPORT-1.php
 
-#EXTINF:-1 group-title="TH/we-play", bein1 /we-play
+ group-title="TH/we-play", bein1 /we-play
 https://live.we-play.tv/live/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjAgMzoyMzowMyBBTSZoYXNoX3ZhbHVlPUExQ29TQjRZZU50cTFTL0M3SXQwQmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 http://doo2you.com/tv/WE-PlAY-BEIN-SPORT-2.php
-#EXTINF:-1, bein2 /we-play
+, bein2 /we-play
 https://live.we-play.tv/live/bein2/playlist.m3u8
 
 http://doo2you.com/tv/WE-PlAY-blueant-entertainment.php
@@ -3599,9 +3613,9 @@ http://doo2you.com/tv/WE-PlAY-Golf-Channel-Thailand-HD.php
 http://doo2you.com/tv/WE-PlAY-hbo-family.php
 https://live.we-play.tv/live/hbo-fam/playlist.m3u8
 http://doo2you.com/tv/WE-PlAY-hbo-hd.php
-#EXTINF:-1, hbo hd /we-play
+, hbo hd /we-play
 https://player.we-play.tv/channel.php?name=hbo-hd
-#EXTINF:-1, hbo hd //we-play
+, hbo hd //we-play
 https://live.we-play.tv/live/hbo-hd/playlist.m3u8?wmsAuthSign=
 
 http://doo2you.com/tv/WE-PlAY-hbo-hit.php
@@ -3647,7 +3661,7 @@ http://doo2you.com/tv/WE-PlAY-true-sport-hd-4.php
 http://doo2you.com/tv/WE-PlAY-true-sport-hd.php
 http://doo2you.com/tv/WE-PlAY-true-tennis-hd.php
 http://doo2you.com/tv/WE-PlAY-warner-tv.php
-#EXTINF:-1 group-title="TH/we-play", warner /we-play
+ group-title="TH/we-play", warner /we-play
 https://live.we-play.tv/live/warner/playlist.m3u8
 
 http://doo2you.com/tv/WE-PlAY-astro-supersport-1.php
@@ -3767,6 +3781,7 @@ https://live.vvipscore.com/vvipscore_app/lovenature/playlist.m3u8
 
 #EXTINF:-1 group-title="doomovie",truesports HD 1 |doomovie'
 https://livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+
 https://livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
 https://livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
 https://livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
@@ -3779,6 +3794,7 @@ https://livedoomovies.com/02_AMARINHD_720p/chunklist.m3u8
 https://livedoomovies.com/02_AND_TV_720p/chunklist.m3u8
 #EXTINF:-1,ANIMAL PLANET |doomovie'
 https://livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+
 https://livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 https://livedoomovies.com/02_Baby_TV_HD_720p/chunklist.m3u8
 https://livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
@@ -3787,40 +3803,48 @@ https://livedoomovies.com/02_Boomerang_720p/chunklist.m3u8
 https://livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1,BT SPORT HD 2 |doomovie'
 https://livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
 https://livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
 #EXTINF:-1,CCM |doomovie'
 https://livedoomovies.com/02_CCM_720p/chunklist.m3u8
+
 https://livedoomovies.com/02_CH3FAMILY_480p/chunklist.m3u8
 https://livedoomovies.com/02_CH3SD_480p/chunklist.m3u8
 #EXTINF:-1,Channel V |doomovie'
 https://livedoomovies.com/02_Channel_V_720p/chunklist.m3u8
 #EXTINF:-1,CNN |doomovie'
 https://livedoomovies.com/02_CNN_720p/chunklist.m3u8
+
 https://livedoomovies.com/02_Comedy_HD_720p/chunklist.m3u8
 #EXTINF:-1,Discovery Channel |doomovie'
 https://livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
 #EXTINF:-1,Discovery HD World |doomovie'
 https://livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1,Discovery Science |doomovie'
-https://livedoomovies.com/02_DiscoveryScience/chunklist.m3u8 
+https://livedoomovies.com/02_DiscoveryScience/chunklist.m3u8
+ 
 https://livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 1", BEIN SPORT HD 1 |doomovie'
 https://livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 2", BEIN SPORT HD 2 |doomovie'
 https://livedoomovies.com/02_epl2_720p/chunklist.m3u8
+
 https://livedoomovies.com/02_FANMUSICHD_720p/chunklist.m3u8
 https://livedoomovies.com/02_FOX_Life_720p/chunklist.m3u8
 https://livedoomovies.com/02_FOX_Life_HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Fox Action Movies HD",Fox Action Movies HD |doomovie'
 https://livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
+
 https://livedoomovies.com/02_FoxActionHD_TH_720p/chunklist.m3u8
 https://livedoomovies.com/02_FoxCrimeHD_720p/chunklist.m3u8
 https://livedoomovies.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="FOX Family Movies HD",Fox Family Movies HD MM |doomovie'
 https://livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8
+
 https://livedoomovies.com/02_FoxFamilyHD_TH_720p/Chunklist.m3u8
 #EXTINF:-1 tvg-id="FOX Movies HD",Fox Movies HD MM |doomovie'
 https://livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+
 https://livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
 https://livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 https://livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
@@ -3840,6 +3864,7 @@ https://livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 https://livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1,HBO Signature |doomovie'
 https://livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
+
 https://livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
 https://livedoomovies.com/02_KIX_Thailand_720p/chunklist.m3u8
 https://livedoomovies.com/02_MANGORN_720p/chunklist.m3u8
@@ -3855,6 +3880,7 @@ https://livedoomovies.com/02_MTV_Asia_720p/Chunklist.m3u8
 https://livedoomovies.com/02_MTV_China_720p/chunklist.m3u8
 #EXTINF:-1,MTV Live HD |doomovie'
 https://livedoomovies.com/02_MTV_Live_HD_720p/chunklist.m3u8
+
 https://livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
 https://livedoomovies.com/02_NatGeoHD_720p/chunklist.m3u8
 https://livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
@@ -3869,20 +3895,24 @@ https://livedoomovies.com/02_NFLNetwork_720p/chunklist.m3u8
 https://livedoomovies.com/02_NHANG_DUNK_720p/chunklist.m3u8
 #EXTINF:-1,NHK WORLD TV |doomovie'
 https://livedoomovies.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
+
 https://livedoomovies.com/02_Nick_Jr_720p/chunklist.m3u8
 https://livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |doomovie'
 https://livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |doomovie'
 https://livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+
 https://livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 https://livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 https://livedoomovies.com/02_PremierHD5_720p/Chunklist.m3u8
 #EXTINF:-1,Red by HBO |doomovie'
 https://livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
+
 https://livedoomovies.com/02_SabaideeTV_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SCM HD",Star chinese Movies |doomovie' /ER
 https://livedoomovies.com/02_SCM_720p/chunklist.m3u8
+
 https://livedoomovies.com/02_SMM_TV_480p/chunklist.m3u8
 https://livedoomovies.com/02_sport2_480p/chunklist.m3u8
 https://livedoomovies.com/02_sport5_480p/chunklist .m3u8
@@ -3906,6 +3936,7 @@ https://livedoomovies.com/02_TrueFilmHD2_720p/chunklist.m3u8
 https://livedoomovies.com/02_VOICE_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="WarnerTV HD",WarnerTV HD |doomovie'
 https://livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+
 https://livedoomovies.com/02_Wish_Channel_720p/chunklist.m3u8
 https://livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Zee Cinema",ZEE Cinema |doomovie'
@@ -3916,6 +3947,7 @@ https://livedoomovies.com/02_Zee_Nung_720p/chunklist.m3u8
 https://livedoomovies.com/02_Zee_TV_720p/chunklist.m3u8
 #EXTINF:-1,SKYNET SPORTS 1 |doomovie'
 https://livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
+
 https://livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
 https://livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
 https://livedoomovies.com/03_skynetsport4_480p/Chunklist.m3u8
@@ -4421,7 +4453,6 @@ http://tv-cdn.ihub.live:8080/StarPlusHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zee Cinema" group-title="IN/ihub",Zee Cinema
 http://tv-cdn.ihub.live:8080/ZeeCinema/tracks-v1a1/mono.m3u8
 
-
 + + + + + + + + + + +
 
  group-title="tv4/chang55-1",1 OFF
@@ -4883,6 +4914,9 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-nfl/liveorigin/hd-nf
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-paramount/liveorigin/hd-paramount_720/chunks.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-pptv/liveorigin/hd-pptv_1080/chunks.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-rtlcbs/liveorigin/hd-rtlcbs_720/chunks.m3u8
+#EXTINF:-1,star chinese |wwtv
+https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-starchinese/liveorigin/hd-starchinese_720/chunks.m3u8
+
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-tennis/liveorigin/hd-tennis_720/chunks.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-tfilm/liveorigin/hd-tfilm_1080/chunks.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-tpbs/liveorigin/hd-tpbs_720/chunks.m3u8
@@ -4986,8 +5020,6 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/uk-skysports-golf/liveo
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/uk-skysports-mainevent/liveorigin/uk-skysports-mainevent_720/playlist.m3u8
 #EXTINF:-1 group-title="worldwidetv",skysports-mix |wwtv
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/uk-skysports-mix/liveorigin/uk-skysports-mix_480/playlist.m3u8
-
-
 
 + + + + + http://www.iamntp.com/tv/ + + + + +
 
@@ -5181,6 +5213,7 @@ https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
 https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 
 + + + + + + + + + +
+
 #EXTINF:-1 group-title="IN/y5",& Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,& Prive
@@ -5189,7 +5222,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="IN/y5",ZEE Cafe
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-
 
 #EXTINF:-1 group-title="IN/z5",& TV HD
 http://z5amshls.akamaized.net/andtvhd/tracks-v1a1/playlist.m3u8
