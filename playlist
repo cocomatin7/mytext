@@ -978,7 +978,7 @@ http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
 #EXTINF:-1 group-title="IN/87.117",StarSports 2FHD
 http://87.117.234.107:1935/live/StarSports2FHD/index.m3u8
 
-+ + + + + + + + + + 
++ + + + + 103.22.182.242:8081 + + + + + 
 
 http://103.22.182.242:8081/app/amarintv/chunks.m3u8
 #EXTINF:-1 tvg-id="Astro SuperSport" group-title="103.22",astro1 |103.22
@@ -1001,19 +1001,27 @@ http://103.22.182.242:8081/app/skynet1/chunks.m3u8
 http://103.22.182.242:8081/app/skynet2/chunks.m3u8
 http://103.22.182.242:8081/app/skynet3/chunks.m3u8
 http://103.22.182.242:8081/app/skynet4/chunks.m3u8
+#EXTINF:-1,skynet sports 5 |103.22
 http://103.22.182.242:8081/app/skynet5/chunks.m3u8
+#EXTINF:-1,skynet sports 6 |103.22
 http://103.22.182.242:8081/app/skynet6/chunks.m3u8
-#EXTINF:-1 group-title="103.22",skynet sports hd |103.22
+#EXTINF:-1,skynet sports hd |103.22
 http://103.22.182.242:8081/app/skynethd/chunks.m3u8
+
 http://103.22.182.242:8081/app/thairathtv/chunks.m3u8
 http://103.22.182.242:8081/app/thd1/chunks.m3u8
 http://103.22.182.242:8081/app/thd2/chunks.m3u8
 http://103.22.182.242:8081/app/thd3/chunks.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",  True Premiere Football 1 |103.22
 http://103.22.182.242:8081/app/tpf1/chunks.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",  True Premiere Football 2 |103.22
 http://103.22.182.242:8081/app/tpf2/chunks.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3",  True Premiere Football 3 |103.22
 http://103.22.182.242:8081/app/tpf3/chunks.m3u8
+
 http://103.22.182.242:8081/app/tpf4/chunks.m3u8
 http://103.22.182.242:8081/app/tpf5/chunks.m3u8
+#EXTINF:-1 group-title="103.22",workpoint |103.22
 http://103.22.182.242:8081/app/workpoint/chunks.m3u8
 
 + + + + + + + + + +
@@ -1085,7 +1093,7 @@ http://103.141.66.36/bpk-tv/10180/default/index.m3u8
 #EXTINF:-1 group-title="IN/103.141", MTV
 http://103.141.66.36/bpk-tv/10110/default/index.m3u8
 
-+ + + + + + + + + + 
++ + + + + 103.208.24.234:1935 + + + + + 
 
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="TH/130", True Premiere Football 1 |103
 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
@@ -1146,14 +1154,14 @@ http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1 tvg-id="Zee TV" group-title="IN/103.214", zee tv
 http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 
-+ + + + + + + + + +
++ + + + + 104.248.152.125 + + + + +
 
 https://104.248.152.125/al-supersports1_480/index.m3u8
 https://104.248.152.125/al-supersports2_480/index.m3u8
 https://104.248.152.125/al-supersports3_480/index.m3u8
 https://104.248.152.125/al-supersports4_480/index.m3u8
 https://104.248.152.125/al-supersports5_480/index.m3u8
-#EXTINF:-1, EPL beIN 1 |104.248
+#EXTINF:-1 group-title="TH/104.248", EPL beIN 1 |104.248
 https://104.248.152.125/epl-bein1_720/index.m3u8
 #EXTINF:-1, EPL beIN 2 |104.248
 https://104.248.152.125/epl-bein2_720/index.m3u8
@@ -1326,7 +1334,7 @@ https://104.248.152.125/sd-znung_480/index.m3u8
 https://104.248.152.125/uk-btsport1hd_720/index.m3u8
 #EXTINF:-1, uk-btsport 2hd |104.248
 https://104.248.152.125/uk-btsport2hd_720/index.m3u8
-#EXTINF:-1 group-title="TH/104.248", CNN |104.248
+#EXTINF:-1, CNN |104.248
 https://104.248.152.125/uk-cnn_480/index.m3u8
 
 https://104.248.152.125/uk-eurosport2_480/index.m3u8
@@ -1390,14 +1398,15 @@ http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2bae
 http://119.59.125.74/stream/totnew.php?channel_id=b254601a75724ad79e2633f3d307e331
 http://119.59.125.74/stream/totnew.php?channel_id=443ea6ef1768462aaffdff38ce2a4355
 
-+ + + + + + + + + +
++ + + + + 139.99.17.52:8081 + + + + +
 
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="139.99",True Premiere Football HD1 |139.99
 http://139.99.17.52:8081/liveorigin/epl-1_720/playlist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2" group-title="139.99",True Premiere Football HD2 |139.99
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |139.99
 http://139.99.17.52:8081/liveorigin/epl-2_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/epl-3_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/epl-4_720/playlist.m3u8
+
 #EXTINF:-1,epl bein 1 |139.99
 http://139.99.17.52:8081/liveorigin/epl-bein1_720/playlist.m3u8
 #EXTINF:-1,epl bein 2 |139.99
@@ -1411,6 +1420,7 @@ http://139.99.17.52:8081/liveorigin/hd-fox_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-foxaction_720/playlist.m3u8
 #EXTINF:-1,fox premium |139.99
 http://139.99.17.52:8081/liveorigin/hd-foxpremium_720/playlist.m3u8
+
 http://139.99.17.52:8081/liveorigin/hd-foxsports1_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-golf_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-history2_720/playlist.m3u8
@@ -1425,7 +1435,6 @@ http://139.99.17.52:8081/liveorigin/hd-tsport2_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-tsport3_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-tsport4_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-xzyte_720/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/hd-xzyte_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/rs-arena1_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/rs-arena2_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/rs-arena3_480/playlist.m3u8
@@ -1439,16 +1448,22 @@ http://139.99.17.52:8081/liveorigin/sd-expsci_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-expwild_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-foxsports2_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-foxsports3_480/playlist.m3u8
+#EXTINF:-1,RED |139.99
 http://139.99.17.52:8081/liveorigin/sd-redalt_480/playlist.m3u8
+
 http://139.99.17.52:8081/liveorigin/sd-skynetsports1_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-skynetsports2_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-skynetsports3_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-skynetsports4_480/playlist.m3u8
+#EXTINF:-1,skynet sports 5 |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsports5_480/playlist.m3u8
+#EXTINF:-1,skynet sports 6 |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsports6_480/playlist.m3u8
 #EXTINF:-1,skynet sports hd |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsportshd_720/playlist.m3u8
+#EXTINF:-1,skynet sports + |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsportsplus_480/playlist.m3u8
+
 http://139.99.17.52:8081/liveorigin/sd-tsport2_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-tsport5_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-tsport6_480/playlist.m3u8
@@ -1461,9 +1476,10 @@ http://139.99.17.52:8081/liveorigin/uk-skysports-football_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-golf_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-mainevent_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-mix_480/playlist.m3u8
+#EXTINF:-1 group-title="139.99",skysports-news |139.99
 http://139.99.17.52:8081/liveorigin/uk-skysports-news_480/playlist.m3u8
 
-+ + + + + + + + + +
++ + + + + 145.239.255.4:8080 + + + + +
 
 #EXTINF:-1 tvg-id="BBCWorldNews.uk" group-title="145.239",bbcnews HD |145
 http://145.239.255.4:8080/bbcnews/mono.m3u8?token=test
@@ -1484,7 +1500,7 @@ http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
 #EXTINF:-1 group-title="145.239",TCM |145 
 http://145.239.255.4:8080/TCMUK/mono.m3u8?token=test
 
-+ + + + + + + + + + 
++ + + + + 160.119.77.50 + + + + + 
 
 #EXTINF:0 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="TH/160", True Premiere Football HD1 |160
 http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
@@ -1774,7 +1790,7 @@ http://160.119.77.50/iptv/uk-universal.stream/playlist.m3u8
 #EXTINF:-1 group-title="TH/160" usa
 http://160.119.77.50/iptv/uk-usa.stream/playlist.m3u8
 
-+ + + + + + + + + +
++ + + + + 203.150.107.30:8081 + + + + +
 
 #EXTINF:-1 group-title="203.150", PPTV 36
 http://203.150.107.30:8081/tested2iptv/core1/playlist.m3u8
@@ -1840,6 +1856,7 @@ http://203.150.107.30:8081/freethaitv/cd25fccffa6f4a2f8d7190d3e8907440.m3u8?s=d5
 #EXTINF:-1 group-title="203.150",PPTV
 http://203.150.107.30:8081/freethaitv/623d009180394c528880c14e2254452a.m3u8?s=d5833c4d6590ebea8861a5ea300cb4ba
 
++ + + + + 203.154.177.124:8899 + + + + +
 
 #EXTINF:-1 group-title="203.154",COMEDY CENTRAL
 http://203.154.177.124:8899/live/ch1/playlist.m3u8
@@ -1933,6 +1950,7 @@ http://203.154.177.124:8080/live/ch22/index.m3u8
 #EXTINF:-1 group-title="203.154",CI'
 http://203.154.177.124:8080/live/ch23/index.m3u8
 
++ + + + + 203.154.243.31:8081 + + + + +
 
 http://203.154.243.31:8081/live/izaahd/index.m3u8
 http://203.154.243.31:8081/live/ping/index.m3u8
@@ -1945,6 +1963,7 @@ http://203.154.243.31:8081/live/tennis/index.m3u8
 http://203.154.243.31:8081/live/hisport/index.m3u8
 http://203.154.243.31:8081/live/series/index.m3u8
 
++ + + + + 203.154.243.89 + + + + +
 
 #EXTINF:-1 group-title="203.154.243",Universal
 http://203.154.243.89:1029
@@ -2017,6 +2036,7 @@ http://203.154.243.89:11739
 #EXTINF:-1 group-title="203.154.243",Movies HD |203.154
 http://203.154.243.89:12037
 
++ + + + + 211.75.9.37:20020 + + + + +
 
  group-title="211.75", Hollywood |211
 http://211.75.9.37:20020/20022
