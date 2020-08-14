@@ -1407,8 +1407,12 @@ http://119.59.125.74/stream/totnew.php?channel_id=443ea6ef1768462aaffdff38ce2a43
 http://139.99.17.52:8081/liveorigin/epl-1_720/playlist.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |139.99
 http://139.99.17.52:8081/liveorigin/epl-2_720/playlist.m3u8
+#EXTINF:-1,True Premiere Football HD3 |139.99
 http://139.99.17.52:8081/liveorigin/epl-3_720/playlist.m3u8
+#EXTINF:-1,True Premiere Football HD4 |139.99
 http://139.99.17.52:8081/liveorigin/epl-4_720/playlist.m3u8
+#EXTINF:-1,True Premiere Football HD5 |139.99
+http://139.99.17.52:8081/liveorigin/epl-5_720/playlist.m3u8
 
 #EXTINF:-1,epl bein 1 |139.99
 http://139.99.17.52:8081/liveorigin/epl-bein1_720/playlist.m3u8
@@ -1456,10 +1460,13 @@ http://139.99.17.52:8081/liveorigin/sd-foxsports2_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-foxsports3_480/playlist.m3u8
 #EXTINF:-1,RED |139.99
 http://139.99.17.52:8081/liveorigin/sd-redalt_480/playlist.m3u8
-
+#EXTINF:-1,skynet sports 1 |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsports1_480/playlist.m3u8
+#EXTINF:-1,skynet sports 2 |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsports2_480/playlist.m3u8
+#EXTINF:-1,skynet sports 3 |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsports3_480/playlist.m3u8
+#EXTINF:-1,skynet sports 4 |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsports4_480/playlist.m3u8
 #EXTINF:-1,skynet sports 5 |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsports5_480/playlist.m3u8
@@ -1476,10 +1483,13 @@ http://139.99.17.52:8081/liveorigin/sd-tsport6_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-tsport7_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-arena_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-cricket_480/playlist.m3u8
+#EXTINF:-1,skysports-epl |139.99
 http://139.99.17.52:8081/liveorigin/uk-skysports-epl_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-f1_480/playlist.m3u8
+#EXTINF:-1,skysports-football |139.99
 http://139.99.17.52:8081/liveorigin/uk-skysports-football_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-golf_480/playlist.m3u8
+#EXTINF:-1,skysports-mainevent |139.99
 http://139.99.17.52:8081/liveorigin/uk-skysports-mainevent_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-mix_480/playlist.m3u8
 #EXTINF:-1,skysports-news |139.99
@@ -1489,41 +1499,61 @@ http://139.99.17.52:8081/liveorigin/ch-mysports1_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/ch-mysports2_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/ch-mysports3_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/ch-mysports4_480/playlist.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football FHD1 |139.99
 http://139.99.17.52:8081/liveorigin/epl-1_1080/playlist.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football FHD2 |139.99
 http://139.99.17.52:8081/liveorigin/epl-2_1080/playlist.m3u8
+
 http://139.99.17.52:8081/liveorigin/epl-3_1080/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/epl-4_1080/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/epl-5_1080/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/epl-5_720/playlist.m3u8
+
 http://139.99.17.52:8081/liveorigin/hd-bein10_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-bein12_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-bein1_480/playlist.m3u8
+#EXTINF:-1,cinemax MM |139.99
 http://139.99.17.52:8081/liveorigin/hd-cinemax_720/playlist.m3u8
+#EXTINF:-1,fox family |139.99
 http://139.99.17.52:8081/liveorigin/hd-foxfamily_720/playlist.m3u8
+#EXTINF:-1,hbo MM |139.99
 http://139.99.17.52:8081/liveorigin/hd-hboeng_720/playlist.m3u8
+#EXTINF:-1,KBS World |139.99
 http://139.99.17.52:8081/liveorigin/hd-kbsworld_720/playlist.m3u8
+#EXTINF:-1,MTV Live |139.99
 http://139.99.17.52:8081/liveorigin/hd-mtvlive_720/playlist.m3u8
+
 http://139.99.17.52:8081/liveorigin/hd-natgeo_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-natgeopeople_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-natgeopeopleeng_480/playlist.m3u8
+#EXTINF:-1,warner TV |139.99
 http://139.99.17.52:8081/liveorigin/hd-warnertv_720/playlist.m3u8
+#EXTINF:-1 tvg-id="Astro SuperSport",my-asp1hd |139.99
 http://139.99.17.52:8081/liveorigin/my-asp1hd_720/playlist.m3u8
+#EXTINF:-1 tvg-id="Astro SuperSport 2",my-asp2hd |139.99
 http://139.99.17.52:8081/liveorigin/my-asp2hd_720/playlist.m3u8
+#EXTINF:-1 tvg-id="Astro SuperSport 3",my-asp3hd |139.99
 http://139.99.17.52:8081/liveorigin/my-asp3hd_720/playlist.m3u8
+#EXTINF:-1 tvg-id="Astro SuperSport 4",my-asp4hd |139.99
 http://139.99.17.52:8081/liveorigin/my-asp4_720/playlist.m3u8
+#EXTINF:-1,afc |139.99
 http://139.99.17.52:8081/liveorigin/sd-asianfood_480/playlist.m3u8
+#EXTINF:-1,nhk world |139.99
 http://139.99.17.52:8081/liveorigin/sd-nhkworld_720/playlist.m3u8
+#EXTINF:-1,skynet sports fhd |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsportshd_1080/playlist.m3u8
+
 http://139.99.17.52:8081/liveorigin/sd-starchinesechannel_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-starchineselegend_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-btsport1hd_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-btsport2hd_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-btsport3hd_720/playlist.m3u8
+#EXTINF:-1,cnn |139.99
 http://139.99.17.52:8081/liveorigin/uk-cnn_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-premiersports_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-action_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-arena_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-cricket_720/playlist.m3u8
+#EXTINF:-1,skysports-epl |139.99
 http://139.99.17.52:8081/liveorigin/uk-skysports-epl_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-f1_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-football_720/playlist.m3u8
@@ -4907,6 +4937,7 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport6/liveorig
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport7/liveorigin/af-supersport7_480/chunks.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport8/liveorigin/af-supersport8_480/chunks.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport9/liveorigin/af-supersport9_480/chunks.m3u8
+
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="worldwidetv",True Premiere Football FHD1 ||wwtv
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/epl-1/liveorigin/epl-1_1080/chunks.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football FHD2 ||wwtv
@@ -4982,7 +5013,9 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-warnertv/liveorigin/
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-xzyte/liveorigin/hd-xzyte_1080/chunks.m3u8
 #EXTINF:-1,ten 1 ||wwtv
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/in-ten1/liveorigin/in-ten1_480/chunks.m3u8
+#EXTINF:-1,ten 2 ||wwtv
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/in-ten2/liveorigin/in-ten2_480/chunks.m3u8
+#EXTINF:-1,ten 3 ||wwtv
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/in-ten3/liveorigin/in-ten3_480/chunks.m3u8
 #EXTINF:-1,zee cinema ||wwtv
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/in-zeecinema/liveorigin/in-zeecinema_480/chunks.m3u8
@@ -5007,6 +5040,7 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-cartoonnetwork/liveo
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-celestial/liveorigin/sd-celestial_480/playlist.m3u8
 #EXTINF:-1,cna ||wwtv
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-channelnewsasia/liveorigin/sd-channelnewsasia_480/chunks.m3u8
+
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-discovery/liveorigin/sd-discovery_480//playlist.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-explife/liveorigin/sd-explife_480/playlist.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-expsci/liveorigin/sd-expsci_480/playlist.m3u8
@@ -5045,6 +5079,7 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-sparkjump/liveorigin
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-sparkplay/liveorigin/sd-sparkplay_480/playlist.m3u8
 #EXTINF:-1,star chinese channel ||wwtv
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-starchinesechannel/liveorigin/sd-starchinesechannel_480/playlist.m3u8
+
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-thaifilm/liveorigin/sd-thaifilm_480/playlist.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-tnn24/liveorigin/sd-tnn24_480/chunks.m3u8
 #EXTINF:-1,bt sport1 ||wwtv
