@@ -1165,7 +1165,7 @@ http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1 tvg-id="Zee TV" group-title="IN/103.214", zee tv
 http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 
-+ + + + + 104.248.152.125 + + + + +
++ + + + + https://cdn-laos.workpoint.news* / 104.248.152.125* + + + + +
 
 https://104.248.152.125/al-supersports1_480/index.m3u8
 https://104.248.152.125/al-supersports2_480/index.m3u8
@@ -1412,7 +1412,7 @@ http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2bae
 http://119.59.125.74/stream/totnew.php?channel_id=b254601a75724ad79e2633f3d307e331
 http://119.59.125.74/stream/totnew.php?channel_id=443ea6ef1768462aaffdff38ce2a4355
 
-+ + + + + 139.99.17.52:8081 / dooball66.com + + + + +
++ + + + + 139.99.17.52:8081* / dooball66.com* + + + + +
 
 #EXTINF:-1 group-title="139.99",af-supersport10 |139.99
 http://139.99.17.52:8081/liveorigin/af-supersport10_480/playlist.m3u8
@@ -1611,7 +1611,7 @@ http://139.99.17.52:8081/liveorigin/rs-arena3_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/rs-arena4_480/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/sd-24u_480/playlist.m3u8
-#EXTINF:-1,afc |139.99
+#EXTINF:-1,afn |139.99
 http://139.99.17.52:8081/liveorigin/sd-asianfood_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-bbcearth_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-bbclifestyle_720/playlist.m3u8
@@ -1781,7 +1781,7 @@ http://160.119.77.50/iptv/hd-natgeowildeng.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-starchinese.stream/playlist.m3u8
 #EXTINF:0, Arirang |160
 http://160.119.77.50/iptv/sd-arirang.stream/playlist.m3u8
-#EXTINF:-1, Asian Food |160
+#EXTINF:-1, afn |160
 http://160.119.77.50/iptv/sd-asianfood.stream/playlist.m3u8
 #EXTINF:0, Cartoon Network ENG |160
 http://160.119.77.50/iptv/sd-cartoonnetworkeng.stream/playlist.m3u8
@@ -2358,9 +2358,7 @@ https://1168live.b-cdn.net/uk-skysports-mainevent_720/index.m3u8
 
 https://1168live.b-cdn.net/uk-skysports-news_480/index.m3u8
 
-+ + + + + https://www.doofree88.com + + + + +
-
-https://104.248.152.125/sd-asianfood_480/index.m3u8
++ + + + + https://www.doofree88.com* + + + + +
 
 https://cdn-laos.workpoint.news/al-supersports1_480/index.m3u8
 https://cdn-laos.workpoint.news/al-supersports2_480/index.m3u8
@@ -2388,6 +2386,7 @@ https://cdn-laos.workpoint.news/hd-ch7_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-ch8_480/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax HD", CINEMAX MM |doofree88
 https://cdn-laos.workpoint.news/hd-cinemax_720/index.m3u8
+
 https://cdn-laos.workpoint.news/hd-comedycentral_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-discoveryeng_720/index.m3u8
@@ -2424,8 +2423,8 @@ https://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-pptv_720/index.m3u8
-#EXTINF:-1, star chinese |doofree88
-https://cdn-laos.workpoint.news/hd-starchinese_720/index.m3u8
+#EXTINF:-1, SCM |doofree88
+https://cdn-laos.workpoint.news/hd-starchinese_480/index.m3u8
 
 https://cdn-laos.workpoint.news/hd-tennis_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-tfilm2_720/index.m3u8
@@ -2460,6 +2459,9 @@ https://cdn-laos.workpoint.news/sd-24u_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-aljazeera_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-animalplaneteng_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-arirang_480/index.m3u8
+#EXTINF:-1, afn |doofree88
+https://cdn-laos.workpoint.news/sd-asianfood_480/index.m3u8
+
 https://cdn-laos.workpoint.news/sd-asianseriesalt_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-babytv_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-bbcearth_720/index.m3u8
@@ -2501,9 +2503,7 @@ https://cdn-laos.workpoint.news/sd-nickjr_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-rama_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-redalt_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-sabaidee_480/index.m3u8
-#EXTINF:-1, Skynet Sport 1 |doofree88
 https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
-
 https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
@@ -2520,9 +2520,7 @@ https://cdn-laos.workpoint.news/sd-smmtv_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-sparkjump_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-sparkplay_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-starchinesechannel_480/index.m3u8
-#EXTINF:-1, star chinese legend |doofree88
 https://cdn-laos.workpoint.news/sd-starchineselegend_480/index.m3u8
-
 https://cdn-laos.workpoint.news/sd-thaifilm_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-thaithai_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-thrill_480/index.m3u8
@@ -2549,24 +2547,22 @@ https://cdn-laos.workpoint.news/uk-skynews_480/index.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
-#EXTINF:-1, uk-skysports-epl |doofree88
 https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
-
 https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8
-#EXTINF:-1, uk-skysports-mainevent |doofree88
 https://cdn-laos.workpoint.news/uk-skysports-mainevent_720/index.m3u8
-#EXTINF:-1, uk-skysports-mix |doofree88
 https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
-
 https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
+#EXTINF:-1, True Premier Football 5 /DB
 https://dl.dropboxusercontent.com/s/1g6hje6lx2nr8x4/TrueEPL5.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2", True Premier Football 2 /DB
 https://dl.dropboxusercontent.com/s/cw3qjl8togdqvg7/TrueEPL2.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="TH/doofree88", True Premier Football 1 /DB
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1", True Premier Football 1 /DB
 https://dl.dropboxusercontent.com/s/dkpvgxn6684d1ee/TrueEPL.m3u8
+#EXTINF:-1, True Premier Football 3 /DB
 https://dl.dropboxusercontent.com/s/iov7zo0dq3x5ty2/TrueEPL3.m3u8
+#EXTINF:-1 group-title="TH/doofree88", True Premier Football 4 /DB
 https://dl.dropboxusercontent.com/s/r3pq90qpz4jsc16/TrueEPL4.m3u8
 
 http://www.doofree88.com/streaming/epl-x1_720/index.m3u8
@@ -3159,9 +3155,9 @@ https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl1_480p/chunks.m3u8?nim
 https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl2_480p/chunks.m3u8?nimblesessionid=4910202&wmsAuthSign=
 https://cdn221.cloud-streaming.com/wrapfootball_t5/hd-hbo-thai/chunks.m3u8?nimblesessionid=
 
-+ + + + + https://doomovie.com/live / 89.187.169.15:443 + + + + +
++ + + + + https://doomovie.com/live* / 89.187.169.15:443* + + + + +
 
-#EXTINF:-1 group-title="doomovie",al-supersports1 |doomovie
+#EXTINF:-1 group-title="doomovie/offline",al-supersports1 |doomovie
 https://doomovielive.b-cdn.net/al-supersports1_480/index.m3u8|Referer=https://doomovie.com
 https://doomovielive.b-cdn.net/al-supersports2_480/index.m3u8
 https://doomovielive.b-cdn.net/al-supersports3_480/index.m3u8
@@ -3225,7 +3221,7 @@ https://doomovielive.b-cdn.net/hd-nba_720/index.m3u8
 https://doomovielive.b-cdn.net/hd-nfl_720/index.m3u8
 https://doomovielive.b-cdn.net/hd-pptv_720/index.m3u8
 #EXTINF:-1,star chinese |doomovie
-https://doomovielive.b-cdn.net/hd-starchinese_720/index.m3u8
+https://doomovielive.b-cdn.net/hd-starchinese_480/index.m3u8
 
 https://doomovielive.b-cdn.net/hd-tennis_720/index.m3u8
 https://doomovielive.b-cdn.net/hd-tfilm2_720/index.m3u8
@@ -3260,7 +3256,9 @@ https://doomovielive.b-cdn.net/sd-24u_480/index.m3u8
 https://doomovielive.b-cdn.net/sd-aljazeera_480/index.m3u8
 https://doomovielive.b-cdn.net/sd-animalplaneteng_480/index.m3u8
 https://doomovielive.b-cdn.net/sd-arirang_480/index.m3u8
+#EXTINF:-1,afn |doomovie
 https://doomovielive.b-cdn.net/sd-asianfood_480/index.m3u8
+
 https://doomovielive.b-cdn.net/sd-asianseriesalt_480/index.m3u8
 https://doomovielive.b-cdn.net/sd-babytv_480/index.m3u8
 https://doomovielive.b-cdn.net/sd-bbcearth_720/index.m3u8
@@ -3358,7 +3356,7 @@ https://doomovielive.b-cdn.net/uk-skysports-golf_720/index.m3u8
 https://doomovielive.b-cdn.net/uk-skysports-mainevent_720/index.m3u8
 
 https://doomovielive.b-cdn.net/uk-skysports-mix_480/index.m3u8
-#EXTINF:-1 group-title="doomovie",skysports news |doomovie
+#EXTINF:-1 group-title="doomovie/offline",skysports news |doomovie
 https://doomovielive.b-cdn.net/uk-skysports-news_480/index.m3u8
 
 + + + + + + + + + +
@@ -4297,9 +4295,9 @@ http://newhostshare.ddns.net:9981/stream/service/e4a9152e3b36c77efddf0dc784e4303
  group-title="newhost/off",Astro4 //newhost
 http://newhostshare.ddns.net:9981/stream/service/62641b10de8bed50413719d41ec341cd
 
-+ + + + + https://freetvdd.com + + + + + +
++ + + + + https://freetvdd.com* + + + + + +
 
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="TH/freetvdd",epl-1 |freetvdd
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="TH/freetvdd/offline",epl-1 |freetvdd
 https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",epl-2 |freetvdd
 https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
@@ -4460,7 +4458,7 @@ https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u
 https://streaming.livescorethai.net/iptv/uk-skysports-golf.stream/chunks.m3u8
 https://streaming.livescorethai.net/iptv/uk-skysports-mainevent.stream/chunks.m3u8
 https://streaming.livescorethai.net/iptv/uk-skysports-mix.stream/chunks.m3u8
-#EXTINF:-1 group-title="TH/freetvdd",uk-skysports-news |freetvdd
+#EXTINF:-1 group-title="TH/freetvdd/offline",uk-skysports-news |freetvdd
 https://streaming.livescorethai.net/iptv/uk-skysports-news.stream/chunks.m3u8
 
 https://streaming.livescorethai.net/iptv/epl-x1.stream/chunks.m3u8
@@ -4470,7 +4468,7 @@ https://streaming.livescorethai.net/iptv/epl-x4.stream/chunks.m3u8
 https://streaming.livescorethai.net/iptv/epl-x5.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="TH/freetvdd",epl-1 |freetvdd
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="TH/freetvdd/offline",epl-1 |freetvdd
 https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8?wmsAuthSign=
 
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",epl-2 |freetvdd
@@ -4590,7 +4588,7 @@ https://streaming.livescorethai.net/iptv/sd-bloomberg.stream/chunks.m3u8?wmsAuth
 #EXTINF:-1,afn |freetvdd
 https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8?wmsAuthSign=
 
-#EXTINF:-1 group-title="TH/freetvdd",mtv asia |freetvdd
+#EXTINF:-1 group-title="TH/freetvdd/offline",mtv asia |freetvdd
 https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8?wmsAuthSign=
 
 + + + + + + + + + + +
@@ -4927,7 +4925,7 @@ https://tv4.chang55.com:446/live2/tv4ch97.stream/chunks.m3u8
 #EXTINF:-1 group-title="TH/chang55",FOX Sport 3 |chang55
 https://tv4.chang55.com:446/live2/tv4ch98.stream/chunks.m3u8
 
-+ + + + + worldwidetv.club /dooball66.com + + + + +
++ + + + + worldwidetv.club /dooball66.com* + + + + +
 
 #EXTINF:-1 group-title="worldwidetv",af-supersport10 |wwtv
 https://vodcache.worldwidetv.club/root-c2/liveorigin/af-supersport10_480/playlist.m3u8
@@ -5403,9 +5401,8 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-tsport4/liveorigin/h
 #EXTINF:-1,warner TV ||wwtv
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-warnertv/liveorigin/hd-warnertv_720/playlist.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-workpoint/liveorigin/hd-workpoint_480/playlist.m3u8
-#EXTINF:-1,xzyte FHD ||wwtv
+
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-xzyte/liveorigin/hd-xzyte_1080/playlist.m3u8
-#EXTINF:-1,xzyte ||wwtv
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-xzyte/liveorigin/hd-xzyte_720/playlist.m3u8
 
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/in-starsports1/liveorigin/in-starsports1_480/playlist.m3u8
