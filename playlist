@@ -47,6 +47,33 @@ https://www.youtube.com/watch?v=Q-h7NHGDuGY
 #EXTINF:-1, WB Kids
 https://www.youtube.com/watch?v=BRkQ-ZGiNbc
 
++ + + + + + + + + +
+
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV |203
+http://203.81.81.230/mrtv.m3u8
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV | 203
+http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv1.m3u8
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV' | 203
+http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv2.m3u8
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV" | 203
+http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv3.m3u8
+
+///rtmp://203.81.81.229/livepkgr/mrtv ///
+
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mi.png" group-title="MM", MITV | rtmp
+rtmp://203.81.81.229/livepkgr/MITV
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/hluttaw_old.png", MRTV HLUTTAW | rtmp
+rtmp://203.81.81.229/livepkgr/HTT
+#EXTINF:-1, MRTV NRC | rtmp
+rtmp://203.81.81.229/livepkgr/NRC
+#EXTINF:-1 group-title="MM", MRTV farmer | rtmp
+rtmp://203.81.81.229/livepkgr/farmer
+
++ + + + + + + + + + 
+
+http://api.new.livestream.com/accounts/15604755/events/4419934/live.m3u8
+https://livestream.com/accounts/15604755/events/4419934/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false
+
 + + + + + + + + + + 
 
  tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="MM", 5 Plus | OTV /OFF
@@ -115,33 +142,6 @@ http://edge-stream-07.otv.co.th./livestream/MRTV.stream/chunklist.m3u8
 http://edge-stream-07.otv.co.th./livestream/Hluttaw.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f5a0eb57c600f104da5.png",MRTV-4 /iptvmate
 http://edge-stream-07.otv.co.th./livestream/MRTV-4.stream/chunklist.m3u8
-
-+ + + + + + + + + +
-
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV |203
-http://203.81.81.230/mrtv.m3u8
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV | 203
-http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv1.m3u8
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV' | 203
-http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv2.m3u8
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV" | 203
-http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv3.m3u8
-
-///rtmp://203.81.81.229/livepkgr/mrtv ///
-
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mi.png" group-title="MM", MITV | rtmp
-rtmp://203.81.81.229/livepkgr/MITV
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/hluttaw_old.png", MRTV HLUTTAW | rtmp
-rtmp://203.81.81.229/livepkgr/HTT
-#EXTINF:-1, MRTV NRC | rtmp
-rtmp://203.81.81.229/livepkgr/NRC
-#EXTINF:-1 group-title="MM", MRTV farmer | rtmp
-rtmp://203.81.81.229/livepkgr/farmer
-
-+ + + + + + + + + + 
-
-http://api.new.livestream.com/accounts/15604755/events/4419934/live.m3u8
-https://livestream.com/accounts/15604755/events/4419934/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false
 
 + + + + + + + + + + 
 
@@ -293,31 +293,31 @@ http://220.158.149.14:9999/live/TV00000000000000000170@HHZT
 
 + + + + + + + + + +
 
-#EXTINF:-1 group-title="MM", 5 Plus
+ group-title="MM", 5 Plus
 https://stream.myanmartvchannels.com:999/website-5pluschannelsd/website-5pluschannelsd/chunks.m3u8?nimblesessionid=
 
-#EXTINF:-1 group-title="MM", fortune TV
+ group-title="MM", fortune TV
 https://stream.myanmartvchannels.com:999/website-fortunechannelsd/website-fortunechannelsd/chunks.m3u8?nimblesessionid=
 
 #EXTINF:-1 group-title="MM", fortune TV'
 https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="MM", mitv
+#EXTINF:-1 group-title="MM", mitv /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(3794b443-0bab-4f1c-bea5-3bdf37cf588a)/manifest.mpd
 
-#EXTINF:-1 group-title="MM", MRTV Ent
+#EXTINF:-1 group-title="MM", MRTV Ent /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(e02c93f2-33d9-458b-bf23-a2717b5f59a8)/manifest.mpd
 
-#EXTINF:-1 group-title="MM", MRTV Farmer Channel
+#EXTINF:-1 group-title="MM", MRTV Farmer Channel /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(fca755f5-5090-41fd-bf2c-1c0049947d25)/manifest.mpd
 
-#EXTINF:-1 group-title="MM", MRTV NRC
+#EXTINF:-1 group-title="MM", MRTV NRC /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(1095e49d-1c13-47fc-8174-546061a17c3b)/manifest.mpd
 
-#EXTINF:-1 group-title="MM", mntv
+ group-title="MM", mntv
 https://stream.myanmartvchannels.com:999/website-mntvchannelsd/website-mntvchannelsd/chunks.m3u8?nimblesessionid=
 
-#EXTINF:-1 group-title="MM", YTV
+ group-title="MM", YTV
 https://stream.myanmartvchannels.com:999/website-ytvchannelhd/website-ytvchannelhd/chunks.m3u8?nimblesessionid=
 
 + + + + + + + + + +
@@ -395,7 +395,7 @@ http://www.iamntp.com/hbo/sig_onweb.m3u8
  tvg-id="RED BY HBO HD" group-title="HBO", Red By HBO /onweb
 http://www.iamntp.com/hbo/red_onweb.m3u8
 
-+ + + + + + + + + + + + + + + + + + + 
++ + + + + + + + + +
 
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png" group-title="SG",Channel News Asia | d2k
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_1.m3u8
@@ -515,7 +515,7 @@ http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlea
 #EXTINF:-1 group-title="cookie", EPL
 https://delivery.ghanacloud.ga/PremierLeagueChannel/index.m3u8
 
-+ + + + + + + + + + + + + + + + + + + 
++ + + + + + + + + + 
 
 #EXTINF:-1 tvg-id="FOX Movies HD" group-title="VN",Fox Movies |ftp
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
@@ -552,6 +552,7 @@ https://livecdn.fptplay.net/world/nhkworld_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VN",CNA |ftp
 https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
 
++ + + + +
 
  group-title="VN|rtp",Asian Food Network (HD 6.5Mbps) |rtp
 http://123.18.1.200:4022/rtp/232.84.2.129:9570
@@ -610,6 +611,7 @@ http://123.18.1.200:4022/rtp/232.84.2.51:10516
  tvg-id="WarnerTV HD" group-title="VN|rtp",WB TV |rtp
 http://123.18.1.200:4022/rtp/232.84.1.91:10404
 
++ + + + +
 
 #EXTINF:-1 group-title="VN|udp",Asian Food Network (HD 8Mbps) |udp
 http://fpthanhyen.ddns.net:1211/udp/225.1.1.198:30120
@@ -663,6 +665,7 @@ http://fpthanhyen.ddns.net:1211/udp/225.1.1.139:30120
 #EXTINF:-1 group-title="VN|udp",WBTV |udp
 http://fpthanhyen.ddns.net:1211/udp/225.1.4.14:30120
 
++ + + + +
 
 #EXTINF:-1 group-title="VN/a-play",Asian Food Channel
 http://xemtivi@khongcopylink:camoncanhaRestream@a-play.anhthanhnien.ga:9981/stream/channelid/53615430
@@ -893,7 +896,7 @@ http://xemtivi@khongcopylink:camoncanhaRestream@tvheadendvn.duckdns.org:9981/str
 #EXTINF:-1 group-title="VN/dns",Waner TV
 http://xemtivi@khongcopylink:camoncanhaRestream@tvheadendvn.duckdns.org:9981/stream/channelid/1196965651
 
-+ + + + + + + + + + + + + + + + + + + 
++ + + + + + + + + +
 
 #EXTINF:-1 group-title="TH/27",BBC WORLD NEWS
 http://27.254.149.109:8081/tumlive/BBC/chunks.m3u8
@@ -1089,6 +1092,7 @@ http://103.135.208.14:80/ibox/bd/110
 #EXTINF:-1 tvg-id="Zee TV" group-title="IN/103.135/Offline",Zee TV 
 http://103.135.208.14:80/ibox/bd/51
 
++ + + + +
 
 #EXTINF:-1 group-title="IN/103.141", &flix
 http://103.141.66.36/bpk-tv/10304/default/index.m3u8
@@ -1513,13 +1517,14 @@ http://139.99.17.52:8081/liveorigin/hd-cinemax_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-discovery_720/playlist.m3u8
 #EXTINF:-1,Discovery Asia MM* |139.99
 http://139.99.17.52:8081/liveorigin/hd-discoveryeng_720/playlist.m3u8
+
 http://139.99.17.52:8081/liveorigin/hd-fightsports_1080/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-fightsports_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-fox_720/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Action Movies HD",Fox Action Movies* |139.99
 http://139.99.17.52:8081/liveorigin/hd-foxaction_720/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/hd-foxcrimeeng_480/playlist.m3u8
 
+http://139.99.17.52:8081/liveorigin/hd-foxcrimeeng_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-foxfamily_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-foxlifeeng_480/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX Movies HD",FOX Movies* |139.99
@@ -1535,6 +1540,7 @@ http://139.99.17.52:8081/liveorigin/hd-golf_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-golfeng_480/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO HD",HBO MM* |139.99
 http://139.99.17.52:8081/liveorigin/hd-hboeng_720/playlist.m3u8
+
 http://139.99.17.52:8081/liveorigin/hd-history2_720/playlist.m3u8
 #EXTINF:-1,HISTORY HD* |139.99
 http://139.99.17.52:8081/liveorigin/hd-history_720/playlist.m3u8
@@ -1542,6 +1548,7 @@ http://139.99.17.52:8081/liveorigin/hd-history_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-historyeng_720/playlist.m3u8
 #EXTINF:-1 tvg-id="KBS World HD",KBS World |139.99
 http://139.99.17.52:8081/liveorigin/hd-kbsworld_720/playlist.m3u8
+
 http://139.99.17.52:8081/liveorigin/hd-mcot_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-mono_480/playlist.m3u8
 #EXTINF:-1,MTV Live HD* |139.99
@@ -1558,6 +1565,7 @@ http://139.99.17.52:8081/liveorigin/hd-natgeopeopleeng_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-natgeowild_720/playlist.m3u8
 #EXTINF:-1 tvg-id="Nat Geo Wild HD",NAT GEO WILD EN* |139.99
 http://139.99.17.52:8081/liveorigin/hd-natgeowildeng_720/playlist.m3u8
+
 http://139.99.17.52:8081/liveorigin/hd-nba_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-nfl_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-paramount_720/playlist.m3u8
@@ -1565,6 +1573,7 @@ http://139.99.17.52:8081/liveorigin/hd-pptv_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-rtlcbs_720/playlist.m3u8
 #EXTINF:-1 tvg-id="SCM HD",SCM |139.99
 http://139.99.17.52:8081/liveorigin/hd-starchinese_480/playlist.m3u8
+
 http://139.99.17.52:8081/liveorigin/hd-tennis_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-tfilm2_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-tfilm_720/playlist.m3u8
@@ -1578,6 +1587,7 @@ http://139.99.17.52:8081/liveorigin/hd-tsport4_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-tvn_480/playlist.m3u8
 #EXTINF:-1 tvg-id="WarnerTV HD",WarnerTV |139.99
 http://139.99.17.52:8081/liveorigin/hd-warnertv_720/playlist.m3u8
+
 http://139.99.17.52:8081/liveorigin/hd-workpoint_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-xzyte_720/playlist.m3u8
 
@@ -1631,6 +1641,7 @@ http://139.99.17.52:8081/liveorigin/rs-arena4_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-24u_480/playlist.m3u8
 #EXTINF:-1,afn |139.99 
 http://139.99.17.52:8081/liveorigin/sd-asianfood_480/playlist.m3u8
+
 http://139.99.17.52:8081/liveorigin/sd-bbcearth_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-bbclifestyle_720/playlist.m3u8
 #EXTINF:-1,bloomberg |139.99
@@ -1640,6 +1651,7 @@ http://139.99.17.52:8081/liveorigin/sd-celestial_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-channelnewsasia_480/playlist.m3u8
 #EXTINF:-1,cnbc |139.99
 http://139.99.17.52:8081/liveorigin/sd-cnbc_480/playlist.m3u8
+
 http://139.99.17.52:8081/liveorigin/sd-discovery_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-explife_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-expsci_480/playlist.m3u8
@@ -1650,6 +1662,7 @@ http://139.99.17.52:8081/liveorigin/sd-foxsports3_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-gmmchannel_480/playlist.m3u8
 #EXTINF:-1 tvg-id="HITS MOVIES HD",movie hits |139.99
 http://139.99.17.52:8081/liveorigin/sd-moviehits_480/playlist.m3u8
+
 http://139.99.17.52:8081/liveorigin/sd-mtvasia_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-nation_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-nbt_720/playlist.m3u8
@@ -1680,6 +1693,7 @@ http://139.99.17.52:8081/liveorigin/sd-skynetsportsplus_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-starchinesechannel_480/playlist.m3u8
 #EXTINF:-1 tvg-id="SCM Legend",star chinese legend |139.99
 http://139.99.17.52:8081/liveorigin/sd-starchineselegend_480/playlist.m3u8
+
 http://139.99.17.52:8081/liveorigin/sd-tnn24_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-tptv_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-tsports_480/playlist.m3u8
@@ -2339,13 +2353,13 @@ http://211.75.9.37:20060/20065
 
 + + + + + https://www.movie1168.com / https://cdn-laos.workpoint.news + + + + +
 
-#EXTINF:-1 group-title="TH/movie1168",epl-bein1 |m1168
+ group-title="TH/movie1168",epl-bein1 |m1168
 https://1168live.b-cdn.net/epl-bein1_720/index.m3u8
 
-#EXTINF:-1,epl-bein1' /m1168
+,epl-bein1' /m1168
 https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
 
-#EXTINF:-1,epl-bein1' |m1168
+,epl-bein1' |m1168
 https://45.64.186.134:443/epl-bein1_720/index.m3u8
 
 https://1168live.b-cdn.net/epl-bein2_720/index.m3u8
@@ -2607,9 +2621,9 @@ https://dl.dropboxusercontent.com/s/r3pq90qpz4jsc16/TrueEPL4.m3u8
 
 http://www.doofree88.com/streaming/epl-x1_720/index.m3u8
 
-+ + + + + + + + + +
++ + + + + ufalive + + + + +
 
-#EXTINF:-1 group-title="ufalive",afn |ufalive
+ group-title="ufalive",afn |ufalive
 https://cdn1.ufalive.center/app/afn/playlist.m3u8
 
 https://cdn1.ufalive.center/app/ais-eurosport/playlist.m3u8
@@ -2620,21 +2634,21 @@ https://cdn1.ufalive.center/app/arenasport1/playlist.m3u8
 https://cdn1.ufalive.center/app/arenasport2/playlist.m3u8
 https://cdn1.ufalive.center/app/arenasport3/playlist.m3u8
 https://cdn1.ufalive.center/app/arenasport4/playlist.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport",astro1 |ufalive
+ tvg-id="Astro SuperSport",astro1 |ufalive
 https://cdn1.ufalive.center/app/astro1/playlist.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 2",astro2 |ufalive
+ tvg-id="Astro SuperSport 2",astro2 |ufalive
 https://cdn1.ufalive.center/app/astro2/playlist.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 3",astro3 |ufalive
+ tvg-id="Astro SuperSport 3",astro3 |ufalive
 https://cdn1.ufalive.center/app/astro3/playlist.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 4",astro4 |ufalive
+ tvg-id="Astro SuperSport 4",astro4 |ufalive
 https://cdn1.ufalive.center/app/astro4/playlist.m3u8
 
 https://cdn1.ufalive.center/app/axn/playlist.m3u8
 https://cdn1.ufalive.center/app/bbc-earth/playlist.m3u8
 https://cdn1.ufalive.center/app/bbc-lifestyle/playlist.m3u8
-#EXTINF:-1,bein1 |ufalive
+,bein1 |ufalive
 https://cdn1.ufalive.center/app/bein1/playlist.m3u8
-#EXTINF:-1,bein2 |ufalive
+1,bein2 |ufalive
 https://cdn1.ufalive.center/app/bein2/playlist.m3u8
 
 https://cdn1.ufalive.center/app/blue-ent/playlist.m3u8
@@ -2644,13 +2658,13 @@ https://cdn1.ufalive.center/app/ccm/playlist.m3u8
 https://cdn1.ufalive.center/app/ch3hd/playlist.m3u8
 https://cdn1.ufalive.center/app/ch5hd/playlist.m3u8
 https://cdn1.ufalive.center/app/ch7hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinemax HD",cinemax |ufalive
+ tvg-id="Cinemax HD",cinemax |ufalive
 https://cdn1.ufalive.center/app/cinemax/playlist.m3u8
-#EXTINF:-1,cn hd |ufalive
+,cn hd |ufalive
 https://cdn1.ufalive.center/app/cnhd/playlist.m3u8
-#EXTINF:-1,cnn |ufalive
+,cnn |ufalive
 https://cdn1.ufalive.center/app/cnn/playlist.m3u8
-#EXTINF:-1,discovery asia |ufalive
+,discovery asia |ufalive
 https://cdn1.ufalive.center/app/disasia/playlist.m3u8
 
 https://cdn1.ufalive.center/app/discovery/playlist.m3u8
@@ -2658,15 +2672,15 @@ https://cdn1.ufalive.center/app/disneych/playlist.m3u8
 https://cdn1.ufalive.center/app/disneyxd/playlist.m3u8
 https://cdn1.ufalive.center/app/espnus/playlist.m3u8
 https://cdn1.ufalive.center/app/foodnetwork/playlist.m3u8
-#EXTINF:-1,fox-action |ufalive
+,fox-action |ufalive
 https://cdn1.ufalive.center/app/fox-action/playlist.m3u8
 
 https://cdn1.ufalive.center/app/fox-crime/playlist.m3u8
-#EXTINF:-1,fox-fam |ufalive
+,fox-fam |ufalive
 https://cdn1.ufalive.center/app/fox-fam/playlist.m3u8
 
 https://cdn1.ufalive.center/app/fox-life/playlist.m3u8
-#EXTINF:-1,fox-movies |ufalive
+,fox-movies |ufalive
 https://cdn1.ufalive.center/app/fox-movies/playlist.m3u8
 
 https://cdn1.ufalive.center/app/fox1/playlist.m3u8
@@ -2679,13 +2693,13 @@ https://cdn1.ufalive.center/app/gmm25/playlist.m3u8
 https://cdn1.ufalive.center/app/golf/playlist.m3u8
 https://cdn1.ufalive.center/app/h2/playlist.m3u8
 https://cdn1.ufalive.center/app/h2/playlist.m3u8
-#EXTINF:-1,hbo-fam |ufalive
+,hbo-fam |ufalive
 https://cdn1.ufalive.center/app/hbo-fam/playlist.m3u8
-#EXTINF:-1,hbo-hd |ufalive
+,hbo-hd |ufalive
 https://cdn1.ufalive.center/app/hbo-hd/playlist.m3u8
-#EXTINF:-1,hbo-hits |ufalive
+,hbo-hits |ufalive
 https://cdn1.ufalive.center/app/hbo-hits/playlist.m3u8
-#EXTINF:-1,hbo-sig |ufalive
+,hbo-sig |ufalive
 https://cdn1.ufalive.center/app/hbo-sig/playlist.m3u8
 
 https://cdn1.ufalive.center/app/hi-def1/playlist.m3u8
@@ -2693,7 +2707,7 @@ https://cdn1.ufalive.center/app/history/playlist.m3u8
 https://cdn1.ufalive.center/app/history/playlist.m3u8
 https://cdn1.ufalive.center/app/hits/playlist.m3u8
 https://cdn1.ufalive.center/app/hitsmovies/playlist.m3u8
-#EXTINF:-1,kbs world |ufalive
+,kbs world |ufalive
 https://cdn1.ufalive.center/app/kbs/playlist.m3u8
 
 https://cdn1.ufalive.center/app/lovenature/playlist.m3u8
@@ -2711,25 +2725,25 @@ https://cdn1.ufalive.center/app/one31/playlist.m3u8
 https://cdn1.ufalive.center/app/outdoor/playlist.m3u8
 https://cdn1.ufalive.center/app/paramount/playlist.m3u8
 https://cdn1.ufalive.center/app/pptv/playlist.m3u8
-#EXTINF:-1,red by hbo |ufalive
+,red by hbo |ufalive
 https://cdn1.ufalive.center/app/red/playlist.m3u8
-#EXTINF:-1 tvg-id="SCM HD",scm |ufalive
+ tvg-id="SCM HD",scm |ufalive
 https://cdn1.ufalive.center/app/scm/playlist.m3u8
-#EXTINF:-1,skynet 1 |ufalive
+,skynet 1 |ufalive
 https://cdn1.ufalive.center/app/skynet1/playlist.m3u8
-#EXTINF:-1,skynet 2 |ufalive
+,skynet 2 |ufalive
 https://cdn1.ufalive.center/app/skynet2/playlist.m3u8
-#EXTINF:-1,skynet 3 |ufalive
+,skynet 3 |ufalive
 https://cdn1.ufalive.center/app/skynet3/playlist.m3u8
-#EXTINF:-1,skynet 4 |ufalive
+,skynet 4 |ufalive
 https://cdn1.ufalive.center/app/skynet4/playlist.m3u8
-#EXTINF:-1,skynet 5 |ufalive
+,skynet 5 |ufalive
 https://cdn1.ufalive.center/app/skynet5/playlist.m3u8
-#EXTINF:-1,skynet 6 |ufalive
+,skynet 6 |ufalive
 https://cdn1.ufalive.center/app/skynet6/playlist.m3u8
-#EXTINF:-1,skynet hd |ufalive
+,skynet hd |ufalive
 https://cdn1.ufalive.center/app/skynethd/playlist.m3u8
-#EXTINF:-1,skynet + |ufalive
+,skynet + |ufalive
 https://cdn1.ufalive.center/app/skynetplus/playlist.m3u8
 
 https://cdn1.ufalive.center/app/sparkjump/playlist.m3u8
@@ -2745,15 +2759,15 @@ https://cdn1.ufalive.center/app/thd2/playlist.m3u8
 https://cdn1.ufalive.center/app/thd3/playlist.m3u8
 https://cdn1.ufalive.center/app/thd4/playlist.m3u8
 https://cdn1.ufalive.center/app/tlc/playlist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",tpf 1 |ufalive
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",tpf 1 |ufalive
 https://cdn1.ufalive.center/app/tpf1/playlist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",tpf 2 |ufalive
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",tpf 2 |ufalive
 https://cdn1.ufalive.center/app/tpf2/playlist.m3u8
-#EXTINF:-1,tpf 3 |ufalive
+,tpf 3 |ufalive
 https://cdn1.ufalive.center/app/tpf3/playlist.m3u8
-#EXTINF:-1,tpf 4 |ufalive
+,tpf 4 |ufalive
 https://cdn1.ufalive.center/app/tpf4/playlist.m3u8
-#EXTINF:-1,tpf 5 |ufalive
+,tpf 5 |ufalive
 https://cdn1.ufalive.center/app/tpf5/playlist.m3u8
 
 https://cdn1.ufalive.center/app/true4u/playlist.m3u8
@@ -2768,11 +2782,11 @@ https://cdn1.ufalive.center/app/tsp6/playlist.m3u8
 https://cdn1.ufalive.center/app/tsp7/playlist.m3u8
 https://cdn1.ufalive.center/app/tvn/playlist.m3u8
 https://cdn1.ufalive.center/app/wakuwakujapan/playlist.m3u8
-#EXTINF:-1, warner |ufalive
+, warner |ufalive
 https://cdn1.ufalive.center/app/warner/playlist.m3u8
 https://cdn1.ufalive.center/app/workpoint/playlist.m3u8
 https://cdn1.ufalive.center/app/xzyte/playlist.m3u8
-#EXTINF:-1 group-title="ufalive",ziggo sport voetbal |ufalive
+ group-title="ufalive",ziggo sport voetbal |ufalive
 https://cdn1.ufalive.center/app/ziggosportvoetbal/playlist.m3u8
 
 + + + + + http://www.sportdoofree.com / 45.64.186.163:443 + + + + +
@@ -2822,12 +2836,29 @@ https://cdn161.cloud-streaming.com/ilike4kin_x6/voice_720p/playlist.m3u8
 #EXTINF:-1 group-title="cloud/ilike4kin",workpoint /ilike4kin
 https://cdn161.cloud-streaming.com/ilike4kin_x6/workpoint_720p/playlist.m3u8
 
++ + + + + https://www.warpfootball.games/live / 103.253.74.7:443 + + + + +
+
+ group-title="TH/warpfootball",trueepl1
+https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl1_480p/chunks.m3u8?nimblesessionid=
+,trueepl2
+https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl2_480p/chunks.m3u8?nimblesessionid=
+,trueepl3
+https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl3_480p/chunks.m3u8?nimblesessionid=
+,trueepl4
+https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl4_480p/chunks.m3u8?nimblesessionid=
+ group-title="TH/warpfootball",trueepl5
+https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl5_480p/chunks.m3u8?nimblesessionid=
+
+https://cdn221.cloud-streaming.com/wrapfootball_t5/hd-hbo-thai/chunks.m3u8?nimblesessionid=
+
 + + + + + https://www.ballsoi8.com / 103.253.74.3:443 + + + + +
 
  group-title="TH/ballsoi8",trueepl1
 https://cdn227.cloud-streaming.com/ballsoi8_r1/trueepl1_480p/chunks.m3u8?nimblesessionid=
 ,trueepl2
 https://cdn227.cloud-streaming.com/ballsoi8_r1/trueepl2_480p/chunks.m3u8?nimblesessionid=
+,trueepl2'
+https://cdn227.cloud-streaming.com/ballsod_y1/trueepl2_480p/playlist.m3u8?wmsAuthSign=
 ,trueepl3
 https://cdn227.cloud-streaming.com/ballsoi8_r1/trueepl3_480p/chunks.m3u8?nimblesessionid=
 ,trueepl4
@@ -2848,20 +2879,6 @@ https://cdn227.cloud-streaming.com/ballsoi8_r3/skynet5/chunks.m3u8?nimblesession
 https://cdn227.cloud-streaming.com/ballsoi8_r3/skynet6/chunks.m3u8?nimblesessionid=
 hd-hbo-thai
 https://cdn227.cloud-streaming.com/ballsoi8_r5/hd-hbo-thai/chunks.m3u8?nimblesessionid=
-
-+ + + + + https://www.warpfootball.games + + + + +
-
- group-title="TH/warpfootball",trueepl1
-https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl1_480p/chunks.m3u8?nimblesessionid=
-,trueepl2
-https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl2_480p/chunks.m3u8?nimblesessionid=
-
-,trueepl3
-https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl3_480p/chunks.m3u8?nimblesessionid=
-,trueepl4
-https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl4_480p/chunks.m3u8?nimblesessionid=
- group-title="TH/warpfootball",trueepl5
-https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl5_480p/chunks.m3u8?nimblesessionid=
 
 + + + + + + + + + + +
 
@@ -3192,52 +3209,9 @@ http://fw02.livem3u8.me.totiptv.com:80/live/29a09591a6604ff3b798cd7ef809e4bd.m3u
 http://fw02.livem3u8.me.totiptv.com:80/live/29fb241f985c468e8e6ffa8942b00a69.m3u8?bitrate=1500&code=894544cfcef791e4a064261d29e02bed
 http://fw02.livem3u8.me.totiptv.com:80/live/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?bitrate=1500&code=be240fcc2bb5951c05a6a98a44066179
 
-+ + + + + http://doo2you.com/live-tv + + + + +
-
-
-https://live.we-play.tv/sports/tpf2/chunks.m3u8?nimblesessionid=48899756&wmsAuthSign=
-https://live.we-play.tv/entertainment/hbo-hd/chunks.m3u8?nimblesessionid=48900047&wmsAuthSign=
-
-https://live.we-play.tv/sports/skynethd/chunks.m3u8?nimblesessionid=48900148&wmsAuthSign=
-
-+ + + + + https://www.warpfootball.games/live / 103.253.74.7:443 + + + + +
-
-https://www.warpfootball.games/live/?ch=epl1
-https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl1_480p/chunks.m3u8?nimblesessionid=4910196&wmsAuthSign=
-https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl2_480p/chunks.m3u8?nimblesessionid=4910202&wmsAuthSign=
-https://cdn221.cloud-streaming.com/wrapfootball_t5/hd-hbo-thai/chunks.m3u8?nimblesessionid=
-
-+ + + + + + + + + + 
-http://www.iamntp.com/tv/allchannel/hbdhd.m3u8
-
-http://www.iamntp.com/tv/allchannel/epl1.m3u8
-http://www.iamntp.com/tv/allchannel/epl2.m3u8
-http://www.iamntp.com/tv/allchannel/epl3.m3u8
-http://www.iamntp.com/tv/allchannel/epl4.m3u8
-http://www.iamntp.com/tv/allchannel/epl5.m3u8
-http://www.iamntp.com/tv/allchannel/bein1.m3u8
-http://www.iamntp.com/tv/allchannel/bein2.m3u8
-http://www.iamntp.com/tv/allchannel/skynetsport1.m3u8
-http://www.iamntp.com/tv/allchannel/skynetsport2.m3u8
-http://www.iamntp.com/tv/allchannel/skynetsport6.m3u8
-http://www.iamntp.com/tv/allchannel/btsport1.m3u8
-http://www.iamntp.com/tv/allchannel/btsport2.m3u8
-http://www.iamntp.com/tv/allchannel/btsport3.m3u8
-http://www.iamntp.com/tv/allchannel/skysportf1.m3u8
-http://www.iamntp.com/tv/allchannel/skysportmainevent.m3u8
-http://www.iamntp.com/tv/allchannel/skysportfootball.m3u8
-http://www.iamntp.com/tv/allchannel/skysportpremiere.m3u8
-http://www.iamntp.com/tv/allchannel/skysportclicket.m3u8
-http://www.iamntp.com/tv/allchannel/skysportaction.m3u8
-http://www.iamntp.com/tv/allchannel/skysportgolf.m3u8
-http://www.iamntp.com/tv/allchannel/skysportmix.m3u8
-
-https://cdn227.cloud-streaming.com/ballsod_y1/trueepl2_480p/playlist.m3u8?wmsAuthSign=
-
-
 + + + + + https://doomovie.com/live* / https://cdn-laos.workpoint.news / 89.187.169.15:443* + + + + +
 
-#EXTINF:-1 group-title="doomovie/offline",al-supersports1 |doomovie
+#EXTINF:-1 group-title="TH/doomovie/offline",al-supersports1 |doomovie
 https://doomovielive.b-cdn.net/al-supersports1_480/index.m3u8|Referer=https://doomovie.com
 https://doomovielive.b-cdn.net/al-supersports2_480/index.m3u8
 https://doomovielive.b-cdn.net/al-supersports3_480/index.m3u8
@@ -3440,7 +3414,7 @@ https://doomovielive.b-cdn.net/uk-skysports-golf_720/index.m3u8
 https://doomovielive.b-cdn.net/uk-skysports-mainevent_720/index.m3u8
 
 https://doomovielive.b-cdn.net/uk-skysports-mix_480/index.m3u8
-#EXTINF:-1 group-title="doomovie/offline",skysports news |doomovie
+#EXTINF:-1 group-title="TH/doomovie/offline",skysports news |doomovie
 https://doomovielive.b-cdn.net/uk-skysports-news_480/index.m3u8
 
 + + + + + + + + + +
@@ -3467,6 +3441,12 @@ https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1 tvg-id="Zee TV" group-title="IN/digijadoo",ZEE TV
 https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+
++ + + + + http://doo2you.com/live-tv + + + + +
+
+https://live.we-play.tv/sports/tpf2/chunks.m3u8?nimblesessionid=48899756&wmsAuthSign=
+https://live.we-play.tv/entertainment/hbo-hd/chunks.m3u8?nimblesessionid=48900047&wmsAuthSign=
+https://live.we-play.tv/sports/skynethd/chunks.m3u8?nimblesessionid=48900148&wmsAuthSign=
 
 + + + + + + + + + +
 
@@ -3771,36 +3751,6 @@ http://host4.dynns.com/wevelwe/443ea6ef1768462aaffdff38ce2a4355.m3u8
  group-title="h4/tot",ETV /wevelwe
 http://host4.dynns.com/wevelwe/dbab2fe24ce643689045d3c81e1954d6.m3u8
 
-+ + + + + http://www.iamntp.com/tv/ /TH + + + + + 
-
-http://139.99.17.52:8081/liveorigin/hd-foxaction_720/playlist.m3u8
-http://160.119.77.50/iptv/hd-foxpremium.stream/chunks.m3u8
-http://27.254.149.109:8081/tumlive/Foxfamily/playlist.m3u8
-http://www.iamntp.com/tv/allchannel/bein1.m3u8
-http://www.iamntp.com/tv/allchannel/bein2.m3u8
-http://www.iamntp.com/tv/allchannel/btsport1.m3u8
-http://www.iamntp.com/tv/allchannel/btsport2.m3u8
-http://www.iamntp.com/tv/allchannel/btsport3.m3u8
-http://www.iamntp.com/tv/allchannel/epl1.m3u8
-http://www.iamntp.com/tv/allchannel/epl2.m3u8
-http://www.iamntp.com/tv/allchannel/epl3.m3u8
-http://www.iamntp.com/tv/allchannel/epl4.m3u8
-http://www.iamntp.com/tv/allchannel/epl5.m3u8
-http://www.iamntp.com/tv/allchannel/hbdhd.m3u8
-http://www.iamntp.com/tv/allchannel/mutv.m3u8
-http://www.iamntp.com/tv/allchannel/skynetsport1.m3u8
-http://www.iamntp.com/tv/allchannel/skynetsport2.m3u8
-http://www.iamntp.com/tv/allchannel/skynetsport5.m3u8
-http://www.iamntp.com/tv/allchannel/skynetsport6.m3u8
-http://www.iamntp.com/tv/allchannel/skysportaction.m3u8
-http://www.iamntp.com/tv/allchannel/skysportclicket.m3u8
-http://www.iamntp.com/tv/allchannel/skysportf1.m3u8
-http://www.iamntp.com/tv/allchannel/skysportfootball.m3u8
-http://www.iamntp.com/tv/allchannel/skysportgolf.m3u8
-http://www.iamntp.com/tv/allchannel/skysportmainevent.m3u8
-http://www.iamntp.com/tv/allchannel/skysportmix.m3u8
-http://www.iamntp.com/tv/allchannel/skysportpremiere.m3u8
-
 
 + + + + + + + + + +
 
@@ -4022,7 +3972,7 @@ http://doo2you.com/tv/WE-PlAY-warner-tv.php
 https://live.we-play.tv/live/astro1/chunks.m3u8
 https://live.we-play.tv/live/astro2/chunks.m3u8
 https://live.we-play.tv/live/astro3/chunks.m3u8
-https://live.we-play.tv/live/astro4/playlist.m3u8
+https://live.we-play.tv/live/astro4/chunks.m3u8
 https://live.we-play.tv/live/bein1/chunks.m3u8
 https://live.we-play.tv/live/bein2/chunks.m3u8
 https://live.we-play.tv/live/btsport1/chunks.m3u8
@@ -4031,36 +3981,31 @@ https://live.we-play.tv/live/btsport3/chunks.m3u8
 https://live.we-play.tv/live/cinemax/chunks.m3u8
 https://live.we-play.tv/live/foodnetwork/chunks.m3u8
 https://live.we-play.tv/live/fox-action/chunks.m3u8
-https://live.we-play.tv/live/fox-action/playlist.m3u8
+https://live.we-play.tv/live/fox-action/chunks.m3u8
 https://live.we-play.tv/live/fox-fam/chunks.m3u8
-https://live.we-play.tv/live/fox-fam/playlist.m3u8
-https://live.we-play.tv/live/fox-family/playlist.m3u8
+https://live.we-play.tv/live/fox-fam/chunks.m3u8
+https://live.we-play.tv/live/fox-family/chunks.m3u8
 https://live.we-play.tv/live/fox-movies/chunks.m3u8
-https://live.we-play.tv/live/fox-movies/playlist.m3u8
-https://live.we-play.tv/live/fox-premium/playlist.m3u8
-https://live.we-play.tv/live/hbo-fam/playlist.m3u8
+https://live.we-play.tv/live/fox-movies/chunks.m3u8
+https://live.we-play.tv/live/fox-premium/chunks.m3u8
+https://live.we-play.tv/live/hbo-fam/chunks.m3u8
 https://live.we-play.tv/live/hbo-hd/chunks.m3u8
-https://live.we-play.tv/live/hbo-hd/playlist.m3u8
-https://live.we-play.tv/live/hbo-hits/playlist.m3u8
-https://live.we-play.tv/live/hbo-sig/playlist.m3u8
-https://live.we-play.tv/live/red/playlist.m3u8
-https://live.we-play.tv/live/skynet1/playlist.m3u8
-https://live.we-play.tv/live/skynet5/playlist.m3u8
-https://live.we-play.tv/live/skynet6/playlist.m3u8
+https://live.we-play.tv/live/hbo-hits/chunks.m3u8
+https://live.we-play.tv/live/hbo-sig/chunks.m3u8
+https://live.we-play.tv/live/red/chunks.m3u8
+https://live.we-play.tv/live/skynet1/chunks.m3u8
+https://live.we-play.tv/live/skynet5/chunks.m3u8
+https://live.we-play.tv/live/skynet6/chunks.m3u8
 https://live.we-play.tv/live/skynethd/chunks.m3u8
-https://live.we-play.tv/live/skynethd/playlist.m3u8
 https://live.we-play.tv/live/tpf1/chunks.m3u8
-https://live.we-play.tv/live/tpf2/chunks.m3u8
 https://live.we-play.tv/live/tpf2/chunks.m3u8
 https://live.we-play.tv/live/tpf3/chunks.m3u8
 https://live.we-play.tv/live/tpf4/chunks.m3u8
 https://live.we-play.tv/live/tpf5/chunks.m3u8
-https://live.we-play.tv/live/tpf5/playlist.m3u8
 https://live.we-play.tv/live/true-epl-1/chunks.m3u8
-https://live.we-play.tv/live/true-epl-1/playlist.m3u8
-https://live.we-play.tv/live/true-epl-5/playlist.m3u8
+https://live.we-play.tv/live/true-epl-2/chunks.m3u8
+https://live.we-play.tv/live/true-epl-5/chunks.m3u8
 https://live.we-play.tv/live/warner/chunks.m3u8
-https://live.we-play.tv/live/warner/playlist.m3u8
 https://live.we-play.tv/live/warnertv/chunks.m3u8
 
 https://vip.we-play.tv/live/tpf1/chunks.m3u8
@@ -4078,7 +4023,7 @@ https://live.vvipscore.com/vvipscore_app/lovenature/playlist.m3u8
 
 + + + + + + + + + + +
 
- group-title="doomovie",truesports HD 1 |doomovie'
+ group-title="doomovie/offline",truesports HD 1 |doomovie'
 https://livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
 
 https://livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
@@ -4253,14 +4198,14 @@ https://livedoomovies.com/03_skynetsport4_480p/Chunklist.m3u8
 https://livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
 ,SKYNET SPORTS 6 |doomovie'
 https://livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
- group-title="doomovie",SKYNET SPORTS HD |doomovie'
+ group-title="doomovie/offline",SKYNET SPORTS HD |doomovie'
 https://livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 
 https://livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
 
 + + + + + + + + + + +
 
- group-title="lnwlomtoe",ASSP |atvlb
+ group-title="lnwlomtoe/offline",ASSP |atvlb
 https://lnwlomtoe.atvlb.com/lnwlomtoe/ch1/playlist.m3u8
 https://lnwlomtoe.atvlb.com/lnwlomtoe/ch2/playlist.m3u8
 ,n.a
@@ -4360,13 +4305,13 @@ nation
 https://lnwlomtoe.atvlb.com/lnwlomtoe/ch66/playlist.m3u8
 ,digi spt 1 |atvlb
 https://lnwlomtoe.atvlb.com/lnwlomtoe/ch67/playlist.m3u8
- group-title="lnwlomtoe",digi spt 2 |atvlb
+ group-title="lnwlomtoe/offline",digi spt 2 |atvlb
 https://lnwlomtoe.atvlb.com/lnwlomtoe/ch68/playlist.m3u8
 https://lnwlomtoe.atvlb.com/lnwlomtoe/ch69/playlist.m3u8
 
 + + + + + + + + + + +
 
- group-title="newhost/off",newhostshare < 
+ group-title="newhost",newhostshare < 
 http://newhostshare.ddns.net:9981/playlist/channels < https://rebrand.ly/nhs-1
 
  group-title="newhost/off",Astro1 //newhost
@@ -4375,7 +4320,7 @@ Astro2 //newhost
 http://newhostshare.ddns.net:9981/stream/service/b6c2802f80f0ac2b0ce0ee91b6b6ac9b
 Astro3 //newhost
 http://newhostshare.ddns.net:9981/stream/service/e4a9152e3b36c77efddf0dc784e43030
- group-title="newhost/off",Astro4 //newhost
+ group-title="newhost",Astro4 //newhost
 http://newhostshare.ddns.net:9981/stream/service/62641b10de8bed50413719d41ec341cd
 
 + + + + + https://freetvdd.com* + + + + + +
@@ -4591,7 +4536,7 @@ https://streaming.livescorethai.net/iptv/uk-skysports-mix.stream/chunks.m3u8?wms
 #EXTINF:-1 group-title="TH/freetvdd",uk-skysports-news |freetvdd
 https://streaming.livescorethai.net/iptv/uk-skysports-news.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
 
-+ + + + + + + + + + +
++ + + + + https://tv.trueid.net + + + + + +
 
 https://tv.trueid.net/embed/9mcot-hd?autoplay=yes&nopageview=yes
 https://tv.trueid.net/embed/altv?autoplay=yes&nopageview=yes
@@ -5973,12 +5918,49 @@ http://www.iamntp.com/tv/link/pptv.php
 http://www.iamntp.com/tv/link/wp. php
 http://www.iamntp.com/tv/link/ch8.php
 http://www.iamntp.com/tv/link/true4u.php
-http://www.iamntp.com/tv/link/tnn .php
+http://www.iamntp.com/tv/link/tnn.php
 http://www.iamntp.com/tv/link/mono29.php
 http://www.iamntp.com/tv/link/monoplus.php
 http://www.iamntp.com/tv/link/gmm.php
 http://www.iamntp.com/tv/link/newtv.php
 http://www.iamntp.com/tv/link/hbo.php
+
++ + + + + http://www.iamntp.com/tv/ + + + + + 
+
+http://139.99.17.52:8081/liveorigin/hd-foxaction_720/playlist.m3u8
+http://160.119.77.50/iptv/hd-foxpremium.stream/chunks.m3u8
+http://27.254.149.109:8081/tumlive/Foxfamily/playlist.m3u8
+#EXTINF:-1 group-title="TH/iamntp",bein1
+http://www.iamntp.com/tv/allchannel/bein1.m3u8
+http://www.iamntp.com/tv/allchannel/bein2.m3u8
+http://www.iamntp.com/tv/allchannel/btsport1.m3u8
+http://www.iamntp.com/tv/allchannel/btsport2.m3u8
+http://www.iamntp.com/tv/allchannel/btsport3.m3u8
+#EXTINF:-1,epl1
+http://www.iamntp.com/tv/allchannel/epl1.m3u8
+#EXTINF:-1,epl2
+http://www.iamntp.com/tv/allchannel/epl2.m3u8
+http://www.iamntp.com/tv/allchannel/epl3.m3u8
+http://www.iamntp.com/tv/allchannel/epl4.m3u8
+http://www.iamntp.com/tv/allchannel/epl5.m3u8
+http://www.iamntp.com/tv/allchannel/hbdhd.m3u8
+http://www.iamntp.com/tv/allchannel/mutv.m3u8
+http://www.iamntp.com/tv/allchannel/skynetsport1.m3u8
+http://www.iamntp.com/tv/allchannel/skynetsport2.m3u8
+http://www.iamntp.com/tv/allchannel/skynetsport3.m3u8
+http://www.iamntp.com/tv/allchannel/skynetsport4.m3u8
+http://www.iamntp.com/tv/allchannel/skynetsport5.m3u8
+http://www.iamntp.com/tv/allchannel/skynetsport6.m3u8
+http://www.iamntp.com/tv/allchannel/skysportaction.m3u8
+http://www.iamntp.com/tv/allchannel/skysportclicket.m3u8
+http://www.iamntp.com/tv/allchannel/skysportf1.m3u8
+http://www.iamntp.com/tv/allchannel/skysportfootball.m3u8
+http://www.iamntp.com/tv/allchannel/skysportgolf.m3u8
+http://www.iamntp.com/tv/allchannel/skysportmainevent.m3u8
+http://www.iamntp.com/tv/allchannel/skysportmix.m3u8
+
+#EXTINF:-1 group-title="TH/iamntp",skysport premiere
+http://www.iamntp.com/tv/allchannel/skysportpremiere.m3u8
 
 + + + + + https://www.doomovie-hd.com / moviemocha.com + + + + +
 
@@ -6031,9 +6013,7 @@ https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxActionHD_TH_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxCrimeHD_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="FOX Family Movies HD",Fox Family Movies HD |doomovie-hd
 https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8
-
 https://www.livedoomovies.com/02_FoxFamilyHD_TH_720p/Chunklist.m3u8
 #EXTINF:-1 tvg-id="FOX Movies HD",Fox Movies HD |doomovie-hd
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
@@ -6096,13 +6076,9 @@ https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_PremierHD5_720p/Chunklist.m3u8
-#EXTINF:-1,Red by HBO |doomovie-hd
 https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
-
 https://www.livedoomovies.com/02_SabaideeTV_720p/chunklist.m3u8
-#EXTINF:-1,SCM |doomovie-hd
 https://www.livedoomovies.com/02_SCM_720p/chunklist.m3u8
-
 https://www.livedoomovies.com/02_SMM_TV_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_sport5_480p/chunklist .m3u8
@@ -6125,9 +6101,7 @@ https://www.livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_TrueFilmHD1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_TrueFilmHD2_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_VOICE_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="WarnerTV HD",WarnerTV HD |doomovie-hd
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-
 https://www.livedoomovies.com/02_Wish_Channel_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Zee Cinema",ZEE Cinema |doomovie-hd
@@ -6138,9 +6112,11 @@ https://www.livedoomovies.com/02_Zee_Nung_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_Zee_TV_720p/chunklist.m3u8
 #EXTINF:-1,SKYNET SPORTS 1 |doomovie-hd
 https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
-
+#EXTINF:-1,SKYNET SPORTS 2 |doomovie-hd
 https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1,SKYNET SPORTS 3 |doomovie-hd
 https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1,SKYNET SPORTS 4 |doomovie-hd
 https://www.livedoomovies.com/03_skynetsport4_480p/Chunklist.m3u8
 #EXTINF:-1,SKYNET SPORTS 5 |doomovie-hd
 https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
@@ -6159,6 +6135,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="IN/y5",ZEE Cafe
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+
++ + + + +
 
 #EXTINF:-1 group-title="IN/z5",& TV HD
 http://z5amshls.akamaized.net/andtvhd/tracks-v1a1/playlist.m3u8
