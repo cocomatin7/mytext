@@ -545,7 +545,7 @@ WBTV /offline |ftp
 https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KBS World HD",KBS World |ftp
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-#EXTINF:-1,Asian Food Network |ftp
+#EXTINF:-1 tvg-id="Asian Food Network",Asian Food Network |ftp
 https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 #EXTINF:-1,NHK World Japan |ftp
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/playlist.m3u8
@@ -554,7 +554,7 @@ https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
 
 + + + + +
 
- group-title="VN|rtp",Asian Food Network (HD 6.5Mbps) |rtp
+ tvg-id="Asian Food Network" group-title="VN|rtp",Asian Food Network (HD 6.5Mbps) |rtp
 http://123.18.1.200:4022/rtp/232.84.2.129:9570
 ,Asian Food Network |rtp
 http://123.18.1.200:4022/rtp/232.84.1.115:10236
@@ -613,9 +613,9 @@ http://123.18.1.200:4022/rtp/232.84.1.91:10404
 
 + + + + +
 
-#EXTINF:-1 group-title="VN|udp",Asian Food Network (HD 8Mbps) |udp
+#EXTINF:-1 tvg-id="Asian Food Network" group-title="VN|udp",Asian Food Network (HD 8Mbps) |udp
 http://fpthanhyen.ddns.net:1211/udp/225.1.1.198:30120
-#EXTINF:-1,Asian Food Network HD |udp
+#EXTINF:-1 tvg-id="Asian Food Network",Asian Food Network HD |udp
 http://fpthanhyen.ddns.net:1211/udp/225.1.4.36:30120
 #EXTINF:-1,BBC WORLD NEWS (HD 8Mbps) |udp
 http://fpthanhyen.ddns.net:1211/udp/225.1.2.74:30120
@@ -667,7 +667,7 @@ http://fpthanhyen.ddns.net:1211/udp/225.1.4.14:30120
 
 + + + + +
 
-#EXTINF:-1 group-title="VN/a-play",Asian Food Channel
+#EXTINF:-1 tvg-id="Asian Food Network" group-title="VN/a-play",Asian Food Channel
 http://xemtivi@khongcopylink:camoncanhaRestream@a-play.anhthanhnien.ga:9981/stream/channelid/53615430
 #EXTINF:-1,BBC EARTH
 http://xemtivi@khongcopylink:camoncanhaRestream@a-play.anhthanhnien.ga:9981/stream/channelid/2011774778
@@ -1270,7 +1270,7 @@ https://104.248.152.125/sd-24u_480/index.m3u8
 https://104.248.152.125/sd-aljazeera_480/index.m3u8
 https://104.248.152.125/sd-animalplaneteng_480/index.m3u8
 https://104.248.152.125/sd-arirang_480/index.m3u8
-#EXTINF:-1,afc |104.248
+#EXTINF:-1 tvg-id="Asian Food Network",afn |104.248
 https://104.248.152.125/sd-asianfood_480/index.m3u8
 
 https://104.248.152.125/sd-asianseriesalt_480/index.m3u8
@@ -1639,7 +1639,7 @@ http://139.99.17.52:8081/liveorigin/rs-arena3_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/rs-arena4_480/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/sd-24u_480/playlist.m3u8
-#EXTINF:-1,afn |139.99 
+#EXTINF:-1 tvg-id="Asian Food Network",afn |139.99 
 http://139.99.17.52:8081/liveorigin/sd-asianfood_480/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/sd-bbcearth_720/playlist.m3u8
@@ -4443,7 +4443,7 @@ https://streaming.livescorethai.net/iptv/rs-arena2.stream/chunks.m3u8?wmsAuthSig
 https://streaming.livescorethai.net/iptv/rs-arena3.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
 https://streaming.livescorethai.net/iptv/rs-arena4.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
 https://streaming.livescorethai.net/iptv/sd-24u.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
-#EXTINF:-1,afn |freetvdd
+#EXTINF:-1 tvg-id="Asian Food Network",afn |freetvdd
 https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
 
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
@@ -5087,7 +5087,7 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin/rs-arena3_480/playlist.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin/rs-arena4_480/playlist.m3u8
 
 https://vodcache.worldwidetv.club/root-c2/liveorigin/sd-24u_480/playlist.m3u8
-#EXTINF:-1,afc |wwtv
+#EXTINF:-1 tvg-id="Asian Food Network",afn |wwtv
 https://vodcache.worldwidetv.club/root-c2/liveorigin/sd-asianfood_480/playlist.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin/sd-bbcearth_720/playlist.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin/sd-bbclifestyle_720/playlist.m3u8
@@ -5433,7 +5433,7 @@ https://vodcache.worldwidetv.club/root-c2/live-abr/rs-arena3/liveorigin/rs-arena
 https://vodcache.worldwidetv.club/root-c2/live-abr/rs-arena4/liveorigin/rs-arena4_480/playlist.m3u8
 
 https://vodcache.worldwidetv.club/root-c2/live-abr/sd-24u/liveorigin/sd-24u_480/playlist.m3u8
-#EXTINF:-1,afc ||wwtv'
+#EXTINF:-1 tvg-id="Asian Food Network",afn ||wwtv'
 https://vodcache.worldwidetv.club/root-c2/live-abr/sd-asianfood/liveorigin/sd-asianfood_480/playlist.m3u8
 https://vodcache.worldwidetv.club/root-c2/live-abr/sd-bbcearth/liveorigin/sd-bbcearth_720/playlist.m3u8
 https://vodcache.worldwidetv.club/root-c2/live-abr/sd-bbclifestyle/liveorigin/sd-bbclifestyle_720/playlist.m3u8
@@ -5781,7 +5781,7 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/rs-arena3/liveorigin/rs
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/rs-arena4/liveorigin/rs-arena4_480/playlist.m3u8
 
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-24u/liveorigin/sd-24u_480/playlist.m3u8
-#EXTINF:-1,afc ||wwtv
+#EXTINF:-1 tvg-id="Asian Food Network",afn ||wwtv
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-asianfood/liveorigin/sd-asianfood_480/playlist.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-bbcearth/liveorigin/sd-bbcearth_720/playlist.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/sd-bbclifestyle/liveorigin/sd-bbclifestyle_720/playlist.m3u8
