@@ -2814,6 +2814,7 @@ https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd2_720/chunks.m3u8
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd3_720/chunks.m3u8
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd4_720/chunks.m3u8
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd5_720/chunks.m3u8
+
 https://cdn161.cloud-streaming.com/ilike4kin_x6/3hd_720p/chunks.m3u8
 https://cdn161.cloud-streaming.com/ilike4kin_x6/5hd_720p/chunks.m3u8
 https://cdn161.cloud-streaming.com/ilike4kin_x6/7hd_720p/chunks.m3u8
@@ -7048,9 +7049,30 @@ http://iptv.biz.id:8888/lombok/lombok123/118
 
 + + + + + + + + + + +
 
-#EXTINF:-1 tvg-ID="" tvg-name="ZEE BANGLA" group-title="IN/kitv",ZEE BANGLA
-http://iptv.kitv.live:1935/live/Shari/MTV-P/21.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZING",ZING
+#EXTINF:-1 group-title="IN/kitv",ZEE TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
+#EXTINF:-1,ZEE CINEMA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
+#EXTINF:-1,Star Sports Select 2 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+#EXTINF:-1,Star Sports Select 1 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
+#EXTINF:-1,STAR MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
+#EXTINF:-1,MTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
+#EXTINF:-1,HBO
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
+#EXTINF:-1,Bflix MOVIE
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
+#EXTINF:-1,BBC WORLD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
+#EXTINF:-1 group-title="IN/kitv",&Flix
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
+
++ + + + +
+
+#EXTINF:-1 tvg-ID="" tvg-name="ZING" group-title="IN/kitv",ZING
 http://iptv.kitv.live:1935/live/Shari/MTV-P/81.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ZEE TV",ZEE TV
 http://iptv.kitv.live:1935/live/Shari/MTV-P/28.ts
