@@ -69,7 +69,7 @@ rtmp://203.81.81.229/livepkgr/NRC
 #EXTINF:-1 group-title="MM", MRTV farmer | rtmp
 rtmp://203.81.81.229/livepkgr/farmer
 
-+ + + + + + + + + + 
++ + + + + my sports + + + + + 
 
 #EXTINF:-1 group-title="MM", mycujoo ch1
 https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/cke3zn94ndqci0gazwqz8sc7g/480p/playlist.m3u8
@@ -422,7 +422,7 @@ https://rebrand.ly/HIT-62
 https://rebrand.ly/SIG-62
 #EXTINF:-1 tvg-id="RED BY HBO HD", Red By HBO |ID
 https://rebrand.ly/RED-62
-#EXTINF:-1, HBO ID |ID
+#EXTINF:-1, HBO IN |ID
 https://rebrand.ly/HB-IN-62
 #EXTINF:-1, & Pic |ID
 https://rebrand.ly/nPI-62
@@ -548,6 +548,7 @@ http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlea
 #EXTINF:-1 group-title="cookie", EPL
 https://delivery.ghanacloud.ga/PremierLeagueChannel/index.m3u8
 
++ + + + + VN + + + + +
 
 #EXTINF:-1 tvg-id="FOX Movies HD" group-title="VN",Fox Movies |ftp
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
@@ -584,7 +585,7 @@ https://livecdn.fptplay.net/world/nhkworld_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VN",CNA |ftp
 https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
 
-+ + + + +
++ + + + + 
 
  tvg-id="Asian Food Network" group-title="VN|rtp",Asian Food Network (HD 6.5Mbps) |rtp
 http://123.18.1.200:4022/rtp/232.84.2.129:9570
@@ -643,6 +644,7 @@ http://123.18.1.200:4022/rtp/232.84.2.51:10516
  tvg-id="WarnerTV HD" group-title="VN|rtp",WB TV |rtp
 http://123.18.1.200:4022/rtp/232.84.1.91:10404
 
++ + + + +
 
 #EXTINF:-1 tvg-id="Asian Food Network" group-title="VN|udp",Asian Food Network (HD 8Mbps) |udp
 http://fpthanhyen.ddns.net:1211/udp/225.1.1.198:30120
@@ -696,6 +698,7 @@ http://fpthanhyen.ddns.net:1211/udp/225.1.1.139:30120
 #EXTINF:-1 group-title="VN|udp",WBTV |udp
 http://fpthanhyen.ddns.net:1211/udp/225.1.4.14:30120
 
++ + + + +
 
 #EXTINF:-1 tvg-id="Asian Food Network" group-title="VN/a-play",Asian Food Channel
 http://xemtivi@khongcopylink:camoncanhaRestream@a-play.anhthanhnien.ga:9981/stream/channelid/53615430
@@ -773,6 +776,7 @@ http://xemtivi@khongcopylink:camoncanhaRestream@a-play.anhthanhnien.ga:9981/stre
 #EXTINF:-1 group-title="VN/a-play",KBS WORLD
 http://xemtivi@khongcopylink:camoncanhaRestream@a-play.anhthanhnien.ga:9981/stream/channelid/1676758256
 
++ + + + +
 
 #EXTINF:-1 group-title="VN/dns",HBO HD
 http://xemtivi@khongcopylink:camoncanha@tvheadendvn.duckdns.org:9981/stream/channelid/2127602561
@@ -833,6 +837,7 @@ http://xemtivi@khongcopylink:camoncanha@tvheadendvn.duckdns.org:9981/stream/chan
 #EXTINF:-1 group-title="VN/dns",KBS WORLD
 http://xemtivi@khongcopylink:camoncanha@tvheadendvn.duckdns.org:9981/stream/channelid/1676758256
 
++ + + + +
 
 #EXTINF:-1 group-title="VN/dns",Arirang
 http://xemtivi@khongcopylink:camoncanhaRestream@tvheadendvn.duckdns.org:9981/stream/channelid/1852497359
@@ -874,6 +879,7 @@ http://xemtivi@khongcopylink:camoncanhaRestream@tvheadendvn.duckdns.org:9981/str
 #EXTINF:-1 group-title="VN/dns",Waner TV
 http://xemtivi@khongcopylink:camoncanhaRestream@tvheadendvn.duckdns.org:9981/stream/channelid/1196965651
 
++ + + + + 27.254.149.109:8081 + + + + +
 
 #EXTINF:-1 group-title="TH/27",BBC WORLD NEWS
 http://27.254.149.109:8081/tumlive/BBC/chunks.m3u8
@@ -962,11 +968,14 @@ http://27.254.149.109:8081/tumlive/MOVH/playlist.m3u8
 http://27.254.149.109:8081/tumlive/Sunmovie/chunks.m3u8
 http://27.254.149.109:8081/tumlive/TFLM/playlist.m3u8
 
++ + + + + 87.117.234.107:1935 + + + + +
 
 #EXTINF:-1 group-title="IN/87.117",SPIKETV
 http://87.117.234.107:1935/live/SPIKETV/playlist.m3u8
 #EXTINF:-1,StarGold
 http://87.117.234.107:1935/live/StarGold/playlists.m3u8
+#EXTINF:-1,STAR GOLD SELECT FHD
+http://87.117.234.107:1935/live/STARGOLDSELECTFHD/playlists.m3u8
 #EXTINF:-1,StarMovies SELECT
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1,StarSports 1FHD
@@ -977,15 +986,15 @@ http://87.117.234.107:1935/live/StarSports2FHD/index.m3u8
 + + + + + 103.22.182.242:8081 + + + + + 
 
 http://103.22.182.242:8081/app/amarintv/chunks.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport" group-title="103.22",astro1 |103.22
+ tvg-id="Astro SuperSport" group-title="103.22",astro1 |103.22
 http://103.22.182.242:8081/app/astro1/chunks.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 2",astro2 |103.22
+ tvg-id="Astro SuperSport 2",astro2 |103.22
 http://103.22.182.242:8081/app/astro2/chunks.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 3",astro3 |103.22
+ tvg-id="Astro SuperSport 3",astro3 |103.22
 http://103.22.182.242:8081/app/astro3/chunks.m3u8
-#EXTINF:-1,bein 1 |103.22
+,bein 1 |103.22
 http://103.22.182.242:8081/app/bein1/chunks.m3u8
-#EXTINF:-1,bein 2 |103.22
+,bein 2 |103.22
 http://103.22.182.242:8081/app/bein2/chunks.m3u8
 
 http://103.22.182.242:8081/app/ch3hd/chunks.m3u8
@@ -993,33 +1002,35 @@ http://103.22.182.242:8081/app/ch5hd/chunks.m3u8
 http://103.22.182.242:8081/app/ch7hd/chunks.m3u8
 http://103.22.182.242:8081/app/mcothd/chunks.m3u8
 http://103.22.182.242:8081/app/one31/chunks.m3u8
+
 http://103.22.182.242:8081/app/skynet1/chunks.m3u8
 http://103.22.182.242:8081/app/skynet2/chunks.m3u8
 http://103.22.182.242:8081/app/skynet3/chunks.m3u8
 http://103.22.182.242:8081/app/skynet4/chunks.m3u8
-#EXTINF:-1,skynet sports 5 |103.22
+,skynet sports 5 |103.22
 http://103.22.182.242:8081/app/skynet5/chunks.m3u8
-#EXTINF:-1,skynet sports 6 |103.22
+,skynet sports 6 |103.22
 http://103.22.182.242:8081/app/skynet6/chunks.m3u8
-#EXTINF:-1,skynet sports hd |103.22
+,skynet sports hd |103.22
 http://103.22.182.242:8081/app/skynethd/chunks.m3u8
 
 http://103.22.182.242:8081/app/thairathtv/chunks.m3u8
 http://103.22.182.242:8081/app/thd1/chunks.m3u8
 http://103.22.182.242:8081/app/thd2/chunks.m3u8
 http://103.22.182.242:8081/app/thd3/chunks.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",  True Premiere Football 1 |103.22
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",  True Premiere Football 1 |103.22
 http://103.22.182.242:8081/app/tpf1/chunks.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",  True Premiere Football 2 |103.22
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",  True Premiere Football 2 |103.22
 http://103.22.182.242:8081/app/tpf2/chunks.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3",  True Premiere Football 3 |103.22
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3",  True Premiere Football 3 |103.22
 http://103.22.182.242:8081/app/tpf3/chunks.m3u8
 
 http://103.22.182.242:8081/app/tpf4/chunks.m3u8
 http://103.22.182.242:8081/app/tpf5/chunks.m3u8
-#EXTINF:-1 group-title="103.22",workpoint |103.22
+ group-title="103.22",workpoint |103.22
 http://103.22.182.242:8081/app/workpoint/chunks.m3u8
 
++ + + + + 103.135.208.14:80 + + + + +
 
 #EXTINF:-1 group-title="IN/103.135/Offline",& Flix
 http://103.135.208.14:80/ibox/bd/125
@@ -1072,6 +1083,7 @@ http://103.135.208.14:80/ibox/bd/110
 #EXTINF:-1 tvg-id="Zee TV" group-title="IN/103.135/Offline",Zee TV 
 http://103.135.208.14:80/ibox/bd/51
 
++ + + + + 103.141.66.36 + + + + +
 
 #EXTINF:-1 group-title="IN/103.141", &flix
 http://103.141.66.36/bpk-tv/10304/default/index.m3u8
@@ -1136,6 +1148,7 @@ http://103.208.24.234:1935/thaisport/epl-bein2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TH/130", tsport7 |103
 http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8 
 
++ + + + + 103.214.202.218:8081 + + + + + 
 
 #EXTINF:-1 group-title="IN/103.214", &flix
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
@@ -1359,6 +1372,7 @@ https://104.248.152.125/uk-skysports-mix_480/index.m3u8
 
 offline https://104.248.152.125/uk-skysports-news_480/index.m3u8
 
++ + + + + 119.59.125.74 + + + + +
 
 #EXTINF:-1 group-title="119/totnew",Celestial Classic Movies (CCM) |119
 http://119.59.125.74/stream/totnew.php?channel_id=1c2276a2f1884b269ce281c3334e8f85
@@ -1741,27 +1755,6 @@ http://139.99.17.52:8081/liveorigin/us-nflnow_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/us-nhl_480/playlist.m3u8
 #EXTINF:-1 group-title="139.99",us-wwe |139.99
 http://139.99.17.52:8081/liveorigin/us-wwe_480/playlist.m3u8
-
-+ + + + + 145.239.255.4:8080 + + + + +
-
- tvg-id="BBCWorldNews.uk" group-title="145.239",bbcnews HD |145
-http://145.239.255.4:8080/bbcnews/mono.m3u8?token=test
-,CNN HD |145
-http://145.239.255.4:8080/en-CNN-HD/mono.m3u8?token=test
-,MTV Hits |145
-http://145.239.255.4:8080/MTVH/mono.m3u8?token=test
-,Sky Movies Action |145
-http://145.239.255.4:8080/SkyAction/mono.m3u8?token=test
-,Sky Movies Comedy |145
-http://145.239.255.4:8080/SkyComedy/mono.m3u8?token=test
-,Sky Movies Disney |145
-http://145.239.255.4:8080/SkyDisney/mono.m3u8?token=test
-,Sky Movies Premiere |145
-http://145.239.255.4:8080/SkyPremiere/mono.m3u8?token=test
-,Sony Movies |145 
-http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
-group-title="145.239",TCM |145 
-http://145.239.255.4:8080/TCMUK/mono.m3u8?token=test
 
 + + + + + 160.119.77.50 + + + + + 
 
@@ -2311,41 +2304,6 @@ http://203.154.243.89:11739
 #EXTINF:-1 group-title="203.154.243",Movies HD |203.154
 http://203.154.243.89:12037
 
-+ + + + + 211.75.9.37:20020 + + + + +
-
- group-title="211.75", Hollywood |211
-http://211.75.9.37:20020/20022
- tvg-id="Cinemax HD", Cinemax |211
-http://211.75.9.37:20020/20023
- tvg-id="Cinemax HD", Cinemax' |211
-http://211.75.9.37:20060/20063
-, HBO Hits |211
-http://211.75.9.37:20030/20032
-, HBO Hits' |211
-http://211.75.9.37:20030/20033
- tvg-id="HBO Signature HD", HBO Signature |211
-http://211.75.9.37:20030/20034
- tvg-id="HBO Signature HD", HBO Signature' |211
-http://211.75.9.37:20030/20035
- tvg-id="HBO Family HD", HBO Family |211
-http://211.75.9.37:20030/20036
- tvg-id="HBO Family HD", HBO Family' |211
-http://211.75.9.37:20030/20037
- tvg-id="FOX Movies HD", Fox Movies HD |211
-http://211.75.9.37:20040/20046
-, AXN HD |211
-http://211.75.9.37:20020/20029
-, TLC HD |211
-http://211.75.9.37:20000/20001
-, Animal Planet |211
-http://211.75.9.37:20000/20002
-, Disney Channel |211
-http://211.75.9.37:20040/20044
-, Fox Sports HD |211
-http://211.75.9.37:20020/20025
- group-title="211.75", Fox Sports HD |211
-http://211.75.9.37:20060/20065
-
 + + + + + https://www.movie1168.com / https://cdn-laos.workpoint.news + + + + +
 
  group-title="TH/movie1168",epl-bein1 |m1168
@@ -2798,9 +2756,9 @@ https://cdn17.cloud-streaming.com/sportpack_x3/skynet6/chunks.m3u8?nimblesession
 
 + + + + + cloud-streaming + + + + +
 
-#EXTINF:-1 group-title="cloud/ilike4kin",premier hd1 /ilike4kin
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="cloud/ilike4kin",premier hd1 /ilike4kin
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd1_720/chunks.m3u8
-#EXTINF:-1,premier hd2 /ilike4kin
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",premier hd2 /ilike4kin
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd2_720/chunks.m3u8
 
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd3_720/chunks.m3u8
@@ -2870,7 +2828,7 @@ https://cdn227.cloud-streaming.com/ballsoi8_r3/skynet6/chunks.m3u8?nimblesession
 hd-hbo-thai
 https://cdn227.cloud-streaming.com/ballsoi8_r5/hd-hbo-thai/chunks.m3u8?nimblesessionid=
 
-+ + + + + + + + + + +
++ + + + + totiptv.com + + + + + +
 
 STAR MAX Channel
 http://cwt02.livem3u8.me.totiptv.com/live/4e38ed2fa4dd43999828eab81196deff.m3u8?pt=1
@@ -3192,11 +3150,9 @@ https://doomovielive.b-cdn.net/al-supersports4_480/index.m3u8
 https://doomovielive.b-cdn.net/al-supersports5_480/index.m3u8
 #EXTINF:-1,epl-bein1 |doomovie
 https://doomovielive.b-cdn.net/epl-bein1_720/index.m3u8
-
-#EXTINF:-1,epl-bein1 /doomovie
-
 #EXTINF:-1,epl-bein2 |doomovie
 https://doomovielive.b-cdn.net/epl-bein2_720/index.m3u8
+
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",epl-x1 |doomovie
 https://doomovielive.b-cdn.net/epl-x1_720/index.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",epl-x2 |doomovie
@@ -3397,7 +3353,9 @@ http://dootvthai-hd.com/cmd/api/true/CH3-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/CH5-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/Fantv/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/idstation/playlist.m3u8
+#EXTINF:-1 group-title="TH/dootvthai-hd", KBS-World-HD |dootvthai-hd
 http://dootvthai-hd.com/cmd/api/true/KBS-World-HD/playlist.m3u8
+
 http://dootvthai-hd.com/cmd/api/true/KMTV-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/Laostarchannel/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/LIFE-TIME/playlist.m3u8
@@ -3408,14 +3366,20 @@ http://dootvthai-hd.com/cmd/api/true/RAMA-CHANNEL/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/SMART-SMEs/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/Super-entertain/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/thaithai/playlist.m3u8
+#EXTINF:-1, TVN |dootvthai-hd
 http://dootvthai-hd.com/cmd/api/true/TVN/playlist.m3u8
+#EXTINF:-1, Warner-HD |dootvthai-hd
 http://dootvthai-hd.com/cmd/api/true/Warner-HD/playlist.m3u8
+
 http://dootvthai-hd.com/cmd/api/true/Zee-Nung/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/9MCOT-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/9MCOT-HD/playlist.m3u8 
 http://dootvthai-hd.com/cmd/true/Amarintv-HD/playlist.m3u8
+#EXTINF:-1, ep1 |dootvthai-hd
 http://dootvthai-hd.com/cmd/true/ep1-1/playlist.m3u8
+#EXTINF:-1 group-title="TH/dootvthai-hd", ep2 |dootvthai-hd
 http://dootvthai-hd.com/cmd/true/ep2-1/playlist.m3u8
+
 http://dootvthai-hd.com/cmd/true/ep3-1/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/ep4-1/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/ep5-1/playlist.m3u8
@@ -3428,29 +3392,13 @@ http://dootvthai-hd.com/cmd/true/TNN-16/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/True4u/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/Workpointtv/playlist.m3u8
 
-
-#EXTINF:-1 group-title="IN/digijadoo",BBC WORLD
-https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
-https://edge01.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
-https://edge01.iptv.digijadoo.net/live/cnbc/chunks.m3u8
-https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
-https://edge01.iptv.digijadoo.net/live/cnn/playlist.m3u8
-#EXTINF:-1,CHANNEL NEWS
-https://edge01.iptv.digijadoo.net/live/channel_news/chunks.m3u8
-https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
-https://edge01.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
-https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1,ZEE CLASSIC
-https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1 tvg-id="Zee TV" group-title="IN/digijadoo",ZEE TV
-https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-
 + + + + + http://doo2you.com/live-tv + + + + +
 
 https://live.we-play.tv/sports/tpf2/chunks.m3u8?nimblesessionid=48899756&wmsAuthSign=
 https://live.we-play.tv/entertainment/hbo-hd/chunks.m3u8?nimblesessionid=48900047&wmsAuthSign=
 https://live.we-play.tv/sports/skynethd/chunks.m3u8?nimblesessionid=48900148&wmsAuthSign=
 
++ + + + + totiptv.com / h4 + + + + +
 
 #EXTINF:-1 group-title="TH/tot",CH3 HD
 http://host4.dynns.com/stream/a4485b656d764f308c63b14a8bf62326.m3u8
@@ -3602,6 +3550,7 @@ http://host4.dynns.com/stream/443ea6ef1768462aaffdff38ce2a4355.m3u8
 #EXTINF:-1 group-title="TH/tot",ETV
 http://host4.dynns.com/stream/dbab2fe24ce643689045d3c81e1954d6.m3u8
 
++ + + + +
 
  group-title="h4/tot",NHK WORLD TV /wevelwe
 http://host4.dynns.com/wevelwe/cd25fccffa6f4a2f8d7190d3e8907440.m3u8
@@ -3734,24 +3683,8 @@ http://host4.dynns.com/wevelwe/02cb79ab0b0c418f847148ca9e2baed4.m3u8
 http://host4.dynns.com/wevelwe/b254601a75724ad79e2633f3d307e331.m3u8
 http://host4.dynns.com/wevelwe/443ea6ef1768462aaffdff38ce2a4355.m3u8
 
-
  group-title="h4/tot",ETV /wevelwe
 http://host4.dynns.com/wevelwe/dbab2fe24ce643689045d3c81e1954d6.m3u8
-
-
-
-#EXTINF:-1 group-title="IN/indtv",And_TV
-http://indtv.online/And_TV_HD.m3u8
-#EXTINF:-1,BBC_Earth_HD
-http://indtv.online/Sony_BBC_Earth_HD.m3u8
-#EXTINF:-1,PAL
-http://indtv.online/Sony_PAL.m3u8
-#EXTINF:-1,Pix
-http://indtv.online/Sony_Pix_HD.m3u8
-#EXTINF:-1 tvg-id="Zee Cinema",Zee_Cinema
-http://indtv.online/Zee_Cinema_HD.m3u8
-#EXTINF:-1 group-title="IN/indtv",zee_Tv
-http://indtv.online/zee_Tv_HD.m3u8
 
 + + + + + ip2121.com + + + + + 
 
@@ -3771,6 +3704,7 @@ http://ip2121.com:8081/live2/AXN_Y/chunks.m3u8
 http://ip2121.com:8081/live2/foxpre/chunks.m3u8
 
 + + + + + iptv-wow.my.id / https://www.livedoomovies.com  + + + + +
+
 #EXTINF:-1 group-title="iptv-wow", true1
 http://iptv-wow.my.id/jupuk/data/true1.m3u8
 #EXTINF:-1, true2
@@ -3787,6 +3721,7 @@ http://iptv-wow.my.id/jupuk/data/ts6.m3u8
 #EXTINF:-1 group-title="iptv-wow", ts7
 http://iptv-wow.my.id/jupuk/data/ts7.m3u8
 
++ + + + + https://itpolly.iptv.digijadoo.net + + + + +
 
 #EXTINF:-1 group-title="IN/itpolly",BBC WORLD |itpolly
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
@@ -3794,6 +3729,8 @@ https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 #EXTINF:-1,COLORS |itpolly
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1,NAT GEO WILD |itpolly
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,STAR GOLD |itpolly
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1,STAR PLUS HD |itpolly
@@ -3903,7 +3840,7 @@ http://doo2you.com/tv/WE-PlAY-astro-supersport-3.php
 #EXTINF:-1 group-title="TH/we-play",true-epl-1' //we-play
 https://live.we-play.tv/sports/true-epl-1/chunks.m3u8?nimblesessionid=48607621&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIwIDExOjMyOjUyIEFNJmhhc2hfdmFsdWU9SmUzbjM4bkdtbm1XMmEyekJOaldqUT09JnZhbGlkbWludXRlcz0yMA==
 
-
++ + + + +
 
 https://live.we-play.tv/live/astro1/chunks.m3u8
 https://live.we-play.tv/live/astro2/chunks.m3u8
@@ -3943,15 +3880,18 @@ https://live.we-play.tv/live/warnertv/chunks.m3u8
 
 https://vip.we-play.tv/live/tpf1/chunks.m3u8
 
++ + + + + + + + + +
 
 https://live.dufree4k.net/02_PremierHD1_720p/chunklist.m3u8
 https://live.dufree4k.net/02_SCM_720p/chunklist.m3u8
 https://live.dufree4k.net/03_skynetsporthd_720p/chunklist.m3u8
 
++ + + + +
 
 https://live.vvipscore.com/vvipscore_app/animalplanet/playlist.m3u8
 https://live.vvipscore.com/vvipscore_app/lovenature/playlist.m3u8
 
++ + + + + https://livedoomovies.com + + + + +
 
  group-title="doomovie/offline",truesports HD 1 |doomovie'
 https://livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
@@ -4133,6 +4073,7 @@ https://livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 
 https://livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
 
++ + + + + https://lnwlomtoe.atvlb.com + + + + + +
 
  group-title="lnwlomtoe/offline",ASSP |atvlb
 https://lnwlomtoe.atvlb.com/lnwlomtoe/ch1/playlist.m3u8
@@ -4237,6 +4178,7 @@ https://lnwlomtoe.atvlb.com/lnwlomtoe/ch67/playlist.m3u8
 https://lnwlomtoe.atvlb.com/lnwlomtoe/ch68/playlist.m3u8
 https://lnwlomtoe.atvlb.com/lnwlomtoe/ch69/playlist.m3u8
 
++ + + + + http://newhostshare.ddns.net + + + + +
 
  group-title="newhost",newhostshare < 
 http://newhostshare.ddns.net:9981/playlist/channels < https://rebrand.ly/nhs-1
@@ -4518,6 +4460,7 @@ https://tv.trueid.net/embed/verytv?autoplay=yes&nopageview=yes
 https://tv.trueid.net/embed/workpointtv?autoplay=yes&nopageview=yes
 https://tv.trueid.net/embed/zee-nung?autoplay=yes&nopageview=yes
 
++ + + + + http://tv-cdn.ihub.live:8080 + + + + +
 
 #EXTINF:-1 group-title="IN/ihub",BBC News
 http://tv-cdn.ihub.live:8080/BBCNews/tracks-v1a1/mono.m3u8
@@ -4536,6 +4479,7 @@ http://tv-cdn.ihub.live:8080/StarPlusHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zee Cinema" group-title="IN/ihub",Zee Cinema
 http://tv-cdn.ihub.live:8080/ZeeCinema/tracks-v1a1/mono.m3u8
 
++ + + + + https://tv4.chang55.com + + + + +
 
  group-title="tv4/chang55-1",1 OFF
 https://tv4.chang55.com:446/live/tot01.stream/playlist.m3u8
@@ -4564,6 +4508,7 @@ https://tv4.chang55.com:446/live/tot13.stream/playlist.m3u8
  group-title="tv4/chang55-1",FOX TH
 https://tv4.chang55.com:446/live/tot14.stream/playlist.m3u8
 
++ + + + +
 
 #EXTINF:-1 group-title="TH/chang55",Skynet Sport HD |chang55
 https://tv4.chang55.com:446/live2/tv4ch01.stream/chunks.m3u8
@@ -5445,6 +5390,7 @@ https://vodcache.worldwidetv.club/root-c2/live-abr/uk-premiersports/liveorigin/u
 #EXTINF:-1 group-title="worldwidetv",us-wwe ||wwtv'
 https://vodcache.worldwidetv.club/root-c2/live-abr/us-wwe/liveorigin/us-wwe_480/playlist.m3u8
 
++ + + + +
 
 #EXTINF:-1 group-title="worldwidetv",af-supersport10 ||wwtv
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport1/liveorigin/af-supersport1_480/playlist.m3u8
@@ -5819,7 +5765,9 @@ http://www.iamntp.com/tv/link/hbo.php
 
 #EXTINF:-1 group-title="TH/iamntp",bein1
 http://www.iamntp.com/tv/allchannel/bein1.m3u8
+#EXTINF:-1 group-title="TH/iamntp",bein2
 http://www.iamntp.com/tv/allchannel/bein2.m3u8
+
 http://www.iamntp.com/tv/allchannel/btsport1.m3u8
 http://www.iamntp.com/tv/allchannel/btsport2.m3u8
 http://www.iamntp.com/tv/allchannel/btsport3.m3u8
@@ -6010,6 +5958,7 @@ https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="doomovie-hd",SKYNET SPORTS HD |doomovie-hd
 https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 
++ + + + + https://y5w8j4a9.ssl.hwcdn.net + + + + +
 
 #EXTINF:-1 group-title="IN/y5",& Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
@@ -6023,6 +5972,7 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="IN/y5",ZEE Cafe
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
++ + + + + http://z5amshls.akamaized.net + + + + +
 
 #EXTINF:-1 group-title="IN/z5",& TV HD
 http://z5amshls.akamaized.net/andtvhd/tracks-v1a1/playlist.m3u8
@@ -6060,6 +6010,7 @@ http://z5amshls.akamaized.net/zeetvhd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Zee TV" group-title="IN/z5",ZEE TV HD
 http://z5amshls.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 
++ + + + + + + + + +
 
 http://103.115.164.120:9981/playlist/channels
 http://103.215.177.194:9981/playlist/channels
@@ -6090,70 +6041,7 @@ http://82.46.29.80:9981/playlist/channels
 http://84.9.6.188:9981/playlist/channels
 http://95.145.54.106:9981/playlist/channels
 
-
-#EXTINF:-1 group-title="nooriptv",[CA] BBC WORLD NEWS HD
-http://best.nooriptv.xyz:8090/mousasecure/234333/26906
-#EXTINF:-1,[CA] CNBC HD
-http://best.nooriptv.xyz:8090/mousasecure/234333/26932
-#EXTINF:-1,[CA] CNN HD
-http://best.nooriptv.xyz:8090/mousasecure/234333/26933
-#EXTINF:-1,IN: &FLIX
-http://best.nooriptv.xyz:8090/mousasecure/234333/27050
-#EXTINF:-1,IN: & Picture HD
-http://best.nooriptv.xyz:8090/mousasecure/234333/1368
-#EXTINF:-1,IN: &PRIVE
-http://best.nooriptv.xyz:8090/mousasecure/234333/27049
-#EXTINF:-1,IN: &TV HD
-http://best.nooriptv.xyz:8090/mousasecure/234333/19328
-#EXTINF:-1,IN: Star Sports 1 Select HD
-http://best.nooriptv.xyz:8090/mousasecure/234333/2629
-#EXTINF:-1,IN: Star Sports 2 Select HD
-http://best.nooriptv.xyz:8090/mousasecure/234333/3530
-#EXTINF:-1 tvg-id="Zee Cinema",IN: ZEE Cinema HD
-http://best.nooriptv.xyz:8090/mousasecure/234333/19334
-#EXTINF:-1 tvg-id="Zee TV",IN: ZEE TV HD
-http://best.nooriptv.xyz:8090/mousasecure/234333/19329
-#EXTINF:-1,US: BLOOMBERG
-http://best.nooriptv.xyz:8090/mousasecure/234333/3352
-#EXTINF:-1,US: CNN HD
-http://best.nooriptv.xyz:8090/mousasecure/234333/3346
-#EXTINF:-1,US: NBCSN
-http://best.nooriptv.xyz:8090/mousasecure/234333/4278
-#EXTINF:-1,US: NBC SPORT Network
-http://best.nooriptv.xyz:8090/mousasecure/234333/3331
-#EXTINF:-1,UK: MTV Base
-http://best.nooriptv.xyz:8090/mousasecure/234333/24275
-#EXTINF:-1,UK: MTV Club
-http://best.nooriptv.xyz:8090/mousasecure/234333/24276
-#EXTINF:-1,UK: MTV Classic
-http://best.nooriptv.xyz:8090/mousasecure/234333/24277
-#EXTINF:-1,UK: MTV Hits
-http://best.nooriptv.xyz:8090/mousasecure/234333/24278
-#EXTINF:-1,UK: MTV OMG
-http://best.nooriptv.xyz:8090/mousasecure/234333/24279
-#EXTINF:-1,UK: MTV Rocks
-http://best.nooriptv.xyz:8090/mousasecure/234333/24280
-#EXTINF:-1,UK: Now 80s
-http://best.nooriptv.xyz:8090/mousasecure/234333/24286
-#EXTINF:-1,UK: NOW 90's
-http://best.nooriptv.xyz:8090/mousasecure/234333/24287
-#EXTINF:-1,UK: BBC News FHD
-http://best.nooriptv.xyz:8090/mousasecure/234333/24317
-#EXTINF:-1,UK: CNN HD
-http://best.nooriptv.xyz:8090/mousasecure/234333/24321
-#EXTINF:-1,DAZN 1 
-http://best.nooriptv.xyz:8090/mousasecure/234333/24415
-#EXTINF:-1,DAZN 2 
-http://best.nooriptv.xyz:8090/mousasecure/234333/24416
-#EXTINF:-1,DAZN 3 
-http://best.nooriptv.xyz:8090/mousasecure/234333/24417
-#EXTINF:-1,DAZN 4 
-http://best.nooriptv.xyz:8090/mousasecure/234333/24418
-#EXTINF:-1,DAZN 5 
-http://best.nooriptv.xyz:8090/mousasecure/234333/24419
-#EXTINF:-1 group-title="nooriptv",DAZN 6 
-http://best.nooriptv.xyz:8090/mousasecure/234333/24420
-
++ + + + + + + + + + 
 
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="clientbox",TH SP: True Premier Football 1 HD /clientbox
 http://clientbox.tv:80/DAVIDHOWELL/oWtCRRer2y/9683
@@ -6855,47 +6743,6 @@ http://goiptv.co:8080/live:39983a5362c9e761/cxcoi0ecLw/7074
 http://goiptv.co:8080/Ziouiahmed/ldfqcx8bvm/7075
 
 
-#EXTINF:-1 group-title="biz.id",FOX Family Movies
-http://iptv.biz.id:8888/lombok/lombok123/16
-#EXTINF:-1,FOX Movies
-http://iptv.biz.id:8888/lombok/lombok123/17
-#EXTINF:-1,HBO Family
-http://iptv.biz.id:8888/lombok/lombok123/18
-#EXTINF:-1,HBO Hits
-http://iptv.biz.id:8888/lombok/lombok123/19
-http://iptv.biz.id:8888/lombok/lombok123/20
-http://iptv.biz.id:8888/lombok/lombok123/21
-http://iptv.biz.id:8888/lombok/lombok123/44
-http://iptv.biz.id:8888/lombok/lombok123/46
-http://iptv.biz.id:8888/lombok/lombok123/41
-#EXTINF:-1,Asian Food Channel
-http://iptv.biz.id:8888/lombok/lombok123/43
-http://iptv.biz.id:8888/lombok/lombok123/48
-http://iptv.biz.id:8888/lombok/lombok123/98
-#EXTINF:-1,HBO Signature
-http://iptv.biz.id:8888/lombok/lombok123/1062
-http://iptv.biz.id:8888/lombok/lombok123/1063
-http://iptv.biz.id:8888/lombok/lombok123/125
-#EXTINF:-1,MTV Live
-http://iptv.biz.id:8888/lombok/lombok123/131
-#EXTINF:-1,MTV Music
-http://iptv.biz.id:8888/lombok/lombok123/132
-#EXTINF:-1,MTV Hits
-http://iptv.biz.id:8888/lombok/lombok123/133
-#EXTINF:-1,MTV Dance
-http://iptv.biz.id:8888/lombok/lombok123/134
-#EXTINF:-1,MTV Classic
-http://iptv.biz.id:8888/lombok/lombok123/135
-#EXTINF:-1,BeIN Sport 1
-http://iptv.biz.id:8888/lombok/lombok123/139
-#EXTINF:-1,BeIN Sport 2
-http://iptv.biz.id:8888/lombok/lombok123/140
-#EXTINF:-1,TVN Movies
-http://iptv.biz.id:8888/lombok/lombok123/119
-#EXTINF:-1 group-title="biz.id",Warner TV HD
-http://iptv.biz.id:8888/lombok/lombok123/118
-
-
 #EXTINF:-1 group-title="IN/kitv",ZEE TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
 #EXTINF:-1,ZEE CINEMA
@@ -6914,53 +6761,53 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="ZING" group-title="IN/kitv",ZING
+#EXTINF:-1 tvg-name="ZING" group-title="IN/kitv",ZING
 http://iptv.kitv.live:1935/live/Shari/MTV-P/81.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZEE TV",ZEE TV
+#EXTINF:-1 tvg-name="ZEE TV",ZEE TV
 http://iptv.kitv.live:1935/live/Shari/MTV-P/28.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ZEE CINEMA",ZEE CINEMA
+#EXTINF:-1 tvg-name="ZEE CINEMA",ZEE CINEMA
 http://iptv.kitv.live:1935/live/Shari/MTV-P/29.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Zee Anmol Cinema",Zee Anmol Cinema
+#EXTINF:-1 tvg-name="Zee Anmol Cinema",Zee Anmol Cinema
 http://iptv.kitv.live:1935/live/Shari/MTV-P/104.ts
-#EXTINF:-1 tvg-ID="" tvg-name="WOW CINEMA",WOW CINEMA
+#EXTINF:-1 tvg-name="WOW CINEMA",WOW CINEMA
 http://iptv.kitv.live:1935/live/Shari/MTV-P/106.ts
-#EXTINF:-1 tvg-ID="" tvg-name="STAR UTSAV MOVIES",STAR UTSAV MOVIES
+#EXTINF:-1 tvg-name="STAR UTSAV MOVIES",STAR UTSAV MOVIES
 http://iptv.kitv.live:1935/live/Shari/MTV-P/37.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Star Sports Select 2 HD",Star Sports Select 2 HD
+#EXTINF:-1 tvg-name="Star Sports Select 2 HD",Star Sports Select 2 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/52.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Star Sports Select 1 HD",Star Sports Select 1 HD
+#EXTINF:-1 tvg-name="Star Sports Select 1 HD",Star Sports Select 1 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/51.ts
-#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS FIRST",STAR SPORTS FIRST
+#EXTINF:-1 tvg-name="STAR SPORTS FIRST",STAR SPORTS FIRST
 http://iptv.kitv.live:1935/live/Shari/MTV-P/55.ts
-#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS 1",STAR SPORTS 1
+#EXTINF:-1 tvg-name="STAR SPORTS 1",STAR SPORTS 1
 http://iptv.kitv.live:1935/live/Shari/MTV-P/53.ts
-#EXTINF:-1 tvg-ID="" tvg-name="STAR PLUS",STAR PLUS
+#EXTINF:-1 tvg-name="STAR PLUS",STAR PLUS
 http://iptv.kitv.live:1935/live/Shari/MTV-P/27.ts
-#EXTINF:-1 tvg-ID="" tvg-name="STAR MOVIES",STAR MOVIES
+#EXTINF:-1 tvg-name="STAR MOVIES",STAR MOVIES
 http://iptv.kitv.live:1935/live/Shari/MTV-P/43.ts
-#EXTINF:-1 tvg-ID="" tvg-name="STAR GOLD",STAR GOLD
+#EXTINF:-1 tvg-name="STAR GOLD",STAR GOLD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/32.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MUSIC BOX",MUSIC BOX
+#EXTINF:-1 tvg-name="MUSIC BOX",MUSIC BOX
 http://iptv.kitv.live:1935/live/Shari/MTV-P/89.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MTV BEATS",MTV BEATS
+#EXTINF:-1 tvg-name="MTV BEATS",MTV BEATS
 http://iptv.kitv.live:1935/live/Shari/MTV-P/95.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MTV",MTV
+#EXTINF:-1 tvg-name="MTV",MTV
 http://iptv.kitv.live:1935/live/Shari/MTV-P/75.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MOVIE HOUSE",MOVIE HOUSE
+#EXTINF:-1 tvg-name="MOVIE HOUSE",MOVIE HOUSE
 http://iptv.kitv.live:1935/live/Shari/MTV-P/105.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO",HBO
+#EXTINF:-1 tvg-name="HBO",HBO
 http://iptv.kitv.live:1935/live/Shari/MTV-P/44.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ETC",ETC
+#EXTINF:-1 tvg-name="ETC",ETC
 http://iptv.kitv.live:1935/live/Shari/MTV-P/73.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bflix MOVIE",Bflix MOVIE
+#EXTINF:-1 tvg-name="Bflix MOVIE",Bflix MOVIE
 http://iptv.kitv.live:1935/live/Shari/MTV-P/35.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BBC WORLD",BBC WORLD
+#EXTINF:-1 tvg-name="BBC WORLD",BBC WORLD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/56.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BBC Lifestyle",BBC Lifestyle
+#EXTINF:-1 tvg-name="BBC Lifestyle",BBC Lifestyle
 http://iptv.kitv.live:1935/live/Shari/MTV-P/46.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BBC EARTH",BBC EARTH
+#EXTINF:-1 tvg-name="BBC EARTH",BBC EARTH
 http://iptv.kitv.live:1935/live/Shari/MTV-P/62.ts
-#EXTINF:-1 tvg-ID="" tvg-name="&Flix" group-title="IN/kitv",&Flix
+#EXTINF:-1 tvg-name="&Flix" group-title="IN/kitv",&Flix
 http://iptv.kitv.live:1935/live/Shari/MTV-P/40.ts
 
 
