@@ -155,12 +155,12 @@ http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/play
  tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="MM", 5 Plus'
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319209.png" group-title="MM", Channel 7
+#EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319209.png" group-title="MM", Channel 7
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
-#EXTINF:0, Channel 7 | fluxustv
+#EXTINF:-1, Channel 7 | fluxustv
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg", Channel K
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg", Channel K
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 
  group-title="MM", Fortune TV
@@ -173,23 +173,23 @@ https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
 #EXTINF:-1, Mahar TV /iptvmate
 http://maharlive.b-cdn.net/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://i.malimarcdn.com/MyanmarMaharBawdiHD.jpg" group-title="MM", MaharBawDi
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/MyanmarMaharBawdiHD.jpg" group-title="MM", MaharBawDi
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
-#EXTINF:0 group-title="MM", MaharBawDi'
+#EXTINF:-1 group-title="MM", MaharBawDi'
 https://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/index_450_av-b.m3u8
-#EXTINF:0 group-title="MM", MaharBawDi | fluxustv
+#EXTINF:-1 group-title="MM", MaharBawDi | fluxustv
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="MM", MRTV-4
+#EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="MM", MRTV-4
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
-#EXTINF:0 group-title="MM", MRTV-4 | fluxustv
+#EXTINF:-1 group-title="MM", MRTV-4 | fluxustv
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8?fluxustv.m3u8
 
-#EXTINF:0 group-title="MM",MVTV Myanmar
+#EXTINF:-1 group-title="MM",MVTV Myanmar
 https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
 #EXTINF:-1,MVM mynmar
 https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w2017686026.m3u8
-#EXTINF:0 group-title="MM",MVTV Myanmar'
+#EXTINF:-1 group-title="MM",MVTV Myanmar'
 https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w2034544246.m3u8
 
 + + + + + + + + + + 
@@ -343,6 +343,8 @@ https://rebrand.ly/h-hit
 https://rebrand.ly/h-sig
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO /org
 https://rebrand.ly/h-red
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO' /org
+https://rebrand.ly/h-red-2
 
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX //org
 https://rebrand.ly/h-cin2
@@ -1782,15 +1784,15 @@ http://145.239.255.4:8080/TCMUK/mono.m3u8?token=test
 
 + + + + + 160.119.77.50 + + + + + 
 
-#EXTINF:0 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="TH/160", True Premiere Football HD1 |160
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="TH/160", True Premiere Football HD1 |160
 http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2", True Premiere Football HD2 |160
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2", True Premiere Football HD2 |160
 http://160.119.77.50/iptv/epl-2.stream/playlist.m3u8
-#EXTINF:0, True Premiere Football HD3 |160
+#EXTINF:-1, True Premiere Football HD3 |160
 http://160.119.77.50/iptv/epl-3.stream/playlist.m3u8
-#EXTINF:0, True Premiere Football HD4 |160
+#EXTINF:-1, True Premiere Football HD4 |160
 http://160.119.77.50/iptv/epl-4.stream/playlist.m3u8
-#EXTINF:0, True Premiere Football HD5 |160
+#EXTINF:-1, True Premiere Football HD5 |160
 http://160.119.77.50/iptv/epl-5.stream/playlist.m3u8
 
 #EXTINF:-1, beIN 1 |160
@@ -1798,13 +1800,13 @@ http://160.119.77.50/iptv/hd-bein1.stream/playlist.m3u8
 #EXTINF:-1, beIN 2 |160
 http://160.119.77.50/iptv/hd-bein2.stream/playlist.m3u8
 
-#EXTINF:0, UK BBC World News HD |160
+#EXTINF:-1, UK BBC World News HD |160
 http://160.119.77.50/iptv/hd-bbcworldnews.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax HD", CINEMAX MM |160
 http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
-#EXTINF:0, CNN HD |160
+#EXTINF:-1, CNN HD |160
 http://160.119.77.50/iptv/hd-cnn.stream/playlist.m3u8
-#EXTINF:0, Discovery Asia HD ENG/MM |160
+#EXTINF:-1, Discovery Asia HD ENG/MM |160
 http://160.119.77.50/iptv/hd-discoveryeng.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Action Movies HD", Fox Action Movies HD |160
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
@@ -1814,52 +1816,52 @@ http://160.119.77.50/iptv/hd-foxfamily.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO HD", HBO MM |160
 http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
-#EXTINF:0, History ENG/MM HD |160
+#EXTINF:-1, History ENG/MM HD |160
 http://160.119.77.50/iptv/hd-historyeng.stream/playlist.m3u8
-#EXTINF:0 tvg-id="KBS World HD", KBS World HD |160
+#EXTINF:-1 tvg-id="KBS World HD", KBS World HD |160
 http://160.119.77.50/iptv/hd-kbsworld.stream/playlist.m3u8
-#EXTINF:0, MTV Live HD |160
+#EXTINF:-1, MTV Live HD |160
 http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8
-#EXTINF:0, Natgeo Graphic ENG HD |160
+#EXTINF:-1, Natgeo Graphic ENG HD |160
 http://160.119.77.50/iptv/hd-natgeoeng.stream/playlist.m3u8
-#EXTINF:0, Natgeo People ENG HD |160
+#EXTINF:-1, Natgeo People ENG HD |160
 http://160.119.77.50/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
-#EXTINF:0, Natgeo Wild ENG HD |160
+#EXTINF:-1, Natgeo Wild ENG HD |160
 http://160.119.77.50/iptv/hd-natgeowildeng.stream/playlist.m3u8
-#EXTINF:0 tvg-id="SCM HD", Star Chinese Movies ENG/MM HD |160
+#EXTINF:-1 tvg-id="SCM HD", Star Chinese Movies ENG/MM HD |160
 http://160.119.77.50/iptv/hd-starchinese.stream/playlist.m3u8
-#EXTINF:0, Arirang |160
+#EXTINF:-1, Arirang |160
 http://160.119.77.50/iptv/sd-arirang.stream/playlist.m3u8
 #EXTINF:-1, afn |160
 http://160.119.77.50/iptv/sd-asianfood.stream/playlist.m3u8
-#EXTINF:0, Cartoon Network ENG |160
+#EXTINF:-1, Cartoon Network ENG |160
 http://160.119.77.50/iptv/sd-cartoonnetworkeng.stream/playlist.m3u8
-#EXTINF:0, CCM |160
+#EXTINF:-1, CCM |160
 http://160.119.77.50/iptv/sd-celestial.stream/playlist.m3u8
 #EXTINF:-1, Channel News Asia |160
 http://160.119.77.50/iptv/sd-channelnewsasia.stream/playlist.m3u8
-#EXTINF:0, Channel V |160
+#EXTINF:-1, Channel V |160
 http://160.119.77.50/iptv/sd-chvinter.stream/playlist.m3u8
-#EXTINF:0, CNBC |160
+#EXTINF:-1, CNBC |160
 http://160.119.77.50/iptv/sd-cnbc.stream/playlist.m3u8
-#EXTINF:0, Discovery Science |160
+#EXTINF:-1, Discovery Science |160
 http://160.119.77.50/iptv/hd-discoveryscience.stream/playlist.m3u8
 
-#EXTINF:0, Skynet Sport 1 |160
+#EXTINF:-1, Skynet Sport 1 |160
 http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
-#EXTINF:0, Skynet Sport 2 |160
+#EXTINF:-1, Skynet Sport 2 |160
 http://160.119.77.50/iptv/sd-skynetsports2.stream/playlist.m3u8
-#EXTINF:0, Skynet Sport 3 |160
+#EXTINF:-1, Skynet Sport 3 |160
 http://160.119.77.50/iptv/sd-skynetsports3.stream/playlist.m3u8
-#EXTINF:0, Skynet Sport 4 |160
+#EXTINF:-1, Skynet Sport 4 |160
 http://160.119.77.50/iptv/sd-skynetsports4.stream/playlist.m3u8
-#EXTINF:0, Skynet Sport 5 |160
+#EXTINF:-1, Skynet Sport 5 |160
 http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
-#EXTINF:0, Skynet Sport 6 |160
+#EXTINF:-1, Skynet Sport 6 |160
 http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
-#EXTINF:0, Skynet Sport HD |160
+#EXTINF:-1, Skynet Sport HD |160
 http://160.119.77.50/iptv/sd-skynetsportshd.stream/playlist.m3u8
-#EXTINF:0, Skynet Sport Plus |160
+#EXTINF:-1, Skynet Sport Plus |160
 http://160.119.77.50/iptv/sd-skynetsportsplus.stream/playlist.m3u8
 
 #EXTINF:-1, UK CNN |160
@@ -6754,7 +6756,7 @@ http://client-premiumzone.in:8080/live/dt6SU8zQDw/vnJxFk69h2/10866.m3u8
 
 #EXTINF:-1 group-title="clientportal",NBCSN HD US | clientportal
 http://clientportal.link:80/oyes8ns54/keO3qM48/9008
-#EXTINF:0 tvg-logo="https://www.channelkmyanmar.com/img/logo/logo.png", Channel K | clientportal
+#EXTINF:-1 tvg-logo="https://www.channelkmyanmar.com/img/logo/logo.png", Channel K | clientportal
 http://clientportal.link:80/oyes8ns54/keO3qM48/17061
 #EXTINF:-1,Channel NewsAsia TH | clientportal
 http://clientportal.link:80/oyes8ns54/keO3qM48/17065
@@ -6818,7 +6820,7 @@ http://cloudfIare.com.cdntraffice.com:80/oyes8ns54/keO3qM48/16959
 
 #EXTINF:-1 group-title="cloudcdn",NBCSN HD US | cloudcdn
 http://cloudcdn.tk:80/YXFQIfeiWcQb535/0sfRwY279/9008
-#EXTINF:0 tvg-logo="https://www.channelkmyanmar.com/img/logo/logo.png", Channel K | cloudcdn
+#EXTINF:-1 tvg-logo="https://www.channelkmyanmar.com/img/logo/logo.png", Channel K | cloudcdn
 http://cloudcdn.tk:80/YXFQIfeiWcQb535/0sfRwY279/17061
 #EXTINF:-1,Channel NewsAsia TH | cloudcdn
 http://cloudcdn.tk:80/YXFQIfeiWcQb535/0sfRwY279/17065
