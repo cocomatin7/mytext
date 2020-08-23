@@ -396,9 +396,9 @@ http://www.iamntp.com/hbo/red_onweb.m3u8
 https://rebrand.ly/CIN-62
 #EXTINF:-1  tvg-id="FOX Action Movies HD",Fox Action Movies |ID
 https://rebrand.ly/fACT-62
-#EXTINF:-1  tvg-id="FOX Family Movies HD",Fox Family Movies |ID
+#EXTINF:-1 tvg-id="FOX Family Movies HD",Fox Family Movies |ID
 https://rebrand.ly/fFAM-62
-#EXTINF:-1  tvg-id="FOX Movies HD",Fox Movies |ID
+#EXTINF:-1 tvg-id="FOX Movies HD",Fox Movies |ID
 https://rebrand.ly/fPRE-62
 #EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO |ID 
 https://rebrand.ly/HB-62
@@ -410,11 +410,11 @@ https://rebrand.ly/HIT-62
 https://rebrand.ly/SIG-62
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", Red By HBO |ID
 https://rebrand.ly/RED-62
-#EXTINF:-1,HBO ID |ID
+#EXTINF:-1, HBO ID |ID
 https://rebrand.ly/HB-IN-62
-#EXTINF:-1,& Pic |ID
+#EXTINF:-1, & Pic |ID
 https://rebrand.ly/nPI-62
-#EXTINF:-1,& Prive |ID
+#EXTINF:-1, & Prive |ID
 https://rebrand.ly/nPR-62
 #EXTINF:-1 group-title="ID", SCM |ID
 https://rebrand.ly/SCM-62
