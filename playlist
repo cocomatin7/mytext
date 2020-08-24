@@ -3767,12 +3767,17 @@ https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="keyking",True Premiere Football HD1 |keyking
 http://keykingiptv.ddns.net/keyking/tpl1_keyking/chunks.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2" group-title="keyking",True Premiere Football HD2 |keyking
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |keyking
 http://keykingiptv.ddns.net/keyking/tpl2_keyking/chunks.m3u8
 
 http://keykingiptv.ddns.net/keyking/tpl3_keyking/chunks.m3u8
 http://keykingiptv.ddns.net/keyking/tpl4_keyking/chunks.m3u8
 http://keykingiptv.ddns.net/keyking/tpl5_keyking/chunks.m3u8
+
+#EXTINF:-1,bein 1 |keyking
+http://keykingiptv.ddns.net/keyking/bein1_keyking/chunks.m3u8
+#EXTINF:-1 group-title="keyking",bein 2 |keyking
+http://keykingiptv.ddns.net/keyking/bein2_keyking/chunks.m3u8
 
 + + + + + we-play + + + + + +
 
