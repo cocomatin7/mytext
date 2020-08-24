@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/konanda-sg/mytext/master/epg"
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/konanda-sg/mytext/master/epg"
 
 
 #EXTINF:-1 group-title="DHAMMA", ပရိတ်ကြီး ၁၁ သုတ် မြောက်ဦးဆရာတော်
@@ -6042,6 +6042,20 @@ http://84.9.6.188:9981/playlist/channels
 http://95.145.54.106:9981/playlist/channels
 
 + + + + + + + + + + 
+
+#EXTINF:-1 group-title="103.22",HISTORY
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/4.m3u8
+#EXTINF:-1,HBO HD
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/8.m3u8
+#EXTINF:-1,H2
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/5.m3u8
+#EXTINF:-1,FOXTHAI
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/2.m3u8
+#EXTINF:-1,FOX MOVIE
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/3.m3u8
+#EXTINF:-1 group-title="103.22",BOX FILM
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/7.m3u8
+
 
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="clientbox",TH SP: True Premier Football 1 HD /clientbox
 http://clientbox.tv:80/DAVIDHOWELL/oWtCRRer2y/9683
