@@ -352,7 +352,7 @@ https://rebrand.ly/h-red
 
  tvg-id="Cinemax HD" group-title="HBO", CINEMAX ||org
 https://rebrand.ly/h-cin2
- tvg-id="HBO HD" group-title="HBO", HBO ||org
+#EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO ||org
 https://rebrand.ly/h-bo2
  tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY ||org
 https://rebrand.ly/h-fam2
