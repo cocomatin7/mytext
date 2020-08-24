@@ -350,17 +350,17 @@ https://rebrand.ly/h-sig
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |org
 https://rebrand.ly/h-red
 
-#EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX ||org
+ tvg-id="Cinemax HD" group-title="HBO", CINEMAX ||org
 https://rebrand.ly/h-cin2
-#EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO ||org
+ tvg-id="HBO HD" group-title="HBO", HBO ||org
 https://rebrand.ly/h-bo2
-#EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY ||org
+ tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY ||org
 https://rebrand.ly/h-fam2
-#EXTINF:-1 tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS ||org
+ tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS ||org
 https://rebrand.ly/h-hit2
-#EXTINF:-1 tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE ||org
+ tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE ||org
 https://rebrand.ly/h-sig2
-#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO ||org
+ tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO ||org
 https://rebrand.ly/h-red2
 
 #EXTINF:-1 tvg-id="HBO HD" group-title="HBO",HBO Thai
