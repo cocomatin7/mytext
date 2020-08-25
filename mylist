@@ -1041,6 +1041,24 @@ http://103.22.182.242:8081/app/tpf5/chunks.m3u8
  group-title="103.22",workpoint |103.22
 http://103.22.182.242:8081/app/workpoint/chunks.m3u8
 
++ + + + + 103.47.132.164 + + + + +
+
+#EXTINF:-1,FOX MOVIES
+http://103.47.132.164/PLTV/88888888/224/3221227137/index.m3u8
+#EXTINF:-1,FOX FAMILY
+http://103.47.132.164:80/PLTV/88888888/224/3221227117/01.m3u8
+#EXTINF:-1,FOX LIFE
+http://103.47.132.164/PLTV/88888888/224/3221227277/index.m3u8
+#EXTINF:-1,FOX MOVIES PREMIUM
+http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
+
+#EXTINF:-1,CNN
+http://178.217.72.66/225.201.2.20/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BBC NEWS
+http://178.217.72.66/225.201.2.156/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BBC World News (EN)
+http://51.52.156.22:8888/http/004
+
 + + + + + 103.135.208.14:80 + + + + +
 
 #EXTINF:-1 group-title="IN/103.135/Offline",& Flix
