@@ -370,6 +370,11 @@ https://rebrand.ly/h-sig2
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |alt
 https://rebrand.ly/h-red2
 
+
+https://zaltvku.imfast.io/HBOFAM.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO",Cinemax |TH
 https://ztvthai.online/izeetv/forapptreev/cinemax.m3u8
 #EXTINF:-1 tvg-id="HBO HD" group-title="HBO",HBO |TH
@@ -446,6 +451,8 @@ https://rebrand.ly/HB-IN-103
 https://rebrand.ly/nPI-103
 #EXTINF:-1, & Prive |ID
 https://rebrand.ly/nPR-103
+#EXTINF:-1, ASSP
+https://rebrand.ly/assp-89
 #EXTINF:-1 group-title="ID", SCM |ID
 https://rebrand.ly/SCM-62
 
@@ -584,14 +591,18 @@ https://delivery.ghanacloud.ga/PremierLeagueChannel/index.m3u8
 
 + + + + + VN + + + + +
 
+#EXTINF:-1 group-title="VN",V HD |ftp
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="FOX Movies HD" group-title="VN",Fox Movies |ftp
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
 #EXTINF:-1,National Geographic HD |ftp
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
+
 #EXTINF:-1  tvg-id="FOX Family Movies HD",Fox Family Movies |ftp
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/playlist.m3u8
 #EXTINF:-1,KIX |ftp
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
+
 #EXTINF:-1,Animal Planet |ftp
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
 #EXTINF:-1,BBC World News |ftp
@@ -610,8 +621,10 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 WBTV /offline |ftp
 https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KBS World HD",KBS World |ftp
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Asian Food Network",Asian Food Network |ftp
 https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 #EXTINF:-1,NHK World Japan |ftp
@@ -914,6 +927,38 @@ http://xemtivi@khongcopylink:camoncanhaRestream@tvheadendvn.duckdns.org:9981/str
 http://xemtivi@khongcopylink:camoncanhaRestream@tvheadendvn.duckdns.org:9981/stream/channelid/1196965651
 
 + + + + + 27.254.149.109:8081 + + + + +
+
+CH 7
+http://27.254.130.61/live01/ch1.m3u8?p=m3u8
+PPTV 36
+http://27.254.130.61/live01/ch2.m3u8?p=m3u8
+http://27.254.130.61/live01/ch3.m3u8?p=m3u8
+http://27.254.130.61/live01/ch4.m3u8?p=m3u8
+http://27.254.130.61/live01/ch5.m3u8?p=m3u8
+http://27.254.130.61/live01/ch6.m3u8?p=m3u8
+23 Workpoint
+http://27.254.130.61/live01/ch7.m3u8?p=m3u8
+http://27.254.130.61/live01/ch8.m3u8?p=m3u8
+http://27.254.130.61/live01/ch9.m3u8?p=m3u8
+
+http://27.254.130.61/live01/ch10.m3u8?p=m3u8
+http://27.254.130.61/live01/ch11.m3u8?p=m3u8
+http://27.254.130.61/live01/ch12.m3u8?p=m3u8
+http://27.254.130.61/live01/ch13.m3u8?p=m3u8
+http://27.254.130.61/live01/ch14.m3u8?p=m3u8
+http://27.254.130.61/live01/ch15.m3u8?p=m3u8
+http://27.254.130.61/live01/ch16.m3u8?p=m3u8
+http://27.254.130.61/live01/ch17.m3u8?p=m3u8
+http://27.254.130.61/live01/ch18.m3u8?p=m3u8
+M Channel
+http://27.254.130.61/live01/ch19.m3u8?p=m3u8
+
+http://27.254.130.61/live01/ch20.m3u8?p=m3u8
+- - - - -
+NA
+http://27.254.130.61/live01/ch79.m3u8?p=m3u8
+
++ + + + +
 
 #EXTINF:-1 group-title="TH/27.254",BBC WORLD NEWS
 http://27.254.149.109:8081/tumlive/BBC/chunks.m3u8
@@ -4276,6 +4321,10 @@ https://lnwlomtoe.atvlb.com/lnwlomtoe/ch67/playlist.m3u8
  group-title="lnwlomtoe/offline",digi spt 2 |atvlb
 https://lnwlomtoe.atvlb.com/lnwlomtoe/ch68/playlist.m3u8
 https://lnwlomtoe.atvlb.com/lnwlomtoe/ch69/playlist.m3u8
+
++ + + + + https://delivery.macan.live + + + + +
+
+https://delivery.macan.live/stream/id_tvn/playlist.m3u8?token=macangratisan&v=20200807
 
 + + + + + http://newhostshare.ddns.net + + + + +
 
