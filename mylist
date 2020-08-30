@@ -352,11 +352,11 @@ https://rebrand.ly/h-sig
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |org
 https://rebrand.ly/h-red
 
-#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |IP
-https://rebrand.ly/H-re-i2
-
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO ||org
-https://rebrand.ly/H-red3
+https://rebrand.ly/h-red01
+
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |IP
+https://rebrand.ly/H-re-ip
 
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |alt
 https://rebrand.ly/h-cin2
@@ -369,7 +369,7 @@ https://rebrand.ly/h-hit2
 #EXTINF:-1 tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE |alt
 https://rebrand.ly/h-sig2
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |alt
-https://rebrand.ly/h-red2
+https://rebrand.ly/H-re-02
 
 #EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |onweb
 https://zaltvku.imfast.io/family_onweb.m3u8
