@@ -73,15 +73,24 @@ rtmp://203.81.81.229/livepkgr/farmer
 
 + + + + + my sports + + + + + 
 
-#EXTINF:-1 group-title="MM", mycujoo ch1
+ ch1
 https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/cke3zn94ndqci0gazwqz8sc7g/480p/playlist.m3u8
-#EXTINF:-1 group-title="MM", mycujoo ch1 HD
+ ch1 HD
 https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/cke3zn94ndqci0gazwqz8sc7g/720p/playlist.m3u8
 
-#EXTINF:-1 group-title="MM", mycujoo ch2
+ ch2
 https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/cke3zw656dqr20gazhefsn5mj/480p/playlist.m3u8
-#EXTINF:-1 group-title="MM", mycujoo ch2 HD
+ ch2 HD
 https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/cke3zw656dqr20gazhefsn5mj/720p/playlist.m3u8
+
+#EXTINF:-1 group-title="MM", mycujoo102471
+https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/ckeefe4ldtzyq0gaz28g8bv8c/720p/playlist.m3u8
+
+#EXTINF:-1 group-title="MM", mycujoo102472
+https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/ckeefn9hcu09r0gazbusuomvt/720p/playlist.m3u8
+
+#EXTINF:-1 group-title="MM", mycujoo102473
+https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/ckeefp4ufu0cn0gazdarhpig5/720p/playlist.m3u8
 
 + + + + + + + + + +
 
