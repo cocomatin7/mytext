@@ -4007,7 +4007,65 @@ http://doo2you.com/tv/WE-PlAY-astro-supersport-3.php
 #EXTINF:-1 group-title="TH/we-play",true-epl-1' //we-play
 https://live.we-play.tv/sports/true-epl-1/chunks.m3u8?nimblesessionid=48607621&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIwIDExOjMyOjUyIEFNJmhhc2hfdmFsdWU9SmUzbjM4bkdtbm1XMmEyekJOaldqUT09JnZhbGlkbWludXRlcz0yMA==
 
-+ + + + +
++ + + + + http://live.streaming-fast.com + + + + + 
+
+#EXTINF:-1 group-title="streaming-fast",TrueSport HD
+http://live.streaming-fast.com/live001/truesporthd/playlist.m3u8
+#EXTINF:-1,TrueSport HD2
+http://live.streaming-fast.com/live001/truesporthd2/playlist.m3u8
+#EXTINF:-1,TrueSport HD3
+http://live.streaming-fast.com/live001/truesporthd3/playlist.m3u8
+#EXTINF:-1,True Sport2
+http://live.streaming-fast.com/live001/truesport2/playlist.m3u8
+#EXTINF:-1,True Sport5
+http://live.streaming-fast.com/live001/truesport5/playlist.m3u8
+#EXTINF:-1,True Sport6
+http://live.streaming-fast.com/live001/truesport6/playlist.m3u8
+#EXTINF:-1,True Sport7
+http://live.streaming-fast.com/live001/truesport7/playlist.m3u8
+#EXTINF:-1,FOX SPORTS 
+http://niklive.com/app-api-android/ais/FOX-Sports/playlist.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/chunklist.m3u8
+#EXTINF:-1,FOX SPORTS 3
+http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
+#EXTINF:-1,Tennis
+http://live.streaming-fast.com/live001/truetennis/playlist.m3u8
+#EXTINF:-1,Golf channel
+http://live.streaming-fast.com/live001/golfchannel/playlist.m3u8
+#EXTINF:-1,BEIN SPORT 1
+http://live.streaming-fast.com/live001/bein1/playlist.m3u8
+#EXTINF:-1,BEIN SPORT 2
+http://live.streaming-fast.com/live001/bein2/playlist.m3u8
+#EXTINF:-1,Skynet Sport
+http://live.streaming-fast.com/live001/skynetsporthd/playlist.m3u8
+#EXTINF:-1,Skynet Sport1
+http://live.streaming-fast.com/live001/skynetsport1/playlist.m3u8
+#EXTINF:-1,Skynet Sport2
+http://live.streaming-fast.com/live001/skynetsport2/playlist.m3u8
+#EXTINF:-1,Skynet Sport3
+http://live.streaming-fast.com/live001/skynetsport3/playlist.m3u8
+#EXTINF:-1,Skynet Sport4
+http://live.streaming-fast.com/live001/skynetsport4/playlist.m3u8
+#EXTINF:-1,Skynet Sport5
+http://live.streaming-fast.com/live001/skynetsport5/playlist.m3u8
+#EXTINF:-1,Skynet Sport6
+http://live.streaming-fast.com/live001/skynetsport6/playlist.m3u8
+#EXTINF:-1,MU TV
+http://live.streaming-fast.com/live001/mutv/playlist.m3u8
+ve.streaming-fast.com/live001/skysportmainevent/playlist.m3u8
+#EXTINF:-1,Skysport Premiere
+http://live.streaming-fast.com/live001/skysportpremiere/playlist.m3u8
+#EXTINF:-1,BT Sport1
+http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:-1,BT Sport2
+http://live.streaming-fast.com/live001/btsport2/playlist.m3u8
+#EXTINF:-1,BT Sport3
+http://live.streaming-fast.com/live001/btsport3/playlist.m3u8
+#EXTINF:-1 group-title="streaming-fast",Tv3 Max
+http://live.streaming-fast.com/live001/tv3max/playlist.m3u8
+
++ + + + + + + + + + +
 
 https://live.we-play.tv/live/astro1/chunks.m3u8
 https://live.we-play.tv/live/astro2/chunks.m3u8
