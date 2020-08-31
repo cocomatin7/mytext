@@ -683,6 +683,8 @@ https://cnnnewsource-i.akamaihd.net/hls/live/258562/CNNNewsource2/master.m3u8
 http://cnnnewsource-i.akamaihd.net/hls/live/258565/CNNNewsource5/master.m3u8
 #EXTINF:-1,CNN go
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,CNN |cdn77
+https://1176700211.rsc.cdn77.org/opmh6kDzyzTJzGPIiEQ1_g==,1598828865/1176700211/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="GB", National Geo
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
