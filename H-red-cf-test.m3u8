@@ -1,0 +1,24 @@
+Connection:	
+Protocol version:	"TLSv1.2"
+Cipher suite:	"TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384"
+Key Exchange Group:	"x25519"
+Signature Scheme:	"RSA-PKCS1-SHA512"
+Host liveorigin01.hbogoasia.com:8443:	
+HTTP Strict Transport Security:	"Disabled"
+Public Key Pinning:	"Disabled"
+Certificate:	
+Issued To	
+Common Name (CN):	"liveorigin01.hbogoasia.com"
+Organization (O):	"Home Box Office, Inc."
+Organizational Unit (OU):	"<Not Available>"
+Issued By	
+Common Name (CN):	"Sectigo RSA Organization Validation Secure Server CA"
+Organization (O):	"Sectigo Limited"
+Organizational Unit (OU):	"<Not Available>"
+Period of Validity	
+Begins On:	"Thursday, 2 May, 2019"
+Expires On:	"Sunday, 2 May, 2021"
+Fingerprints	
+SHA-256 Fingerprint:	"36:90:A1:B1:5A:29:3C:C5:6A:90…A:FA:E1:07:F5:6F:D2:73:18:24"
+SHA1 Fingerprint:	"CD:BC:CE:A2:4F:43:A8:D0:FD:51:E2:F0:DE:41:9E:3F:27:EE:B1:BF"
+Transparency:	"<Not Available>"
