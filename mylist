@@ -460,6 +460,12 @@ https://iptv.burhansyam.com/hbotest/max.m3u8
 https://iptv.burhansyam.com/hbotest/red.m3u8
 https://iptv.burhansyam.com/hbotest/sig.m3u8
 
+http://www.iamntp.com/tv/link/family_onweb.m3u8
+http://www.iamntp.com/tv/link/hbo_onweb.m3u8
+http://www.iamntp.com/tv/link/hits_onweb.m3u8
+http://www.iamntp.com/tv/link/max_onweb.m3u
+http://www.iamntp.com/tv/link/red_onweb.m3u8
+http://www.iamntp.com/tv/link/sig_onweb.m3u8
 
  tvg-id="Cinemax HD" group-title="HBO", Cinemax /onweb
 http://www.iamntp.com/hbo/max_onweb.m3u8
@@ -4069,6 +4075,9 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 
 + + + + + http://keykingiptv.ddns.net + + + + + +
+
+http://keykingiptv.com/home.php
+http://keykingiptv.ddns.net/keyking/animalplanet_keyking/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="keyking",True Premiere Football HD1 |keyking
 http://keykingiptv.ddns.net/keyking/tpl1_keyking/chunks.m3u8
