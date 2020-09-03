@@ -410,6 +410,8 @@ http://fdtvapps.xyz/channel/hbohits.m3u8
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |fdtv
 http://fdtvapps.xyz/channel/red.m3u8
 
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |ktu
+https://niklive.com/live/ktu/red_hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |onweb
 https://zaltvku.imfast.io/family_onweb.m3u8
