@@ -7909,10 +7909,9 @@ http://muttsnutsback.land-4-sale.us:8080/TVPLAYER/STREAMS/165463
 #EXTINF:-1 group-title="muttsnuts",Sky Pre Order 1
 http://muttsnutsback.land-4-sale.us:8080/TVPLAYER/STREAMS/165464
 
-
 + + + + + pro-panel01.club:8080 + + + + +
 
-#EXTINF:-1,VIP IN: & PICTURE HD
+#EXTINF:-1 group-title="pro-panel01",VIP IN: & PICTURE HD
 http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/8130.m3u8
 #EXTINF:-1,VIP IN: &tv HD india
 http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/8131.m3u8
@@ -8158,8 +8157,66 @@ http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/22536.m3u8
 http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/22535.m3u8
 #EXTINF:-1,VIP PH: BEIN SPORTS 3 HD
 http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/22534.m3u8
-
-
+#EXTINF:-1,VIP PH: WARNER TV
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/22505.m3u8
+#EXTINF:-1,VIP VTN: AFC
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/9857.m3u8
+#EXTINF:-1,VIP VTN: CNN
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/9854.m3u8
+#EXTINF:-1,VIP VTN: &PRIVE HD
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/9852.m3u8
+#EXTINF:-1,VIP VTN: &FLIX HD
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/9843.m3u8
+#EXTINF:-1,VIP VTN: HBO HD
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/9844.m3u8
+#EXTINF:-1,VIP VTN: Red By HBO HD
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/9851.m3u8
+#EXTINF:-1,VIP VTN: &FLIX HD
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/32627.m3u8
+#EXTINF:-1,VIP VTN: &PRIVE HD
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/32624.m3u8
+#EXTINF:-1,VIP TH: beIN Sports 1 FHD
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/34787.m3u8
+#EXTINF:-1,VIP TH: beIN Sports 2 FHD
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/34788.m3u8
+#EXTINF:-1,VIP TH: CINEMAX
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10908.m3u8
+#EXTINF:-1,VIP TH: DISCOVERY ASIA HD
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10896.m3u8
+#EXTINF:-1,VIP TH: Discovery Channel
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10880.m3u8
+#EXTINF:-1,VIP TH: Fox Action
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10903.m3u8
+#EXTINF:-1,VIP TH: FOX Premium HD
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10905.m3u8
+#EXTINF:-1,VIP TH: HBO Asia HD
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10909.m3u8
+#EXTINF:-1,VIP TH: HBO Family
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10898.m3u8
+#EXTINF:-1,VIP TH: HBO Hits
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10895.m3u8
+#EXTINF:-1,VIP TH: HBO Signature
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10894.m3u8
+#EXTINF:-1,VIP TH: HBO thai
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10893.m3u8
+#EXTINF:-1,VIP TH: Nat Geo People
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10887.m3u8
+#EXTINF:-1,VIP TH: Nat Geo Wild HD
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10888.m3u8
+#EXTINF:-1,VIP TH: True Premiere League 1 HD
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10859.m3u8
+#EXTINF:-1,VIP TH: True Premiere League 2 HD
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10858.m3u8
+#EXTINF:-1,VIP TH: True Premiere League 3 HD
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10857.m3u8
+#EXTINF:-1,VIP TH: True Premiere League 4 HD
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10856.m3u8
+#EXTINF:-1,VIP TH: True Premiere League 5 HD
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/30989.m3u8
+#EXTINF:-1,VIP TH: Warner HD
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/10866.m3u8
+#EXTINF:-1 group-title="pro-panel01",IN: Zee Cinema
+http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/189.m3u8
 
 + + + + + + + + + +
 
