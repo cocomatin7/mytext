@@ -3076,6 +3076,49 @@ https://cdn17.cloud-streaming.com/sportpack_x3/skynet4/chunks.m3u8?nimblesession
 https://cdn17.cloud-streaming.com/sportpack_x3/skynet5/chunks.m3u8?nimblesessionid=
 https://cdn17.cloud-streaming.com/sportpack_x3/skynet6/chunks.m3u8?nimblesessionid=
 
++ + + + + https://chama.ml + + + + +
+
+#EXTINF:-1 group-title="chama", ASS1
+https://chama.ml/channelgratisan-ASS1
+#EXTINF:-1, ASS2
+https://chama.ml/channelgratisan-ASS2
+#EXTINF:-1, ASS3
+https://chama.ml/channelgratisan-ASS3
+#EXTINF:-1, ASS4
+https://chama.ml/channelgratisan-ASS4
+#EXTINF:-1, BEIN S1
+https://chama.ml/channelgratisan-BEINSPORT1ID
+#EXTINF:-1, BEIN S2
+https://chama.ml/channelgratisan-BEINSPORT2ID
+#EXTINF:-1, BEIN MAX MY
+https://chama.ml/channelgratisan-BEINSPORTMAX1MY
+#EXTINF:-1, BEIN SPORTS MY
+https://chama.ml/channelgratisan-BEINSPORTMAX2MY
+#EXTINF:-1,CNA
+https://chama.ml/channelgratisan-CNA
+#EXTINF:-1,FOX MOVIES
+https://chama.ml/channelgratisan-FOXMOVIES
+#EXTINF:-1,FOX ACTION
+https://chama.ml/channelgratisan-FOXACTIONM
+#EXTINF:-1,FOX FAMILY
+https://chama.ml/channelgratisan-FOXFAMILY
+#EXTINF:-1, CINEMAX
+https://chama.ml/channelgratisan-CINEMAX
+#EXTINF:-1, HBO FAMILY
+https://chama.ml/channelgratisan-HBOFAMILY
+#EXTINF:-1,HBO Hitz
+https://chama.ml/channelgratisan-HBOHITZ
+#EXTINF:-1,RED
+https://chama.ml/channelgratisan-RED
+#EXTINF:-1,HBO SIGN
+https://chama.ml/channelgratisan-HBOSIGN
+#EXTINF:-1,CCM
+https://chama.ml/channelgratisan-CCM
+#EXTINF:-1,TVNM
+https://chama.ml/channelgratisan-TVNMOVIES
+#EXTINF:-1 group-title="chama",WARNER
+https://chama.ml/channelgratisan-WARNER
+
 + + + + + cloud-streaming + + + + +
 
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="cloud/ilike4kin",premier hd1 /ilike4kin
