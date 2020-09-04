@@ -6417,8 +6417,13 @@ http://www.iamntp.com/tv/link/hbo.php
 
 #EXTINF:-1 group-title="TH/iamntp",bein1
 http://www.iamntp.com/tv/allchannel/bein1.m3u8
+#EXTINF:-1 group-title="TH/iamntp",bein1'
+https://cdn227.cloud-streaming.com/ballsod_y1/beinsport1_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjAgMzoyODowMiBBTSZoYXNoX3ZhbHVlPTJ5MkljZi9RTnRncTVVVUt0bGRDdFE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD01NzEyNTM=
+
 #EXTINF:-1 group-title="TH/iamntp",bein2
 http://www.iamntp.com/tv/allchannel/bein2.m3u8
+#EXTINF:-1 group-title="TH/iamntp",bein2'
+https://cdn227.cloud-streaming.com/ballsod_y1/beinsporthd2_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjAgMzoyOTozOSBBTSZoYXNoX3ZhbHVlPWF1MFN5NXVUVDVLZXN6Y2tVQjh1TGc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD04MDk4MDk=
 
 http://www.iamntp.com/tv/allchannel/btsport1.m3u8
 http://www.iamntp.com/tv/allchannel/btsport2.m3u8
