@@ -760,6 +760,8 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-id="FOX Family Movies HD",Fox Family Movies |ftp
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="FOX Family Movies HD",Fox Family Movies |ftp'
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/index.m3u8
 #EXTINF:-1,KIX |ftp
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
 
