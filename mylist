@@ -787,6 +787,8 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Asian Food Network",Asian Food Network |ftp
 https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Asian Food Network",Asian Food Network |ftp'
+https://livecdn.fptplay.net/world/afchd_hls.smil/index.m3u8
 #EXTINF:-1,NHK World Japan |ftp
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VN",CNA |ftp
