@@ -1483,8 +1483,6 @@ http://dootvthai-hd.com/cmd/true/Truesport-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/Truesport-HD2/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/Truesport-HD3/playlist.m3u8
 
-http://keykingiptv.ddns.net/keyking/animalplanet_keyking/playlist.m3u8
-
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
@@ -3194,6 +3192,7 @@ https://cdn161.cloud-streaming.com/ilike4kin_x6/thairath_720p/chunks.m3u8
 https://cdn161.cloud-streaming.com/ilike4kin_x6/tnn24_720p/playlist.m3u8
 https://cdn161.cloud-streaming.com/ilike4kin_x6/true4u_720p/playlist.m3u8
 https://cdn161.cloud-streaming.com/ilike4kin_x6/voice_720p/playlist.m3u8
+
 #EXTINF:-1 group-title="cloud/ilike4kin",workpoint /ilike4kin
 https://cdn161.cloud-streaming.com/ilike4kin_x6/workpoint_720p/playlist.m3u8
 
@@ -4177,10 +4176,17 @@ https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 + + + + + http://keykingiptv.ddns.net + + + + + +
 
 http://keykingiptv.com/home.php
+
 http://keykingiptv.ddns.net/keyking/animalplanet_keyking/playlist.m3u8
+http://keykingiptv.ddns.net/keyking/cinemax_keyking/playlist.m3u8
+http://keykingiptv.ddns.net/keyking/discoveryasia_keyking/playlist.m3u8
+http://keykingiptv.ddns.net/keyking/discovery_keyking/playlist.m3u8
+http://keykingiptv.ddns.net/keyking/blue_ex_keyking/playlist.m3u8
+http://keykingiptv.ddns.net/keyking/blue_en_keyking/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="keyking",True Premiere Football HD1 |keyking
 http://keykingiptv.ddns.net/keyking/tpl1_keyking/chunks.m3u8
+
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |keyking
 http://keykingiptv.ddns.net/keyking/tpl2_keyking/chunks.m3u8
 
@@ -4190,8 +4196,12 @@ http://keykingiptv.ddns.net/keyking/tpl5_keyking/chunks.m3u8
 
 #EXTINF:-1,bein 1 |keyking
 http://keykingiptv.ddns.net/keyking/bein1_keyking/chunks.m3u8
-#EXTINF:-1 group-title="keyking",bein 2 |keyking
+#EXTINF:-1,bein 1' |keyking
+http://keykingiptv.ddns.net/keyking/bein1_keyking/playlist.m3u8
+#EXTINF:-1,bein 2 |keyking
 http://keykingiptv.ddns.net/keyking/bein2_keyking/chunks.m3u8
+#EXTINF:-1 group-title="keyking",bein 2' |keyking
+http://keykingiptv.ddns.net/keyking/bein1_keyking/playlist.m3u8
 
 + + + + + we-play + + + + + +
 
@@ -7435,26 +7445,26 @@ http://endoftheworldisnigh.sytes.net:8989/JustinSpectrum/3C7bgrtlXB/4144
 http://endoftheworldisnigh.sytes.net:8989/JustinSpectrum/3C7bgrtlXB/4313
 
 
- group-title="flow/offline",BBC World News
-http://flowfhd.xyz:25461/mora/mora/26998
-CNN
-http://flowfhd.xyz:25461/demo/demo/8532
-NBCSN
-http://flowfhd.xyz:25461/mora/mora/8607
-http://flowfhd.xyz:25461/mora/mora/36599
+#EXTINF:-1 group-title="flow/offline",BBC World News
+http://flowfhd.xyz:25461/37620/1234/26998
+#EXTINF:-1CNN
+http://flowfhd.xyz:25461/37620/1234/8532
+#EXTINF:-1NBCSN
+http://flowfhd.xyz:25461/37620/1234/8607
+http://flowfhd.xyz:25461/37620/1234/36599
 Mahar TV
-http://flowfhd.xyz:25461/mora/mora/36600
+http://flowfhd.xyz:25461/37620/1234/36600
 MRTV-4
-http://flowfhd.xyz:25461/mora/mora/36601
+http://flowfhd.xyz:25461/37620/1234/36601
 MVM TV
-http://flowfhd.xyz:25461/mora/mora/36602
-http://flowfhd.xyz:25461/mora/mora/37207
+http://flowfhd.xyz:25461/37620/1234/36602
+http://flowfhd.xyz:25461/37620/1234/37207
 Channel 8
-http://flowfhd.xyz:25461/mora/mora/37208
+http://flowfhd.xyz:25461/37620/1234/37208
 Okto
-http://flowfhd.xyz:25461/mora/mora/37209
- group-title="flow/offline",Suria
-http://flowfhd.xyz:25461/mora/mora/37210
+http://flowfhd.xyz:25461/37620/1234/37209
+#EXTINF:-1 group-title="flow/offline",Suria < 30/10/20
+http://flowfhd.xyz:25461/37620/1234/37210
 
 
 #EXTINF:-1 group-title="goiptv",Thai: MYANMAR CHANNEL 7
