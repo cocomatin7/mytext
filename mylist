@@ -1097,7 +1097,7 @@ http://xemtivi@khongcopylink:camoncanha@tvheadendvn.duckdns.org:9981/stream/chan
 #EXTINF:-1 group-title="VN/dns",KBS WORLD
 http://xemtivi@khongcopylink:camoncanha@tvheadendvn.duckdns.org:9981/stream/channelid/1676758256
 
-+ + + + +
++ + + + + tvheadendvn.duckdns.org:9981 + + + + +
 
 #EXTINF:-1 group-title="VN/dns",Arirang
 http://xemtivi@khongcopylink:camoncanhaRestream@tvheadendvn.duckdns.org:9981/stream/channelid/1852497359
@@ -1171,7 +1171,7 @@ http://27.254.130.61/live01/ch20.m3u8?p=m3u8
 NA
 http://27.254.130.61/live01/ch79.m3u8?p=m3u8
 
-+ + + + +
++ + + + + 27.254.149.109:8081 + + + + +
 
 #EXTINF:-1 group-title="TH/27.254",BBC WORLD NEWS
 http://27.254.149.109:8081/tumlive/BBC/chunks.m3u8
@@ -1259,6 +1259,11 @@ http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/chunks.m3u8
 http://27.254.149.109:8081/tumlive/MOVH/playlist.m3u8
 http://27.254.149.109:8081/tumlive/Sunmovie/chunks.m3u8
 http://27.254.149.109:8081/tumlive/TFLM/playlist.m3u8
+http://27.254.149.109:8081/tumlive/Foxfamily/playlist.m3u8
+http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
+http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
+http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
+http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
 
 + + + + + 87.117.234.107:1935 + + + + +
 
@@ -1463,42 +1468,7 @@ http://103.208.24.234:1935/thaisport/epl-3.stream/chunklist.m3u8
 http://103.208.24.234:1935/thaisport/epl-4.stream/chunklist.m3u8
 http://103.208.24.234:1935/thaisport/epl-5.stream/chunklist.m3u8
 
-http://139.99.17.52:8081/liveorigin/epl-bein1_480/chunks.m3u8
-http://139.99.17.52:8081/liveorigin/epl-bein2_480/chunks.m3u8
-http://139.99.17.52:8081/liveorigin/hd-foxsports1_720/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/hd-golf_720/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/hd-golf_720/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/hd-nba_720/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/hd-nfl_720/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/hd-tennis_720/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/hd-tsport4_720/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/sd-foxsports2_480/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/sd-foxsports3_480/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/sd-tsport2_480/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/sd-tsport2_480/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/sd-tsport7_480/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/sd-tsport7_480/playlist.m3u8
-http://139.99.17.52:8081/liveorigin/sd-tsports_480/chunks.m3u8
-http://139.99.17.52:8081/liveorigin/sd-tsports_480/chunks.m3u8
-
-http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
-http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
-http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
-http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
-
-http://doo2you.com/tv/WE-PlAY-cinemax.php
-http://doo2you.com/tv/WE-PlAY-fox-action-movies.php
-http://doo2you.com/tv/WE-PlAY-fox-crime-th.php
-http://doo2you.com/tv/WE-PlAY-fox-family-movies.php
-http://doo2you.com/tv/WE-PlAY-fox-movies-premium.php
-http://doo2you.com/tv/WE-PlAY-hbo-family.php
-http://doo2you.com/tv/WE-PlAY-hbo-hd.php
-http://doo2you.com/tv/WE-PlAY-hbo-hit.php
-http://doo2you.com/tv/WE-PlAY-hbo-signature.php
-http://doo2you.com/tv/WE-PlAY-red-by-hbo.php
-
-+ + + + + dootvthai-hd.com + + + + +
-
++ + + + + temp + + + + +
 
 
 + + + + + + + + + +
@@ -2118,6 +2088,24 @@ http://139.99.17.52:8081/liveorigin/us-nhl_480/playlist.m3u8
 #EXTINF:-1 group-title="139.99",us-wwe |139.99
 http://139.99.17.52:8081/liveorigin/us-wwe_480/playlist.m3u8
 
+http://139.99.17.52:8081/liveorigin/epl-bein1_480/chunks.m3u8
+http://139.99.17.52:8081/liveorigin/epl-bein2_480/chunks.m3u8
+http://139.99.17.52:8081/liveorigin/hd-foxsports1_720/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/hd-golf_720/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/hd-golf_720/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/hd-nba_720/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/hd-nfl_720/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/hd-tennis_720/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/hd-tsport4_720/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/sd-foxsports2_480/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/sd-foxsports3_480/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/sd-tsport2_480/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/sd-tsport2_480/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/sd-tsport7_480/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/sd-tsport7_480/playlist.m3u8
+http://139.99.17.52:8081/liveorigin/sd-tsports_480/chunks.m3u8
+http://139.99.17.52:8081/liveorigin/sd-tsports_480/chunks.m3u8
+
 + + + + + 160.119.77.50 + + + + + 
 
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="TH/160.119", True Premiere Football HD1 |160
@@ -2504,6 +2492,8 @@ http://203.150.107.30:8081/freethaitv/cd25fccffa6f4a2f8d7190d3e8907440.m3u8?s=d5
 #EXTINF:-1 group-title="203.150",PPTV
 http://203.150.107.30:8081/freethaitv/623d009180394c528880c14e2254452a.m3u8?s=d5833c4d6590ebea8861a5ea300cb4ba
 
+http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
+
 + + + + + 203.154.177.124:8899 + + + + +
 
 #EXTINF:-1 group-title="203.154",COMEDY CENTRAL
@@ -2680,10 +2670,20 @@ http://203.154.243.89:12037
 #EXTINF:-1,CNN
 http://203.162.235.41:16918
 
-+ + + + + http://dootvthai-hd.com [TH vpn?] + + + + +
++ + + + + doo2you.com + + + + +
 
-http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
-http://27.254.149.109:8081/tumlive/Foxfamily/playlist.m3u8
+http://doo2you.com/tv/WE-PlAY-cinemax.php
+http://doo2you.com/tv/WE-PlAY-fox-action-movies.php
+http://doo2you.com/tv/WE-PlAY-fox-crime-th.php
+http://doo2you.com/tv/WE-PlAY-fox-family-movies.php
+http://doo2you.com/tv/WE-PlAY-fox-movies-premium.php
+http://doo2you.com/tv/WE-PlAY-hbo-family.php
+http://doo2you.com/tv/WE-PlAY-hbo-hd.php
+http://doo2you.com/tv/WE-PlAY-hbo-hit.php
+http://doo2you.com/tv/WE-PlAY-hbo-signature.php
+http://doo2you.com/tv/WE-PlAY-red-by-hbo.php
+
++ + + + + http://dootvthai-hd.com [TH vpn?] + + + + +
 
 #EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |DTVT
 http://dootvthai-hd.com/cmd/api/hbo/famhd/playlist.m3u8
@@ -3893,12 +3893,6 @@ https://edge2.livedoohd.com/dolive/hbohdth/chunks.m3u8?nimblesessionid=128627244
 
 https://edge2.livedoohd.com/dolive/hits/chunks.m3u8?nimblesessionid=128627390&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDIwIDEwOjM1OjEzIEFNJmhhc2hfdmFsdWU9Tis1MFBXd1RBOUl1R29ka1ordW55QT09JnZhbGlkbWludXRlcz0zJnN0cm1fbGVuPTEx&Main
 
-+ + + + + http://doo2you.com/live-tv + + + + +
-
-https://live.we-play.tv/sports/tpf2/chunks.m3u8?nimblesessionid=48899756&wmsAuthSign=
-https://live.we-play.tv/entertainment/hbo-hd/chunks.m3u8?nimblesessionid=48900047&wmsAuthSign=
-https://live.we-play.tv/sports/skynethd/chunks.m3u8?nimblesessionid=48900148&wmsAuthSign=
-
 + + + + + totiptv.com / h4 + + + + +
 
 #EXTINF:-1 group-title="TH/tot",CH3 HD
@@ -4298,7 +4292,11 @@ http://keykingiptv.ddns.net/keyking/bein2_keyking/chunks.m3u8
 #EXTINF:-1 group-title="keyking",bein 2' |keyking
 http://keykingiptv.ddns.net/keyking/bein1_keyking/playlist.m3u8
 
-+ + + + + we-play + + + + + +
++ + + + + http://doo2you.com / we-play + + + + +
+
+https://live.we-play.tv/sports/tpf2/chunks.m3u8?nimblesessionid=48899756&wmsAuthSign=
+https://live.we-play.tv/entertainment/hbo-hd/chunks.m3u8?nimblesessionid=48900047&wmsAuthSign=
+https://live.we-play.tv/sports/skynethd/chunks.m3u8?nimblesessionid=48900148&wmsAuthSign=
 
 http://doo2you.com/tv/WE-PlAY-axn-hd.php
 http://doo2you.com/tv/WE-PlAY-BEIN-SPORT-1.php
