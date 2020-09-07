@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=Q-h7NHGDuGY
 #EXTINF:-1, WB Kids
 https://www.youtube.com/watch?v=BRkQ-ZGiNbc
 
-+ + + + + + + + + +
++ + + + + 203.81.81.230 + + + + +
 
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV |203
 http://203.81.81.230/mrtv.m3u8
@@ -90,7 +90,7 @@ https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/ckeefn9hcu09r0gazbusuomvt/720p/pla
 #EXTINF:-1 group-title="MM", mycujoo102473
 https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/ckeefp4ufu0cn0gazdarhpig5/720p/playlist.m3u8
 
-+ + + + + + + + + +
++ + + + + edge-stream-07.otv.co.th + + + + +
 
 http://api.new.livestream.com/accounts/15604755/events/4419934/live.m3u8
 https://livestream.com/accounts/15604755/events/4419934/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false
@@ -163,6 +163,7 @@ http://edge-stream-07.otv.co.th./livestream/Hluttaw.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f5a0eb57c600f104da5.png",MRTV-4 /iptvmate
 http://edge-stream-07.otv.co.th./livestream/MRTV-4.stream/chunklist.m3u8
 
++ + + + + + + + + +
 
  tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV HD/ OFF
 http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8?wmsAuthSign=
@@ -211,6 +212,7 @@ https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w2017686026.m3u8
 #EXTINF:-1 group-title="MM",MVTV Myanmar'
 https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w2034544246.m3u8
 
++ + + + + + + + + +
 
 #EXTINF:-1 group-title="MM",MRTV / HLUTTAW /28:8180
 http://220.158.149.28:8180/hls/TV00000000000000000089@HHZT
@@ -611,7 +613,7 @@ http://62.210.82.206:25461/pGCRFg3CE2/cR26N4XcVr/34470?play_token=vRkKehJUOG&tok
 #EXTINF:-1,Movies_Now
 http://103.194.169.115:25461/Jv6GbpHvDI/gU8ykXrmq2/54102?play_token=dEF7YH9cAg&token=GRdRWUpbQV9BUg1fWgdRUFFXAARTBwpRBwJTBgJUWVNbVAgKWldRXFYRFEQQFxAGVQxnD1YVCVQHUlQAHEFNQgdHZlFdEVlHUgUNX1VVUEEYQ0wPX1IRWwJWXQcIUAEIWwAVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
 
-#EXTINF:-1,Movies_Now2_
+#EXTINF:-1,Movies_Now2
 http://195.181.174.34:25461/QW4zbHzAao/Y6FqkyB1t1/54011?play_token=oMX2eViXio&token=GRdRWUpbQV9BAlleVlQDAgRSWl9QVlFQAlVTBQNbWwlXDV0IXFEBU1MRFEQQFxAGVQxnD1YVCVQHU1UDHEFNQgdHZlFdEVlHUgYMVVNWVEEYQ0wPX1IRWwJWXQQDVgAGUQIVGklaB0dZEQteU1JATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAMVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXA0WDg8YQ1sJR1lHE0pBXhB9OhodQFBBTFxdEAwMXRpcQRcRQRhDURVtRVYSRxEBU10GShNYFwkaFREOBBtsWwkNDQcAQAhXCEEVCUMCQUgQXQxWWBZaS2dJWgdHWRELUVtSQB4=
 
 #EXTINF:-1,MNPLUS
@@ -930,9 +932,6 @@ http://fpthanhyen.ddns.net:1211/udp/225.1.2.239:30120
 #EXTINF:-1 tvg-id="FOX Movies HD",FOX MOVIES HD |udp
 http://fpthanhyen.ddns.net:1211/udp/225.1.4.34:30120
 
-#EXTINF:-1,FOX MOVIES (HD 7Mbps)
-http://14.230.193.127:9981/stream/channelid/1156643836
-
 http://fpthanhyen.ddns.net:1211/udp/225.1.2.229:30120
 http://fpthanhyen.ddns.net:1211/udp/225.1.4.10:30120
 http://fpthanhyen.ddns.net:1211/udp/225.1.1.141:30120
@@ -959,7 +958,7 @@ http://fpthanhyen.ddns.net:1211/udp/225.1.1.139:30120
 #EXTINF:-1 group-title="VN|udp",WBTV |udp
 http://fpthanhyen.ddns.net:1211/udp/225.1.4.14:30120
 
-+ + + + +
++ + + + + a-play.anhthanhnien.ga:9981 + + + + +
 
 #EXTINF:-1 tvg-id="Asian Food Network" group-title="VN/a-play",Asian Food Channel
 http://xemtivi@khongcopylink:camoncanhaRestream@a-play.anhthanhnien.ga:9981/stream/channelid/53615430
@@ -1037,7 +1036,7 @@ http://xemtivi@khongcopylink:camoncanhaRestream@a-play.anhthanhnien.ga:9981/stre
 #EXTINF:-1 group-title="VN/a-play",KBS WORLD
 http://xemtivi@khongcopylink:camoncanhaRestream@a-play.anhthanhnien.ga:9981/stream/channelid/1676758256
 
-+ + + + +
++ + + + + tvheadendvn.duckdns.org:9981 + + + + +
 
 #EXTINF:-1 group-title="VN/dns",HBO HD
 http://xemtivi@khongcopylink:camoncanha@tvheadendvn.duckdns.org:9981/stream/channelid/2127602561
