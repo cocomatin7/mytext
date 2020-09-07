@@ -6490,7 +6490,11 @@ http://www.iamntp.com/tv/allchannel/epl4.m3u8
 http://www.iamntp.com/tv/allchannel/epl5.m3u8
 http://www.iamntp.com/tv/allchannel/hbdhd.m3u8
 http://www.iamntp.com/tv/allchannel/mutv.m3u8
+#EXTINF:-1,skynetsport1
 http://www.iamntp.com/tv/allchannel/skynetsport1.m3u8
+#EXTINF:-1,skynetsport1'
+https://cdn227.cloud-streaming.com/ballsod_y3/skynet1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgMjozODo1OSBBTSZoYXNoX3ZhbHVlPUlQbndXYVZXZFFud1g2SXY2Zk9UY2c9PSZ2YWxpZG1pbnV0ZXM9MSZpZD05NzQzNDY=
+
 http://www.iamntp.com/tv/allchannel/skynetsport2.m3u8
 http://www.iamntp.com/tv/allchannel/skynetsport3.m3u8
 http://www.iamntp.com/tv/allchannel/skynetsport4.m3u8
