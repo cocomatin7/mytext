@@ -4186,14 +4186,17 @@ https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 
 http://keykingiptv.com/home.php
 
+#EXTINF:-1 group-title="keyking",animalplanet |keyking
 http://keykingiptv.ddns.net/keyking/animalplanet_keyking/playlist.m3u8
+#EXTINF:-1,cinemax |keyking
 http://keykingiptv.ddns.net/keyking/cinemax_keyking/playlist.m3u8
+#EXTINF:-1,discoveryasia |keyking
 http://keykingiptv.ddns.net/keyking/discoveryasia_keyking/playlist.m3u8
 http://keykingiptv.ddns.net/keyking/discovery_keyking/playlist.m3u8
 http://keykingiptv.ddns.net/keyking/blue_ex_keyking/playlist.m3u8
 http://keykingiptv.ddns.net/keyking/blue_en_keyking/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="keyking",True Premiere Football HD1 |keyking
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |keyking
 http://keykingiptv.ddns.net/keyking/tpl1_keyking/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |keyking
