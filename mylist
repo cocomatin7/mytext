@@ -411,8 +411,21 @@ https://rebrand.ly/h-fa-alt
 https://rebrand.ly/h-hi-alt
  tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE /|alt
 https://rebrand.ly/h-si-alt
-#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO /alt
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO* /alt
 https://rebrand.ly/h-re-alt
+
+#EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |DTVT
+http://dootvthai-hd.com/cmd/api/hbo/famhd/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO |DTVT
+http://dootvthai-hd.com/cmd/api/hbo/hbohd/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS |DTVT
+http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |DTVT
+http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |DTVT
+http://dootvthai-hd.com/cmd/api/hbo/red/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE |DTVT
+http://dootvthai-hd.com/cmd/api/hbo/sighd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |fdtv
 http://fdtvapps.xyz/channel/cinemax.m3u8
@@ -2591,18 +2604,7 @@ http://doo2you.com/tv/WE-PlAY-red-by-hbo.php
 
 + + + + + http://dootvthai-hd.com [TH vpn?] + + + + +
 
-#EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |DTVT
-http://dootvthai-hd.com/cmd/api/hbo/famhd/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO |DTVT
-http://dootvthai-hd.com/cmd/api/hbo/hbohd/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS |DTVT
-http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |DTVT
-http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
-#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |DTVT
-http://dootvthai-hd.com/cmd/api/hbo/red/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE |DTVT
-http://dootvthai-hd.com/cmd/api/hbo/sighd/playlist.m3u8
+
 
 http://dootvthai-hd.com/cmd/api/true/asian-food-channel/playlist.m3u8
 
