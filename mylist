@@ -2559,6 +2559,7 @@ http://doo2you.com/tv/WE-PlAY-red-by-hbo.php
 
 + + + + + http://dootvthai-hd.com [TH vpn?] + + + + +
 
+#EXTINF:-1 group-title="dootvthai",asian-food-channel
 http://dootvthai-hd.com/cmd/api/true/asian-food-channel/playlist.m3u8
 
 http://dootvthai-hd.com/cmd/api/true/BLUE-ANT-ENTERTAINMENT/playlist.m3u8
@@ -2568,6 +2569,7 @@ http://dootvthai-hd.com/cmd/api/true/cartoonclub/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/celestial-classic-movies/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/CH3-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/CH5-HD/playlist.m3u8
+#EXTINF:-1,CNN-HD
 http://dootvthai-hd.com/cmd/api/true/CNN-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/dharmatv/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/Fantv/playlist.m3u8
@@ -2683,6 +2685,8 @@ http://dootvthai-hd.com/cmd/true/TRUE-SPARK-JUMP/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/TRUE-SPARK-PLAY/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/TRUE-X-ZYTE-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/verytv/playlist.m3u8
+
+#EXTINF:-1 group-title="dootvthai",YTN
 http://dootvthai-hd.com/cmd/true/YTN/playlist.m3u8
 
 + + + + + https://www.movie1168.com / https://cdn-laos.workpoint.news + + + + +
