@@ -175,7 +175,10 @@ http://edge-stream-07.otv.co.th./livestream/Channel7.stream/playlist.m3u8
  tvg-logo="https://img.iptvmate.net/5e935f40a655d41c45676eae.png",Channel 7,Channel 7 (New!)
  tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png",Channel 9 /iptvmate
 http://edge-stream-07.otv.co.th./livestream/Channel9.stream/playlist.m3u8
- tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K /iptvmate
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K /CF
+https://rebrand.ly/chK-cf
+
  tvg-logo="https://img.iptvmate.net/5e935f4e0eb57c600f104da1.png",DVB /iptvmate
 https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8
  tvg-logo="https://img.iptvmate.net/5e935f510eb57c600f104da2.png",MNTV /iptvmate
