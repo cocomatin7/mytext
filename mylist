@@ -98,15 +98,23 @@ https://livestream.com/accounts/15604755/events/4419934/player?width=640&height=
 
 + + + + + edge-stream-07.otv.co.th + + + + +
 
- tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="MM", 5 Plus | OTV /OFF
+#EXTINF:-1 tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="MM", 5 Plus | OTV
+https://edge-stream-05.otv.co.th/mmplay/5plus/chunklist.m3u8
+
 http://edge-stream-07.otv.co.th/livestream/5Plus.stream/playlist.m3u8
  tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png", 5 Plus' | OTV /OFF
 http://122.155.184.15/livestream/5Plus.stream/chunklist.m3u8
- tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png", Channel 7 | OTV
+
+#EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png", Channel 7 | OTV
+https://edge-stream-05.otv.co.th/mmplay/channel7/chunklist.m3u8
+
 http://edge-stream-07.otv.co.th/livestream/Channel7.stream/playlist.m3u8
  tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png", Channel 7' | OTV
 http://122.155.184.15/livestream/Channel7.stream/chunklist.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png", Channel 9 | OTV
+
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png", Channel 9 | OTV
+https://edge-stream-05.otv.co.th/mmplay/channel9/chunklist.m3u8
+
 http://edge-stream-07.otv.co.th/livestream/Channel9.stream/playlist.m3u8
  tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png", Channel 9 | OTV'
 http://edge-stream-07.otv.co.th/livestream/Channel9.stream/chunklist_w244135972.m3u8
@@ -114,11 +122,15 @@ http://edge-stream-07.otv.co.th/livestream/Channel9.stream/chunklist_w244135972.
 http://edge-stream-07.otv.co.th/livestream/Channel9.stream/chunklist_w1808693135.m3u8?
  tvg-logo="https://www.skynetdth.com/facebook/snchannels/channel_logo/Channel_9.png", Channel 9 | OTV"
 http://122.155.184.15/livestream/Channel9.stream/chunklist.m3u8
+
  tvg-logo="https://i.malimarcdn.com/MyanmarMaharBawdiHD.jpg", MaharBawDi | OTV /OFF
 http://edge-stream-07.otv.co.th/livestream/Mahar.stream/playlist.m3u8
  tvg-logo="https://i.malimarcdn.com/MyanmarMaharBawdiHD.jpg", MaharBawDi' | OTV /OFF
 http://122.155.184.15/livestream/Mahar.stream/chunklist.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/mi.png", MITV | OTV
+
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mi.png", MITV | OTV
+https://edge-stream-05.otv.co.th/mmplay/mitv/chunklist.m3u8
+
 http://edge-stream-07.otv.co.th/livestream/MITV.stream/playlist.m3u8
  tvg-logo="https://www.skynetdth.com/images/channal_logo/mi.png", MITV' | OTV
 http://122.155.184.15/livestream/MITV.stream/chunklist.m3u8
@@ -126,53 +138,56 @@ http://122.155.184.15/livestream/MITV.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/97/f3/92/97f3927e75ee7651747bcfe4560ea98b.jpg", MNTV | OTV
 https://edge-stream-05.otv.co.th/mmplay/mntv/chunklist.m3u8
 
- tvg-logo="https://i.pinimg.com/474x/97/f3/92/97f3927e75ee7651747bcfe4560ea98b.jpg", MNTV | OTV
 http://edge-stream-07.otv.co.th/livestream/MNTV.stream/playlist.m3u8
  tvg-logo="https://i.pinimg.com/474x/97/f3/92/97f3927e75ee7651747bcfe4560ea98b.jpg", MNTV' | OTV
 https://edge-stream-07.otv.co.th/livestream/MNTV.stream/playlist.m3u8
  tvg-logo="https://i.pinimg.com/474x/97/f3/92/97f3927e75ee7651747bcfe4560ea98b.jpg", MNTV" | OTV
 http://122.155.184.15/livestream/MNTV.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV | OTV
-http://edge-stream-07.otv.co.th/livestream/MRTV.stream/playlist.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV' | OTV
-http://122.155.184.15/livestream/MRTV.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV | OTV
 https://edge-stream-05.otv.co.th/mmplay/mrtv/chunklist.m3u8
 
+http://edge-stream-07.otv.co.th/livestream/MRTV.stream/playlist.m3u8
+ tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV' | OTV
+http://122.155.184.15/livestream/MRTV.stream/chunklist.m3u8
  tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV" | OTV
 https://edge-stream-07.otv.co.th/livestream/MRTV.stream/playlist.m3u8
+
  tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png", MRTV-4 | OTV
 http://edge-stream-07.otv.co.th/livestream/MRTV-4.stream/playlist.m3u8
  tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png", MRTV-4' | OTV
 http://122.155.184.15/livestream/MRTV-4.stream/chunklist.m3u8
+
  tvg-logo="https://www.skynetdth.com/images/MRTV-E.png", MRTV Entertainment | OTV
 http://edge-stream-07.otv.co.th/livestream/MRTV-Entertainment.stream/playlist.m3u8
  tvg-logo="https://www.skynetdth.com/images/MRTV-E.png", MRTV Entertainment' | OTV
 http://122.155.184.15/livestream/MRTV-Entertainment.stream/chunklist.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/hluttaw_old.png", MRTV HLUTTAW | OTV
+
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/hluttaw_old.png", MRTV HLUTTAW | OTV
+https://edge-stream-05.otv.co.th/mmplay/hluttaw/chunklist.m3u8
+
 http://edge-stream-07.otv.co.th/livestream/Hluttaw.stream/playlist.m3u8
  tvg-logo="https://www.skynetdth.com/images/channal_logo/hluttaw_old.png", MRTV HLUTTAW' | OTV
 http://122.155.184.15/livestream/Hluttaw.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f40a655d41c45676eae.png",Channel 7 /iptvmate
+ tvg-logo="https://img.iptvmate.net/5e935f40a655d41c45676eae.png",Channel 7 /iptvmate
 http://edge-stream-07.otv.co.th./livestream/Channel7.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f40a655d41c45676eae.png",Channel 7,Channel 7 (New!)
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png",Channel 9 /iptvmate
+ tvg-logo="https://img.iptvmate.net/5e935f40a655d41c45676eae.png",Channel 7,Channel 7 (New!)
+ tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png",Channel 9 /iptvmate
 http://edge-stream-07.otv.co.th./livestream/Channel9.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K /iptvmate
-#EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f4e0eb57c600f104da1.png",DVB /iptvmate
+ tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K /iptvmate
+ tvg-logo="https://img.iptvmate.net/5e935f4e0eb57c600f104da1.png",DVB /iptvmate
 https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f510eb57c600f104da2.png",MNTV /iptvmate
+ tvg-logo="https://img.iptvmate.net/5e935f510eb57c600f104da2.png",MNTV /iptvmate
 http://edge-stream-07.otv.co.th./livestream/MNTV.stream/chunklist_w195218413.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png",MRTV /iptvmate
+ tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png",MRTV /iptvmate
 http://edge-stream-07.otv.co.th./livestream/MRTV.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f570eb57c600f104da4.png",MRTV Hluttaw /iptvmate
+ tvg-logo="https://img.iptvmate.net/5e935f570eb57c600f104da4.png",MRTV Hluttaw /iptvmate
 http://edge-stream-07.otv.co.th./livestream/Hluttaw.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f5a0eb57c600f104da5.png",MRTV-4 /iptvmate
+ tvg-logo="https://img.iptvmate.net/5e935f5a0eb57c600f104da5.png",MRTV-4 /iptvmate
 http://edge-stream-07.otv.co.th./livestream/MRTV-4.stream/chunklist.m3u8
 
++ + + + + misc mm + + + + +
 
  tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV HD/ OFF
 http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8?wmsAuthSign=
