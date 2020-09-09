@@ -6513,6 +6513,21 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/uk-premiersports/liveor
  group-title="worldwidetv",us-wwe ||wwtv
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/us-wwe/liveorigin/us-wwe_480/playlist.m3u8
 
++ + + + + vp2p2s.my6868.cc + + + + +
+
+#EXTINF:-1 group-title="vp2p2s",Fox Family Movies
+http://vp2p2s.my6868.cc/50003/index.m3u8
+#EXTINF:-1,HBO HD
+http://vp2p2s.my6868.cc/50008/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://vp2p2s.my6868.cc/50009/index.m3u8
+#EXTINF:-1,KBS WORLD HD
+http://vp2p2s.my6868.cc/50012/index.m3u8
+#EXTINF:-1,FLIK HD
+http://vp2p2s.my6868.cc/50014/index.m3u8
+#EXTINF:-1 group-title="vp2p2s",CNN HD
+http://vp2p2s.my6868.cc/50026/index.m3u8
+
 + + + + + http://www.iamntp.com/tv/ + + + + +
 
 http://www.iamntp.com/tv/link/3hd.php
