@@ -90,127 +90,120 @@ https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/ckeefn9hcu09r0gazbusuomvt/720p/pla
 #EXTINF:-1 group-title="MM", mycujoo102473
 https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/ckeefp4ufu0cn0gazdarhpig5/720p/playlist.m3u8
 
-+ + + + + edge-stream-07.otv.co.th + + + + +
++ + + + + mm misc + + + + +
 
 http://api.new.livestream.com/accounts/15604755/events/4419934/live.m3u8
 https://livestream.com/accounts/15604755/events/4419934/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false
 
 
- tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="MM", 5 Plus | OTV /OFF
++ + + + + edge-stream-07.otv.co.th + + + + +
+
+#EXTINF:-1 tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="MM", 5 Plus | OTV
+https://edge-stream-05.otv.co.th/mmplay/5plus/chunklist.m3u8
 http://edge-stream-07.otv.co.th/livestream/5Plus.stream/playlist.m3u8
- tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png", 5 Plus' | OTV /OFF
-http://122.155.184.15/livestream/5Plus.stream/chunklist.m3u8
- tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png", Channel 7 | OTV
-http://edge-stream-07.otv.co.th/livestream/Channel7.stream/playlist.m3u8
- tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png", Channel 7' | OTV
-http://122.155.184.15/livestream/Channel7.stream/chunklist.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png", Channel 9 | OTV
-http://edge-stream-07.otv.co.th/livestream/Channel9.stream/playlist.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png", Channel 9 | OTV'
-http://edge-stream-07.otv.co.th/livestream/Channel9.stream/chunklist_w244135972.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png", Channel 9 | OTV''
-http://edge-stream-07.otv.co.th/livestream/Channel9.stream/chunklist_w1808693135.m3u8?
- tvg-logo="https://www.skynetdth.com/facebook/snchannels/channel_logo/Channel_9.png", Channel 9 | OTV"
-http://122.155.184.15/livestream/Channel9.stream/chunklist.m3u8
- tvg-logo="https://i.malimarcdn.com/MyanmarMaharBawdiHD.jpg", MaharBawDi | OTV /OFF
-http://edge-stream-07.otv.co.th/livestream/Mahar.stream/playlist.m3u8
- tvg-logo="https://i.malimarcdn.com/MyanmarMaharBawdiHD.jpg", MaharBawDi' | OTV /OFF
-http://122.155.184.15/livestream/Mahar.stream/chunklist.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/mi.png", MITV | OTV
-http://edge-stream-07.otv.co.th/livestream/MITV.stream/playlist.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/mi.png", MITV' | OTV
-http://122.155.184.15/livestream/MITV.stream/chunklist.m3u8
- tvg-logo="https://i.pinimg.com/474x/97/f3/92/97f3927e75ee7651747bcfe4560ea98b.jpg", MNTV | OTV
-http://edge-stream-07.otv.co.th/livestream/MNTV.stream/playlist.m3u8
- tvg-logo="https://i.pinimg.com/474x/97/f3/92/97f3927e75ee7651747bcfe4560ea98b.jpg", MNTV' | OTV
-https://edge-stream-07.otv.co.th/livestream/MNTV.stream/playlist.m3u8
- tvg-logo="https://i.pinimg.com/474x/97/f3/92/97f3927e75ee7651747bcfe4560ea98b.jpg", MNTV" | OTV
-http://122.155.184.15/livestream/MNTV.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV | OTV
-http://edge-stream-07.otv.co.th/livestream/MRTV.stream/playlist.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV' | OTV
-http://122.155.184.15/livestream/MRTV.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV" | OTV
-https://edge-stream-07.otv.co.th/livestream/MRTV.stream/playlist.m3u8
- tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png", MRTV-4 | OTV
-http://edge-stream-07.otv.co.th/livestream/MRTV-4.stream/playlist.m3u8
- tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png", MRTV-4' | OTV
-http://122.155.184.15/livestream/MRTV-4.stream/chunklist.m3u8
- tvg-logo="https://www.skynetdth.com/images/MRTV-E.png", MRTV Entertainment | OTV
-http://edge-stream-07.otv.co.th/livestream/MRTV-Entertainment.stream/playlist.m3u8
- tvg-logo="https://www.skynetdth.com/images/MRTV-E.png", MRTV Entertainment' | OTV
-http://122.155.184.15/livestream/MRTV-Entertainment.stream/chunklist.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/hluttaw_old.png", MRTV HLUTTAW | OTV
-http://edge-stream-07.otv.co.th/livestream/Hluttaw.stream/playlist.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/hluttaw_old.png", MRTV HLUTTAW' | OTV
-http://122.155.184.15/livestream/Hluttaw.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f40a655d41c45676eae.png",Channel 7 /iptvmate
-http://edge-stream-07.otv.co.th./livestream/Channel7.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f40a655d41c45676eae.png",Channel 7,Channel 7 (New!)
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png",Channel 9 /iptvmate
-http://edge-stream-07.otv.co.th./livestream/Channel9.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K /iptvmate
-#EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f4e0eb57c600f104da1.png",DVB /iptvmate
-https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f510eb57c600f104da2.png",MNTV /iptvmate
-http://edge-stream-07.otv.co.th./livestream/MNTV.stream/chunklist_w195218413.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png",MRTV /iptvmate
-http://edge-stream-07.otv.co.th./livestream/MRTV.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f570eb57c600f104da4.png",MRTV Hluttaw /iptvmate
-http://edge-stream-07.otv.co.th./livestream/Hluttaw.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f5a0eb57c600f104da5.png",MRTV-4 /iptvmate
-http://edge-stream-07.otv.co.th./livestream/MRTV-4.stream/chunklist.m3u8
-
-
- tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV HD/ OFF
-http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8?wmsAuthSign=
- tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV/ OFF
-http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/gidlean/playlist.m3u8
-
- tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="MM", 5 Plus
-http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
- tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="MM", 5 Plus'
-http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319209.png" group-title="MM", Channel 7
+#EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png", Channel 7 | OTV
+https://edge-stream-05.otv.co.th/mmplay/channel7/chunklist.m3u8
+https://edge-stream-07.otv.co.th/livestream/Channel7.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png", Channel 7 |forever
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+, Channel 7
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
-#EXTINF:-1, Channel 7 | fluxustv
-http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg", Channel K
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png", Channel 9 | OTV
+https://edge-stream-05.otv.co.th/mmplay/channel9/chunklist.m3u8
+http://edge-stream-07.otv.co.th/livestream/Channel9.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K |CF
+https://rebrand.ly/chK-cf
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K' |CF
+https://d3cs5y5559s57s.cloudfront.net/live/channelk-7046.ts
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K" |CF
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 
- group-title="MM", Fortune TV
+#EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f4e0eb57c600f104da1.png",DVB | OTV
+https://edge-stream-05.otv.co.th/mmplay/dvb/chunklist.m3u8
+https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8
+
+ tvg-logo="https://i.malimarcdn.com/MyanmarMaharBawdiHD.jpg", MaharBawDi | OTV /OFF
+http://edge-stream-07.otv.co.th/livestream/Mahar.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/MyanmarMaharBawdiHD.jpg", MaharBawDi' | forever
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+, MaharBawDi
+http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mi.png", MITV | OTV
+https://edge-stream-05.otv.co.th/mmplay/mitv/chunklist.m3u8
+http://edge-stream-07.otv.co.th/livestream/MITV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/97/f3/92/97f3927e75ee7651747bcfe4560ea98b.jpg", MNTV | OTV
+https://edge-stream-05.otv.co.th/mmplay/mntv/chunklist.m3u8
+https://edge-stream-07.otv.co.th/livestream/MNTV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV | OTV
+https://edge-stream-05.otv.co.th/mmplay/mrtv/chunklist.m3u8
+https://edge-stream-07.otv.co.th/livestream/MRTV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png", MRTV-4 | OTV
+https://edge-stream-05.otv.co.th/mmplay/mrtv-4/chunklist.m3u8
+https://edge-stream-07.otv.co.th/livestream/MRTV-4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png", MRTV-4 |forever 
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+, MRTV-4
+http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/MRTV-E.png", MRTV Entertainment |GNet
+https://rebrand.ly/me-gn
+ tvg-logo="https://www.skynetdth.com/images/MRTV-E.png", MRTV Entertainment | OTV
+https://edge-stream-07.otv.co.th/livestream/MRTV-Entertainment.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/hluttaw_old.png", MRTV HLUTTAW | OTV
+https://edge-stream-05.otv.co.th/mmplay/hluttaw/chunklist.m3u8
+https://edge-stream-07.otv.co.th/livestream/Hluttaw.stream/playlist.m3u8
+
++ + + + + misc mm + + + + +
+
+#EXTINF:-1 group-title="MM", mitv /cdn
+https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(3794b443-0bab-4f1c-bea5-3bdf37cf588a)/manifest.mpd
+
+#EXTINF:-1 group-title="MM", MRTV Ent /cdn
+https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(e02c93f2-33d9-458b-bf23-a2717b5f59a8)/manifest.mpd
+
+#EXTINF:-1 group-title="MM", MRTV Farmer Channel /cdn
+https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(fca755f5-5090-41fd-bf2c-1c0049947d25)/manifest.mpd
+
+#EXTINF:-1 group-title="MM", MRTV NRC /cdn
+https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(1095e49d-1c13-47fc-8174-546061a17c3b)/manifest.mpd
+
+, fortune TV'
+https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/chunks.m3u8
+, Fortune TV
 http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8
- group-title="MM", Fortune TV'
+, Fortune TV'
 http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/stream_1.m3u8
 
-#EXTINF:-1, Mizzima TV
-https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
-#EXTINF:-1, Mahar TV /iptvmate
+, Mahar TV /iptvmate
 http://maharlive.b-cdn.net/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/MyanmarMaharBawdiHD.jpg" group-title="MM", MaharBawDi
-http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
-#EXTINF:-1 group-title="MM", MaharBawDi'
-https://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/index_450_av-b.m3u8
-#EXTINF:-1 group-title="MM", MaharBawDi | fluxustv
-http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8?fluxustv.m3u8
+#EXTINF:-1, Mizzima TV | mmnet
+https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
+#EXTINF:-1, Mizzima TV' | mmnet
+https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_mobile/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="MM", MRTV-4
-http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
-#EXTINF:-1 group-title="MM", MRTV-4 | fluxustv
-http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 group-title="MM",MVTV Myanmar
+,MVTV Myanmar
 https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
-#EXTINF:-1,MVM mynmar
-https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w2017686026.m3u8
-#EXTINF:-1 group-title="MM",MVTV Myanmar'
-https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w2034544246.m3u8
 
+, MRTV HD/ OFF
+http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8?wmsAuthSign=
+, MRTV/ OFF
+http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/gidlean/playlist.m3u8
+
+, 5 Plus
+http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
+, 5 Plus'
+http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/playlist.m3u8
+
++ + + + + KH + + + + +
 
 #EXTINF:-1 group-title="MM",MRTV / HLUTTAW /28:8180
 http://220.158.149.28:8180/hls/TV00000000000000000089@HHZT
@@ -309,41 +302,6 @@ http://220.158.149.28:8182/hls/TV00000000000000000170@HHZT
 #EXTINF:-1 group-title="MM",MIZZIMA TV' /14:9999
 http://220.158.149.14:9999/live/TV00000000000000000170@HHZT
 
-
- group-title="MM", 5 Plus
-https://stream.myanmartvchannels.com:999/website-5pluschannelsd/website-5pluschannelsd/chunks.m3u8?nimblesessionid=
-
-https://stream.myanmartvchannels.com:999/website-fortunechannelsd/website-fortunechannelsd/chunks.m3u8?nimblesessionid=
-
- group-title="MM", fortune TV'
-https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="MM", mitv /cdn
-https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(3794b443-0bab-4f1c-bea5-3bdf37cf588a)/manifest.mpd
-
-#EXTINF:-1 group-title="MM", MRTV Ent /cdn
-https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(e02c93f2-33d9-458b-bf23-a2717b5f59a8)/manifest.mpd
-
-#EXTINF:-1 group-title="MM", MRTV Farmer Channel /cdn
-https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(fca755f5-5090-41fd-bf2c-1c0049947d25)/manifest.mpd
-
-#EXTINF:-1 group-title="MM", MRTV NRC /cdn
-https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(1095e49d-1c13-47fc-8174-546061a17c3b)/manifest.mpd
-
- group-title="MM", mntv
-https://stream.myanmartvchannels.com:999/website-mntvchannelsd/website-mntvchannelsd/chunks.m3u8?nimblesessionid=
-
- group-title="MM", YTV
-https://stream.myanmartvchannels.com:999/website-ytvchannelhd/website-ytvchannelhd/chunks.m3u8?nimblesessionid=
-
-
-#EXTINF:-1 group-title="MM",MM: MYANMAR Channel 7
-http://iptvtree.net:8080/762c99d7/661a280770/146769
-#EXTINF:-1 group-title="MM",MM: MYANMAR Channel K
-http://iptvtree.net:8080/762c99d7/661a280770/146778
-#EXTINF:-1 group-title="MM",MM: MYANMAR MAHAR BAWDI
-http://iptvtree.net:8080/762c99d7/661a280770/146773
-
 + + + + + HBO + + + + + 
 
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |org
@@ -383,7 +341,7 @@ https://rebrand.ly/H-re-se1
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |SE2
 https://rebrand.ly/H-re-se2
 
-#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |IP
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO* |IP
 https://rebrand.ly/H-re-ip
 
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX ||org
@@ -518,7 +476,6 @@ http://www.iamntp.com/hbo/sig_onweb.m3u8
  tvg-id="RED BY HBO HD" group-title="HBO", Red By HBO /onweb
 http://www.iamntp.com/hbo/red_onweb.m3u8
 
-
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="ID", CINEMAX |ID
 https://rebrand.ly/CIN-62
 #EXTINF:-1 tvg-id="FOX Action Movies HD",Fox Action Movies |ID
@@ -547,7 +504,6 @@ https://rebrand.ly/nPR-103
 https://rebrand.ly/assp-89
 #EXTINF:-1 group-title="ID", SCM |ID
 https://rebrand.ly/SCM-62
-
 
 #EXTINF:-1 group-title="103.47",(INDO)FOX FAMILY MOVIES
 http://103.47.132.165/PLTV/88888888/224/3221227117/1.m3u8
@@ -3238,13 +3194,26 @@ https://cdn221.cloud-streaming.com/wrapfootball_t5/hd-hbo-thai/chunks.m3u8?nimbl
 
 + + + + + https://www.ballsoi8.com / 103.253.74.3:443 + + + + +
 
- group-title="TH/ballsoi8",trueepl1
-https://cdn227.cloud-streaming.com/ballsoi8_r1/trueepl1_480p/chunks.m3u8?nimblesessionid=
-https://cdn227.cloud-streaming.com/ballsoi8_r1/trueepl2_480p/chunks.m3u8?nimblesessionid=
-,trueepl2'
-https://cdn227.cloud-streaming.com/ballsod_y1/trueepl2_480p/playlist.m3u8?wmsAuthSign=
-https://cdn227.cloud-streaming.com/ballsoi8_r1/trueepl3_480p/chunks.m3u8?nimblesessionid=
-https://cdn227.cloud-streaming.com/ballsoi8_r1/trueepl4_480p/chunks.m3u8?nimblesessionid=
+#EXTINF:-1 group-title="TH/ballsoi8",trueepl1
+https://rebrand.ly/bs-tpl-1
+#EXTINF:-1 group-title="TH/ballsoi8",trueepl2
+https://rebrand.ly/bs-tpl-2
+#EXTINF:-1 group-title="TH/ballsoi8",trueepl3
+https://cdn227.cloud-streaming.com/ballsod_y1/trueepl3_480p/chunks.m3u8?nimblesessionid=4240400&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgMzoyMDoxNCBBTSZoYXNoX3ZhbHVlPUlReW5lQWRTcCtIQ21xNVJubkJsalE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0xMTgxNTQ=
+#EXTINF:-1 group-title="TH/ballsoi8",trueepl4
+https://cdn227.cloud-streaming.com/ballsod_y1/trueepl4_480p/chunks.m3u8?nimblesessionid=4240401&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgMzoyMDo1MSBBTSZoYXNoX3ZhbHVlPUlMUW5MTnJYVGVucExQZmdvODBDa3c9PSZ2YWxpZG1pbnV0ZXM9MSZpZD03ODcxNzQ=
+#EXTINF:-1 group-title="TH/ballsoi8",trueepl5
+https://cdn227.cloud-streaming.com/ballsod_y1/trueepl5_480p/chunks.m3u8?nimblesessionid=4240403&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgMzoyMTozMCBBTSZoYXNoX3ZhbHVlPTR4L1dXVDZsMDVJblVXU3lmQXl6SVE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0zMTcxOTU=
+
+#EXTINF:-1 group-title="TH/ballsoi8",bein 1
+https://rebrand.ly/bs-bs-1
+#EXTINF:-1 group-title="TH/ballsoi8",bein 1'
+https://cdn227.cloud-streaming.com/ballsod_y1/beinsport1_480p/chunks.m3u8?nimblesessionid=4240333&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgMzowODowNyBBTSZoYXNoX3ZhbHVlPW0wVDVpZTlKTTQ0NU5DMDYrYTVXZHc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD01MTczODI=
+#EXTINF:-1 group-title="TH/ballsoi8",bein 2
+https://rebrand.ly/bs-bs-2
+#EXTINF:-1 group-title="TH/ballsoi8",bein 2'
+https://cdn227.cloud-streaming.com/ballsod_y1/beinsporthd2_480p/chunks.m3u8?nimblesessionid=4240346&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgMzowOTozMiBBTSZoYXNoX3ZhbHVlPXVrSkUyK050UlhPMi8zQW04NnJGRFE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD05MTM1MDI=
+
 ,trueepl5
 https://cdn227.cloud-streaming.com/ballsoi8_r1/trueepl5_480p/chunks.m3u8?nimblesessionid=
 ,skynethd
@@ -6500,6 +6469,21 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/uk-premiersports/liveor
  group-title="worldwidetv",us-wwe ||wwtv
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/us-wwe/liveorigin/us-wwe_480/playlist.m3u8
 
++ + + + + vp2p2s.my6868.cc + + + + +
+
+#EXTINF:-1 group-title="vp2p2s",Fox Family Movies
+http://vp2p2s.my6868.cc/50003/index.m3u8
+#EXTINF:-1,HBO HD
+http://vp2p2s.my6868.cc/50008/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://vp2p2s.my6868.cc/50009/index.m3u8
+#EXTINF:-1,KBS WORLD HD
+http://vp2p2s.my6868.cc/50012/index.m3u8
+#EXTINF:-1,FLIK HD
+http://vp2p2s.my6868.cc/50014/index.m3u8
+#EXTINF:-1 group-title="vp2p2s",CNN HD
+http://vp2p2s.my6868.cc/50026/index.m3u8
+
 + + + + + http://www.iamntp.com/tv/ + + + + +
 
 http://www.iamntp.com/tv/link/3hd.php
@@ -6834,13 +6818,17 @@ http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/22.ts
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/18.ts
 #EXTINF:-1,Disney XD
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/16.ts
+#EXTINF:-1,ANIMAL PLANET
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/13.ts
 #EXTINF:-1,SamRujRok
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/12.ts
+#EXTINF:-1,FOX ACTION
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/10.ts
+#EXTINF:-1,DISCOVERY
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/11.ts
 #EXTINF:-1,BOOMERANG
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/9.ts
+#EXTINF:-1,HBO HD
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/8.ts
 #EXTINF:-1,H2
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/5.ts
@@ -6865,6 +6853,49 @@ http://185.8.176.227:25461/strtester/ap8s9ndf709a8/57
 #EXTINF:-1 group-title="185.8",IN: Nat Geo Wild HD
 http://185.8.176.227:25461/strtester/ap8s9ndf709a8/58
 
+
++ + + + + 50.7.136.122:25461 + + + + +
+
+#EXTINF:-1 group-title="1milltvbox",[MY] CNA HD
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10327.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+#EXTINF:-1,[MY] CNBC
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10328.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+#EXTINF:-1,[MY] BLOOMBERG TV
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10329.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+#EXTINF:-1,[MY] AFN HD
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10355.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+#EXTINF:-1,[MY] WARNER TV
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10357.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+#EXTINF:-1,[MY] ASTRO ASSP HD
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10366.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+#EXTINF:-1,[MY] ASTRO ASSP2 HD
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10367.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+#EXTINF:-1,[MY] ASTRO ASSP3 HD
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10368.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+#EXTINF:-1,[MY] ASTRO ASSP4 HD
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10369.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+#EXTINF:-1,[MY] FOX Action Movies
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/11381.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+#EXTINF:-1,[MY] FOX Family Movies
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/11383.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+#EXTINF:-1,[MY] SCM
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/11983.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+#EXTINF:-1,[MY] KBS World HD
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10312.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+#EXTINF:-1,[MY] HITS MOVIES HD
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10316.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+#EXTINF:-1,[MY] HBO HD
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10317.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+#EXTINF:-1,[MY] CINEMAX HD
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10318.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+#EXTINF:-1,[MY] tvN Movies
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10319.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+#EXTINF:-1,[MY] CNN HD
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10323.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+#EXTINF:-1 group-title="1milltvbox",[MY] BBC News HD
+http://1milltvbox.loginto.me:25461/live/MgjTVPzTY8/T3hIFzVMp6/10324.m3u8?token=TRcKBRBcRAkVBwMODVRUV1MDAlVbVVBUVVMEV1JbAABTVFQFUlYFC1NBSRpKFxFXU1hvDVwUDgcDVVAOSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCBoWRloCQwxGUgkDDgFASEFRHkdSEQtZVTwHV0RcUwEaDFpDXwpNFAsNZ1dTWAMKBxZcEQdBSRpQEBMQCFtFCFQaFlRaEhNXEAYaCRQEVFxUFkoRVAwQVk0RGhAIF2MjGhoWU0sSBFgXClddFA9ACVBBXhEbQQxLZhEGQUZHVQVVU0YUCURQFEhBVVJOagELDVoDUEMKClZKQVkQBwUARhQUWVldDxVZFjxIWlIXWEZSDFIEDkEY
+
++ + + + + client.vpnuser.ws:8080 + + + + +
 
 #EXTINF:-1 group-title="gen",beIN Sports 1 TH
 http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/8510
