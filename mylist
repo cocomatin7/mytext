@@ -3238,19 +3238,17 @@ https://cdn221.cloud-streaming.com/wrapfootball_t5/hd-hbo-thai/chunks.m3u8?nimbl
 
 + + + + + https://www.ballsoi8.com / 103.253.74.3:443 + + + + +
 
- group-title="TH/ballsoi8",trueepl1
-https://cdn227.cloud-streaming.com/ballsoi8_r1/trueepl1_480p/chunks.m3u8?nimblesessionid=
-https://cdn227.cloud-streaming.com/ballsoi8_r1/trueepl2_480p/chunks.m3u8?nimblesessionid=
-,trueepl2'
-https://cdn227.cloud-streaming.com/ballsod_y1/trueepl2_480p/playlist.m3u8?wmsAuthSign=
-https://cdn227.cloud-streaming.com/ballsoi8_r1/trueepl3_480p/chunks.m3u8?nimblesessionid=
-https://cdn227.cloud-streaming.com/ballsoi8_r1/trueepl4_480p/chunks.m3u8?nimblesessionid=
+#EXTINF:-1 group-title="TH/ballsoi8",trueepl1
+https://rebrand.ly/bs-tpl-1
+#EXTINF:-1 group-title="TH/ballsoi8",trueepl2
+https://rebrand.ly/bs-tpl-2
 
 #EXTINF:-1 group-title="TH/ballsoi8",bein 1
 https://rebrand.ly/bs-bs-1
 #EXTINF:-1 group-title="TH/ballsoi8",bein 1'
 https://cdn227.cloud-streaming.com/ballsod_y1/beinsport1_480p/chunks.m3u8?nimblesessionid=4240333&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgMzowODowNyBBTSZoYXNoX3ZhbHVlPW0wVDVpZTlKTTQ0NU5DMDYrYTVXZHc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD01MTczODI=
-
+#EXTINF:-1 group-title="TH/ballsoi8",bein 2
+https://rebrand.ly/bs-bs-2
 #EXTINF:-1 group-title="TH/ballsoi8",bein 2'
 https://cdn227.cloud-streaming.com/ballsod_y1/beinsporthd2_480p/chunks.m3u8?nimblesessionid=4240346&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgMzowOTozMiBBTSZoYXNoX3ZhbHVlPXVrSkUyK050UlhPMi8zQW04NnJGRFE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD05MTM1MDI=
 
