@@ -175,17 +175,14 @@ https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(fca755f5-5090-4
 #EXTINF:-1 group-title="MM", MRTV NRC /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(1095e49d-1c13-47fc-8174-546061a17c3b)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg", Channel K
-https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
-
- group-title="MM", fortune TV'
+, fortune TV'
 https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/chunks.m3u8
- group-title="MM", Fortune TV
+, Fortune TV
 http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8
- group-title="MM", Fortune TV'
+, Fortune TV'
 http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/stream_1.m3u8
 
-#EXTINF:-1, Mahar TV /iptvmate
+, Mahar TV /iptvmate
 http://maharlive.b-cdn.net/stream.m3u8
 
 #EXTINF:-1, Mizzima TV | mmnet
@@ -193,17 +190,17 @@ https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
 #EXTINF:-1, Mizzima TV' | mmnet
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_mobile/index.m3u8
 
-#EXTINF:-1 group-title="MM",MVTV Myanmar
+,MVTV Myanmar
 https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
 
- tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV HD/ OFF
+, MRTV HD/ OFF
 http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8?wmsAuthSign=
- tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV/ OFF
+, MRTV/ OFF
 http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/gidlean/playlist.m3u8
 
- tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="MM", 5 Plus
+, 5 Plus
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
- tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="MM", 5 Plus'
+, 5 Plus'
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/playlist.m3u8
 
 + + + + + KH + + + + +
@@ -304,13 +301,6 @@ http://220.158.149.28:8180/live/TV00000000000000000170@HHZT
 http://220.158.149.28:8182/hls/TV00000000000000000170@HHZT
 #EXTINF:-1 group-title="MM",MIZZIMA TV' /14:9999
 http://220.158.149.14:9999/live/TV00000000000000000170@HHZT
-
-#EXTINF:-1 group-title="MM",MM: MYANMAR Channel 7
-http://iptvtree.net:8080/762c99d7/661a280770/146769
-#EXTINF:-1 group-title="MM",MM: MYANMAR Channel K
-http://iptvtree.net:8080/762c99d7/661a280770/146778
-#EXTINF:-1 group-title="MM",MM: MYANMAR MAHAR BAWDI
-http://iptvtree.net:8080/762c99d7/661a280770/146773
 
 + + + + + HBO + + + + + 
 
