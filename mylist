@@ -143,6 +143,8 @@ https://edge-stream-07.otv.co.th/livestream/MNTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV | OTV
 https://edge-stream-05.otv.co.th/mmplay/mrtv/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/MRTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV |akm
+https://rebrand.ly/mrtv-akm
 
 #EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png", MRTV-4 | OTV
 https://edge-stream-05.otv.co.th/mmplay/mrtv-4/chunklist.m3u8
