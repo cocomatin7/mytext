@@ -398,6 +398,14 @@ http://fdtvapps.xyz/channel/hbohits.m3u8
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |fdtv
 http://fdtvapps.xyz/channel/red.m3u8
 
+http://www.iamntp.com/tv/link/family_onweb.m3u8
+http://www.iamntp.com/tv/link/hbo_onweb.m3u8
+http://www.iamntp.com/tv/link/hits_onweb.m3u8
+http://www.iamntp.com/tv/link/max_onweb.m3u
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", Red By HBO /onweb
+http://www.iamntp.com/tv/link/red_onweb.m3u8
+http://www.iamntp.com/tv/link/sig_onweb.m3u8
+
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |ktu
 https://niklive.com/live/ktu/red_hbo/playlist.m3u8
 
@@ -459,14 +467,6 @@ https://iptv.burhansyam.com/hbotest/hits.m3u8
 https://iptv.burhansyam.com/hbotest/max.m3u8
 https://iptv.burhansyam.com/hbotest/red.m3u8
 https://iptv.burhansyam.com/hbotest/sig.m3u8
-
-http://www.iamntp.com/tv/link/family_onweb.m3u8
-http://www.iamntp.com/tv/link/hbo_onweb.m3u8
-http://www.iamntp.com/tv/link/hits_onweb.m3u8
-http://www.iamntp.com/tv/link/max_onweb.m3u
-#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", Red By HBO /onweb
-http://www.iamntp.com/tv/link/red_onweb.m3u8
-http://www.iamntp.com/tv/link/sig_onweb.m3u8
 
  tvg-id="Cinemax HD" group-title="HBO", Cinemax /onweb
 http://www.iamntp.com/hbo/max_onweb.m3u8
