@@ -4101,12 +4101,8 @@ http://ip2121.com:8081/at1/ENG4/playlist.m3u8
 #EXTINF:-1,PremieLeague5
 http://ip2121.com:8081/at1/ENG5/playlist.m3u8
 
-#EXTINF:-1,TPF HD1
-#EXTINF:-1,TPF HD2
-#EXTINF:-1,TPF HD3
+#EXTINF:-1 group-title="ip2121",TPF HD3
 http://ip2121.com:8081/at1/ENG3/chunks.m3u8
-
-#EXTINF:-1 group-title="ip2121",fox premium
 
 + + + + + iptv-wow.my.id / https://www.livedoomovies.com  + + + + +
 
@@ -8145,6 +8141,8 @@ http://muttsnutsback.land-4-sale.us:8080/TVPLAYER/STREAMS/165464
 
  group-title="pro-panel01",VIP IN: & PICTURE HD
 http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/8130.m3u8
+
+http://premium-streamplay.club:8080/live/mama/123456/8130.m3u8
 ,VIP IN: &tv HD india
 http://pro-panel01.club:8080/live/dt6SU8zQDw/vnJxFk69h2/8131.m3u8
 ,VIP IN: AND FLIX
