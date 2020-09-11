@@ -6514,23 +6514,23 @@ http://www.iamntp.com/tv/link/hbo.php
 + + + + + http://www.iamntp.com/tv/ + + + + + 
 
 #EXTINF:-1 group-title="TH/iamntp",bein1
+https://rebrand.ly/dt-bi-1
 http://www.iamntp.com/tv/allchannel/bein1.m3u8
-#EXTINF:-1 group-title="TH/iamntp",bein1'
-https://cdn227.cloud-streaming.com/ballsod_y1/beinsport1_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjAgMzoyODowMiBBTSZoYXNoX3ZhbHVlPTJ5MkljZi9RTnRncTVVVUt0bGRDdFE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD01NzEyNTM=
 
 #EXTINF:-1 group-title="TH/iamntp",bein2
+https://rebrand.ly/dt-bi-2
 http://www.iamntp.com/tv/allchannel/bein2.m3u8
-#EXTINF:-1 group-title="TH/iamntp",bein2'
-https://cdn227.cloud-streaming.com/ballsod_y1/beinsporthd2_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjAgMzoyOTozOSBBTSZoYXNoX3ZhbHVlPWF1MFN5NXVUVDVLZXN6Y2tVQjh1TGc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD04MDk4MDk=
 
 http://www.iamntp.com/tv/allchannel/btsport1.m3u8
 http://www.iamntp.com/tv/allchannel/btsport2.m3u8
 http://www.iamntp.com/tv/allchannel/btsport3.m3u8
 
 #EXTINF:-1,epl1
+https://rebrand.ly/dt-epl1
 http://www.iamntp.com/tv/allchannel/epl1.m3u8
 
 #EXTINF:-1,epl2
+https://rebrand.ly/dt-epl2
 http://www.iamntp.com/tv/allchannel/epl2.m3u8
 
 http://www.iamntp.com/tv/allchannel/epl3.m3u8
@@ -6538,14 +6538,11 @@ http://www.iamntp.com/tv/allchannel/epl4.m3u8
 http://www.iamntp.com/tv/allchannel/epl5.m3u8
 http://www.iamntp.com/tv/allchannel/hbdhd.m3u8
 http://www.iamntp.com/tv/allchannel/mutv.m3u8
-#EXTINF:-1,skynetsport1
 http://www.iamntp.com/tv/allchannel/skynetsport1.m3u8
-#EXTINF:-1,skynetsport1'
-https://cdn227.cloud-streaming.com/ballsod_y3/skynet1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjAgMjozODo1OSBBTSZoYXNoX3ZhbHVlPUlQbndXYVZXZFFud1g2SXY2Zk9UY2c9PSZ2YWxpZG1pbnV0ZXM9MSZpZD05NzQzNDY=
-
 http://www.iamntp.com/tv/allchannel/skynetsport2.m3u8
 http://www.iamntp.com/tv/allchannel/skynetsport3.m3u8
 http://www.iamntp.com/tv/allchannel/skynetsport4.m3u8
+#EXTINF:-1,skynetsport
 http://www.iamntp.com/tv/allchannel/skynetsport5.m3u8
 http://www.iamntp.com/tv/allchannel/skynetsport6.m3u8
 http://www.iamntp.com/tv/allchannel/skysportaction.m3u8
