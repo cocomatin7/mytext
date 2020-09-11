@@ -1043,13 +1043,13 @@ http://27.254.130.61/live01/ch20.m3u8?p=m3u8
 NA
 http://27.254.130.61/live01/ch79.m3u8?p=m3u8
 
-#EXTINF:-1 group-title="TH/27.254",BBC WORLD NEWS
+#EXTINF:-1 group-title="27.254",BBC WORLD NEWS |27.254
 http://27.254.149.109:8081/tumlive/BBC/chunks.m3u8
 http://27.254.149.109:8081/tumlive/CNN/chunks.m3u8
-#EXTINF:-1,Fox Action
+#EXTINF:-1,Fox Action |27.254
 http://27.254.149.109:8081/tumlive/FoxAction/playlist.m3u8
 http://27.254.149.109:8081/tumlive/Foxfamily/chunks.m3u8
-#EXTINF:-1,Fox Family Movies'
+#EXTINF:-1,Fox Family Movies' |27.254
 http://27.254.149.109:8081/tumlive/Foxfamily/playlist.m3u8
 ,Fox Life
 http://27.254.149.109:8081/tumlive/FoxLife/playlist.m3u8
@@ -1071,33 +1071,33 @@ http://27.254.149.109:8081/tumlive/movie1.stream/playlist.m3u8
 http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
 ,movie3
 http://27.254.149.109:8081/live/movie3.stream/chunks.m3u8
-#EXTINF:-1,SKYNET HD sport
+#EXTINF:-1,SKYNET HD sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNETHD/playlist.m3u8
-#EXTINF:-1,SKYNET HD' sport
+#EXTINF:-1,SKYNET HD' sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
-#EXTINF:-1,,SKYNET1 sport
+#EXTINF:-1,,SKYNET1 sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
-#EXTINF:-1,,SKYNET1' sport
+#EXTINF:-1,,SKYNET1' sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET1/chunks.m3u8
-#EXTINF:-1,,SKYNET2 sport
+#EXTINF:-1,,SKYNET2 sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET2/playlist.m3u8
-#EXTINF:-1,,SKYNET2' sport
+#EXTINF:-1,,SKYNET2' sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET2/chunks.m3u8
-#EXTINF:-1,,SKYNET3 sport
+#EXTINF:-1,,SKYNET3 sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET3/playlist.m3u8
-#EXTINF:-1,,SKYNET3' sport
+#EXTINF:-1,,SKYNET3' sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET3/chunks.m3u8
-#EXTINF:-1,,SKYNET4 sport
+#EXTINF:-1,,SKYNET4 sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET4/playlist.m3u8
-#EXTINF:-1,,SKYNET4' sport
+#EXTINF:-1,,SKYNET4' sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET4/chunks.m3u8
-#EXTINF:-1,SKYNET5 sport
+#EXTINF:-1,SKYNET5 sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET5/playlist.m3u8
-#EXTINF:-1,SKYNET5' sport
+#EXTINF:-1,SKYNET5' sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
-#EXTINF:-1,SKYNET6 sport
+#EXTINF:-1,SKYNET6 sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET6/playlist.m3u8
-#EXTINF:-1,SKYNET6' sport
+#EXTINF:-1,SKYNET6' sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
 ,True Movie Hits
 http://27.254.149.109:8081/tumlive/MOVH/chunks.m3u8
@@ -1106,7 +1106,7 @@ http://27.254.149.109:8081/tumlive/TrueAsiaHD/chunks.m3u8
 http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
-#EXTINF:-1 group-title="TH/27.254",Up movie
+#EXTINF:-1 group-title="27.254",Up movie |27.254
 http://27.254.149.109:8081/tumlive/upmovie.stream/playlist.m3u8
 
 http://27.254.149.109:8081/tumlive/axnhdL.stream/chunks.m3u8
@@ -1599,7 +1599,7 @@ http://119.59.125.74/stream/totnew.php?channel_id=443ea6ef1768462aaffdff38ce2a43
 
 + + + + + 139.99.17.52:8081* / dooball66.com* + + + + +
 
-#EXTINF:-1 group-title="139.99",af-supersport10 |139.99
+#EXTINF:-1 group-title="TH/139.99",af-supersport10 |139.99
 http://139.99.17.52:8081/liveorigin/af-supersport10_480/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/af-supersport11_480/playlist.m3u8
@@ -1940,7 +1940,7 @@ http://139.99.17.52:8081/liveorigin/us-nbcgolf_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/us-nfl_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/us-nflnow_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/us-nhl_480/playlist.m3u8
-#EXTINF:-1 group-title="139.99",us-wwe |139.99
+#EXTINF:-1 group-title="TH/",us-wwe |139.99
 http://139.99.17.52:8081/liveorigin/us-wwe_480/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/epl-bein1_480/chunks.m3u8
@@ -2237,7 +2237,9 @@ http://160.119.77.50/iptv/uk-universal.stream/playlist.m3u8
 http://160.119.77.50/iptv/fr-tv5pacific.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-ch8.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-edge.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="", Fox Premium Movies |160
 http://160.119.77.50/iptv/hd-foxpremium.stream/chunks.m3u8
+
 http://160.119.77.50/iptv/hd-history.stream/chunks.m3u8
 http://160.119.77.50/iptv/hd-history2.stream/chunks.m3u8
 http://160.119.77.50/iptv/hd-mcot.stream/playlist.m3u8
