@@ -6499,35 +6499,27 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/us-wwe/liveorigin/us-ww
 
 + + + + + vp2p2s.my6868.cc + + + + +
 
+http://vp2p2s.my6868.cc/50001/index.m3u8
+http://vp2p2s.my6868.cc/50002/index.m3u8
 #EXTINF:-1 group-title="vp2p2s",Fox Family Movies
 http://vp2p2s.my6868.cc/50003/index.m3u8
-Fox Family Movies
+#EXTINF:-1,Fox Family Movies
 http://vp2p2s.my6868.cc/50004/index.m3u8
-Fox
+#EXTINF:-1,Fox
 http://vp2p2s.my6868.cc/50005/index.m3u8
+http://vp2p2s.my6868.cc/50006/index.m3u8
+http://vp2p2s.my6868.cc/50007/index.m3u8
 #EXTINF:-1,HBO HD
 http://vp2p2s.my6868.cc/50008/index.m3u8
 #EXTINF:-1,HBO Family HD
 http://vp2p2s.my6868.cc/50009/index.m3u8
-
-#EXTINF:-1,HITS HD
-http://vp2p2s.my6868.cc/50049/index.m3u8
-#EXTINF:-1,KBS WORLD HD
-http://vp2p2s.my6868.cc/50012/index.m3u8
-#EXTINF:-1,FLIK HD
-http://vp2p2s.my6868.cc/50014/index.m3u8
-#EXTINF:-1 group-title="vp2p2s",CNN HD
-http://vp2p2s.my6868.cc/50026/index.m3u8
-
-http://vp2p2s.my6868.cc/50001/index.m3u8
-http://vp2p2s.my6868.cc/50002/index.m3u8
-http://vp2p2s.my6868.cc/50006/index.m3u8
-http://vp2p2s.my6868.cc/50007/index.m3u8
 http://vp2p2s.my6868.cc/50010/index.m3u8
 http://vp2p2s.my6868.cc/50011/index.m3u8
-http://vp2p2s.my6868.cc/50012/index.m3u8 < KBS World
-http://vp2p2s.my6868.cc/50013/index.m3u8 
-http://vp2p2s.my6868.cc/50014/index.m3u8 < FliK
+#EXTINF:-1,KBS WORLD HD
+http://vp2p2s.my6868.cc/50012/index.m3u8
+http://vp2p2s.my6868.cc/50013/index.m3u8
+#EXTINF:-1,FLIK HD
+http://vp2p2s.my6868.cc/50014/index.m3u8
 http://vp2p2s.my6868.cc/50015/index.m3u8 
 http://vp2p2s.my6868.cc/50016/index.m3u8
 http://vp2p2s.my6868.cc/50017/index.m3u8 < AXN
@@ -6539,17 +6531,20 @@ http://vp2p2s.my6868.cc/50022/index.m3u8 <
 http://vp2p2s.my6868.cc/50023/index.m3u8 < 
 http://vp2p2s.my6868.cc/50024/index.m3u8 < 
 http://vp2p2s.my6868.cc/50025/index.m3u8
-http://vp2p2s.my6868.cc/50026/index.m3u8 < CNN
+#EXTINF:-1,CNN HD
+http://vp2p2s.my6868.cc/50026/index.m3u8
 http://vp2p2s.my6868.cc/50027/index.m3u8 < 
 http://vp2p2s.my6868.cc/50028/index.m3u8 < 
 http://vp2p2s.my6868.cc/50029/index.m3u8 < 
 http://vp2p2s.my6868.cc/50030/index.m3u8 < 
 http://vp2p2s.my6868.cc/50031/index.m3u8 < 
 http://vp2p2s.my6868.cc/50032/index.m3u8
-http://vp2p2s.my6868.cc/50033/index.m3u8 < BLOOMBERG
+#EXTINF:-1,BLOOMBERG
+http://vp2p2s.my6868.cc/50033/index.m3u8
 http://vp2p2s.my6868.cc/50034/index.m3u8 < 
 http://vp2p2s.my6868.cc/50035/index.m3u8
-http://vp2p2s.my6868.cc/50036/index.m3u8 < tvN MOVIES
+#EXTINF:-1,tvN MOVIES
+http://vp2p2s.my6868.cc/50036/index.m3u8
 http://vp2p2s.my6868.cc/50037/index.m3u8 < LIFE
 http://vp2p2s.my6868.cc/50038/index.m3u8 < NAT GEO
 http://vp2p2s.my6868.cc/50039/index.m3u8
@@ -6562,12 +6557,16 @@ http://vp2p2s.my6868.cc/50045/index.m3u8 < antV
 http://vp2p2s.my6868.cc/50046/index.m3u8 < FX
 http://vp2p2s.my6868.cc/50047/index.m3u8 < 
 http://vp2p2s.my6868.cc/50048/index.m3u8 < 
-http://vp2p2s.my6868.cc/50049/index.m3u8 < HITS
-http://vp2p2s.my6868.cc/50050/index.m3u8 < afn
+#EXTINF:-1,HITS HD
+http://vp2p2s.my6868.cc/50049/index.m3u8
+#EXTINF:-1,afn
+http://vp2p2s.my6868.cc/50050/index.m3u8
 http://vp2p2s.my6868.cc/50051/index.m3u8 < TLC
-http://vp2p2s.my6868.cc/50052/index.m3u8 < FOX MOVIES
+#EXTINF:-1,FOX MOVIES
+http://vp2p2s.my6868.cc/50052/index.m3u8
 http://vp2p2s.my6868.cc/50053/index.m3u8 < 
-http://vp2p2s.my6868.cc/50054/index.m3u8 < CINEMAX
+#EXTINF:-1,CINEMAX
+http://vp2p2s.my6868.cc/50054/index.m3u8
 http://vp2p2s.my6868.cc/50055/index.m3u8 < 
 http://vp2p2s.my6868.cc/50056/index.m3u8
 http://vp2p2s.my6868.cc/50057/index.m3u8 < 
@@ -6583,7 +6582,29 @@ http://vp2p2s.my6868.cc/50066/index.m3u8
 http://vp2p2s.my6868.cc/50067/index.m3u8
 http://vp2p2s.my6868.cc/50068/index.m3u8 < 
 http://vp2p2s.my6868.cc/50069/index.m3u8
+http://vp2p2s.my6868.cc/50070/index.m3u8 < 
+#EXTINF:-1,RED BY HBO
+http://vp2p2s.my6868.cc/50071/index.m3u8
+http://vp2p2s.my6868.cc/50072/index.m3u8 < 
+http://vp2p2s.my6868.cc/50073/index.m3u8 < 
+http://vp2p2s.my6868.cc/50074/index.m3u8
+#EXTINF:-1 group-title="vp2p2s",CCM
+http://vp2p2s.my6868.cc/50075/index.m3u8
 
+http://vp2p2s.my6868.cc/50076/index.m3u8
+http://vp2p2s.my6868.cc/50077/index.m3u8
+http://vp2p2s.my6868.cc/50078/index.m3u8
+http://vp2p2s.my6868.cc/50079/index.m3u8
+http://vp2p2s.my6868.cc/50080/index.m3u8
+http://vp2p2s.my6868.cc/50081/index.m3u8
+http://vp2p2s.my6868.cc/50082/index.m3u8
+http://vp2p2s.my6868.cc/50083/index.m3u8
+http://vp2p2s.my6868.cc/50084/index.m3u8
+http://vp2p2s.my6868.cc/50085/index.m3u8
+http://vp2p2s.my6868.cc/50086/index.m3u8
+http://vp2p2s.my6868.cc/50087/index.m3u8
+http://vp2p2s.my6868.cc/50088/index.m3u8
+http://vp2p2s.my6868.cc/50089/index.m3u8
 
 + + + + + http://www.iamntp.com/tv/ + + + + +
 
