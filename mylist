@@ -7432,6 +7432,8 @@ http://client-premiumzone.in:8080/live/dt6SU8zQDw/vnJxFk69h2/10866.m3u8
 
 #EXTINF:-1 group-title="clientportal",NBCSN HD US | clientportal
 http://85.203.33.42:80/live/oyes8ns54/keO3qM48/9008.m3u8
+#EXTINF:-1,Fox Movies FHD TH
+http://clientportal.link:80/live/oyes8ns54/keO3qM48/17059.m3u8
 #EXTINF:-1 tvg-logo="https://www.channelkmyanmar.com/img/logo/logo.png", Channel K | clientportal
 http://85.203.33.42:80/live/oyes8ns54/keO3qM48/17061.m3u8
 #EXTINF:-1,Channel NewsAsia TH | clientportal
@@ -7440,10 +7442,16 @@ http://85.203.33.42:80/live/oyes8ns54/keO3qM48/17065.m3u8
 http://85.203.33.42:80/live/oyes8ns54/keO3qM48/17074.m3u8
 #EXTINF:-1 tvg-id="Fox Action Movies HD",FOX Action Movies TH | clientportal
 http://85.203.33.42:80/live/oyes8ns54/keO3qM48/17076.m3u8
+#EXTINF:-1,Fox Family Movies TH
+http://clientportal.link:80/live/oyes8ns54/keO3qM48/17081.m3u8
+#EXTINF:-1,HBO Family HD TH
+http://clientportal.link:80/live/oyes8ns54/keO3qM48/17094.m3u8
 #EXTINF:-1 tvg-id="HBO Signature HD",HBO Signature HD TH | clientportal
 http://85.203.33.42:80/live/oyes8ns54/keO3qM48/17098.m3u8
 #EXTINF:-1,TVN Asia TH | clientportal
 http://85.203.33.42:80/live/oyes8ns54/keO3qM48/17101.m3u8
+#EXTINF:-1,KBS World TH
+http://85.203.33.42:80/live/oyes8ns54/keO3qM48/17104.m3u8
 #EXTINF:-1,Food Network TH | clientportal
 http://85.203.33.42:80/live/oyes8ns54/keO3qM48/17105.m3u8
 #EXTINF:-1 tvg-id="HBO Family HD",HBO Family HD TH | clientportal
@@ -7551,9 +7559,8 @@ http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/16956.m3u8
 http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/16957.m3u8
 #EXTINF:-1,True Premiere Football HD3 | cloudcdn
 http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/16958.m3u8
-#EXTINF:-1,True Premiere Football HD4 | cloudcdn
+#EXTINF:-1 group-title="cloudcdn",True Premiere Football HD4 | cloudcdn
 http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/16959.m3u8
-#EXTINF:-1 group-title="cloudcdn",True Premiere Football HD5 | cloudcdn
 
 + + + + + endoftheworldisnigh.sytes.net:8989 + + + + +
 
