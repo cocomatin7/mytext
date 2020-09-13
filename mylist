@@ -7498,6 +7498,27 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/40.ts
 
 + + + + + kstream.club:8080 + + + + +
 
+#EXTINF:-1,HBO
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//85
+#EXTINF:-1,HBO FAMILY
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//86
+#EXTINF:-1,HBO HITS
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//87
+#EXTINF:-1,CINEMAX
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//88
+#EXTINF:-1,RED BY HBO
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//89
+#EXTINF:-1,HBO SIGNATURE
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//90
+#EXTINF:-1,FOX MOVIES
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//91
+#EXTINF:-1,FOX ACTION
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//92
+#EXTINF:-1,FOX FAMILY
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia//93
+
++ + + + + kstream.club:8080 + + + + +
+
 #EXTINF:-1 group-title="iptvtree",TH: BLOOMBERG
 http://iptvtree.net:8080/762c99d7/661a280770/162530
 ,TH: Cinemax HD
