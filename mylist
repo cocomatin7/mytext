@@ -6949,18 +6949,24 @@ http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/13.m3u8
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/12.m3u8
 #EXTINF:-1,FOX ACTION
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/10.m3u8
+#EXTINF:-1,FOX ACTION'
+http://103.22.183.58:8888/streaming/clients_live.php?extension=m3u8&username=WM2Dw8CZH8&password=crUYcV9ZBK&stream=10&type=hls
 #EXTINF:-1,DISCOVERY
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/11.m3u8
 #EXTINF:-1,BOOMERANG
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/9.m3u8
 #EXTINF:-1,HBO HD
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/8.m3u8
+#EXTINF:-1,HBO HD'
+http://103.22.183.58:8888/streaming/clients_live.php?extension=m3u8&username=WM2Dw8CZH8&password=crUYcV9ZBK&stream=8&type=hls
 #EXTINF:-1,H2
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/5.m3u8
 #EXTINF:-1,FOXTHAI
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/2.m3u8
 #EXTINF:-1,FOX MOVIE
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/3.m3u8
+#EXTINF:-1,FOX MOVIE'
+http://103.22.183.58:8888/streaming/clients_live.php?extension=m3u8&username=WM2Dw8CZH8&password=crUYcV9ZBK&stream=3&type=hls
 #EXTINF:-1 group-title="103.22",BOX FILM
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/7.m3u8
 
