@@ -475,6 +475,16 @@ https://zaltvku.imfast.io/red_onweb.m3u8
 #EXTINF:-1 tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE |onweb
 https://zaltvku.imfast.io/sig_onweb.m3u8
 
+#EXTINF:-1,Transformers 1(2007)
+https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513413855/1513413855_720.mp4
+#EXTINF:-1,Transformers 2 Revenge Of The Fallen(2009)
+https://glus-st.mthcdn.com/stream/video02/2017/12/17/1513487216/1513487216_720.mp4
+#EXTINF:-1,Transformers 3 Dark Of The Moon(2011)
+https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513413876/1513413876_480.mp4
+#EXTINF:-1,Transformers 4 Age Of Extinction(2014)
+https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513434647/1513434647_480.mp4
+
+
 + + + + + offline + + + + +
 
  tvg-id="Cinemax HD" group-title="HBO",Cinemax |TH
@@ -2579,7 +2589,9 @@ http://dootvthai-hd.com/cmd/api/true/CNN-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/dharmatv/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/Fantv/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/Food-network-HD/playlist.m3u8
+#EXTINF:-1, Fox Action Movies
 http://dootvthai-hd.com/cmd/api/true/Fox-Action/playlist.m3u8
+
 http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-2-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-3/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-HD/playlist.m3u8
