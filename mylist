@@ -401,6 +401,18 @@ https://rebrand.ly/h-si-alt
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |alt
 https://rebrand.ly/h-re-alt
 
+#EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO |boxmv (alt)
+http://boxmovie-th.com/app-api-android/hbo/hbohd2/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |boxmv (alt)
+http://boxmovie-th.com/app-api-android/hbo/maxhd2/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |boxmv (alt)
+http://boxmovie-th.com/app-api-android/hbo/famhd2/playlist.m3u8
+
+http://boxmovie-th.com/app-api-android/hbo/hitshd2/playlist.m3u8
+http://boxmovie-th.com/app-api-android/hbo/sighd2/playlist.m3u8
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |boxmv (alt)
+http://boxmovie-th.com/app-api-android/hbo/redhd2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |dootv (alt)
 http://dootvthai-hd.com/cmd/api/hbo/famhd/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO |dootv (alt)
