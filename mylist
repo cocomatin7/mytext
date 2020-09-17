@@ -475,6 +475,13 @@ https://zaltvku.imfast.io/red_onweb.m3u8
 #EXTINF:-1 tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE |onweb
 https://zaltvku.imfast.io/sig_onweb.m3u8
 
+https://github.com/amarnettv/amarnettv.github.io/tree/master/channels
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
+
+
 #EXTINF:-1,Transformers 1(2007)
 https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513413855/1513413855_720.mp4
 #EXTINF:-1,Transformers 2 Revenge Of The Fallen(2009)
