@@ -197,6 +197,8 @@ https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa3
 #EXTINF:-1, Asia Drama |cookietv
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
 
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/chunklist.m3u8
+
 #EXTINF:-1, DVB |MMnet
 https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8
 #EXTINF:-1, Eleven Media |MMnet
@@ -455,6 +457,15 @@ http://www.iamntp.com/tv/link/sig_onweb.m3u8
 https://niklive.com/live/ktu/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |ktu
 https://niklive.com/live/ktu/red_hbo/playlist.m3u8
+
+
+http://www.stgiptv.online/session_dyos/dyos/server/hbohd.m3u8
+http://www.stgiptv.online/session_dyos/dyos/server/sighd.m3u8
+http://www.stgiptv.online/session_dyos/dyos/server/hitshd.m3u8
+http://www.stgiptv.online/session_dyos/dyos/server/famhd.m3u8
+http://www.stgiptv.online/session_dyos/dyos/server/maxhd.m3u8
+http://www.stgiptv.online/session_dyos/dyos/server/red.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO |wjb
 http://tv.wajabae.com/uji/hbo.m3u8
