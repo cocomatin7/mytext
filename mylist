@@ -2678,7 +2678,9 @@ http://dootvthai-hd.com/cmd/true/9MCOT-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/9MCOT-HD/playlist.m3u8 
 http://dootvthai-hd.com/cmd/true/Amarintv-HD/playlist.m3u8
 
+#EXTINF:-1,ep1-1
 http://dootvthai-hd.com/cmd/true/ep1-1/playlist.m3u8
+#EXTINF:-1,ep1-2
 http://dootvthai-hd.com/cmd/true/ep1-2/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/ep1-3/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/ep1-4/playlist.m3u8
@@ -6773,6 +6775,7 @@ https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
 https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
 https://www.livedoomovies.com/02_DiscoveryScience/chunklist.m3u8 
 https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="beIN Sports 1", BEIN SPORT HD 1 |doomovie-hd
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 2", BEIN SPORT HD 2 |doomovie-hd
