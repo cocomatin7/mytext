@@ -756,9 +756,9 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/NatGeoPeople.id.png" group-title="GB", National Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 
-+ + + + + VN + + + + +
++ + + + + VN|ftp + + + + +
 
-#EXTINF:-1 group-title="VN",V HD |ftp
+#EXTINF:-1 group-title="VN|ftp",V HD |ftp
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="FOX Movies HD" group-title="VN",Fox Movies |ftp
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
@@ -800,68 +800,69 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/world/afchd_hls.smil/index.m3u8
 #EXTINF:-1,NHK World Japan |ftp
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VN",CNA |ftp
+#EXTINF:-1 group-title="VN|ftp",CNA |ftp
 https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
 
-+ + + + + 
++ + + + + VN|rtp + + + + +
 
- tvg-id="Asian Food Network" group-title="VN|rtp",Asian Food Network (HD 6.5Mbps) |rtp
-http://123.18.1.200:4022/rtp/232.84.2.129:9570
-,Asian Food Network |rtp
-http://123.18.1.200:4022/rtp/232.84.1.115:10236
-,BBC WORLD NEWS |rtp
-http://123.18.1.200:4022/rtp/232.84.2.239:10452
-,Bloomberg (HD 6.5Mbps) |rtp
-http://123.18.1.200:4022/rtp/232.84.3.157:10696
-,Bloomberg (HD 7.5Mbps) |rtp
-http://123.18.1.200:4022/rtp/232.84.2.146:10696
-,Bloomberg |rtp
-http://123.18.1.200:4022/rtp/232.84.1.7:8016
+#EXTINF:-1 tvg-id="Asian Food Network" group-title="VN|rtp",Asian Food Network (HD 6.5Mbps) |rtp
+http://222.254.177.95:6969/rtp/232.84.2.129:9570
+#EXTINF:-1,Asian Food Network |rtp
+http://222.254.177.95:6969/rtp/232.84.1.115:10236
+#EXTINF:-1,BBC WORLD NEWS |rtp
+http://222.254.177.95:6969/rtp/232.84.2.239:10452
+#EXTINF:-1,Bloomberg (HD 6.5Mbps) |rtp
+http://222.254.177.95:6969/rtp/232.84.3.157:10696
+#EXTINF:-1,Bloomberg (HD 7.5Mbps) |rtp
+http://222.254.177.95:6969/rtp/232.84.2.146:10696
+#EXTINF:-1,Bloomberg |rtp
+http://222.254.177.95:6969/rtp/232.84.1.7:8016
 ,CNA (HD 6.5Mbps) |rtp
-http://123.18.1.200:4022/rtp/232.84.3.155:10540
+http://222.254.177.95:6969/rtp/232.84.3.155:10540
 ,CNA' |rtp
-http://123.18.1.200:4022/rtp/232.84.2.55:10540
+http://222.254.177.95:6969/rtp/232.84.2.55:10540
 ,CNA |rtp
-http://123.18.1.200:4022/rtp/232.84.1.5:8004
+http://222.254.177.95:6969/rtp/232.84.1.5:8004
 ,CNBC |rtp
-http://123.18.1.200:4022/rtp/232.84.2.177:10488
+http://222.254.177.95:6969/rtp/232.84.2.177:10488
 ,CNBC' |rtp
-http://123.18.1.200:4022/rtp/232.84.3.179:10488
-,CNN (HD 6Mbps) |rtp
-http://123.18.1.200:4022/rtp/232.84.3.153:10690
-,CNN (HD 7.8Mbps) |rtp
-http://123.18.1.200:4022/rtp/232.84.2.145:10690
-,CNN |rtp
-http://123.18.1.200:4022/rtp/232.84.2.126:8076
- tvg-id="FOX Movies HD",FOX MOVIES (HD 7Mbps) |rtp
-http://123.18.1.200:4022/rtp/232.84.1.77:8436
- tvg-id="FOX Movies HD",FOX MOVIES |rtp
-http://123.18.1.200:4022/rtp/232.84.1.10:8034
- tvg-id="HBO HD",HBO (HD 7Mbps) |rtp
-http://123.18.1.200:4022/rtp/232.84.3.101:10648
- tvg-id="HBO HD",HBO' |rtp
-http://123.18.1.200:4022/rtp/232.84.2.138:10648
- tvg-id="HBO HD",HBO |rtp
-http://123.18.1.200:4022/rtp/232.84.1.19:8088
- tvg-id="KBS World HD",KBS WORLD |rtp
-http://123.18.1.200:4022/rtp/232.84.2.136:9612
- tvg-id="Cinemax HD",CINEMAX BY HBO (HD 7Mbps) |rtp
-http://123.18.1.200:4022/rtp/232.84.3.117:10654
+http://222.254.177.95:6969/rtp/232.84.3.179:10488
+#EXTINF:-1,CNN (HD 6Mbps) |rtp
+http://222.254.177.95:6969/rtp/232.84.3.153:10690
+#EXTINF:-1,CNN (HD 7.8Mbps) |rtp
+http://222.254.177.95:6969/rtp/232.84.2.145:10690
+#EXTINF:-1,CNN |rtp
+http://222.254.177.95:6969/rtp/232.84.2.126:8076
+#EXTINF:-1 tvg-id="FOX Movies HD",FOX MOVIES (HD 7Mbps) |rtp
+http://222.254.177.95:6969/rtp/232.84.1.77:8436
+#EXTINF:-1 tvg-id="FOX Movies HD",FOX MOVIES |rtp
+http://222.254.177.95:6969/rtp/232.84.1.10:8034
+#EXTINF:-1 tvg-id="HBO HD",HBO (HD 7Mbps) |rtp
+http://222.254.177.95:6969/rtp/232.84.3.101:10648
+#EXTINF:-1 tvg-id="HBO HD",HBO' |rtp
+http://222.254.177.95:6969/rtp/232.84.2.138:10648
+#EXTINF:-1 tvg-id="HBO HD",HBO |rtp
+http://222.254.177.95:6969/rtp/232.84.1.19:8088
+#EXTINF:-1 tvg-id="KBS World HD",KBS WORLD |rtp
+http://222.254.177.95:6969/rtp/232.84.2.136:9612
+#EXTINF:-1 tvg-id="Cinemax HD",CINEMAX BY HBO (HD 7Mbps) |rtp
+http://222.254.177.95:6969/rtp/232.84.3.117:10654
 
-http://123.18.1.200:4022/rtp/232.84.2.139:10654
- tvg-id="Cinemax HD",CINEMAX BY HBO |rtp
-http://123.18.1.200:4022/rtp/232.84.1.20:8094
-,RED BY HBO (HD 6.5Mbps) |rtp
-http://123.18.1.200:4022/rtp/232.84.3.103:10840
-,RED BY HBO (HD 7Mbps) |rtp
-http://123.18.1.200:4022/rtp/232.84.2.172:10840
-,RED BY HBO |rtp
-http://123.18.1.200:4022/rtp/232.84.1.44:8244
- tvg-id="WarnerTV HD",WBTV (HD 7Mbps) |rtp
-http://123.18.1.200:4022/rtp/232.84.2.51:10516
- tvg-id="WarnerTV HD" group-title="VN|rtp",WB TV |rtp
-http://123.18.1.200:4022/rtp/232.84.1.91:10404
+http://222.254.177.95:6969/rtp/232.84.2.139:10654
+#EXTINF:-1 tvg-id="Cinemax HD",CINEMAX BY HBO |rtp
+http://222.254.177.95:6969/rtp/232.84.1.20:8094
+#EXTINF:-1,RED BY HBO (HD 6.5Mbps) |rtp
+http://222.254.177.95:6969/rtp/232.84.3.103:10840
+#EXTINF:-1,RED BY HBO (HD 7Mbps) |rtp
+http://222.254.177.95:6969/rtp/232.84.2.172:10840
+#EXTINF:-1,RED BY HBO |rtp
+http://222.254.177.95:6969/rtp/232.84.1.44:8244
+#EXTINF:-1 tvg-id="WarnerTV HD",WBTV (HD 7Mbps) |rtp
+http://222.254.177.95:6969/rtp/232.84.2.51:10516
+#EXTINF:-1 tvg-id="WarnerTV HD" group-title="VN|rtp",WB TV |rtp
+http://222.254.177.95:6969/rtp/232.84.1.91:10404
 
++ + + + + VN|udp + + + + +
 
 #EXTINF:-1 tvg-id="Asian Food Network" group-title="VN|udp",Asian Food Network (HD 8Mbps) |udp
 http://fpthanhyen.ddns.net:1211/udp/225.1.1.198:30120
