@@ -6830,6 +6830,12 @@ http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/29.m3u8
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/28.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/22.m3u8
+
+#EXTINF:-1,Cinemax
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/42.m3u8
+
+#EXTINF:-1,Cinemax'
+http://103.22.183.58:8888/streaming/clients_live.php?extension=m3u8&username=WM2Dw8CZH8&password=crUYcV9ZBK&stream=42&type=hls
 #EXTINF:-1,DiscoveryAsia
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/18.m3u8
 #EXTINF:-1,Disney XD
@@ -6858,6 +6864,10 @@ http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/2.m3u8
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/3.m3u8
 #EXTINF:-1,FOX MOVIE'
 http://103.22.183.58:8888/streaming/clients_live.php?extension=m3u8&username=WM2Dw8CZH8&password=crUYcV9ZBK&stream=3&type=hls
+#EXTINF:-1,RED BY HBO
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/40.m3u8
+#EXTINF:-1,RED BY HBO'
+http://103.22.183.58:8888/streaming/clients_live.php?extension=m3u8&username=WM2Dw8CZH8&password=crUYcV9ZBK&stream=40&type=hls
 #EXTINF:-1 group-title="103.22",BOX FILM
 http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/7.m3u8
 
