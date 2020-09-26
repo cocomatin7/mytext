@@ -6828,52 +6828,38 @@ http://95.145.54.106:9981/playlist/channels
 
 + + + + + 103.22.183.58:8888 + + + + +
 
-#EXTINF:-1 group-title="103.22",HISTORY
-http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/29.m3u8
-#EXTINF:-1,MOVIE
-http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/28.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/22.m3u8
-
+#EXTINF:-1 group-title="103.22",IZAA
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/45.ts
 #EXTINF:-1,Cinemax
-http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/42.m3u8
-
-#EXTINF:-1,Cinemax'
-http://103.22.183.58:8888/streaming/clients_live.php?extension=m3u8&username=WM2Dw8CZH8&password=crUYcV9ZBK&stream=42&type=hls
-#EXTINF:-1,DiscoveryAsia
-http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/18.m3u8
-#EXTINF:-1,Disney XD
-http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/16.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/13.m3u8
-#EXTINF:-1,SamRujRok
-http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/12.m3u8
-#EXTINF:-1,FOX ACTION
-http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/10.m3u8
-#EXTINF:-1,FOX ACTION'
-http://103.22.183.58:8888/streaming/clients_live.php?extension=m3u8&username=WM2Dw8CZH8&password=crUYcV9ZBK&stream=10&type=hls
-#EXTINF:-1,DISCOVERY
-http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/11.m3u8
-#EXTINF:-1,BOOMERANG
-http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/9.m3u8
-#EXTINF:-1,HBO HD
-http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/8.m3u8
-#EXTINF:-1,HBO HD'
-http://103.22.183.58:8888/streaming/clients_live.php?extension=m3u8&username=WM2Dw8CZH8&password=crUYcV9ZBK&stream=8&type=hls
-#EXTINF:-1,H2
-http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/5.m3u8
-#EXTINF:-1,FOXTHAI
-http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/2.m3u8
-#EXTINF:-1,FOX MOVIE
-http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/3.m3u8
-#EXTINF:-1,FOX MOVIE'
-http://103.22.183.58:8888/streaming/clients_live.php?extension=m3u8&username=WM2Dw8CZH8&password=crUYcV9ZBK&stream=3&type=hls
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/42.ts
 #EXTINF:-1,RED BY HBO
-http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/40.m3u8
-#EXTINF:-1,RED BY HBO'
-http://103.22.183.58:8888/streaming/clients_live.php?extension=m3u8&username=WM2Dw8CZH8&password=crUYcV9ZBK&stream=40&type=hls
-#EXTINF:-1 group-title="103.22",BOX FILM
-http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/7.m3u8
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/40.ts
+#EXTINF:-1,True Spark Jump
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/38.ts
+#EXTINF:-1,NICKELODEON
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/39.ts
+#EXTINF:-1,EuroSport2
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/31.ts
+#EXTINF:-1,EuroSport1
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/30.ts
+#EXTINF:-1,HISTORY
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/29.ts
+#EXTINF:-1,MOVIE
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/28.ts
+#EXTINF:-1,CARTOON NETWORK
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/22.ts
+#EXTINF:-1,Disney XD
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/16.ts
+#EXTINF:-1,DISCOVERY
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/11.ts
+#EXTINF:-1,BOOMERANG
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/9.ts
+#EXTINF:-1,H2
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/5.ts
+#EXTINF:-1,FOXTHAI
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/2.ts
+#EXTINF:-1 group-title="103.22",FOX MOVIE
+http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/3.ts
 
 + + + + + 103.136.43.127:8080 + + + + +
 
