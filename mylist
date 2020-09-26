@@ -71,6 +71,8 @@ rtmp://203.81.81.229/livepkgr/MITV
 rtmp://203.81.81.229/livepkgr/HTT
 #EXTINF:-1, MRTV NRC |rtmp
 rtmp://203.81.81.229/livepkgr/NRC
+
+rtmp://203.81.81.230/live/NRCL
 #EXTINF:-1 group-title="MM", MRTV farmer |rtmp
 rtmp://203.81.81.229/livepkgr/farmer
 
