@@ -61,15 +61,17 @@ http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv2.m3u8
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV" |203
 http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv3.m3u8
 
-///rtmp://203.81.81.229/livepkgr/mrtv ///
++ + + + + rtmp + + + + +
 
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mi.png" group-title="MM", MITV | rtmp
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV |rtmp
+rtmp://203.81.81.230/livepkgr/mrtv
+#EXTINF:-1, MITV |rtmp
 rtmp://203.81.81.229/livepkgr/MITV
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/hluttaw_old.png", MRTV HLUTTAW | rtmp
+#EXTINF:-1, MRTV HLUTTAW |rtmp
 rtmp://203.81.81.229/livepkgr/HTT
-#EXTINF:-1, MRTV NRC | rtmp
+#EXTINF:-1, MRTV NRC |rtmp
 rtmp://203.81.81.229/livepkgr/NRC
-#EXTINF:-1 group-title="MM", MRTV farmer | rtmp
+#EXTINF:-1 group-title="MM", MRTV farmer |rtmp
 rtmp://203.81.81.229/livepkgr/farmer
 
 + + + + + my sports + + + + + 
