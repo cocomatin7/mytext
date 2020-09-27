@@ -510,7 +510,6 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
 
-
 #EXTINF:-1,Transformers 1(2007)
 https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513413855/1513413855_720.mp4
 #EXTINF:-1,Transformers 2 Revenge Of The Fallen(2009)
@@ -520,6 +519,14 @@ https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513413876/1513413876_480.m
 #EXTINF:-1,Transformers 4 Age Of Extinction(2014)
 https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513434647/1513434647_480.mp4
 
+#EXTINF:-1 group-title="HBO", HBO |ec
+http://ts.ec.cx:8080/a/hls1/hbo.m3u8
+#EXTINF:-1 group-title="HBO", HBO FAMILY |ec
+http://ts.ec.cx:8080/a/hls1/hbofamily.m3u8
+#EXTINF:-1 group-title="HBO", HBO SIGNATURE |ec
+http://ts.ec.cx:8080/a/hls1/hbosignature.m3u8
+#EXTINF:-1 group-title="HBO", CINEMAX |ec
+http://ts.ec.cx:8080/a/hls1/cinemax.m3u8
 
 + + + + + offline + + + + +
 
@@ -4187,6 +4194,27 @@ http://doo2you.com/tv/WE-PlAY-astro-supersport-3.php
 
 #EXTINF:-1 group-title="TH/we-play",true-epl-1 //we-play
 #EXTINF:-1 group-title="TH/we-play",true-epl-1' //we-play
+
++ + + + + https://fdaily.dailysportlist.xyz + + + + + 
+
+#EXTINF:-1 group-title="dailysportlist",M LaLiga
+https://fdaily.dailysportlist.xyz/1/1.m3u8
+#EXTINF:-1,beIN SPORTS HD
+https://fdaily.dailysportlist.xyz/2/2.m3u8
+#EXTINF:-1,beIN SPORTS ES
+https://fdaily.dailysportlist.xyz/3/3.m3u8
+#EXTINF:-1,UNIVERSO
+https://fdaily.dailysportlist.xyz/5/5.m3u8
+#EXTINF:-1,M Liga de
+https://fdaily.dailysportlist.xyz/8/8.m3u8
+#EXTINF:-1,M LaLiga
+https://fdaily.dailysportlist.xyz/11/11.m3u8
+#EXTINF:-1,#V DIRECTO
+https://fdaily.dailysportlist.xyz/15/15.m3u8
+#EXTINF:-1,M Deportes
+https://fdaily.dailysportlist.xyz/16/16.m3u8
+#EXTINF:-1 group-title="dailysportlist",M+
+https://fdaily.dailysportlist.xyz/18/18.m3u8
 
 + + + + + http://live.streaming-fast.com + + + + + 
 
