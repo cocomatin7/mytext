@@ -50,31 +50,31 @@ https://www.youtube.com/watch?v=BRkQ-ZGiNbc
 + + + + + 203.81.81.230 + + + + +
 
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV |203
-http://203.81.81.230/mrtv.m3u8
+http://203.81.81.230:80/mrtv.m3u8
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV ||203
-http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
+http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV |203
-http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv1.m3u8
+http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv1.m3u8
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV' |203
-http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv2.m3u8
+http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv2.m3u8
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV" |203
-http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv3.m3u8
+http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv3.m3u8
 
 + + + + + rtmp + + + + +
 
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV |rtmp
-rtmp://203.81.81.230/livepkgr/mrtv
+rtmp://203.81.81.230:80/livepkgr/mrtv
 #EXTINF:-1, MITV |rtmp
-rtmp://203.81.81.229/livepkgr/MITV
+rtmp://203.81.81.229:80/livepkgr/MITV
 #EXTINF:-1, MRTV HLUTTAW |rtmp
-rtmp://203.81.81.229/livepkgr/HTT
+rtmp://203.81.81.229:80/livepkgr/HTT
 #EXTINF:-1, MRTV NRC |rtmp
-rtmp://203.81.81.229/livepkgr/NRC
+rtmp://203.81.81.229:80/livepkgr/NRC
 
-rtmp://203.81.81.230/live/NRCL
+rtmp://203.81.81.230:80/live/NRCL
 #EXTINF:-1 group-title="MM", MRTV farmer |rtmp
-rtmp://203.81.81.229/livepkgr/farmer
+rtmp://203.81.81.229:80/livepkgr/farmer
 
 + + + + + my sports + + + + + 
 
