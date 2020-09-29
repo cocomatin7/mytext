@@ -637,7 +637,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227191/1.m3u8
 
 + + + + + misc 
 
-#EXTINF:-1,Cinemax |dai
+#EXTINF:-1 group-title="misc",Cinemax |dai
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 
 #EXTINF:-1,BBC World News |84.47
@@ -658,18 +658,26 @@ http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 http://103.47.132.165:80/PLTV/88888888/224/3221227119/1.m3u8
 
-#EXTINF:-1,SCM
+#EXTINF:-1 group-title="misc",SCM
 http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd
 
 + + + + + misc + + + + +
 
-#EXTINF:-1,Bein Sports 1 Australia
+#EXTINF:-1 group-title="sports",Bein Sports 1 Australia
 http://livetv.grabdeal.xyz/aubeinsport1
 #EXTINF:-1,Bein Sports 2 Australia
 http://livetv.grabdeal.xyz/aubeinsport2
 #EXTINF:-1,Bein Sports 3 Australia
 http://livetv.grabdeal.xyz/aubeinsport3
 
+#EXTINF:-1,Eleven Spt 1
+http://tv-swirtvteam.info/oq/co.m3u8?sid=F5357911&id=11633&q=tvhd
+#EXTINF:-1,Eleven Spt 2
+http://tv-swirtvteam.info/oq/co.m3u8?sid=31E93CE1&id=11644&q=tvhd
+#EXTINF:-1,Eleven Spt 3
+http://tv-swirtvteam.info/oq/co.m3u8?sid=27C47133&id=13105&q=tvhd
+#EXTINF:-1 group-title="sports",premier sports extra
+http://tv-swirtvteam.info/oq/co.m3u8?sid=12E0AEDB&id=1504&q=tvhd
 
 + + + + + SG + + + + +
 
