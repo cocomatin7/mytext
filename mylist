@@ -3101,6 +3101,19 @@ https://chama.ml/channelgratisan-TVNMOVIES
 #EXTINF:-1 group-title="chama",WARNER
 https://chama.ml/channelgratisan-WARNER
 
++ + + + + https://ballnaka.tv/ + + + + +
+
+#EXTINF:-1 group-title="TH/ballnaka" tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",premier hd1 |ballnaka
+https://cdn11.cdn-streaming.live/ballnaka_sport/tpf1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIwIDg6MDQ6MjIgQU0maGFzaF92YWx1ZT02a3FyTHlEZWdKQnl2OVV4dCtSSzJ3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",premier hd2 |ballnaka
+https://cdn11.cdn-streaming.live/ballnaka_sport/tpf2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIwIDc6NTg6MjAgQU0maGFzaF92YWx1ZT1zdGFFTVZ3eTNOOGFyN0QzWklwdjhnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",premier hd3 |ballnaka
+https://cdn11.cdn-streaming.live/ballnaka_sport/tpf3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIwIDg6MDg6MjEgQU0maGFzaF92YWx1ZT1ESHVlY20raVJ0Kzk4a0JLVTVZdlFBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1,bein 1
+https://cdn11.cdn-streaming.live/ballnaka_sport/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIwIDg6MDU6MzEgQU0maGFzaF92YWx1ZT12bEwxL1oxNjBrRW5rM2E1R25UZzRnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 group-title="TH/ballnaka",bein 2
+https://cdn11.cdn-streaming.live/ballnaka_sport/bein2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIwIDg6MDY6NTMgQU0maGFzaF92YWx1ZT1lblJJOTlhS0NGVGN3U05WRnA1SXZ3PT0mdmFsaWRtaW51dGVzPTIw
+
 + + + + + cloud-streaming + + + + +
 
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="cloud/ilike4kin",premier hd1 /ilike4kin
