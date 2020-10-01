@@ -458,6 +458,14 @@ http://fdtvapps.xyz/channel/hbohits.m3u8
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |fdtv
 http://fdtvapps.xyz/channel/red.m3u8
 
+http://me.zichannels.my.id/ch/family.m3u8
+http://me.zichannels.my.id/ch/hbo.m3u8
+http://me.zichannels.my.id/ch/hits.m3u8
+http://me.zichannels.my.id/ch/max.m3u8
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |me
+http://me.zichannels.my.id/ch/red.m3u8
+http://me.zichannels.my.id/ch/sighd.m3u8
+
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |ktu
 https://niklive.com/live/ktu/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |ktu
