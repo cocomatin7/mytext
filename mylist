@@ -706,6 +706,15 @@ http://103.47.132.165:80/PLTV/88888888/224/3221227119/1.m3u8
 #EXTINF:-1 group-title="misc",SCM
 http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd
 
+#EXTINF:-1 group-title="sports",Varzesh Sports 1
+http://51.158.66.44/hls/stream.m3u8
+#EXTINF:-1,Varzesh Sports 2 
+http://51.158.176.190/hls/stream.m3u8
+#EXTINF:-1,Varzesh Sports 3
+http://51.15.236.137/hls/stream.m3u8
+#EXTINF:-1 group-title="sports",Varzesh Sports 4
+http://163.172.138.186/hls/stream.m3u8
+
 + + + + + misc + + + + +
 
 #EXTINF:-1 group-title="sports",Bein Sports 1 Australia
