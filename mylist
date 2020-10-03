@@ -197,16 +197,22 @@ http://maharlive.b-cdn.net/stream.m3u8
 
 #EXTINF:-1 group-title="MMPay", Cartoon Network |cookietv
 https://rebrand.ly/ck-cn
+##live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-playlist.****
 #EXTINF:-1 tvg-id="Cinemax HD",Cinemax MM |cookietv
-http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
+##live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.****
 #EXTINF:-1 tvg-id="Cinemax HD",Cinemax MM* |cookietv
 https://rebrand.ly/ck-cnm
+
+http://live11.cookietv.com/live/8c0b7cd2-058a-4497-8680-ae4355c17e99/prod/gidlean/progress-playlist.m3u8
+http://live11.cookietv.com/live/f242a165-5f61-42d5-bfb7-3e1b21c6a3b1/prod/gidlean/progress-playlist.m3u8
+https://d39q34kqnktegw.cloudfront.net/live/8c0b7cd2-058a-4497-8680-ae4355c17e99/prod/manifest.mpd
+https://d39q34kqnktegw.cloudfront.net/live/a069af10-b125-44fe-ad16-cc418b75eda0/prod/manifest.mpd
 
 #EXTINF:-1, Cookie |cookietv
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
 #EXTINF:-1, Asia Drama |cookietv
 https://rebrand.ly/ck-adm
-https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/chunklist.m3u8
+##d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/chunklist.****
 
 
 #EXTINF:-1, DVB |MMnet
@@ -847,6 +853,34 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/NatGeoPeople.id.png" group-title="GB", National Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+
++ + + + + VN|htv + + + + +
+
+#EXTINF:-1 group-title="VN|htv",CNN HD
+http://520574.xyz/dl/htv.php?id=6
+#EXTINF:-1,HBO
+http://520574.xyz/dl/htv.php?id=65
+
+#EXTINF:-1,Fox Movies HD
+http://520574.xyz/dl/htv.php?id=69
+#EXTINF:-1,Cinemax
+http://520574.xyz/dl/htv.php?id=71
+#EXTINF:-1,MTV HD
+http://520574.xyz/dl/htv.php?id=79
+#EXTINF:-1,BBC World News
+http://520574.xyz/dl/htv.php?id=164
+#EXTINF:-1,Channel News Asia
+http://520574.xyz/dl/htv.php?id=165
+#EXTINF:-1,Asian Food Channel HD
+http://520574.xyz/dl/htv.php?id=211
+#EXTINF:-1,HBO HD
+http://520574.xyz/dl/htv.php?id=220
+#EXTINF:-1,HBO Signature HD
+http://520574.xyz/dl/htv.php?id=221
+#EXTINF:-1,HBO Family HD
+http://520574.xyz/dl/htv.php?id=222
+#EXTINF:-1,HBO Hits HD
+http://520574.xyz/dl/htv.php?id=223
 
 + + + + + VN|ftp + + + + +
 
