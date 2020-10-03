@@ -262,25 +262,25 @@ http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidl
 
 + + + + + mptalive + + + + +
 
-#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsportsplus.png" group-title="MMPay",Skynet Sport Plus
+##EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsportsplus.png" group-title="MMPay",Skynet Sport Plus
 https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1600347845~exp=9007200855088836~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=7875ad2f13fb6b2d3d71f7c23f9fc5228ddd1c89fc786e8c496448c5aa02611f
  
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png",Skynet Sport 1
+##EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png",Skynet Sport 1
 https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1600347845~exp=9007200855088836~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=7875ad2f13fb6b2d3d71f7c23f9fc5228ddd1c89fc786e8c496448c5aa02611f
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png",Skynet Sport 2
+##EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png",Skynet Sport 2
 https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1600347845~exp=9007200855088836~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=7875ad2f13fb6b2d3d71f7c23f9fc5228ddd1c89fc786e8c496448c5aa02611f
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png",Skynet Sport 3
+##EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png",Skynet Sport 3
 https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1600347845~exp=9007200855088836~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=7875ad2f13fb6b2d3d71f7c23f9fc5228ddd1c89fc786e8c496448c5aa02611f
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png",Skynet Sport 4
+##EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png",Skynet Sport 4
 https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1600347845~exp=9007200855088836~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=7875ad2f13fb6b2d3d71f7c23f9fc5228ddd1c89fc786e8c496448c5aa02611f
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png",Skynet Sport 5
+##EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png",Skynet Sport 5
 https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1600347845~exp=9007200855088836~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=7875ad2f13fb6b2d3d71f7c23f9fc5228ddd1c89fc786e8c496448c5aa02611f
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="MMPay",Skynet Sport 6
+##EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="MMPay",Skynet Sport 6
 https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1600347845~exp=9007200855088836~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=7875ad2f13fb6b2d3d71f7c23f9fc5228ddd1c89fc786e8c496448c5aa02611f
 
 #EXTINF:-1 group-title="MMPay",ASTRO SUPERSPORTS 1
@@ -863,29 +863,29 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 
 + + + + + VN|htv + + + + +
 
-#EXTINF:-1 group-title="VN|htv",CNN HD
+#EXTINF:-1 group-title="VN|htv",CNN HD |htv
 http://520574.xyz/dl/htv.php?id=6
-#EXTINF:-1,HBO CN
+#EXTINF:-1,HBO CN |htv
 http://520574.xyz/dl/htv.php?id=65
-#EXTINF:-1,Fox Movies HD
+#EXTINF:-1,Fox Movies HD |htv
 http://520574.xyz/dl/htv.php?id=69
-#EXTINF:-1,Cinemax CN
+#EXTINF:-1,Cinemax CN |htv
 http://520574.xyz/dl/htv.php?id=71
-#EXTINF:-1,MTV HD
+#EXTINF:-1,MTV HD |htv
 http://520574.xyz/dl/htv.php?id=79
-#EXTINF:-1,BBC World News
+#EXTINF:-1,BBC World News |htv
 http://520574.xyz/dl/htv.php?id=164
-#EXTINF:-1,Channel News Asia
+#EXTINF:-1,Channel News Asia |htv
 http://520574.xyz/dl/htv.php?id=165
-#EXTINF:-1,Asian Food Channel HD
+#EXTINF:-1,Asian Food Channel HD |htv
 http://520574.xyz/dl/htv.php?id=211
-#EXTINF:-1,HBO HD CN
+#EXTINF:-1,HBO HD CN |htv
 http://520574.xyz/dl/htv.php?id=220
-#EXTINF:-1,HBO Signature HD CN
+#EXTINF:-1,HBO Signature HD CN |htv
 http://520574.xyz/dl/htv.php?id=221
-#EXTINF:-1,HBO Family HD CN
+#EXTINF:-1,HBO Family HD CN |htv
 http://520574.xyz/dl/htv.php?id=222
-#EXTINF:-1 group-title="VN|htv",HBO Hits HD CN
+#EXTINF:-1 group-title="VN|htv",HBO Hits HD CN |htv
 http://520574.xyz/dl/htv.php?id=223
 
 + + + + + VN|ftp + + + + +
