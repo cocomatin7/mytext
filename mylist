@@ -7357,7 +7357,7 @@ http://clientbox.tv:80/DAVIDHOWELL/oWtCRRer2y/5852
 
 + + + + + client-premiumzone.in:8080 / premium-streamplay.club:8080 + + + + +
 
-+ + + + + clientportal.link:80 / tv.iptvstack.net:80 / 85.203.33.42:80 + + + + +
++ + + + + clientportal.link:80 / tv.iptvstack.net:80 / 85.203.33.42:80 / 85.203.33.7:80 + + + + +
 
 http://85.203.33.42:80/cLq8nWZ2172/qoQNIs6946
 http://85.203.33.42:80/k9eMyeFw1I0x823/IwLlYI618
@@ -7475,72 +7475,71 @@ http://85.203.33.42:80/live/oyes8ns54/keO3qM48/16956.m3u8
 http://85.203.33.42:80/live/oyes8ns54/keO3qM48/16957.m3u8
 #EXTINF:-1,True Premiere Football HD3 | clientportal
 http://85.203.33.42:80/live/oyes8ns54/keO3qM48/16958.m3u8
-#EXTINF:-1,True Premiere Football HD4 | clientportal
+#EXTINF:-1 group-title="clientportal",True Premiere Football HD4 | clientportal
 http://85.203.33.42:80/live/oyes8ns54/keO3qM48/16959.m3u8
-#EXTINF:-1 group-title="clientportal",True Premiere Football HD5 | clientportal < 
 
-///// http://cloudfIare.com.cdntraffice.com:80/oyes8ns54/keO3qM48 < 11/1/2021 /////
-///// http://cloudcdn.tk:80/YXFQIfeiWcQb535/0sfRwY279 < 2/1/2021 /////
+## http://cloudfIare.com.cdntraffice.com:80/oyes8ns54/keO3qM48 < 11/1/2021 ##
+## http://cloudcdn.tk:80/YXFQIfeiWcQb535/0sfRwY279 < 2/1/2021 ##
 
 #EXTINF:-1 group-title="cloudcdn",NBCSN HD US | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/9008.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/9008.m3u8
 #EXTINF:-1 tvg-logo="https://www.channelkmyanmar.com/img/logo/logo.png", Channel K | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/17061.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/17061.m3u8
 #EXTINF:-1,Channel NewsAsia TH | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/17065.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/17065.m3u8
 #EXTINF:-1 tvg-id="HBO HD",HBO TH | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/17074.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/17074.m3u8
 #EXTINF:-1 tvg-id="Fox Action Movies HD",FOX Action Movies TH | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/17076.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/17076.m3u8
 #EXTINF:-1 tvg-id="HBO Signature HD",HBO Signature HD TH | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/17098.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/17098.m3u8
 #EXTINF:-1,TVN Asia TH | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/17101.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/17101.m3u8
 #EXTINF:-1,Food Network TH | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/17105.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/17105.m3u8
 #EXTINF:-1 tvg-id="HBO Family HD",HBO Family HD TH | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/17094.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/17094.m3u8
 #EXTINF:-1,Now 90's UK | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/15053.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/15053.m3u8
 #EXTINF:-1,MTV HD UK | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/20031.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/20031.m3u8
 #EXTINF:-1,MTV Base UK | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/7319.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/7319.m3u8
 #EXTINF:-1,MTV Classic UK | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/7320.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/7320.m3u8
 #EXTINF:-1,Club MTV UK | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/7318.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/7318.m3u8
 #EXTINF:-1,MTV Hits UK | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/7317.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/7317.m3u8
 #EXTINF:-1,MTV Live FHD UK | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/13090.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/13090.m3u8
 #EXTINF:-1,MTV Rocks UK | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/7315.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/7315.m3u8
 
 #EXTINF:-1 tvg-id="Astro SuperSport",Astro Supersports MY | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/23453.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/23453.m3u8
 #EXTINF:-1 tvg-id="Astro SuperSport 2",Astro Supersports 2 MY | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/23452.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/23452.m3u8
 #EXTINF:-1 tvg-id="Astro SuperSport 3",Astro Supersports 3 MY | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/23451.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/23451.m3u8
 #EXTINF:-1 tvg-id="Astro SuperSport 4",Astro Supersports 4 MY | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/33973.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/33973.m3u8
 
 #EXTINF:-1 tvg-id="beIN SPORTS 1 HD",beIN SPORTS 1 HD AU | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/33648.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/33648.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 2 HD",beIN SPORTS 2 HD AU | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/33649.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/33649.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 3 HD",beIN SPORTS 3 HD AU | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/33650.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/33650.m3u8
 
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/16956.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/16956.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/16957.m3u8
-#EXTINF:-1,True Premiere Football HD3 | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/16958.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/16957.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3",True Premiere Football HD3 | cloudcdn
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/16958.m3u8
 #EXTINF:-1 group-title="cloudcdn",True Premiere Football HD4 | cloudcdn
-http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/16959.m3u8
+http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/16959.m3u8
 
 + + + + + 188.40.76.108:25461 /mytv01 + + + + +
 
