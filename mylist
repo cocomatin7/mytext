@@ -2353,30 +2353,19 @@ http://203.154.243.31:8081/live/hisport/index.m3u8
 http://203.154.243.31:8081/live/series/index.m3u8
 http://203.154.243.31:8081/live/thairath/index.m3u8
 
-+ + + + + offline or TH VPN + + + + +
-
-#EXTINF:-1 group-title="203.154",K-1 World GP HD
-http://203.154.243.32:8088/live/hfs/index.m3u8
-#EXTINF:-1,Hi Sports
-http://203.154.243.32:8088/live/hisport/index.m3u8
-#EXTINF:-1,bbc
-http://203.154.243.32:8088/live/bbc/index.m3u8
-#EXTINF:-1 group-title="203.154",World Animal
-http://203.154.243.32:8088/live/wanimal/index.m3u8
-
 + + + + + 203.154.243.89 + + + + +
 
-#EXTINF:-1 group-title="203.154.243",Universal
+ group-title="203.154.243",Universal
 http://203.154.243.89:1029
-#EXTINF:-1,WORLD ANIMAL HD
+,WORLD ANIMAL HD
 http://203.154.243.89:1201
-#EXTINF:-1,IZAA HD
+,IZAA HD
 http://203.154.243.89:1202
 HI SPORT HD /offline
 http://203.154.243.89:1203
 ASTRO HD /offline
 http://203.154.243.89:1204
-#EXTINF:-1,WARNER HD |203.154
+,WARNER HD |203.154
 http://203.154.243.89:1205
 ASTRO 2 /offline
 http://203.154.243.89:1206
@@ -2386,68 +2375,54 @@ GOLF /offline
 http://203.154.243.89:1208
 Euro Sports /offline
 http://203.154.243.89:1209
-#EXTINF:-1,CCTV
+,CCTV
 http://203.154.243.89:1215
 HBO HD /offline
 http://203.154.243.89:1210
 ASTRO 4 /offline
 http://203.154.243.89:1211
-#EXTINF:-1,W Concert HD |203.154
+,W Concert HD |203.154
 http://203.154.243.89:1212
-#EXTINF:-1,AMAZING HD
+,AMAZING HD
 http://203.154.243.89:1213
-#EXTINF:-1,Music For You HD |203.154
+,Music For You HD |203.154
 http://203.154.243.89:1214
-#EXTINF:-1,CCTV5+ HD
+,CCTV5+ HD
 Fox Sport /offline
 http://203.154.243.89:1216
-#EXTINF:-1,TOP FIGHT HD
+,TOP FIGHT HD
 http://203.154.243.89:1421
-#EXTINF:-1,HI FIGHT HD
+,HI FIGHT HD
 http://203.154.243.89:1422
-#EXTINF:-1,ENC8-4 HD
+,ENC8-4 HD
 http://203.154.243.89:1423
 H Channel HD /offline
 http://203.154.243.89:2037
 n.a
 http://203.154.243.89:11201
 http://203.154.243.89:11202
-#EXTINF:-1,HI SPORT
+,HI SPORT
 http://203.154.243.89:11203
 SPORT CH /offline
 http://203.154.243.89:11204
 http://203.154.243.89:11205
 http://203.154.243.89:11206
 http://203.154.243.89:11207
-#EXTINF:-1,NBC GOLF
+,NBC GOLF
 http://203.154.243.89:11208
 http://203.154.243.89:11209
 http://203.154.243.89:11210
-#EXTINF:-1,M6 COUNTRY
+,M6 COUNTRY
 http://203.154.243.89:11620
-#EXTINF:-1,TENNIS TV
+,TENNIS TV
 http://203.154.243.89:11739
-#EXTINF:-1 group-title="203.154.243",Movies HD |203.154
+ group-title="203.154.243",Movies HD |203.154
 http://203.154.243.89:12037
-
 http://203.162.235.41:16918
-
-+ + + + + doo2you.com + + + + +
-
-http://doo2you.com/tv/WE-PlAY-cinemax.php
-http://doo2you.com/tv/WE-PlAY-fox-action-movies.php
-http://doo2you.com/tv/WE-PlAY-fox-crime-th.php
-http://doo2you.com/tv/WE-PlAY-fox-family-movies.php
-http://doo2you.com/tv/WE-PlAY-fox-movies-premium.php
-http://doo2you.com/tv/WE-PlAY-hbo-family.php
-http://doo2you.com/tv/WE-PlAY-hbo-hd.php
-http://doo2you.com/tv/WE-PlAY-hbo-hit.php
-http://doo2you.com/tv/WE-PlAY-hbo-signature.php
-http://doo2you.com/tv/WE-PlAY-red-by-hbo.php
 
 + + + + + http://dootvthai-hd.com [TH vpn?] + + + + +
 
-#EXTINF:-1 group-title="dootvthai",asian-food-channel
+ group-title="dootvthai",asian-food-channel
 http://dootvthai-hd.com/cmd/api/true/asian-food-channel/playlist.m3u8
 
 http://dootvthai-hd.com/cmd/api/true/BLUE-ANT-ENTERTAINMENT/playlist.m3u8
@@ -2457,12 +2432,12 @@ http://dootvthai-hd.com/cmd/api/true/cartoonclub/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/celestial-classic-movies/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/CH3-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/CH5-HD/playlist.m3u8
-#EXTINF:-1,CNN-HD
+,CNN-HD
 http://dootvthai-hd.com/cmd/api/true/CNN-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/dharmatv/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/Fantv/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/Food-network-HD/playlist.m3u8
-#EXTINF:-1, Fox Action Movies
+, Fox Action Movies
 http://dootvthai-hd.com/cmd/api/true/Fox-Action/playlist.m3u8
 
 http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-2-HD/playlist.m3u8
@@ -2517,9 +2492,9 @@ http://dootvthai-hd.com/cmd/true/9MCOT-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/9MCOT-HD/playlist.m3u8 
 http://dootvthai-hd.com/cmd/true/Amarintv-HD/playlist.m3u8
 
-#EXTINF:-1,ep1-1
+,ep1-1
 http://dootvthai-hd.com/cmd/true/ep1-1/playlist.m3u8
-#EXTINF:-1,ep1-2
+,ep1-2
 http://dootvthai-hd.com/cmd/true/ep1-2/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/ep1-3/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/ep1-4/playlist.m3u8
@@ -2580,7 +2555,7 @@ http://dootvthai-hd.com/cmd/true/verytv/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/FOX-ACTION/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/FOX-MOVIE/playlist.m3u8
 
-#EXTINF:-1 group-title="dootvthai",YTN
+ group-title="dootvthai",YTN
 http://dootvthai-hd.com/cmd/true/YTN/playlist.m3u8
 
 + + + + + https://www.movie1168.com / https://cdn-laos.workpoint.news + + + + +
@@ -2849,7 +2824,6 @@ https://dl.dropboxusercontent.com/s/dkpvgxn6684d1ee/TrueEPL.m3u8
 https://dl.dropboxusercontent.com/s/iov7zo0dq3x5ty2/TrueEPL3.m3u8
 #EXTINF:-1 group-title="TH/doofree88", True Premier Football 4 /DB
 https://dl.dropboxusercontent.com/s/r3pq90qpz4jsc16/TrueEPL4.m3u8
-
 http://www.doofree88.com/streaming/epl-x1_720/index.m3u8
 
 + + + + + ufalive + + + + +
@@ -3020,7 +2994,7 @@ https://cdn1.ufalive.center/app/ziggosportvoetbal/playlist.m3u8
 
 + + + + + https://www.liveballsod.com/ + + + + +
 
-#EXTINF:-1, bein 1
+ bein 1
 https://cdn235.cloud-streaming.com/fifa55u_x1/beinsport1_480p/chunks.m3u8
 
 + + + + + http://www.sportdoofree.com / 45.64.186.163:443 + + + + +
@@ -3040,67 +3014,67 @@ https://cdn17.cloud-streaming.com/sportpack_x3/skynet6/chunks.m3u8?nimblesession
 
 + + + + + https://chama.ml + + + + +
 
-#EXTINF:-1 group-title="chama", ASS1
+ group-title="chama", ASS1
 https://chama.ml/channelgratisan-ASS1
-#EXTINF:-1, ASS2
+, ASS2
 https://chama.ml/channelgratisan-ASS2
-#EXTINF:-1, ASS3
+, ASS3
 https://chama.ml/channelgratisan-ASS3
-#EXTINF:-1, ASS4
+, ASS4
 https://chama.ml/channelgratisan-ASS4
-#EXTINF:-1, BEIN S1
+, BEIN S1
 https://chama.ml/channelgratisan-BEINSPORT1ID
-#EXTINF:-1, BEIN S2
+, BEIN S2
 https://chama.ml/channelgratisan-BEINSPORT2ID
-#EXTINF:-1, BEIN MAX MY
+, BEIN MAX MY
 https://chama.ml/channelgratisan-BEINSPORTMAX1MY
-#EXTINF:-1, BEIN SPORTS MY
+, BEIN SPORTS MY
 https://chama.ml/channelgratisan-BEINSPORTMAX2MY
-#EXTINF:-1,CNA
+,CNA
 https://chama.ml/channelgratisan-CNA
-#EXTINF:-1, FOX MOVIES
+, FOX MOVIES
 https://chama.ml/channelgratisan-FOXMOVIES
-#EXTINF:-1, FOX ACTION MOVIES
+, FOX ACTION MOVIES
 https://chama.ml/channelgratisan-FOXACTIONM
-#EXTINF:-1, FOX FAMILY MOVIES
+, FOX FAMILY MOVIES
 https://chama.ml/channelgratisan-FOXFAMILY
-#EXTINF:-1, CINEMAX
+, CINEMAX
 https://chama.ml/channelgratisan-CINEMAX
-#EXTINF:-1, HBO FAMILY
+, HBO FAMILY
 https://chama.ml/channelgratisan-HBOFAMILY
-#EXTINF:-1,HBO Hitz
+,HBO Hitz
 https://chama.ml/channelgratisan-HBOHITZ
-#EXTINF:-1,RED
+,RED
 https://chama.ml/channelgratisan-RED
-#EXTINF:-1,HBO SIGN
+,HBO SIGN
 https://chama.ml/channelgratisan-HBOSIGN
-#EXTINF:-1,CCM
+,CCM
 https://chama.ml/channelgratisan-CCM
-#EXTINF:-1,TVNM
+,TVNM
 https://chama.ml/channelgratisan-TVNMOVIES
-#EXTINF:-1 group-title="chama",WARNER
+ group-title="chama",WARNER
 https://chama.ml/channelgratisan-WARNER
 
 + + + + + https://ballnaka.tv/ + + + + +
 
-#EXTINF:-1 group-title="TH/ballnaka" tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",premier hd1 |ballnaka
+ group-title="TH/ballnaka" tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",premier hd1 |ballnaka
 https://cdn11.cdn-streaming.live/ballnaka_sport/tpf1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIwIDg6MDQ6MjIgQU0maGFzaF92YWx1ZT02a3FyTHlEZWdKQnl2OVV4dCtSSzJ3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",premier hd2 |ballnaka
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",premier hd2 |ballnaka
 https://cdn11.cdn-streaming.live/ballnaka_sport/tpf2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIwIDg6NTc6MjkgQU0maGFzaF92YWx1ZT1kMXAwUE5sM2lkbWg2U2ZlQXFBNFpBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",premier hd3 |ballnaka
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",premier hd3 |ballnaka
 https://cdn11.cdn-streaming.live/ballnaka_sport/tpf3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIwIDg6MDg6MjEgQU0maGFzaF92YWx1ZT1ESHVlY20raVJ0Kzk4a0JLVTVZdlFBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1,bein 1
+,bein 1
 https://cdn11.cdn-streaming.live/ballnaka_sport/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIwIDg6MDU6MzEgQU0maGFzaF92YWx1ZT12bEwxL1oxNjBrRW5rM2E1R25UZzRnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="TH/ballnaka",bein 2
+ group-title="TH/ballnaka",bein 2
 https://cdn11.cdn-streaming.live/ballnaka_sport/bein2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIwIDg6MDY6NTMgQU0maGFzaF92YWx1ZT1lblJJOTlhS0NGVGN3U05WRnA1SXZ3PT0mdmFsaWRtaW51dGVzPTIw
 
 + + + + + cloud-streaming + + + + +
 
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="cloud/ilike4kin",premier hd1 /ilike4kin
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="cloud/ilike4kin",premier hd1 /ilike4kin
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd1_720/chunks.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",premier hd2 /ilike4kin
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",premier hd2 /ilike4kin
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd2_720/chunks.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3",premier hd3 /ilike4kin
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3",premier hd3 /ilike4kin
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd3_720/chunks.m3u8
 
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd4_720/chunks.m3u8
@@ -3125,8 +3099,7 @@ https://cdn161.cloud-streaming.com/ilike4kin_x6/thairath_720p/chunks.m3u8
 https://cdn161.cloud-streaming.com/ilike4kin_x6/tnn24_720p/playlist.m3u8
 https://cdn161.cloud-streaming.com/ilike4kin_x6/true4u_720p/playlist.m3u8
 https://cdn161.cloud-streaming.com/ilike4kin_x6/voice_720p/playlist.m3u8
-
-#EXTINF:-1 group-title="cloud/ilike4kin",workpoint /ilike4kin
+ group-title="cloud/ilike4kin",workpoint /ilike4kin
 https://cdn161.cloud-streaming.com/ilike4kin_x6/workpoint_720p/playlist.m3u8
 
 + + + + + https://www.warpfootball.games/live / 103.253.74.7:443 + + + + +
@@ -3137,7 +3110,6 @@ https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl1_480p/chunks.m3u8
 ,trueepl2
 https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl2_480p/chunks.m3u8
 https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl2_480p/chunks.m3u8
-
 ,trueepl3
 https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl3_480p/chunks.m3u8?nimblesessionid=
 ,trueepl4
@@ -3149,24 +3121,24 @@ https://cdn221.cloud-streaming.com/wrapfootball_t5/hd-hbo-thai/chunks.m3u8?nimbl
 
 + + + + + https://www.ballsoi8.com / 103.253.74.3:443 + + + + +
 
-#EXTINF:-1 group-title="TH/ballsoi8",trueepl1
+ group-title="TH/ballsoi8",trueepl1
 https://rebrand.ly/bs-tpl-1
-#EXTINF:-1 group-title="TH/ballsoi8",trueepl2
+ group-title="TH/ballsoi8",trueepl2
 https://rebrand.ly/bs-tpl-2
-#EXTINF:-1 group-title="TH/ballsoi8",trueepl3
+ group-title="TH/ballsoi8",trueepl3
 https://cdn227.cloud-streaming.com/ballsod_y1/trueepl3_480p/chunks.m3u8?nimblesessionid=4240400&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgMzoyMDoxNCBBTSZoYXNoX3ZhbHVlPUlReW5lQWRTcCtIQ21xNVJubkJsalE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0xMTgxNTQ=
-#EXTINF:-1 group-title="TH/ballsoi8",trueepl4
+ group-title="TH/ballsoi8",trueepl4
 https://cdn227.cloud-streaming.com/ballsod_y1/trueepl4_480p/chunks.m3u8?nimblesessionid=4240401&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgMzoyMDo1MSBBTSZoYXNoX3ZhbHVlPUlMUW5MTnJYVGVucExQZmdvODBDa3c9PSZ2YWxpZG1pbnV0ZXM9MSZpZD03ODcxNzQ=
-#EXTINF:-1 group-title="TH/ballsoi8",trueepl5
+ group-title="TH/ballsoi8",trueepl5
 https://cdn227.cloud-streaming.com/ballsod_y1/trueepl5_480p/chunks.m3u8?nimblesessionid=4240403&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgMzoyMTozMCBBTSZoYXNoX3ZhbHVlPTR4L1dXVDZsMDVJblVXU3lmQXl6SVE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0zMTcxOTU=
 
-#EXTINF:-1 group-title="TH/ballsoi8",bein 1
+ group-title="TH/ballsoi8",bein 1
 https://rebrand.ly/bs-bs-1
-#EXTINF:-1 group-title="TH/ballsoi8",bein 1'
+ group-title="TH/ballsoi8",bein 1'
 https://cdn227.cloud-streaming.com/ballsod_y1/beinsport1_480p/chunks.m3u8?nimblesessionid=4240333&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgMzowODowNyBBTSZoYXNoX3ZhbHVlPW0wVDVpZTlKTTQ0NU5DMDYrYTVXZHc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD01MTczODI=
-#EXTINF:-1 group-title="TH/ballsoi8",bein 2
+ group-title="TH/ballsoi8",bein 2
 https://rebrand.ly/bs-bs-2
-#EXTINF:-1 group-title="TH/ballsoi8",bein 2'
+ group-title="TH/ballsoi8",bein 2'
 https://cdn227.cloud-streaming.com/ballsod_y1/beinsporthd2_480p/chunks.m3u8?nimblesessionid=4240346&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgMzowOTozMiBBTSZoYXNoX3ZhbHVlPXVrSkUyK050UlhPMi8zQW04NnJGRFE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD05MTM1MDI=
 
 ,trueepl5
@@ -3704,8 +3676,6 @@ https://doomovielive.b-cdn.net/uk-skysports-news_480/index.m3u8
 
 + + + + + https://edge-n1.worldwidetv.club + + + + +
 
-
-
 + + + + + https://edge-n1.worldwidetv.club + + + + +
 
 https://edge-n1.worldwidetv.club/5ufVAQFe2Dshrg-YHW5oUA/1599509366/livesport-abr/af-supersport9/livesport/af-supersport9_480/chunks.m3u8
@@ -3743,14 +3713,13 @@ https://edge-n4.worldwidetv.club/uDFheZBw6b6KfPrqcgw3Mg/1599509294/livesport-abr
 + + + + + livedoohd.com + + + + +
 
 https://edge2.livedoohd.com/dolive/hbohdth/chunks.m3u8
-
 https://edge2.livedoohd.com/dolive/hits/chunks.m3u8
 
 + + + + + totiptv.com / h4 + + + + +
 
-#EXTINF:-1 group-title="TH/tot",CH3 HD
+ group-title="TH/tot",CH3 HD
 http://host4.dynns.com/stream/a4485b656d764f308c63b14a8bf62326.m3u8
-#EXTINF:-1,CH3 HD'
+,CH3 HD'
 http://nix02.livefile.me.totiptv.com/stream/a4485b656d764f308c63b14a8bf62326.m3u8
 
 ,CH5 HD
@@ -3795,7 +3764,7 @@ http://host4.dynns.com/stream/76221348029846b6a86cce2f76e60f82.m3u8
 http://host4.dynns.com/stream/31dbe17e0c1b4c8684200f83b85b007b.m3u8
 ,Euronews
 http://host4.dynns.com/stream/3f35c4428a0d4004a38ff0adba7664f4.m3u8
-#EXTINF:-1,NHK WORLD TV
+,NHK WORLD TV
 http://host4.dynns.com/stream/cd25fccffa6f4a2f8d7190d3e8907440.m3u8
 ,France24
 http://host4.dynns.com/stream/82c764aa2d7f42579348b8717cb5b9a4.m3u8
@@ -3831,7 +3800,7 @@ http://host4.dynns.com/stream/2e0e4b05aa6e428593f3b45b710045b7.m3u8
 http://host4.dynns.com/stream/e584e0adae6440eab366f5fe3a824f91.m3u8
 ,Thrill
 http://host4.dynns.com/stream/c316ed9333e54442b25077f0bb3cc269.m3u8
-#EXTINF:-1,Celestial Classic Movies (CCM)
+,Celestial Classic Movies (CCM)
 http://host4.dynns.com/stream/1c2276a2f1884b269ce281c3334e8f85.m3u8
 ,Fox Life HD
 http://host4.dynns.com/stream/65f7358b813048a0898f5677e1793cf9.m3u8
@@ -3841,9 +3810,9 @@ http://host4.dynns.com/stream/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8
 http://host4.dynns.com/stream/48773319e9324602b258e3f1d33ec111.m3u8
 ,Fox Crime HD (TH)
 http://host4.dynns.com/stream/5028f7ff1d1b4d5f8189690233364737.m3u8
-#EXTINF:-1,Fox Action Movies HD (TH)
+,Fox Action Movies HD (TH)
 http://host4.dynns.com/stream/6744e98748214c32912a46d1c7277d55.m3u8
-#EXTINF:-1,Fox Action Movies HD (EN)
+,Fox Action Movies HD (EN)
 http://host4.dynns.com/stream/206105b34a1c44b886c6cd3c59105803.m3u8
 ,Fox Thai (TH)
 http://host4.dynns.com/stream/63cbfb466fe644dda11a8e109611a5cd.m3u8
@@ -3851,13 +3820,13 @@ http://host4.dynns.com/stream/63cbfb466fe644dda11a8e109611a5cd.m3u8
 http://host4.dynns.com/stream/d0bfb50bee3741a09c53f8099a64ad52.m3u8
 http://host4.dynns.com/stream/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
 http://host4.dynns.com/stream/ebce2f5139c54eda8b111e5923af9c9e.m3u8
-#EXTINF:-1,MTV China
+,MTV China
 http://host4.dynns.com/stream/deb56e700dbc4d9ea5af08e9d300a675.m3u8
 ,CCTV-4
 http://host4.dynns.com/stream/5289381709e64f8db14a4ed75ab2b59f.m3u8
-#EXTINF:-1,Star Chinese Channel (scc)
+,Star Chinese Channel (scc)
 http://host4.dynns.com/stream/29a09591a6604ff3b798cd7ef809e4bd.m3u8
-#EXTINF:-1,Star Chinese Movies Legend (SCM Legend)
+,Star Chinese Movies Legend (SCM Legend)
 http://host4.dynns.com/stream/c8233976dbba4a06a101780907447375.m3u8
 ,Arirang
 http://host4.dynns.com/stream/2d5711cd22484490bd8a50bf990a6bdc.m3u8
@@ -3873,11 +3842,11 @@ http://host4.dynns.com/stream/09fffe8d426745689f60cbc24da1bb49.m3u8
 http://host4.dynns.com/stream/7773f3cef0334a28ad248552ea63d9e7.m3u8
 ,National Geographic HD (TH)
 http://host4.dynns.com/stream/29fb241f985c468e8e6ffa8942b00a69.m3u8
-#EXTINF:-1,National Geographic HD (EN)
+,National Geographic HD (EN)
 http://host4.dynns.com/stream/850a8ca433184938bfaeaf770abc5d7a.m3u8
 ,Nat Geo Wild HD (TH)
 http://host4.dynns.com/stream/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8
-#EXTINF:-1,Nat Geo Wild HD (EN)
+,Nat Geo Wild HD (EN)
 http://host4.dynns.com/stream/90d14bbf53d14b018d4439ffba6be283.m3u8
 ,Nat Geo People HD (TH)
 http://host4.dynns.com/stream/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8
@@ -3895,7 +3864,7 @@ http://host4.dynns.com/stream/02cb79ab0b0c418f847148ca9e2baed4.m3u8
 http://host4.dynns.com/stream/b254601a75724ad79e2633f3d307e331.m3u8
 ,Fox Sport 3 (EN)
 http://host4.dynns.com/stream/443ea6ef1768462aaffdff38ce2a4355.m3u8
-#EXTINF:-1 group-title="TH/tot",ETV
+ group-title="TH/tot",ETV
 http://host4.dynns.com/stream/dbab2fe24ce643689045d3c81e1954d6.m3u8
 
 
