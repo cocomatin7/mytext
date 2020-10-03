@@ -1519,7 +1519,7 @@ http://122.155.180.8:5021/live/440
 
 + + + + + 139.99.17.52:8081* / dooball66.com* + + + + +
 
-#EXTINF:-1 group-title="TH/139.99",af-supersport10 |139.99
+ group-title="TH/139.99",af-supersport10 |139.99
 http://139.99.17.52:8081/liveorigin/af-supersport10_480/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/af-supersport11_480/playlist.m3u8
@@ -1563,29 +1563,29 @@ http://139.99.17.52:8081/liveorigin/de-skysportaustria_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/de-sport1_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/de-sportdigital_480/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football FHD1 |139.99
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football FHD1 |139.99
 http://139.99.17.52:8081/liveorigin/epl-1_1080/playlist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |139.99
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |139.99
 http://139.99.17.52:8081/liveorigin/epl-1_720/playlist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football FHD2 |139.99
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football FHD2 |139.99
 http://139.99.17.52:8081/liveorigin/epl-2_1080/playlist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |139.99
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |139.99
 http://139.99.17.52:8081/liveorigin/epl-2_720/playlist.m3u8
-#EXTINF:-1,True Premiere Football FHD3 |139.99
+,True Premiere Football FHD3 |139.99
 http://139.99.17.52:8081/liveorigin/epl-3_1080/playlist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |139.99
+,True Premiere Football HD3 |139.99
 http://139.99.17.52:8081/liveorigin/epl-3_720/playlist.m3u8
-#EXTINF:-1,True Premiere Football FHD4 |139.99
+,True Premiere Football FHD4 |139.99
 http://139.99.17.52:8081/liveorigin/epl-4_1080/playlist.m3u8
-#EXTINF:-1,True Premiere Football HD4 |139.99
+,True Premiere Football HD4 |139.99
 http://139.99.17.52:8081/liveorigin/epl-4_720/playlist.m3u8
-#EXTINF:-1,True Premiere Football FHD5 |139.99
+,True Premiere Football FHD5 |139.99
 http://139.99.17.52:8081/liveorigin/epl-5_1080/playlist.m3u8
-#EXTINF:-1,True Premiere Football HD5 |139.99
+,True Premiere Football HD5 |139.99
 http://139.99.17.52:8081/liveorigin/epl-5_720/playlist.m3u8
-#EXTINF:-1,epl bein 1 |139.99
+,epl bein 1 |139.99
 http://139.99.17.52:8081/liveorigin/epl-bein1_720/playlist.m3u8
-#EXTINF:-1,epl bein 2 |139.99
+,epl bein 2 |139.99
 http://139.99.17.52:8081/liveorigin/epl-bein2_720/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/fr-bein1hd_480/playlist.m3u8
@@ -1615,23 +1615,23 @@ http://139.99.17.52:8081/liveorigin/hd-ch3_1080/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-ch5_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-ch7_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-ch8_480/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinemax HD",Cinemax MM* |139.99
+ tvg-id="Cinemax HD",Cinemax MM* |139.99
 http://139.99.17.52:8081/liveorigin/hd-cinemax_720/playlist.m3u8
-#EXTINF:-1,Discovery Asia* |139.99
+,Discovery Asia* |139.99
 http://139.99.17.52:8081/liveorigin/hd-discovery_720/playlist.m3u8
-#EXTINF:-1,Discovery Asia MM* |139.99
+,Discovery Asia MM* |139.99
 http://139.99.17.52:8081/liveorigin/hd-discoveryeng_720/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/hd-fightsports_1080/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-fightsports_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-fox_720/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox Action Movies HD",Fox Action Movies* |139.99
+ tvg-id="Fox Action Movies HD",Fox Action Movies* |139.99
 http://139.99.17.52:8081/liveorigin/hd-foxaction_720/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/hd-foxcrimeeng_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-foxfamily_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-foxlifeeng_480/playlist.m3u8
-#EXTINF:-1 tvg-id="FOX Movies HD",FOX Movies* |139.99
+ tvg-id="FOX Movies HD",FOX Movies* |139.99
 http://139.99.17.52:8081/liveorigin/hd-foxpremium_720/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/hd-foxsports1_1080/playlist.m3u8
@@ -1642,32 +1642,32 @@ http://139.99.17.52:8081/liveorigin/hd-fxeng_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-gmmone_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-golf_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-golfeng_480/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO HD",HBO MM* |139.99
+ tvg-id="HBO HD",HBO MM* |139.99
 http://139.99.17.52:8081/liveorigin/hd-hboeng_720/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/hd-history2_720/playlist.m3u8
-#EXTINF:-1,HISTORY HD* |139.99
+,HISTORY HD* |139.99
 http://139.99.17.52:8081/liveorigin/hd-history_720/playlist.m3u8
-#EXTINF:-1,HISTORY HD MM* |139.99
+,HISTORY HD MM* |139.99
 http://139.99.17.52:8081/liveorigin/hd-historyeng_720/playlist.m3u8
-#EXTINF:-1 tvg-id="KBS World HD",KBS World |139.99
+ tvg-id="KBS World HD",KBS World |139.99
 http://139.99.17.52:8081/liveorigin/hd-kbsworld_720/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/hd-mcot_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-mono_480/playlist.m3u8
-#EXTINF:-1,MTV Live HD* |139.99
+,MTV Live HD* |139.99
 http://139.99.17.52:8081/liveorigin/hd-mtvlive_720/playlist.m3u8
-#EXTINF:-1,NAT GEO* |139.99
+,NAT GEO* |139.99
 http://139.99.17.52:8081/liveorigin/hd-natgeo_720/playlist.m3u8
-#EXTINF:-1 tvg-id="National Geographic HD",NAT GEO EN* |139.99
+ tvg-id="National Geographic HD",NAT GEO EN* |139.99
 http://139.99.17.52:8081/liveorigin/hd-natgeoeng_480/playlist.m3u8
-#EXTINF:-1,NAT GEO PEOPLE* |139.99
+,NAT GEO PEOPLE* |139.99
 http://139.99.17.52:8081/liveorigin/hd-natgeopeople_720/playlist.m3u8
-#EXTINF:-1 tvg-id="Nat Geo People HD",NAT GEO PEOPLE EN* |139.99
+ tvg-id="Nat Geo People HD",NAT GEO PEOPLE EN* |139.99
 http://139.99.17.52:8081/liveorigin/hd-natgeopeopleeng_480/playlist.m3u8
-#EXTINF:-1,NAT GEO WILD* |139.99
+,NAT GEO WILD* |139.99
 http://139.99.17.52:8081/liveorigin/hd-natgeowild_720/playlist.m3u8
-#EXTINF:-1 tvg-id="Nat Geo Wild HD",NAT GEO WILD EN* |139.99
+ tvg-id="Nat Geo Wild HD",NAT GEO WILD EN* |139.99
 http://139.99.17.52:8081/liveorigin/hd-natgeowildeng_720/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/hd-nba_720/playlist.m3u8
@@ -1675,7 +1675,7 @@ http://139.99.17.52:8081/liveorigin/hd-nfl_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-paramount_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-pptv_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-rtlcbs_720/playlist.m3u8
-#EXTINF:-1 tvg-id="SCM HD",SCM |139.99
+ tvg-id="SCM HD",SCM |139.99
 http://139.99.17.52:8081/liveorigin/hd-starchinese_480/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/hd-tennis_720/playlist.m3u8
@@ -1687,9 +1687,9 @@ http://139.99.17.52:8081/liveorigin/hd-tsport1_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-tsport2_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-tsport3_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/hd-tsport4_720/playlist.m3u8
-#EXTINF:-1 tvg-id="tvN HD",tvN |139.99
+ tvg-id="tvN HD",tvN |139.99
 http://139.99.17.52:8081/liveorigin/hd-tvn_480/playlist.m3u8
-#EXTINF:-1 tvg-id="WarnerTV HD",WarnerTV |139.99
+ tvg-id="WarnerTV HD",WarnerTV |139.99
 http://139.99.17.52:8081/liveorigin/hd-warnertv_720/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/hd-workpoint_480/playlist.m3u8
@@ -1701,16 +1701,16 @@ http://139.99.17.52:8081/liveorigin/in-ten1_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/in-ten2_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/in-ten3_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/in-tensports_480/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee Cinema", ZEE Cinema |139.99
+ tvg-id="Zee Cinema", ZEE Cinema |139.99
 http://139.99.17.52:8081/liveorigin/in-zeecinema_480/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Astro SuperSport",my-asp1hd |139.99
+ tvg-id="Astro SuperSport",my-asp1hd |139.99
 http://139.99.17.52:8081/liveorigin/my-asp1hd_720/playlist.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 2",my-asp2hd |139.99
+ tvg-id="Astro SuperSport 2",my-asp2hd |139.99
 http://139.99.17.52:8081/liveorigin/my-asp2hd_720/playlist.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 3",my-asp3hd |139.99
+ tvg-id="Astro SuperSport 3",my-asp3hd |139.99
 http://139.99.17.52:8081/liveorigin/my-asp3hd_720/playlist.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 4",my-asp4hd |139.99
+ tvg-id="Astro SuperSport 4",my-asp4hd |139.99
 http://139.99.17.52:8081/liveorigin/my-asp4_720/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/nl-foxsports1_480/playlist.m3u8
@@ -1743,17 +1743,17 @@ http://139.99.17.52:8081/liveorigin/rs-arena3_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/rs-arena4_480/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/sd-24u_480/playlist.m3u8
-#EXTINF:-1 tvg-id="Asian Food Network",afn |139.99 
+ tvg-id="Asian Food Network",afn |139.99 
 http://139.99.17.52:8081/liveorigin/sd-asianfood_480/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/sd-bbcearth_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-bbclifestyle_720/playlist.m3u8
-#EXTINF:-1,bloomberg |139.99
+,bloomberg |139.99
 http://139.99.17.52:8081/liveorigin/sd-bloomberg_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-celestial_480/playlist.m3u8
-#EXTINF:-1,cna |139.99
+,cna |139.99
 http://139.99.17.52:8081/liveorigin/sd-channelnewsasia_480/playlist.m3u8
-#EXTINF:-1,cnbc |139.99
+,cnbc |139.99
 http://139.99.17.52:8081/liveorigin/sd-cnbc_480/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/sd-discovery_480/playlist.m3u8
@@ -1764,38 +1764,38 @@ http://139.99.17.52:8081/liveorigin/sd-fox_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-foxsports2_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-foxsports3_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-gmmchannel_480/playlist.m3u8
-#EXTINF:-1 tvg-id="HITS MOVIES HD",movie hits |139.99
+ tvg-id="HITS MOVIES HD",movie hits |139.99
 http://139.99.17.52:8081/liveorigin/sd-moviehits_480/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/sd-mtvasia_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-nation_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-nbt_720/playlist.m3u8
-#EXTINF:-1,nhk premium |139.99
+,nhk premium |139.99
 http://139.99.17.52:8081/liveorigin/sd-nhkpremium_480/playlist.m3u8
-#EXTINF:-1,nhk world |139.99
+,nhk world |139.99
 http://139.99.17.52:8081/liveorigin/sd-nhkworld_720/playlist.m3u8
-#EXTINF:-1 tvg-id="RED BY HBO HD",RED MM |139.99
+ tvg-id="RED BY HBO HD",RED MM |139.99
 http://139.99.17.52:8081/liveorigin/sd-redalt_480/playlist.m3u8
-#EXTINF:-1,skynet sports 1 |139.99
+,skynet sports 1 |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsports1_480/playlist.m3u8
-#EXTINF:-1,skynet sports 2 |139.99
+,skynet sports 2 |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsports2_480/playlist.m3u8
-#EXTINF:-1,skynet sports 3 |139.99
+,skynet sports 3 |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsports3_480/playlist.m3u8
-#EXTINF:-1,skynet sports 4 |139.99
+,skynet sports 4 |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsports4_480/playlist.m3u8
-#EXTINF:-1,skynet sports 5 |139.99
+,skynet sports 5 |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsports5_480/playlist.m3u8
-#EXTINF:-1,skynet sports 6 |139.99
+,skynet sports 6 |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsports6_480/playlist.m3u8
-#EXTINF:-1,skynet sports fhd |139.99
+,skynet sports fhd |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsportshd_1080/playlist.m3u8
-#EXTINF:-1,skynet sports hd |139.99
+,skynet sports hd |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsportshd_720/playlist.m3u8
-#EXTINF:-1,skynet sports + |139.99
+,skynet sports + |139.99
 http://139.99.17.52:8081/liveorigin/sd-skynetsportsplus_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-starchinesechannel_480/playlist.m3u8
-#EXTINF:-1 tvg-id="SCM Legend",star chinese legend |139.99
+ tvg-id="SCM Legend",star chinese legend |139.99
 http://139.99.17.52:8081/liveorigin/sd-starchineselegend_480/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/sd-tnn24_480/playlist.m3u8
@@ -1806,12 +1806,12 @@ http://139.99.17.52:8081/liveorigin/sd-tsport5_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-tsport6_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/sd-tsport7_480/playlist.m3u8
 
-#EXTINF:-1,bbc world news |139.99
+,bbc world news |139.99
 http://139.99.17.52:8081/liveorigin/uk-bbcworldnews_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-btsport1hd_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-btsport2hd_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-btsport3hd_720/playlist.m3u8
-#EXTINF:-1,cnn |139.99
+,cnn |139.99
 http://139.99.17.52:8081/liveorigin/uk-cnn_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-eurosport2_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-eurosport_480/playlist.m3u8
@@ -1824,25 +1824,25 @@ http://139.99.17.52:8081/liveorigin/uk-skysports-arena_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-arena_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-cricket_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-cricket_720/playlist.m3u8
-#EXTINF:-1,skysports-epl |139.99
+,skysports-epl |139.99
 http://139.99.17.52:8081/liveorigin/uk-skysports-epl_480/playlist.m3u8
-#EXTINF:-1,skysports-epl HD |139.99
+,skysports-epl HD |139.99
 http://139.99.17.52:8081/liveorigin/uk-skysports-epl_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-f1_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-f1_720/playlist.m3u8
-#EXTINF:-1,skysports-football |139.99
+,skysports-football |139.99
 http://139.99.17.52:8081/liveorigin/uk-skysports-football_480/playlist.m3u8
-#EXTINF:-1,skysports-football HD |139.99
+,skysports-football HD |139.99
 http://139.99.17.52:8081/liveorigin/uk-skysports-football_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-golf_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-golf_720/playlist.m3u8
-#EXTINF:-1,skysports-mainevent |139.99
+,skysports-mainevent |139.99
 http://139.99.17.52:8081/liveorigin/uk-skysports-mainevent_480/playlist.m3u8
-#EXTINF:-1,skysports-mainevent HD |139.99
+,skysports-mainevent HD |139.99
 http://139.99.17.52:8081/liveorigin/uk-skysports-mainevent_720/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-mix_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/uk-skysports-mix_720/playlist.m3u8
-#EXTINF:-1,skysports-news |139.99
+,skysports-news |139.99
 http://139.99.17.52:8081/liveorigin/uk-skysports-news_480/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/us-bein_480/playlist.m3u8
@@ -1860,7 +1860,7 @@ http://139.99.17.52:8081/liveorigin/us-nbcgolf_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/us-nfl_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/us-nflnow_480/playlist.m3u8
 http://139.99.17.52:8081/liveorigin/us-nhl_480/playlist.m3u8
-#EXTINF:-1 group-title="TH/",us-wwe |139.99
+ group-title="TH/",us-wwe |139.99
 http://139.99.17.52:8081/liveorigin/us-wwe_480/playlist.m3u8
 
 http://139.99.17.52:8081/liveorigin/epl-bein1_480/chunks.m3u8
