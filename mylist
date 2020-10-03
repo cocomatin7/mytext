@@ -858,11 +858,11 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 
 #EXTINF:-1 group-title="VN|htv",CNN HD
 http://520574.xyz/dl/htv.php?id=6
-#EXTINF:-1,HBO
+#EXTINF:-1,HBO CN
 http://520574.xyz/dl/htv.php?id=65
 #EXTINF:-1,Fox Movies HD
 http://520574.xyz/dl/htv.php?id=69
-#EXTINF:-1,Cinemax
+#EXTINF:-1,Cinemax CN
 http://520574.xyz/dl/htv.php?id=71
 #EXTINF:-1,MTV HD
 http://520574.xyz/dl/htv.php?id=79
@@ -872,13 +872,13 @@ http://520574.xyz/dl/htv.php?id=164
 http://520574.xyz/dl/htv.php?id=165
 #EXTINF:-1,Asian Food Channel HD
 http://520574.xyz/dl/htv.php?id=211
-#EXTINF:-1,HBO HD
+#EXTINF:-1,HBO HD CN
 http://520574.xyz/dl/htv.php?id=220
-#EXTINF:-1,HBO Signature HD
+#EXTINF:-1,HBO Signature HD CN
 http://520574.xyz/dl/htv.php?id=221
-#EXTINF:-1,HBO Family HD
+#EXTINF:-1,HBO Family HD CN
 http://520574.xyz/dl/htv.php?id=222
-#EXTINF:-1 group-title="VN|htv",HBO Hits HD
+#EXTINF:-1 group-title="VN|htv",HBO Hits HD CN
 http://520574.xyz/dl/htv.php?id=223
 
 + + + + + VN|ftp + + + + +
