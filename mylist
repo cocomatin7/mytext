@@ -4941,25 +4941,7 @@ https://tv.trueid.net/embed/warner-tv-hd?autoplay=yes&nopageview=yes
 https://tv.trueid.net/embed/workpointtv?autoplay=yes&nopageview=yes
 https://tv.trueid.net/embed/zee-nung?autoplay=yes&nopageview=yes
 
-
-+ + + + + http://tv-cdn.ihub.live:8080 + + + + +
-
-#EXTINF:-1 group-title="IN/ihub",BBC News
-http://tv-cdn.ihub.live:8080/BBCNews/tracks-v1a1/mono.m3u8
-http://tv-cdn.ihub.live:8080/j-FOXANimation/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Ten 1
-http://tv-cdn.ihub.live:8080/SonyTen1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Ten 2
-http://tv-cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Ten 3
-http://tv-cdn.ihub.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
-http://tv-cdn.ihub.live:8080/StarMovies/tracks-v1a1/mono.m3u8
-http://tv-cdn.ihub.live:8080/j-StarMovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Plus
-http://tv-cdn.ihub.live:8080/StarPlus/tracks-v1a1/mono.m3u8
-http://tv-cdn.ihub.live:8080/StarPlusHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Zee Cinema" group-title="IN/ihub",Zee Cinema
-http://tv-cdn.ihub.live:8080/ZeeCinema/tracks-v1a1/mono.m3u8
++ + + + + http://tv-cdn.ihub.live:8080 [IN] + + + + +
 
 + + + + + https://tv4.chang55.com + + + + +
 
