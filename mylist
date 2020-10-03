@@ -275,9 +275,6 @@ https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1
 EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="MMPay",Skynet Sport 6
 https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1600347845~exp=9007200855088836~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=7875ad2f13fb6b2d3d71f7c23f9fc5228ddd1c89fc786e8c496448c5aa02611f
 
-
-
-
 + + + + + KH + + + + +
 
 #EXTINF:-1 group-title="MM",MRTV / HLUTTAW /28:8180
@@ -578,12 +575,7 @@ http://ts.ec.cx:8080/a/hls1/hbosignature.m3u8
 #EXTINF:-1 group-title="HBO", CINEMAX |ec
 http://ts.ec.cx:8080/a/hls1/cinemax.m3u8
 
-http://dootvthai-hd.com/cmd/true/FOX-ACTION/playlist.m3u8
-http://dootvthai-hd.com/cmd/true/FOX-MOVIE/playlist.m3u8
-http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
-http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
-
-+ + + + + offline + + + + +
++ + + + + HBO /offline + + + + +
 
 http://www.stgiptv.online/session_dyos/dyos/server/hbohd.m3u8
 http://www.stgiptv.online/session_dyos/dyos/server/sighd.m3u8
@@ -652,6 +644,8 @@ http://www.iamntp.com/hbo/sig_onweb.m3u8
  tvg-id="RED BY HBO HD" group-title="HBO", Red By HBO /onweb
 http://www.iamntp.com/hbo/red_onweb.m3u8
 
++ + + + + ID + + + + +
+
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="ID", CINEMAX |ID
 https://rebrand.ly/CIN-62
 #EXTINF:-1 tvg-id="FOX Action Movies HD",Fox Action Movies |ID
@@ -692,7 +686,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227171/1.m3u8
 #EXTINF:-1 group-title="103.47",(INDO) FOOD NETWORK
 http://103.47.132.165/PLTV/88888888/224/3221227191/1.m3u8
 
-+ + + + + misc 
++ + + + + misc + + + + +
 
 #EXTINF:-1 group-title="misc",Cinemax |dai
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
@@ -726,15 +720,6 @@ http://51.158.176.190/hls/stream.m3u8
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1 group-title="sports",Varzesh Sports 4
 http://163.172.138.186/hls/stream.m3u8
-
-+ + + + + misc + + + + +
-
-#EXTINF:-1 group-title="sports",Bein Sports 1 Australia
-http://livetv.grabdeal.xyz/aubeinsport1
-#EXTINF:-1,Bein Sports 2 Australia
-http://livetv.grabdeal.xyz/aubeinsport2
-#EXTINF:-1,Bein Sports 3 Australia
-http://livetv.grabdeal.xyz/aubeinsport3
 
 #EXTINF:-1,Eleven Spt 1
 http://tv-swirtvteam.info/oq/co.m3u8?sid=F5357911&id=11633&q=tvhd
@@ -803,7 +788,7 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master.m3u8
 #EXTINF:-1 group-title="SG", VASANTHAM
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 
-+ + + + + GB + + + + +
++ + + + + GB + US + + + + +
 
 #EXTINF:-1 group-title="GB",Bloomberg TV Europe
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
@@ -1044,7 +1029,7 @@ http://fpthanhyen.ddns.net:1211/udp/225.1.1.139:30120
 #EXTINF:-1 group-title="VN|udp",WBTV |udp
 http://fpthanhyen.ddns.net:1211/udp/225.1.4.14:30120
 
-+ + + + + 27.254.149.109:8081 + + + + +
++ + + + + 27.254.130.61 + + + + +
 
 CH 7
 http://27.254.130.61/live01/ch1.m3u8?p=m3u8
@@ -1070,19 +1055,19 @@ http://27.254.130.61/live01/ch17.m3u8?p=m3u8
 http://27.254.130.61/live01/ch18.m3u8?p=m3u8
 M Channel
 http://27.254.130.61/live01/ch19.m3u8?p=m3u8
-
 http://27.254.130.61/live01/ch20.m3u8?p=m3u8
-- - - - -
 NA
 http://27.254.130.61/live01/ch79.m3u8?p=m3u8
 
-#EXTINF:-1 group-title="27.254",BBC WORLD NEWS |27.254
++ + + + + 27.254.149.109:8081 + + + + +
+
+ group-title="27.254",BBC WORLD NEWS |27.254
 http://27.254.149.109:8081/tumlive/BBC/chunks.m3u8
 http://27.254.149.109:8081/tumlive/CNN/chunks.m3u8
-#EXTINF:-1,Fox Action |27.254
+,Fox Action |27.254
 http://27.254.149.109:8081/tumlive/FoxAction/playlist.m3u8
 http://27.254.149.109:8081/tumlive/Foxfamily/chunks.m3u8
-#EXTINF:-1,Fox Family Movies' |27.254
+,Fox Family Movies' |27.254
 http://27.254.149.109:8081/tumlive/Foxfamily/playlist.m3u8
 ,Fox Life
 http://27.254.149.109:8081/tumlive/FoxLife/playlist.m3u8
@@ -1104,33 +1089,33 @@ http://27.254.149.109:8081/tumlive/movie1.stream/playlist.m3u8
 http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
 ,movie3
 http://27.254.149.109:8081/live/movie3.stream/chunks.m3u8
-#EXTINF:-1,SKYNET HD sport |27.254
+,SKYNET HD sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNETHD/playlist.m3u8
-#EXTINF:-1,SKYNET HD' sport |27.254
+,SKYNET HD' sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNETHD/chunks.m3u8
-#EXTINF:-1,,SKYNET1 sport |27.254
+,,SKYNET1 sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
-#EXTINF:-1,,SKYNET1' sport |27.254
+,,SKYNET1' sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET1/chunks.m3u8
-#EXTINF:-1,,SKYNET2 sport |27.254
+,,SKYNET2 sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET2/playlist.m3u8
-#EXTINF:-1,,SKYNET2' sport |27.254
+,,SKYNET2' sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET2/chunks.m3u8
-#EXTINF:-1,,SKYNET3 sport |27.254
+,,SKYNET3 sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET3/playlist.m3u8
-#EXTINF:-1,,SKYNET3' sport |27.254
+,,SKYNET3' sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET3/chunks.m3u8
-#EXTINF:-1,,SKYNET4 sport |27.254
+,,SKYNET4 sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET4/playlist.m3u8
-#EXTINF:-1,,SKYNET4' sport |27.254
+,,SKYNET4' sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET4/chunks.m3u8
-#EXTINF:-1,SKYNET5 sport |27.254
+,SKYNET5 sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET5/playlist.m3u8
-#EXTINF:-1,SKYNET5' sport |27.254
+,SKYNET5' sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
-#EXTINF:-1,SKYNET6 sport |27.254
+,SKYNET6 sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET6/playlist.m3u8
-#EXTINF:-1,SKYNET6' sport |27.254
+,SKYNET6' sport |27.254
 http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
 ,True Movie Hits
 http://27.254.149.109:8081/tumlive/MOVH/chunks.m3u8
@@ -1139,7 +1124,7 @@ http://27.254.149.109:8081/tumlive/TrueAsiaHD/chunks.m3u8
 http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 http://27.254.149.109:8081/tumlive/Foxsport3/playlist.m3u8
-#EXTINF:-1 group-title="27.254",Up movie |27.254
+ group-title="27.254",Up movie |27.254
 http://27.254.149.109:8081/tumlive/upmovie.stream/playlist.m3u8
 
 http://27.254.149.109:8081/tumlive/axnhdL.stream/chunks.m3u8
@@ -1164,21 +1149,6 @@ http://27.254.149.109:8081/tumlive/Sunmovie/chunks.m3u8
 http://27.254.149.109:8081/tumlive/TFLM/playlist.m3u8
 http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
 http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
-
-+ + + + + 87.117.234.107:1935 + + + + +
-
-#EXTINF:-1 group-title="IN/87.117",SPIKETV
-http://87.117.234.107:1935/live/SPIKETV/playlist.m3u8
-#EXTINF:-1,StarGold
-http://87.117.234.107:1935/live/StarGold/playlists.m3u8
-#EXTINF:-1,STAR GOLD SELECT FHD
-http://87.117.234.107:1935/live/STARGOLDSELECTFHD/playlists.m3u8
-#EXTINF:-1,StarMovies SELECT
-http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
-#EXTINF:-1,StarSports 1FHD
-http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
-#EXTINF:-1 group-title="IN/87.117",StarSports 2FHD
-http://87.117.234.107:1935/live/StarSports2FHD/index.m3u8
 
 + + + + + 103.22.182.242:8081 + + + + + 
 
@@ -2362,6 +2332,9 @@ http://203.150.107.30:8081/tested2iptv/core208/playlist.m3u8
 one 31
 http://203.150.107.30:8081/tested2iptv/I1_CNNHD/playlist.m3u8
 
+http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
+http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
+
 natgeo wild
 http://203.150.107.30:8081/freethaitv/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?s=d5833c4d6590ebea8861a5ea300cb4ba
 natgeo people
@@ -2692,6 +2665,8 @@ http://dootvthai-hd.com/cmd/true/TRUE-SPARK-JUMP/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/TRUE-SPARK-PLAY/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/TRUE-X-ZYTE-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/verytv/playlist.m3u8
+http://dootvthai-hd.com/cmd/true/FOX-ACTION/playlist.m3u8
+http://dootvthai-hd.com/cmd/true/FOX-MOVIE/playlist.m3u8
 
 #EXTINF:-1 group-title="dootvthai",YTN
 http://dootvthai-hd.com/cmd/true/YTN/playlist.m3u8
