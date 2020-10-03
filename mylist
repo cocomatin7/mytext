@@ -7842,9 +7842,8 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/92
 #EXTINF:-1 tvg-name="FOX Family Movies HD" group-title="iptvhit",FOX FAMILY
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/93
 
-+ + + + + iptvtree.net:8080 + + + + +
++ + + + + iptvtree.net:8080 [SEA] + + + + +
 
-#EXTINF:-1 group-title="iptvtree",TH: BLOOMBERG
 http://iptvtree.net:8080/live/13354/27c12697/162530.m3u8
 ,TH: Cinemax HD
 http://iptvtree.net:8080/live/13354/27c12697/162539
@@ -7911,13 +7910,13 @@ http://iptvtree.net:8080/live/13354/27c12697/16964
 ,IN: HBO HD
 http://iptvtree.net:8080/live/13354/27c12697/82603
 ,ID: Asian Food Channel
-http://iptvtree.net:8080/live/13354/27c12697/165063
+http://iptvtree.net:8080/live/13354/27c12697/165063.m3u8
 ,ID: BBC World News
-http://iptvtree.net:8080/live/13354/27c12697/165090
+http://iptvtree.net:8080/live/13354/27c12697/165090.m3u8
 ,ID: beIN Sports 1
-http://iptvtree.net:8080/live/13354/27c12697/165105
+http://iptvtree.net:8080/live/13354/27c12697/165105.m3u8
 ,ID: beIN Sports 2
-http://iptvtree.net:8080/live/13354/27c12697/165073
+http://iptvtree.net:8080/live/13354/27c12697/165073.m3u8
 ,ID: Bloomberg
 http://iptvtree.net:8080/live/13354/27c12697/157599
 ,ID: CNBC
@@ -7931,14 +7930,14 @@ http://iptvtree.net:8080/live/13354/27c12697/165078
 ,ID: Fox Movies Action
 http://iptvtree.net:8080/live/13354/27c12697/157608
 ,MY: AFN HD
-http://iptvtree.net:8080/live/13354/27c12697/157549
-#EXTINF:-1,MY: ASTRO ASSP 2 HD
+http://iptvtree.net:8080/live/13354/27c12697/157549.m3u8
+#EXTINF:-1 group-title="iptvtree",MY: ASSP 2 HD
 http://iptvtree.net:8080/live/13354/27c12697/157556.m3u8
-#EXTINF:-1,MY: ASTRO ASSP 3 HD
+#EXTINF:-1,MY: ASSP 3 HD
 http://iptvtree.net:8080/live/13354/27c12697/157557.m3u8
-#EXTINF:-1,MY: ASTRO ASSP 4 HD
+#EXTINF:-1,MY: ASSP 4 HD
 http://iptvtree.net:8080/live/13354/27c12697/157558.m3u8
-#EXTINF:-1,MY: ASTRO ASSP HD
+#EXTINF:-1,MY: ASSP HD
 http://iptvtree.net:8080/live/13354/27c12697/157559.m3u8
 ,MY: BBC News HD
 http://iptvtree.net:8080/live/13354/27c12697/157522
