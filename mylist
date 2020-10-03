@@ -7728,56 +7728,58 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
 #EXTINF:-1 group-title="IN/kitv",&Flix
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
 
-#EXTINF:-1 tvg-name="ZING" group-title="IN/kitv",ZING
++ + + + + http://iptv.kitv.live:1935/live/Shari/MTV-P / Disabled + + + + +
+
+ EXTINF:-1 tvg-name="ZING" group-title="IN/kitv",ZING
 http://iptv.kitv.live:1935/live/Shari/MTV-P/81.ts
-#EXTINF:-1 tvg-name="ZEE TV",ZEE TV
+ EXTINF:-1 tvg-name="ZEE TV",ZEE TV
 http://iptv.kitv.live:1935/live/Shari/MTV-P/28.ts
-#EXTINF:-1 tvg-name="ZEE CINEMA",ZEE CINEMA
+ EXTINF:-1 tvg-name="ZEE CINEMA",ZEE CINEMA
 http://iptv.kitv.live:1935/live/Shari/MTV-P/29.ts
-#EXTINF:-1 tvg-name="Zee Anmol Cinema",Zee Anmol Cinema
+ EXTINF:-1 tvg-name="Zee Anmol Cinema",Zee Anmol Cinema
 http://iptv.kitv.live:1935/live/Shari/MTV-P/104.ts
-#EXTINF:-1 tvg-name="WOW CINEMA",WOW CINEMA
+ EXTINF:-1 tvg-name="WOW CINEMA",WOW CINEMA
 http://iptv.kitv.live:1935/live/Shari/MTV-P/106.ts
-#EXTINF:-1 tvg-name="STAR UTSAV MOVIES",STAR UTSAV MOVIES
+ EXTINF:-1 tvg-name="STAR UTSAV MOVIES",STAR UTSAV MOVIES
 http://iptv.kitv.live:1935/live/Shari/MTV-P/37.ts
-#EXTINF:-1 tvg-name="Star Sports Select 2 HD",Star Sports Select 2 HD
+ EXTINF:-1 tvg-name="Star Sports Select 2 HD",Star Sports Select 2 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/52.ts
-#EXTINF:-1 tvg-name="Star Sports Select 1 HD",Star Sports Select 1 HD
+ EXTINF:-1 tvg-name="Star Sports Select 1 HD",Star Sports Select 1 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/51.ts
-#EXTINF:-1 tvg-name="STAR SPORTS FIRST",STAR SPORTS FIRST
+ EXTINF:-1 tvg-name="STAR SPORTS FIRST",STAR SPORTS FIRST
 http://iptv.kitv.live:1935/live/Shari/MTV-P/55.ts
-#EXTINF:-1 tvg-name="STAR SPORTS 1",STAR SPORTS 1
+ EXTINF:-1 tvg-name="STAR SPORTS 1",STAR SPORTS 1
 http://iptv.kitv.live:1935/live/Shari/MTV-P/53.ts
-#EXTINF:-1 tvg-name="STAR PLUS",STAR PLUS
+ EXTINF:-1 tvg-name="STAR PLUS",STAR PLUS
 http://iptv.kitv.live:1935/live/Shari/MTV-P/27.ts
-#EXTINF:-1 tvg-name="STAR MOVIES",STAR MOVIES
+ EXTINF:-1 tvg-name="STAR MOVIES",STAR MOVIES
 http://iptv.kitv.live:1935/live/Shari/MTV-P/43.ts
-#EXTINF:-1 tvg-name="STAR GOLD",STAR GOLD
+ EXTINF:-1 tvg-name="STAR GOLD",STAR GOLD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/32.ts
-#EXTINF:-1 tvg-name="MUSIC BOX",MUSIC BOX
+ EXTINF:-1 tvg-name="MUSIC BOX",MUSIC BOX
 http://iptv.kitv.live:1935/live/Shari/MTV-P/89.ts
-#EXTINF:-1 tvg-name="MTV BEATS",MTV BEATS
+ EXTINF:-1 tvg-name="MTV BEATS",MTV BEATS
 http://iptv.kitv.live:1935/live/Shari/MTV-P/95.ts
-#EXTINF:-1 tvg-name="MTV",MTV
+ EXTINF:-1 tvg-name="MTV",MTV
 http://iptv.kitv.live:1935/live/Shari/MTV-P/75.ts
-#EXTINF:-1 tvg-name="MOVIE HOUSE",MOVIE HOUSE
+ EXTINF:-1 tvg-name="MOVIE HOUSE",MOVIE HOUSE
 http://iptv.kitv.live:1935/live/Shari/MTV-P/105.ts
-#EXTINF:-1 tvg-name="HBO",HBO
+ EXTINF:-1 tvg-name="HBO",HBO
 http://iptv.kitv.live:1935/live/Shari/MTV-P/44.ts
-#EXTINF:-1 tvg-name="ETC",ETC
+ EXTINF:-1 tvg-name="ETC",ETC
 http://iptv.kitv.live:1935/live/Shari/MTV-P/73.ts
-#EXTINF:-1 tvg-name="Bflix MOVIE",Bflix MOVIE
+ EXTINF:-1 tvg-name="Bflix MOVIE",Bflix MOVIE
 http://iptv.kitv.live:1935/live/Shari/MTV-P/35.ts
-#EXTINF:-1 tvg-name="BBC WORLD",BBC WORLD
+ EXTINF:-1 tvg-name="BBC WORLD",BBC WORLD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/56.ts
-#EXTINF:-1 tvg-name="BBC Lifestyle",BBC Lifestyle
+ EXTINF:-1 tvg-name="BBC Lifestyle",BBC Lifestyle
 http://iptv.kitv.live:1935/live/Shari/MTV-P/46.ts
-#EXTINF:-1 tvg-name="BBC EARTH",BBC EARTH
+ EXTINF:-1 tvg-name="BBC EARTH",BBC EARTH
 http://iptv.kitv.live:1935/live/Shari/MTV-P/62.ts
-#EXTINF:-1 tvg-name="&Flix" group-title="IN/kitv",&Flix
+ EXTINF:-1 tvg-name="&Flix" group-title="IN/kitv",&Flix
 http://iptv.kitv.live:1935/live/Shari/MTV-P/40.ts
 
-+ + + + + http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia + + + + +
++ + + + + http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia [SEA] + + + + +
 
 #EXTINF:-1 tvg-name="FOX Movies HD" group-title="iptvhit",FOX MOVIES
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/34
