@@ -7542,28 +7542,9 @@ http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/16958.m3u8
 #EXTINF:-1 group-title="cloudcdn",True Premiere Football HD4 | cloudcdn
 http://85.203.33.42:80/live/YXFQIfeiWcQb535/0sfRwY279/16959.m3u8
 
-+ + + + + 188.40.76.108:25461 + + + + +
++ + + + + 188.40.76.108:25461 /mytv01 + + + + +
 
-#EXTINF:-1 group-title="188.40",True THAI FILM
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/87.m3u8
-#EXTINF:-1,RED by HBO (TH)
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/88.m3u8
-#EXTINF:-1,FOX ACTION MOVIES (Thai Sub)
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/90.m3u8
-#EXTINF:-1,FOX MOVIES (Thai Sub)
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/91.m3u8
-#EXTINF:-1,HBO (TH)
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/1165.m3u8
-#EXTINF:-1,STAR MOVIES
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/70.m3u8
-#EXTINF:-1,FOX ACTION MOVIES
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/73.m3u8
-#EXTINF:-1,CELESTIAL MOVIES 天映频道
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/74.m3u8
-#EXTINF:-1,WARNER TV 華納電影
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/75.m3u8
-#EXTINF:-1 group-title="188.40",STAR CHINESE MOVIES 衛視電影
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/79.m3u8
+http://188.40.76.108:25461/get.php?username=mytv01&password=uSIRzmks51&type=m3u [https://rebrand.ly/188-mytv01]
 
 + + + + + endoftheworldisnigh.sytes.net:8989 [MTV] + + + + +
 
