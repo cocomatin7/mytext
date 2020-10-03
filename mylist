@@ -8738,56 +8738,7 @@ http://starshare.live:8080/live/vip216/64587929/1921.m3u8
  group-title="starshare",US: MTV CLASSIC
 http://starshare.live:8080/live/vip216/64587929/3404.m3u8
 
-+ + + + + s1.showplustv.com:1997 + + + + +
-
- group-title="showplustv",|THA| MYANMAR CHANNEL 7
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/66070.m3u8
-,|THA| MYANMAR Channel K
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/66071.m3u8
-,|THA| MYANMAR DVB
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/66072.m3u8
-,|THA| MYANMAR MAHAR BAWDI
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/66073.m3u8
-,|THA| MYANMAR MRTV 4
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/66074.m3u8
-,|IN| ZEE TV HD
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/60028.m3u8
-,|IN| ZEE CINEMA USA
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/60029.m3u8
-,|IN| ZEE CINEMA HD
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/60030.m3u8
-,|IN| &TV HD
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/60055.m3u8
-,|IN| & PICTURES HD
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/60056.m3u8
-,|IN| &FLIX
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/62219.m3u8
-,|IN| & privé HD(eng)
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/66669.m3u8
-,|IN| & Xplor HD
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/66670.m3u8
-,|PH| Asian_Food_Channel
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/65306.m3u8
-,|PH| beIN_Sport 1
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/65309.m3u8
-,|PH| beIN_Sport 2
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/65310.m3u8
-,|PH| CNN
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/65316.m3u8
-,|AU| beIN Sports 1
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/70571.m3u8
-,|AU| beIN Sports 2
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/70570.m3u8
-,|AU| beIN Sports 3
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/70569.m3u8
-,|US| NBCSN HD
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/9382.m3u8
-,|CA| CNN
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/60137.m3u8
-,|CA| CNN HD
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/60138.m3u8
- group-title="showplustv",|CA| CNN INTERNATIONAL HD
-http://s1.showplustv.com:1997/live/qaozen/UpVeFDki8N/60139.m3u8
++ + + + + s1.showplustv.com:1997 [TH+MM] + + + + +
 
 + + + + + speccy.pw:8008 + + + + +
 
@@ -8811,14 +8762,12 @@ http://speccy.pw:8008/d/d/17603
 http://speccy.pw:8008/d/d/17604
 #EXTINF:-1,CNN International (UK | Main)
 http://speccy.pw:8008/d/d/17605
-#EXTINF:-1,16673
 http://speccy.pw:8008/d/d/16673
 http://speccy.pw:8008/d/d/16672
 http://speccy.pw:8008/d/d/16671
 http://speccy.pw:8008/d/d/16670
 #EXTINF:-1,MTV HD
 http://speccy.pw:8008/d/d/16759
-
 http://speccy.pw:8008/d/d/16669
 http://speccy.pw:8008/d/d/16668
 http://speccy.pw:8008/d/d/16758
