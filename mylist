@@ -9003,24 +9003,6 @@ http://ytv.plus:25461/live/diegotv/1234/129.m3u8
 #EXTINF:-1 group-title="ytv",NBCSN
 http://ytv.plus:25461/diegotv/1234/3618
 
-+ + + + + zlines.co.uk:8080 + + + + +
-
-#EXTINF:-1 group-title="zlines",CNN INTERNATIONAL
-http://zlines.co.uk:8080/XEDST_NOXXX/xtream_editor/1986
-http://zlines.co.uk:8080/XEDST_NOXXX/xtream_editor/247
-#EXTINF:-1, BLOOMBERG NEWS
-http://zlines.co.uk:8080/XEDST_NOXXX/xtream_editor/4751
-,CNN
-http://zlines.co.uk:8080/XEDST_NOXXX/xtream_editor/9801
-#EXTINF:-1,UK: BBC NEWS
-http://zlines.co.uk:8080/XEDST_NOXXX/xtream_editor/9803
-#EXTINF:-1,US: CNN
-http://zlines.co.uk:8080/XEDST_NOXXX/xtream_editor/9889
-#EXTINF:-1,US: MTV CLASSIC
-http://zlines.co.uk:8080/XEDST_NOXXX/xtream_editor/9946
-#EXTINF:-1 group-title="zlines",US: BLOOMBERG
-http://zlines.co.uk:8080/XEDST_NOXXX/xtream_editor/10054
-
 + + + + + outdated + + + + 
 
 http://103.47.132.164:80/PLTV/88888888/224/3221226011/4.m3u8
@@ -9131,7 +9113,7 @@ http://thiwason.gotdns.ch:8080/kS7ncoOEMz/Eolor19w6n/20363
 
 + + + + + + + + +   K.TUIPTV + + + + + + +  
 
-Total : https://iptv-kovid-19.tk/m3u/live/lol/lol.m3u <<< 
+Total : https://iptv-kovid-19.tk/m3u/live/lol/lol.m3u < empty
 Just the movie: https://iptv-kovid-19.tk/m3u/live/lol/movies.m3u
 Just live channels: https://iptv-kovid-19.tk/m3u/live/lol/live.m3u <<<
 https://iptv-kovid-19.tk/m3u/live/live_101.m3u
