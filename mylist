@@ -209,7 +209,7 @@ http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/stre
 
 + + + + + MM /mcsh.xyz:8080 + + + + +
 
-#EXTINF:-1, 5 Plus |mc
+#EXTINF:-1 group-title="MM/mcsh", 5 Plus |mc
 https://rebrand.ly/mc-5p
 #EXTINF:-1, Channel 7 |mc
 https://rebrand.ly/mc-c7
@@ -233,7 +233,7 @@ https://rebrand.ly/mc-mn
 https://rebrand.ly/mc-mrtv
 #EXTINF:-1, MRTV4 |mc
 https://rebrand.ly/mc-mr4
-#EXTINF:-1 group-title="MMPay", YTV |mc
+#EXTINF:-1 group-title="MM/mcsh", YTV |mc
 https://rebrand.ly/mc-yt
 
 + + + + + MM /cookietv + + + + +
