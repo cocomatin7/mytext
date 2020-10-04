@@ -46,20 +46,38 @@ https://www.youtube.com/watch?v=Q-h7NHGDuGY
 
 + + + + + MM /mcsh.xyz + + + + +
 
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", 5 Plus
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkcZSjfL/5Plus.png" group-title="MM", 5 Plus |mc
 https://rebrand.ly/mc-5p
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png", CHANNEL 9
+#EXTINF:-1, Channel 7 |mc
+https://rebrand.ly/mc-c7-1
+#EXTINF:-1, Channel 7 HD |mc
+https://rebrand.ly/mc-c7-2
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png", CHANNEL 9 |mc
 https://rebrand.ly/mc-c9
-#EXTINF:-1 tvg-logo="", Channel K
+#EXTINF:-1, CINEMAX MM |mc
+https://rebrand.ly/mc-cm
+#EXTINF:-1 tvg-logo="http://www.myanmartvchannel.com/assets/images/channel/channelk.jpg", Channel K |mc
 https://rebrand.ly/mc-ck-1
-#EXTINF:-1 tvg-logo="", Channel K*
+#EXTINF:-1 tvg-logo="http://www.myanmartvchannel.com/assets/images/channel/channelk.jpg", Channel K* |mc
 https://rebrand.ly/mc-ck-2
-#EXTINF:-1 tvg-logo="", Fortune TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qwmJBt1/Fortune-TV-1.png", Fortune TV |mc
 https://rebrand.ly/mc-ftv
+#EXTINF:-1, Mahar |mc
+https://rebrand.ly/mc-mh
+#EXTINF:-1, Maharbawdi |mc
+https://rebrand.ly/mc-mbd
+#EXTINF:-1, mntv |mc
+https://rebrand.ly/mc-mn
+tvg-logo="http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png",Mizzima TV |mc
+https://rebrand.ly/mc-mz
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV |mc
 https://rebrand.ly/mc-mrtv
-#EXTINF:-1 tvg-logo="", YTV
-https://rebrand.ly/mc-ytv
+#EXTINF:-1, MRTV 4 |mc
+https://rebrand.ly/mc-mr4-1
+#EXTINF:-1, MRTV4 HD |mc
+https://rebrand.ly/mc-mr4-2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMBj4CDf/ytv-120x120-a44.jpg", YTV |mc
+https://rebrand.ly/mc-yt
 
 + + + + + MM /203.81.81.230 + + + + +
 
