@@ -254,7 +254,7 @@ https://rebrand.ly/ck-cnm
 
 #EXTINF:-1, Cookie |cookietv
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
-#EXTINF:-1, Asia Drama |cookietv
+#EXTINF:-1 group-title="MMPay", Asia Drama |cookietv
 https://rebrand.ly/ck-adm
 
 ###https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.****
@@ -265,9 +265,14 @@ https://rebrand.ly/ck-adm
 #N#https://d39q34kqnktegw.cloudfront.net/live/8c0b7cd2-058a-4497-8680-ae4355c17e99/prod/manifest.mpd
 #N#https://d39q34kqnktegw.cloudfront.net/live/a069af10-b125-44fe-ad16-cc418b75eda0/prod/manifest.mpd
 
++ + + + + MM /ooredoo + + + + +
+
+#EXTINF:-1 group-title="MMPay", Mahar |ooredoo
+https://live.mahar.tv/channel/mahar-ooredoo.smil/mahar-ooredoo.m3u8
+
 + + + + + MM /MMnet + + + + +
 
-#EXTINF:-1, DVB |MMnet
+#EXTINF:-1 group-title="MMPay", DVB |MMnet
 https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8
 #EXTINF:-1, Eleven Media |MMnet
 https://l1-xl1.myanmarnet.com/relay/eleven/ch1/stream_hi/index.m3u8
