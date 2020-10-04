@@ -207,10 +207,36 @@ http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/play
 , Fortune TV'
 http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/stream_1.m3u8
 
-+ + + + + MM /cookietv + + + + +
++ + + + + MM /mcsh.xyz:8080 + + + + +
 
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MMPay", MRTV |mc
+#EXTINF:-1, 5 Plus |mc
+https://rebrand.ly/mc-5p
+#EXTINF:-1, Channel 7 |mc
+https://rebrand.ly/mc-c7
+#EXTINF:-1, Channel 9 |mc
+https://rebrand.ly/mc-c9
+#EXTINF:-1 tvg-logo="http://www.myanmartvchannel.com/assets/images/channel/channelk.jpg", Channel K |mc
+https://rebrand.ly/mc-ck
+#EXTINF:-1, Cookie Asia |mc
+https://rebrand.ly/mc-ca
+#EXTINF:-1, Cookie |mc
+https://rebrand.ly/mc-cc
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qwmJBt1/Fortune-TV-1.png", Fortune TV |mc
+https://rebrand.ly/mc-ft
+#EXTINF:-1, Maharbawdi |mc
+https://rebrand.ly/mc-mbd
+#EXTINF:-1 tvg-logo="http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png", Mizzima TV |mc
+https://rebrand.ly/mc-mz
+#EXTINF:-1, mntv |mc
+https://rebrand.ly/mc-mn
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV |mc
 https://rebrand.ly/mc-mrtv
+#EXTINF:-1, MRTV4 |mc
+https://rebrand.ly/mc-mr4
+#EXTINF:-1 group-title="MMPay", YTV |mc
+https://rebrand.ly/mc-yt
+
++ + + + + MM /cookietv + + + + +
 
 #EXTINF:-1 group-title="MMPay", Cartoon Network |cookietv
 https://rebrand.ly/ck-cn
