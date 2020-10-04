@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=Q-h7NHGDuGY
 
 + + + + + MM /mcsh.xyz + + + + +
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkcZSjfL/5Plus.png" group-title="MM", 5 Plus |mc
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkcZSjfL/5Plus.png" group-title="MM/mcsh", 5 Plus |mc
 https://rebrand.ly/mc-5p
 #EXTINF:-1, Channel 7 |mc
 https://rebrand.ly/mc-c7-1
@@ -76,8 +76,41 @@ https://rebrand.ly/mc-mrtv
 https://rebrand.ly/mc-mr4-1
 #EXTINF:-1, MRTV4 HD |mc
 https://rebrand.ly/mc-mr4-2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMBj4CDf/ytv-120x120-a44.jpg", YTV |mc
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMBj4CDf/ytv-120x120-a44.jpg" group-title="MM/mcsh", YTV |mc
 https://rebrand.ly/mc-yt
+
+#EXTINF:-1 group-title="MM/mcsh",VIP MLZ: ASTRO SUPERSPORTS 1 HD
+https://rebrand.ly/mc-as1-1
+#EXTINF:-1,VIP MLZ: ASTRO SUPERSPORTS 1
+https://rebrand.ly/mc-as1-2
+#EXTINF:-1,VIP MLZ: ASTRO SUPERSPORTS 2 HD
+https://rebrand.ly/mc-as2-1
+#EXTINF:-1,VIP MLZ: ASTRO SUPERSPORTS 2
+https://rebrand.ly/mc-as2-2
+#EXTINF:-1,VIP MLZ: ASTRO SUPERSPORTS 3 HD
+https://rebrand.ly/mc-as3-1
+#EXTINF:-1,VIP MLZ: ASTRO SUPERSPORTS 3
+https://rebrand.ly/mc-as3-2
+#EXTINF:-1,VIP MLZ: ASTRO SUPERSPORTS 4 HD
+https://rebrand.ly/mc-as4-1
+#EXTINF:-1,VIP MLZ: ASTRO SUPERSPORTS 4
+https://rebrand.ly/mc-as4-2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lh9L7F8.png",VIP TH: beIN Sports 1 FHD
+https://rebrand.ly/mc-bi1-1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lh9L7F8.png",VIP TH: beIN Sports 2 FHD
+https://rebrand.ly/mc-bi2-1
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png",beIN Sports 1 Asia
+https://rebrand.ly/mc-bi1-2
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png",beIN Sports 2 Asia
+https://rebrand.ly/mc-bi2-2
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg",Premier Football HD 1
+https://rebrand.ly/mc-pl1-1
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg",Premier Football HD 2
+https://rebrand.ly/mc-pl2-1
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd1.png",Premier League 1
+https://rebrand.ly/mc-pl1-2
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd2.png" group-title="MM/mcsh",Premier League 2
+https://rebrand.ly/mc-pl2-2
 
 + + + + + MM /203.81.81.230 + + + + +
 
