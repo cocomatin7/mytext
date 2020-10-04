@@ -229,6 +229,8 @@ https://rebrand.ly/mc-mz
 https://rebrand.ly/mc-mn
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV |mc
 https://rebrand.ly/mc-mrtv
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV* |mc
+http://188.166.208.181:25461/live/74999/74999/3035.m3u8?token=GEBZBEpdRA8SWwkBBFdWW1UMW1VSAAoPCQYBUAdQDgJSW1JQXwJXVgVAHRUREhBcB1g8DFMQAgQJBlBJQBdEVxE9WAEbD0QEAVQDFU5EFlALUEFfBx4aR1BRR19AUwQFUVoTSRtQHkFVEF9WDjkGXBBcAAAVCFZCVVlJRw0MaFYGD1ALXRdcFwBAHRULFRIbXFsWCVseGlVQQRcEFgcVCEFWBV0PF0oXUw1EWRYUGxtcFzAiFR4aUkFBAAsRC1hcQVgTCApAXhccQFhEPRQHShJHBgRaV0oVAxdVR05AWlMbPVIKV1sDVkQLXlkRRFgbVRdPR1pdVl5NWhc6EgtTEFlAA1QKDURI
 #EXTINF:-1, MRTV4 |mc
 https://rebrand.ly/mc-mr4
 #EXTINF:-1 group-title="MM/mcsh", YTV |mc
