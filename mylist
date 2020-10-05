@@ -209,32 +209,31 @@ http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/stre
 
 + + + + + MM /mcsh.xyz:8080 + + + + +
 
-#EXTINF:-1 group-title="MM/mcsh", 5 Plus |mc
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/5plus-80x80-e0a.jpg" group-title="MM/mcsh", 5 Plus |mc
 https://rebrand.ly/mc-5p
-#EXTINF:-1, Channel 7 |mc
+#EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png", Channel 7 |mc
 https://rebrand.ly/mc-c7
-#EXTINF:-1, Channel 9 |mc
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png", Channel 9 |mc
 https://rebrand.ly/mc-c9
 #EXTINF:-1 tvg-logo="http://www.myanmartvchannel.com/assets/images/channel/channelk.jpg", Channel K |mc
 https://rebrand.ly/mc-ck
-#EXTINF:-1, Cookie Asia |mc
+#EXTINF:-1 tvg-logo="https://www.cookie-tv.com/wp-content/uploads/cookie-tv.png", Cookie Asia |mc
 https://rebrand.ly/mc-ca
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qwmJBt1/Fortune-TV-1.png", Fortune TV |mc
 https://rebrand.ly/mc-ft
-#EXTINF:-1, Maharbawdi |mc
+#EXTINF:-1 tvg-logo="https://iptv.live/images/logo/channel/crops/1133755f688a402d8f54e7c5286c3e8f.png", Maharbawdi |mc
 https://rebrand.ly/mc-mbd
 #EXTINF:-1 tvg-logo="http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png", Mizzima TV |mc
 https://rebrand.ly/mc-mz
-#EXTINF:-1, mntv |mc
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mn.png", mntv |mc
 https://rebrand.ly/mc-mn
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV |mc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MRTV_new_logo.png/225px-MRTV_new_logo.png", MRTV |mc
 https://rebrand.ly/mc-mr
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV* |mc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MRTV_new_logo.png/225px-MRTV_new_logo.png", MRTV* |mc
 https://rebrand.ly/mc-mr-1
-
-#EXTINF:-1, MRTV4 |mc
+#EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png", MRTV4 |mc
 https://rebrand.ly/mc-mr4
-#EXTINF:-1 group-title="MM/mcsh", YTV |mc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/YTV_Logo.png/150px-YTV_Logo.png" group-title="MM/mcsh", YTV |mc
 https://rebrand.ly/mc-yt
 
 + + + + + MM /cookietv + + + + +
