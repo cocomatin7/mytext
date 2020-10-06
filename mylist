@@ -471,6 +471,8 @@ https://rebrand.ly/h-si-alt
  EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |alt
 https://rebrand.ly/h-re-alt
 
+https://airam-tafir.github.io/hls/movie/hbo-sig.m3u8
+
  EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO |boxmv (alt)
 http://boxmovie-th.com/app-api-android/hbo/hbohd2/playlist.m3u8
  EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |boxmv (alt)
