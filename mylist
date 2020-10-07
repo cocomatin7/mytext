@@ -188,6 +188,7 @@ http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
 
 EXTINF:-1 group-title="MM", mitv /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(3794b443-0bab-4f1c-bea5-3bdf37cf588a)/manifest.mpd
+##https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel/3794b443-0bab-4f1c-bea5-3bdf37cf588a/chunklist.m3u8
 
 EXTINF:-1 group-title="MM", MRTV Ent /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(e02c93f2-33d9-458b-bf23-a2717b5f59a8)/manifest.mpd
@@ -270,6 +271,8 @@ https://rebrand.ly/ck-adm
 
 #EXTINF:-1 group-title="MMPay", Mahar |ooredoo
 https://live.mahar.tv/channel/mahar-ooredoo.smil/mahar-ooredoo.m3u8
+
+http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8
 
 + + + + + MM /MMnet + + + + +
 
@@ -768,6 +771,27 @@ http://51.158.176.190/hls/stream.m3u8
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1 group-title="sports",Varzesh Sports 4
 http://163.172.138.186/hls/stream.m3u8
+
+#EXTINF:-1,beIN SPORTS 1
+http://cdn1.52dvb.xyz/5000/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 2
+http://cdn1.52dvb.xyz/5001/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 3
+http://cdn1.52dvb.xyz/5002/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 4
+http://cdn1.52dvb.xyz/5003/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 5
+http://cdn1.52dvb.xyz/5004/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 6
+http://cdn1.52dvb.xyz/5005/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 7
+http://cdn1.52dvb.xyz/5006/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 8
+http://cdn1.52dvb.xyz/5007/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 9
+http://cdn1.52dvb.xyz/5008/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 10
+http://cdn1.52dvb.xyz/5009/playlist.m3u8
 
 #EXTINF:-1,Eleven Spt 1
 http://tv-swirtvteam.info/oq/co.m3u8?sid=F5357911&id=11633&q=tvhd
