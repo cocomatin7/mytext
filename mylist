@@ -271,9 +271,8 @@ https://live.mahar.tv/channel/mahar-ooredoo.smil/mahar-ooredoo.m3u8
 
 + + + + + MM /MMnet + + + + +
 
-#EXTINF:-1 group-title="MMPay", DVB |MMnet
 https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8
-#EXTINF:-1, Eleven Media |MMnet
+#EXTINF:-1 group-title="MMPay", Eleven Media |MMnet
 https://l1-xl1.myanmarnet.com/relay/eleven/ch1/stream_hi/index.m3u8
 #EXTINF:-1, Mizzima TV |MMnet
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
