@@ -92,23 +92,6 @@ https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/dvb.stream/playlist.m3u8
 ,MVTV Myanmar
 https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
 
-, MRTV HD/ OFF
-http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8
-https://d39q34kqnktegw.cloudfront.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/gidlean/playlist.m3u8 <<
-http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/gidlean/playlist.m3u8
-
-, 5 Plus
-http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
-http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/playlist.m3u8
-https://d39q34kqnktegw.cloudfront.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/progress-playlist.m3u8 << 
-http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K |CF
-https://rebrand.ly/chK-cf
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K' |CF
-https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
-https://d3cs5y5559s57s.cloudfront.net/live/channelk-7046.ts
-
 + + + + + my sports /mycujoo + + + + + 
 
  ch1
@@ -119,39 +102,39 @@ https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/cke3zn94ndqci0gazwqz8sc7g/720p/pla
 https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/cke3zw656dqr20gazhefsn5mj/480p/playlist.m3u8
  ch2 HD
 https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/cke3zw656dqr20gazhefsn5mj/720p/playlist.m3u8
- group-title="MM", mycujoo102471
+ group-title="", mycujoo102471
 https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/ckeefe4ldtzyq0gaz28g8bv8c/720p/playlist.m3u8
- group-title="MM", mycujoo102472
+ group-title="", mycujoo102472
 https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/ckeefn9hcu09r0gazbusuomvt/720p/playlist.m3u8
- group-title="MM", mycujoo102473
+ group-title="", mycujoo102473
 https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/ckeefp4ufu0cn0gazdarhpig5/720p/playlist.m3u8
 
 + + + + + MM /edge-stream + + + + +
 
-#EXTINF:-1 tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="MM", 5 Plus | OTV
+ EXTINF:-1 tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="MM", 5 Plus | OTV
 https://edge-stream-05.otv.co.th/mmplay/5plus/chunklist.m3u8
 http://edge-stream-07.otv.co.th/livestream/5Plus.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png", Channel 7 | OTV
+ EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png", Channel 7 | OTV
 https://edge-stream-05.otv.co.th/mmplay/channel7/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/Channel7.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png", Channel 9 | OTV
+ EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png", Channel 9 | OTV
 https://edge-stream-05.otv.co.th/mmplay/channel9/chunklist.m3u8
 http://edge-stream-07.otv.co.th/livestream/Channel9.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f4e0eb57c600f104da1.png",DVB | OTV
+ EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f4e0eb57c600f104da1.png",DVB | OTV
 https://edge-stream-05.otv.co.th/mmplay/dvb/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8
 
  MaharBawDi | OTV /OFF
 http://edge-stream-07.otv.co.th/livestream/Mahar.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mi.png", MITV | OTV
+ EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mi.png", MITV | OTV
 https://edge-stream-05.otv.co.th/mmplay/mitv/chunklist.m3u8
 http://edge-stream-07.otv.co.th/livestream/MITV.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/97/f3/92/97f3927e75ee7651747bcfe4560ea98b.jpg", MNTV | OTV
+ EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/97/f3/92/97f3927e75ee7651747bcfe4560ea98b.jpg", MNTV | OTV
 https://edge-stream-05.otv.co.th/mmplay/mntv/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/MNTV.stream/playlist.m3u8
 
@@ -159,16 +142,15 @@ https://edge-stream-07.otv.co.th/livestream/MNTV.stream/playlist.m3u8
 https://edge-stream-05.otv.co.th/mmplay/mrtv/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/MRTV.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png", MRTV-4 | OTV
+ EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png", MRTV-4 | OTV
 https://edge-stream-05.otv.co.th/mmplay/mrtv-4/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/MRTV-4.stream/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/MRTV-E.png", MRTV Entertainment | OTV
+ EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/MRTV-E.png", MRTV Entertainment | OTV
 https://edge-stream-05.otv.co.th/mmplay/mrtv-entertainment/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/MRTV-Entertainment.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/hluttaw_old.png", MRTV HLUTTAW | OTV
+ EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/hluttaw_old.png", MRTV HLUTTAW | OTV
 https://edge-stream-05.otv.co.th/mmplay/hluttaw/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/Hluttaw.stream/playlist.m3u8
 
@@ -204,12 +186,6 @@ https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(1095e49d-1c13-4
 
 , Mahar TV /iptvmate
 http://maharlive.b-cdn.net/stream.m3u8
-
-, Fortune TV
-http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8
-https://d39q34kqnktegw.cloudfront.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/gidlean/playlist.m3u8 <<
-, Fortune TV'
-http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/stream_1.m3u8
 
 + + + + + MM /mcsh.xyz:8080 + + + + +
 
@@ -259,15 +235,32 @@ https://rebrand.ly/ck-cnm
 
 #EXTINF:-1 tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="cookietv", 5 Plus |cookietv 
 https://d39q34kqnktegw.cloudfront.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/progress-playlist.m3u8
+http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
+http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K |CF
+https://rebrand.ly/chK-cf
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K' |CF
+https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+https://d3cs5y5559s57s.cloudfront.net/live/channelk-7046.ts
+
 #EXTINF:-1, Cookie |cookietv
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
 #EXTINF:-1, Asia Drama |cookietv
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/chunklist.m3u8
 https://rebrand.ly/ck-adm
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qwmJBt1/Fortune-TV-1.png", Fortune TV |cookietv
 https://d39q34kqnktegw.cloudfront.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/gidlean/playlist.m3u8
+http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8
+http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/stream_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MRTV_new_logo.png/225px-MRTV_new_logo.png" group-title="cookietv", MRTV |cookietv
 https://d39q34kqnktegw.cloudfront.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/gidlean/playlist.m3u8
+http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MRTV_new_logo.png/225px-MRTV_new_logo.png" group-title="cookietv", MRTV* |cookietv
+https://d39q34kqnktegw.cloudfront.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8
+http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/gidlean/playlist.m3u8
 
 ###https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.****
 ###https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/chunklist.****
