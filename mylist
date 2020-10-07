@@ -252,7 +252,7 @@ https://rebrand.ly/ck-cnm
 #N#http://live11.cookietv.com/live/c2c4c9be-de30-4059-a430-dac9ed238eac/prod/gidlean/progress-playlist.m3u8
 #N#http://live11.cookietv.com/live/f242a165-5f61-42d5-bfb7-3e1b21c6a3b1/prod/gidlean/progress-playlist.m3u8
 
-#EXTINF:-1, 5 Plus
+#EXTINF:-1 tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="MM", 5 Plus |cookietv 
 https://d39q34kqnktegw.cloudfront.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/progress-playlist.m3u8
 #EXTINF:-1, Cookie |cookietv
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
@@ -271,7 +271,7 @@ https://rebrand.ly/ck-adm
 
 #EXTINF:-1 group-title="MMPay", Mahar |ooredoo
 https://live.mahar.tv/channel/mahar-ooredoo.smil/mahar-ooredoo.m3u8
-
+#EXTINF:-1 group-title="MMPay", Mahar |167.71
 http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8
 
 + + + + + MM /MMnet + + + + +
