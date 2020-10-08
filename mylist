@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=wD9NF_SlcmE
 #EXTINF:-1 group-title="DHAMMA", ပဋ္ဌာန်းပါဋိတော် - မင်းကွန်းဆရာတော်
 https://www.youtube.com/watch?v=Q-h7NHGDuGY
 
-+ + + + + MM /203.81.81.230 + + + + +
++ + + + + 203.81.81.230:80 + + + + +
 
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV |203
 http://203.81.81.230:80/mrtv.m3u8
@@ -58,7 +58,7 @@ http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv2.m3u8
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV" |203
 http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv3.m3u8
 
-+ + + + + MM /rtmp + + + + +
++ + + + + rtmp://203.81.81.230:80 + + + + +
 
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="MM", MRTV |rtmp
 rtmp://203.81.81.230:80/livepkgr/mrtv
@@ -73,7 +73,7 @@ rtmp://203.81.81.229:80/livepkgr/NRC
 #EXTINF:-1 group-title="MM", MRTV farmer |rtmp
 rtmp://203.81.81.229:80/livepkgr/farmer
 
-+ + + + + MM /FTA + + + + + 
++ + + + + 203.81.84.130 + + + + + 
 
 http://203.81.84.130/hls/mwd/index.m3u8
 http://203.81.84.130/hls/mwd_document/index.m3u8
@@ -82,6 +82,8 @@ http://203.81.84.130/hls/mwd_movie/index.m3u8
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
 http://203.81.84.130/hls/mwd_variety/index.m3u8
+
++ + + + + MM /misc + + + + +
 
 , fortune TV
 https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/chunks.m3u8
@@ -109,7 +111,7 @@ https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/ckeefn9hcu09r0gazbusuomvt/720p/pla
  group-title="", mycujoo102473
 https://dc9jagk60w3y3mt6171f-hr36ej.p5cdn.com/ckeefp4ufu0cn0gazdarhpig5/720p/playlist.m3u8
 
-+ + + + + MM /edge-stream + + + + +
++ + + + + edge-stream + + + + +
 
  EXTINF:-1 tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="MM", 5 Plus | OTV
 https://edge-stream-05.otv.co.th/mmplay/5plus/chunklist.m3u8
