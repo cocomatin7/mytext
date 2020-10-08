@@ -91,8 +91,8 @@ https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/playlist.m3u8
 
 https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/dvb.stream/playlist.m3u8
 
-,MVTV Myanmar
-https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
+EXTINF:-1 group-title="misc",MVTV Myanmar
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/plalist.m3u8
 
 + + + + + cdn-globalnet + + + + +
 
@@ -246,12 +246,14 @@ http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
 
-+ + + + + ooredoo + + + + +
++ + + + + mahar + + + + +
 
-#EXTINF:-1 group-title="ooredoo", Mahar |ooredoo
-https://live.mahar.tv/channel/mahar-ooredoo.smil/mahar-ooredoo.m3u8
-#EXTINF:-1 group-title="ooredoo", Mahar |167.71
+#EXTINF:-1 group-title="mahar", Mahar |167.71
 http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8
+#EXTINF:-1 group-title="mahar", Mahar |ooredoo
+https://live.mahar.tv/channel/mahar-ooredoo.smil/mahar-ooredoo.m3u8
+#EXTINF:-1 group-title="mahar", Mahar |web
+https://live.mahar.tv/channel/mahar-web.smil/chunklist.m3u8
 
 + + + + + MMnet + + + + +
 
