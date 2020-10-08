@@ -132,7 +132,7 @@ https://rebrand.ly/ck-cnm
 #N#http://live11.cookietv.com/live/c2c4c9be-de30-4059-a430-dac9ed238eac/prod/gidlean/progress-playlist.m3u8
 #N#http://live11.cookietv.com/live/f242a165-5f61-42d5-bfb7-3e1b21c6a3b1/prod/gidlean/progress-playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="cookietv", 5 Plus |cookietv 
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/5plus-80x80-e0a.jpg" group-title="cookietv", 5 Plus |cookietv 
 https://d39q34kqnktegw.cloudfront.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/progress-playlist.m3u8
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/playlist.m3u8
@@ -953,7 +953,7 @@ http://520574.xyz/dl/htv.php?id=223
 
 #EXTINF:-1 group-title="VN|ftp",V HD |ftp
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="FOX Movies HD" group-title="VN",Fox Movies |ftp
+#EXTINF:-1 tvg-id="FOX Movies HD",Fox Movies |ftp
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
 #EXTINF:-1,National Geographic HD |ftp
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
