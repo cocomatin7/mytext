@@ -94,6 +94,81 @@ https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/dvb.stream/playlist.m3u8
 ,MVTV Myanmar
 https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
 
++ + + + + cdn-globalnet + + + + +
+
+EXTINF:-1 group-title="MM", mitv /cdn
+https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(3794b443-0bab-4f1c-bea5-3bdf37cf588a)/manifest.mpd
+##https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel/3794b443-0bab-4f1c-bea5-3bdf37cf588a/chunklist.m3u8
+
+EXTINF:-1 group-title="MM", MRTV Ent /cdn
+https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(e02c93f2-33d9-458b-bf23-a2717b5f59a8)/manifest.mpd
+https://rebrand.ly/me-gn
+
+EXTINF:-1 group-title="MM", MRTV Farmer Channel /cdn
+https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(fca755f5-5090-41fd-bf2c-1c0049947d25)/manifest.mpd
+
+EXTINF:-1 group-title="MM", MRTV NRC /cdn
+https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(1095e49d-1c13-47fc-8174-546061a17c3b)/manifest.mpd
+
+, Mahar TV /iptvmate
+http://maharlive.b-cdn.net/stream.m3u8
+
++ + + + + cookietv + + + + +
+
+#EXTINF:-1 group-title="cookietv", Cartoon Network |cookietv
+http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/playlist.m3u8
+https://rebrand.ly/ck-cn
+#EXTINF:-1 tvg-id="Cinemax HD" group-title="cookietv",Cinemax MM |cookietv
+http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/playlist.m3u8
+https://rebrand.ly/ck-cnm
+
+###http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.****
+###http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/playlist.****
+###http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/progress-playlist.****
+###http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-playlist.****
+#N#http://live11.cookietv.com/live/4984fdb7-86ac-4214-8572-98a4d63aa369/prod/gidlean/progress-playlist.m3u8
+#N#http://live11.cookietv.com/live/8c0b7cd2-058a-4497-8680-ae4355c17e99/prod/gidlean/progress-playlist.m3u8
+#N#http://live11.cookietv.com/live/a069af10-b125-44fe-ad16-cc418b75eda0/prod/gidlean/progress-playlist.m3u8
+#N#http://live11.cookietv.com/live/c2c4c9be-de30-4059-a430-dac9ed238eac/prod/gidlean/progress-playlist.m3u8
+#N#http://live11.cookietv.com/live/f242a165-5f61-42d5-bfb7-3e1b21c6a3b1/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="cookietv", 5 Plus |cookietv 
+https://d39q34kqnktegw.cloudfront.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/progress-playlist.m3u8
+http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
+http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K |CF
+https://rebrand.ly/chK-cf
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K' |CF
+https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+https://d3cs5y5559s57s.cloudfront.net/live/channelk-7046.ts
+
+#EXTINF:-1, Cookie |cookietv
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
+#EXTINF:-1, Asia Drama |cookietv
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/chunklist.m3u8
+https://rebrand.ly/ck-adm
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qwmJBt1/Fortune-TV-1.png", Fortune TV |cookietv
+https://d39q34kqnktegw.cloudfront.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/gidlean/playlist.m3u8
+http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8
+http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/stream_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MRTV_new_logo.png/225px-MRTV_new_logo.png" group-title="cookietv", MRTV |cookietv
+https://d39q34kqnktegw.cloudfront.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/gidlean/playlist.m3u8
+http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MRTV_new_logo.png/225px-MRTV_new_logo.png" group-title="cookietv", MRTV* |cookietv
+https://d39q34kqnktegw.cloudfront.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8
+http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/gidlean/playlist.m3u8
+
+###https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.****
+###https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/chunklist.****
+#N#https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:172e104d-09f1-4d03-8f06-59fd5ae54fe5_service/playlist.m3u8
+#N#https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:8c0b7cd2-058a-4497-8680-ae4355c17e99_service/playlist.m3u8
+#N#https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:a069af10-b125-44fe-ad16-cc418b75eda0_service/playlist.m3u8
+#N#https://d39q34kqnktegw.cloudfront.net/live/8c0b7cd2-058a-4497-8680-ae4355c17e99/prod/manifest.mpd
+#N#https://d39q34kqnktegw.cloudfront.net/live/a069af10-b125-44fe-ad16-cc418b75eda0/prod/manifest.mpd
+
 + + + + + my sports /mycujoo + + + + + 
 
  ch1
@@ -156,7 +231,7 @@ https://edge-stream-07.otv.co.th/livestream/MRTV-Entertainment.stream/playlist.m
 https://edge-stream-05.otv.co.th/mmplay/hluttaw/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/Hluttaw.stream/playlist.m3u8
 
-+ + + + + MM /forever + + + + +
++ + + + + forever + + + + +
 
 #EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png", Channel 7 |forever
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
@@ -170,24 +245,24 @@ http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
 
-+ + + + + MM /globalnet + + + + +
++ + + + + ooredoo + + + + +
 
-EXTINF:-1 group-title="MM", mitv /cdn
-https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(3794b443-0bab-4f1c-bea5-3bdf37cf588a)/manifest.mpd
-##https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel/3794b443-0bab-4f1c-bea5-3bdf37cf588a/chunklist.m3u8
+#EXTINF:-1 group-title="ooredoo", Mahar |ooredoo
+https://live.mahar.tv/channel/mahar-ooredoo.smil/mahar-ooredoo.m3u8
+#EXTINF:-1 group-title="ooredoo", Mahar |167.71
+http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8
 
-EXTINF:-1 group-title="MM", MRTV Ent /cdn
-https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(e02c93f2-33d9-458b-bf23-a2717b5f59a8)/manifest.mpd
-https://rebrand.ly/me-gn
++ + + + + MMnet + + + + +
 
-EXTINF:-1 group-title="MM", MRTV Farmer Channel /cdn
-https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(fca755f5-5090-41fd-bf2c-1c0049947d25)/manifest.mpd
-
-EXTINF:-1 group-title="MM", MRTV NRC /cdn
-https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(1095e49d-1c13-47fc-8174-546061a17c3b)/manifest.mpd
-
-, Mahar TV /iptvmate
-http://maharlive.b-cdn.net/stream.m3u8
+https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8
+#EXTINF:-1 group-title="MMnet", Eleven Media |MMnet
+https://l1-xl1.myanmarnet.com/relay/eleven/ch1/stream_hi/index.m3u8
+#EXTINF:-1, Mizzima TV |MMnet
+https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
+#EXTINF:-1, Mizzima TV' |MMnet
+https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_mobile/index.m3u8
+#EXTINF:-1 group-title="MMnet", mntv |MMNet
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
 
 + + + + + MM /mcsh.xyz:8080 + + + + +
 
@@ -216,82 +291,7 @@ https://rebrand.ly/mc-mr4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/YTV_Logo.png/150px-YTV_Logo.png" group-title="MM/mcsh", YTV |mc
 https://rebrand.ly/mc-yt
 
-+ + + + + MM /cookietv + + + + +
-
-#EXTINF:-1 group-title="cookietv", Cartoon Network |cookietv
-http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/playlist.m3u8
-https://rebrand.ly/ck-cn
-#EXTINF:-1 tvg-id="Cinemax HD" group-title="cookietv",Cinemax MM |cookietv
-http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/playlist.m3u8
-https://rebrand.ly/ck-cnm
-
-###http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.****
-###http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/playlist.****
-###http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/progress-playlist.****
-###http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-playlist.****
-#N#http://live11.cookietv.com/live/4984fdb7-86ac-4214-8572-98a4d63aa369/prod/gidlean/progress-playlist.m3u8
-#N#http://live11.cookietv.com/live/8c0b7cd2-058a-4497-8680-ae4355c17e99/prod/gidlean/progress-playlist.m3u8
-#N#http://live11.cookietv.com/live/a069af10-b125-44fe-ad16-cc418b75eda0/prod/gidlean/progress-playlist.m3u8
-#N#http://live11.cookietv.com/live/c2c4c9be-de30-4059-a430-dac9ed238eac/prod/gidlean/progress-playlist.m3u8
-#N#http://live11.cookietv.com/live/f242a165-5f61-42d5-bfb7-3e1b21c6a3b1/prod/gidlean/progress-playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="cookietv", 5 Plus |cookietv 
-https://d39q34kqnktegw.cloudfront.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/progress-playlist.m3u8
-http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
-http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K |CF
-https://rebrand.ly/chK-cf
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K' |CF
-https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
-https://d3cs5y5559s57s.cloudfront.net/live/channelk-7046.ts
-
-#EXTINF:-1, Cookie |cookietv
-https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
-#EXTINF:-1, Asia Drama |cookietv
-https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/chunklist.m3u8
-https://rebrand.ly/ck-adm
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qwmJBt1/Fortune-TV-1.png", Fortune TV |cookietv
-https://d39q34kqnktegw.cloudfront.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/gidlean/playlist.m3u8
-http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8
-http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/stream_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MRTV_new_logo.png/225px-MRTV_new_logo.png" group-title="cookietv", MRTV |cookietv
-https://d39q34kqnktegw.cloudfront.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/gidlean/playlist.m3u8
-http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MRTV_new_logo.png/225px-MRTV_new_logo.png" group-title="cookietv", MRTV* |cookietv
-https://d39q34kqnktegw.cloudfront.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8
-http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/gidlean/playlist.m3u8
-
-###https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.****
-###https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/chunklist.****
-#N#https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:172e104d-09f1-4d03-8f06-59fd5ae54fe5_service/playlist.m3u8
-#N#https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:8c0b7cd2-058a-4497-8680-ae4355c17e99_service/playlist.m3u8
-#N#https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:a069af10-b125-44fe-ad16-cc418b75eda0_service/playlist.m3u8
-#N#https://d39q34kqnktegw.cloudfront.net/live/8c0b7cd2-058a-4497-8680-ae4355c17e99/prod/manifest.mpd
-#N#https://d39q34kqnktegw.cloudfront.net/live/a069af10-b125-44fe-ad16-cc418b75eda0/prod/manifest.mpd
-
-+ + + + + MM /ooredoo + + + + +
-
-#EXTINF:-1 group-title="ooredoo", Mahar |ooredoo
-https://live.mahar.tv/channel/mahar-ooredoo.smil/mahar-ooredoo.m3u8
-#EXTINF:-1 group-title="ooredoo", Mahar |167.71
-http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8
-
-+ + + + + MM /MMnet + + + + +
-
-https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8
-#EXTINF:-1 group-title="MMnet", Eleven Media |MMnet
-https://l1-xl1.myanmarnet.com/relay/eleven/ch1/stream_hi/index.m3u8
-#EXTINF:-1, Mizzima TV |MMnet
-https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
-#EXTINF:-1, Mizzima TV' |MMnet
-https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_mobile/index.m3u8
-#EXTINF:-1 group-title="MMnet", mntv |MMNet
-https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
-
-+ + + + + MM/mptalive + + + + +
++ + + + + mptalive + + + + +
 
 EXTINF:-1 group-title="mptalive",Skynet Sport Plus
 https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1600347845~exp=9007200855088836~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=7875ad2f13fb6b2d3d71f7c23f9fc5228ddd1c89fc786e8c496448c5aa02611f
@@ -314,7 +314,7 @@ https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1
 EXTINF:-1 group-title="mptalive",Skynet Sport 6
 https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1600347845~exp=9007200855088836~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=7875ad2f13fb6b2d3d71f7c23f9fc5228ddd1c89fc786e8c496448c5aa02611f
 
-+ + + + + KH + + + + +
++ + + + + Kingtel + + + + +
 
 #EXTINF:-1 group-title="Kingtel",MRTV / HLUTTAW /28:8180
 http://220.158.149.28:8180/hls/TV00000000000000000089@HHZT
@@ -324,30 +324,30 @@ http://220.158.149.28:8180/live/TV00000000000000000089@HHZT
 http://220.158.149.28:8180/TV00000000000000000089@HHZT
 #EXTINF:-1,MRTV / HLUTTAW /28:8182
 http://220.158.149.28:8182/hls/TV00000000000000000089@HHZT.m3u8
-#EXTINF:-1,MRTV / HLUTTAW /14:9999
+#EXTINF:-1 group-title="Kingtel",MRTV / HLUTTAW /14:9999
 http://220.158.149.14:9999/live/TV00000000000000000089@HHZT
 
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mi.png",FARMER /28:8180
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mi.png" group-title="Kingtel",FARMER /28:8180
 http://220.158.149.28:8180/live/TV00000000000000000090@HHZT
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mi.png",FARMER /14:9999
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mi.png" group-title="Kingtel",FARMER /14:9999
 http://220.158.149.14:9999/live/TV00000000000000000090@HHZT
 
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png",CHANNEL 9 /28:8180
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png" group-title="Kingtel",CHANNEL 9 /28:8180
 http://220.158.149.28:8180/TV00000000000000000091@HHZT
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png",CHANNEL 9 //28:8180
 http://220.158.149.28:8180/live/TV00000000000000000091@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png",CHANNEL 9 /28:8182
 http://220.158.149.28:8182/hls/TV00000000000000000091@HHZT.m3u8
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png",CHANNEL 9 /14:9999
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png" group-title="Kingtel",CHANNEL 9 /14:9999
 http://220.158.149.14:9999/live/TV00000000000000000091@HHZT
 
-#EXTINF:-1,MIZZIMA TV /28:8180
+#EXTINF:-1 group-title="Kingtel",MIZZIMA TV /28:8180
 http://220.158.149.28:8180/hls/TV00000000000000000092@HHZT
 #EXTINF:-1,MIZZIMA TV //28:8180
 http://220.158.149.28:8180/live/TV00000000000000000092@HHZT
 #EXTINF:-1,MIZZIMA TV /28:8182
 http://220.158.149.28:8182/hls/TV00000000000000000092@HHZT.m3u8
-#EXTINF:-1,MIZZIMA TV /14:9999
+#EXTINF:-1 group-title="Kingtel",MIZZIMA TV /14:9999
 http://220.158.149.14:9999/live/TV00000000000000000092@HHZT
 
 #EXTINF:-1 group-title="Kingtel",BBC WORLD NEWS /25:8180
@@ -413,7 +413,7 @@ http://220.158.149.28:8182/hls/TV00000000000000000170@HHZT
 #EXTINF:-1 group-title="Kingtel",MIZZIMA TV' /14:9999
 http://220.158.149.14:9999/live/TV00000000000000000170@HHZT
 
-+ + + + + HBO + + + + + 
++ + + + + movies + + + + + 
 
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |org
 https://rebrand.ly/h-cin
@@ -631,7 +631,7 @@ http://ts.ec.cx:8080/a/hls1/hbosignature.m3u8
 #EXTINF:-1 group-title="HBO", CINEMAX |ec
 http://ts.ec.cx:8080/a/hls1/cinemax.m3u8
 
-+ + + + + HBO /offline + + + + +
++ + + + + movies /offline + + + + +
 
 http://www.stgiptv.online/session_dyos/dyos/server/hbohd.m3u8
 http://www.stgiptv.online/session_dyos/dyos/server/sighd.m3u8
