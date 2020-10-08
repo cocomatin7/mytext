@@ -143,10 +143,10 @@ https://rebrand.ly/chK-cf
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K' |CF
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 
-#EXTINF:-1 group-title="cookietv", Cookie |cookietv
+#EXTINF:-1 tvg-logo="https://rebrand.ly/cc-png" group-title="cookietv", Cookie |cookietv
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
 
-#EXTINF:-1, Asia Drama |cookietv
+#EXTINF:-1 tvg-logo="https://rebrand.ly/cc-png", Asia Drama |cookietv
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/chunklist.m3u8
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
 
