@@ -415,128 +415,128 @@ http://220.158.149.14:9999/live/TV00000000000000000170@HHZT
 
 + + + + + movies + + + + + 
 
-#EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |org
+#EXTINF:-1 tvg-id="Cinemax HD" group-title="movies", CINEMAX |org
 https://rebrand.ly/h-cin
-#EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO |org
+#EXTINF:-1 tvg-id="HBO HD", HBO |org
 https://rebrand.ly/h-boo
-#EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |org
+#EXTINF:-1 tvg-id="HBO Family HD", HBO FAMILY |org
 https://rebrand.ly/h-fam
-#EXTINF:-1 tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS |org
+#EXTINF:-1 tvg-id="HBO Hits HD", HBO HiTS |org
 https://rebrand.ly/h-hit
-#EXTINF:-1 tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE |org
+#EXTINF:-1 tvg-id="HBO Signature HD", HBO SIGNATURE |org
 https://rebrand.ly/h-sig
-#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |org (cf)
+#EXTINF:-1 tvg-id="RED BY HBO HD", RED BY HBO |org (cf)
 https://rebrand.ly/h-red-1
- EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO' |org* (cf)
+ EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO' |org* (cf)
 https://rebrand.ly/h-red-2
 
- EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO |CF
+ EXTINF:-1 tvg-id="HBO HD" group-title="movies", HBO |CF
 https://rebrand.ly/H-bo-cf
- EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |CF
+ EXTINF:-1 tvg-id="Cinemax HD", CINEMAX |CF
 https://rebrand.ly/H-ci-cf
- EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |CF
+ EXTINF:-1 tvg-id="HBO Family HD", HBO FAMILY |CF
 https://rebrand.ly/H-fa-cf
- EXTINF:-1 tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS |CF
+ EXTINF:-1 tvg-id="HBO Hits HD", HBO HiTS |CF
 https://rebrand.ly/H-hi-cf
- EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |CF
+ EXTINF:-1 tvg-id="RED BY HBO HD", RED BY HBO |CF
 https://rebrand.ly/H-re-cf
- EXTINF:-1 tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE |CF
+ EXTINF:-1 tvg-id="HBO Signature HD" group-title="movies", HBO SIGNATURE |CF
 https://rebrand.ly/H-si-cf
 
- EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |SE1
+ EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |SE1
 https://rebrand.ly/H-re-se1
- EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |SE2*
+ EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |SE2*
 https://rebrand.ly/H-re-se2
- EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |SE3*
+ EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |SE3*
 https://rebrand.ly/H-re-se3
- EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |IP*
+ EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |IP*
 https://rebrand.ly/H-re-ip
 
-#EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX ||org
+#EXTINF:-1 tvg-id="Cinemax HD" group-title="movies", CINEMAX ||org
 https://rebrand.ly/H-ci-02
-#EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO ||org
+#EXTINF:-1 tvg-id="HBO HD", HBO ||org
 https://rebrand.ly/H-bo-02
-#EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY ||org
+#EXTINF:-1 tvg-id="HBO Family HD", HBO FAMILY ||org
 https://rebrand.ly/H-fa-02
-#EXTINF:-1 tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS ||org
+#EXTINF:-1 tvg-id="HBO Hits HD", HBO HiTS ||org
 https://rebrand.ly/H-hi-02
-#EXTINF:-1 tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE ||org
+#EXTINF:-1 tvg-id="HBO Signature HD", HBO SIGNATURE ||org
 https://rebrand.ly/H-si-02
-#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |org'
+#EXTINF:-1 tvg-id="RED BY HBO HD", RED BY HBO |org'
 https://rebrand.ly/H-re-01
- EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO ||org*
+ EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO ||org*
 https://rebrand.ly/H-re-02
 
- EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |alt
+ EXTINF:-1 tvg-id="Cinemax HD" group-title="movies", CINEMAX |alt
 https://rebrand.ly/h-ci-alt
- EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO |alt
+ EXTINF:-1 tvg-id="HBO HD", HBO |alt
 https://rebrand.ly/h-bo-alt
- EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |alt
+ EXTINF:-1 tvg-id="HBO Family HD", HBO FAMILY |alt
 https://rebrand.ly/h-fa-alt
- EXTINF:-1 tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS |alt
+ EXTINF:-1 tvg-id="HBO Hits HD", HBO HiTS |alt
 https://rebrand.ly/h-hi-alt
- EXTINF:-1 tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE |alt
+ EXTINF:-1 tvg-id="HBO Signature HD", HBO SIGNATURE |alt
 https://rebrand.ly/h-si-alt
- EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |alt
+ EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |alt
 https://rebrand.ly/h-re-alt
 
 
 http://103.130.186.138:8800/oxygenplay/hbo/index.m3u8
 https://airam-tafir.github.io/hls/movie/hbo-sig.m3u8
 
- EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO |boxmv (alt)
+ EXTINF:-1 tvg-id="HBO HD" group-title="movies", HBO |boxmv (alt)
 http://boxmovie-th.com/app-api-android/hbo/hbohd2/playlist.m3u8
- EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |boxmv (alt)
+ EXTINF:-1 tvg-id="Cinemax HD", CINEMAX |boxmv (alt)
 http://boxmovie-th.com/app-api-android/hbo/maxhd2/playlist.m3u8
- EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |boxmv (alt)
+ EXTINF:-1 tvg-id="HBO Family HD", HBO FAMILY |boxmv (alt)
 http://boxmovie-th.com/app-api-android/hbo/famhd2/playlist.m3u8
- EXTINF:-1 tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS |boxmv (alt)
+ EXTINF:-1 tvg-id="HBO Hits HD", HBO HiTS |boxmv (alt)
 http://boxmovie-th.com/app-api-android/hbo/hitshd2/playlist.m3u8
- EXTINF:-1 tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE |boxmv (alt)
+ EXTINF:-1 tvg-id="HBO Signature HD", HBO SIGNATURE |boxmv (alt)
 http://boxmovie-th.com/app-api-android/hbo/sighd2/playlist.m3u8
- EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |boxmv (alt)
+ EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |boxmv (alt)
 http://boxmovie-th.com/app-api-android/hbo/redhd2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |dootv (alt)
+#EXTINF:-1 tvg-id="Cinemax HD" group-title="movies", CINEMAX |dootv (alt)
 http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO |dootv (alt)
+#EXTINF:-1 tvg-id="HBO HD", HBO |dootv (alt)
 http://dootvthai-hd.com/cmd/api/hbo/hbohd/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |dootv (alt)
+#EXTINF:-1 tvg-id="HBO Family HD", HBO FAMILY |dootv (alt)
 http://dootvthai-hd.com/cmd/api/hbo/famhd/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS |dootv (alt)
+#EXTINF:-1 tvg-id="HBO Hits HD", HBO HiTS |dootv (alt)
 http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE |dootv (alt)
+#EXTINF:-1 tvg-id="HBO Signature HD", HBO SIGNATURE |dootv (alt)
 http://dootvthai-hd.com/cmd/api/hbo/sighd/playlist.m3u8
-#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |dootv (alt)
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |dootv (alt)
 http://dootvthai-hd.com/cmd/api/hbo/red/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |TDB (alt)
+#EXTINF:-1 tvg-id="Cinemax HD" group-title="movies", CINEMAX |TDB (alt)
 https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/maxhd/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO |TDB (alt)
+#EXTINF:-1 tvg-id="HBO HD", HBO |TDB (alt)
 https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/hbohd/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |TDB (alt)
+#EXTINF:-1 tvg-id="HBO Family HD", HBO FAMILY |TDB (alt)
 https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/famhd/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS |TDB (alt)
+#EXTINF:-1 tvg-id="HBO Hits HD", HBO HiTS |TDB (alt)
 https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/hitshd/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE |TDB (alt)
+#EXTINF:-1 tvg-id="HBO Signature HD", HBO SIGNATURE |TDB (alt)
 https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/sighd/playlist.m3u8
-#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |TDB (alt)
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |TDB (alt)
 https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/red/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO |mkc
+#EXTINF:-1 tvg-id="HBO HD" group-title="movies", HBO |mkc
 https://mkctv.net/josmkc/hbo.m3u8
-#EXTINF:-1 tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS |mkc
+#EXTINF:-1 tvg-id="HBO Hits HD", HBO HiTS |mkc
 https://mkctv.net/josmkc/hbohits.m3u8
-#EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |mkc
+#EXTINF:-1 tvg-id="HBO Family HD", HBO FAMILY |mkc
 https://mkctv.net/josmkc/hbofam.m3u8
-#EXTINF:-1 tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE |mkc
+#EXTINF:-1 tvg-id="HBO Signature HD", HBO SIGNATURE |mkc
 https://mkctv.net/josmkc/hbosig.m3u8
-#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |mkc
+#EXTINF:-1 tvg-id="RED BY HBO HD", RED BY HBO |mkc
 https://mkctv.net/josmkc/red.m3u8
-#EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |mkc
+#EXTINF:-1 tvg-id="Cinemax HD" group-title="movies", CINEMAX |mkc
 https://mkctv.net/josmkc/cinemax.m3u8
 
-#EXTINF:-1 tvg-id="HBO HD",HBO |db
+#EXTINF:-1 tvg-id="HBO HD" group-title="movies",HBO |db
 https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8?dl=1
 #EXTINF:-1 tvg-id="HBO Signature HD",HBO Signature |db
 https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
@@ -546,65 +546,65 @@ https://www.dropbox.com/s/y1p3h8qlgfvctx8/HBOHITSS.m3u8?dl=1
 https://www.dropbox.com/s/5u8m1owjbwvnlqf/HBOFAM.m3u8?dl=1
 #EXTINF:-1 tvg-id="Cinemax HD",Cinemax |db
 https://www.dropbox.com/s/nm9vobcwjc1wh6i/CINEMAXX.m3u8?dl=1
-#EXTINF:-1 tvg-id="RED BY HBO HD",RED by HBO |db
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies",RED by HBO |db
 https://www.dropbox.com/s/1wmlsklnt5xcfie/REDX.m3u8?dl=1
 
-#EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |fdtv
+#EXTINF:-1 tvg-id="Cinemax HD" group-title="movies", CINEMAX |fdtv
 http://fdtvapps.xyz/channel/cinemax.m3u8
-#EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO |fdtv
+#EXTINF:-1 tvg-id="HBO HD", HBO |fdtv
 http://fdtvapps.xyz/channel/hbo.m3u8
-#EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |fdtv
+#EXTINF:-1 tvg-id="HBO Family HD", HBO FAMILY |fdtv
 http://fdtvapps.xyz/channel/hbofam.m3u8
-#EXTINF:-1 tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS |fdtv
+#EXTINF:-1 tvg-id="HBO Hits HD", HBO HiTS |fdtv
 http://fdtvapps.xyz/channel/hbohits.m3u8
-#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |fdtv
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |fdtv
 http://fdtvapps.xyz/channel/red.m3u8
 
 http://me.zichannels.my.id/ch/family.m3u8
 http://me.zichannels.my.id/ch/hbo.m3u8
 http://me.zichannels.my.id/ch/hits.m3u8
 http://me.zichannels.my.id/ch/max.m3u8
-#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |me
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |me
 http://me.zichannels.my.id/ch/red.m3u8
 http://me.zichannels.my.id/ch/sighd.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |ktu
+#EXTINF:-1 tvg-id="Cinemax HD" group-title="movies", CINEMAX |ktu
 https://niklive.com/live/ktu/cinemax/playlist.m3u8
-#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |ktu
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |ktu
 https://niklive.com/live/ktu/red_hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO |wjb
+#EXTINF:-1 tvg-id="HBO HD" group-title="movies", HBO |wjb
 http://tv.wajabae.com/uji/hbo.m3u8
-#EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |wjb
+#EXTINF:-1 tvg-id="Cinemax HD", CINEMAX |wjb
 http://wajabae.com/tv/cinemax.m3u8
-#EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |wjb
+#EXTINF:-1 tvg-id="HBO Family HD", HBO FAMILY |wjb
 http://wajabae.com/tv/hbo_family.m3u8
-#EXTINF:-1 tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS |wjb
+#EXTINF:-1 tvg-id="HBO Hits HD", HBO HiTS |wjb
 http://wajabae.com/tv/hbo_hits.m3u8
-#EXTINF:-1 tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE |wjb
+#EXTINF:-1 tvg-id="HBO Signature HD", HBO SIGNATURE |wjb
 http://wajabae.com/tv/hbo_sig.m3u8
-#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |wjb
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |wjb
 http://wajabae.com/tv/red_hbo.m3u8
 
-#EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |onweb
+#EXTINF:-1 tvg-id="HBO Family HD" group-title="movies", HBO FAMILY |onweb
 https://zaltvku.imfast.io/family_onweb.m3u8
 https://zaltvku.imfast.io/HBO.m3u8 < N?
-#EXTINF:-1 tvg-id="HBO HD" group-title="HBO", HBO |onweb
+#EXTINF:-1 tvg-id="HBO HD", HBO |onweb
 https://zaltvku.imfast.io/hbo_onweb.m3u8
-#EXTINF:-1 tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |zaltvku
+#EXTINF:-1 tvg-id="HBO Family HD", HBO FAMILY |zaltvku
 https://zaltvku.imfast.io/HBOFAM.m3u8
-#EXTINF:-1 tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS |zaltvku
+#EXTINF:-1 tvg-id="HBO Hits HD", HBO HiTS |zaltvku
 https://zaltvku.imfast.io/HBOHITS.m3u8
-#EXTINF:-1 tvg-id="Cinemax HD" group-title="HBO", CINEMAX |zaltvku
+#EXTINF:-1 tvg-id="Cinemax HD", CINEMAX |zaltvku
 https://zaltvku.imfast.io/HBOMAX.m3u8
-#EXTINF:-1 tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE |zaltvku
+#EXTINF:-1 tvg-id="HBO Signature HD", HBO SIGNATURE |zaltvku
 https://zaltvku.imfast.io/HBOSIG.m3u8
-#EXTINF:-1 tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS |onweb
+#EXTINF:-1 tvg-id="HBO Hits HD", HBO HiTS |onweb
 https://zaltvku.imfast.io/hits_onweb.m3u8
 https://zaltvku.imfast.io/RED.m3u8 < N?
-#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |onweb (cf)
+#EXTINF:-1 tvg-id="RED BY HBO HD", RED BY HBO |onweb (cf)
 https://zaltvku.imfast.io/red_onweb.m3u8
-#EXTINF:-1 tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE |onweb
+#EXTINF:-1 tvg-id="HBO Signature HD" group-title="movies", HBO SIGNATURE |onweb
 https://zaltvku.imfast.io/sig_onweb.m3u8
 
 https://github.com/amarnettv/amarnettv.github.io/tree/master/channels
@@ -613,22 +613,22 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
 
-#EXTINF:-1,Transformers 1(2007)
+#EXTINF:-1 group-title="movies",Transformers 1(2007)
 https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513413855/1513413855_720.mp4
 #EXTINF:-1,Transformers 2 Revenge Of The Fallen(2009)
 https://glus-st.mthcdn.com/stream/video02/2017/12/17/1513487216/1513487216_720.mp4
 #EXTINF:-1,Transformers 3 Dark Of The Moon(2011)
 https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513413876/1513413876_480.mp4
-#EXTINF:-1,Transformers 4 Age Of Extinction(2014)
+#EXTINF:-1 group-title="movies",Transformers 4 Age Of Extinction(2014)
 https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513434647/1513434647_480.mp4
 
-#EXTINF:-1 group-title="HBO", HBO |ec
+#EXTINF:-1 group-title="movies", HBO |ec
 http://ts.ec.cx:8080/a/hls1/hbo.m3u8
-#EXTINF:-1 group-title="HBO", HBO FAMILY |ec
+#EXTINF:-1, HBO FAMILY |ec
 http://ts.ec.cx:8080/a/hls1/hbofamily.m3u8
-#EXTINF:-1 group-title="HBO", HBO SIGNATURE |ec
+#EXTINF:-1, HBO SIGNATURE |ec
 http://ts.ec.cx:8080/a/hls1/hbosignature.m3u8
-#EXTINF:-1 group-title="HBO", CINEMAX |ec
+#EXTINF:-1 group-title="movies", CINEMAX |ec
 http://ts.ec.cx:8080/a/hls1/cinemax.m3u8
 
 + + + + + movies /offline + + + + +
@@ -640,30 +640,30 @@ http://www.stgiptv.online/session_dyos/dyos/server/famhd.m3u8
 http://www.stgiptv.online/session_dyos/dyos/server/maxhd.m3u8
 http://www.stgiptv.online/session_dyos/dyos/server/red.m3u8
 
- tvg-id="Cinemax HD" group-title="HBO",Cinemax |TH
+ tvg-id="Cinemax HD" group-title="movies",Cinemax |TH
 https://ztvthai.online/izeetv/forapptreev/cinemax.m3u8
-#EXTINF:-1 tvg-id="HBO HD" group-title="HBO",HBO |TH
+#EXTINF:-1 tvg-id="HBO HD",HBO |TH
 https://ztvthai.online/izeetv/forapptreev/hbo-hd.m3u8
- tvg-id="HBO Family HD" group-title="HBO",HBO Family |TH
+ tvg-id="HBO Family HD",HBO Family |TH
 https://ztvthai.online/izeetv/forapptreev/hbo-fam.m3u8
- tvg-id="HBO Hits HD" group-title="HBO",HBO Hits |TH
+ tvg-id="HBO Hits HD",HBO Hits |TH
 https://ztvthai.online/izeetv/forapptreev/hbo-hits.m3u8
- tvg-id="HBO Signature HD" group-title="HBO",HBO Signature |TH
+ tvg-id="HBO Signature HD",HBO Signature |TH
 https://ztvthai.online/izeetv/forapptreev/hbo-sig.m3u8
- tvg-id="RED BY HBO HD" group-title="HBO",HBO Red |TH
+ tvg-id="RED BY HBO HD" group-title="movies",HBO Red |TH
 https://ztvthai.online/izeetv/forapptreev/hbo-red.m3u8
 
- tvg-id="Cinemax HD" group-title="HBO", CINEMAX /ID
+ tvg-id="Cinemax HD" group-title="movies", CINEMAX /ID
 http://iptv-wow.my.id/tv/hbohd/m3u/max.m3u8
- tvg-id="HBO HD" group-title="HBO", HBO /ID
+ tvg-id="HBO HD", HBO /ID
 http://iptv-wow.my.id/tv/hbohd/m3u/hbo.m3u8
- tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY /ID
+ tvg-id="HBO Family HD", HBO FAMILY /ID
 http://iptv-wow.my.id/tv/hbohd/m3u/fam.m3u8
- tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS /ID
+ tvg-id="HBO Hits HD", HBO HiTS /ID
 http://iptv-wow.my.id/tv/hbohd/m3u/hits.m3u8
- tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE /ID
+ tvg-id="HBO Signature HD", HBO SIGNATURE /ID
 http://iptv-wow.my.id/tv/hbohd/m3u/sig.m3u8
- tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO /ID
+ tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO /ID
 http://iptv-wow.my.id/tv/hbohd/m3u/red.m3u8
 
 https://iptv.burhansyam.com/hbo.m3u8
@@ -674,30 +674,30 @@ https://iptv.burhansyam.com/hbotest/max.m3u8
 https://iptv.burhansyam.com/hbotest/red.m3u8
 https://iptv.burhansyam.com/hbotest/sig.m3u8
 
- tvg-id="HBO Family HD" group-title="HBO", HBO FAMILY |iamntp
+ tvg-id="HBO Family HD" group-title="movies", HBO FAMILY |iamntp
 http://www.iamntp.com/tv/link/family_onweb.m3u8
- tvg-id="HBO HD" group-title="HBO", HBO |iamntp
+ tvg-id="HBO HD", HBO |iamntp
 http://www.iamntp.com/tv/link/hbo_onweb.m3u8
- tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS |iamntp
+ tvg-id="HBO Hits HD", HBO HiTS |iamntp
 http://www.iamntp.com/tv/link/hits_onweb.m3u8
- tvg-id="Cinemax HD" group-title="HBO", CINEMAX |iamntp
+ tvg-id="Cinemax HD", CINEMAX |iamntp
 http://www.iamntp.com/tv/link/max_onweb.m3u
- tvg-id="RED BY HBO HD" group-title="HBO", Red By HBO |iamntp (cf)
+ tvg-id="RED BY HBO HD", Red By HBO |iamntp (cf)
 http://www.iamntp.com/tv/link/red_onweb.m3u8
- tvg-id="HBO Signature HD" group-title="HBO", HBO SIGNATURE |iamntp
+ tvg-id="HBO Signature HD" group-title="movies", HBO SIGNATURE |iamntp
 http://www.iamntp.com/tv/link/sig_onweb.m3u8
 
- tvg-id="Cinemax HD" group-title="HBO", Cinemax /onweb
+ tvg-id="Cinemax HD" group-title="movies", Cinemax /onweb
 http://www.iamntp.com/hbo/max_onweb.m3u8
- tvg-id="HBO HD" group-title="HBO", HBO /onweb
+ tvg-id="HBO HD", HBO /onweb
 http://www.iamntp.com/hbo/hbo_onweb.m3u8
- tvg-id="HBO Family HD" group-title="HBO", HBO Family /onweb
+ tvg-id="HBO Family HD", HBO Family /onweb
 http://www.iamntp.com/hbo/family_onweb.m3u8
- tvg-id="HBO Hits HD" group-title="HBO", HBO HiTS /onweb
+ tvg-id="HBO Hits HD", HBO HiTS /onweb
 http://www.iamntp.com/hbo/hits_onweb.m3u8
- tvg-id="HBO Signature HD" group-title="HBO", HBO Signature /onweb
+ tvg-id="HBO Signature HD", HBO Signature /onweb
 http://www.iamntp.com/hbo/sig_onweb.m3u8
- tvg-id="RED BY HBO HD" group-title="HBO", Red By HBO /onweb
+ tvg-id="RED BY HBO HD" group-title="movies", Red By HBO /onweb
 http://www.iamntp.com/hbo/red_onweb.m3u8
 
 + + + + + ID + + + + +
@@ -710,17 +710,17 @@ https://rebrand.ly/fACT-62
 https://rebrand.ly/fFAM-62
 #EXTINF:-1 tvg-id="FOX Movies HD",Fox Movies |ID
 https://rebrand.ly/fPRE-62
-#EXTINF:-1 group-title="HBO", HBO |ID 
+#EXTINF:-1 group-title="movies", HBO |ID 
 https://rebrand.ly/HB-195
-#EXTINF:-1 tvg-id="HBO Family HD", HBO Family |ID
+#EXTINF:-1 tvg-id="HBO Family HD" group-title="movies", HBO Family |ID
 https://rebrand.ly/FAM-195
-#EXTINF:-1 tvg-id="HBO Hits HD", HBO HiTS |ID
+#EXTINF:-1 tvg-id="HBO Hits HD" group-title="movies", HBO HiTS |ID
 https://rebrand.ly/HIT-195
-#EXTINF:-1 tvg-id="HBO Signature HD", HBO Signature |ID
+#EXTINF:-1 tvg-id="HBO Signature HD" group-title="movies", HBO Signature |ID
 https://rebrand.ly/SIG-195
-#EXTINF:-1 tvg-id="RED BY HBO HD", Red By HBO |ID
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", Red By HBO |ID
 https://rebrand.ly/RED-62
-#EXTINF:-1, HBO IN |ID
+#EXTINF:-1 group-title="movies", HBO IN |ID
 https://rebrand.ly/HB-IN-103
 #EXTINF:-1, & Pic |ID
 https://rebrand.ly/nPI-103
@@ -6599,7 +6599,7 @@ https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_PremierHD5_720p/Chunklist.m3u8
 
-#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="HBO", RED BY HBO |doomovie-hd
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |doomovie-hd
 https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
 
 https://www.livedoomovies.com/02_SabaideeTV_720p/chunklist.m3u8
