@@ -997,6 +997,21 @@ https://livecdn.fptplay.net/world/nhkworld_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VN|ftp",CNA |ftp
 https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
 
++ + + + + VN|htv + + + + +
+
+#EXTINF:-1 group-title="VN|htv",ASIAN FOOD NETWORK |htv
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:-1,CHANNEL V |htv
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+#EXTINF:-1,Channel V |htv
+http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8
+#EXTINF:-1,FOX FAMILY MOVIES |htv
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTINF:-1,FOX MOVIES |htv
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="VN|htv",PARAMOUNT CHANNEL |htv
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+
 + + + + + VN|rtp + + + + +
 
 #EXTINF:-1 tvg-id="Asian Food Network" group-title="VN|rtp",Asian Food Network (HD 6.5Mbps) |rtp
