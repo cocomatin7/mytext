@@ -260,12 +260,15 @@ https://live.mahar.tv/channel/mahar-web.smil/chunklist.m3u8
 https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8
 #EXTINF:-1 group-title="MMnet", Eleven Media |MMnet
 https://l1-xl1.myanmarnet.com/relay/eleven/ch1/stream_hi/index.m3u8
+https://l1-xl1.myanmarnet.com/relay/eleven/ch1/stream.m3u8
 #EXTINF:-1, Mizzima TV |MMnet
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
-#EXTINF:-1, Mizzima TV' |MMnet
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_mobile/index.m3u8
+https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream.m3u8
 #EXTINF:-1 group-title="MMnet", mntv |MMNet
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 
 + + + + + mcsh.xyz:8080 + + + + +
 
