@@ -6968,23 +6968,7 @@ http://188.40.76.108:25461/get.php?username=mytv01&password=uSIRzmks51&type=m3u 
 
 + + + + + dragoniptv + + + + +
 
-#EXTINF:-1 group-title="dragoniptv",VIP CN: ????
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/29081.m3u8
-#EXTINF:-1,VIP CN: ????
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/29061.m3u8
-#EXTINF:-1,VIP CN: ANHUI
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/29035.m3u8
-#EXTINF:-1,VIP CN: AXN
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/29010.m3u8
-#EXTINF:-1,VIP CN: BEIJING
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/29034.m3u8
-#EXTINF:-1,VIP CN: BS-TBS
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/29021.m3u8
-#EXTINF:-1,VIP CN: BS0
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/29000.m3u8
-#EXTINF:-1,VIP CN: CBC YOYO
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/28999.m3u8
-#EXTINF:-1,VIP CN: CCTV1
+#EXTINF:-1 group-title="dragoniptv",VIP CN: CCTV1
 http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/29022.m3u8
 #EXTINF:-1,VIP CN: CCTV2
 http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/29079.m3u8
@@ -7034,12 +7018,6 @@ http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/29001.m3u8
 http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/29006.m3u8
 #EXTINF:-1,VIP CN: DISNEY
 http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/29007.m3u8
-#EXTINF:-1,VIP CN: Fox Sports Asia 1 FHD
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/30045.m3u8
-#EXTINF:-1,VIP CN: Fox Sports Asia 2 FHD
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/30042.m3u8
-#EXTINF:-1,VIP CN: Fox Sports Asia 3 FHD
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/30040.m3u8
 #EXTINF:-1,VIP CN: First Movie HD
 http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/30053.m3u8
 #EXTINF:-1,VIP CN: GUANGDONG
@@ -7140,48 +7118,6 @@ http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33219.m3u8
 http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33225.m3u8
 #EXTINF:-1,VIP CN: CCTV 5 FHD
 http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33226.m3u8
-#EXTINF:-1,VIP CN: Newtv
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33216.m3u8
-#EXTINF:-1,VIP CN: NewTV Action FHD
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33228.m3u8
-#EXTINF:-1,VIP CN: Newtv Boutique drama
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33215.m3u8
-#EXTINF:-1,VIP CN: Newtv Chinese Kung Fu
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33214.m3u8
-#EXTINF:-1,VIP CN: Newtv Costume Theater
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33213.m3u8
-#EXTINF:-1,VIP CN: Newtv Family Theater
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33212.m3u8
-#EXTINF:-1,VIP CN: NewTV Fighting Theater
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33218.m3u8
-#EXTINF:-1,VIP CN: NewTV Fine Sports FHD
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33227.m3u8
-#EXTINF:-1,VIP CN: Newtv Gold Variety
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33211.m3u8
-#EXTINF:-1,VIP CN: Newtv Healthy
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33210.m3u8
-#EXTINF:-1,VIP CN: Newtv Love Comedy
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33209.m3u8
-#EXTINF:-1,VIP CN: Newtv Military Review
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33208.m3u8
-#EXTINF:-1,VIP CN: Newtv Military Theater
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33207.m3u8
-#EXTINF:-1,VIP CN: Newtv Overseas Theatre
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33206.m3u8
-#EXTINF:-1,VIP CN: NewTV Premium Sports FHD
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33217.m3u8
-#EXTINF:-1,VIP CN: Newtv star blockbuster
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33205.m3u8
-#EXTINF:-1,VIP CN: Newtv Suspense
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33204.m3u8
-#EXTINF:-1,VIP CN: TV drama channel
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33222.m3u8
-#EXTINF:-1,VIP CN: Xiamen Film & TV
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33221.m3u8
-#EXTINF:-1,VIP CN: Xiamen Life
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33220.m3u8
-#EXTINF:-1,VIP CN: Yan'an 1
-http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/33202.m3u8
 
 #EXTINF:-1,VIP ID: Asian Food Channel ID
 http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/28812.m3u8
