@@ -7492,7 +7492,7 @@ http://ytv.plus:25461/diegotv/1234/3618
 
 + + + + + iptvmate + + + + 
 
-#EXTINF:-1 tvg-id="" tvg-name="13 Siam TV" tvg-language="Thai" tvg-logo="https://img.iptvmate.net/5e9331bfce242243e92511bf.png",13 Siam TV
+#EXTINF:-1 tvg-id="" tvg-name="13 Siam TV" tvg-language="Thai" tvg-logo="https://img.iptvmate.net/5e9331bfce242243e92511bf.png" group-title="iptvmate",13 Siam TV
 https://ch.iptvmate.net/5e9331bfce242243e92511bf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNA (SG) (Opt-1)" tvg-language="" tvg-logo="https://img.iptvmate.net/5e9334929b86e279675cb5db.png",CNA (SG) (Opt-1)
 https://ch.iptvmate.net/5e9334929b86e279675cb5db.m3u8
@@ -7825,7 +7825,7 @@ https://ch.iptvmate.net/5e93693042cab83dde100f3c.m3u8
 https://ch.iptvmate.net/5e93694e42cab83dde100f3d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNBC [UK]" tvg-language="" tvg-logo="https://img.iptvmate.net/5e936a7936123957627ff49f.png",CNBC [UK]
 https://ch.iptvmate.net/5e936a7936123957627ff49f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-language="" tvg-logo="https://img.iptvmate.net/5e936a8236123957627ff4a0.png",CNN
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-language="" tvg-logo="https://img.iptvmate.net/5e936a8236123957627ff4a0.png" group-title="iptvmate",CNN
 https://ch.iptvmate.net/5e936a8236123957627ff4a0.m3u8
 
 + + + + + outdated + + + + 
