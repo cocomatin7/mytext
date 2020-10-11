@@ -87,11 +87,9 @@ http://203.81.84.130/hls/mwd_variety/index.m3u8
 
 EXTINF:-1 group-title="cdn", mitv /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(3794b443-0bab-4f1c-bea5-3bdf37cf588a)/manifest.mpd
-##https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel/3794b443-0bab-4f1c-bea5-3bdf37cf588a/chunklist.m3u8
 
 EXTINF:-1 group-title="cdn", MRTV Ent /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(e02c93f2-33d9-458b-bf23-a2717b5f59a8)/manifest.mpd
-https://rebrand.ly/me-gn
 
 EXTINF:-1 group-title="cdn", MRTV Farmer Channel /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(fca755f5-5090-41fd-bf2c-1c0049947d25)/manifest.mpd
@@ -99,8 +97,11 @@ https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(fca755f5-5090-4
 EXTINF:-1 group-title="cdn", MRTV NRC /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(1095e49d-1c13-47fc-8174-546061a17c3b)/manifest.mpd
 
-, Mahar TV /iptvmate
-http://maharlive.b-cdn.net/stream.m3u8
+https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel/3794b443-0bab-4f1c-bea5-3bdf37cf588a/chunklist.m3u8
+https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(3794b443-0bab-4f1c-bea5-3bdf37cf588a)/manifest.mpd
+https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(e02c93f2-33d9-458b-bf23-a2717b5f59a8)/manifest.mpd
+https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(fca755f5-5090-41fd-bf2c-1c0049947d25)/manifest.mpd
+https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(1095e49d-1c13-47fc-8174-546061a17c3b)/manifest.mpd
 
 + + + + + cookie + + + + +
 
@@ -245,15 +246,6 @@ https://rebrand.ly/mc-mr4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/YTV_Logo.png/150px-YTV_Logo.png" group-title="mcsh", YTV |mc
 https://rebrand.ly/mc-yt
 
-+ + + + + mahar + + + + +
-
-#EXTINF:-1 group-title="mahar", Mahar |167.71
-http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8
-#EXTINF:-1 group-title="mahar", Mahar |ooredoo
-https://live.mahar.tv/channel/mahar-ooredoo.smil/mahar-ooredoo.m3u8
-#EXTINF:-1 group-title="mahar", Mahar |web
-https://live.mahar.tv/channel/mahar-web.smil/chunklist.m3u8
-
 + + + + + MMnet + + + + +
 
 https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8
@@ -276,6 +268,16 @@ https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/chunks.m3u8
 https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/playlist.m3u8
 
 https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/dvb.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="misc", Mahar |167.71
+http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8
+#EXTINF:-1, Mahar |ooredoo
+https://live.mahar.tv/channel/mahar-ooredoo.smil/mahar-ooredoo.m3u8
+#EXTINF:-1 group-title="misc", Mahar |web
+https://live.mahar.tv/channel/mahar-web.smil/chunklist.m3u8
+
+, Mahar TV /iptvmate
+http://maharlive.b-cdn.net/stream.m3u8
 
 EXTINF:-1 group-title="misc",MVTV Myanmar
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/plalist.m3u8
