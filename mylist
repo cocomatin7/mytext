@@ -193,7 +193,7 @@ http://edge-stream-07.otv.co.th/livestream/MITV.stream/playlist.m3u8
 https://edge-stream-05.otv.co.th/mmplay/mntv/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/MNTV.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV | OTV
+ EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV | OTV
 https://edge-stream-05.otv.co.th/mmplay/mrtv/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/MRTV.stream/playlist.m3u8
 
@@ -285,6 +285,8 @@ http://maharlive.b-cdn.net/stream.m3u8
 
 EXTINF:-1 group-title="misc",MVTV Myanmar
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/plalist.m3u8
+
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w782196391.m3u8
 
 + + + + + mptalive + + + + +
 
