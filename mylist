@@ -100,7 +100,9 @@ https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(1095e49d-1c13-4
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel/3794b443-0bab-4f1c-bea5-3bdf37cf588a/chunklist.m3u8
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(3794b443-0bab-4f1c-bea5-3bdf37cf588a)/manifest.mpd
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(e02c93f2-33d9-458b-bf23-a2717b5f59a8)/manifest.mpd
+https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(e02c93f2-33d9-458b-bf23-a2717b5f59a8)/1600330851547item-06item_init.m4i
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(fca755f5-5090-41fd-bf2c-1c0049947d25)/manifest.mpd
+https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(fca755f5-5090-41fd-bf2c-1c0049947d25)/1589515429431item-06item_init.m4i
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(1095e49d-1c13-47fc-8174-546061a17c3b)/manifest.mpd
 
 + + + + + cookie + + + + +
@@ -209,7 +211,7 @@ https://edge-stream-07.otv.co.th/livestream/Hluttaw.stream/playlist.m3u8
 
 + + + + + forever + + + + +
 
-#EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png" group-title="forever", Channel 7 |forever
+#EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png" group-title="forever", Channel7 |forever
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
 
