@@ -105,42 +105,44 @@ https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(1095e49d-1c13-4
 
 + + + + + cookie + + + + +
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="cookie", Cartoon Network |cookie 
-http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/playlist.m3u8
-http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cinemax HD" group-title="cookie",Cinemax MM |cookie
-http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/playlist.m3u8
-http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/progress-playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://rebrand.ly/5p-png" group-title="cookie", 5 Plus |cookie 
 https://d39q34kqnktegw.cloudfront.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/progress-playlist.m3u8
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://rebrand.ly/cc-png", Asia Drama |cookie
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/chunklist.m3u8
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="cookie", Cartoon Network |cookie 
+http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/playlist.m3u8
+http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png", Channel7 |cookie
 https://d39q34kqnktegw.cloudfront.net/live/8c0b7cd2-058a-4497-8680-ae4355c17e99/prod/gidlean/progress-playlist.m3u8
-DVB |cookie
-https://d39q34kqnktegw.cloudfront.net/live/f242a165-5f61-42d5-bfb7-3e1b21c6a3b1/prod/gidlean/progress-playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/97/f3/92/97f3927e75ee7651747bcfe4560ea98b.jpg", mntv |cookie
-https://d39q34kqnktegw.cloudfront.net/live/a069af10-b125-44fe-ad16-cc418b75eda0/prod/gidlean/progress-playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/channelk.jpg" group-title="cookie",Channel K |cookie
 https://rebrand.ly/chK-cf
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K' |cookie
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 
-#EXTINF:-1 tvg-logo="https://rebrand.ly/cc-png" group-title="cookie", Cookie |cookie
+#EXTINF:-1 tvg-id="Cinemax HD" group-title="cookie",Cinemax MM |cookie
+http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/playlist.m3u8
+http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://rebrand.ly/cc-png" group-title="cookie", Cookie return |cookie
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://rebrand.ly/cc-png", Asia Drama |cookie
-https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/chunklist.m3u8
-https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
+DVB |cookie
+https://d39q34kqnktegw.cloudfront.net/live/f242a165-5f61-42d5-bfb7-3e1b21c6a3b1/prod/gidlean/progress-playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qwmJBt1/Fortune-TV-1.png" group-title="cookie", Fortune TV |cookie
 https://d39q34kqnktegw.cloudfront.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/gidlean/playlist.m3u8
 http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/gidlean/playlist.m3u8
 http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/97/f3/92/97f3927e75ee7651747bcfe4560ea98b.jpg", mntv |cookie
+https://d39q34kqnktegw.cloudfront.net/live/a069af10-b125-44fe-ad16-cc418b75eda0/prod/gidlean/progress-playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MRTV_new_logo.png/225px-MRTV_new_logo.png" group-title="cookie", MRTV |cookie
 https://d39q34kqnktegw.cloudfront.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/gidlean/playlist.m3u8
@@ -283,6 +285,8 @@ EXTINF:-1 group-title="misc",MVTV Myanmar
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/plalist.m3u8
 
 + + + + + mptalive + + + + +
+
+https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8
 
 EXTINF:-1 group-title="mptalive",Skynet Sport Plus
 https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1600347845~exp=9007200855088836~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=7875ad2f13fb6b2d3d71f7c23f9fc5228ddd1c89fc786e8c496448c5aa02611f
