@@ -2311,8 +2311,59 @@ http://160.119.77.50/iptv/uk-itv4.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-more4.stream/playlist.m3u8
 http://160.119.77.50:80/iptv/sd-gmmchannel.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TH/160.119" usa
+#EXTINF:-1 group-title="TH/160.119", usa
 http://160.119.77.50/iptv/uk-usa.stream/playlist.m3u8
+
++ + + + + 198.98.55.16:80 + + + + +
+
+
+http://198.98.55.16:80/crtv.php?id=440 astro AWANI
+#EXTINF:-1 group-title="198.98",CCM
+http://198.98.55.16:80/crtv.php?id=441 
+http://198.98.55.16:80/crtv.php?id=442
+http://198.98.55.16:80/crtv.php?id=443 astro 
+#EXTINF:-1 group-title="198.98",astro SUPERSPORT
+http://198.98.55.16:80/crtv.php?id=444
+#EXTINF:-1,astro SUPERSPORT2
+http://198.98.55.16:80/crtv.php?id=445
+#EXTINF:-1,astro SUPERSPORT3
+http://198.98.55.16:80/crtv.php?id=446
+#EXTINF:-1,astro SUPERSPORT4
+http://198.98.55.16:80/crtv.php?id=447 
+#EXTINF:-1,CH U
+http://198.98.55.16:80/crtv.php?id=448 
+#EXTINF:-1,mediacorp 5
+http://198.98.55.16:80/crtv.php?id=449 
+astro AOD
+http://198.98.55.16:80/crtv.php?id=450 
+
+http://198.98.55.16:80/crtv.php?id=451 Hustler K- - 
+http://198.98.55.16:80/crtv.php?id=452
+http://198.98.55.16:80/crtv.php?id=453 P HD
+http://198.98.55.16:80/crtv.php?id=454
+http://198.98.55.16:80/crtv.php?id=455 < N
+http://198.98.55.16:80/crtv.php?id=456
+http://198.98.55.16:80/crtv.php?id=457
+http://198.98.55.16:80/crtv.php?id=458
+http://198.98.55.16:80/crtv.php?id=459 < xx
+
+http://198.98.55.16:80/crtv.php?id=462 < XX
+#EXTINF:-1,HBO IN
+http://198.98.55.16:80/crtv.php?id=464
+#EXTINF:-1,TEN 1
+http://198.98.55.16:80/crtv.php?id=466
+#EXTINF:-1,TEN 2
+http://198.98.55.16:80/crtv.php?id=467
+#EXTINF:-1,&Picture HD
+http://198.98.55.16:80/crtv.php?id=469
+#EXTINF:-1,Star World
+http://198.98.55.16:80/crtv.php?id=478
+#EXTINF:-1,ZEE TV
+http://198.98.55.16:80/crtv.php?id=482
+#EXTINF:-1,ZEE Classic
+http://198.98.55.16:80/crtv.php?id=485
+#EXTINF:-1 group-title="198.98",SBS Sports
+http://198.98.55.16:80/crtv.php?id=487
 
 + + + + + 203.150.107.30:8081 + + + + +
 
