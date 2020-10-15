@@ -85,7 +85,7 @@ http://203.81.84.130/hls/mwd_variety/index.m3u8
 
 + + + + + cdn-globalnet + + + + +
 
-EXTINF:-1 group-title="cdn", mitv /cdn
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/MITV_Myanmar.png/revision/latest?cb=20191211065310" group-title="cdn", mitv /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(3794b443-0bab-4f1c-bea5-3bdf37cf588a)/manifest.mpd
 
 EXTINF:-1 group-title="cdn", MRTV Ent /cdn
