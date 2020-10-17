@@ -514,6 +514,7 @@ https://rebrand.ly/h-re-alt
 http://103.130.186.138:8800/oxygenplay/hbo/index.m3u8
 https://airam-tafir.github.io/hls/movie/hbo-sig.m3u8
 
+
  EXTINF:-1 tvg-id="HBO HD" group-title="movies", HBO |boxmv (alt)
 http://boxmovie-th.com/app-api-android/hbo/hbohd2/playlist.m3u8
  EXTINF:-1 tvg-id="Cinemax HD", CINEMAX |boxmv (alt)
