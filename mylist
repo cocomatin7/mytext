@@ -514,8 +514,12 @@ https://rebrand.ly/h-si-alt
  EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |alt
 https://rebrand.ly/h-re-alt
 
-
+http://103.130.186.138:8800/oxygenplay/bloomberg/index.m3u8
+http://103.130.186.138:8800/oxygenplay/channelnewsasia/index.m3u8
+http://103.130.186.138:8800/oxygenplay/cnbc/index.m3u8
 http://103.130.186.138:8800/oxygenplay/hbo/index.m3u8
+http://103.130.186.138:8800/oxygenplay/nhkworld/index.m3u8
+
 https://airam-tafir.github.io/hls/movie/hbo-sig.m3u8
 
 
@@ -4959,14 +4963,24 @@ https://edge2.livedoohd.com/dolive/hits/chunks.m3u8
 + + + + + global.thunderbd.com + + + + +
 
 http://global.thunderbd.com/70/tracks-v1a1/mono.m3u8
+n.a.
 http://global.thunderbd.com/71/tracks-v1a1/mono.m3u8
+n.a.
 http://global.thunderbd.com/72/tracks-v1a1/mono.m3u8
+PTV Sports
 http://global.thunderbd.com/73/tracks-v1a1/mono.m3u8
+&TV
 http://global.thunderbd.com/74/tracks-v1a1/mono.m3u8
+n.a.
 http://global.thunderbd.com/75/tracks-v1a1/mono.m3u8
+ZEE CINEMA HD
 http://global.thunderbd.com/76/tracks-v1a1/mono.m3u8
-
-
+S MAX
+http://global.thunderbd.com/77/tracks-v1a1/mono.m3u8
+&flix
+http://global.thunderbd.com/78/tracks-v1a1/mono.m3u8
+e.r
+http://global.thunderbd.com/79/tracks-v1a1/mono.m3u8
 
 + + + + + https://itpolly.iptv.digijadoo.net + + + + +
 
