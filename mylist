@@ -514,12 +514,6 @@ https://rebrand.ly/h-si-alt
  EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |alt
 https://rebrand.ly/h-re-alt
 
-http://103.130.186.138:8800/oxygenplay/bloomberg/index.m3u8
-http://103.130.186.138:8800/oxygenplay/channelnewsasia/index.m3u8
-http://103.130.186.138:8800/oxygenplay/cnbc/index.m3u8
-http://103.130.186.138:8800/oxygenplay/hbo/index.m3u8
-http://103.130.186.138:8800/oxygenplay/nhkworld/index.m3u8
-
 https://airam-tafir.github.io/hls/movie/hbo-sig.m3u8
 
 
@@ -773,6 +767,18 @@ https://rebrand.ly/nPR-103
 https://rebrand.ly/assp-89
 #EXTINF:-1 group-title="ID", SCM |ID
 https://rebrand.ly/SCM-62
+
+#EXTINF:-1 group-title="ID",bloomberg
+http://103.130.186.138:8800/oxygenplay/bloomberg/index.m3u8
+#EXTINF:-1,channel news asia
+http://103.130.186.138:8800/oxygenplay/channelnewsasia/index.m3u8
+#EXTINF:-1,cnbc
+http://103.130.186.138:8800/oxygenplay/cnbc/index.m3u8
+#EXTINF:-1,hbo
+http://103.130.186.138:8800/oxygenplay/hbo/index.m3u8
+#EXTINF:-1 group-title="ID",nhk world
+http://103.130.186.138:8800/oxygenplay/nhkworld/index.m3u8
+
 
 #EXTINF:-1 group-title="103.47",(INDO)FOX FAMILY MOVIES
 http://103.47.132.165/PLTV/88888888/224/3221227117/1.m3u8
