@@ -299,6 +299,7 @@ https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/plalist.m3u8
 
 https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w782196391.m3u8
 
+
 https://livestream.com/accounts/15604755/events/4419934/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false
 
 https://api.new.livestream.com/accounts/15604755/events/4419934/live.m3u8
@@ -438,6 +439,7 @@ http://220.158.149.14:9999/live/TV00000000000000000169@HHZT
 
 #EXTINF:-1 group-title="Kingtel",MIZZIMA TV' /28:8180
 http://220.158.149.28:8180/hls/TV00000000000000000170@HHZT
+http://220.158.149.28:8180/TV00000000000000000170@HHZT
 #EXTINF:-1,MIZZIMA TV' //28:8180
 http://220.158.149.28:8180/live/TV00000000000000000170@HHZT
 #EXTINF:-1,MIZZIMA TV' /28:8182
@@ -1673,6 +1675,8 @@ http://119.59.125.74/stream/totnew.php?channel_id=1fd48f2cd616439ca4162478e572d6
 http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4
 http://119.59.125.74/stream/totnew.php?channel_id=b254601a75724ad79e2633f3d307e331
 http://119.59.125.74/stream/totnew.php?channel_id=443ea6ef1768462aaffdff38ce2a4355
+
+http://119.59.125.74/stream/totnew.php?channel_id=205930751d5743e2be719ed1dff8970f < OK
 
 + + + + + 122.155.180.8:5021 / CAT + + + + +
 
@@ -4952,6 +4956,18 @@ https://edge-n4.worldwidetv.club/uDFheZBw6b6KfPrqcgw3Mg/1599509294/livesport-abr
 https://edge2.livedoohd.com/dolive/hbohdth/chunks.m3u8
 https://edge2.livedoohd.com/dolive/hits/chunks.m3u8
 
++ + + + + global.thunderbd.com + + + + +
+
+http://global.thunderbd.com/70/tracks-v1a1/mono.m3u8
+http://global.thunderbd.com/71/tracks-v1a1/mono.m3u8
+http://global.thunderbd.com/72/tracks-v1a1/mono.m3u8
+http://global.thunderbd.com/73/tracks-v1a1/mono.m3u8
+http://global.thunderbd.com/74/tracks-v1a1/mono.m3u8
+http://global.thunderbd.com/75/tracks-v1a1/mono.m3u8
+http://global.thunderbd.com/76/tracks-v1a1/mono.m3u8
+
+
+
 + + + + + https://itpolly.iptv.digijadoo.net + + + + +
 
  group-title="IN/itpolly",BBC WORLD |itpolly
@@ -7764,6 +7780,8 @@ http://admin-mainpanel.club:8080/get.php?username=Uso&password=Uso123&type=m3u
 http://pro-panel01.club:8080/get.php?username=jesus&password=jesus&type=m3u
 http://pro-panel01.club:8080/get.php?username=yunus&password=123456&type=m3u
 http://pro-panel01.club:8080/get.php?username=sasha1&password=sasha1&type=m3u
+http://livegopanel.club:8080/get.php?username=denis777&password=denis777&type=m3u
+
 
 #EXTINF:-1 group-title="dragoniptv",VIP CN: CCTV1
 http://dragoniptv.club:8080/live/rbqJ6sgy2h/gr9gMbzhMP/29022.m3u8
