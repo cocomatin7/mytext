@@ -182,10 +182,12 @@ https://edge-stream-05.otv.co.th/mmplay/channel9/chunklist.m3u8
 http://edge-stream-07.otv.co.th/livestream/Channel9.stream/playlist.m3u8
 
  EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f4e0eb57c600f104da1.png",DVB | OTV
+https://cdn-edge.otv.co.th/mmplay/dvb/playlist.m3u8
 https://edge-stream-05.otv.co.th/mmplay/dvb/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8
 
  MaharBawDi | OTV /OFF
+https://cdn-edge.otv.co.th/mmplay/Mahar.stream/playlist.m3u8
 http://edge-stream-07.otv.co.th/livestream/Mahar.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mi.png", MITV | OTV
@@ -781,6 +783,11 @@ http://103.47.132.165/PLTV/88888888/224/3221227191/1.m3u8
 
 #EXTINF:-1 group-title="misc",Cinemax |dai
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+
+food network
+http://5.135.92.133:52841/out/u/502_1.m3u8
+
+
 
 #EXTINF:-1,S Laliga
 http://45.148.26.66:8081/hls/S-1/chunks.m3u8
@@ -7481,6 +7488,7 @@ http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
 http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
 http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:-1,ZEE Cinema US
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Zee TV",ZEE TV HD
 http://z5amshls.akamaized.net/zeetvhd/playlist.m3u8
@@ -7736,6 +7744,12 @@ http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/16958.m3u8
 #EXTINF:-1 group-title="cloudcdn",True Premiere Football HD4 | cloudcdn
 http://85.203.33.7:80/live/YXFQIfeiWcQb535/0sfRwY279/16959.m3u8
 
++ + + + + 89.248.174.8:8088 + + + + +
+
+astro SUPERSPORT 2
+http://89.248.174.8:8088/K8ur4SKQ3y/B27f1CJBzf/40599?token=QhVcUhcJRggXXAVSCwJSBFgBAgQDAFAHUFJQWQJRAFIJVQwHAVkHUFRGGURBEkJRAFtpWgVEXlFdUwVZSkAXElxFa1oAQ14QAVIGUQVTEhhDQl9eBEReUlBdB1ZWUFFUDBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFAbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+
+
 + + + + + 103.135.208.14:80 [IN] + + + + +
 
 http://103.135.208.14/get.php?username=ibox&password=bd&type=m3u
@@ -7744,8 +7758,9 @@ http://103.135.208.14/get.php?username=ibox&password=bd&type=m3u
 
 http://188.40.76.108:25461/get.php?username=mytv01&password=uSIRzmks51&type=m3u [https://rebrand.ly/188-mytv01]
 
-+ + + + + dragoniptv + + + + +
++ + + + + dragoniptv / livegopanel + + + + +
 
+http://admin-mainpanel.club:8080/get.php?username=Uso&password=Uso123&type=m3u
 http://pro-panel01.club:8080/get.php?username=jesus&password=jesus&type=m3u
 http://pro-panel01.club:8080/get.php?username=yunus&password=123456&type=m3u
 http://pro-panel01.club:8080/get.php?username=sasha1&password=sasha1&type=m3u
