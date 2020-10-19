@@ -294,7 +294,7 @@ https://live.mahar.tv/channel/mahar-web.smil/chunklist.m3u8
 #EXTINF:-1, mitv |aka
 https://playback2.akamaized.net/streams/7063221_9340397_lsicm6xifqn1fznjnnf_1/exp=1603162400~acl=%2f*~data=hdntl~hmac=38376649381849c586a69892e065c446041463f363fbbb1414924af77408f3a3/media/7063221_9340397_lsicm6xifqn1fznjnnf_1@678000p.m3u8
 
-#EXTINF:-1, mitv*
+#EXTINF:-1, mitv* |ls
 https://api.new.livestream.com/accounts/7063221/events/9340397/broadcasts/212243392.secure.m3u8?dw=80&hdnea=st=1603076136~exp=1603077936~acl=/i/7063221_9340397_lsicm6xifqn1fznjnnf_1@310803/*~hmac=3e3e32d3c845a02fe609f02374e91bd5e8454aec75fcf119552b3c3ec87081c5&token=5f8d0154_86702f6c8d8c990355522a5462f8960680ee2fdb
 
 https://livestream.com/mitv/live
@@ -359,8 +359,12 @@ https://playback2.akamaized.net/streams/15604755_4419934_lsiwflhpei6n34hw0t8_1/e
 
 "m3u8_url":"http://api.new.livestream.com/accounts/15604755/events/4419934/videos/161359281.m3u8?token=5f8d02e7_11e841eab9e8046489ca08b8ab9fd951676bd203","secure_m3u8_url":"https://api.new.livestream.com/accounts/15604755/events/4419934/videos/161359281.secure.m3u8?token=5f8d02e7_ef3c6cfd5aec09babc0bb5eff7f59cea32d902a3"
 
-"m3u8_url":"http://api.new.livestream.com/accounts/15604755/events/4419934/broadcasts/212252912.m3u8?dw=80&hdnea=st=1603076539~exp=1603078339~acl=/i/15604755_4419934_lsiwflhpei6n34hw0t8_1@446893/*~hmac=16e900a0b099e5b249f9540860d549b17d518f09bacb78e641050781c721291d&token=5f8d02e7_dd9733e2b8615949a169b7e5917b7107e2d38e4e","secure_m3u8_url":"https://api.new.livestream.com/accounts/15604755/events/4419934/broadcasts/212252912.secure.m3u8?dw=80&hdnea=st=1603076539~exp=1603078339~acl=/i/15604755_4419934_lsiwflhpei6n34hw0t8_1@446893/*~hmac=16e900a0b099e5b249f9540860d549b17d518f09bacb78e641050781c721291d&token=5f8d02e7_e1550b6d2a996b7cd68baba75f138376d0222213"
+"m3u8_url":"http://api.new.livestream.com/accounts/15604755/events/4419934/broadcasts/212252912.m3u8?dw=80&hdnea=st=1603076539~exp=1603078339~acl=/i/15604755_4419934_lsiwflhpei6n34hw0t8_1@446893/*~hmac=16e900a0b099e5b249f9540860d549b17d518f09bacb78e641050781c721291d&token=5f8d02e7_dd9733e2b8615949a169b7e5917b7107e2d38e4e",
 
+
+https://api.new.livestream.com/accounts/15604755/events/4419934/broadcasts/212252912.secure.m3u8?dw=80&hdnea=st=1603076539~exp=1603078339~acl=/i/15604755_4419934_lsiwflhpei6n34hw0t8_1@446893/*~hmac=16e900a0b099e5b249f9540860d549b17d518f09bacb78e641050781c721291d&token=5f8d02e7_e1550b6d2a996b7cd68baba75f138376d0222213
+
+#EXTINF:-1, MRTV* |ls
 https://livestream.com/accounts/15604755/events/4419934/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false
 https://api.new.livestream.com/accounts/15604755/events/4419934/live.m3u8
 
