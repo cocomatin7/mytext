@@ -579,6 +579,11 @@ https://rebrand.ly/h-si-alt
 https://rebrand.ly/h-re-alt
 
 https://airam-tafir.github.io/hls/movie/hbo-sig.m3u8
+#EXTINF:-1 tvg-id="HBO Family HD", HBO FAMILY |alwa
+https://alwa.lk21tvonlineid.com/family.m3u8
+https://alwa.lk21tvonlineid.com/hits.m3u8
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |alwa
+https://alwa.lk21tvonlineid.com/red.m3u8
 
 
  EXTINF:-1 tvg-id="HBO HD" group-title="movies", HBO |boxmv (alt)
