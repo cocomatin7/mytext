@@ -799,6 +799,14 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 food network
 http://5.135.92.133:52841/out/u/502_1.m3u8
 
+#EXTINF:-1,sky sports news
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/9d6f8e5a8de4778.m3u8
+BT Sport ESPN
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/8a877dbc4de64e4.m3u8
+#EXTINF:-1,beIN SPORTS 11 EN
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7d58c543420239a.m3u8
+#EXTINF:-1,beIN SPORTS 1TK
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/e403389501a6e44.m3u8
 
 
 #EXTINF:-1,S Laliga
@@ -869,8 +877,7 @@ http://cdn1.52dvb.xyz/5008/playlist.m3u8
 #EXTINF:-1,beIN SPORTS 10
 http://cdn1.52dvb.xyz/5009/playlist.m3u8
 
-#EXTINF:-1,beIN SPORTS 11 EN
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7d58c543420239a.m3u8
+
 
 #EXTINF:-1,CCTV5+
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
