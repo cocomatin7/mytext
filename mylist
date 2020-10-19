@@ -291,6 +291,12 @@ https://live.mahar.tv/channel/mahar-ooredoo.smil/mahar-ooredoo.m3u8
 #EXTINF:-1 group-title="misc", Mahar |web
 https://live.mahar.tv/channel/mahar-web.smil/chunklist.m3u8
 
+#EXTINF:-1, mitv
+https://playback2.akamaized.net/streams/7063221_9340397_lsicm6xifqn1fznjnnf_1/exp=1603162400~acl=%2f*~data=hdntl~hmac=38376649381849c586a69892e065c446041463f363fbbb1414924af77408f3a3/media/7063221_9340397_lsicm6xifqn1fznjnnf_1@678000p.m3u8
+#EXTINF:-1, mitv*
+https://api.new.livestream.com/accounts/7063221/events/9340397/broadcasts/212243392.secure.m3u8?dw=80&hdnea=st=1603076136~exp=1603077936~acl=/i/7063221_9340397_lsicm6xifqn1fznjnnf_1@310803/*~hmac=3e3e32d3c845a02fe609f02374e91bd5e8454aec75fcf119552b3c3ec87081c5&token=5f8d0154_86702f6c8d8c990355522a5462f8960680ee2fdb
+https://livestream.com/mitv/live
+
 , Mahar TV /iptvmate
 http://maharlive.b-cdn.net/stream.m3u8
 
