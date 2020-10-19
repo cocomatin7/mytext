@@ -7433,7 +7433,9 @@ https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+#EXTINF:-1,Fox Family HD |doomovie-hd
 https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
+
 https://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/Chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FOX Movies HD",Fox Movies HD |doomovie-hd
@@ -7493,16 +7495,18 @@ https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |doomovie-hd
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3",True Premiere Football HD3 |doomovie-hd
 https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+
 https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD5_720p/Chunklist.m3u8
-
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |doomovie-hd
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 
 https://www.livedoomovie.com/02_SabaideeTV_720p/chunklist.m3u8
+#EXTINF:-1, SCM HD |doomovie-hd
 https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
+
 https://www.livedoomovie.com/02_SMM_TV_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_sport5_480p/chunklist .m3u8
@@ -7524,7 +7528,9 @@ https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_TrueFilmHD2_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_VOICE_480p/chunklist.m3u8
+#EXTINF:-1, WarnerTV HD |doomovie-hd
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+
 https://www.livedoomovie.com/02_Wish_Channel_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_WORKPOINT_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Zee Cinema",ZEE Cinema |doomovie-hd
@@ -7545,8 +7551,12 @@ https://www.livedoomovie.com/03_skynetsport4_480p/Chunklist.m3u8
 https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1,SKYNET SPORTS 6 |doomovie-hd
 https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="doomovie-hd",SKYNET SPORTS HD |doomovie-hd
+#EXTINF:-1,SKYNET SPORTS HD |doomovie-hd
 https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:0, NatGeoWild |doomovie-hd
+https://www.livedoomovie.com/02_NatGeoWild_720p/chunklist.m3u8
+#EXTINF:0 group-title="doomovie-hd", Sumrujlok |doomovie-hd
+https://www.livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8
 
 + + + + + https://www.we-play.tv + + + + +
 
