@@ -865,8 +865,6 @@ http://103.47.132.165/PLTV/88888888/224/3221227191/1.m3u8
 #EXTINF:-1 group-title="misc",Cinemax |dai
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 
-food network
-http://5.135.92.133:52841/out/u/502_1.m3u8
 
 #EXTINF:-1,sky sports news
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/9d6f8e5a8de4778.m3u8
@@ -1275,10 +1273,24 @@ http://fpthanhyen.ddns.net:1211/udp/225.1.4.14:30120
 
 + + + + + 5.135.92.133:52841 + + + + +
 
+bizare
+http://5.135.92.133:52841/out/u/104_2.m3u8
+
+http://5.135.92.133:52841/out/u/100_2.m3u8
+http://5.135.92.133:52841/out/u/101_2.m3u8
+offline
+http://5.135.92.133:52841/out/u/102_2.m3u8
+http://5.135.92.133:52841/out/u/103_2.m3u8
+http://5.135.92.133:52841/out/u/104_2.m3u8
+http://5.135.92.133:52841/out/u/105_2.m3u8
+offline
+http://5.135.92.133:52841/out/u/106_2.m3u8
 bunga bunga
 http://5.135.92.133:52841/out/u/107_1.m3u8
 http://5.135.92.133:52841/out/u/108_1.m3u8
 http://5.135.92.133:52841/out/u/109_1.m3u8
+food network
+http://5.135.92.133:52841/out/u/502_1.m3u8
 
 + + + + + 27.254.130.61 + + + + +
 
