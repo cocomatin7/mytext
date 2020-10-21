@@ -581,6 +581,11 @@ https://rebrand.ly/h-si-alt
  EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |alt
 https://rebrand.ly/h-re-alt
 
+#EXTINF:-1 tvg-id="Cinemax HD" group-title="movies", CINEMAX* |alt
+https://zalogi.xyz/exo/playlist/max-mkctvMalingPlaylist.m3u8
+
+https://zalogi.xyz/exo/playlist/FAMILY-mkctvMalingPlaylist.m3u8
+
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO* |alt
 https://zalogi.xyz/exo/playlist/red-mkctvMalingPlaylist.m3u8
 
