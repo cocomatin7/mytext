@@ -592,6 +592,8 @@ https://zalogi.xyz/exo/playlist/sig-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO* |alt
 https://zalogi.xyz/exo/playlist/red-mkctvMalingPlaylist.m3u8
 
+#EXTINF:-1 tvg-name="RED BY HBO HD",RED BY HBO |hit
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/89
 
 https://airam-tafir.github.io/hls/movie/hbo-sig.m3u8
 
@@ -8441,71 +8443,6 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/46.ts
 http://iptv.kitv.live:1935/live/Shari/MTV-P/62.ts
  EXTINF:-1 tvg-name="&Flix" group-title="IN/kitv",&Flix
 http://iptv.kitv.live:1935/live/Shari/MTV-P/40.ts
-
-+ + + + + http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia [SEA] + + + + +
-
-#EXTINF:-1 tvg-name="FOX Movies HD" group-title="iptvhit",FOX MOVIES
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/34
-#EXTINF:-1 tvg-name="WarnerTV HD",WARNER
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/36
-#EXTINF:-1,CNN
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/52
-#EXTINF:-1,CNA
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/53
-#EXTINF:-1 tvg-name="Astro SuperSport",ASSP 1
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/54
-#EXTINF:-1 tvg-name="Astro SuperSport 2",ASSP 2
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/55
-#EXTINF:-1 tvg-name="Astro SuperSport 3",ASSP 3
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/56
-#EXTINF:-1 tvg-name="Astro SuperSport 4",ASSP 4
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/57
-#EXTINF:-1,BEIN 1
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/58
-#EXTINF:-1,BEIN 2
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/59
-#EXTINF:-1 tvg-name="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",PREMIER 1
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/63
-#EXTINF:-1 tvg-name="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",PREMIER 2
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/64
-#EXTINF:-1,PREMIER 3
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/65
-#EXTINF:-1,PREMIER 4
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/66
-#EXTINF:-1,PREMIER 5
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/67
-#EXTINF:-1,SKYNET EPL HD
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/68
-#EXTINF:-1,SKYNET EPL 1
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/69
-#EXTINF:-1,SKYNET EPL 2
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/70
-#EXTINF:-1,SKYNET EPL 3
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/71
-#EXTINF:-1,SKYNET EPL 4
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/72
-#EXTINF:-1,SKYNET EPL 5
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/73
-#EXTINF:-1,SKYNET EPL 6
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/74
-#EXTINF:-1 tvg-name="HBO HD",HBO
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/85
-#EXTINF:-1 tvg-name="HBO Family HD",HBO FAMILY
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/86
-#EXTINF:-1 tvg-name="HBO Hits HD",HBO HITS
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/87
-#EXTINF:-1 tvg-name="Cinemax HD",CINEMAX
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/88
-#EXTINF:-1 tvg-name="RED BY HBO HD",RED BY HBO
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/89
-#EXTINF:-1 tvg-name="HBO Signature HD",HBO SIGNATURE
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/90
-#EXTINF:-1 tvg-name="FOX Movies HD",FOX MOVIES
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/91
-#EXTINF:-1 tvg-name="Fox Action Movies HD",FOX ACTION
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/92
-#EXTINF:-1 tvg-name="FOX Family Movies HD" group-title="iptvhit",FOX FAMILY
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/93
 
 + + + + + iptvtree.net:8080 [SEA] + + + + +
 
