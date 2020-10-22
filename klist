@@ -4855,6 +4855,21 @@ https://cdn227.cloud-streaming.com/ballsoi8_r3/skynet6/chunks.m3u8?nimblesession
 hd-hbo-thai
 https://cdn227.cloud-streaming.com/ballsoi8_r5/hd-hbo-thai/chunks.m3u8?nimblesessionid=
 
++ + + + + https://doofootball.livestream-cdn.com + + + + +
+
+https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-natgeo.stream/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-explife.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/uk-mutv.stream/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-football.stream/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-action.stream/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-mix.stream/playlist.m3u8
+
 + + + + + https://doomovie.com/live* / https://cdn-laos.workpoint.news / 89.187.169.15:443* + + + + +
 
 #EXTINF:-1 group-title="TH/doomovie/offline",al-supersports1 |doomovie
@@ -5190,6 +5205,10 @@ https://live.5gbet.live/edge_app/skynet4/playlist.m3u8
 https://live.5gbet.live/edge_app/skynet5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7i2d0.png" group-title="5gbet", SKYNET SPORTS 6 |5gbet
 https://live.5gbet.live/edge_app/skynet6/playlist.m3u8
+
+https://live.5gbet.live/edge/ch17/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAzOjU0OjE4IEFNJmhhc2hfdmFsdWU9ZnhpL0t6My9meVNoQ2Zab3l0ZG1yZz09JnZhbGlkbWludXRlcz0x
+https://live.5gbet.live/edge/ch18/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAzOjU1OjE0IEFNJmhhc2hfdmFsdWU9RlY2emRHNDFPR0pkMThTaW1FaVp3QT09JnZhbGlkbWludXRlcz0x
+
 
 
 + + + + + http://doo2you.com / we-play + + + + +
@@ -7496,6 +7515,10 @@ https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 2", BEIN SPORT HD 2 |doomovie-hd
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 1", BEIN SPORT HD 1* |doomovie-hd
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 2", BEIN SPORT HD 2* |doomovie-hd
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 https://www.livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FOX_Life_720p/chunklist.m3u8
