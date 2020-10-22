@@ -5178,6 +5178,20 @@ http://keykingiptv.ddns.net/keyking/bein1_keyking/playlist.m3u8
 http://keykingiptv.ddns.net/keyking/bein2_keyking/chunks.m3u8
  group-title="keyking",bein 2' |keyking
 
++ + + + + https://live.5gbet.live + + + + +
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7i9WN.png" group-title="5gbet", SKYNET SPORTS HD |5gbet
+https://live.5gbet.live/edge_app/skynethd/playlist.m3u8
+https://live.5gbet.live/edge_app/skynet1/playlist.m3u8
+https://live.5gbet.live/edge_app/skynet2/playlist.m3u8
+https://live.5gbet.live/edge_app/skynet3/playlist.m3u8
+https://live.5gbet.live/edge_app/skynet4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7iAx8.png", SKYNET SPORTS 5 |5gbet
+https://live.5gbet.live/edge_app/skynet5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7i2d0.png" group-title="5gbet", SKYNET SPORTS 6 |5gbet
+https://live.5gbet.live/edge_app/skynet6/playlist.m3u8
+
+
 + + + + + http://doo2you.com / we-play + + + + +
 
 https://live.we-play.tv/sports/tpf2/chunks.m3u8?nimblesessionid=48899756&wmsAuthSign=
