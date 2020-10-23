@@ -8945,14 +8945,8 @@ http://speccy.pw:8008/d/d/16674
 + + + + + srv.cybergroup.top:14170 + + + + +
 
 + + + + + streamx.link:8080 + + + + +
-http://streamx.link:8080/panel_api.php?username=NvxBXobrQj&password=fRPdh3UVHc&type=m3u&output=hls
 
-#EXTINF:-1 group-title="streamx",astro 
-http://streamx.link:8080/live/NvxBXobrQj/fRPdh3UVHc/1366.m3u8
-#EXTINF:-1 group-title="streamx",astro 2
-http://streamx.link:8080/live/NvxBXobrQj/fRPdh3UVHc/1365.m3u8
-#EXTINF:-1 group-title="streamx",astro 3
-http://streamx.link:8080/live/NvxBXobrQj/fRPdh3UVHc/1364.m3u8
+http://streamx.link:8080/panel_api.php?username=NvxBXobrQj&password=fRPdh3UVHc&type=m3u&output=hls
 
 + + + + + worldch.ddns.net:8080 + + + + +
 
