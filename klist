@@ -750,7 +750,7 @@ http://www.stgiptv.online/session_dyos/dyos/server/red.m3u8
 
  tvg-id="Cinemax HD" group-title="movies",Cinemax |TH
 https://ztvthai.online/izeetv/forapptreev/cinemax.m3u8
-#EXTINF:-1 tvg-id="HBO HD",HBO |TH
+ EXTINF:-1 tvg-id="HBO HD",HBO |TH
 https://ztvthai.online/izeetv/forapptreev/hbo-hd.m3u8
  tvg-id="HBO Family HD",HBO Family |TH
 https://ztvthai.online/izeetv/forapptreev/hbo-fam.m3u8
