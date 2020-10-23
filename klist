@@ -1587,6 +1587,17 @@ http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1 tvg-id="Zee TV" group-title="IN/103.214", zee tv
 http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 
++ + + + + 103.253.72.107:9997 + + + + +
+
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1", True Premiere Football HD1 |103
+http://103.253.72.107:9997/Premier1/index.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2", True Premiere Football HD2 |103
+http://103.253.72.107:9997/Premier2/index.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3", True Premiere Football HD3 |103
+http://103.253.72.107:9997/Premier3/index.m3u8
+http://103.253.72.107:9997/Premier4/index.m3u8
+http://103.253.72.107:9997/Premier5/index.m3u8
+
 + + + + + https://cdn-laos.workpoint.news* / 104.248.152.125* + + + + +
 
 https://104.248.152.125/al-supersports1_480/index.m3u8
@@ -4881,6 +4892,96 @@ https://cdn227.cloud-streaming.com/ballsoi8_r5/hd-hbo-thai/chunks.m3u8?nimbleses
 
 + + + + + https://doofootball.livestream-cdn.com + + + + +
 
+https://doofootball.livestream-cdn.com/digitaltv/hd-pptv.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/doofootball/dfb-2.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/epl-2.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/epl-2.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/epl-3.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/epl-3.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/epl-4.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/epl-5.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-amarin.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-ch3.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-ch7.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-ch8.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-disneyxd.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-disneyxd.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-foxpremium.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-foxpremium.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-foxsports1.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-foxsports1.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-gmmone.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-golf.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-golf.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-history.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-history2.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-lifetime.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-mcot.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-mono.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-natgeo.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-nba.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-rtlcbs.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-tennis.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-tfilm.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-thairath.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-tpbs.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-tsport1.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-tsport1.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-tsport2.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-tsport3.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-warnertv.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-workpoint.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-24u.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-celestial.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-explife.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-explife.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-fox.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-fox.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-foxsports2.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-foxsports2.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-foxsports3.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-foxsports3.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-gmmchannel.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-nation.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-nbt.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-new.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-sparkjump.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-sparkjump.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-sparkplay.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-sparkplay.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-thaifilm.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-thaifilm.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-tptv.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/uk-cbeebieshd.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/uk-disney.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/uk-mutv.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/uk-nickjr.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-football.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-mainevent.stream/chunks.m3u8
+
 https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-natgeo.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
@@ -5713,6 +5814,11 @@ https://sorsportstv.shortcm.li/truesporthd2/sorchelsea.m3u8
 https://sorsportstv.shortcm.li/truesporthd3/sorchelsea.m3u8
 https://sorsportstv.shortcm.li/truesporthd4/sorchelsea.m3u8
 https://sorsportstv.shortcm.li/TrueTennis/sorchelsea.m3u8
+
++ + + + + watchfootball + + + + + +
+
+https://stream1.watchfootball.live/02_epl1_720p/chunklist.m3u8
+https://stream1.watchfootball.live/02_epl2_720p/chunklist.m3u8
 
 + + + + + https://freetvdd.com* + + + + + +
 
@@ -8837,6 +8943,16 @@ http://speccy.pw:8008/d/d/16675
 http://speccy.pw:8008/d/d/16674
 
 + + + + + srv.cybergroup.top:14170 + + + + +
+
++ + + + + streamx.link:8080 + + + + +
+http://streamx.link:8080/panel_api.php?username=NvxBXobrQj&password=fRPdh3UVHc&type=m3u&output=hls
+
+#EXTINF:-1 group-title="streamx",astro 
+http://streamx.link:8080/live/NvxBXobrQj/fRPdh3UVHc/1366.m3u8
+#EXTINF:-1 group-title="streamx",astro 2
+http://streamx.link:8080/live/NvxBXobrQj/fRPdh3UVHc/1365.m3u8
+#EXTINF:-1 group-title="streamx",astro 3
+http://streamx.link:8080/live/NvxBXobrQj/fRPdh3UVHc/1364.m3u8
 
 + + + + + worldch.ddns.net:8080 + + + + +
 
