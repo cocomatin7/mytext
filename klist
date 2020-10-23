@@ -3339,6 +3339,67 @@ http://203.154.243.31:8081/live/hisport/index.m3u8
 http://203.154.243.31:8081/live/series/index.m3u8
 http://203.154.243.31:8081/live/thairath/index.m3u8
 
++ + + + + https://www.movie1168.com / https://cdn-laos.workpoint.news + + + + +
+
+ group-title="TH/movie1168",epl-bein1 |m1168
+https://1168live.b-cdn.net/epl-bein1_720/index.m3u8
+
+,epl-bein1' /m1168
+https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
+
+,epl-bein1' |m1168
+https://45.64.186.134:443/epl-bein1_720/index.m3u8
+
+https://1168live.b-cdn.net/epl-bein2_720/index.m3u8
+https://1168live.b-cdn.net/epl-x1_720/index.m3u8
+https://1168live.b-cdn.net/epl-x2_720/index.m3u8
+https://1168live.b-cdn.net/epl-x3_720/index.m3u8
+https://1168live.b-cdn.net/epl-x4_720/index.m3u8
+https://1168live.b-cdn.net/epl-x5_720/index.m3u8
+https://1168live.b-cdn.net/hd-discovery_720/index.m3u8
+https://1168live.b-cdn.net/hd-foxaction_720/index.m3u8
+https://1168live.b-cdn.net/hd-foxpremium_720/index.m3u8
+https://1168live.b-cdn.net/hd-history2_720/index.m3u8
+https://1168live.b-cdn.net/hd-history_720/index.m3u8
+https://1168live.b-cdn.net/hd-mtvlive_720/index.m3u8
+https://1168live.b-cdn.net/hd-natgeo_720/index.m3u8
+https://1168live.b-cdn.net/hd-natgeowild_720/index.m3u8
+,warner tv |m1168
+https://1168live.b-cdn.net/hd-warnertv_720/index.m3u8
+
+https://1168live.b-cdn.net/rs-arena1_480/index.m3u8
+https://1168live.b-cdn.net/rs-arena2_480/index.m3u8
+https://1168live.b-cdn.net/rs-arena3_480/index.m3u8
+https://1168live.b-cdn.net/rs-arena4_480/index.m3u8
+https://1168live.b-cdn.net/rs-arena5_480/index.m3u8
+,animal planet MM |m1168
+https://1168live.b-cdn.net/sd-animalplaneteng_480/index.m3u8
+
+https://1168live.b-cdn.net/sd-celestial_480/index.m3u8
+https://1168live.b-cdn.net/sd-explife_480/index.m3u8
+https://1168live.b-cdn.net/sd-expsci_480/index.m3u8
+https://1168live.b-cdn.net/sd-expwild_480/index.m3u8
+https://1168live.b-cdn.net/sd-mtvasia_480/index.m3u8
+https://1168live.b-cdn.net/sd-redalt_480/index.m3u8
+https://1168live.b-cdn.net/sd-skynetsports1_480/index.m3u8
+https://1168live.b-cdn.net/sd-skynetsports2_480/index.m3u8
+https://1168live.b-cdn.net/sd-skynetsports3_480/index.m3u8
+https://1168live.b-cdn.net/sd-skynetsports4_480/index.m3u8
+https://1168live.b-cdn.net/sd-skynetsports5_480/index.m3u8
+https://1168live.b-cdn.net/sd-skynetsports6_480/index.m3u8
+,skynet sports hd |m1168
+https://1168live.b-cdn.net/sd-skynetsportshd_720/index.m3u8
+
+https://1168live.b-cdn.net/uk-btsport1hd_720/index.m3u8
+https://1168live.b-cdn.net/uk-btsport2hd_720/index.m3u8
+https://1168live.b-cdn.net/uk-cnn_480/index.m3u8
+https://1168live.b-cdn.net/uk-skysports-epl_720/index.m3u8
+https://1168live.b-cdn.net/uk-skysports-football_720/index.m3u8
+ group-title="TH/movie1168",skysports-mainevent |m1168
+https://1168live.b-cdn.net/uk-skysports-mainevent_720/index.m3u8
+
+https://1168live.b-cdn.net/uk-skysports-news_480/index.m3u8
+
 + + + + + totiptv.com + + + + + +
 
 STAR MAX Channel
@@ -4088,6 +4149,8 @@ EXTINF:-1,PremieLeague4
 http://ip2121.com:8081/at1/ENG4/playlist.m3u8
 EXTINF:-1,PremieLeague5
 http://ip2121.com:8081/at1/ENG5/playlist.m3u8
+TVB
+http://ip2121.com:8081/live/TVB/chunks.m3u8
 
 EXTINF:-1,True Visions Fox Movies
 http://ip2121.com:8081/live2/foxpre/chunks.m3u8
@@ -4207,66 +4270,7 @@ http://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 http://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 http://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
-+ + + + + https://www.movie1168.com / https://cdn-laos.workpoint.news + + + + +
 
- group-title="TH/movie1168",epl-bein1 |m1168
-https://1168live.b-cdn.net/epl-bein1_720/index.m3u8
-
-,epl-bein1' /m1168
-https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
-
-,epl-bein1' |m1168
-https://45.64.186.134:443/epl-bein1_720/index.m3u8
-
-https://1168live.b-cdn.net/epl-bein2_720/index.m3u8
-https://1168live.b-cdn.net/epl-x1_720/index.m3u8
-https://1168live.b-cdn.net/epl-x2_720/index.m3u8
-https://1168live.b-cdn.net/epl-x3_720/index.m3u8
-https://1168live.b-cdn.net/epl-x4_720/index.m3u8
-https://1168live.b-cdn.net/epl-x5_720/index.m3u8
-https://1168live.b-cdn.net/hd-discovery_720/index.m3u8
-https://1168live.b-cdn.net/hd-foxaction_720/index.m3u8
-https://1168live.b-cdn.net/hd-foxpremium_720/index.m3u8
-https://1168live.b-cdn.net/hd-history2_720/index.m3u8
-https://1168live.b-cdn.net/hd-history_720/index.m3u8
-https://1168live.b-cdn.net/hd-mtvlive_720/index.m3u8
-https://1168live.b-cdn.net/hd-natgeo_720/index.m3u8
-https://1168live.b-cdn.net/hd-natgeowild_720/index.m3u8
-,warner tv |m1168
-https://1168live.b-cdn.net/hd-warnertv_720/index.m3u8
-
-https://1168live.b-cdn.net/rs-arena1_480/index.m3u8
-https://1168live.b-cdn.net/rs-arena2_480/index.m3u8
-https://1168live.b-cdn.net/rs-arena3_480/index.m3u8
-https://1168live.b-cdn.net/rs-arena4_480/index.m3u8
-https://1168live.b-cdn.net/rs-arena5_480/index.m3u8
-,animal planet MM |m1168
-https://1168live.b-cdn.net/sd-animalplaneteng_480/index.m3u8
-
-https://1168live.b-cdn.net/sd-celestial_480/index.m3u8
-https://1168live.b-cdn.net/sd-explife_480/index.m3u8
-https://1168live.b-cdn.net/sd-expsci_480/index.m3u8
-https://1168live.b-cdn.net/sd-expwild_480/index.m3u8
-https://1168live.b-cdn.net/sd-mtvasia_480/index.m3u8
-https://1168live.b-cdn.net/sd-redalt_480/index.m3u8
-https://1168live.b-cdn.net/sd-skynetsports1_480/index.m3u8
-https://1168live.b-cdn.net/sd-skynetsports2_480/index.m3u8
-https://1168live.b-cdn.net/sd-skynetsports3_480/index.m3u8
-https://1168live.b-cdn.net/sd-skynetsports4_480/index.m3u8
-https://1168live.b-cdn.net/sd-skynetsports5_480/index.m3u8
-https://1168live.b-cdn.net/sd-skynetsports6_480/index.m3u8
-,skynet sports hd |m1168
-https://1168live.b-cdn.net/sd-skynetsportshd_720/index.m3u8
-
-https://1168live.b-cdn.net/uk-btsport1hd_720/index.m3u8
-https://1168live.b-cdn.net/uk-btsport2hd_720/index.m3u8
-https://1168live.b-cdn.net/uk-cnn_480/index.m3u8
-https://1168live.b-cdn.net/uk-skysports-epl_720/index.m3u8
-https://1168live.b-cdn.net/uk-skysports-football_720/index.m3u8
- group-title="TH/movie1168",skysports-mainevent |m1168
-https://1168live.b-cdn.net/uk-skysports-mainevent_720/index.m3u8
-
-https://1168live.b-cdn.net/uk-skysports-news_480/index.m3u8
 
 + + + + + https://www.doofree88.com* + + + + +
 
