@@ -946,8 +946,11 @@ http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_10_HD/index.m3u8
 #EXTINF:-1,beIN SPORTS HD11 |arb
 http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_11_HD/index.m3u8
 http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_12_HD/index.m3u8
-#EXTINF:-1 group-title="sports",beIN SPORTS HD13 |arb
+#EXTINF:-1,beIN SPORTS HD13 |arb
 http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_13_HD/index.m3u8
+#EXTINF:-1 group-title="sports",beIN SPORTS UHD13 |arb
+http://arb.ssltv.net:9263/AR_BEIN_SPORTS_13__UHD+/index.m3u8
+
 
 #EXTINF:-1 group-title="sports",Varzesh Sports 1
 http://51.158.66.44/hls/stream.m3u8
