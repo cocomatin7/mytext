@@ -2538,7 +2538,7 @@ http://198.98.55.16:80/crtv.php?id=11
 http://198.98.55.16:80/crtv.php?id=12
 http://198.98.55.16:80/crtv.php?id=13
 http://198.98.55.16:80/crtv.php?id=14
-#EXTINF:-1 group-title="198.98",cna
+EXTINF:-1 group-title="198.98",cna
 http://198.98.55.16:80/crtv.php?id=15
 http://198.98.55.16:80/crtv.php?id=16
 n.a
@@ -2546,7 +2546,7 @@ http://198.98.55.16:80/crtv.php?id=17
 thrill
 http://198.98.55.16:80/crtv.php?id=18
 http://198.98.55.16:80/crtv.php?id=19
-#EXTINF:-1,RM Channel
+EXTINF:-1,RM Channel
 http://198.98.55.16:80/crtv.php?id=20
 n.a.
 http://198.98.55.16:80/crtv.php?id=21
@@ -2576,7 +2576,7 @@ http://198.98.55.16:80/crtv.php?id=44
 http://198.98.55.16:80/crtv.php?id=45
 http://198.98.55.16:80/crtv.php?id=46
 http://198.98.55.16:80/crtv.php?id=47
-#EXTINF:-1,animation
+EXTINF:-1,animation
 http://198.98.55.16:80/crtv.php?id=48
 http://198.98.55.16:80/crtv.php?id=49
 http://198.98.55.16:80/crtv.php?id=50
@@ -2599,7 +2599,7 @@ http://198.98.55.16:80/crtv.php?id=66
 http://198.98.55.16:80/crtv.php?id=67
 http://198.98.55.16:80/crtv.php?id=68
 http://198.98.55.16:80/crtv.php?id=69
-#EXTINF:-1,LOTUS Macao
+EXTINF:-1,LOTUS Macao
 http://198.98.55.16:80/crtv.php?id=70
 n.a.
 http://198.98.55.16:80/crtv.php?id=71
@@ -2614,7 +2614,7 @@ http://198.98.55.16:80/crtv.php?id=79
 http://198.98.55.16:80/crtv.php?id=80
 http://198.98.55.16:80/crtv.php?id=81
 http://198.98.55.16:80/crtv.php?id=82
-#EXTINF:-1,WB TV
+EXTINF:-1,WB TV
 http://198.98.55.16:80/crtv.php?id=83
 n.a.
 http://198.98.55.16:80/crtv.php?id=84
@@ -2647,7 +2647,7 @@ http://198.98.55.16:80/crtv.php?id=104
 http://198.98.55.16:80/crtv.php?id=105
 n.a.
 http://198.98.55.16:80/crtv.php?id=106
-#EXTINF:-1,CN
+EXTINF:-1,CN
 http://198.98.55.16:80/crtv.php?id=107
 n.a.
 http://198.98.55.16:80/crtv.php?id=108
@@ -2658,9 +2658,9 @@ http://198.98.55.16:80/crtv.php?id=112
 http://198.98.55.16:80/crtv.php?id=113
 http://198.98.55.16:80/crtv.php?id=114
 http://198.98.55.16:80/crtv.php?id=115
-#EXTINF:-1,H
+EXTINF:-1,H
 http://198.98.55.16:80/crtv.php?id=116
-#EXTINF:-1,NHK World
+EXTINF:-1,NHK World
 http://198.98.55.16:80/crtv.php?id=117
 http://198.98.55.16:80/crtv.php?id=118
 http://198.98.55.16:80/crtv.php?id=119
@@ -2692,31 +2692,31 @@ http://198.98.55.16:80/crtv.php?id=142
 abc
 http://198.98.55.16:80/crtv.php?id=143
 http://198.98.55.16:80/crtv.php?id=144
-#EXTINF:-1,cnbc
+EXTINF:-1,cnbc
 http://198.98.55.16:80/crtv.php?id=145
-#EXTINF:-1,CNN
+EXTINF:-1,CNN
 http://198.98.55.16:80/crtv.php?id=146
 http://198.98.55.16:80/crtv.php?id=147
-#EXTINF:-1,ESPN
+EXTINF:-1,ESPN
 http://198.98.55.16:80/crtv.php?id=148
 http://198.98.55.16:80/crtv.php?id=149
 Fox News
 http://198.98.55.16:80/crtv.php?id=150
-#EXTINF:-1,FS1
+EXTINF:-1,FS1
 http://198.98.55.16:80/crtv.php?id=151
-#EXTINF:-1,FS2
+EXTINF:-1,FS2
 http://198.98.55.16:80/crtv.php?id=152
 NBA TV
 http://198.98.55.16:80/crtv.php?id=153
-#EXTINF:-1,nbc
+EXTINF:-1,nbc
 http://198.98.55.16:80/crtv.php?id=154
-#EXTINF:-1,PGA
+EXTINF:-1,PGA
 http://198.98.55.16:80/crtv.php?id=155
-#EXTINF:-1,nbc
+EXTINF:-1,nbc
 http://198.98.55.16:80/crtv.php?id=156
 n.a.
 http://198.98.55.16:80/crtv.php?id=157
-#EXTINF:-1,BBC World News
+EXTINF:-1,BBC World News
 http://198.98.55.16:80/crtv.php?id=158
 n.a.
 http://198.98.55.16:80/crtv.php?id=159
@@ -2727,21 +2727,21 @@ n.a.
 http://198.98.55.16:80/crtv.php?id=162
 BBC ALBA
 http://198.98.55.16:80/crtv.php?id=163
-#EXTINF:-1,BBC WORLD NEWS
+EXTINF:-1,BBC WORLD NEWS
 http://198.98.55.16:80/crtv.php?id=164
-#EXTINF:-1,BT Sport 1HD
+EXTINF:-1,BT Sport 1HD
 http://198.98.55.16:80/crtv.php?id=165
-#EXTINF:-1,BT
+EXTINF:-1,BT
 http://198.98.55.16:80/crtv.php?id=166
-#EXTINF:-1,BT
+EXTINF:-1,BT
 http://198.98.55.16:80/crtv.php?id=167
-#EXTINF:-1,BT Sport ESPN
+EXTINF:-1,BT Sport ESPN
 http://198.98.55.16:80/crtv.php?id=168
 sky news
 http://198.98.55.16:80/crtv.php?id=169
 ESPN U
 http://198.98.55.16:80/crtv.php?id=170
-#EXTINF:-1,sky sports cricket
+EXTINF:-1,sky sports cricket
 http://198.98.55.16:80/crtv.php?id=171
 http://198.98.55.16:80/crtv.php?id=172
 http://198.98.55.16:80/crtv.php?id=173
@@ -2754,11 +2754,11 @@ http://198.98.55.16:80/crtv.php?id=177
 http://198.98.55.16:80/crtv.php?id=178
 http://198.98.55.16:80/crtv.php?id=179
 http://198.98.55.16:80/crtv.php?id=180
-#EXTINF:-1,sky sports premier league
+EXTINF:-1,sky sports premier league
 http://198.98.55.16:80/crtv.php?id=181
-#EXTINF:-1,sky sports F1
+EXTINF:-1,sky sports F1
 http://198.98.55.16:80/crtv.php?id=182
-#EXTINF:-1,sky sports NFL
+EXTINF:-1,sky sports NFL
 http://198.98.55.16:80/crtv.php?id=183
 n.a.
 http://198.98.55.16:80/crtv.php?id=184
@@ -2774,7 +2774,7 @@ n.a.
 http://198.98.55.16:80/crtv.php?id=192
 http://198.98.55.16:80/crtv.php?id=193
 http://198.98.55.16:80/crtv.php?id=194
-#EXTINF:-1,afn
+EXTINF:-1,afn
 http://198.98.55.16:80/crtv.php?id=195
 http://198.98.55.16:80/crtv.php?id=196
 http://198.98.55.16:80/crtv.php?id=197
@@ -2817,7 +2817,7 @@ http://198.98.55.16:80/crtv.php?id=218
 n.a.
 http://198.98.55.16:80/crtv.php?id=219
 http://198.98.55.16:80/crtv.php?id=220
-#EXTINF:-1 group-title="198.98",CGTN
+EXTINF:-1 group-title="198.98",CGTN
 http://198.98.55.16:80/crtv.php?id=221
 n.a.
 http://198.98.55.16:80/crtv.php?id=222
@@ -2882,7 +2882,7 @@ http://198.98.55.16:80/crtv.php?id=263
 http://198.98.55.16:80/crtv.php?id=264
 http://198.98.55.16:80/crtv.php?id=265
 http://198.98.55.16:80/crtv.php?id=266
-#EXTINF:-1 group-title="198.98",SPOTV2
+EXTINF:-1 group-title="198.98",SPOTV2
 http://198.98.55.16:80/crtv.php?id=267
 http://198.98.55.16:80/crtv.php?id=268
 http://198.98.55.16:80/crtv.php?id=269
@@ -2890,7 +2890,7 @@ n.a.
 http://198.98.55.16:80/crtv.php?id=270
 n.a.
 http://198.98.55.16:80/crtv.php?id=271
-#EXTINF:-1,movie
+EXTINF:-1,movie
 http://198.98.55.16:80/crtv.php?id=272
 n.a.
 http://198.98.55.16:80/crtv.php?id=273
@@ -2964,18 +2964,18 @@ n.a.
 http://198.98.55.16:80/crtv.php?id=325
 http://198.98.55.16:80/crtv.php?id=326
 http://198.98.55.16:80/crtv.php?id=327
-#EXTINF:-1 group-title="198.98",CCM
+EXTINF:-1 group-title="198.98",CCM
 http://198.98.55.16:80/crtv.php?id=328
 http://198.98.55.16:80/crtv.php?id=329
 n.a.
 http://198.98.55.16:80/crtv.php?id=330
 n.a.
 http://198.98.55.16:80/crtv.php?id=331
-#EXTINF:-1 group-title="198.98",HBO CN
+EXTINF:-1 group-title="198.98",HBO CN
 http://198.98.55.16:80/crtv.php?id=332
 n.a.
 http://198.98.55.16:80/crtv.php?id=333
-#EXTINF:-1,NAT GEO People
+EXTINF:-1,NAT GEO People
 http://198.98.55.16:80/crtv.php?id=334
 http://198.98.55.16:80/crtv.php?id=335
 http://198.98.55.16:80/crtv.php?id=336
@@ -3027,10 +3027,10 @@ http://198.98.55.16:80/crtv.php?id=379
 http://198.98.55.16:80/crtv.php?id=380
 http://198.98.55.16:80/crtv.php?id=381
 http://198.98.55.16:80/crtv.php?id=382
-#EXTINF:-1 group-title="198.98",FOX family
+EXTINF:-1 group-title="198.98",FOX family
 http://198.98.55.16:80/crtv.php?id=383
 http://198.98.55.16:80/crtv.php?id=384
-#EXTINF:-1,FOX action
+EXTINF:-1,FOX action
 http://198.98.55.16:80/crtv.php?id=385
 http://198.98.55.16:80/crtv.php?id=386
 http://198.98.55.16:80/crtv.php?id=387
@@ -3063,22 +3063,22 @@ http://198.98.55.16:80/crtv.php?id=413
 http://198.98.55.16:80/crtv.php?id=414
 http://198.98.55.16:80/crtv.php?id=415
 http://198.98.55.16:80/crtv.php?id=416tokyo hot xxx K--
-#EXTINF:-1 group-title="198.98",sky sports golf
+EXTINF:-1 group-title="198.98",sky sports golf
 http://198.98.55.16:80/crtv.php?id=417
-#EXTINF:-1,sky sports premier league
+EXTINF:-1,sky sports premier league
 http://198.98.55.16:80/crtv.php?id=418
-#EXTINF:-1,ELEVEN SPORTS PLUS
+EXTINF:-1,ELEVEN SPORTS PLUS
 http://198.98.55.16:80/crtv.php?id=419
-#EXTINF:-1,CNN
+EXTINF:-1,CNN
 http://198.98.55.16:80/crtv.php?id=420
-#EXTINF:-1,BBC WORLD NEWS
+EXTINF:-1,BBC WORLD NEWS
 http://198.98.55.16:80/crtv.php?id=421
 http://198.98.55.16:80/crtv.php?id=422
 AXN
 http://198.98.55.16:80/crtv.php?id=423
 http://198.98.55.16:80/crtv.php?id=424
 http://198.98.55.16:80/crtv.php?id=425
-#EXTINF:-1,CCTV 5
+EXTINF:-1,CCTV 5
 http://198.98.55.16:80/crtv.php?id=426
 http://198.98.55.16:80/crtv.php?id=427
 http://198.98.55.16:80/crtv.php?id=428
@@ -3096,22 +3096,22 @@ http://198.98.55.16:80/crtv.php?id=437
 http://198.98.55.16:80/crtv.php?id=438
 http://198.98.55.16:80/crtv.php?id=439
 http://198.98.55.16:80/crtv.php?id=440 astro AWANI
-#EXTINF:-1 group-title="198.98",CCM
+EXTINF:-1 group-title="198.98",CCM
 http://198.98.55.16:80/crtv.php?id=441 
 http://198.98.55.16:80/crtv.php?id=442
 http://198.98.55.16:80/crtv.php?id=443 astro 
 
-#EXTINF:-1,astro SUPERSPORT
+EXTINF:-1,astro SUPERSPORT
 http://198.98.55.16:80/crtv.php?id=444
-#EXTINF:-1,astro SUPERSPORT2
+EXTINF:-1,astro SUPERSPORT2
 http://198.98.55.16:80/crtv.php?id=445
-#EXTINF:-1,astro SUPERSPORT3
+EXTINF:-1,astro SUPERSPORT3
 http://198.98.55.16:80/crtv.php?id=446
-#EXTINF:-1,astro SUPERSPORT4
+EXTINF:-1,astro SUPERSPORT4
 http://198.98.55.16:80/crtv.php?id=447 
-#EXTINF:-1,CH U
+EXTINF:-1,CH U
 http://198.98.55.16:80/crtv.php?id=448 
-#EXTINF:-1,mediacorp 5
+EXTINF:-1,mediacorp 5
 http://198.98.55.16:80/crtv.php?id=449 
 astro AOD
 http://198.98.55.16:80/crtv.php?id=450 
@@ -3127,15 +3127,15 @@ http://198.98.55.16:80/crtv.php?id=458
 http://198.98.55.16:80/crtv.php?id=459 < xx
 
 http://198.98.55.16:80/crtv.php?id=462 < XX
-#EXTINF:-1,HBO IN
+EXTINF:-1,HBO IN
 http://198.98.55.16:80/crtv.php?id=464
-#EXTINF:-1,TEN 1
+EXTINF:-1,TEN 1
 http://198.98.55.16:80/crtv.php?id=466
-#EXTINF:-1,TEN 2
+EXTINF:-1,TEN 2
 http://198.98.55.16:80/crtv.php?id=467
-#EXTINF:-1,TEN 3
+EXTINF:-1,TEN 3
 http://198.98.55.16:80/crtv.php?id=468
-#EXTINF:-1,&Picture HD
+EXTINF:-1,&Picture HD
 http://198.98.55.16:80/crtv.php?id=469
 colors HD
 http://198.98.55.16:80/crtv.php?id=470
@@ -3149,22 +3149,22 @@ n.a.
 http://198.98.55.16:80/crtv.php?id=476
 S MAX HD
 http://198.98.55.16:80/crtv.php?id=477
-#EXTINF:-1,Star World
+EXTINF:-1,Star World
 http://198.98.55.16:80/crtv.php?id=478
 StarPlus
 http://198.98.55.16:80/crtv.php?id=479
 http://198.98.55.16:80/crtv.php?id=480
 http://198.98.55.16:80/crtv.php?id=481
-#EXTINF:-1,ZEE TV
+EXTINF:-1,ZEE TV
 http://198.98.55.16:80/crtv.php?id=482
 http://198.98.55.16:80/crtv.php?id=483
 n.a.
 http://198.98.55.16:80/crtv.php?id=484
-#EXTINF:-1,ZEE Classic
+EXTINF:-1,ZEE Classic
 http://198.98.55.16:80/crtv.php?id=485
 SBS Golf
 http://198.98.55.16:80/crtv.php?id=486
-#EXTINF:-1 group-title="198.98",SBS Sports
+EXTINF:-1 group-title="198.98",SBS Sports
 http://198.98.55.16:80/crtv.php?id=487
 
 http://198.98.55.16:80/crtv.php?id=1031
