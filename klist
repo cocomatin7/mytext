@@ -868,6 +868,7 @@ http://103.130.186.138:8800/oxygenplay/hbo/index.m3u8
 #EXTINF:-1 group-title="ID",nhk world
 http://103.130.186.138:8800/oxygenplay/nhkworld/index.m3u8
 
++ + + + + http://103.47.132.165 + + + + + 
 
 #EXTINF:-1 group-title="103.47",(INDO)FOX FAMILY MOVIES
 http://103.47.132.165/PLTV/88888888/224/3221227117/1.m3u8
@@ -880,7 +881,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227171/1.m3u8
 #EXTINF:-1 group-title="103.47",(INDO) FOOD NETWORK
 http://103.47.132.165/PLTV/88888888/224/3221227191/1.m3u8
 
-#EXTINF:-1,FOX Movies FHD
+#EXTINF:-1 group-title="103.47",FOX Movies FHD
 http://103.47.132.165:80/PLTV/88888888/224/3221227119/3.m3u8
 #EXTINF:-1,Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
@@ -889,11 +890,9 @@ http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
 #EXTINF:-1,FOX MOVIES
 http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
-#EXTINF:-1,FOX FAMILY MOVIES
+#EXTINF:-1 group-title="103.47",FOX FAMILY MOVIES
 http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 http://103.47.132.165:80/PLTV/88888888/224/3221227119/1.m3u8
-
-
 
 + + + + + sports /misc + + + + +
 
@@ -1106,7 +1105,6 @@ http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227171/1.m3u8
 #EXTINF:-1 group-title="GB",BBC World News |103.102
 http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
-
 
 + + + + + VN|VT + + + + +
 
