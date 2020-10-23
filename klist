@@ -4077,27 +4077,22 @@ http://host4.dynns.com/wevelwe/dbab2fe24ce643689045d3c81e1954d6.m3u8
 
 + + + + + ip2121.com + + + + + 
 
-
-
-
-
-#EXTINF:-1,True Visions Fox Movies
-http://ip2121.com:8081/live2/foxpre/chunks.m3u8
-#EXTINF:-1,True Visions Premier Football Hd1
+EXTINF:-1,True Visions Premier Football Hd1
 http://ip2121.com:8081/at1/ENG1/chunks.m3u8
-#EXTINF:-1,True Visions Premier Football Hd2
+EXTINF:-1,True Visions Premier Football Hd2
 http://ip2121.com:8081/at1/ENG2/chunks.m3u8
-#EXTINF:-1,True Visions AXN
-http://ip2121.com:8081/live2/AXN_Y/chunks.m3u8
-#EXTINF:-1,PremieLeague3
+EXTINF:-1,PremieLeague3
 http://ip2121.com:8081/at1/ENG3/playlist.m3u8
-#EXTINF:-1,PremieLeague4
+http://ip2121.com:8081/at1/ENG3/chunks.m3u8
+EXTINF:-1,PremieLeague4
 http://ip2121.com:8081/at1/ENG4/playlist.m3u8
-#EXTINF:-1,PremieLeague5
+EXTINF:-1,PremieLeague5
 http://ip2121.com:8081/at1/ENG5/playlist.m3u8
 
-#EXTINF:-1 group-title="ip2121",TPF HD3
-http://ip2121.com:8081/at1/ENG3/chunks.m3u8
+EXTINF:-1,True Visions Fox Movies
+http://ip2121.com:8081/live2/foxpre/chunks.m3u8
+EXTINF:-1 group-title="ip2121",True Visions AXN
+http://ip2121.com:8081/live2/AXN_Y/chunks.m3u8
 
 + + + + + iptv-wow.my.id / https://www.livedoomovies.com  + + + + +
 
