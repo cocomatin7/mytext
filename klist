@@ -1111,6 +1111,19 @@ http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 #EXTINF:-1,BBC World News |103.47
 http://103.47.132.164/PLTV/88888888/224/3221227171/1.m3u8
 
++ + + + + VN|VT + + + + +
+
+#EXTINF:-1 logo="http://27.64.28.34:9981/imagecache/192" tvg-id="c450d208abc528694e57346b7b1bdf44" group-title="VN|VT",K+NS HD
+http://27.64.28.34:9981/stream/channelid/148000964?profile=pass
+#EXTINF:-1 logo="http://27.64.28.34:9981/imagecache/192" tvg-id="77304737595052459d45b56f87a2bf8b",K+PC HD
+http://27.64.28.34:9981/stream/channelid/927412343?profile=pass
+#EXTINF:-1 logo="http://27.64.28.34:9981/imagecache/193" tvg-id="151cb2776b785fa810bd55f693b24933",K+PM HD
+http://27.64.28.34:9981/stream/channelid/2008161301?profile=pass
+#EXTINF:-1 logo="http://27.64.28.34:9981/imagecache/149" tvg-id="2e5619c706965c0559c7fc7dcb7c6ef5" tvg-chno="62",VTVCab3
+http://27.64.28.34:9981/stream/channelid/1192842798?profile=pass
+#EXTINF:-1 logo="http://27.64.28.34:9981/imagecache/171" tvg-id="758b71736bf43c8e118666961a9087d5" tvg-chno="65" group-title="VN|VT",VTVcab16 - BDTV HD
+http://27.64.28.34:9981/stream/channelid/1936821109?profile=pass
+
 + + + + + VN|htv + + + + +
 
 #EXTINF:-1 group-title="VN|htv",CNN HD |htv
@@ -1776,7 +1789,9 @@ https://104.248.152.125/uk-skysports-news_480/index.m3u8
 
 + + + + + 116.203.182.40:80 + + + + +
 
+#EXTINF:-1, beIN Sport HD2
 http://116.203.182.40:80/hls/bein2.m3u8
+#EXTINF:-1, beIN Sport HD9
 http://116.203.182.40:80/hls/bein9.m3u8
 
 + + + + + 119.59.125.74 + + + + +
