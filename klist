@@ -1576,13 +1576,15 @@ http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
 
 + + + + + 103.253.72.107:9997 + + + + +
 
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1", True Premiere Football HD1 |103
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="103.253", True Premiere Football HD1* |103
 http://103.253.72.107:9997/Premier1/index.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2", True Premiere Football HD2 |103
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2", True Premiere Football HD2* |103
 http://103.253.72.107:9997/Premier2/index.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3", True Premiere Football HD3 |103
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3", True Premiere Football HD3* |103
 http://103.253.72.107:9997/Premier3/index.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 4", True Premiere Football HD4* |103
 http://103.253.72.107:9997/Premier4/index.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 5" group-title="103.253", True Premiere Football HD5* |103
 http://103.253.72.107:9997/Premier5/index.m3u8
 
 + + + + + https://cdn-laos.workpoint.news* / 104.248.152.125* + + + + +
