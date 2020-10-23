@@ -894,96 +894,6 @@ http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 http://103.47.132.165:80/PLTV/88888888/224/3221227119/1.m3u8
 
-+ + + + + sports /misc + + + + +
-
-#EXTINF:-1 group-title="sports",sky sports news
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/9d6f8e5a8de4778.m3u8
-BT Sport ESPN
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/8a877dbc4de64e4.m3u8
-#EXTINF:-1,beIN SPORTS 11 EN
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7d58c543420239a.m3u8
-#EXTINF:-1 group-title="sports",beIN SPORTS 1TK
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/e403389501a6e44.m3u8
-
-#EXTINF:-1 group-title="sports",S Laliga
-http://45.148.26.66:8081/hls/S-1/chunks.m3u8
-#EXTINF:-1,PSL
-http://45.148.26.66:8081/hls/S-2/chunks.m3u8
-#EXTINF:-1 group-title="sports",S Football
-http://45.148.26.66:8081/hls/S-3/chunks.m3u8
-
-#EXTINF:-1 group-title="sports",beIN SPORTS HD1 |arb
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_1_HD/index.m3u8
-#EXTINF:-1,beIN SPORTS HD2 |arb
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_2_HD/index.m3u8
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_3_HD/index.m3u8
-#EXTINF:-1,beIN SPORTS HD4 |arb
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_4_HD/index.m3u8
-#EXTINF:-1,beIN SPORTS HD5 |arb
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_5_HD/index.m3u8
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_6_HD/index.m3u8
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_7_HD/index.m3u8
-#EXTINF:-1,beIN SPORTS HD8 |arb
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_8_HD/index.m3u8
-#EXTINF:-1,beIN SPORTS HD9 |arb
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_9_HD/index.m3u8
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_10_HD/index.m3u8
-#EXTINF:-1,beIN SPORTS HD11 |arb
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_11_HD/index.m3u8
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_12_HD/index.m3u8
-#EXTINF:-1,beIN SPORTS HD13 |arb
-http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_13_HD/index.m3u8
-#EXTINF:-1 group-title="sports",beIN SPORTS UHD13 |arb
-http://arb.ssltv.net:9263/AR_BEIN_SPORTS_13__UHD+/index.m3u8
-
-
-#EXTINF:-1 group-title="sports",Varzesh Sports 1
-http://51.158.66.44/hls/stream.m3u8
-#EXTINF:-1,Varzesh Sports 2 
-http://51.158.176.190/hls/stream.m3u8
-#EXTINF:-1,Varzesh Sports 3
-http://51.15.236.137/hls/stream.m3u8
-#EXTINF:-1 group-title="sports",Varzesh Sports 4
-http://163.172.138.186/hls/stream.m3u8
-
-#EXTINF:-1,Star Sport Select 2HD
-http://103.102.136.106:8080/cmcltv/livesports.m3u8
-#EXTINF:-1,Star Sport Select 1
-http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
-
-#EXTINF:-1 group-title="sports",beIN SPORTS 1
-http://cdn1.52dvb.xyz/5000/playlist.m3u8
-#EXTINF:-1,beIN SPORTS 2
-http://cdn1.52dvb.xyz/5001/playlist.m3u8
-#EXTINF:-1,beIN SPORTS 3
-http://cdn1.52dvb.xyz/5002/playlist.m3u8
-#EXTINF:-1,beIN SPORTS 4
-http://cdn1.52dvb.xyz/5003/playlist.m3u8
-#EXTINF:-1,beIN SPORTS 5
-http://cdn1.52dvb.xyz/5004/playlist.m3u8
-#EXTINF:-1,beIN SPORTS 6
-http://cdn1.52dvb.xyz/5005/playlist.m3u8
-#EXTINF:-1,beIN SPORTS 7
-http://cdn1.52dvb.xyz/5006/playlist.m3u8
-#EXTINF:-1,beIN SPORTS 8
-http://cdn1.52dvb.xyz/5007/playlist.m3u8
-#EXTINF:-1,beIN SPORTS 9
-http://cdn1.52dvb.xyz/5008/playlist.m3u8
-#EXTINF:-1 group-title="sports",beIN SPORTS 10
-http://cdn1.52dvb.xyz/5009/playlist.m3u8
-
-#EXTINF:-1 group-title="sports",CCTV5+
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
-
-#EXTINF:-1 group-title="sports",Eleven Spt 1
-http://tv-swirtvteam.info/oq/co.m3u8?sid=F5357911&id=11633&q=tvhd
-#EXTINF:-1,Eleven Spt 2
-http://tv-swirtvteam.info/oq/co.m3u8?sid=31E93CE1&id=11644&q=tvhd
-#EXTINF:-1,Eleven Spt 3
-http://tv-swirtvteam.info/oq/co.m3u8?sid=27C47133&id=13105&q=tvhd
-#EXTINF:-1 group-title="sports",premier sports extra
-http://tv-swirtvteam.info/oq/co.m3u8?sid=12E0AEDB&id=1504&q=tvhd
-
 + + + + + SG + + + + +
 
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png" group-title="SG",Channel News Asia | d2k
@@ -1317,6 +1227,101 @@ http://fpthanhyen.ddns.net:1211/udp/225.1.1.47:30120
 http://fpthanhyen.ddns.net:1211/udp/225.1.1.139:30120
 #EXTINF:-1 group-title="VN|udp",WBTV |udp
 http://fpthanhyen.ddns.net:1211/udp/225.1.4.14:30120
+
++ + + + + sports /misc + + + + +
+
+#EXTINF:-1 group-title="sports",sky sports news
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/9d6f8e5a8de4778.m3u8
+BT Sport ESPN
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/8a877dbc4de64e4.m3u8
+#EXTINF:-1,beIN SPORTS 11 EN
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7d58c543420239a.m3u8
+#EXTINF:-1 group-title="sports",beIN SPORTS 1TK
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/e403389501a6e44.m3u8
+
+#EXTINF:-1 group-title="sports",S Laliga
+http://45.148.26.66:8081/hls/S-1/chunks.m3u8
+#EXTINF:-1,PSL
+http://45.148.26.66:8081/hls/S-2/chunks.m3u8
+#EXTINF:-1 group-title="sports",S Football
+http://45.148.26.66:8081/hls/S-3/chunks.m3u8
+
+#EXTINF:-1 group-title="sports",Varzesh Sports 1
+http://51.158.66.44/hls/stream.m3u8
+#EXTINF:-1,Varzesh Sports 2 
+http://51.158.176.190/hls/stream.m3u8
+#EXTINF:-1,Varzesh Sports 3
+http://51.15.236.137/hls/stream.m3u8
+
+#EXTINF:-1,Star Sport Select 2HD
+http://103.102.136.106:8080/cmcltv/livesports.m3u8
+#EXTINF:-1,Star Sport Select 1
+http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
+
+#EXTINF:-1 group-title="sports",Varzesh Sports 4
+http://163.172.138.186/hls/stream.m3u8
+
+#EXTINF:-1, beIN Sport HD2
+http://116.203.182.40:80/hls/bein2.m3u8
+#EXTINF:-1, beIN Sport HD9
+http://116.203.182.40:80/hls/bein9.m3u8
+
+#EXTINF:-1 group-title="sports",beIN SPORTS HD1 |arb
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_1_HD/index.m3u8
+#EXTINF:-1,beIN SPORTS HD2 |arb
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_2_HD/index.m3u8
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_3_HD/index.m3u8
+#EXTINF:-1,beIN SPORTS HD4 |arb
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_4_HD/index.m3u8
+#EXTINF:-1,beIN SPORTS HD5 |arb
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_5_HD/index.m3u8
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_6_HD/index.m3u8
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_7_HD/index.m3u8
+#EXTINF:-1,beIN SPORTS HD8 |arb
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_8_HD/index.m3u8
+#EXTINF:-1,beIN SPORTS HD9 |arb
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_9_HD/index.m3u8
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_10_HD/index.m3u8
+#EXTINF:-1,beIN SPORTS HD11 |arb
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_11_HD/index.m3u8
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_12_HD/index.m3u8
+#EXTINF:-1,beIN SPORTS HD13 |arb
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_13_HD/index.m3u8
+#EXTINF:-1 group-title="sports",beIN SPORTS UHD13 |arb
+http://arb.ssltv.net:9263/AR_BEIN_SPORTS_13__UHD+/index.m3u8
+
+#EXTINF:-1 group-title="sports",beIN SPORTS 1
+http://cdn1.52dvb.xyz/5000/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 2
+http://cdn1.52dvb.xyz/5001/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 3
+http://cdn1.52dvb.xyz/5002/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 4
+http://cdn1.52dvb.xyz/5003/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 5
+http://cdn1.52dvb.xyz/5004/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 6
+http://cdn1.52dvb.xyz/5005/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 7
+http://cdn1.52dvb.xyz/5006/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 8
+http://cdn1.52dvb.xyz/5007/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 9
+http://cdn1.52dvb.xyz/5008/playlist.m3u8
+#EXTINF:-1 group-title="sports",beIN SPORTS 10
+http://cdn1.52dvb.xyz/5009/playlist.m3u8
+
+#EXTINF:-1 group-title="sports",CCTV5+
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
+
+#EXTINF:-1 group-title="sports",Eleven Spt 1
+http://tv-swirtvteam.info/oq/co.m3u8?sid=F5357911&id=11633&q=tvhd
+#EXTINF:-1,Eleven Spt 2
+http://tv-swirtvteam.info/oq/co.m3u8?sid=31E93CE1&id=11644&q=tvhd
+#EXTINF:-1,Eleven Spt 3
+http://tv-swirtvteam.info/oq/co.m3u8?sid=27C47133&id=13105&q=tvhd
+#EXTINF:-1 group-title="sports",premier sports extra
+http://tv-swirtvteam.info/oq/co.m3u8?sid=12E0AEDB&id=1504&q=tvhd
 
 + + + + + 5.135.92.133:52841 + + + + +
 
@@ -1794,13 +1799,6 @@ https://104.248.152.125/uk-skysports-mainevent_720/index.m3u8
 https://104.248.152.125/uk-skysports-mix_480/index.m3u8
 offline 
 https://104.248.152.125/uk-skysports-news_480/index.m3u8
-
-+ + + + + 116.203.182.40:80 + + + + +
-
-#EXTINF:-1, beIN Sport HD2
-http://116.203.182.40:80/hls/bein2.m3u8
-#EXTINF:-1, beIN Sport HD9
-http://116.203.182.40:80/hls/bein9.m3u8
 
 + + + + + 119.59.125.74 + + + + +
 
