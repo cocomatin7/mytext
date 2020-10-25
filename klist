@@ -164,9 +164,12 @@ http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/gidl
 https://d39q34kqnktegw.cloudfront.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8
 http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="cookie", MTV |cookie
+MRTV Ent |cookie
+https://d39q34kqnktegw.cloudfront.net/live/37200273-aa1b-42a3-90c9-2c33906df915/prod/gidlean/progress-playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="cookie", MTV Live |cookie
 https://d3ra9zflrl0q8d.cloudfront.net/live/86d311b0-048a-4244-9344-9aa475070a9a/prod/gidlean/progress-playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="cookie", MTV* |cookie
+#EXTINF:-1 tvg-logo="" group-title="cookie", MTV Live* |cookie
 https://d3ra9zflrl0q8d.cloudfront.net/live/86d311b0-048a-4244-9344-9aa475070a9a/prod/gidlean/playlist.m3u8
 
 
@@ -182,12 +185,13 @@ f242a165-5f61-42d5-bfb7-3e1b21c6a3b1 | DVB
 f7c615e1-0c83-46c7-9360-e98cb07a7165 | CN
 3794b443-0bab-4f1c-bea5-3bdf37cf588a
 4ac29732-73a8-45ca-b528-723ac49e5ddc
-37200273-aa1b-42a3-90c9-2c33906df915
+37200273-aa1b-42a3-90c9-2c33906df915 | me
 8c0b7cd2-058a-4497-8680-ae4355c17e99
 a069af10-b125-44fe-ad16-cc418b75eda0
 1ea08af4-3a18-4745-adbc-784d88f6baa0
 586b07c2-9541-4d8d-ba07-d1e0ee4ca93c | FOX SPORTS 3
 1a662db1-8f85-4d97-853a-ca6a4124e69a | FOX SPORTS 2
+f512c3ad-f27d-4177-b570-21dbf2a22522 | FOX SPORTS
 
 
 + + + + + forever + + + + +
