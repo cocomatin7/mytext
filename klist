@@ -143,6 +143,9 @@ https://d39q34kqnktegw.cloudfront.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/
 http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/gidlean/playlist.m3u8
 http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="cookie", FOX SPORTS 3 |cookie
+https://d15yubay3yee43.cloudfront.net/live/586b07c2-9541-4d8d-ba07-d1e0ee4ca93c/prod/gidlean/progress-playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/97/f3/92/97f3927e75ee7651747bcfe4560ea98b.jpg", mntv |cookie
 https://d39q34kqnktegw.cloudfront.net/live/a069af10-b125-44fe-ad16-cc418b75eda0/prod/gidlean/progress-playlist.m3u8
 
@@ -152,6 +155,12 @@ http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/gidl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MRTV_new_logo.png/225px-MRTV_new_logo.png" group-title="cookie", MRTV* |cookie
 https://d39q34kqnktegw.cloudfront.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8
 http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="cookie", MTV |cookie
+https://d3ra9zflrl0q8d.cloudfront.net/live/86d311b0-048a-4244-9344-9aa475070a9a/prod/gidlean/progress-playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="cookie", MTV* |cookie
+https://d3ra9zflrl0q8d.cloudfront.net/live/86d311b0-048a-4244-9344-9aa475070a9a/prod/gidlean/playlist.m3u8
+
 
 172e104d-09f1-4d03-8f06-59fd5ae54fe5 | cinemax
 19daddcf-0f46-4a14-988e-14bc15f03298 | 5 Plus
