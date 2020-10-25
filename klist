@@ -153,6 +153,11 @@ https://d15yubay3yee43.cloudfront.net/live/1a662db1-8f85-4d97-853a-ca6a4124e69a/
 #EXTINF:-1 tvg-logo="" group-title="cookie", FOX SPORTS 3 |cookie
 https://d15yubay3yee43.cloudfront.net/live/586b07c2-9541-4d8d-ba07-d1e0ee4ca93c/prod/gidlean/progress-playlist.m3u8
 
+#EXTINF:-1 tvg-id="HBO HD", HBO MM |cookie
+https://d3ra9zflrl0q8d.cloudfront.net/live/1ea08af4-3a18-4745-adbc-784d88f6baa0/prod/gidlean/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO HD", HBO MM* |cookie
+https://d3ra9zflrl0q8d.cloudfront.net/live/1ea08af4-3a18-4745-adbc-784d88f6baa0/prod/gidlean/progress-playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/97/f3/92/97f3927e75ee7651747bcfe4560ea98b.jpg", mntv |cookie
 https://d39q34kqnktegw.cloudfront.net/live/a069af10-b125-44fe-ad16-cc418b75eda0/prod/gidlean/progress-playlist.m3u8
 
@@ -178,7 +183,7 @@ https://d3ra9zflrl0q8d.cloudfront.net/live/86d311b0-048a-4244-9344-9aa475070a9a/
 172e104d-09f1-4d03-8f06-59fd5ae54fe5 | cinemax
 19daddcf-0f46-4a14-988e-14bc15f03298 | 5 Plus
 1a662db1-8f85-4d97-853a-ca6a4124e69a | FOX SPORTS 2
-1ea08af4-3a18-4745-adbc-784d88f6baa0
+1ea08af4-3a18-4745-adbc-784d88f6baa0 | HBO
 37200273-aa1b-42a3-90c9-2c33906df915 | me
 3794b443-0bab-4f1c-bea5-3bdf37cf588a < mitv
 4984fdb7-86ac-4214-8572-98a4d63aa369 | cookie return
@@ -197,10 +202,11 @@ f7c615e1-0c83-46c7-9360-e98cb07a7165 | CN
 fca755f5-5090-41fd-bf2c-1c0049947d25 < MRTV Farmer
 1095e49d-1c13-47fc-8174-546061a17c3b < MRTV NRC
 
-
-https://d39q34kqnktegw.cloudfront.net/live/8c0b7cd2-058a-4497-8680-ae4355c17e99/prod/gidlean/progress-playlist.m3u8
-
-
+http://live11.cookietv.com/live/1ea08af4-3a18-4745-adbc-784d88f6baa0/prod/gidlean/progress-playlist.m3u8
+https://d15yubay3yee43.cloudfront.net/live/1ea08af4-3a18-4745-adbc-784d88f6baa0/prod/gidlean/progress-playlist.m3u8
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:1ea08af4-3a18-4745-adbc-784d88f6baa0_service/playlist.m3u8
+https://d39q34kqnktegw.cloudfront.net/live/1ea08af4-3a18-4745-adbc-784d88f6baa0/prod/gidlean/progress-playlist.m3u8
+https://d3ra9zflrl0q8d.cloudfront.net/live/1ea08af4-3a18-4745-adbc-784d88f6baa0/prod/gidlean/playlist.m3u8
 
 
 + + + + + forever + + + + +
