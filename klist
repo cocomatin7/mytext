@@ -149,7 +149,8 @@ http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/play
 
 #EXTINF:-1 tvg-logo="" group-title="cookie", FOX SPORTS |cookie
 https://d15yubay3yee43.cloudfront.net/live/f512c3ad-f27d-4177-b570-21dbf2a22522/prod/gidlean/progress-playlist.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="cookie", FOX SPORTS 2 |cookie
+https://d15yubay3yee43.cloudfront.net/live/1a662db1-8f85-4d97-853a-ca6a4124e69a/prod/gidlean/progress-playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="cookie", FOX SPORTS 3 |cookie
 https://d15yubay3yee43.cloudfront.net/live/586b07c2-9541-4d8d-ba07-d1e0ee4ca93c/prod/gidlean/progress-playlist.m3u8
 
@@ -185,6 +186,9 @@ f7c615e1-0c83-46c7-9360-e98cb07a7165 | CN
 8c0b7cd2-058a-4497-8680-ae4355c17e99
 a069af10-b125-44fe-ad16-cc418b75eda0
 1ea08af4-3a18-4745-adbc-784d88f6baa0
+586b07c2-9541-4d8d-ba07-d1e0ee4ca93c | FOX SPORTS 3
+1a662db1-8f85-4d97-853a-ca6a4124e69a | FOX SPORTS 2
+
 
 + + + + + forever + + + + +
 
