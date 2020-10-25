@@ -109,6 +109,7 @@ https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(1095e49d-1c13-4
 
 #EXTINF:-1 tvg-logo="https://rebrand.ly/5p-png" group-title="cookie", 5 Plus |cookie 
 https://d39q34kqnktegw.cloudfront.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/progress-playlist.m3u8
+
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/playlist.m3u8
 
@@ -143,6 +144,8 @@ https://d39q34kqnktegw.cloudfront.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/
 http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/gidlean/playlist.m3u8
 http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="cookie", FOX SPORTS |cookie
+https://d15yubay3yee43.cloudfront.net/live/f512c3ad-f27d-4177-b570-21dbf2a22522/prod/gidlean/progress-playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="cookie", FOX SPORTS 3 |cookie
 https://d15yubay3yee43.cloudfront.net/live/586b07c2-9541-4d8d-ba07-d1e0ee4ca93c/prod/gidlean/progress-playlist.m3u8
 
@@ -172,6 +175,11 @@ c2c4c9be-de30-4059-a430-dac9ed238eac | asia drama
 cae23a30-3ed7-48e6-9778-544f20274955 | MRTV
 f242a165-5f61-42d5-bfb7-3e1b21c6a3b1 | DVB
 f7c615e1-0c83-46c7-9360-e98cb07a7165 | CN
+3794b443-0bab-4f1c-bea5-3bdf37cf588a
+4ac29732-73a8-45ca-b528-723ac49e5ddc
+37200273-aa1b-42a3-90c9-2c33906df915
+8c0b7cd2-058a-4497-8680-ae4355c17e99
+a069af10-b125-44fe-ad16-cc418b75eda0
 
 + + + + + forever + + + + +
 
