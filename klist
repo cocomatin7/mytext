@@ -138,9 +138,12 @@ https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa3
 
 DVB |cookie
 https://d39q34kqnktegw.cloudfront.net/live/f242a165-5f61-42d5-bfb7-3e1b21c6a3b1/prod/gidlean/progress-playlist.m3u8
-
+https://d39q34kqnktegw.cloudfront.net/live/f242a165-5f61-42d5-bfb7-3e1b21c6a3b1/prod/gidlean/playlist.m3u8
+https://d39q34kqnktegw.cloudfront.net/live/f242a165-5f61-42d5-bfb7-3e1b21c6a3b1/prod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qwmJBt1/Fortune-TV-1.png" group-title="cookie", Fortune TV |cookie
 https://d39q34kqnktegw.cloudfront.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/gidlean/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qwmJBt1/Fortune-TV-1.png" group-title="cookie", Fortune TV* |cookie
+https://d39q34kqnktegw.cloudfront.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8
 http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/gidlean/playlist.m3u8
 http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8
 
@@ -180,6 +183,7 @@ f7c615e1-0c83-46c7-9360-e98cb07a7165 | CN
 37200273-aa1b-42a3-90c9-2c33906df915
 8c0b7cd2-058a-4497-8680-ae4355c17e99
 a069af10-b125-44fe-ad16-cc418b75eda0
+1ea08af4-3a18-4745-adbc-784d88f6baa0
 
 + + + + + forever + + + + +
 
