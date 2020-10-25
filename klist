@@ -630,7 +630,7 @@ https://zalogi.xyz/exo/playlist/sig-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO* |alt
 https://zalogi.xyz/exo/playlist/red-mkctvMalingPlaylist.m3u8
 
-#EXTINF:-1 tvg-name="RED BY HBO HD",RED BY HBO |hit
+EXTINF:-1 tvg-name="RED BY HBO HD",RED BY HBO |hit
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/89
 
 https://airam-tafir.github.io/hls/movie/hbo-sig.m3u8
