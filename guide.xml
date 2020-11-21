@@ -1,21 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.3.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Astro SuperSport">
-    <display-name lang="en">Astro SuperSport</display-name>
-    <url>http://www.stadiumastro.com.E</url>
-  </channel>
-  <channel id="Astro SuperSport 2">
-    <display-name lang="en">Astro SuperSport 2</display-name>
-    <url>http://www.stadiumastro.com.E</url>
-  </channel>
-  <channel id="Astro SuperSport 3">
-    <display-name lang="en">Astro SuperSport 3</display-name>
-    <url>http://www.stadiumastro.com.E</url>
-  </channel>
-  <channel id="Astro SuperSport 4">
-    <display-name lang="en">Astro SuperSport 4</display-name>
-    <url>http://www.stadiumastro.com.E</url>
-  </channel>
   <channel id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
     <display-name lang="en">ทรู พรีเมียร์ ฟุตบอล เอชดี 1</display-name>
     <url>http://www.tv.trueid.net</url>
@@ -30,22 +14,27 @@
   </channel>
   <channel id="Cinemax HD">
     <display-name lang="en">Cinemax HD</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png" />
     <url>http://www.starhubtvplus.com.E</url>
   </channel>
   <channel id="HBO HD">
     <display-name lang="en">HBO HD</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png" />
     <url>http://www.starhubtvplus.com.E</url>
   </channel>
   <channel id="HBO Signature HD">
     <display-name lang="en">HBO Signature HD</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png" />
     <url>http://www.starhubtvplus.com.E</url>
   </channel>
   <channel id="HBO Family HD">
     <display-name lang="en">HBO Family HD</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png" />
     <url>http://www.starhubtvplus.com.E</url>
   </channel>
   <channel id="HBO Hits HD">
     <display-name lang="en">HBO Hits HD</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png" />
     <url>http://www.starhubtvplus.com.E</url>
   </channel>
   <channel id="RED BY HBO HD">
@@ -111,6 +100,22 @@
   <channel id="Asian Food Network">
     <display-name lang="en">Asian Food Network</display-name>
     <url>http://www.aisplay.ais.co.th</url>
+  </channel>
+  <channel id="Astro SuperSport">
+    <display-name lang="en">Astro SuperSport</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="Astro SuperSport 2">
+    <display-name lang="en">Astro SuperSport 2</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="Astro SuperSport 3">
+    <display-name lang="en">Astro SuperSport 3</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="Astro SuperSport 4">
+    <display-name lang="en">Astro SuperSport 4</display-name>
+    <url>http://www.stadiumastro.com.E</url>
   </channel>
   <programme start="20201121000000 +0700" stop="20201121020000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
     <title lang="th">PL Classic</title>
@@ -1135,6 +1140,3181 @@
   <programme start="20201125220000 +0700" stop="20201126000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
     <title lang="th">True Premier Football</title>
     <episode-num system="onscreen">S5 E1</episode-num>
+  </programme>
+  <programme start="20201121002000 +0000" stop="20201121030000 +0000" channel="Cinemax HD">
+    <title lang="en">Blade Runner</title>
+    <desc lang="en">Thirty years after the events of the first film, a new blade runner unearths a long buried secret that has the potential to plunge what's left of society into chaos.(n)</desc>
+    <date>2049</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121030000 +0000" stop="20201121040000 +0000" channel="Cinemax HD">
+    <title lang="en">Warrior</title>
+    <desc lang="en">Based on the writings of martial arts legend Bruce Lee, WARRIOR is a gritty, action-packed crime drama set during the brutal Tong Wars of San Francisco's Chinatown in the second half of the 19th century.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121040000 +0000" stop="20201121060000 +0000" channel="Cinemax HD">
+    <title lang="en">Chappie</title>
+    <desc lang="en">Set in the future, a robot programmed with the ability to think and feel for himself becomes the target of destructive forces.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121060000 +0000" stop="20201121080000 +0000" channel="Cinemax HD">
+    <title lang="en">Tomb Raider</title>
+    <desc lang="en">Looking to solve the disappearance of her explorer father, the smart and fearless Lara undertakes a harrowing journey to locate the mythical lost tomb he had been searching for.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121080000 +0000" stop="20201121100000 +0000" channel="Cinemax HD">
+    <title lang="en">Freedom Writers</title>
+    <desc lang="en">Hilary Swank is a committed teacher who must find a way to bring her racially disparate class together in the shadow of the LA riots.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121100000 +0000" stop="20201121113500 +0000" channel="Cinemax HD">
+    <title lang="en">Anchorman: The Legend Of Ron Burgundy</title>
+    <desc lang="en">San Diego's top rated newsman gets threatened by a new female employee with ambition to burn.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121113500 +0000" stop="20201121140000 +0000" channel="Cinemax HD">
+    <title lang="en">Man On Fire</title>
+    <desc lang="en">A jaded and alcoholic ex-C.I.A. agent takes up a new job as a bodyguard to a child who helps reclaim his soul. But when his young charge is abducted, he vows revenge.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121140000 +0000" stop="20201121150000 +0000" channel="Cinemax HD">
+    <title lang="en">Warrior</title>
+    <desc lang="en">Based on the writings of martial arts legend Bruce Lee, WARRIOR is a gritty, action-packed crime drama set during the brutal Tong Wars of San Francisco's Chinatown in the second half of the 19th century.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
+  </programme>
+  <programme start="20201121150000 +0000" stop="20201121165500 +0000" channel="Cinemax HD">
+    <title lang="en">Baby Driver</title>
+    <desc lang="en">Coerced into working for a crime boss, a talented, young getaway driver must face the music when a doomed heist threatens his life, love and freedom.(n)</desc>
+    <category lang="en">General</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121165500 +0000" stop="20201121183500 +0000" channel="Cinemax HD">
+    <title lang="en">Spawn</title>
+    <desc lang="en">An assassin receives the chance to return from Hell if he helps Satan conquer the world as the Spawn.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121183500 +0000" stop="20201121201500 +0000" channel="Cinemax HD">
+    <title lang="en">High &amp; Mighty</title>
+    <desc lang="en">After surviving a vicious shooting unscathed, a lovable lush discovers that he has superhuman powers. But only when he's drunk or high.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
+  </programme>
+  <programme start="20201121201500 +0000" stop="20201121214000 +0000" channel="Cinemax HD">
+    <title lang="en">Jonah Hex</title>
+    <desc lang="en">Jonah Hex is a scarred drifter and bounty hunter who can track down anyone...and anything.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121214000 +0000" stop="20201122004000 +0000" channel="Cinemax HD">
+    <title lang="en">Dances With Wolves</title>
+    <desc lang="en">A war hero decides to take on a post alone in the outer reaches of the frontier wilderness where he eventually becomes friends with the Lakota Sioux Indian tribe.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122004000 +0000" stop="20201122023000 +0000" channel="Cinemax HD">
+    <title lang="en">Misery</title>
+    <desc lang="en">A romance novelist loses control of his car during a snowstorm and is rescued by a nurse who proves to be psychotically deranged. Stars Kathy Bates.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122023000 +0000" stop="20201122045500 +0000" channel="Cinemax HD">
+    <title lang="en">Man On Fire</title>
+    <desc lang="en">A jaded and alcoholic ex-C.I.A. agent takes up a new job as a bodyguard to a child who helps reclaim his soul. But when his young charge is abducted, he vows revenge.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122045500 +0000" stop="20201122062000 +0000" channel="Cinemax HD">
+    <title lang="en">Jonah Hex</title>
+    <desc lang="en">Jonah Hex is a scarred drifter and bounty hunter who can track down anyone...and anything.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122062000 +0000" stop="20201122083500 +0000" channel="Cinemax HD">
+    <title lang="en">Truman</title>
+    <desc lang="en">Gary Sinise stars in this award-winning biographical HBO Original Movie about one of America's greatest presidents.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122083500 +0000" stop="20201122101500 +0000" channel="Cinemax HD">
+    <title lang="en">Anchorman: The Legend Of Ron Burgundy</title>
+    <desc lang="en">San Diego's top rated newsman gets threatened by a new female employee with ambition to burn.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122101500 +0000" stop="20201122120500 +0000" channel="Cinemax HD">
+    <title lang="en">Footloose</title>
+    <desc lang="en">A young Kevin Bacon stars as a teenage hipster who fights for his right to party in a small, conservative mid-western American town.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122120500 +0000" stop="20201122140000 +0000" channel="Cinemax HD">
+    <title lang="en">Red</title>
+    <desc lang="en">The peaceful life of a former CIA agent is interrupted when an assassin shows up, intent on killing him.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122140000 +0000" stop="20201122155000 +0000" channel="Cinemax HD">
+    <title lang="en">Knight And Day</title>
+    <desc lang="en">Unlucky in love, June becomes intrigued by a mysterious man who unexpectedly drags her into a whirlwind adventure involving devious enemies.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122155000 +0000" stop="20201122175500 +0000" channel="Cinemax HD">
+    <title lang="en">The Last King Of Scotland</title>
+    <desc lang="en">A powerful thriller that recreates the world of Uganda under the mad dictatorship of Idi Amin through the eyes of a young Scottish doctor.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
+  </programme>
+  <programme start="20201122175500 +0000" stop="20201122201500 +0000" channel="Cinemax HD">
+    <title lang="en">Fight Club</title>
+    <desc lang="en">A young businessman befriends a sociopathic soap salesman who organizes an underground organisation of Fight Clubs where men engage in no-holds-barred bouts.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
+  </programme>
+  <programme start="20201122201500 +0000" stop="20201122220500 +0000" channel="Cinemax HD">
+    <title lang="en">United 93</title>
+    <desc lang="en">This is the story of the fourth hijacked plane during 9-11, whose passengers sacrificed their lives to thwart the terrorists' mission.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
+  </programme>
+  <programme start="20201122220500 +0000" stop="20201123000000 +0000" channel="Cinemax HD">
+    <title lang="en">Footloose ()</title>
+    <desc lang="en">A city kid moves to a small town where rock 'n' roll and dancing had been banned, and his rebellious spirit shakes up the populace.(n)</desc>
+    <date>2011</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123000000 +0000" stop="20201123013500 +0000" channel="Cinemax HD">
+    <title lang="en">Breakdown</title>
+    <desc lang="en">A man desperately searches for his wife after she gets bizarrely kidnapped in the Southwest desert.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123013500 +0000" stop="20201123034000 +0000" channel="Cinemax HD">
+    <title lang="en">The Peacemaker</title>
+    <desc lang="en">When a terrorist threatens Manhattan with a nuclear onslaught, all hope lies with a colonel and a White House nuclear expert.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123034000 +0000" stop="20201123053000 +0000" channel="Cinemax HD">
+    <title lang="en">In Time</title>
+    <desc lang="en">When a poor, working-class man is falsely accused of murder, he teams up with an heiress to bring down the corrupt system before their time runs out.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123053000 +0000" stop="20201123072500 +0000" channel="Cinemax HD">
+    <title lang="en">Red</title>
+    <desc lang="en">The peaceful life of a former CIA agent is interrupted when an assassin shows up, intent on killing him.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123072500 +0000" stop="20201123091500 +0000" channel="Cinemax HD">
+    <title lang="en">Footloose</title>
+    <desc lang="en">A young Kevin Bacon stars as a teenage hipster who fights for his right to party in a small, conservative mid-western American town.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123091500 +0000" stop="20201123111000 +0000" channel="Cinemax HD">
+    <title lang="en">Recount</title>
+    <desc lang="en">A look at the 2000 Presidential Election following the Florida recount from election day through the Supreme Court's ruling in favor of G. W. Bush.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123111000 +0000" stop="20201123130000 +0000" channel="Cinemax HD">
+    <title lang="en">Knight And Day</title>
+    <desc lang="en">Unlucky in love, June becomes intrigued by a mysterious man who unexpectedly drags her into a whirlwind adventure involving devious enemies.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123130000 +0000" stop="20201123140000 +0000" channel="Cinemax HD">
+    <title lang="en">Warrior</title>
+    <desc lang="en">Based on the writings of martial arts legend Bruce Lee, WARRIOR is a gritty, action-packed crime drama set during the brutal Tong Wars of San Francisco's Chinatown in the second half of the 19th century.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123140000 +0000" stop="20201123154500 +0000" channel="Cinemax HD">
+    <title lang="en">Jarhead 2: Field Of Fire</title>
+    <desc lang="en">Corporal Chris Merriman and his unit fight through the war zone to help an Afghan woman escape from the control of the Taliban.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123154500 +0000" stop="20201123173000 +0000" channel="Cinemax HD">
+    <title lang="en">Insidious: The Last Key</title>
+    <desc lang="en">A parapsychologist returns to her family home to face the unrelenting demons that have plagued her since childhood.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123173000 +0000" stop="20201123193500 +0000" channel="Cinemax HD">
+    <title lang="en">Black Rain</title>
+    <desc lang="en">New York City cops Michael Douglas and Andy Garcia are in too deep when they attempt to take on the Yakuza in Japan.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123193500 +0000" stop="20201123215000 +0000" channel="Cinemax HD">
+    <title lang="en">Dreamcatcher</title>
+    <desc lang="en">Four friends with the power of telepathy are forced to face the worst enemy mankind has ever known.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123215000 +0000" stop="20201123233500 +0000" channel="Cinemax HD">
+    <title lang="en">The Scorpion King 4: Quest For Power</title>
+    <desc lang="en">Betrayed by his trusted friend, Mathayus must garner all his wit and strength to stop a formidable opponent from unlocking a mighty power.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123233500 +0000" stop="20201124010500 +0000" channel="Cinemax HD">
+    <title lang="en">Undercover Brother</title>
+    <desc lang="en">Undercover Brother joins a taskforce of secret agents to thwart an evil plot to rid the world of black culture!(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124010500 +0000" stop="20201124031000 +0000" channel="Cinemax HD">
+    <title lang="en">Black Rain</title>
+    <desc lang="en">New York City cops Michael Douglas and Andy Garcia are in too deep when they attempt to take on the Yakuza in Japan.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124031000 +0000" stop="20201124044500 +0000" channel="Cinemax HD">
+    <title lang="en">Taken 2</title>
+    <desc lang="en">When a retired CIA agent is targeted by a mysterious figure seeking vengeance, he must stop at nothing to protect his family.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124044500 +0000" stop="20201124054500 +0000" channel="Cinemax HD">
+    <title lang="en">Warrior</title>
+    <desc lang="en">Based on the writings of martial arts legend Bruce Lee, WARRIOR is a gritty, action-packed crime drama set during the brutal Tong Wars of San Francisco's Chinatown in the second half of the 19th century.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124054500 +0000" stop="20201124080000 +0000" channel="Cinemax HD">
+    <title lang="en">Dreamcatcher</title>
+    <desc lang="en">Four friends with the power of telepathy are forced to face the worst enemy mankind has ever known.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124080000 +0000" stop="20201124095500 +0000" channel="Cinemax HD">
+    <title lang="en">Recount</title>
+    <desc lang="en">A look at the 2000 Presidential Election following the Florida recount from election day through the Supreme Court's ruling in favor of G. W. Bush.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124095500 +0000" stop="20201124121000 +0000" channel="Cinemax HD">
+    <title lang="en">Vanilla Sky</title>
+    <desc lang="en">After a car accident that disfigures his face, David Aames finds himself on a mind-bending search for his soul and discovers the ephemeral nature of true love.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124121000 +0000" stop="20201124140000 +0000" channel="Cinemax HD">
+    <title lang="en">Inside Man: Most Wanted</title>
+    <desc lang="en">An NYPD hostage negotiator teams with an FBI agent to save hostages in a skillfully orchestrated copycat crime at the Federal Reserve Bank, led by a ruthlessly cunning bank robber.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124140000 +0000" stop="20201124155000 +0000" channel="Cinemax HD">
+    <title lang="en">True Grit ()</title>
+    <desc lang="en">A tough US Marshal helps a stubborn young woman track down her father's murderer.(n)</desc>
+    <date>2010</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124155000 +0000" stop="20201124175000 +0000" channel="Cinemax HD">
+    <title lang="en">Hellboy</title>
+    <desc lang="en">Caught in a clash between the supernatural and the human, Hellboy is hell-bent on stopping a resurrected vengeful sorceress without triggering the end of the world.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
+  </programme>
+  <programme start="20201124175000 +0000" stop="20201124193000 +0000" channel="Cinemax HD">
+    <title lang="en">The Eye</title>
+    <desc lang="en">A woman receives an eye transplant that allows her to see into the supernatural world. Remake of the Hong Kong film 'Jian Gui'.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124193000 +0000" stop="20201124205500 +0000" channel="Cinemax HD">
+    <title lang="en">Seed Of Chucky</title>
+    <desc lang="en">The homicidal doll Chucky is back with his family to create some murderous mayhem in Tinseltown.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124205500 +0000" stop="20201124223000 +0000" channel="Cinemax HD">
+    <title lang="en">Darkman</title>
+    <desc lang="en">A badly-burnt scientist becomes a vigilante after developing a special synthetic skin that turns him into a human chameleon.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124223000 +0000" stop="20201125011000 +0000" channel="Cinemax HD">
+    <title lang="en">Munich</title>
+    <desc lang="en">A group of agents are hired to avenge the murder of Israeli athletes gunned down by terrorists at the 1972 Munich Olympics.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125011000 +0000" stop="20201125025500 +0000" channel="Cinemax HD">
+    <title lang="en">Along Came A Spider</title>
+    <desc lang="en">Morgan Freeman investigates a kidnapping of two girls that may involve a schizophrenic psychopath.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125025500 +0000" stop="20201125043500 +0000" channel="Cinemax HD">
+    <title lang="en">Elektra</title>
+    <desc lang="en">The film follows Elektra as she tries to save those she loves while simultaneously fighting her personal demons and the dangerous assassin clan known as the Hand.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125043500 +0000" stop="20201125062500 +0000" channel="Cinemax HD">
+    <title lang="en">Inside Man: Most Wanted</title>
+    <desc lang="en">An NYPD hostage negotiator teams with an FBI agent to save hostages in a skillfully orchestrated copycat crime at the Federal Reserve Bank, led by a ruthlessly cunning bank robber.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125062500 +0000" stop="20201125080000 +0000" channel="Cinemax HD">
+    <title lang="en">Darkman</title>
+    <desc lang="en">A badly-burnt scientist becomes a vigilante after developing a special synthetic skin that turns him into a human chameleon.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125080000 +0000" stop="20201125100500 +0000" channel="Cinemax HD">
+    <title lang="en">Warm Springs</title>
+    <desc lang="en">One man's secret quest for hope during his darkest days, in a place that would serve as a source of strength for him the rest of his life: Warm Springs.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125100500 +0000" stop="20201125121000 +0000" channel="Cinemax HD">
+    <title lang="en">Blues Brothers</title>
+    <desc lang="en">One half of the original Blues Brothers goes on a mission to reunite the band.(n)</desc>
+    <date>2000</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125121000 +0000" stop="20201125140000 +0000" channel="Cinemax HD">
+    <title lang="en">True Grit ()</title>
+    <desc lang="en">A tough US Marshal helps a stubborn young woman track down her father's murderer.(n)</desc>
+    <date>2010</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125140000 +0000" stop="20201125154000 +0000" channel="Cinemax HD">
+    <title lang="en">Keanu</title>
+    <desc lang="en">Two cousins attempt to infiltrate a street gang to retrieve their purloined pet, only to start a gang war that forces them to take the law into their own hands.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125154000 +0000" stop="20201125171500 +0000" channel="Cinemax HD">
+    <title lang="en">Waist Deep</title>
+    <desc lang="en">An action-packed thriller about an ex-con who must go back outside the law to save his kidnapped son.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125171500 +0000" stop="20201125190500 +0000" channel="Cinemax HD">
+    <title lang="en">Knight And Day</title>
+    <desc lang="en">Unlucky in love, June becomes intrigued by a mysterious man who unexpectedly drags her into a whirlwind adventure involving devious enemies.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125190500 +0000" stop="20201125211500 +0000" channel="Cinemax HD">
+    <title lang="en">Pirates Of The Caribbean: Dead Men Tell No Tales</title>
+    <desc lang="en">Captain Jack Sparrow attempts to turn his fate around and save his own life from his most formidable foe through an uneasy alliance with an astronomer and a young sailor.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125211500 +0000" stop="20201125225500 +0000" channel="Cinemax HD">
+    <title lang="en">Along Came A Spider</title>
+    <desc lang="en">Morgan Freeman investigates a kidnapping of two girls that may involve a schizophrenic psychopath.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125225500 +0000" stop="20201126003500 +0000" channel="Cinemax HD">
+    <title lang="en">Elektra</title>
+    <desc lang="en">The film follows Elektra as she tries to save those she loves while simultaneously fighting her personal demons and the dangerous assassin clan known as the Hand.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201126003500 +0000" stop="20201126023500 +0000" channel="Cinemax HD">
+    <title lang="en">Frequency</title>
+    <desc lang="en">A cop discovers that he can communicate through time with his dead father. But in doing so, the very fabric of reality is disrupted.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126023500 +0000" stop="20201126043500 +0000" channel="Cinemax HD">
+    <title lang="en">Black Mass</title>
+    <desc lang="en">An Irish mobster manages to evade law enforcement to become one of the most ruthless and dangerous gangsters in Boston history.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201126043500 +0000" stop="20201126062500 +0000" channel="Cinemax HD">
+    <title lang="en">Knight And Day</title>
+    <desc lang="en">Unlucky in love, June becomes intrigued by a mysterious man who unexpectedly drags her into a whirlwind adventure involving devious enemies.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201126062500 +0000" stop="20201126080000 +0000" channel="Cinemax HD">
+    <title lang="en">Waist Deep</title>
+    <desc lang="en">An action-packed thriller about an ex-con who must go back outside the law to save his kidnapped son.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201126080000 +0000" stop="20201126100500 +0000" channel="Cinemax HD">
+    <title lang="en">Blues Brothers</title>
+    <desc lang="en">One half of the original Blues Brothers goes on a mission to reunite the band.(n)</desc>
+    <date>2000</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126100500 +0000" stop="20201126122000 +0000" channel="Cinemax HD">
+    <title lang="en">Truman</title>
+    <desc lang="en">Gary Sinise stars in this award-winning biographical HBO Original Movie about one of America's greatest presidents.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126122000 +0000" stop="20201126140000 +0000" channel="Cinemax HD">
+    <title lang="en">Keanu</title>
+    <desc lang="en">Two cousins attempt to infiltrate a street gang to retrieve their purloined pet, only to start a gang war that forces them to take the law into their own hands.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201126140000 +0000" stop="20201126154000 +0000" channel="Cinemax HD">
+    <title lang="en">The Dark Tower</title>
+    <desc lang="en">Locked in an eternal battle with the Man in Black, the last Gunslinger is determined to prevent him from toppling the Dark Tower, which holds the universe together.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121003500 +0000" stop="20201121020500 +0000" channel="HBO HD">
+    <title lang="en">Dr. Seuss' The Lorax</title>
+    <desc lang="en">A fantastical and wildly imaginative parable of conservation, where the Lorax’s advice to an ambitious creature goes unheeded.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121020500 +0000" stop="20201121033000 +0000" channel="HBO HD">
+    <title lang="en">Madagascar</title>
+    <desc lang="en">Four zoo animals accidentally find themselves enroute to Africa, learning first-hand what life in the wild can be like in this animated family comedy.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121033000 +0000" stop="20201121051500 +0000" channel="HBO HD">
+    <title lang="en">Meet The Parents</title>
+    <desc lang="en">A young man struggles to get the blessings of his girlfriend’s father, a former CIA agent who is itching to subject him to his Lie Detector.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121051500 +0000" stop="20201121070500 +0000" channel="HBO HD">
+    <title lang="en">Meet The Fockers</title>
+    <desc lang="en">The misadventures continue in this sequel as the in-laws get together for the first time, with hilarious consequences.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121070500 +0000" stop="20201121084000 +0000" channel="HBO HD">
+    <title lang="en">Little Fockers</title>
+    <desc lang="en">An all-star cast stars in this latest chapter of the worldwide hit franchise. This time, the Fockers and Byrnes brace themselves for the arrival of a baby.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121084000 +0000" stop="20201121104500 +0000" channel="HBO HD">
+    <title lang="en">Mission: Impossible Iii</title>
+    <desc lang="en">Ethan Hunt is recalled from retirement to rescue one of his trainees who has been captured by an evil international weapons and information trader.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121104500 +0000" stop="20201121130000 +0000" channel="HBO HD">
+    <title lang="en">Fast &amp; Furious: Hobbs &amp; Shaw</title>
+    <desc lang="en">When cyber-genetically enhanced anarchist gains control of an insidious bio-threat that could alter humanity forever, a hulking lawman and a lawless outcast must team up to bring the guy down.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121130000 +0000" stop="20201121144000 +0000" channel="HBO HD">
+    <title lang="en">Last Christmas</title>
+    <desc lang="en">Kate, who works as an elf at a year-round holiday shop, faces an endless streak of bad luck and poor decision-making until she meets Tom, a kind-hearted man with a mysterious past who challenges her cynical world view.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121144000 +0000" stop="20201121162000 +0000" channel="HBO HD">
+    <title lang="en">21 Bridges</title>
+    <desc lang="en">An NYPD detective is thrust into a citywide manhunt for a pair of cop killers after uncovering a conspiracy. As the search intensifies, the authorities close all 21 bridges to prevent the killers from escaping Manhattan.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121162000 +0000" stop="20201121175500 +0000" channel="HBO HD">
+    <title lang="en">Rambo: Last Blood</title>
+    <desc lang="en">Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121175500 +0000" stop="20201121201500 +0000" channel="HBO HD">
+    <title lang="en">The Mask Of Zorro</title>
+    <desc lang="en">Twenty years after a life of peace, the original Zorro must train a successor and together, stop the tyranny of his old nemesis.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121201500 +0000" stop="20201121221500 +0000" channel="HBO HD">
+    <title lang="en">Welcome To Marwen</title>
+    <desc lang="en">With his memories lost and no hopes of recovery, Mark fantasises a world based on the great women he knows, allowing him to draw strength to succeed in his real world.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121221500 +0000" stop="20201121234000 +0000" channel="HBO HD">
+    <title lang="en">Madagascar</title>
+    <desc lang="en">Four zoo animals accidentally find themselves enroute to Africa, learning first-hand what life in the wild can be like in this animated family comedy.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121234000 +0000" stop="20201122013000 +0000" channel="HBO HD">
+    <title lang="en">Never Been Kissed</title>
+    <desc lang="en">Drew Barrymore lights up this romantic comedy as a nerdy reporter who must go undercover at a high school for a story, only to relive her agonising adolescence but finding love for the first time.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122013000 +0000" stop="20201122032500 +0000" channel="HBO HD">
+    <title lang="en">Total Recall ()</title>
+    <desc lang="en">A factory worker suspects that he is a spy, but he is unaware which side of the fight he is on.(n)</desc>
+    <date>2012</date>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122032500 +0000" stop="20201122053000 +0000" channel="HBO HD">
+    <title lang="en">Mission: Impossible Iii</title>
+    <desc lang="en">Ethan Hunt is recalled from retirement to rescue one of his trainees who has been captured by an evil international weapons and information trader.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122053000 +0000" stop="20201122072500 +0000" channel="HBO HD">
+    <title lang="en">Yesterday</title>
+    <desc lang="en">After a mysterious blackout, a struggling songwriter discovers that he is the only one who remembers The Beatles and he rises to fame by passing off their songs as his own.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122072500 +0000" stop="20201122094000 +0000" channel="HBO HD">
+    <title lang="en">Fantastic Beasts: The Crimes Of Grindelwald</title>
+    <desc lang="en">Grindelwald escapes custody and Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122094000 +0000" stop="20201122112000 +0000" channel="HBO HD">
+    <title lang="en">Last Christmas</title>
+    <desc lang="en">Kate, who works as an elf at a year-round holiday shop, faces an endless streak of bad luck and poor decision-making until she meets Tom, a kind-hearted man with a mysterious past who challenges her cynical world view.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122112000 +0000" stop="20201122130000 +0000" channel="HBO HD">
+    <title lang="en">21 Bridges</title>
+    <desc lang="en">An NYPD detective is thrust into a citywide manhunt for a pair of cop killers after uncovering a conspiracy. As the search intensifies, the authorities close all 21 bridges to prevent the killers from escaping Manhattan.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122130000 +0000" stop="20201122151000 +0000" channel="HBO HD">
+    <title lang="en">Shazam!</title>
+    <desc lang="en">Courtesy of an ancient wizard, a kid has the ability to turn into an adult version of himself, with superpowers. But he'll need to master these powers quickly to fight the deadly forces of evil.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122151000 +0000" stop="20201122165000 +0000" channel="HBO HD">
+    <title lang="en">300: Rise Of An Empire</title>
+    <desc lang="en">Greek general Themistokles attempts to unite all of Greece against the massive invading Persian forces led by mortal-turned-god Xerxes.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
+  </programme>
+  <programme start="20201122165000 +0000" stop="20201122183500 +0000" channel="HBO HD">
+    <title lang="en">Trouble With The Curve</title>
+    <desc lang="en">An aging baseball scout has to confront his mortality and failing eyesight whilst looking for prospects in another town.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122183500 +0000" stop="20201122200500 +0000" channel="HBO HD">
+    <title lang="en">Jumper</title>
+    <desc lang="en">A teleporting man finds himself in a war between other "Jumpers" and those who have sworn to kill them.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122200500 +0000" stop="20201122220000 +0000" channel="HBO HD">
+    <title lang="en">Total Recall ()</title>
+    <desc lang="en">A factory worker suspects that he is a spy, but he is unaware which side of the fight he is on.(n)</desc>
+    <date>2012</date>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122220000 +0000" stop="20201123000500 +0000" channel="HBO HD">
+    <title lang="en">Trial By Fire</title>
+    <desc lang="en">The true-life Texas story of the unlikely bond between an imprisoned death row inmate and a mother of two from Houston who, though facing staggering odds, fights mightily for his freedom.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123000500 +0000" stop="20201123020000 +0000" channel="HBO HD">
+    <title lang="en">Yesterday</title>
+    <desc lang="en">After a mysterious blackout, a struggling songwriter discovers that he is the only one who remembers The Beatles and he rises to fame by passing off their songs as his own.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123020000 +0000" stop="20201123030000 +0000" channel="HBO HD">
+    <title lang="en">The Undoing</title>
+    <desc lang="en">The series follows a successful therapist, whose seemingly perfect life is shattered by a violent death, a missing spouse and a chain of terrible revelations.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123030000 +0000" stop="20201123045500 +0000" channel="HBO HD">
+    <title lang="en">The Bourne Ultimatum</title>
+    <desc lang="en">Jason Bourne must hunt down his past in order to find a future in this third film of the explosive Bourne franchise.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123045500 +0000" stop="20201123070500 +0000" channel="HBO HD">
+    <title lang="en">Shazam!</title>
+    <desc lang="en">Courtesy of an ancient wizard, a kid has the ability to turn into an adult version of himself, with superpowers. But he'll need to master these powers quickly to fight the deadly forces of evil.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123070500 +0000" stop="20201123091500 +0000" channel="HBO HD">
+    <title lang="en">I Am Sam</title>
+    <desc lang="en">The moving story of unconditional love that grows between a mentally challenged man, his daughter and the attorney who accepts his case pro bono.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123091500 +0000" stop="20201123103500 +0000" channel="HBO HD">
+    <title lang="en">Yogi Bear</title>
+    <desc lang="en">Yogi Bear and Boo Boo must join forces with Park Ranger Smith to save Jellystone Park.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123103500 +0000" stop="20201123120000 +0000" channel="HBO HD">
+    <title lang="en">Sherlock Gnomes</title>
+    <desc lang="en">When Gnomeo and Juliet discover that someone is kidnapping garden gnomes all over London, there’s only one gnome to call...Sherlock Gnomes!!(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123120000 +0000" stop="20201123140000 +0000" channel="HBO HD">
+    <title lang="en">Godzilla</title>
+    <desc lang="en">A spectacular adventure that pits Godzilla against malevolent creatures that threaten the very existence of humans.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123140000 +0000" stop="20201123150000 +0000" channel="HBO HD">
+    <title lang="en">The Undoing</title>
+    <desc lang="en">The series follows a successful therapist, whose seemingly perfect life is shattered by a violent death, a missing spouse and a chain of terrible revelations.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123150000 +0000" stop="20201123164000 +0000" channel="HBO HD">
+    <title lang="en">The Grand Budapest Hotel</title>
+    <desc lang="en">A recount of the adventures of legendary concierge Gustave H. and Zero Moustafa, the lobby boy who becomes his most trusted friend.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123164000 +0000" stop="20201123181000 +0000" channel="HBO HD">
+    <title lang="en">Black Christmas</title>
+    <desc lang="en">A black-masked stalker begins killing sorority women at Hawthorne College one by one. Whoever the killer is, he's about to discover that this generation's young women aren’t about to be anybody's victims.(n)</desc>
+    <category lang="en">Thriller / Suspense</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123181000 +0000" stop="20201123202000 +0000" channel="HBO HD">
+    <title lang="en">I Am Sam</title>
+    <desc lang="en">The moving story of unconditional love that grows between a mentally challenged man, his daughter and the attorney who accepts his case pro bono.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123202000 +0000" stop="20201123220500 +0000" channel="HBO HD">
+    <title lang="en">Repo Men</title>
+    <desc lang="en">In the near future when artificial organs can be bought on credit, a man struggles to pay for a heart and must go on the run before it is repossessed.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123220500 +0000" stop="20201124000000 +0000" channel="HBO HD">
+    <title lang="en">The Souvenir</title>
+    <desc lang="en">A shy but ambitious film student begins to find her voice as an artist while navigating a turbulent courtship with a charismatic but untrustworthy man.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124000000 +0000" stop="20201124020000 +0000" channel="HBO HD">
+    <title lang="en">Joy</title>
+    <desc lang="en">Alliances, innocence and love are put to the test when a matriarch who owns a business empire strives to be the boss of her family and business.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124020000 +0000" stop="20201124030000 +0000" channel="HBO HD">
+    <title lang="en">His Dark Materials</title>
+    <desc lang="en">In the second season, Lord Asriel has opened a bridge to a new world. Distraught over the death of her best friend, Lyra follows Asriel into the unknown.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124030000 +0000" stop="20201124035000 +0000" channel="HBO HD">
+    <title lang="en">Industry</title>
+    <desc lang="en">The series follows a group of young graduates competing for a limited set of permanent positions at a top investment bank in London - but the boundaries between colleague, friend, lover, and enemy soon blur.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124035000 +0000" stop="20201124053000 +0000" channel="HBO HD">
+    <title lang="en">The Grand Budapest Hotel</title>
+    <desc lang="en">A recount of the adventures of legendary concierge Gustave H. and Zero Moustafa, the lobby boy who becomes his most trusted friend.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124053000 +0000" stop="20201124073500 +0000" channel="HBO HD">
+    <title lang="en">Godzilla</title>
+    <desc lang="en">A spectacular adventure that pits Godzilla against malevolent creatures that threaten the very existence of humans.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124073500 +0000" stop="20201124090500 +0000" channel="HBO HD">
+    <title lang="en">A Thousand Words</title>
+    <desc lang="en">A glib man finds out that he has only 1000 words left to speak before he dies.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124090500 +0000" stop="20201124103000 +0000" channel="HBO HD">
+    <title lang="en">The Peanuts Movie</title>
+    <desc lang="en">Charlie embarks on a heroic quest while his beagle pal Snoopy faces his archnemesis, the Red Baron.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20201124103000 +0000" stop="20201124120500 +0000" channel="HBO HD">
+    <title lang="en">Black Christmas</title>
+    <desc lang="en">A black-masked stalker begins killing sorority women at Hawthorne College one by one. Whoever the killer is, he's about to discover that this generation's young women aren’t about to be anybody's victims.(n)</desc>
+    <category lang="en">Thriller / Suspense</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124120500 +0000" stop="20201124140000 +0000" channel="HBO HD">
+    <title lang="en">Cold Pursuit</title>
+    <desc lang="en">A family man turned vigilante unforgivingly hunts down a drug lord and his associates suspected of involvement in the mysterious murder of his son.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124140000 +0000" stop="20201124150000 +0000" channel="HBO HD">
+    <title lang="en">His Dark Materials</title>
+    <desc lang="en">In the second season, Lord Asriel has opened a bridge to a new world. Distraught over the death of her best friend, Lyra follows Asriel into the unknown.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124150000 +0000" stop="20201124155500 +0000" channel="HBO HD">
+    <title lang="en">Industry</title>
+    <desc lang="en">The series follows a group of young graduates competing for a limited set of permanent positions at a top investment bank in London - but the boundaries between colleague, friend, lover, and enemy soon blur.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124155500 +0000" stop="20201124175000 +0000" channel="HBO HD">
+    <title lang="en">Bad Boys ()</title>
+    <desc lang="en">Two Miami cops must switch identities to track down a heroin thief and save their department.(n)</desc>
+    <date>1995</date>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124175000 +0000" stop="20201124195500 +0000" channel="HBO HD">
+    <title lang="en">Moulin Rouge!</title>
+    <desc lang="en">An idealistic young writer is drafted into a bohemian entourage and falls in love with an ambitious but doomed showgirl who is caught between the hero and a ruthless duke.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124195500 +0000" stop="20201124212000 +0000" channel="HBO HD">
+    <title lang="en">Sweetheart</title>
+    <desc lang="en">Washed ashore on a small tropical island, Jenn not only have to survive the elements, she must now fend off the evil force that comes out each night.(n)</desc>
+    <category lang="en">Thriller / Suspense</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124212000 +0000" stop="20201124224500 +0000" channel="HBO HD">
+    <title lang="en">A Shaun The Sheep Movie: Farmageddon</title>
+    <desc lang="en">When an intergalactic visitor LU-LA crash-lands near Mossy Bottom Farm, Shaun soon sees an opportunity for alien-powered fun and adventure to shepherd LU-LA home.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124224500 +0000" stop="20201125004000 +0000" channel="HBO HD">
+    <title lang="en">You've Got Mail</title>
+    <desc lang="en">Two rivals in real life unknowingly end up as soul mates over the Internet.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125004000 +0000" stop="20201125021000 +0000" channel="HBO HD">
+    <title lang="en">A Vigilante</title>
+    <desc lang="en">After undergoing rigorous training, an abused victim turned vigilante protects other abused victims as she hunts her husband to earn her freedom.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125021000 +0000" stop="20201125034000 +0000" channel="HBO HD">
+    <title lang="en">Space Jam</title>
+    <desc lang="en">Michael Jordan and Bugs Bunny team up in an outer space basketball match to save kidnapped Looney Tunes characters.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125034000 +0000" stop="20201125053500 +0000" channel="HBO HD">
+    <title lang="en">Welcome To Marwen</title>
+    <desc lang="en">With his memories lost and no hopes of recovery, Mark fantasises a world based on the great women he knows, allowing him to draw strength to succeed in his real world.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125053500 +0000" stop="20201125073000 +0000" channel="HBO HD">
+    <title lang="en">Cold Pursuit</title>
+    <desc lang="en">A family man turned vigilante unforgivingly hunts down a drug lord and his associates suspected of involvement in the mysterious murder of his son.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125073000 +0000" stop="20201125090000 +0000" channel="HBO HD">
+    <title lang="en">Homegrown Christmas</title>
+    <desc lang="en">After stepping down as CEO of her dream job, Maddie heads home for the holidays to gain perspective. She finds herself running into her old high school sweetheart Carter, and tensions quickly arise.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125090000 +0000" stop="20201125110500 +0000" channel="HBO HD">
+    <title lang="en">Dreamgirls</title>
+    <desc lang="en">Three aspiring performers discover that the path to superstardom is strewn with obstacles and difficult decisions. Stars Jamie Foxx and Beyonce Knowles.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125110500 +0000" stop="20201125130000 +0000" channel="HBO HD">
+    <title lang="en">Mr. &amp; Mrs. Smith</title>
+    <desc lang="en">A married assassin couple has no clue about each other’s profession until they are assigned to take down each other.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125130000 +0000" stop="20201125144000 +0000" channel="HBO HD">
+    <title lang="en">Last Christmas</title>
+    <desc lang="en">Kate, who works as an elf at a year-round holiday shop, faces an endless streak of bad luck and poor decision-making until she meets Tom, a kind-hearted man with a mysterious past who challenges her cynical world view.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125144000 +0000" stop="20201125154500 +0000" channel="HBO HD">
+    <title lang="en">The Undoing</title>
+    <desc lang="en">The series follows a successful therapist, whose seemingly perfect life is shattered by a violent death, a missing spouse and a chain of terrible revelations.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125154500 +0000" stop="20201125173500 +0000" channel="HBO HD">
+    <title lang="en">Mission: Impossible</title>
+    <desc lang="en">Secret agent Ethan Hunt races against time to find the mole who threatens to undermine the CIA's operations. Stars Tom Cruise.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125173500 +0000" stop="20201125192000 +0000" channel="HBO HD">
+    <title lang="en">Hustlers</title>
+    <desc lang="en">Inspired by the viral New York Magazine article, "Hustlers" follows a crew of savvy former strip club employees who band together to turn the tables on their Wall Street clients.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
+  </programme>
+  <programme start="20201125192000 +0000" stop="20201125210500 +0000" channel="HBO HD">
+    <title lang="en">The School Of Rock</title>
+    <desc lang="en">A man redefines teaching by transforming his students into a high-voltage rock band.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125210500 +0000" stop="20201125224000 +0000" channel="HBO HD">
+    <title lang="en">Palm Beach</title>
+    <desc lang="en">A group of old friends reunite at Palm Beach to celebrate a special birthday. However, the fun soon gives way to the messy realities of life.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125224000 +0000" stop="20201126000500 +0000" channel="HBO HD">
+    <title lang="en">Madagascar</title>
+    <desc lang="en">Four zoo animals accidentally find themselves enroute to Africa, learning first-hand what life in the wild can be like in this animated family comedy.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126000500 +0000" stop="20201126020000 +0000" channel="HBO HD">
+    <title lang="en">The Descendants</title>
+    <desc lang="en">When his wife encounters a boating accident off Waikiki, Matt King uses this event to restore his broken relationship with his two daughters while struggling with a decision to sell the family's land.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201126020000 +0000" stop="20201126040000 +0000" channel="HBO HD">
+    <title lang="en">The Garden Of Evening Mists</title>
+    <desc lang="en">Embittered from atrocities of World War II in Malaya, a woman seeking solace in the rolling hills of Cameron Highlands meets a mysterious gardener and embarks on a forbidden love affair.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201126040000 +0000" stop="20201126054000 +0000" channel="HBO HD">
+    <title lang="en">Last Christmas</title>
+    <desc lang="en">Kate, who works as an elf at a year-round holiday shop, faces an endless streak of bad luck and poor decision-making until she meets Tom, a kind-hearted man with a mysterious past who challenges her cynical world view.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201126054000 +0000" stop="20201126073500 +0000" channel="HBO HD">
+    <title lang="en">Bad Boys ()</title>
+    <desc lang="en">Two Miami cops must switch identities to track down a heroin thief and save their department.(n)</desc>
+    <date>1995</date>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126073500 +0000" stop="20201126093500 +0000" channel="HBO HD">
+    <title lang="en">The Social Network</title>
+    <desc lang="en">This film focuses on the evolution of Facebook, and how overnight success and wealth changed the lives of the classmates who created it.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201126093500 +0000" stop="20201126112000 +0000" channel="HBO HD">
+    <title lang="en">The Lego Movie 2: The Second Part</title>
+    <desc lang="en">A new threat from outer space sends heroes of Bricksburg, Emmet, Lucy and Batman on a mission to previously unknown worlds where their brain and brawn are tested.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126112000 +0000" stop="20201126140000 +0000" channel="HBO HD">
+    <title lang="en">Troy</title>
+    <desc lang="en">A spectacular retelling of The Iliad, Troy is an epic tale of passion, heroism, betrayal and war.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121013500 +0000" stop="20201121032500 +0000" channel="HBO Signature HD">
+    <title lang="en">Framing John Delorean</title>
+    <desc lang="en">Who exactly was the real John DeLorean? To some, he was a renegade visionary who revolutionised the automobile industry. To others, he was the ultimate con man.(n)</desc>
+    <category lang="en">Specials [Replace by Fantasy]</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121032500 +0000" stop="20201121045500 +0000" channel="HBO Signature HD">
+    <title lang="en">Everyday People</title>
+    <desc lang="en">The closure of a beloved New York City diner deeply affects its employees and neighbors in this HBO Original Movie.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121045500 +0000" stop="20201121060500 +0000" channel="HBO Signature HD">
+    <title lang="en">Meet The Donors: Does Money Talk?</title>
+    <desc lang="en">Intrepid filmmaker Alexandra Pelosi goes face-to-face with some of the mega-donors who are funding America's presidential candidates to find out why they are pouring millions into our elections.(n)</desc>
+    <category lang="en">Specials [Replace by Fantasy]</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121060500 +0000" stop="20201121080500 +0000" channel="HBO Signature HD">
+    <title lang="en">Blinded By The Light ()</title>
+    <desc lang="en">From writer/director/producer Gurinder Chadha comes the drama "Blinded by the Light", set to the inspiring music and lyrics of Bruce Springsteen's timeless songs.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121080500 +0000" stop="20201121100000 +0000" channel="HBO Signature HD">
+    <title lang="en">In Pursuit Of Honor</title>
+    <desc lang="en">Don Johnson leads a group of men in the fight to save the cavalry's last horses from slaughter.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121100000 +0000" stop="20201121121000 +0000" channel="HBO Signature HD">
+    <title lang="en">One True Thing</title>
+    <desc lang="en">Meryl Streep, Renee Zellweger, and William Hurt embark on a journey of love and self-discovery in this powerful and poignant drama.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121121000 +0000" stop="20201121130500 +0000" channel="HBO Signature HD">
+    <title lang="en">His Dark Materials</title>
+    <desc lang="en">In the second season, Lord Asriel has opened a bridge to a new world. Distraught over the death of her best friend, Lyra follows Asriel into the unknown.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121130500 +0000" stop="20201121140000 +0000" channel="HBO Signature HD">
+    <title lang="en">Industry</title>
+    <desc lang="en">The series follows a group of young graduates competing for a limited set of permanent positions at a top investment bank in London - but the boundaries between colleague, friend, lover, and enemy soon blur.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121140000 +0000" stop="20201121154000 +0000" channel="HBO Signature HD">
+    <title lang="en">Greta</title>
+    <desc lang="en">A young woman who recently lost her mother befriends a lonely French piano teacher whose affection masks a disturbing and dangerous obsession.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121154000 +0000" stop="20201121175500 +0000" channel="HBO Signature HD">
+    <title lang="en">Captain Phillips</title>
+    <desc lang="en">Captain Richard Phillips attempts to escape from armed Somali pirates who hijacked his ship.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121175500 +0000" stop="20201121193500 +0000" channel="HBO Signature HD">
+    <title lang="en">MA</title>
+    <desc lang="en">A lonely woman befriends a group of teenagers and offers her basement for them to party. Just when they thought they lucked out, they begin to question their host's intentions.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121193500 +0000" stop="20201121202000 +0000" channel="HBO Signature HD">
+    <title lang="en">We Are Not Done Yet</title>
+    <desc lang="en">This documentary follows a group of veterans and active-duty service members as they come together to combat past and current traumas through a writing workshop.(n)</desc>
+    <category lang="en">Specials [Replace by Fantasy]</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121202000 +0000" stop="20201121215500 +0000" channel="HBO Signature HD">
+    <title lang="en">The Special Relationship</title>
+    <desc lang="en">The Special Relationship follows British Prime Minister Tony Blair and US President Bill Clinton as the two dynamic leaders become co-stars on the world stage.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121215500 +0000" stop="20201121234500 +0000" channel="HBO Signature HD">
+    <title lang="en">Don't Let Go</title>
+    <desc lang="en">A chilling phone call from his recently murdered niece Ashley sends Detective Jack Radcliff on a race against time to solve her murder - and hopefully prevent it before it happens.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121234500 +0000" stop="20201122015500 +0000" channel="HBO Signature HD">
+    <title lang="en">The Constant Gardener</title>
+    <desc lang="en">A diplomat is shattered when his young wife is mysteriously and brutally murdered. Digging deeper, he finds himself entangled in a series of cover-ups.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122015500 +0000" stop="20201122024500 +0000" channel="HBO Signature HD">
+    <title lang="en">His Dark Materials</title>
+    <desc lang="en">In the second season, Lord Asriel has opened a bridge to a new world. Distraught over the death of her best friend, Lyra follows Asriel into the unknown.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122024500 +0000" stop="20201122034000 +0000" channel="HBO Signature HD">
+    <title lang="en">Industry</title>
+    <desc lang="en">The series follows a group of young graduates competing for a limited set of permanent positions at a top investment bank in London - but the boundaries between colleague, friend, lover, and enemy soon blur.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122034000 +0000" stop="20201122052000 +0000" channel="HBO Signature HD">
+    <title lang="en">Sid &amp; Judy</title>
+    <desc lang="en">A revealing new look at legendary entertainer Judy Garland fifty years after her tragic, untimely death.(n)</desc>
+    <category lang="en">Specials [Replace by Fantasy]</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122052000 +0000" stop="20201122073500 +0000" channel="HBO Signature HD">
+    <title lang="en">Captain Phillips</title>
+    <desc lang="en">Captain Richard Phillips attempts to escape from armed Somali pirates who hijacked his ship.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122073500 +0000" stop="20201122092000 +0000" channel="HBO Signature HD">
+    <title lang="en">Rocket Science</title>
+    <desc lang="en">A wry comedy of adolescent angst and confusion, this HBO Original Movie traces a teenager's journey of tackling the mysteries of life, love and public speaking.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122092000 +0000" stop="20201122112000 +0000" channel="HBO Signature HD">
+    <title lang="en">For Love Or Country: The Arturo Sandoval Story</title>
+    <desc lang="en">An HBO Original film of legendary jazz trumpeter, Arturo Sandoval, and the decision he makes to pursue artistic freedom.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122112000 +0000" stop="20201122130500 +0000" channel="HBO Signature HD">
+    <title lang="en">Little Miss Sunshine</title>
+    <desc lang="en">A dysfunctional family goes on a mishap-filled journey in a crumbling van to realise a little girls's dream of paricipating in a children's beauty pageant.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122130500 +0000" stop="20201122140000 +0000" channel="HBO Signature HD">
+    <title lang="en">The Undoing</title>
+    <desc lang="en">The series follows a successful therapist, whose seemingly perfect life is shattered by a violent death, a missing spouse and a chain of terrible revelations.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122140000 +0000" stop="20201122155500 +0000" channel="HBO Signature HD">
+    <title lang="en">Labor Day</title>
+    <desc lang="en">The lives of a young boy and his mother are changed when they take in an escaped convict over the long Labor Day weekend.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122155500 +0000" stop="20201122162500 +0000" channel="HBO Signature HD">
+    <title lang="en">I May Destroy You</title>
+    <desc lang="en">Three months earlier, Terry visits Arabella in Italy -and debauchery ensues.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
+  </programme>
+  <programme start="20201122162500 +0000" stop="20201122165500 +0000" channel="HBO Signature HD">
+    <title lang="en">I May Destroy You</title>
+    <desc lang="en">Still processing her trauma from two months ago, Arabella sees a therapist and, later, connects with fellow writer Zain. Kwame spurs Damon to step outside his comfort zone.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
+  </programme>
+  <programme start="20201122165500 +0000" stop="20201122184500 +0000" channel="HBO Signature HD">
+    <title lang="en">JT Leroy</title>
+    <desc lang="en">A true story of a girl who pretends to be a boy who identifies as a transgender and how she dupes the elite, the rich and the famous.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122184500 +0000" stop="20201122202000 +0000" channel="HBO Signature HD">
+    <title lang="en">Cold Blood Legacy</title>
+    <desc lang="en">A hitman who spent his entire life killing must now save a life when a young woman seeks refuge in his cabin after a near death accident.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122202000 +0000" stop="20201122220500 +0000" channel="HBO Signature HD">
+    <title lang="en">John Mccain: For Whom The Bell Tolls</title>
+    <desc lang="en">Explore the life of Sen. John McCain in this illuminating profile of one of the most influential forces in modern American politics.(n)</desc>
+    <category lang="en">Specials [Replace by Fantasy]</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122220500 +0000" stop="20201122233500 +0000" channel="HBO Signature HD">
+    <title lang="en">Richard Says Goodbye</title>
+    <desc lang="en">A college professor lives his life with reckless abandon, a biting sense of humor, and a touch of madness.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122233500 +0000" stop="20201123011500 +0000" channel="HBO Signature HD">
+    <title lang="en">Sid &amp; Judy</title>
+    <desc lang="en">A revealing new look at legendary entertainer Judy Garland fifty years after her tragic, untimely death.(n)</desc>
+    <category lang="en">Specials [Replace by Fantasy]</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123011500 +0000" stop="20201123032500 +0000" channel="HBO Signature HD">
+    <title lang="en">Bury My Heart At Wounded Knee</title>
+    <desc lang="en">An HBO Original film which explores the impact after the US government wages a campaign to exterminate American Indians.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123032500 +0000" stop="20201123044000 +0000" channel="HBO Signature HD">
+    <title lang="en">Nixon By Nixon: In His Own Words</title>
+    <desc lang="en">This HBO Documentary shows the many sides of former president Richard Nixon, through his self-recorded private conversations in the White House from 1971 to 1973.(n)</desc>
+    <category lang="en">Specials [Replace by Fantasy]</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123044000 +0000" stop="20201123061000 +0000" channel="HBO Signature HD">
+    <title lang="en">Lions For Lambs</title>
+    <desc lang="en">A poignant story of several individuals caught up at various ends of the U.S. war on terror.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123061000 +0000" stop="20201123080500 +0000" channel="HBO Signature HD">
+    <title lang="en">Labor Day</title>
+    <desc lang="en">The lives of a young boy and his mother are changed when they take in an escaped convict over the long Labor Day weekend.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123080500 +0000" stop="20201123093000 +0000" channel="HBO Signature HD">
+    <title lang="en">We Stand Alone Together: The Men Of Easy Company</title>
+    <desc lang="en">This companion documentary to HBO's World War II miniseries Band of Brothers tells the story of Easy Company through interviews with some of the actual veterans.(n)</desc>
+    <category lang="en">Specials [Replace by Fantasy]</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123093000 +0000" stop="20201123114500 +0000" channel="HBO Signature HD">
+    <title lang="en">The Book Thief</title>
+    <desc lang="en">An inspiring story of a spirited and courageous young girl who transforms the lives of everyone around her when she is sent to live with a foster family in World War II Germany.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123114500 +0000" stop="20201123140000 +0000" channel="HBO Signature HD">
+    <title lang="en">A Beautiful Mind</title>
+    <desc lang="en">Russell Crowe and Jennifer Connelly star in the true-to-life story of a brilliant mathematician. 'A Beautiful Mind'.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123140000 +0000" stop="20201123160500 +0000" channel="HBO Signature HD">
+    <title lang="en">The Best Exotic Marigold Hotel</title>
+    <desc lang="en">When seven cash-strapped seniors decide to retire to an affordable resort in India, friendship and romance blossom there in the most unexpected ways.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123160500 +0000" stop="20201123181000 +0000" channel="HBO Signature HD">
+    <title lang="en">Life Of PI</title>
+    <desc lang="en">After a cataclysmic shipwreck, young Pi Patel finds himself stranded on a lifeboat with the only other survivor - a ferocious Bengal tiger.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123181000 +0000" stop="20201123202500 +0000" channel="HBO Signature HD">
+    <title lang="en">Norma Jean &amp; Marilyn</title>
+    <desc lang="en">Ashley Judd and Mira Sorvino star in this story of the unhappy Norma Jean, whose desire to be someone else drove her to transform herself into Marilyn Monroe.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123202500 +0000" stop="20201123222500 +0000" channel="HBO Signature HD">
+    <title lang="en">Four Weddings And A Funeral</title>
+    <desc lang="en">A reserved Englishman meets attractive American at a wedding and falls in love with her, but his inability to express his feelings seems to forestall any possibility of relationship.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123222500 +0000" stop="20201124001000 +0000" channel="HBO Signature HD">
+    <title lang="en">The Kitchen</title>
+    <desc lang="en">Three 1978 Hell's Kitchen housewives whose mobster husbands are sent to prison by the FBI take the Irish mafia's matters into their own hands, proving unexpectedly adept at everything.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124001000 +0000" stop="20201124014500 +0000" channel="HBO Signature HD">
+    <title lang="en">Lions For Lambs</title>
+    <desc lang="en">A poignant story of several individuals caught up at various ends of the U.S. war on terror.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124014500 +0000" stop="20201124040000 +0000" channel="HBO Signature HD">
+    <title lang="en">A Beautiful Mind</title>
+    <desc lang="en">Russell Crowe and Jennifer Connelly star in the true-to-life story of a brilliant mathematician. 'A Beautiful Mind'.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124040000 +0000" stop="20201124055000 +0000" channel="HBO Signature HD">
+    <title lang="en">JT Leroy</title>
+    <desc lang="en">A true story of a girl who pretends to be a boy who identifies as a transgender and how she dupes the elite, the rich and the famous.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124055000 +0000" stop="20201124080000 +0000" channel="HBO Signature HD">
+    <title lang="en">Green Book</title>
+    <desc lang="en">Faced with racism and danger, a famous African-American pianist and his Caucasian driver must rely on each other as they embark on a transformative journey throughout the concert tour.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124080000 +0000" stop="20201124085000 +0000" channel="HBO Signature HD">
+    <title lang="en">EL Espiritu De La Salsa</title>
+    <desc lang="en">A HBO Original Documentary which follows a group of New Yorkers who come together and connect with each at a Salsa dance school in Spanish Harlem.(n)</desc>
+    <category lang="en">Specials [Replace by Fantasy]</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124085000 +0000" stop="20201124110000 +0000" channel="HBO Signature HD">
+    <title lang="en">Rain Man</title>
+    <desc lang="en">A young wheeler-dealer's life is changed forever when he discovers he has an autistic savant older brother. Stars Tom Cruise and Dustin Hoffman.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124110000 +0000" stop="20201124125500 +0000" channel="HBO Signature HD">
+    <title lang="en">The Silence Of The Lambs</title>
+    <desc lang="en">An FBI trainee is assigned to interview an imprisoned, cannibalistic psychopath in the hope that he may help uncover the identity of an elusive serial killer.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124125500 +0000" stop="20201124140000 +0000" channel="HBO Signature HD">
+    <title lang="en">Meet The Donors: Does Money Talk?</title>
+    <desc lang="en">Intrepid filmmaker Alexandra Pelosi goes face-to-face with some of the mega-donors who are funding America's presidential candidates to find out why they are pouring millions into our elections.(n)</desc>
+    <category lang="en">Specials [Replace by Fantasy]</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124140000 +0000" stop="20201124150000 +0000" channel="HBO Signature HD">
+    <title lang="en">The Undoing</title>
+    <desc lang="en">The series follows a successful therapist, whose seemingly perfect life is shattered by a violent death, a missing spouse and a chain of terrible revelations.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124150000 +0000" stop="20201124165500 +0000" channel="HBO Signature HD">
+    <title lang="en">Four Weddings And A Funeral</title>
+    <desc lang="en">A reserved Englishman meets attractive American at a wedding and falls in love with her, but his inability to express his feelings seems to forestall any possibility of relationship.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124165500 +0000" stop="20201124194000 +0000" channel="HBO Signature HD">
+    <title lang="en">IT: Chapter 2</title>
+    <desc lang="en">27 years after he was defeated, Pennywise is back to terrorise the town of Derry. Now adults, the Losers have to come together to conquer their deepest fears and destroy Pennywise once and for all.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
+  </programme>
+  <programme start="20201124194000 +0000" stop="20201124202500 +0000" channel="HBO Signature HD">
+    <title lang="en">Crisis Hotline: Veterans Press 1</title>
+    <desc lang="en">Told through the work of the responders at the National Veterans Crisis Line, this documentary sheds light on the traumas suffered by the American veterans.(n)</desc>
+    <category lang="en">Specials [Replace by Fantasy]</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124202500 +0000" stop="20201124223000 +0000" channel="HBO Signature HD">
+    <title lang="en">World Trade Center</title>
+    <desc lang="en">A true story about the rescue mission during the aftermath of the World Trade Center disaster on September 11, 2001.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124223000 +0000" stop="20201125004000 +0000" channel="HBO Signature HD">
+    <title lang="en">All The Way</title>
+    <desc lang="en">A riveting HBO Original movie about President Lyndon B. Johnson's tumultuous first year in office in the wake of President Kennedy's assassination.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125004000 +0000" stop="20201125023500 +0000" channel="HBO Signature HD">
+    <title lang="en">The Silence Of The Lambs</title>
+    <desc lang="en">An FBI trainee is assigned to interview an imprisoned, cannibalistic psychopath in the hope that he may help uncover the identity of an elusive serial killer.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125023500 +0000" stop="20201125034000 +0000" channel="HBO Signature HD">
+    <title lang="en">Meet The Donors: Does Money Talk?</title>
+    <desc lang="en">Intrepid filmmaker Alexandra Pelosi goes face-to-face with some of the mega-donors who are funding America's presidential candidates to find out why they are pouring millions into our elections.(n)</desc>
+    <category lang="en">Specials [Replace by Fantasy]</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125034000 +0000" stop="20201125044000 +0000" channel="HBO Signature HD">
+    <title lang="en">The Undoing</title>
+    <desc lang="en">The series follows a successful therapist, whose seemingly perfect life is shattered by a violent death, a missing spouse and a chain of terrible revelations.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125044000 +0000" stop="20201125060500 +0000" channel="HBO Signature HD">
+    <title lang="en">Richard Says Goodbye</title>
+    <desc lang="en">A college professor lives his life with reckless abandon, a biting sense of humor, and a touch of madness.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125060500 +0000" stop="20201125080000 +0000" channel="HBO Signature HD">
+    <title lang="en">US</title>
+    <desc lang="en">An endearing American family is pitted against a terrifying and uncanny opponent: doppelgängers of themselves.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125080000 +0000" stop="20201125101000 +0000" channel="HBO Signature HD">
+    <title lang="en">The Bodyguard</title>
+    <desc lang="en">When beautiful superstar singer Rachel Marron receives death threats, she hires Frank Farmer, the best bodyguard in the business.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125101000 +0000" stop="20201125120500 +0000" channel="HBO Signature HD">
+    <title lang="en">Game Change</title>
+    <desc lang="en">Adapted from the non-fiction book of the same name, this HBO Original Movie provides an insider's look at the 2008 US presidential election.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125120500 +0000" stop="20201125140000 +0000" channel="HBO Signature HD">
+    <title lang="en">Blinded By The Light ()</title>
+    <desc lang="en">From writer/director/producer Gurinder Chadha comes the drama "Blinded by the Light", set to the inspiring music and lyrics of Bruce Springsteen's timeless songs.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125140000 +0000" stop="20201125145500 +0000" channel="HBO Signature HD">
+    <title lang="en">His Dark Materials</title>
+    <desc lang="en">In the second season, Lord Asriel has opened a bridge to a new world. Distraught over the death of her best friend, Lyra follows Asriel into the unknown.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125145500 +0000" stop="20201125154500 +0000" channel="HBO Signature HD">
+    <title lang="en">Industry</title>
+    <desc lang="en">The series follows a group of young graduates competing for a limited set of permanent positions at a top investment bank in London - but the boundaries between colleague, friend, lover, and enemy soon blur.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125154500 +0000" stop="20201125173000 +0000" channel="HBO Signature HD">
+    <title lang="en">Seberg</title>
+    <desc lang="en">Inspired by true events, the film follows the French New Wave darling Jean Seberg in the late 1960s as she is targeted by the FBI for her political and romantic involvement with civil rights activist Hakim Jamal.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125173000 +0000" stop="20201125192000 +0000" channel="HBO Signature HD">
+    <title lang="en">The Bourne Supremacy</title>
+    <desc lang="en">Academy Award winner Matt Damon returns as Jason Bourne, the deadly assassin whose past catches up with him again in this action-packed thriller.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125192000 +0000" stop="20201125210500 +0000" channel="HBO Signature HD">
+    <title lang="en">Don't Let Go</title>
+    <desc lang="en">A chilling phone call from his recently murdered niece Ashley sends Detective Jack Radcliff on a race against time to solve her murder - and hopefully prevent it before it happens.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125210500 +0000" stop="20201125223000 +0000" channel="HBO Signature HD">
+    <title lang="en">Journey Into Dyslexia</title>
+    <desc lang="en">An enlightening documentary that addresses the public's misunderstanding of learning differences, and demonstrates the great potential of each dyslexic individual.(n)</desc>
+    <category lang="en">Specials [Replace by Fantasy]</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125223000 +0000" stop="20201126004000 +0000" channel="HBO Signature HD">
+    <title lang="en">The Bodyguard</title>
+    <desc lang="en">When beautiful superstar singer Rachel Marron receives death threats, she hires Frank Farmer, the best bodyguard in the business.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126004000 +0000" stop="20201126025500 +0000" channel="HBO Signature HD">
+    <title lang="en">Captain Phillips</title>
+    <desc lang="en">Captain Richard Phillips attempts to escape from armed Somali pirates who hijacked his ship.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126025500 +0000" stop="20201126045500 +0000" channel="HBO Signature HD">
+    <title lang="en">Blinded By The Light ()</title>
+    <desc lang="en">From writer/director/producer Gurinder Chadha comes the drama "Blinded by the Light", set to the inspiring music and lyrics of Bruce Springsteen's timeless songs.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126045500 +0000" stop="20201126055000 +0000" channel="HBO Signature HD">
+    <title lang="en">His Dark Materials</title>
+    <desc lang="en">In the second season, Lord Asriel has opened a bridge to a new world. Distraught over the death of her best friend, Lyra follows Asriel into the unknown.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201126055000 +0000" stop="20201126064000 +0000" channel="HBO Signature HD">
+    <title lang="en">Industry</title>
+    <desc lang="en">The series follows a group of young graduates competing for a limited set of permanent positions at a top investment bank in London - but the boundaries between colleague, friend, lover, and enemy soon blur.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201126064000 +0000" stop="20201126083500 +0000" channel="HBO Signature HD">
+    <title lang="en">In Pursuit Of Honor</title>
+    <desc lang="en">Don Johnson leads a group of men in the fight to save the cavalry's last horses from slaughter.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126083500 +0000" stop="20201126100500 +0000" channel="HBO Signature HD">
+    <title lang="en">All About Ann: Governor Richards Of The Lone Star</title>
+    <desc lang="en">An HBO documentary on former Texas Democratic Governor Ann Richards, a liberal who rose to power in a conservative state and becoming a beloved national icon.(n)</desc>
+    <category lang="en">Specials [Replace by Fantasy]</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126100500 +0000" stop="20201126121000 +0000" channel="HBO Signature HD">
+    <title lang="en">Life Of PI</title>
+    <desc lang="en">After a cataclysmic shipwreck, young Pi Patel finds himself stranded on a lifeboat with the only other survivor - a ferocious Bengal tiger.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126121000 +0000" stop="20201126140000 +0000" channel="HBO Signature HD">
+    <title lang="en">Joe's Palace</title>
+    <desc lang="en">An abandoned London mansion, frozen in time, holds within its walls mysteries of past and present lives.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126140000 +0000" stop="20201126160000 +0000" channel="HBO Signature HD">
+    <title lang="en">Mary, Queen Of Scots</title>
+    <desc lang="en">Widowed at 18, Mary Stuart defies the pressure to remarry and returns to her native Scotland to assert her claim to the English throne, threatening Elizabeth I's sovereignty.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
+  </programme>
+  <programme start="20201121001100 +0000" stop="20201121003200 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Theo from Lost &amp; Found helps Amanda deal with her fears about Noah's operation.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121003200 +0000" stop="20201121005300 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Thalia surprises Eldon by showing up in London. James comes home because he is concerned about Piper.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121005300 +0000" stop="20201121011400 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Noah and Amanda struggle with the next step in their relationship.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121011400 +0000" stop="20201121013500 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Riley asks James for some space to sort out her feelings for Alfie.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121013500 +0000" stop="20201121015600 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Riley makes a decision about her relationship with James. Amy tries to help Sloane reconnect with LaTroy.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121015600 +0000" stop="20201121021700 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Emily and Riley choose a Dance Captain. Noah struggles with being reassigned the Qualifier duet.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121021700 +0000" stop="20201121025000 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Riley asks James for an impossible favour for the studio.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121025000 +0000" stop="20201121043500 +0000" channel="HBO Family HD">
+    <title lang="en">The Adventures Of Tintin</title>
+    <desc lang="en">Tintin and his friends go on an exciting treasure hunt.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121043500 +0000" stop="20201121062000 +0000" channel="HBO Family HD">
+    <title lang="en">Eragon</title>
+    <desc lang="en">In a mythical world, a teenage boy becomes a dragon rider with the help of a wise old man, and the boy and his newly-hatched dragon join the resistance to a tyrannical king.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>NC16</value>
+    </rating>
+  </programme>
+  <programme start="20201121062000 +0000" stop="20201121074000 +0000" channel="HBO Family HD">
+    <title lang="en">Scooby-Doo!: Return To Zombie Island</title>
+    <desc lang="en">Join Scooby-Doo, Shaggy and the Mystery Inc. gang as they win a vacation of a lifetime and soon find out that paradise comes with a price when they encounter an army of zombies.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121074000 +0000" stop="20201121093500 +0000" channel="HBO Family HD">
+    <title lang="en">Spider-Man: Into The Spider-Verse</title>
+    <desc lang="en">Spider-Man: Into the Spider-Verse introduces Brooklyn teen Miles Morales, and the limitless possibilities of the Spider-Verse, where more than one can wear the mask.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121093500 +0000" stop="20201121110000 +0000" channel="HBO Family HD">
+    <title lang="en">Crossword Mysteries: Abracadaver</title>
+    <desc lang="en">When the sudden death of a magician turns out to be a murder, a crossword puzzle editor and an NYPD detective team up to solve the crime.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121110000 +0000" stop="20201121123500 +0000" channel="HBO Family HD">
+    <title lang="en">Smallfoot</title>
+    <desc lang="en">The Bigfoot legend is turned upside down when a bright young Yeti finds something he thought didn't exist-a human.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121123500 +0000" stop="20201121150500 +0000" channel="HBO Family HD">
+    <title lang="en">Harry Potter And The Sorcerer's Stone</title>
+    <desc lang="en">Harry Potter learns that he is the orphaned son of two powerful wizards and possesses magical powers.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121150500 +0000" stop="20201121153000 +0000" channel="HBO Family HD">
+    <title lang="en">Happily Ever After: Fairy Tales For Every Child</title>
+    <desc lang="en">B.D. Wong and Vu Mai lend their voices to this animated episode of Little Red Riding Hood, retold in a Chinese setting.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121153000 +0000" stop="20201121155500 +0000" channel="HBO Family HD">
+    <title lang="en">Happily Ever After: Fairy Tales For Every Child</title>
+    <desc lang="en">The Grimm Brothers' story of two hungry children and their encounter with a witch is retold with a Latino perspective.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121155500 +0000" stop="20201121161600 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Henry teaches Amanda a secret skill. Amy and Sloane get assigned an uncomfortable task.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121161600 +0000" stop="20201121163700 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Theo from Lost &amp; Found helps Amanda deal with her fears about Noah's operation.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121163700 +0000" stop="20201121165800 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Thalia surprises Eldon by showing up in London. James comes home because he is concerned about Piper.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121165800 +0000" stop="20201121171900 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Noah and Amanda struggle with the next step in their relationship.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121171900 +0000" stop="20201121174000 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Riley asks James for some space to sort out her feelings for Alfie.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121174000 +0000" stop="20201121180100 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Riley makes a decision about her relationship with James. Amy tries to help Sloane reconnect with LaTroy.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121180100 +0000" stop="20201121182200 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Emily and Riley choose a Dance Captain. Noah struggles with being reassigned the Qualifier duet.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121182200 +0000" stop="20201121185500 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Riley asks James for an impossible favour for the studio.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121185500 +0000" stop="20201121210500 +0000" channel="HBO Family HD">
+    <title lang="en">Newsies: The Broadway Musical</title>
+    <desc lang="en">Filmed live on stage at the Pantages Theatre in Hollywood, CA, this is a not-to-be-missed high energy show starring Original Broadway cast members.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121210500 +0000" stop="20201121223000 +0000" channel="HBO Family HD">
+    <title lang="en">Christmas In Rome</title>
+    <desc lang="en">Fired from her job in Rome just before Christmas, Angela is hired as a tour guide by an American executive looking to buy a high-end Italian ceramics company.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121223000 +0000" stop="20201121230000 +0000" channel="HBO Family HD">
+    <title lang="en">Happily Ever After: Fairy Tales For Every Child</title>
+    <desc lang="en">The tale of the fisherman and his greedy wife after they capture a magical fish is retold in this animated series, and it's done in a Flamenco style.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121230000 +0000" stop="20201121232500 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Cookie Monster learns how to control himself from eating his own paintings.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121232500 +0000" stop="20201121235000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">While Big Bird plays with Elmo and Abby's friend, Julia, he notices that she does things a little differently. They come together to play and sing, celebrating how everyone is special and amazing.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201121235000 +0000" stop="20201122001500 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo has made sure that his apple tree has good soil, water and sunshine, but he still needs to learn how to be patient and wait for it to grow.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122001500 +0000" stop="20201122004000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Nina and her friends make musical instruments out of bike parts to help them make music and attract customers to her new bike shop.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122004000 +0000" stop="20201122010500 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo and Zoe compete to see who can wear the most hats on their head.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122010500 +0000" stop="20201122013100 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Abby helps Turner the worm build a place that feels like home.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122013100 +0000" stop="20201122015700 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Snuffy helps out at Hooper's Store when zoo animals come for brunch. He has to figure out a way to remember everyone's order.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122015700 +0000" stop="20201122022300 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">When Ovejita flies up high after putting on a jetpack, Abby and Nina figure out how to get her back down low.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122022300 +0000" stop="20201122024900 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Rosita and Zoe build their own baby-rocking machine to help rock baby Rollie's cradle so their arms won't get tired.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122024900 +0000" stop="20201122032500 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo sees a rainbow and goes to show it to Rosita but it disappears before she can see it. Rosita, who has never seen one, now becomes determined to.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122032500 +0000" stop="20201122050000 +0000" channel="HBO Family HD">
+    <title lang="en">Smallfoot</title>
+    <desc lang="en">The Bigfoot legend is turned upside down when a bright young Yeti finds something he thought didn't exist-a human.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122050000 +0000" stop="20201122073000 +0000" channel="HBO Family HD">
+    <title lang="en">Harry Potter And The Sorcerer's Stone</title>
+    <desc lang="en">Harry Potter learns that he is the orphaned son of two powerful wizards and possesses magical powers.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122073000 +0000" stop="20201122080000 +0000" channel="HBO Family HD">
+    <title lang="en">Happily Ever After: Fairy Tales For Every Child</title>
+    <desc lang="en">In this animated tale set among towering pyramids, a shoe maker is tasked to produce new shoes for a customer when the previous one he made breaks.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122080000 +0000" stop="20201122093500 +0000" channel="HBO Family HD">
+    <title lang="en">Abominable</title>
+    <desc lang="en">When mischievous friends discover a young yeti on their roof, they embark on a thrilling adventure to reunite the magical creature with his family.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122093500 +0000" stop="20201122110000 +0000" channel="HBO Family HD">
+    <title lang="en">Christmas In Rome</title>
+    <desc lang="en">Fired from her job in Rome just before Christmas, Angela is hired as a tour guide by an American executive looking to buy a high-end Italian ceramics company.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122110000 +0000" stop="20201122124500 +0000" channel="HBO Family HD">
+    <title lang="en">Jumanji</title>
+    <desc lang="en">A fantasy world turns into a real nightmare for two children when they discover an ancient board game that was not played to its resolution many years ago.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122124500 +0000" stop="20201122152500 +0000" channel="HBO Family HD">
+    <title lang="en">Harry Potter And The Chamber Of Secrets</title>
+    <desc lang="en">The famous boy wizard and his friends are back at Hogwarts to save the school from a terrible evil.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122152500 +0000" stop="20201122155000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Cookie Monster learns how to control himself from eating his own paintings.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122155000 +0000" stop="20201122161500 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">While Big Bird plays with Elmo and Abby's friend, Julia, he notices that she does things a little differently. They come together to play and sing, celebrating how everyone is special and amazing.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122161500 +0000" stop="20201122164000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo has made sure that his apple tree has good soil, water and sunshine, but he still needs to learn how to be patient and wait for it to grow.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122164000 +0000" stop="20201122170500 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Nina and her friends make musical instruments out of bike parts to help them make music and attract customers to her new bike shop.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122170500 +0000" stop="20201122173000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo and Zoe compete to see who can wear the most hats on their head.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122173000 +0000" stop="20201122175500 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Abby helps Turner the worm build a place that feels like home.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122175500 +0000" stop="20201122182000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Snuffy helps out at Hooper's Store when zoo animals come for brunch. He has to figure out a way to remember everyone's order.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122182000 +0000" stop="20201122184500 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">When Ovejita flies up high after putting on a jetpack, Abby and Nina figure out how to get her back down low.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122184500 +0000" stop="20201122191100 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Rosita and Zoe build their own baby-rocking machine to help rock baby Rollie's cradle so their arms won't get tired.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122191100 +0000" stop="20201122194500 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo sees a rainbow and goes to show it to Rosita but it disappears before she can see it. Rosita, who has never seen one, now becomes determined to.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122194500 +0000" stop="20201122212000 +0000" channel="HBO Family HD">
+    <title lang="en">Mean Girls</title>
+    <desc lang="en">Cady is a hit with the A-list clique at her new school, until she makes the mistake of falling for one of their ex-boyfriends.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122212000 +0000" stop="20201122230000 +0000" channel="HBO Family HD">
+    <title lang="en">Home Alone 3</title>
+    <desc lang="en">A terrorist team hides a stolen computer chip in a toy car that winds up in the hands of an eight-year-old boy who is home alone with the chicken pox.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122230000 +0000" stop="20201122232600 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Rosita and Zoe build their own baby-rocking machine to help rock baby Rollie's cradle so their arms won't get tired.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122232600 +0000" stop="20201122235500 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo sees a rainbow and goes to show it to Rosita but it disappears before she can see it. Rosita, who has never seen one, now becomes determined to.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201122235500 +0000" stop="20201123014000 +0000" channel="HBO Family HD">
+    <title lang="en">Jumanji</title>
+    <desc lang="en">A fantasy world turns into a real nightmare for two children when they discover an ancient board game that was not played to its resolution many years ago.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123014000 +0000" stop="20201123032000 +0000" channel="HBO Family HD">
+    <title lang="en">Mean Girls</title>
+    <desc lang="en">Cady is a hit with the A-list clique at her new school, until she makes the mistake of falling for one of their ex-boyfriends.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123032000 +0000" stop="20201123045500 +0000" channel="HBO Family HD">
+    <title lang="en">Abominable</title>
+    <desc lang="en">When mischievous friends discover a young yeti on their roof, they embark on a thrilling adventure to reunite the magical creature with his family.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123045500 +0000" stop="20201123052000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Abby makes the seasons change on Sesame Street.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201123052000 +0000" stop="20201123055000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Prairie Dawn learns that it doesn't matter if you're a boy or girl, anyone can dress-up in any costume and play any way they want.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201123055000 +0000" stop="20201123083000 +0000" channel="HBO Family HD">
+    <title lang="en">Harry Potter And The Chamber Of Secrets</title>
+    <desc lang="en">The famous boy wizard and his friends are back at Hogwarts to save the school from a terrible evil.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123083000 +0000" stop="20201123100000 +0000" channel="HBO Family HD">
+    <title lang="en">The Spongebob Squarepants Movie</title>
+    <desc lang="en">Spongebob Squarepants leaves Bikini Bottom to track down King Neptune's stolen crown and save Mr. Krabs from execution.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123100000 +0000" stop="20201123103000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">It's Father's Day and Rosita's friends help her make a video message so she can tell her dad how much she loves him.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201123103000 +0000" stop="20201123110000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Redusa the Recycling Fairy visits Sesame Street and helps everyone recycle their old trash into something new to help keep the earth clean and beautiful.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201123110000 +0000" stop="20201123122500 +0000" channel="HBO Family HD">
+    <title lang="en">The Secret Life Of Pets 2</title>
+    <desc lang="en">The sequel to the comedic blockbuster continues to follows Max and gang as they take on new adventures and find the courage to become their own heroes.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123122500 +0000" stop="20201123140500 +0000" channel="HBO Family HD">
+    <title lang="en">Home Alone 3</title>
+    <desc lang="en">A terrorist team hides a stolen computer chip in a toy car that winds up in the hands of an eight-year-old boy who is home alone with the chicken pox.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123140500 +0000" stop="20201123163000 +0000" channel="HBO Family HD">
+    <title lang="en">Harry Potter And The Prisoner Of Azkaban</title>
+    <desc lang="en">Harry, Ron and Hermione return as teenagers for a third term at Hogwarts School of Witchcraft and Wizardry and must face a dangerous convict.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123163000 +0000" stop="20201123165100 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Josh has to choose between his loyalty to his friend and his team.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201123165100 +0000" stop="20201123171500 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Kingston and Ozzy discovers Elliot's shocking secret.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201123171500 +0000" stop="20201123191000 +0000" channel="HBO Family HD">
+    <title lang="en">Marley &amp; Me</title>
+    <desc lang="en">To have a taste of parenthood, a columnist and his wife adopted an incorrigible Labrador who will become an indispensable part of the family.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123191000 +0000" stop="20201123205000 +0000" channel="HBO Family HD">
+    <title lang="en">Galaxy Quest</title>
+    <desc lang="en">The alumni cast of a cult space TV show have to play their roles as the real thing when an alien race needs their help.(n)</desc>
+    <category lang="en">Sci-Fi</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123205000 +0000" stop="20201123230000 +0000" channel="HBO Family HD">
+    <title lang="en">The Twilight Saga: New Moon</title>
+    <desc lang="en">In the second instalment of the Twilight franchise, the romance between mortal Bella Swan and vampire Edward Cullen grows more intense as ancient secrets threaten to destroy them.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123230000 +0000" stop="20201123232600 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">It's Father's Day and Rosita's friends help her make a video message so she can tell her dad how much she loves him.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201123232600 +0000" stop="20201123235500 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Redusa the Recycling Fairy visits Sesame Street and helps everyone recycle their old trash into something new to help keep the earth clean and beautiful.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201123235500 +0000" stop="20201124012500 +0000" channel="HBO Family HD">
+    <title lang="en">The Spongebob Squarepants Movie</title>
+    <desc lang="en">Spongebob Squarepants leaves Bikini Bottom to track down King Neptune's stolen crown and save Mr. Krabs from execution.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124012500 +0000" stop="20201124032000 +0000" channel="HBO Family HD">
+    <title lang="en">Marley &amp; Me</title>
+    <desc lang="en">To have a taste of parenthood, a columnist and his wife adopted an incorrigible Labrador who will become an indispensable part of the family.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124032000 +0000" stop="20201124045000 +0000" channel="HBO Family HD">
+    <title lang="en">The Secret Life Of Pets 2</title>
+    <desc lang="en">The sequel to the comedic blockbuster continues to follows Max and gang as they take on new adventures and find the courage to become their own heroes.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124045000 +0000" stop="20201124052000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo learns how to win and lose gracefully while playing Hot Potato with Abby.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201124052000 +0000" stop="20201124055000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo helps Curly Bear come to terms with giving up her binky.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201124055000 +0000" stop="20201124073500 +0000" channel="HBO Family HD">
+    <title lang="en">Galaxy Quest</title>
+    <desc lang="en">The alumni cast of a cult space TV show have to play their roles as the real thing when an alien race needs their help.(n)</desc>
+    <category lang="en">Sci-Fi</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124073500 +0000" stop="20201124100000 +0000" channel="HBO Family HD">
+    <title lang="en">Harry Potter And The Prisoner Of Azkaban</title>
+    <desc lang="en">Harry, Ron and Hermione return as teenagers for a third term at Hogwarts School of Witchcraft and Wizardry and must face a dangerous convict.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124100000 +0000" stop="20201124103000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo, Rosita and Chris try to find six camouflaged things on Sesame Street so they can join the Camouflage Club.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201124103000 +0000" stop="20201124110000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo doesn't give up and keeps practicing until he learns how to play the song Twinkle Twinkle Little Star on his piano.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201124110000 +0000" stop="20201124122500 +0000" channel="HBO Family HD">
+    <title lang="en">Crossword Mysteries: Proposing Murder</title>
+    <desc lang="en">When an old friend of a crossword puzzle editor is found murdered on his proposal day, the editor teams up with a lieutenant to find the killer.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124122500 +0000" stop="20201124141000 +0000" channel="HBO Family HD">
+    <title lang="en">Imagine That</title>
+    <desc lang="en">When a successful executive suffers a crisis of confidence and his career is at stake, he finds the solution to his problems in his daughter's imaginary world.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124141000 +0000" stop="20201124155500 +0000" channel="HBO Family HD">
+    <title lang="en">Pokemon Detective Pikachu</title>
+    <desc lang="en">Tim, the son of missing detective Harry Goodman, teams up with Harry's partner, Detective Pikachu, to find out what happened. In the process, they uncover a plot that could threaten the Pokemon world.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124155500 +0000" stop="20201124161600 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Miss Kate is forced to make a drastic decision and the dancers struggle to pick up the pieces.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201124161600 +0000" stop="20201124164000 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">A visit from Josh's brother wreaks havoc on Josh's future at the studio.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201124164000 +0000" stop="20201124183500 +0000" channel="HBO Family HD">
+    <title lang="en">Blended</title>
+    <desc lang="en">Two bickering single parents are stuck with each other when their families are forced to share a suite for a week at a resort.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124183500 +0000" stop="20201124204500 +0000" channel="HBO Family HD">
+    <title lang="en">The Twilight Saga: New Moon</title>
+    <desc lang="en">In the second instalment of the Twilight franchise, the romance between mortal Bella Swan and vampire Edward Cullen grows more intense as ancient secrets threaten to destroy them.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124204500 +0000" stop="20201124211500 +0000" channel="HBO Family HD">
+    <title lang="en">Happily Ever After: Fairy Tales For Every Child</title>
+    <desc lang="en">Join Aladdin, his genie and a princess who knows kung fu in this animated family adventure.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201124211500 +0000" stop="20201124230000 +0000" channel="HBO Family HD">
+    <title lang="en">Eragon</title>
+    <desc lang="en">In a mythical world, a teenage boy becomes a dragon rider with the help of a wise old man, and the boy and his newly-hatched dragon join the resistance to a tyrannical king.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>NC16</value>
+    </rating>
+  </programme>
+  <programme start="20201124230000 +0000" stop="20201124232600 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo, Rosita and Chris try to find six camouflaged things on Sesame Street so they can join the Camouflage Club.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201124232600 +0000" stop="20201124235500 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo doesn't give up and keeps practicing until he learns how to play the song Twinkle Twinkle Little Star on his piano.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201124235500 +0000" stop="20201125012000 +0000" channel="HBO Family HD">
+    <title lang="en">Crossword Mysteries: Proposing Murder</title>
+    <desc lang="en">When an old friend of a crossword puzzle editor is found murdered on his proposal day, the editor teams up with a lieutenant to find the killer.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125012000 +0000" stop="20201125030500 +0000" channel="HBO Family HD">
+    <title lang="en">Pokemon Detective Pikachu</title>
+    <desc lang="en">Tim, the son of missing detective Harry Goodman, teams up with Harry's partner, Detective Pikachu, to find out what happened. In the process, they uncover a plot that could threaten the Pokemon world.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125030500 +0000" stop="20201125045500 +0000" channel="HBO Family HD">
+    <title lang="en">Imagine That</title>
+    <desc lang="en">When a successful executive suffers a crisis of confidence and his career is at stake, he finds the solution to his problems in his daughter's imaginary world.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125045500 +0000" stop="20201125052000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">When Segi becomes upset after reading a book about her favourite character, Mando, Chris and Leela help her see that being brown is snazzy.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201125052000 +0000" stop="20201125055000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Elmo helps Professor Buck Awe, played by Saturday Night Live's Taran Killam, teach a class of chickens using strategies he learned in preschool.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201125055000 +0000" stop="20201125073500 +0000" channel="HBO Family HD">
+    <title lang="en">Eragon</title>
+    <desc lang="en">In a mythical world, a teenage boy becomes a dragon rider with the help of a wise old man, and the boy and his newly-hatched dragon join the resistance to a tyrannical king.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>NC16</value>
+    </rating>
+  </programme>
+  <programme start="20201125073500 +0000" stop="20201125080500 +0000" channel="HBO Family HD">
+    <title lang="en">Happily Ever After: Fairy Tales For Every Child</title>
+    <desc lang="en">Catch this animated program about King Midas and his ability to turn anything into gold, done in an R&amp;B musical style.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201125080500 +0000" stop="20201125100000 +0000" channel="HBO Family HD">
+    <title lang="en">Blended</title>
+    <desc lang="en">Two bickering single parents are stuck with each other when their families are forced to share a suite for a week at a resort.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125100000 +0000" stop="20201125103000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Ernie and Elmo help Bert tap into his imagination as he acts out different scenes for a movie.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201125103000 +0000" stop="20201125110000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Freddy Flapman, real estate agent to birds, tries to convince Big Bird to migrate away from Sesame Street.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201125110000 +0000" stop="20201125123500 +0000" channel="HBO Family HD">
+    <title lang="en">Abominable</title>
+    <desc lang="en">When mischievous friends discover a young yeti on their roof, they embark on a thrilling adventure to reunite the magical creature with his family.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125123500 +0000" stop="20201125143000 +0000" channel="HBO Family HD">
+    <title lang="en">Spider-Man: Into The Spider-Verse</title>
+    <desc lang="en">Spider-Man: Into the Spider-Verse introduces Brooklyn teen Miles Morales, and the limitless possibilities of the Spider-Verse, where more than one can wear the mask.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125143000 +0000" stop="20201125160000 +0000" channel="HBO Family HD">
+    <title lang="en">Christmas In Rome</title>
+    <desc lang="en">Fired from her job in Rome just before Christmas, Angela is hired as a tour guide by an American executive looking to buy a high-end Italian ceramics company.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125160000 +0000" stop="20201125162100 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Amy's future at the studio is threatened when her mother makes a difficult demand.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201125162100 +0000" stop="20201125164500 +0000" channel="HBO Family HD">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Piper helps Amy to find the strength she needs to finally have an honest conversation with her mother.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201125164500 +0000" stop="20201125185000 +0000" channel="HBO Family HD">
+    <title lang="en">The Fault In Our Stars</title>
+    <desc lang="en">A gutsy teen girl with terminal cancer meets an irreverent boy who is cancer free at a support group and the irreverent pair fall in love.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>NC16</value>
+    </rating>
+  </programme>
+  <programme start="20201125185000 +0000" stop="20201125205000 +0000" channel="HBO Family HD">
+    <title lang="en">The Twilight Saga: Breaking Dawn (Part 1)</title>
+    <desc lang="en">Fourth instalment of The Twilight Saga franchise brings unforeseen and shocking developments for Bella and Edward following their marriage and the birth of their child.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>NC16</value>
+    </rating>
+  </programme>
+  <programme start="20201125205000 +0000" stop="20201125222500 +0000" channel="HBO Family HD">
+    <title lang="en">Mean Girls</title>
+    <desc lang="en">Cady is a hit with the A-list clique at her new school, until she makes the mistake of falling for one of their ex-boyfriends.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125222500 +0000" stop="20201125230000 +0000" channel="HBO Family HD">
+    <title lang="en">Happily Ever After: Fairy Tales For Every Child</title>
+    <desc lang="en">Join Aladdin, his genie and a princess who knows kung fu in this animated family adventure.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201125230000 +0000" stop="20201125232600 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Ernie and Elmo help Bert tap into his imagination as he acts out different scenes for a movie.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201125232600 +0000" stop="20201125235500 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Freddy Flapman, real estate agent to birds, tries to convince Big Bird to migrate away from Sesame Street.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201125235500 +0000" stop="20201126013000 +0000" channel="HBO Family HD">
+    <title lang="en">Abominable</title>
+    <desc lang="en">When mischievous friends discover a young yeti on their roof, they embark on a thrilling adventure to reunite the magical creature with his family.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126013000 +0000" stop="20201126032500 +0000" channel="HBO Family HD">
+    <title lang="en">Spider-Man: Into The Spider-Verse</title>
+    <desc lang="en">Spider-Man: Into the Spider-Verse introduces Brooklyn teen Miles Morales, and the limitless possibilities of the Spider-Verse, where more than one can wear the mask.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126032500 +0000" stop="20201126045000 +0000" channel="HBO Family HD">
+    <title lang="en">Christmas In Rome</title>
+    <desc lang="en">Fired from her job in Rome just before Christmas, Angela is hired as a tour guide by an American executive looking to buy a high-end Italian ceramics company.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126045000 +0000" stop="20201126051500 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Abby and Elmo are the Boo-Boo Busters; finding friends on Sesame Street who need help making their boo-boos better.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201126051500 +0000" stop="20201126054500 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">The Bookaneers, a band of book and reading-loving pirates led by Tina Fey, comes to Sesame Street! They invite Elmo to become a Bookaneer, and together they look for the pirates' treasure, the library.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201126054500 +0000" stop="20201126075000 +0000" channel="HBO Family HD">
+    <title lang="en">The Fault In Our Stars</title>
+    <desc lang="en">A gutsy teen girl with terminal cancer meets an irreverent boy who is cancer free at a support group and the irreverent pair fall in love.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>NC16</value>
+    </rating>
+  </programme>
+  <programme start="20201126075000 +0000" stop="20201126092500 +0000" channel="HBO Family HD">
+    <title lang="en">Mean Girls</title>
+    <desc lang="en">Cady is a hit with the A-list clique at her new school, until she makes the mistake of falling for one of their ex-boyfriends.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126092500 +0000" stop="20201126100000 +0000" channel="HBO Family HD">
+    <title lang="en">Happily Ever After: Fairy Tales For Every Child</title>
+    <desc lang="en">Catch a selection of popular nursery rhymes in this animated series that includes characters like Jack &amp; Jill and Little Miss Muffet.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201126100000 +0000" stop="20201126103000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Chris and Elmo help Alan compete in challenges to become the "Cast Iron Cook.".(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201126103000 +0000" stop="20201126110000 +0000" channel="HBO Family HD">
+    <title lang="en">Sesame Street</title>
+    <desc lang="en">Abby is excited to meet her new stepbrother, Rudy, for the first time. Rosita and Elmo help Abby look out for him so she can see Rudy as soon as he gets to Sesame Street.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Drama Series</category>
+  </programme>
+  <programme start="20201126110000 +0000" stop="20201126125000 +0000" channel="HBO Family HD">
+    <title lang="en">Little</title>
+    <desc lang="en">A tech mogul wakes up one morning in the body of her 13-year-old self right before a do-or-die presentation.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>NC16</value>
+    </rating>
+  </programme>
+  <programme start="20201126125000 +0000" stop="20201126142500 +0000" channel="HBO Family HD">
+    <title lang="en">Smallfoot</title>
+    <desc lang="en">The Bigfoot legend is turned upside down when a bright young Yeti finds something he thought didn't exist-a human.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121004500 +0000" stop="20201121031000 +0000" channel="HBO Hits HD">
+    <title lang="en">The Goldfinch</title>
+    <desc lang="en">Since the tragic death of his mother, Theo is sent on a stirring odyssey from grief to redemption, and even love, as he holds on to one tangible piece of hope from that terrible day - a painting of a goldfinch.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121031000 +0000" stop="20201121045000 +0000" channel="HBO Hits HD">
+    <title lang="en">Babe: Pig In The City</title>
+    <desc lang="en">Babe is back! In this sequel, Babe must travel to the city to save the farm.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121045000 +0000" stop="20201121061500 +0000" channel="HBO Hits HD">
+    <title lang="en">Wonder Park</title>
+    <desc lang="en">The imagination of a creative girl brings a stunning amusement park to life.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121061500 +0000" stop="20201121080000 +0000" channel="HBO Hits HD">
+    <title lang="en">Second Act</title>
+    <desc lang="en">Frustrated with life when she is denied of a promotion due to her lack of a college degree, a middle-aged woman proves that there is more to life than just being book-smart.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121080000 +0000" stop="20201121095500 +0000" channel="HBO Hits HD">
+    <title lang="en">How To Lose A Guy In 10 Days</title>
+    <desc lang="en">Matthew McConoughey and Kate Hudson play a twisted game of love.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121095500 +0000" stop="20201121113500 +0000" channel="HBO Hits HD">
+    <title lang="en">Charlie's Angels</title>
+    <desc lang="en">With the world’s smartest, bravest, and most highly trained women all over the globe, there are now teams of Angels guided by multiple Bosleys taking on the toughest jobs everywhere.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121113500 +0000" stop="20201121130500 +0000" channel="HBO Hits HD">
+    <title lang="en">Wonder Park</title>
+    <desc lang="en">The imagination of a creative girl brings a stunning amusement park to life.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121130500 +0000" stop="20201121150000 +0000" channel="HBO Hits HD">
+    <title lang="en">Pitch Perfect</title>
+    <desc lang="en">A rebellious student goes beyond her comfort zone to join her college’s all-female a capella group.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121150000 +0000" stop="20201121164000 +0000" channel="HBO Hits HD">
+    <title lang="en">Escape Plan: The Extractors</title>
+    <desc lang="en">After rescuing the kidnapped daughter of a Hong Kong tech mogul from a Latvian prison, Ray Breslin's girlfriend is also captured. Now Breslin and his team must pull off a deadly mission against time.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121164000 +0000" stop="20201121184000 +0000" channel="HBO Hits HD">
+    <title lang="en">Pain &amp; Gain</title>
+    <desc lang="en">Based on a true story, an ambitious group of personal trainers goes after the American Dream, but gets caught up in a criminal enterprise that turns horribly wrong.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
+  </programme>
+  <programme start="20201121184000 +0000" stop="20201121211000 +0000" channel="HBO Hits HD">
+    <title lang="en">The Goldfinch</title>
+    <desc lang="en">Since the tragic death of his mother, Theo is sent on a stirring odyssey from grief to redemption, and even love, as he holds on to one tangible piece of hope from that terrible day - a painting of a goldfinch.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201121211000 +0000" stop="20201121225000 +0000" channel="HBO Hits HD">
+    <title lang="en">Charlie's Angels</title>
+    <desc lang="en">With the world’s smartest, bravest, and most highly trained women all over the globe, there are now teams of Angels guided by multiple Bosleys taking on the toughest jobs everywhere.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201121225000 +0000" stop="20201122004500 +0000" channel="HBO Hits HD">
+    <title lang="en">How To Lose A Guy In 10 Days</title>
+    <desc lang="en">Matthew McConoughey and Kate Hudson play a twisted game of love.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122004500 +0000" stop="20201122022000 +0000" channel="HBO Hits HD">
+    <title lang="en">Escape Plan: The Extractors</title>
+    <desc lang="en">After rescuing the kidnapped daughter of a Hong Kong tech mogul from a Latvian prison, Ray Breslin's girlfriend is also captured. Now Breslin and his team must pull off a deadly mission against time.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122022000 +0000" stop="20201122040500 +0000" channel="HBO Hits HD">
+    <title lang="en">Second Act</title>
+    <desc lang="en">Frustrated with life when she is denied of a promotion due to her lack of a college degree, a middle-aged woman proves that there is more to life than just being book-smart.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122040500 +0000" stop="20201122061000 +0000" channel="HBO Hits HD">
+    <title lang="en">The Twilight Saga: Twilight</title>
+    <desc lang="en">Kristen Stewart risks everything for love. The twist is, she is in love with a vampire.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122061000 +0000" stop="20201122080500 +0000" channel="HBO Hits HD">
+    <title lang="en">Pitch Perfect</title>
+    <desc lang="en">A rebellious student goes beyond her comfort zone to join her college’s all-female a capella group.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122080500 +0000" stop="20201122093500 +0000" channel="HBO Hits HD">
+    <title lang="en">Nancy Drew And The Hidden Staircase</title>
+    <desc lang="en">Nancy is asked to help solve the ghostly activity in the Twin Elms mansion.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122093500 +0000" stop="20201122110000 +0000" channel="HBO Hits HD">
+    <title lang="en">Wonder Park</title>
+    <desc lang="en">The imagination of a creative girl brings a stunning amusement park to life.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122110000 +0000" stop="20201122123500 +0000" channel="HBO Hits HD">
+    <title lang="en">Escape Plan: The Extractors</title>
+    <desc lang="en">After rescuing the kidnapped daughter of a Hong Kong tech mogul from a Latvian prison, Ray Breslin's girlfriend is also captured. Now Breslin and his team must pull off a deadly mission against time.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122123500 +0000" stop="20201122150000 +0000" channel="HBO Hits HD">
+    <title lang="en">The Goldfinch</title>
+    <desc lang="en">Since the tragic death of his mother, Theo is sent on a stirring odyssey from grief to redemption, and even love, as he holds on to one tangible piece of hope from that terrible day - a painting of a goldfinch.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122150000 +0000" stop="20201122170500 +0000" channel="HBO Hits HD">
+    <title lang="en">Harry Potter And The Deathly Hallows - Part 2</title>
+    <desc lang="en">Laced with visual magic and haunting storytelling, the hugely successful billion-dollar film franchise is brought to its triumphant close.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122170500 +0000" stop="20201122185500 +0000" channel="HBO Hits HD">
+    <title lang="en">Pitch Perfect</title>
+    <desc lang="en">A rebellious student goes beyond her comfort zone to join her college’s all-female a capella group.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122185500 +0000" stop="20201122202000 +0000" channel="HBO Hits HD">
+    <title lang="en">Nancy Drew And The Hidden Staircase</title>
+    <desc lang="en">Nancy is asked to help solve the ghostly activity in the Twin Elms mansion.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201122202000 +0000" stop="20201122220500 +0000" channel="HBO Hits HD">
+    <title lang="en">Rough Night</title>
+    <desc lang="en">Five best friends from college reunite 10 years later for a wild weekend getaway in Miami, where their outrageous antics and hard partying result in hilarious unexpected consequences.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
+  </programme>
+  <programme start="20201122220500 +0000" stop="20201122235500 +0000" channel="HBO Hits HD">
+    <title lang="en">Second Act</title>
+    <desc lang="en">Frustrated with life when she is denied of a promotion due to her lack of a college degree, a middle-aged woman proves that there is more to life than just being book-smart.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201122235500 +0000" stop="20201123015000 +0000" channel="HBO Hits HD">
+    <title lang="en">Pitch Perfect</title>
+    <desc lang="en">A rebellious student goes beyond her comfort zone to join her college’s all-female a capella group.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123015000 +0000" stop="20201123035500 +0000" channel="HBO Hits HD">
+    <title lang="en">The Twilight Saga: Twilight</title>
+    <desc lang="en">Kristen Stewart risks everything for love. The twist is, she is in love with a vampire.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123035500 +0000" stop="20201123053500 +0000" channel="HBO Hits HD">
+    <title lang="en">Escape Plan: The Extractors</title>
+    <desc lang="en">After rescuing the kidnapped daughter of a Hong Kong tech mogul from a Latvian prison, Ray Breslin's girlfriend is also captured. Now Breslin and his team must pull off a deadly mission against time.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123053500 +0000" stop="20201123080500 +0000" channel="HBO Hits HD">
+    <title lang="en">The Goldfinch</title>
+    <desc lang="en">Since the tragic death of his mother, Theo is sent on a stirring odyssey from grief to redemption, and even love, as he holds on to one tangible piece of hope from that terrible day - a painting of a goldfinch.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123080500 +0000" stop="20201123093500 +0000" channel="HBO Hits HD">
+    <title lang="en">Wonder Park</title>
+    <desc lang="en">The imagination of a creative girl brings a stunning amusement park to life.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123093500 +0000" stop="20201123111000 +0000" channel="HBO Hits HD">
+    <title lang="en">Babe: Pig In The City</title>
+    <desc lang="en">Babe is back! In this sequel, Babe must travel to the city to save the farm.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123111000 +0000" stop="20201123132000 +0000" channel="HBO Hits HD">
+    <title lang="en">Harry Potter And The Deathly Hallows - Part 2</title>
+    <desc lang="en">Laced with visual magic and haunting storytelling, the hugely successful billion-dollar film franchise is brought to its triumphant close.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123132000 +0000" stop="20201123150000 +0000" channel="HBO Hits HD">
+    <title lang="en">Charlie's Angels</title>
+    <desc lang="en">With the world’s smartest, bravest, and most highly trained women all over the globe, there are now teams of Angels guided by multiple Bosleys taking on the toughest jobs everywhere.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123150000 +0000" stop="20201123165000 +0000" channel="HBO Hits HD">
+    <title lang="en">Second Act</title>
+    <desc lang="en">Frustrated with life when she is denied of a promotion due to her lack of a college degree, a middle-aged woman proves that there is more to life than just being book-smart.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123165000 +0000" stop="20201123183000 +0000" channel="HBO Hits HD">
+    <title lang="en">Escape Plan: The Extractors</title>
+    <desc lang="en">After rescuing the kidnapped daughter of a Hong Kong tech mogul from a Latvian prison, Ray Breslin's girlfriend is also captured. Now Breslin and his team must pull off a deadly mission against time.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201123183000 +0000" stop="20201123201500 +0000" channel="HBO Hits HD">
+    <title lang="en">Rough Night</title>
+    <desc lang="en">Five best friends from college reunite 10 years later for a wild weekend getaway in Miami, where their outrageous antics and hard partying result in hilarious unexpected consequences.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
+  </programme>
+  <programme start="20201123201500 +0000" stop="20201123221500 +0000" channel="HBO Hits HD">
+    <title lang="en">How To Lose A Guy In 10 Days</title>
+    <desc lang="en">Matthew McConoughey and Kate Hudson play a twisted game of love.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123221500 +0000" stop="20201123235000 +0000" channel="HBO Hits HD">
+    <title lang="en">Nancy Drew And The Hidden Staircase</title>
+    <desc lang="en">Nancy is asked to help solve the ghostly activity in the Twin Elms mansion.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201123235000 +0000" stop="20201124022000 +0000" channel="HBO Hits HD">
+    <title lang="en">The Goldfinch</title>
+    <desc lang="en">Since the tragic death of his mother, Theo is sent on a stirring odyssey from grief to redemption, and even love, as he holds on to one tangible piece of hope from that terrible day - a painting of a goldfinch.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124022000 +0000" stop="20201124035500 +0000" channel="HBO Hits HD">
+    <title lang="en">Charlie's Angels</title>
+    <desc lang="en">With the world’s smartest, bravest, and most highly trained women all over the globe, there are now teams of Angels guided by multiple Bosleys taking on the toughest jobs everywhere.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124035500 +0000" stop="20201124053500 +0000" channel="HBO Hits HD">
+    <title lang="en">Second Act</title>
+    <desc lang="en">Frustrated with life when she is denied of a promotion due to her lack of a college degree, a middle-aged woman proves that there is more to life than just being book-smart.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124053500 +0000" stop="20201124080000 +0000" channel="HBO Hits HD">
+    <title lang="en">Memoirs Of A Geisha</title>
+    <desc lang="en">When a young girl is sold to a geisha house, she embarks on a lifelong journey which sees her blossoming into the legendary geisha, Sayuri.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124080000 +0000" stop="20201124093500 +0000" channel="HBO Hits HD">
+    <title lang="en">Babe: Pig In The City</title>
+    <desc lang="en">Babe is back! In this sequel, Babe must travel to the city to save the farm.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124093500 +0000" stop="20201124113000 +0000" channel="HBO Hits HD">
+    <title lang="en">How To Lose A Guy In 10 Days</title>
+    <desc lang="en">Matthew McConoughey and Kate Hudson play a twisted game of love.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124113000 +0000" stop="20201124132500 +0000" channel="HBO Hits HD">
+    <title lang="en">Pitch Perfect</title>
+    <desc lang="en">A rebellious student goes beyond her comfort zone to join her college’s all-female a capella group.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124132500 +0000" stop="20201124150000 +0000" channel="HBO Hits HD">
+    <title lang="en">Escape Plan: The Extractors</title>
+    <desc lang="en">After rescuing the kidnapped daughter of a Hong Kong tech mogul from a Latvian prison, Ray Breslin's girlfriend is also captured. Now Breslin and his team must pull off a deadly mission against time.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124150000 +0000" stop="20201124164500 +0000" channel="HBO Hits HD">
+    <title lang="en">Rough Night</title>
+    <desc lang="en">Five best friends from college reunite 10 years later for a wild weekend getaway in Miami, where their outrageous antics and hard partying result in hilarious unexpected consequences.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
+  </programme>
+  <programme start="20201124164500 +0000" stop="20201124191500 +0000" channel="HBO Hits HD">
+    <title lang="en">The Goldfinch</title>
+    <desc lang="en">Since the tragic death of his mother, Theo is sent on a stirring odyssey from grief to redemption, and even love, as he holds on to one tangible piece of hope from that terrible day - a painting of a goldfinch.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124191500 +0000" stop="20201124213000 +0000" channel="HBO Hits HD">
+    <title lang="en">Harry Potter And The Deathly Hallows - Part 2</title>
+    <desc lang="en">Laced with visual magic and haunting storytelling, the hugely successful billion-dollar film franchise is brought to its triumphant close.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201124213000 +0000" stop="20201124231000 +0000" channel="HBO Hits HD">
+    <title lang="en">Escape Plan: The Extractors</title>
+    <desc lang="en">After rescuing the kidnapped daughter of a Hong Kong tech mogul from a Latvian prison, Ray Breslin's girlfriend is also captured. Now Breslin and his team must pull off a deadly mission against time.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201124231000 +0000" stop="20201125003500 +0000" channel="HBO Hits HD">
+    <title lang="en">Wonder Park</title>
+    <desc lang="en">The imagination of a creative girl brings a stunning amusement park to life.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125003500 +0000" stop="20201125022000 +0000" channel="HBO Hits HD">
+    <title lang="en">Second Act</title>
+    <desc lang="en">Frustrated with life when she is denied of a promotion due to her lack of a college degree, a middle-aged woman proves that there is more to life than just being book-smart.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125022000 +0000" stop="20201125043000 +0000" channel="HBO Hits HD">
+    <title lang="en">Harry Potter And The Deathly Hallows - Part 2</title>
+    <desc lang="en">Laced with visual magic and haunting storytelling, the hugely successful billion-dollar film franchise is brought to its triumphant close.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125043000 +0000" stop="20201125062000 +0000" channel="HBO Hits HD">
+    <title lang="en">Pitch Perfect</title>
+    <desc lang="en">A rebellious student goes beyond her comfort zone to join her college’s all-female a capella group.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125062000 +0000" stop="20201125080000 +0000" channel="HBO Hits HD">
+    <title lang="en">Babe: Pig In The City</title>
+    <desc lang="en">Babe is back! In this sequel, Babe must travel to the city to save the farm.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125080000 +0000" stop="20201125094000 +0000" channel="HBO Hits HD">
+    <title lang="en">Charlie's Angels</title>
+    <desc lang="en">With the world’s smartest, bravest, and most highly trained women all over the globe, there are now teams of Angels guided by multiple Bosleys taking on the toughest jobs everywhere.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125094000 +0000" stop="20201125111000 +0000" channel="HBO Hits HD">
+    <title lang="en">Wonder Park</title>
+    <desc lang="en">The imagination of a creative girl brings a stunning amusement park to life.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125111000 +0000" stop="20201125134000 +0000" channel="HBO Hits HD">
+    <title lang="en">The Goldfinch</title>
+    <desc lang="en">Since the tragic death of his mother, Theo is sent on a stirring odyssey from grief to redemption, and even love, as he holds on to one tangible piece of hope from that terrible day - a painting of a goldfinch.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125134000 +0000" stop="20201125150000 +0000" channel="HBO Hits HD">
+    <title lang="en">Open Water</title>
+    <desc lang="en">Based on a true story follows a young couple Daniel and Susan who are on an island holiday. Upon arrival at their hotel it becomes clear that Daniel and Susan's relationship is under strain from their workaholic lifestyles and they need a vacation even more than they realized. The next morning the loving and rested couple certified scuba divers board a local dive boat for an underwater tour of the reef.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125150000 +0000" stop="20201125165500 +0000" channel="HBO Hits HD">
+    <title lang="en">Pitch Perfect</title>
+    <desc lang="en">A rebellious student goes beyond her comfort zone to join her college’s all-female a capella group.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125165500 +0000" stop="20201125184000 +0000" channel="HBO Hits HD">
+    <title lang="en">Second Act</title>
+    <desc lang="en">Frustrated with life when she is denied of a promotion due to her lack of a college degree, a middle-aged woman proves that there is more to life than just being book-smart.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125184000 +0000" stop="20201125202000 +0000" channel="HBO Hits HD">
+    <title lang="en">Escape Plan: The Extractors</title>
+    <desc lang="en">After rescuing the kidnapped daughter of a Hong Kong tech mogul from a Latvian prison, Ray Breslin's girlfriend is also captured. Now Breslin and his team must pull off a deadly mission against time.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125202000 +0000" stop="20201125214000 +0000" channel="HBO Hits HD">
+    <title lang="en">Open Water</title>
+    <desc lang="en">Based on a true story follows a young couple Daniel and Susan who are on an island holiday. Upon arrival at their hotel it becomes clear that Daniel and Susan's relationship is under strain from their workaholic lifestyles and they need a vacation even more than they realized. The next morning the loving and rested couple certified scuba divers board a local dive boat for an underwater tour of the reef.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201125214000 +0000" stop="20201125231500 +0000" channel="HBO Hits HD">
+    <title lang="en">Charlie's Angels</title>
+    <desc lang="en">With the world’s smartest, bravest, and most highly trained women all over the globe, there are now teams of Angels guided by multiple Bosleys taking on the toughest jobs everywhere.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201125231500 +0000" stop="20201126011500 +0000" channel="HBO Hits HD">
+    <title lang="en">The Twilight Saga: Eclipse</title>
+    <desc lang="en">In the third instalment of the Twilight franchise, Bella is surrounded by danger and an evil vampire continues her quest for revenge.(n)</desc>
+    <category lang="en">Romance</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201126011500 +0000" stop="20201126032000 +0000" channel="HBO Hits HD">
+    <title lang="en">Syriana</title>
+    <desc lang="en">George Clooney is a ready-to-retire CIA veteran who gets sucked into a dangerous conspiracy on his last mission in the Middle East.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201126032000 +0000" stop="20201126053500 +0000" channel="HBO Hits HD">
+    <title lang="en">Fantastic Beasts: The Crimes Of Grindelwald</title>
+    <desc lang="en">Grindelwald escapes custody and Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126053500 +0000" stop="20201126075500 +0000" channel="HBO Hits HD">
+    <title lang="en">Motherless Brooklyn</title>
+    <desc lang="en">A lonely private detective afflicted with Tourette's Syndrome ventures to solve the murder of his mentor and only friend, unraveling closely-guarded secrets that hold the fate of the whole city in the balance.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201126075500 +0000" stop="20201126093500 +0000" channel="HBO Hits HD">
+    <title lang="en">Playmobil: The Movie</title>
+    <desc lang="en">A young woman travels to the animated world of Playmobil to find her missing younger brother, Charlie. In order to bring him back home, she must embark on a thrilling adventure.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126093500 +0000" stop="20201126110000 +0000" channel="HBO Hits HD">
+    <title lang="en">The Emoji Movie</title>
+    <desc lang="en">Discover Textopolis, a bustling city where all your favorite emojis live. Three unlikely friends embark on a journey to save their world before it's deleted forever.(n)</desc>
+    <category lang="en">Family</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20201126110000 +0000" stop="20201126130500 +0000" channel="HBO Hits HD">
+    <title lang="en">Die Hard 2</title>
+    <desc lang="en">A detective is drawn into a deadly game of cat-and-mouse with an elite special forces unit which has seized a bustling airport in Washington, D.C.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20201126130500 +0000" stop="20201126150000 +0000" channel="HBO Hits HD">
+    <title lang="en">Chappie</title>
+    <desc lang="en">Set in the future, a robot programmed with the ability to think and feel for himself becomes the target of destructive forces.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
   </programme>
   <programme start="20201121002000 +0000" stop="20201121021000 +0000" channel="RED BY HBO HD">
     <title lang="en">Love Reborn</title>
