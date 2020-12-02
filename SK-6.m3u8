@@ -2,11 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:6
 #EXT-X-MEDIA-SEQUENCE:30544
-#EXTINF:5.999,
-https://ip2121.com/web/skynet6/l_8689_183264134_30544.ts?nimblesessionid=10965870
-#EXTINF:6,
-https://ip2121.com/web/skynet6/l_8689_183270133_30545.ts?nimblesessionid=10965870
-#EXTINF:6,
-https://ip2121.com/web/skynet6/l_8689_183276133_30546.ts?nimblesessionid=10965870
-#EXTINF:6,
-https://ip2121.com/web/skynet6/l_8689_183282133_30547.ts?nimblesessionid=10965870
+#EXTINF:5.999,URI="https://ip2121.com/web/skynet6/l_8689_183264134_30544.ts?nimblesessionid=10965870"
+#EXTINF:6,URI="https://ip2121.com/web/skynet6/l_8689_183270133_30545.ts?nimblesessionid=10965870"
+#EXTINF:6,URI="https://ip2121.com/web/skynet6/l_8689_183276133_30546.ts?nimblesessionid=10965870"
+#EXTINF:6,URI="https://ip2121.com/web/skynet6/l_8689_183282133_30547.ts?nimblesessionid=10965870"
