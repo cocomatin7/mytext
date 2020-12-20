@@ -8445,7 +8445,10 @@ http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Zee Cinema",ZEE Cinema US**
 https://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Zee TV" group-title="IN/z5",ZEE TV HD *offline*
+
+#EXTINF:-1 tvg-id="Zee TV" group-title="IN/z5",ZEE TV HD
+http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/playlist.m3u8
+
 http://z5amshls.akamaized.net/zeetvhd/playlist.m3u8
 http://z5amshls.akamaized.net/zeetvhd/tracks-v1a1/playlist.m3u8
 http://z5amshls.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
