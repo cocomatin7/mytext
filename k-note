@@ -1,8 +1,6 @@
 ﻿#EXTM3U 
 x-tvg-url="https://rebrand.ly/k-epg"
 
-
-
 #EXTINF:-1 group-title="DHAMMA", ပရိတ်ကြီး ၁၁ သုတ် မြောက်ဦးဆရာတော်
 https://www.youtube.com/watch?v=qtxyTrPdsJk
 #EXTINF:-1, ဓာရဏပရိတ်တော် ပါဠိ၊အနက် - ကြာနီကန်ဆရာတော် 
@@ -1635,6 +1633,13 @@ http://www.iamntp.com/hbo/sig_onweb.m3u8
  tvg-id="RED BY HBO HD" group-title="movies", Red By HBO /onweb
 http://www.iamntp.com/hbo/red_onweb.m3u8
 
+https://dootvgun.com/hbotv/hbohd/playlist.m3u8
+https://dootvgun.com/hbotv/hbofam/playlist.m3u8
+https://dootvgun.com/hbotv/hbosig/playlist.m3u8
+https://dootvgun.com/hbotv/hbored/playlist.m3u8
+https://dootvgun.com/hbotv/hbohits/playlist.m3u8
+https://dootvgun.com/hbotv/hbomax/playlist.m3u8
+
 + + + + + movies /misc + + + + +
 
 http://194.76.186.15:8080/play/a03a/index.m3u8 < HOT
@@ -1898,6 +1903,12 @@ https://bucketdaily02.s3.eu-west-2.amazonaws.com/e2/2.m3u8
 
 * live event 9 * off *
 https://bucketdaily02.s3.eu-west-2.amazonaws.com/e1/1.m3u8
+
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8 < N
+http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8 < N
+http://ip2121.com:8081/at1/ENG3/chunks.m3u8 < N
 
 
 #EXTINF:-1,S PremierLeague
