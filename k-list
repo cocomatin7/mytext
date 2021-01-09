@@ -187,16 +187,16 @@ http://203.81.84.130/hls/mwd_variety/index.m3u8
 
 + + + + + cdn-globalnet + + + + +
 
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/MITV_Myanmar.png/revision/latest?cb=20191211065310" group-title="cdn", mitv /cdn
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/MITV_Myanmar.png/revision/latest?cb=20191211065310" group-title="cdn", mitv /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(3794b443-0bab-4f1c-bea5-3bdf37cf588a)/manifest.mpd
 
-EXTINF:-1 group-title="cdn", MRTV Ent /cdn
+#EXTINF:-1 group-title="cdn", MRTV Ent /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(e02c93f2-33d9-458b-bf23-a2717b5f59a8)/manifest.mpd
 
-EXTINF:-1 group-title="cdn", MRTV Farmer Channel /cdn
+#EXTINF:-1 group-title="cdn", MRTV Farmer Channel /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(fca755f5-5090-41fd-bf2c-1c0049947d25)/manifest.mpd
 
-EXTINF:-1 group-title="cdn", MRTV NRC /cdn
+#EXTINF:-1 group-title="cdn", MRTV NRC /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(1095e49d-1c13-47fc-8174-546061a17c3b)/manifest.mpd
 
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel/3794b443-0bab-4f1c-bea5-3bdf37cf588a/chunklist.m3u8
