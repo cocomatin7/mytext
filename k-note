@@ -539,7 +539,6 @@ http://4digital.ddns.net:11229/ts/0
 
 http://101.108.202.53:9981/play/stream/channel/382841c8e7e33830fa43e4f3e2a46be7?title=stream
 
-
 #EXTINF:-1 tvg-id="6782e06602e1932ac3c51d55ce3efa19" tvg-chno="1" group-title="thaicable",' TPF HD1 '
 http://180.183.101.168:9981/stream/channelid/1725989479?profile=pass
 
@@ -565,6 +564,31 @@ http://196.53.249.42:9981/play/stream/service/99c00f0346648f88da9f368fab67d9e8?t
 http://196.53.249.42:9981/stream/service/99c00f0346648f88da9f368fab67d9e8
 
 https://rebrand.ly/sn-hd-196
+
+#EXTINF:-1,Amarin HD
+http://196.53.249.42:9981/stream/channelid/1758267494
+#EXTINF:-1,ENC01
+http://196.53.249.42:9981/stream/channelid/250572183
+#EXTINF:-1,ENC02
+http://196.53.249.42:9981/stream/channelid/1374760806
+#EXTINF:-1,ENC03
+http://196.53.249.42:9981/stream/channelid/1992006732
+#EXTINF:-1,mono29
+http://196.53.249.42:9981/stream/channelid/897181557
+#EXTINF:-1,ONE HD
+http://196.53.249.42:9981/stream/channelid/1837468499
+#EXTINF:-1,PPTV HD
+http://196.53.249.42:9981/stream/channelid/1183181022
+#EXTINF:-1,TNN24
+http://196.53.249.42:9981/stream/channelid/2049675274
+#EXTINF:-1,true4u
+http://196.53.249.42:9981/stream/channelid/1058760165
+#EXTINF:-1,TV5HD
+http://196.53.249.42:9981/stream/channelid/1394823131
+#EXTINF:-1,TV7HD
+http://196.53.249.42:9981/stream/channelid/1372665627
+#EXTINF:-1,workpoint TV
+http://196.53.249.42:9981/stream/channelid/745709495
 
 #EXTINF:-1 group-title="thaicable", ENC03
 http://196.53.249.42:9981/play/stream/service/790fdd22ebec49c47bf60331c70b0785
