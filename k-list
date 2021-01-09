@@ -609,10 +609,6 @@ http://196.53.249.42:9981/play/stream/service/e4d7f09ef50de683d9a966df72e83d1b
 http://196.53.249.42:9981/play/stream/service/1b9bde3a5326f26e89fb533adc4f5df3
 http://196.53.249.42:9981/play/stream/service/e890fceeb1ca8c704c700594d5db412b
 
-#EXTINF:-1, Buddha
-http://Admin:9assw0rd743@206.189.83.114:9981/play/stream/service/9808ea10c72baaf433e02473e878dbc1?title=BUDDHA%20%2F%20SKY%20NET
-
-
 + + + + +
 
 http://196.53.249.42:9981/playlist/channels
@@ -650,7 +646,7 @@ http://thaicable.myftp.org:8000/live/infosat/2020/11.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/12.m3u8
 #EXTINF:-1,CH 13
 http://thaicable.myftp.org:8000/live/infosat/2020/13.m3u8
-#EXTINF:-1,n.a
+#EXTINF:-1,CH 14
 http://thaicable.myftp.org:8000/live/infosat/2020/14.m3u8
 #EXTINF:-1,CH 15
 http://thaicable.myftp.org:8000/live/infosat/2020/15.m3u8
@@ -664,47 +660,47 @@ http://thaicable.myftp.org:8000/live/infosat/2020/18.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/19.m3u8
 #EXTINF:-1,CH 20
 http://thaicable.myftp.org:8000/live/infosat/2020/20.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1,CH 21
 http://thaicable.myftp.org:8000/live/infosat/2020/21.m3u8
 #EXTINF:-1,CH 22
 http://thaicable.myftp.org:8000/live/infosat/2020/22.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1,CH 23
 http://thaicable.myftp.org:8000/live/infosat/2020/23.m3u8
 #EXTINF:-1,CH 24
 http://thaicable.myftp.org:8000/live/infosat/2020/24.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1,CH 25
 http://thaicable.myftp.org:8000/live/infosat/2020/25.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1,CH 26
 http://thaicable.myftp.org:8000/live/infosat/2020/26.m3u8
-#EXTINF:-1,N.A
+#EXTINF:-1,CH 27
 http://thaicable.myftp.org:8000/live/infosat/2020/27.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1,CH 28
 http://thaicable.myftp.org:8000/live/infosat/2020/28.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1,CH 29
 http://thaicable.myftp.org:8000/live/infosat/2020/29.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1,CH 30
 http://thaicable.myftp.org:8000/live/infosat/2020/30.m3u8
 #EXTINF:-1,CH 31
 http://thaicable.myftp.org:8000/live/infosat/2020/31.m3u8
 #EXTINF:-1,CH 32
 http://thaicable.myftp.org:8000/live/infosat/2020/32.m3u8
-#EXTINF:-1,n.a
+#EXTINF:-1,CH 31
 http://thaicable.myftp.org:8000/live/infosat/2020/33.m3u8
 #EXTINF:-1,CH 34
 http://thaicable.myftp.org:8000/live/infosat/2020/34.m3u8
 #EXTINF:-1,CH 35
 http://thaicable.myftp.org:8000/live/infosat/2020/35.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1,CH 36
 http://thaicable.myftp.org:8000/live/infosat/2020/36.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1,CH 37
 http://thaicable.myftp.org:8000/live/infosat/2020/37.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1,CH 38
 http://thaicable.myftp.org:8000/live/infosat/2020/38.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1,CH 39
 http://thaicable.myftp.org:8000/live/infosat/2020/39.m3u8
-#EXTINF:-1,n.a
+#EXTINF:-1,CH 40
 http://thaicable.myftp.org:8000/live/infosat/2020/40.m3u8
-#EXTINF:-1,n.a
+#EXTINF:-1,CH 41
 http://thaicable.myftp.org:8000/live/infosat/2020/41.m3u8
 #EXTINF:-1,CH 42
 http://thaicable.myftp.org:8000/live/infosat/2020/42.m3u8
@@ -714,7 +710,7 @@ http://thaicable.myftp.org:8000/live/infosat/2020/43.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/44.m3u8
 #EXTINF:-1,CH 45
 http://thaicable.myftp.org:8000/live/infosat/2020/45.m3u8
-#EXTINF:-1,n.a
+#EXTINF:-1,CH 46
 http://thaicable.myftp.org:8000/live/infosat/2020/46.m3u8
 #EXTINF:-1,CH 47
 http://thaicable.myftp.org:8000/live/infosat/2020/47.m3u8
@@ -724,64 +720,65 @@ http://thaicable.myftp.org:8000/live/infosat/2020/48.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/49.m3u8
 #EXTINF:-1,CH 50
 http://thaicable.myftp.org:8000/live/infosat/2020/50.m3u8
-#EXTINF:-1,er
-http://thaicable.myftp.org:8000/live/infosat/2020/51.m3u8
 #EXTINF:-1,CH 51
+http://thaicable.myftp.org:8000/live/infosat/2020/51.m3u8
+#EXTINF:-1,CH 52
 http://thaicable.myftp.org:8000/live/infosat/2020/52.m3u8
 #EXTINF:-1,CH 53
 http://thaicable.myftp.org:8000/live/infosat/2020/53.m3u8
-#EXTINF:-1,er
+#EXTINF:-1,CH 54
 http://thaicable.myftp.org:8000/live/infosat/2020/54.m3u8
-#EXTINF:-1,er
+#EXTINF:-1,CH 55
 http://thaicable.myftp.org:8000/live/infosat/2020/55.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1,CH 56
 http://thaicable.myftp.org:8000/live/infosat/2020/56.m3u8
 #EXTINF:-1,CH 57
 http://thaicable.myftp.org:8000/live/infosat/2020/57.m3u8
 #EXTINF:-1,CH 58
 http://thaicable.myftp.org:8000/live/infosat/2020/58.m3u8
-#EXTINF:-1,er
+#EXTINF:-1,CH 59
 http://thaicable.myftp.org:8000/live/infosat/2020/59.m3u8
-#EXTINF:-1,er
+#EXTINF:-1,CH 60
 http://thaicable.myftp.org:8000/live/infosat/2020/60.m3u8
-#EXTINF:-1,er
+#EXTINF:-1,CH 61
 http://thaicable.myftp.org:8000/live/infosat/2020/61.m3u8
-#EXTINF:-1,er
+#EXTINF:-1,CH 62
 http://thaicable.myftp.org:8000/live/infosat/2020/62.m3u8
 #EXTINF:-1,CH 63
 http://thaicable.myftp.org:8000/live/infosat/2020/63.m3u8
-#EXTINF:-1,er
+#EXTINF:-1,CH 64
 http://thaicable.myftp.org:8000/live/infosat/2020/64.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1,CH 65
 http://thaicable.myftp.org:8000/live/infosat/2020/65.m3u8
-#EXTINF:-1,er
+#EXTINF:-1,CH 66
 http://thaicable.myftp.org:8000/live/infosat/2020/66.m3u8
-#EXTINF:-1,er
+#EXTINF:-1,CH 67
 http://thaicable.myftp.org:8000/live/infosat/2020/67.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1,CH 68
 http://thaicable.myftp.org:8000/live/infosat/2020/68.m3u8
 #EXTINF:-1,CH 69
 http://thaicable.myftp.org:8000/live/infosat/2020/69.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1,CH 70
 http://thaicable.myftp.org:8000/live/infosat/2020/70.m3u8
+#EXTINF:-1,CH 71
 http://thaicable.myftp.org:8000/live/infosat/2020/71.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1,CH 72
 http://thaicable.myftp.org:8000/live/infosat/2020/72.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1,CH 73
 http://thaicable.myftp.org:8000/live/infosat/2020/73.m3u8
-#EXTINF:-1,er
+#EXTINF:-1,CH 74
 http://thaicable.myftp.org:8000/live/infosat/2020/74.m3u8
-#EXTINF:-1,er
+#EXTINF:-1,CH 75
 http://thaicable.myftp.org:8000/live/infosat/2020/75.m3u8
-#EXTINF:-1,er
+#EXTINF:-1,CH 76
 http://thaicable.myftp.org:8000/live/infosat/2020/76.m3u8
-#EXTINF:-1,er
+#EXTINF:-1,CH 77
 http://thaicable.myftp.org:8000/live/infosat/2020/77.m3u8
-#EXTINF:-1,er
+#EXTINF:-1,CH 78
 http://thaicable.myftp.org:8000/live/infosat/2020/78.m3u8
-#EXTINF:-1,er
+#EXTINF:-1,CH 79
 http://thaicable.myftp.org:8000/live/infosat/2020/79.m3u8
-#EXTINF:-1,er
+#EXTINF:-1,CH 80
 http://thaicable.myftp.org:8000/live/infosat/2020/80.m3u8
 #EXTINF:-1,CH 81
 http://thaicable.myftp.org:8000/live/infosat/2020/81.m3u8
@@ -841,9 +838,9 @@ http://thaicable.myftp.org:8000/live/infosat/2020/107.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/108.m3u8
 #EXTINF:-1,CH 109
 http://thaicable.myftp.org:8000/live/infosat/2020/109.m3u8
-offline
+#EXTINF:-1,CH 110
 http://thaicable.myftp.org:8000/live/infosat/2020/110.m3u8
-offline
+#EXTINF:-1,CH 111
 http://thaicable.myftp.org:8000/live/infosat/2020/111.m3u8
 #EXTINF:-1,CH 112
 http://thaicable.myftp.org:8000/live/infosat/2020/112.m3u8
@@ -865,7 +862,7 @@ http://thaicable.myftp.org:8000/live/infosat/2020/119.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/120.m3u8
 #EXTINF:-1,CH 121
 http://thaicable.myftp.org:8000/live/infosat/2020/121.m3u8
-offline
+#EXTINF:-1,CH 122
 http://thaicable.myftp.org:8000/live/infosat/2020/122.m3u8
 #EXTINF:-1,CH 123
 http://thaicable.myftp.org:8000/live/infosat/2020/123.m3u8
@@ -875,14 +872,15 @@ http://thaicable.myftp.org:8000/live/infosat/2020/124.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/125.m3u8
 #EXTINF:-1,CH 126
 http://thaicable.myftp.org:8000/live/infosat/2020/126.m3u8
-offline
+#EXTINF:-1,CH 127
 http://thaicable.myftp.org:8000/live/infosat/2020/127.m3u8
 #EXTINF:-1,CH 128
 http://thaicable.myftp.org:8000/live/infosat/2020/128.m3u8
-offline
+#EXTINF:-1,CH 129
 http://thaicable.myftp.org:8000/live/infosat/2020/129.m3u8
-offline
+#EXTINF:-1,CH 130
 http://thaicable.myftp.org:8000/live/infosat/2020/130.m3u8
+#EXTINF:-1,CH 131
 http://thaicable.myftp.org:8000/live/infosat/2020/131.m3u8
 #EXTINF:-1,CH 132
 http://thaicable.myftp.org:8000/live/infosat/2020/132.m3u8
@@ -892,17 +890,17 @@ http://thaicable.myftp.org:8000/live/infosat/2020/133.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/134.m3u8
 #EXTINF:-1,CH 135
 http://thaicable.myftp.org:8000/live/infosat/2020/135.m3u8
-offline
+#EXTINF:-1,CH 136
 http://thaicable.myftp.org:8000/live/infosat/2020/136.m3u8
-offline
+#EXTINF:-1,CH 137
 http://thaicable.myftp.org:8000/live/infosat/2020/137.m3u8
-offline
+#EXTINF:-1,CH 138
 http://thaicable.myftp.org:8000/live/infosat/2020/138.m3u8
 #EXTINF:-1,CH 139
 http://thaicable.myftp.org:8000/live/infosat/2020/139.m3u8
-offline
+#EXTINF:-1,,CH 140
 http://thaicable.myftp.org:8000/live/infosat/2020/140.m3u8
-offline
+#EXTINF:-1,,CH 141
 http://thaicable.myftp.org:8000/live/infosat/2020/141.m3u8
 #EXTINF:-1,,CH 142
 http://thaicable.myftp.org:8000/live/infosat/2020/142.m3u8
@@ -930,10 +928,8 @@ http://thaicable.myftp.org:8000/live/infosat/2020/152.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/153.m3u8
 #EXTINF:-1,CH 154
 http://thaicable.myftp.org:8000/live/infosat/2020/154.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1 group-title="thaicable",CH 155
 http://thaicable.myftp.org:8000/live/infosat/2020/155.m3u8
-#EXTINF:-1 group-title="thaicable",offline
-http://thaicable.myftp.org:8000/live/infosat/2020/156.m3u8
 -/-/-/-/-offline-/-/-/-/
 http://thaicable.myftp.org:8000/live/infosat/2020/179.m3u8
 
