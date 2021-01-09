@@ -22,6 +22,7 @@
   </channel>
   <channel id="Cinemax HD">
     <display-name lang="en">Cinemax HD</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png" />
     <url>http://www.starhubtvplus.com.E</url>
   </channel>
   <channel id="HBO HD">
@@ -1967,6 +1968,654 @@
   <programme start="20210114220000 +0700" stop="20210115000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
     <title lang="th">True Premier Football</title>
     <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20210109001500 +0000" stop="20210109013500 +0000" channel="Cinemax HD">
+    <title lang="en">Taking Chance</title>
+    <desc lang="en">Kevin Bacon stars in this profoundly moving HBO Original Movie that looks at the military rituals for honoring its war dead.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210109013500 +0000" stop="20210109031500 +0000" channel="Cinemax HD">
+    <title lang="en">Keanu</title>
+    <desc lang="en">Two cousins attempt to infiltrate a street gang to retrieve their purloined pet, only to start a gang war that forces them to take the law into their own hands.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210109031500 +0000" stop="20210109050000 +0000" channel="Cinemax HD">
+    <title lang="en">Our Brand Is Crisis</title>
+    <desc lang="en">A political strategist comes out of self-imposed exile to handle the faltering campaign of a Bolivian presidential candidate for a chance to beat her nemesis.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210109050000 +0000" stop="20210109065000 +0000" channel="Cinemax HD">
+    <title lang="en">True Grit ()</title>
+    <desc lang="en">A tough US Marshal helps a stubborn young woman track down her father's murderer.(n)</desc>
+    <date>2010</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210109065000 +0000" stop="20210109084000 +0000" channel="Cinemax HD">
+    <title lang="en">The Informant!</title>
+    <desc lang="en">A true story of Mark Whitacre, the highest-ranking whistle-blower in U.S. corporate history.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210109084000 +0000" stop="20210109104000 +0000" channel="Cinemax HD">
+    <title lang="en">Spider-Man</title>
+    <desc lang="en">Tobey Maguire is Spider-Man, a student with newfound superhuman strength and spider-like abilities who vows to fight crime and help the innocent.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210109104000 +0000" stop="20210109122000 +0000" channel="Cinemax HD">
+    <title lang="en">Charlie's Angels</title>
+    <desc lang="en">With the world's smartest, bravest, and most highly trained women all over the globe, there are now teams of Angels guided by multiple Bosleys taking on the toughest jobs everywhere.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210109122000 +0000" stop="20210109140000 +0000" channel="Cinemax HD">
+    <title lang="en">Escape Plan: The Extractors</title>
+    <desc lang="en">After rescuing the kidnapped daughter of a Hong Kong tech mogul from a Latvian prison, Ray Breslin's girlfriend is also captured. Now Breslin and his team must pull off a deadly mission against time.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210109140000 +0000" stop="20210109145500 +0000" channel="Cinemax HD">
+    <title lang="en">The Rook</title>
+    <desc lang="en">After waking up surrounded by dead bodies and no memory, Myfanwy Thomas is thrown into the world of the Checquy - a paranormal secret service where she's a high-level operative known as a "Rook".(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210109145500 +0000" stop="20210109165500 +0000" channel="Cinemax HD">
+    <title lang="en">Around The World In 80 Days</title>
+    <desc lang="en">Desperate to be taken seriously, Phileas Fogg makes an outlandish bet that he can circumnavigate the globe in no more than 80 days!(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210109165500 +0000" stop="20210109190000 +0000" channel="Cinemax HD">
+    <title lang="en">Mystery Men</title>
+    <desc lang="en">From zeroes to heroes! It's up to Ben Stiller and his band of 'not-so' superheroes to save Champion City from impending doom.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210109190000 +0000" stop="20210109205000 +0000" channel="Cinemax HD">
+    <title lang="en">The Skeleton Key</title>
+    <desc lang="en">A hospice worker is determined to unlock the secrets of an old house to rescue her new charge from the horrors holding him captive.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210109205000 +0000" stop="20210109225000 +0000" channel="Cinemax HD">
+    <title lang="en">Game Change</title>
+    <desc lang="en">Adapted from the non-fiction book of the same name, this HBO Original Movie provides an insider's look at the 2008 US presidential election.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210109225000 +0000" stop="20210110004000 +0000" channel="Cinemax HD">
+    <title lang="en">Fire Down Below</title>
+    <desc lang="en">An Environmental Protection Agent goes undercover to investigate the mysterious death of his friend.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210110004000 +0000" stop="20210110023500 +0000" channel="Cinemax HD">
+    <title lang="en">Rocknrolla</title>
+    <desc lang="en">A small-time con artist and his pals attempt a real-estate ruse that ensnares them in an ever-widening series of scams and situations.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210110023500 +0000" stop="20210110042000 +0000" channel="Cinemax HD">
+    <title lang="en">The Skeleton Key</title>
+    <desc lang="en">A hospice worker is determined to unlock the secrets of an old house to rescue her new charge from the horrors holding him captive.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210110042000 +0000" stop="20210110062500 +0000" channel="Cinemax HD">
+    <title lang="en">Mystery Men</title>
+    <desc lang="en">From zeroes to heroes! It's up to Ben Stiller and his band of 'not-so' superheroes to save Champion City from impending doom.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210110062500 +0000" stop="20210110082500 +0000" channel="Cinemax HD">
+    <title lang="en">Around The World In 80 Days</title>
+    <desc lang="en">Desperate to be taken seriously, Phileas Fogg makes an outlandish bet that he can circumnavigate the globe in no more than 80 days!(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210110082500 +0000" stop="20210110100000 +0000" channel="Cinemax HD">
+    <title lang="en">Charlie's Angels</title>
+    <desc lang="en">With the world's smartest, bravest, and most highly trained women all over the globe, there are now teams of Angels guided by multiple Bosleys taking on the toughest jobs everywhere.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210110100000 +0000" stop="20210110115000 +0000" channel="Cinemax HD">
+    <title lang="en">Charlie's Angels: Full Throttle</title>
+    <desc lang="en">The Angels are back, and this time, their mission leads them to a fallen angel who switched sides for a better paycheck.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210110115000 +0000" stop="20210110140000 +0000" channel="Cinemax HD">
+    <title lang="en">Spider-Man 2</title>
+    <desc lang="en">Peter Parker attempts to thwart the villainous Doctor Otto Octavius!(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210110140000 +0000" stop="20210110162000 +0000" channel="Cinemax HD">
+    <title lang="en">Batman Begins</title>
+    <desc lang="en">Consumed by anger and revenge, Bruce Wayne becomes Batman, and seeks to instill fear into the hearts of criminals in Gotham city.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210110162000 +0000" stop="20210110182000 +0000" channel="Cinemax HD">
+    <title lang="en">Hellboy</title>
+    <desc lang="en">Caught in a clash between the supernatural and the human, Hellboy is hell-bent on stopping a resurrected vengeful sorceress without triggering the end of the world.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
+  </programme>
+  <programme start="20210110182000 +0000" stop="20210110200000 +0000" channel="Cinemax HD">
+    <title lang="en">The Dark Tower</title>
+    <desc lang="en">Locked in an eternal battle with the Man in Black, the last Gunslinger is determined to prevent him from toppling the Dark Tower, which holds the universe together.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210110200000 +0000" stop="20210110214000 +0000" channel="Cinemax HD">
+    <title lang="en">Rambo: Last Blood</title>
+    <desc lang="en">Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210110214000 +0000" stop="20210110231500 +0000" channel="Cinemax HD">
+    <title lang="en">Starter For 10</title>
+    <desc lang="en">A bittersweet comedy set in the mid-eighties about loyalty, class, falling in love and the difference between knowledge and wisdom.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210110231500 +0000" stop="20210111005500 +0000" channel="Cinemax HD">
+    <title lang="en">Payback</title>
+    <desc lang="en">It is payback time as one man embarks on a personal war against the syndicate.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210111005500 +0000" stop="20210111023000 +0000" channel="Cinemax HD">
+    <title lang="en">Mistrial</title>
+    <desc lang="en">Police officer Bill Pullman holds a court hostage and forces a new trial to be held when a man he believes to be a cop-killer walks on a technicality.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210111023000 +0000" stop="20210111035500 +0000" channel="Cinemax HD">
+    <title lang="en">Smokin' Aces 2: Assassins' Ball</title>
+    <desc lang="en">Walter Weed is an unassuming desk jockey at the FBI when the Bureau uncovers a plot to assassinate him.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210111035500 +0000" stop="20210111061500 +0000" channel="Cinemax HD">
+    <title lang="en">Batman Begins</title>
+    <desc lang="en">Consumed by anger and revenge, Bruce Wayne becomes Batman, and seeks to instill fear into the hearts of criminals in Gotham city.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210111061500 +0000" stop="20210111082500 +0000" channel="Cinemax HD">
+    <title lang="en">Spider-Man 2</title>
+    <desc lang="en">Peter Parker attempts to thwart the villainous Doctor Otto Octavius!(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210111082500 +0000" stop="20210111101000 +0000" channel="Cinemax HD">
+    <title lang="en">Charlie's Angels: Full Throttle</title>
+    <desc lang="en">The Angels are back, and this time, their mission leads them to a fallen angel who switched sides for a better paycheck.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210111101000 +0000" stop="20210111114000 +0000" channel="Cinemax HD">
+    <title lang="en">Cinema Verite</title>
+    <desc lang="en">Witness the birth of reality TV in the early 1970s with the Loud family in this ground-breaking HBO Original Movie.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210111114000 +0000" stop="20210111130500 +0000" channel="Cinemax HD">
+    <title lang="en">Red Eye</title>
+    <desc lang="en">Desk manager of a Miami hotel, Lisa Reisert found herself a pawn in a terrorist attack whilst onboard a flight.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210111130500 +0000" stop="20210111140000 +0000" channel="Cinemax HD">
+    <title lang="en">The Rook</title>
+    <desc lang="en">After waking up surrounded by dead bodies and no memory, Myfanwy Thomas is thrown into the world of the Checquy - a paranormal secret service where she's a high-level operative known as a "Rook".(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210111140000 +0000" stop="20210111152500 +0000" channel="Cinemax HD">
+    <title lang="en">Shutter</title>
+    <desc lang="en">A newly married couple discovers ghostly images in photographs they develop after an accident in which they believe they may have hit a girl with their car.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210111152500 +0000" stop="20210111170500 +0000" channel="Cinemax HD">
+    <title lang="en">Mobsters</title>
+    <desc lang="en">This film follows the famous crime kingpins of the 1930s from their youth through their rise to notoriety and competition with other gangsters.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210111170500 +0000" stop="20210111185500 +0000" channel="Cinemax HD">
+    <title lang="en">We're The Millers</title>
+    <desc lang="en">A drug dealer devises a foolproof plan to cross the border with his fake family for a Fourth of July weekend that's sure to end with a bang.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
+  </programme>
+  <programme start="20210111185500 +0000" stop="20210111210000 +0000" channel="Cinemax HD">
+    <title lang="en">Alive</title>
+    <desc lang="en">A true story of a rugby team that is forced to resort to cannibalism to survive a plane crash in the Andes Mountains.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210111210000 +0000" stop="20210111225000 +0000" channel="Cinemax HD">
+    <title lang="en">Red</title>
+    <desc lang="en">The peaceful life of a former CIA agent is interrupted when an assassin shows up, intent on killing him.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210111225000 +0000" stop="20210112001000 +0000" channel="Cinemax HD">
+    <title lang="en">Dead Mine</title>
+    <desc lang="en">A treasure hunter and his team seek out the location of gold left behind during World War 2.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210112001000 +0000" stop="20210112013500 +0000" channel="Cinemax HD">
+    <title lang="en">Smokin' Aces 2: Assassins' Ball</title>
+    <desc lang="en">Walter Weed is an unassuming desk jockey at the FBI when the Bureau uncovers a plot to assassinate him.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210112013500 +0000" stop="20210112033500 +0000" channel="Cinemax HD">
+    <title lang="en">The Score</title>
+    <desc lang="en">Marlon Brando, Robert De Niro, Edward Norton and Angela Bassett lend some quality star power to this intriguing crime drama.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210112033500 +0000" stop="20210112050000 +0000" channel="Cinemax HD">
+    <title lang="en">Red Eye</title>
+    <desc lang="en">Desk manager of a Miami hotel, Lisa Reisert found herself a pawn in a terrorist attack whilst onboard a flight.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210112050000 +0000" stop="20210112055500 +0000" channel="Cinemax HD">
+    <title lang="en">The Rook</title>
+    <desc lang="en">After waking up surrounded by dead bodies and no memory, Myfanwy Thomas is thrown into the world of the Checquy - a paranormal secret service where she's a high-level operative known as a "Rook".(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210112055500 +0000" stop="20210112080000 +0000" channel="Cinemax HD">
+    <title lang="en">Alive</title>
+    <desc lang="en">A true story of a rugby team that is forced to resort to cannibalism to survive a plane crash in the Andes Mountains.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210112080000 +0000" stop="20210112101500 +0000" channel="Cinemax HD">
+    <title lang="en">Bury My Heart At Wounded Knee</title>
+    <desc lang="en">An HBO Original film which explores the impact after the US government wages a campaign to exterminate American Indians.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210112101500 +0000" stop="20210112121500 +0000" channel="Cinemax HD">
+    <title lang="en">Around The World In 80 Days</title>
+    <desc lang="en">Desperate to be taken seriously, Phileas Fogg makes an outlandish bet that he can circumnavigate the globe in no more than 80 days!(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210112121500 +0000" stop="20210112140000 +0000" channel="Cinemax HD">
+    <title lang="en">Mobsters</title>
+    <desc lang="en">This film follows the famous crime kingpins of the 1930s from their youth through their rise to notoriety and competition with other gangsters.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210112140000 +0000" stop="20210112152500 +0000" channel="Cinemax HD">
+    <title lang="en">Seed Of Chucky</title>
+    <desc lang="en">The homicidal doll Chucky is back with his family to create some murderous mayhem in Tinseltown.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210112152500 +0000" stop="20210112180000 +0000" channel="Cinemax HD">
+    <title lang="en">American Gangster</title>
+    <desc lang="en">Based on a true story, a drug lord and an outcast cop find themselves on opposite ends of the tracks as they dissect the very meaning of the American Dream.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210112180000 +0000" stop="20210112194500 +0000" channel="Cinemax HD">
+    <title lang="en">Inside Man: Most Wanted</title>
+    <desc lang="en">An NYPD hostage negotiator teams with an FBI agent to save hostages in a skillfully orchestrated copycat crime at the Federal Reserve Bank, led by a ruthlessly cunning bank robber.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210112194500 +0000" stop="20210112211500 +0000" channel="Cinemax HD">
+    <title lang="en">Priest ()</title>
+    <desc lang="en">A warrior priest disobeys church law by teaming with a young sheriff and a priestess to track down a band of renegade vampires who have kidnapped his niece.(n)</desc>
+    <date>2011</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210112211500 +0000" stop="20210112230000 +0000" channel="Cinemax HD">
+    <title lang="en">The Skeleton Key</title>
+    <desc lang="en">A hospice worker is determined to unlock the secrets of an old house to rescue her new charge from the horrors holding him captive.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210112230000 +0000" stop="20210113010500 +0000" channel="Cinemax HD">
+    <title lang="en">The Score</title>
+    <desc lang="en">Marlon Brando, Robert De Niro, Edward Norton and Angela Bassett lend some quality star power to this intriguing crime drama.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210113010500 +0000" stop="20210113031000 +0000" channel="Cinemax HD">
+    <title lang="en">The Peacemaker</title>
+    <desc lang="en">When a terrorist threatens Manhattan with a nuclear onslaught, all hope lies with a colonel and a White House nuclear expert.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210113031000 +0000" stop="20210113050000 +0000" channel="Cinemax HD">
+    <title lang="en">Inside Man: Most Wanted</title>
+    <desc lang="en">An NYPD hostage negotiator teams with an FBI agent to save hostages in a skillfully orchestrated copycat crime at the Federal Reserve Bank, led by a ruthlessly cunning bank robber.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210113050000 +0000" stop="20210113063000 +0000" channel="Cinemax HD">
+    <title lang="en">Undercover Brother 2</title>
+    <desc lang="en">While a secret agent remains in a coma from the avalanche accident, his brother sets out to finish the job they started to defend their community.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210113063000 +0000" stop="20210113080000 +0000" channel="Cinemax HD">
+    <title lang="en">Priest ()</title>
+    <desc lang="en">A warrior priest disobeys church law by teaming with a young sheriff and a priestess to track down a band of renegade vampires who have kidnapped his niece.(n)</desc>
+    <date>2011</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210113080000 +0000" stop="20210113100000 +0000" channel="Cinemax HD">
+    <title lang="en">Around The World In 80 Days</title>
+    <desc lang="en">Desperate to be taken seriously, Phileas Fogg makes an outlandish bet that he can circumnavigate the globe in no more than 80 days!(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210113100000 +0000" stop="20210113112500 +0000" channel="Cinemax HD">
+    <title lang="en">The Leisure Class</title>
+    <desc lang="en">The winning entry from HBO's Project Greenlight about a man trying to marry into a wealthy family and his wild, unpredictable brother who could ruin everything.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210113112500 +0000" stop="20210113140000 +0000" channel="Cinemax HD">
+    <title lang="en">American Gangster</title>
+    <desc lang="en">Based on a true story, a drug lord and an outcast cop find themselves on opposite ends of the tracks as they dissect the very meaning of the American Dream.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210113140000 +0000" stop="20210113152500 +0000" channel="Cinemax HD">
+    <title lang="en">Child's Play 2</title>
+    <desc lang="en">Just when you thought it was safe to go back to the toy store - Chucky's back.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210113152500 +0000" stop="20210113172000 +0000" channel="Cinemax HD">
+    <title lang="en">Demolition Man</title>
+    <desc lang="en">A 21st-century cop resorts to desperate measures to apprehend a killer.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210113172000 +0000" stop="20210113185500 +0000" channel="Cinemax HD">
+    <title lang="en">Hancock</title>
+    <desc lang="en">Will Smith is Hancock, an unconventional superhero whose heroics never fail to leave jaw-dropping damage in their wake, until a PR executive comes along.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210113185500 +0000" stop="20210113210000 +0000" channel="Cinemax HD">
+    <title lang="en">Spider-Man</title>
+    <desc lang="en">Tobey Maguire is Spider-Man, a student with newfound superhuman strength and spider-like abilities who vows to fight crime and help the innocent.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210113210000 +0000" stop="20210113230000 +0000" channel="Cinemax HD">
+    <title lang="en">The Peacemaker</title>
+    <desc lang="en">When a terrorist threatens Manhattan with a nuclear onslaught, all hope lies with a colonel and a White House nuclear expert.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210113230000 +0000" stop="20210114005500 +0000" channel="Cinemax HD">
+    <title lang="en">Red</title>
+    <desc lang="en">The peaceful life of a former CIA agent is interrupted when an assassin shows up, intent on killing him.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210114005500 +0000" stop="20210114022000 +0000" channel="Cinemax HD">
+    <title lang="en">Undercover Brother 2</title>
+    <desc lang="en">While a secret agent remains in a coma from the avalanche accident, his brother sets out to finish the job they started to defend their community.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210114022000 +0000" stop="20210114040000 +0000" channel="Cinemax HD">
+    <title lang="en">Escape Plan: The Extractors</title>
+    <desc lang="en">After rescuing the kidnapped daughter of a Hong Kong tech mogul from a Latvian prison, Ray Breslin's girlfriend is also captured. Now Breslin and his team must pull off a deadly mission against time.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210114040000 +0000" stop="20210114055500 +0000" channel="Cinemax HD">
+    <title lang="en">Demolition Man</title>
+    <desc lang="en">A 21st-century cop resorts to desperate measures to apprehend a killer.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210114055500 +0000" stop="20210114073000 +0000" channel="Cinemax HD">
+    <title lang="en">Einstein And Eddington</title>
+    <desc lang="en">A story about the unlikely partnership during World War I between a young British scientist named Arthur Eddington and the brilliant physicist, Albert Einstein.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210114073000 +0000" stop="20210114090000 +0000" channel="Cinemax HD">
+    <title lang="en">Mistrial</title>
+    <desc lang="en">Police officer Bill Pullman holds a court hostage and forces a new trial to be held when a man he believes to be a cop-killer walks on a technicality.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210114090000 +0000" stop="20210114110000 +0000" channel="Cinemax HD">
+    <title lang="en">Spider-Man</title>
+    <desc lang="en">Tobey Maguire is Spider-Man, a student with newfound superhuman strength and spider-like abilities who vows to fight crime and help the innocent.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210114110000 +0000" stop="20210114123500 +0000" channel="Cinemax HD">
+    <title lang="en">Hancock</title>
+    <desc lang="en">Will Smith is Hancock, an unconventional superhero whose heroics never fail to leave jaw-dropping damage in their wake, until a PR executive comes along.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210114123500 +0000" stop="20210114140000 +0000" channel="Cinemax HD">
+    <title lang="en">Cloverfield</title>
+    <desc lang="en">A young Manhattan professional fights to save his family and friends when New York becomes the target of an alien attack in this JJ Abrams' production.(n)</desc>
+    <category lang="en">Sci-Fi</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210114140000 +0000" stop="20210114153000 +0000" channel="Cinemax HD">
+    <title lang="en">Child's Play 3</title>
+    <desc lang="en">Chucky is back, and this time is set to finish what he started by tracking down his former owner who is now 16.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210114153000 +0000" stop="20210114162500 +0000" channel="Cinemax HD">
+    <title lang="en">The Rook</title>
+    <desc lang="en">After waking up surrounded by dead bodies and no memory, Myfanwy Thomas is thrown into the world of the Checquy - a paranormal secret service where she's a high-level operative known as a "Rook".(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Drama Series</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210114162500 +0000" stop="20210114183000 +0000" channel="Cinemax HD">
+    <title lang="en">Deep Impact</title>
+    <desc lang="en">A veteran shuttle pilot embarks on a dangerous one-shot space mission to prevent a giant comet from colliding with the Earth.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210114183000 +0000" stop="20210114204000 +0000" channel="Cinemax HD">
+    <title lang="en">Spider-Man 2</title>
+    <desc lang="en">Peter Parker attempts to thwart the villainous Doctor Otto Octavius!(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210114204000 +0000" stop="20210114225000 +0000" channel="Cinemax HD">
+    <title lang="en">The Manchurian Candidate</title>
+    <desc lang="en">After some troubling coincidences, an army officer questions if his Gulf War memories are real or if there is something sinister at stake.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210114225000 +0000" stop="20210115002000 +0000" channel="Cinemax HD">
+    <title lang="en">Life Support</title>
+    <desc lang="en">An HBO Original Movie, Life Support tells the tale of an HIV-positive woman who learns lessons of love and strength through helping others.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210115002000 +0000" stop="20210115030000 +0000" channel="Cinemax HD">
+    <title lang="en">Munich</title>
+    <desc lang="en">A group of agents are hired to avenge the murder of Israeli athletes gunned down by terrorists at the 1972 Munich Olympics.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210115030000 +0000" stop="20210115042500 +0000" channel="Cinemax HD">
+    <title lang="en">Circle Of Eight</title>
+    <desc lang="en">A young girl uncovers a mysterious connection to her new apartment building after witnessing several deaths.(n)</desc>
+    <category lang="en">Horror</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 16</value>
+    </rating>
+  </programme>
+  <programme start="20210115042500 +0000" stop="20210115055000 +0000" channel="Cinemax HD">
+    <title lang="en">Cloverfield</title>
+    <desc lang="en">A young Manhattan professional fights to save his family and friends when New York becomes the target of an alien attack in this JJ Abrams' production.(n)</desc>
+    <category lang="en">Sci-Fi</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210115055000 +0000" stop="20210115073000 +0000" channel="Cinemax HD">
+    <title lang="en">Too Big To Fail</title>
+    <desc lang="en">A film on the 2008 Wall Street financial crisis that explores the inner sanctum of the powerful group that decided the fate of the world's economy.(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210115073000 +0000" stop="20210115094000 +0000" channel="Cinemax HD">
+    <title lang="en">Spider-Man 2</title>
+    <desc lang="en">Peter Parker attempts to thwart the villainous Doctor Otto Octavius!(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210115094000 +0000" stop="20210115120000 +0000" channel="Cinemax HD">
+    <title lang="en">Spider-Man 3</title>
+    <desc lang="en">Peter Parker must overcome his personal demons and the dark power of his new suit as new villains emerge.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210115120000 +0000" stop="20210115140000 +0000" channel="Cinemax HD">
+    <title lang="en">Deep Impact</title>
+    <desc lang="en">A veteran shuttle pilot embarks on a dangerous one-shot space mission to prevent a giant comet from colliding with the Earth.(n)</desc>
+    <category lang="en">Action / Adventure</category>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210115140000 +0000" stop="20210115152500 +0000" channel="Cinemax HD">
+    <title lang="en">The Dictator</title>
+    <desc lang="en">The world's worst dictator finds himself in America and having to live the American dream.(n)</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
+    <rating>
+      <value>Rated 18</value>
+    </rating>
   </programme>
   <programme start="20210109001500 +0000" stop="20210109014000 +0000" channel="HBO HD">
     <title lang="en">The Spongebob Squarepants Movie</title>
