@@ -559,25 +559,32 @@ http://180.183.101.168:9981/stream/channelid/384966953?profile=pass
 #EXTINF:-1 group-title="thaicable", ENC01
 http://196.53.249.42:9981/play/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee
 http://196.53.249.42:9981/play/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?title=ENC01
+#EXTINF:-1 group-title="thaicable", ENC01 *
 http://196.53.249.42:9981/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee
 
-#EXTINF:-1, ENC02
+#EXTINF:-1, ENC02 | SPORTS HD
 http://196.53.249.42:9981/play/stream/service/99c00f0346648f88da9f368fab67d9e8
 http://196.53.249.42:9981/play/stream/service/99c00f0346648f88da9f368fab67d9e8?title=ENC02
+#EXTINF:-1, ENC02 | SPORTS HD *
 http://196.53.249.42:9981/stream/service/99c00f0346648f88da9f368fab67d9e8
 
 #EXTINF:-1 group-title="thaicable", ENC03
 http://196.53.249.42:9981/play/stream/service/790fdd22ebec49c47bf60331c70b0785
 http://196.53.249.42:9981/play/stream/service/790fdd22ebec49c47bf60331c70b0785?title=ENC03
+#EXTINF:-1 group-title="thaicable", ENC03 *
 http://196.53.249.42:9981/stream/service/790fdd22ebec49c47bf60331c70b0785
 
 #EXTINF:-1 group-title="thaicable", FOX MOVIES
 http://196.53.249.42:9981/play/stream/service/8f422994f95e9daf04337ac7f92452e9
 http://196.53.249.42:9981/play/stream/service/8f422994f95e9daf04337ac7f92452e9?title=FOX%20MOVIES
+#EXTINF:-1 group-title="thaicable", FOX MOVIES *
+http://196.53.249.42:9981/stream/service/8f422994f95e9daf04337ac7f92452e9
 
 #EXTINF:-1 group-title="thaicable", ONE HD
 http://196.53.249.42:9981/play/stream/service/2980cea3a2ae9c55955ab66d99287b42
 http://196.53.249.42:9981/play/stream/service/2980cea3a2ae9c55955ab66d99287b42?title=ONE%20HD
+#EXTINF:-1 group-title="thaicable", ONE HD *
+http://196.53.249.42:9981/stream/service/2980cea3a2ae9c55955ab66d99287b42
 
 #EXTINF:-1 group-title="thaicable", PPTV HD
 http://196.53.249.42:9981/play/stream/service/7dbeb1c2d0474b1b638b2084a8b13bce
