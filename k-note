@@ -612,6 +612,33 @@ http://196.53.249.42:9981/stream/service/2980cea3a2ae9c55955ab66d99287b42
 http://196.53.249.42:9981/play/stream/service/7dbeb1c2d0474b1b638b2084a8b13bce
 http://196.53.249.42:9981/play/stream/service/7dbeb1c2d0474b1b638b2084a8b13bce?title=PPTV%20HD
 
+#EXTINF:-1 tvg-id="6608cde8cac7f8f9e2f180cedbc5063d",Amarin HD
+http://196.53.249.42:9981/stream/channelid/1758267494?ticket=CA91FC424A823A134EFEB718087083D6D1A8D46E&profile=pass
+#EXTINF:-1 tvg-id="976def8ec41b956e1186092d367fcb6a",ENC01
+http://196.53.249.42:9981/stream/channelid/250572183?ticket=83149FEE723D41F2E08A24DA47A95F8478B034C3&profile=pass
+#EXTINF:-1 tvg-id="662ff1d170caa73c4d93280ff615d18e",ENC02
+http://196.53.249.42:9981/stream/channelid/1374760806?ticket=2258F57B235B3929C88CEA5DF5C0BC0446C4A9E1&profile=pass
+#EXTINF:-1 tvg-id="4c9cbb76b8f664e86552c0a11b895f85",ENC03
+http://196.53.249.42:9981/stream/channelid/1992006732?ticket=9AAB00D736C26D4C0123EEB1F1FD8EE1B39C41AD&profile=pass
+#EXTINF:-1 tvg-id="45e94e3e0c4a7812ebecdb680536350e",FOX MOVIES
+http://196.53.249.42:9981/stream/channelid/1045358917?ticket=D6B5185D9132E841A0FF6786CE2D4FAF1372B751&profile=pass
+#EXTINF:-1 tvg-id="75e779b547c8d2fa954d1c40bb176620",mono29
+http://196.53.249.42:9981/stream/channelid/897181557?ticket=C7672A8D539C65561A42120EAEE0DA1C42AC7D5A&profile=pass
+#EXTINF:-1 tvg-id="538b85ed7cb88e645e13923c0543b644",ONE HD
+http://196.53.249.42:9981/stream/channelid/1837468499?ticket=1016225BAD4500FCA8430832C370D9FDD0B5A2F9&profile=pass
+#EXTINF:-1 tvg-id="dee88546daacebe1340642e46533fe35",PPTV HD
+http://196.53.249.42:9981/stream/channelid/1183181022?ticket=EAEEE894485D1869533FC0EC1E81E04349B291EE&profile=pass
+#EXTINF:-1 tvg-id="0a902b7a506be3fc74832db8a148b84e",TNN24
+http://196.53.249.42:9981/stream/channelid/2049675274?ticket=4BD6873D32EFC9E7F5EF80C373B289C961C8A674&profile=pass
+#EXTINF:-1 tvg-id="e5651b3f47734cf68f46adf42c4d8cdb",true4u
+http://196.53.249.42:9981/stream/channelid/1058760165?ticket=3170254A37E1231A58AFE475AAC266C62BF5A11C&profile=pass
+#EXTINF:-1 tvg-id="db4f2353142a56ed23af61e360a4618b",TV5HD
+http://196.53.249.42:9981/stream/channelid/1394823131?ticket=B67E9ADA1154B0A8541E04812934C1A7AF8C8F77&profile=pass
+#EXTINF:-1 tvg-id="1b37d1d167f69e7a26403a5fd7fb1319",TV7HD
+http://196.53.249.42:9981/stream/channelid/1372665627?ticket=E055C206DB734A63A140D95DABAEA4419DD7052A&profile=pass
+#EXTINF:-1 tvg-id="b79f72ac538e325520c41626262d4167",workpoint TV
+http://196.53.249.42:9981/stream/channelid/745709495?ticket=097D1A35442975B75F34426B198319700FC40475&profile=pass
+
 Congiguration > DVB Inputs > Services
 http://196.53.249.42:9981/play/stream/service/614960d031aebc2dbfbe786c01189485?title=Amarin%20HD
 http://196.53.249.42:9981/play/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?title=ENC01
@@ -670,9 +697,9 @@ http://thaicable.myftp.org:8000/live/infosat/2020/12.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/13.m3u8
 #EXTINF:-1,CH 14 | 
 http://thaicable.myftp.org:8000/live/infosat/2020/14.m3u8
-#EXTINF:-1,CH 15 | 
+#EXTINF:-1,CH 15 | AMARIN
 http://thaicable.myftp.org:8000/live/infosat/2020/15.m3u8
-#EXTINF:-1,CH 16 | 
+#EXTINF:-1,CH 16 | workpoint
 http://thaicable.myftp.org:8000/live/infosat/2020/16.m3u8
 #EXTINF:-1,CH 17 | 
 http://thaicable.myftp.org:8000/live/infosat/2020/17.m3u8
