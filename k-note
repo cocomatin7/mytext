@@ -4,7 +4,7 @@ x-tvg-url="https://rebrand.ly/k-epg"
 #EXTINF:-1 group-title="DHAMMA", ပရိတ်ကြီး ၁၁ သုတ် မြောက်ဦးဆရာတော်
 https://www.youtube.com/watch?v=qtxyTrPdsJk
 #EXTINF:-1, BUDDHA
-https://www.youtube.com/watch?v=jTaJTmGHsMY
+https://www.youtube.com/watch?v=kuqwFMc2Ti4
 #EXTINF:-1, ဓာရဏပရိတ်တော် ပါဠိ၊အနက် - ကြာနီကန်ဆရာတော် 
 https://www.youtube.com/watch?v=Mvy_dU1mt3E
 #EXTINF:-1, ပရိတ်ကြီး(၁၁)သုတ် ပါဠိတော် - ကြာနီကန်ဆရာတော် 
@@ -51,6 +51,8 @@ https://www.youtube.com/watch?v=Q-h7NHGDuGY
 + + + + + 203.81.81.230:80 + + + + + Configuration/DVB Input/Services/All + + + + + 
 
 #EXTINF:-1, Buddha'
+http://mcsh.xyz:8080/mcshTV/zCNiETzMzd/54375
+#EXTINF:-1, Buddha"
 http://mcsh.xyz:8080/live/mcshTV/zCNiETzMzd/54375.m3u8
 #EXTINF:-1, Buddha*
 http://mcsh.xyz:8080/streaming/clients_live.php?extension=m3u8&username=mcshTV&password=zCNiETzMzd&stream=54375&type=hls
@@ -835,10 +837,12 @@ http://thaicable.myftp.org:8000/live/infosat/2020/73.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/74.m3u8
 #EXTINF:-1,CH 75
 http://thaicable.myftp.org:8000/live/infosat/2020/75.m3u8
-#EXTINF:-1,CH 76
+#EXTINF:-1,CH 76 | CGTN
 http://thaicable.myftp.org:8000/live/infosat/2020/76.m3u8
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1,CH 77
 http://thaicable.myftp.org:8000/live/infosat/2020/77.m3u8
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1,CH 78
 http://thaicable.myftp.org:8000/live/infosat/2020/78.m3u8
 #EXTINF:-1,CH 79
@@ -851,7 +855,7 @@ http://thaicable.myftp.org:8000/live/infosat/2020/81.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/82.m3u8
 #EXTINF:-1,CH 83
 http://thaicable.myftp.org:8000/live/infosat/2020/83.m3u8
-#EXTINF:-1,CH 84
+#EXTINF:-1,CH 84 | 
 http://thaicable.myftp.org:8000/live/infosat/2020/84.m3u8
 #EXTINF:-1,CH 85
 http://thaicable.myftp.org:8000/live/infosat/2020/85.m3u8
