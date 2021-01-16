@@ -861,7 +861,7 @@ http://thaicable.myftp.org:8000/live/infosat/2020/84.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/85.m3u8
 #EXTINF:-1,CH 86
 http://thaicable.myftp.org:8000/live/infosat/2020/86.m3u8
-#EXTINF:-1,CH 87
+#EXTINF:-1,CH 87 | 
 http://thaicable.myftp.org:8000/live/infosat/2020/87.m3u8
 #EXTINF:-1,CH 88
 http://thaicable.myftp.org:8000/live/infosat/2020/88.m3u8
@@ -871,8 +871,11 @@ http://thaicable.myftp.org:8000/live/infosat/2020/89.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/90.m3u8
 #EXTINF:-1,CH 91
 http://thaicable.myftp.org:8000/live/infosat/2020/91.m3u8
-#EXTINF:-1,CH 92
+#EXTINF:-1,CH 92 | TRACE
 http://thaicable.myftp.org:8000/live/infosat/2020/92.m3u8
+http://203.154.177.124:8899/live/ch10/playlist.m3u8
+#EXTINF:-1,WB TV TH
+http://203.154.177.124:8899/live/ch12/playlist.m3u8
 #EXTINF:-1,CH 93
 http://thaicable.myftp.org:8000/live/infosat/2020/93.m3u8
 #EXTINF:-1,CH 94
@@ -883,12 +886,15 @@ http://thaicable.myftp.org:8000/live/infosat/2020/95.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/96.m3u8
 #EXTINF:-1,CH 97
 http://thaicable.myftp.org:8000/live/infosat/2020/97.m3u8
-#EXTINF:-1,CH 98
+#EXTINF:-1,CH 98 | 
 http://thaicable.myftp.org:8000/live/infosat/2020/98.m3u8
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1,CH 99
 http://thaicable.myftp.org:8000/live/infosat/2020/99.m3u8
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1,CH 100
 http://thaicable.myftp.org:8000/live/infosat/2020/100.m3u8
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF:-1,CH 101
 http://thaicable.myftp.org:8000/live/infosat/2020/101.m3u8
 #EXTINF:-1,CH 102
@@ -899,18 +905,24 @@ http://thaicable.myftp.org:8000/live/infosat/2020/103.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/104.m3u8
 #EXTINF:-1,CH 105
 http://thaicable.myftp.org:8000/live/infosat/2020/105.m3u8
-#EXTINF:-1,CH 106
+#EXTINF:-1,CH 106 | BBC WORLD NEWS
 http://thaicable.myftp.org:8000/live/infosat/2020/106.m3u8
-#EXTINF:-1,CH 107
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1,CH 107 | 
 http://thaicable.myftp.org:8000/live/infosat/2020/107.m3u8
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/06.m3u8
 #EXTINF:-1,CH 108
 http://thaicable.myftp.org:8000/live/infosat/2020/108.m3u8
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1,CH 109
 http://thaicable.myftp.org:8000/live/infosat/2020/109.m3u8
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,CH 110
 http://thaicable.myftp.org:8000/live/infosat/2020/110.m3u8
-#EXTINF:-1,CH 111
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1,CH 111 | &flix HD
 http://thaicable.myftp.org:8000/live/infosat/2020/111.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,CH 112 | &priveHD
 http://thaicable.myftp.org:8000/live/infosat/2020/112.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
