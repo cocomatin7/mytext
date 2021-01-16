@@ -783,12 +783,14 @@ http://thaicable.myftp.org:8000/live/infosat/2020/48.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/49.m3u8
 #EXTINF:-1,CH 50 | er
 http://thaicable.myftp.org:8000/live/infosat/2020/50.m3u8
-#EXTINF:-1,CH 51
+#EXTINF:-1,CH 51 | 
 http://thaicable.myftp.org:8000/live/infosat/2020/51.m3u8
-#EXTINF:-1,CH 52
+#EXTINF:-1,CH 52 | EPL 1
 http://thaicable.myftp.org:8000/live/infosat/2020/52.m3u8
-#EXTINF:-1,CH 53
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1,CH 53 | EPL 2
 http://thaicable.myftp.org:8000/live/infosat/2020/53.m3u8
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 #EXTINF:-1,CH 54
 http://thaicable.myftp.org:8000/live/infosat/2020/54.m3u8
 #EXTINF:-1,CH 55
@@ -908,27 +910,27 @@ http://thaicable.myftp.org:8000/live/infosat/2020/111.m3u8
 #EXTINF:-1,CH 112 | &priveHD
 http://thaicable.myftp.org:8000/live/infosat/2020/112.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1,CH 113
+#EXTINF:-1,CH 113 | DOCURAMA
 http://thaicable.myftp.org:8000/live/infosat/2020/113.m3u8
 #EXTINF:-1,CH 114
 http://thaicable.myftp.org:8000/live/infosat/2020/114.m3u8
 #EXTINF:-1,CH 115
 http://thaicable.myftp.org:8000/live/infosat/2020/115.m3u8
-#EXTINF:-1,CH 116
+#EXTINF:-1,CH 116 | arirang
 http://thaicable.myftp.org:8000/live/infosat/2020/116.m3u8
 #EXTINF:-1,CH 117
 http://thaicable.myftp.org:8000/live/infosat/2020/117.m3u8
-#EXTINF:-1,CH 118
+#EXTINF:-1,CH 118 | ALTV4
 http://thaicable.myftp.org:8000/live/infosat/2020/118.m3u8
 #EXTINF:-1,CH 119
 http://thaicable.myftp.org:8000/live/infosat/2020/119.m3u8
-#EXTINF:-1,CH 120
+#EXTINF:-1,CH 120 | 3HD
 http://thaicable.myftp.org:8000/live/infosat/2020/120.m3u8
-#EXTINF:-1,CH 121
+#EXTINF:-1,CH 121 | 7HD
 http://thaicable.myftp.org:8000/live/infosat/2020/121.m3u8
 #EXTINF:-1,CH 122
 http://thaicable.myftp.org:8000/live/infosat/2020/122.m3u8
-#EXTINF:-1,CH 123
+#EXTINF:-1,CH 123 | PBS3
 http://thaicable.myftp.org:8000/live/infosat/2020/123.m3u8
 #EXTINF:-1,CH 124
 http://thaicable.myftp.org:8000/live/infosat/2020/124.m3u8
@@ -938,9 +940,9 @@ http://thaicable.myftp.org:8000/live/infosat/2020/125.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/126.m3u8
 #EXTINF:-1,CH 127
 http://thaicable.myftp.org:8000/live/infosat/2020/127.m3u8
-#EXTINF:-1,CH 128
+#EXTINF:-1,CH 128 | TVB TH
 http://thaicable.myftp.org:8000/live/infosat/2020/128.m3u8
-#EXTINF:-1,CH 129
+#EXTINF:-1,CH 129 | CH 8
 http://thaicable.myftp.org:8000/live/infosat/2020/129.m3u8
 #EXTINF:-1,CH 130
 http://thaicable.myftp.org:8000/live/infosat/2020/130.m3u8
@@ -950,19 +952,20 @@ http://thaicable.myftp.org:8000/live/infosat/2020/131.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/132.m3u8
 #EXTINF:-1,CH 133
 http://thaicable.myftp.org:8000/live/infosat/2020/133.m3u8
-#EXTINF:-1,CH 134
+#EXTINF:-1,CH 134 | STAR CHINESE MOVIES TH
 http://thaicable.myftp.org:8000/live/infosat/2020/134.m3u8
+http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
 #EXTINF:-1,CH 135
 http://thaicable.myftp.org:8000/live/infosat/2020/135.m3u8
 #EXTINF:-1,CH 136
 http://thaicable.myftp.org:8000/live/infosat/2020/136.m3u8
-#EXTINF:-1,CH 137
+#EXTINF:-1,CH 137 | FTV
 http://thaicable.myftp.org:8000/live/infosat/2020/137.m3u8
-#EXTINF:-1,CH 138
+#EXTINF:-1,CH 138 | JASIMIN TV
 http://thaicable.myftp.org:8000/live/infosat/2020/138.m3u8
-#EXTINF:-1,CH 139
+#EXTINF:-1,CH 139 | CI
 http://thaicable.myftp.org:8000/live/infosat/2020/139.m3u8
-#EXTINF:-1,,CH 140
+#EXTINF:-1,,CH 140 | FOX SPORT NEWS
 http://thaicable.myftp.org:8000/live/infosat/2020/140.m3u8
 #EXTINF:-1,,CH 141
 http://thaicable.myftp.org:8000/live/infosat/2020/141.m3u8
@@ -970,10 +973,12 @@ http://thaicable.myftp.org:8000/live/infosat/2020/141.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/142.m3u8
 #EXTINF:-1,,CH 143
 http://thaicable.myftp.org:8000/live/infosat/2020/143.m3u8
-#EXTINF:-1,,CH 144
+#EXTINF:-1,,CH 144 | RTM2
 http://thaicable.myftp.org:8000/live/infosat/2020/144.m3u8
-#EXTINF:-1,,CH 145
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1,,CH 145 | REDBULL TV
 http://thaicable.myftp.org:8000/live/infosat/2020/145.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1,CH 146
 http://thaicable.myftp.org:8000/live/infosat/2020/146.m3u8
 #EXTINF:-1,CH 147
