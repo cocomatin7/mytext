@@ -2079,6 +2079,24 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 group-title="BamarTV",Party Tyme Karaoke
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="BamarTV",COSMOTE SPORT1
+http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT2
+http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT3
+http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT4
+http://185.132.177.110:8080/COSMOTESport4HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT5
+http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT6
+http://185.132.177.110:8080/COSMOTESport6HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT7
+http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT8
+http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8?token=test
+#EXTINF:-1 group-title="BamarTV",COSMOTE SPORT9
+http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8?token=test
 
  group-title="BamarTV",* live event 1 * nbcsn *
 https://dailyb0.s3.amazonaws.com/e1/1.m3u8
