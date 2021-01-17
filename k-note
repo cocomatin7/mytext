@@ -2029,6 +2029,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 #EXTINF:-1 group-title="BamarTV", 80s Party |loop 
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/3.m3u8
+#EXTINF:-1,AVJ
+https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
 #EXTINF:-1,AsianCrush
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1,Crackle
@@ -2075,25 +2077,25 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccef?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1,Party
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Party Tyme Karaoke
+#EXTINF:-1 group-title="BamarTV",Party Tyme Karaoke
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 
-#EXTINF:-1 group-title="BamarTV",* live event 1 * nbcsn *
+ group-title="BamarTV",* live event 1 * nbcsn *
 https://dailyb0.s3.amazonaws.com/e1/1.m3u8
 * live event 2 * R1 *
 http://mafy.ddns.net:2082/TurkPortalGrup/Telegram/7264
 
-#EXTINF:-1 group-title="BamarTV",* live event 3 * nbcsn *
+ group-title="BamarTV",* live event 3 * nbcsn *
 https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/bbe355fc873a4b9fa03769748f2326f1/index3.m3u8
 http://103.145.12.195:8080/hls/streama145429/index.m3u8 < offline
 
 * live event 4 * off *
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/f66c9ac57cf0482ca54c5cdc86e68854/index4.m3u8
 
-#EXTINF:-1 group-title="BamarTV",live event 5: off
+ group-title="BamarTV",live event 5: off
 https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/d1192d904efe496fa01cd23352cbe99b/index5.m3u8 < offline
 
-#EXTINF:-1 group-title="BamarTV",* live event 6 * nbcsn *
+ group-title="BamarTV",* live event 6 * nbcsn *
 http://a2.aliez.me:8080/hls/streama141886/index.m3u8
 
 * live event 7 * off *
@@ -2112,16 +2114,16 @@ http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8 < N
 http://ip2121.com:8081/at1/ENG3/chunks.m3u8 < N
 
 
-#EXTINF:-1,S PremierLeague
+,S PremierLeague
 https://rebrand.ly/SPL-103
-#EXTINF:-1,S PSL
+,S PSL
 https://rebrand.ly/SPSL-103
-#EXTINF:-1,S Action
+,S Action
 https://rebrand.ly/SA-103
-#EXTINF:-1,S Variety 2
+,S Variety 2
 https://rebrand.ly/SV2-103
 
-#EXTINF:-1 group-title="BamarTV", 80s party |loop.tv
+ group-title="BamarTV", 80s party |loop.tv
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/1.m3u8
 
 
