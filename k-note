@@ -727,6 +727,8 @@ https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-very.stream/playlist.m3u8
 
+https://cdn1.ufalive.center/thdooball/tpf1_480/playlist.m3u8?wmsAuth=c2VydmVyX3RpbWU9MS8xNy8yMDIxIDEyOjQxOjU1IEFNJmhhc2hfdmFsdWU9emhXZmFXaHZ0SFNKRUFpYTJRNE85Zz09JnZhbGlkbWludXRlcz0y
+
 + + + + + thaicable.myftp.org + + + + +
 
 #EXTINF:-1 group-title="thaicable",CH 1 | HBO
@@ -975,6 +977,7 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 #EXTINF:-1,CH 111 | &flix HD
 http://thaicable.myftp.org:8000/live/infosat/2020/111.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1,CH 112 | &priveHD
 http://thaicable.myftp.org:8000/live/infosat/2020/112.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
@@ -2026,6 +2029,54 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 #EXTINF:-1 group-title="BamarTV", 80s Party |loop 
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/3.m3u8
+#EXTINF:-1,AsianCrush
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Crackle
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd2759bc8634d002d9ff9bc?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,fubo Sports Network
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc776?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,RetroCrush
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Latin x Loop
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccd4?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop 80's
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccbf?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop 90's
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccdd?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Beast
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccc2?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Bedroom
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccc5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Electronica
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf2?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Far Out
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f2863338bc40f00420a0694?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Flashback
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccd7?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Hip Hop
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0cccb?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Hottest
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccd1?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop R&B
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccce?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Synapse
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccda?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Texas Tunes
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0cce0?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop TGIF
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccc8?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop That's Hot
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0cce6?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Trending
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0cce9?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Unwind
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccec?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Yacht Rock
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccef?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Party
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Party Tyme Karaoke
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 
 #EXTINF:-1 group-title="BamarTV",* live event 1 * nbcsn *
 https://dailyb0.s3.amazonaws.com/e1/1.m3u8
@@ -2337,8 +2388,8 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/114
 
 #EXTINF:-1,Optus 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/115
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/385813.m3u8
 http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/275827.m3u8
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/385813.m3u8 < N
 
 #EXTINF:-1,Optus 2
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/117
@@ -2442,16 +2493,16 @@ http://iptvhit.live/projectadrian/Nixon/nvkgDOj4vI/51
 http://iptvhit.live/projectadrian/Nixon/nvkgDOj4vI/52
 http://iptvhit.live/projectadrian/Nixon/nvkgDOj4vI/53
 
-#EXTINF:-1 tvg-id="Astro SuperSport",ASSP1
+#EXTINF:-1 tvg-id="Astro SuperSport",ASSP1 |offline
 http://vp2p2s.my6868.cc/20414/index.m3u8
 http://iptvhit.live/projectadrian/Nixon/nvkgDOj4vI/54
-#EXTINF:-1 tvg-id="Astro SuperSport 2",ASSP2
+#EXTINF:-1 tvg-id="Astro SuperSport 2",ASSP2 |offline
 http://vp2p2s.my6868.cc/20415/index.m3u8
 http://iptvhit.live/projectadrian/Nixon/nvkgDOj4vI/55
-#EXTINF:-1 tvg-id="Astro SuperSport 3",ASSP3
+#EXTINF:-1 tvg-id="Astro SuperSport 3",ASSP3 |offline
 http://vp2p2s.my6868.cc/20416/index.m3u8
 http://iptvhit.live/projectadrian/Nixon/nvkgDOj4vI/56
-#EXTINF:-1 tvg-id="Astro SuperSport 4",ASSP4
+#EXTINF:-1 tvg-id="Astro SuperSport 4",ASSP4 |offline
 http://vp2p2s.my6868.cc/20417/index.m3u8
 http://iptvhit.live/projectadrian/Nixon/nvkgDOj4vI/57
 http://newhostshare.ddns.net:9981/stream/service/9b4267cd07d0f076b723b83e74b5b8da
@@ -2852,13 +2903,13 @@ http://54.37.82.205:8081/liveorigin/in-tensports_480/playlist.m3u8
 http://54.37.82.205:8081/liveorigin/in-zeecinema_480/playlist.m3u8
 
 
- tvg-id="Astro SuperSport",my-asp1hd |54.37
+ tvg-id="Astro SuperSport",my-asp1hd |54.37 |offline
 http://54.37.82.205:8081/liveorigin/my-asp1hd_720/playlist.m3u8
- tvg-id="Astro SuperSport 2",my-asp2hd |54.37
+ tvg-id="Astro SuperSport 2",my-asp2hd |54.37 |offline
 http://54.37.82.205:8081/liveorigin/my-asp2hd_720/playlist.m3u8
- tvg-id="Astro SuperSport 3",my-asp3hd |54.37
+ tvg-id="Astro SuperSport 3",my-asp3hd |54.37 |offline
 http://54.37.82.205:8081/liveorigin/my-asp3hd_720/playlist.m3u8
- tvg-id="Astro SuperSport 4",my-asp4hd |54.37
+ tvg-id="Astro SuperSport 4",my-asp4hd |54.37 |offline
 http://54.37.82.205:8081/liveorigin/my-asp4_720/playlist.m3u8
 
 http://54.37.82.205:8081/liveorigin/nl-foxsports1_480/playlist.m3u8
@@ -3211,7 +3262,7 @@ http://77.83.117.60:8888/sumrujlok_goodtv/chunklist.m3u8
 + + + + + 103.22.182.242:8081 + + + + + 
 
 http://103.22.182.242:8081/app/amarintv/chunks.m3u8
- tvg-id="Astro SuperSport" group-title="103.22",astro1 |103.22
+ tvg-id="Astro SuperSport" group-title="103.22",astro1 |103.22 |offline
 http://103.22.182.242:8081/app/astro1/chunks.m3u8
  tvg-id="Astro SuperSport 2",astro2 |103.22
 http://103.22.182.242:8081/app/astro2/chunks.m3u8
@@ -3684,7 +3735,7 @@ http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/uk-skysports-news.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Astro SuperSport", asp1hd |160
+#EXTINF:-1 tvg-id="Astro SuperSport", asp1hd |160 |offline
 http://160.119.77.116:8081/iptv/my-asp1hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Astro SuperSport 2", asp2hd |160
 http://160.119.77.116:8081/iptv/my-asp2hd.stream/playlist.m3u8
@@ -5239,18 +5290,18 @@ https://laos-tech-live.b-cdn.net/al-supersports3_480/index.m3u8
 https://laos-tech-live.b-cdn.net/al-supersports4_480/index.m3u8
 https://laos-tech-live.b-cdn.net/al-supersports5_480/index.m3u8
 
- group-title="doofree88", EPL beIN 1 |df88
+#EXTINF:-1 group-title="doofree88", EPL beIN 1 |df88
 https://laos-tech-live.b-cdn.net/epl-bein1_720/index.m3u8
-, EPL beIN 2 |df88
+#EXTINF:-1, EPL beIN 2 |df88
 https://laos-tech-live.b-cdn.net/epl-bein2_720/index.m3u8
 
- tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1", True Premiere Football HD1 |df88
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1", True Premiere Football HD1 |df88
 https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
 
- tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2", True Premiere Football HD2 |df88
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2", True Premiere Football HD2 |df88
 https://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
 
- tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3", True Premiere Football HD3 |df88
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3", True Premiere Football HD3 |df88
 https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
 
 https://laos-tech-live.b-cdn.net/epl-x4_720/index.m3u8
@@ -6746,7 +6797,7 @@ http://vp2p2s.my6868.cc/20412/index.m3u8
 GO Shop
 http://vp2p2s.my6868.cc/20413/index.m3u8
 
-#EXTINF:-1 tvg-id="Astro SuperSport " group-title="my6868",astro SUPERSPORTS |my6868
+#EXTINF:-1 tvg-id="Astro SuperSport " group-title="my6868",astro SUPERSPORTS |my6868 |offline
 http://vp2p2s.my6868.cc/20414/index.m3u8?auth_key=
 http://vp2p2s.my6868.cc/20414/index.m3u8?auth_key=1598872774-1325984367-0-5f65b419fb09b26e593a175e851b1d1b
 http://vp2p2s.my6868.cc/20414/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
@@ -6784,7 +6835,7 @@ http://vp2p2s.my6868.cc/20439/index.m3u8
 TV ONE
 http://193.254.234.74/20400/index.m3u8
 
-#EXTINF:-1 tvg-id="Astro SuperSport " group-title="my6868",astro SUPERSPORTS* |my6868
+#EXTINF:-1 tvg-id="Astro SuperSport " group-title="my6868",astro SUPERSPORTS* |my6868 |offline
 http://193.254.234.74/20414/index.m3u8
 http://vp2p2s.my6868.cc/20414/dash.m3u8
 #EXTINF:-1 tvg-id="Astro SuperSport 2",astro SUPERSPORTS 2* |my6868
