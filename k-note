@@ -524,6 +524,23 @@ https://mptalive6-a.akamaihd.net:443/83c48cc94de947f392b2d08dc1eb694c/ap-southea
 
 + + + + + thaicable + + + + +
 
+#EXTINF:-1 group-title="BetTopFive", beIN 1TH
+https://cdn1.cloud-streaming.live/live/beinsport1/sport/bein1/chunks.m3u8?nimblesessionid=11304060
+#EXTINF:-1 group-title="BetTopFive", beIN 2TH
+https://cdn1.cloud-streaming.live/live/beinsport2/sport/bein2/chunks.m3u8?nimblesessionid=11304229
+#EXTINF:-1 group-title="BetTopFive", TPF 1
+https://cdn1.cloud-streaming.live/live/tpf1/sport/tpf1-480/chunks.m3u8?nimblesessionid=11303562
+#EXTINF:-1 group-title="BetTopFive", TPF 2
+https://cdn1.cloud-streaming.live/live/tpf2/sport/tpf2/chunks.m3u8?nimblesessionid=11302987
+#EXTINF:-1 group-title="BetTopFive", TPF 3
+https://cdn1.cloud-streaming.live/live/tpf3/sport/tpf3/chunks.m3u8?nimblesessionid=11303925
+#EXTINF:-1 group-title="BetTopFive", SPORTTV1
+https://cdn1.cloud-streaming.live/live/sporttv1/chunks.m3u8?nimblesessionid=11304419
+#EXTINF:-1 group-title="BetTopFive", SPORTTV2
+https://cdn1.cloud-streaming.live/live/sporttv2/chunks.m3u8?nimblesessionid=11304600
+#EXTINF:-1 group-title="BetTopFive", SPORTTV3
+https://cdn1.cloud-streaming.live/live/sporttv3/chunks.m3u8?nimblesessionid=11304807
+
 http://4digital.ddns.net:11220/ts/0
 http://4digital.ddns.net:11221/ts/0
 
