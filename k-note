@@ -6454,7 +6454,9 @@ http://193.254.234.74/50006/index.m3u8
 http://193.254.234.74/50007/index.m3u8
 http://193.254.234.74/50008/index.m3u8
 http://193.254.234.74/50009/index.m3u8
+
 - - - - - - - - - - -
+
 http://193.254.234.74/50019/index.m3u8
 http://vp2p2s.my6868.cc/50001/index.m3u8
 http://vp2p2s.my6868.cc/50002/index.m3u8
@@ -6551,7 +6553,9 @@ http://vp2p2s.my6868.cc/50073/index.m3u8 <
 http://vp2p2s.my6868.cc/50074/index.m3u8
 #EXTINF:-1 group-title="my6868",CCM |my6868
 http://vp2p2s.my6868.cc/50075/index.m3u8
+
 + + + + + http://www.iamntp.com/tv/ + + + + + 
+
  group-title="TH/iamntp",bein1
 https://rebrand.ly/dt-bi-1
 http://www.iamntp.com/tv/allchannel/bein1.m3u8
@@ -6588,7 +6592,9 @@ http://www.iamntp.com/tv/allchannel/skysportmainevent.m3u8
 http://www.iamntp.com/tv/allchannel/skysportmix.m3u8
  group-title="TH/iamntp",skysports premiere
 http://www.iamntp.com/tv/allchannel/skysportpremiere.m3u8
+
 + + + + + * https://www.doomovie-hd.com * / * https://www.moviemocha.com * + + + + +
+
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
  group-title="doomovie-hd",truesports HD 1 |doomovie-hd
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
@@ -6765,7 +6771,9 @@ http://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 http://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 http://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 http://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
 + + + + + https://y5w8j4a9.ssl.hwcdn.net + + + + +
+
 #EXTINF:-1 group-title="IN/y5",& Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1,& Pics HD
@@ -6788,7 +6796,9 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="IN/y5",ZEE Cafe
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+
 + + + + + http://z5amshls.akamaized.net + + + + +
+
 #EXTINF:-1 group-title="IN/z5",& Flix
 http://z5amshls.akamaized.net/andflix/playlist.m3u8
 http://z5amshls.akamaized.net/andflix/tracks-v1a1/playlist.m3u8
@@ -6832,7 +6842,9 @@ http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/playlist.m3u8
 http://z5amshls.akamaized.net/zeetvhd/playlist.m3u8
 http://z5amshls.akamaized.net/zeetvhd/tracks-v1a1/playlist.m3u8
 http://z5amshls.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
+
 + + + + + 0cvt7o9ka933roqvtma4b7g.caja.live + + + + +
+
 #EXTINF:-1 group-title="caja.live",|UK| BBC NEWS
 http://0cvt7o9ka933roqvtma4b7g.caja.live/live/dash.php?z=111&u=ppBsJMEKj3&s=1758909919&id=49196&t=live&f=ts
 #EXTINF:-1,|UK| BBC1
@@ -7425,7 +7437,9 @@ http://0cvt7o9ka933roqvtma4b7g.caja.live/live/dash.php?z=111&u=ppBsJMEKj3&s=1758
 http://0cvt7o9ka933roqvtma4b7g.caja.live/live/dash.php?z=111&u=ppBsJMEKj3&s=1758909919&id=64309&t=live&f=ts
 #EXTINF:-1 group-title="caja.live",|UK FHD| GOLD FHD
 http://0cvt7o9ka933roqvtma4b7g.caja.live/live/dash.php?z=111&u=ppBsJMEKj3&s=1758909919&id=64310&t=live&f=ts
+
 + + + + + TVHeadend / offline + + + + +
+
 http://103.115.164.120:9981/playlist/channels
 http://103.215.177.194:9981/playlist/channels
 http://103.42.253.114:9981/playlist/channels
@@ -7454,7 +7468,9 @@ http://82.43.135.48:9981/playlist/channels
 http://82.46.29.80:9981/playlist/channels
 http://84.9.6.188:9981/playlist/channels
 http://95.145.54.106:9981/playlist/channels
+
 + + + + + 62.210.127.144:8080 + + + + +
+
 #EXTINF:-1 group-title="62.210/mp2t",cna
 http://62.210.127.144:8080/live/PW7zZ7QxQh/3DkkcbHJt7/9601.mp2t?token=QhVcUhcJRggXAQZXUQcCBVYAU1FYAlQGXFJUBFUABAJaUQJRV1FVAwdGGURBEkJRAFtpWgVEXlBWVgNYSkAXElxFa1oAQ14QBlQNUAJXEhhDQl9eBEReUlNUBlFVV1NQCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 http://62.210.127.144:8080/live/PW7zZ7QxQh/3DkkcbHJt7/9602.mp2t?token=QhVcUhcJRggXAQZXUQcCBVYAU1FYAlQGXFJUBFUABAJaUQJRV1FVAwdGGURBEkJRAFtpWgVEXlBWVgNYSkAXElxFa1oAQ14QBlQNUAJXEhhDQl9eBEReUlNUBlFVV1NQCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
@@ -7468,9 +7484,9 @@ http://62.210.127.144:8080/live/PW7zZ7QxQh/3DkkcbHJt7/9616.mp2t?token=QhVcUhcJRg
 http://62.210.127.144:8080/live/PW7zZ7QxQh/3DkkcbHJt7/9611.mp2t?token=QhVcUhcJRggXAQZXUQcCBVYAU1FYAlQGXFJUBFUABAJaUQJRV1FVAwdGGURBEkJRAFtpWgVEXlBWVgNYSkAXElxFa1oAQ14QBlQNUAJXEhhDQl9eBEReUlNUBlFVV1NQCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1 group-title="62.210/mp2t",CCM
 http://62.210.127.144:8080/live/PW7zZ7QxQh/3DkkcbHJt7/9617.mp2t?token=QhVcUhcJRggXAQZXUQcCBVYAU1FYAlQGXFJUBFUABAJaUQJRV1FVAwdGGURBEkJRAFtpWgVEXlBWVgNYSkAXElxFa1oAQ14QBlQNUAJXEhhDQl9eBEReUlNUBlFVV1NQCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+
 + + + + + 103.22.183.58:8888 [TH] + + + + +
- group-title="103.22",IZAA |103.22
-http://103.22.183.58:8888/live/WM2Dw8CZH8/crUYcV9ZBK/45.ts < N
+ http://103.22.183.58:8888/get.php?username=WM2Dw8CZH8&password=crUYcV9ZBK&type=m3u
 + + + + + 103.136.43.127:8080 [SEA] + + + + +
 http://103.136.43.127:8080/12997/b5093454/16964
 + + + + + 185.8.176.227:25461 [IN] + + + + +
@@ -7482,42 +7498,7 @@ http://103.136.43.127:8080/12997/b5093454/16964
 + + + + + 103.135.208.14:80 [IN] + + + + +
 http://103.135.208.14/get.php?username=ibox&password=bd&type=m3u < N
 + + + + + 104.218.61.161:83 + + + + +
- group-title="directline",308959 VIP HD BEIN SPORT USA
-http://104.218.61.161:83/live/directline76598/35222AM0203424421468352020/203.m3u8
-,268809 beIN Sports USA
-http://104.218.61.161:83/live/directline76598/35222AM0203424421468352020/211.m3u8
-,376727 ES: Bein Liga HD
-http://104.218.61.161:83/live/directline76598/35222AM0203424421468352020/204.m3u8
-,311326 beIN Sports N
-http://104.218.61.161:83/live/directline76598/35222AM0203424421468352020/205.m3u8
-,369165 beIN Sports HD CA
-http://104.218.61.161:83/live/directline76598/35222AM0203424421468352020/206.m3u8
-,VIP FHD : BT Sports 1
-http://104.218.61.161:83/live/directline76598/35222AM0203424421468352020/116.m3u8
-,309255 UK FHD :  BT SPORTS 1
-http://104.218.61.161:83/live/directline76598/35222AM0203424421468352020/207.m3u8
-,308895 VIP FHD FOX SPORTS 1
-http://104.218.61.161:83/live/directline76598/35222AM0203424421468352020/25.m3u8
-,308851 VIP USA HD : MTV
-http://104.218.61.161:83/live/directline76598/35222AM0203424421468352020/14.m3u8
-,142688 USA SD : MTV
-http://104.218.61.161:83/live/directline76598/35222AM0203424421468352020/95.m3u8
-,308765 VIP USA HD : VH1 
-http://104.218.61.161:83/live/directline76598/35222AM0203424421468352020/3.m3u8
-,142593 USA HD : VH1 
-http://104.218.61.161:83/live/directline76598/35222AM0203424421468352020/4.m3u8
-,144018 USA SD : VH1
-http://104.218.61.161:83/live/directline76598/35222AM0203424421468352020/57.m3u8
-,378441 UK FHD :  Sky Cinema Action
-http://104.218.61.161:83/live/directline76598/35222AM0203424421468352020/214.m3u8
-,382034 24/7 Action Movies (Q)
-http://104.218.61.161:83/live/directline76598/35222AM0203424421468352020/149.m3u8
-,382249 24/7 Dwayne Johnson Movies
-http://104.218.61.161:83/live/directline76598/35222AM0203424421468352020/156.m3u8
-,376068 24/7 Fast And Furious Collection
-http://104.218.61.161:83/live/directline76598/35222AM0203424421468352020/134.m3u8
- group-title="directline",382257 24/7 James Bond 007 Movies
-http://104.218.61.161:83/live/directline76598/35222AM0203424421468352020/216.m3u8
+http://104.218.61.161:83/get.php?username=directline76598&password=35222AM0203424421468352020&type=m3u
 + + + + + 176.98.26.37:8000 + + + + +
 http://176.98.26.37:8000/streaming/clients_live.php?extension=m3u8&username=tivi&password=best&stream=28&type=hls
 + + + + + 188.40.76.108:25461 /mytv01 + + + + +
@@ -7542,6 +7523,7 @@ http://magco.rip:8000/get.php?username=41246671289321&password=41604451921808&ty
 + + + + + mantul.biz.id:8888 [SEA] + + + + +
 + + + + + mhiptv.com:8888 [beIN] + + + + +
 http://mhiptv.com:8888/live/ka5/ka5/3652.m3u8
+
 + + + + + muttsnutts.from-mi.com:8090 + + + + +
 #EXTINF:-1 group-title="muttsnutts",UK: Sky Cinema Premiere FHD
 http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/110027.m3u8
@@ -7853,6 +7835,7 @@ http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/275829.m3u8
 http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/275830.m3u8
 #EXTINF:-1 group-title="muttsnutts",Optus 5
 http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/275831.m3u8
+
 + + + + + pro-panel01.club:8080 / premium-streamplay.club [SEA] + + + + +
 http://premium-streamplay.club:8080/live/mama/123456/8130.m3u8
 + + + + + starshare.live:8080 [MY+MM] + + + + +
@@ -7862,158 +7845,13 @@ http://speccy.pw:8008/d/d/17048
 + + + + + srv.cybergroup.top:14170 + + + + +
 + + + + + streamx.link:8080 + + + + +
 http://streamx.link:8080/get.php?username=NvxBXobrQj&password=fRPdh3UVHc&type=m3u | 9/12/2020 
-#EXTINF:-1 group-title="wakds",HBO_HD
+
 http://tv.wakds.xyz:8080/tangyuan/12345678/94
-#EXTINF:-1,HBO_HITS
-http://tv.wakds.xyz:8080/tangyuan/12345678/96
-#EXTINF:-1,TV1
-http://tv.wakds.xyz:8080/tangyuan/12345678/149
-#EXTINF:-1,TV2
-http://tv.wakds.xyz:8080/tangyuan/12345678/150
-http://tv.wakds.xyz:8080/tangyuan/12345678/176
-http://tv.wakds.xyz:8080/tangyuan/12345678/90
-#EXTINF:-1,Fox_Action Movies
-http://tv.wakds.xyz:8080/tangyuan/12345678/98
-#EXTINF:-1,Fox_Family
-http://tv.wakds.xyz:8080/tangyuan/12345678/99
-#EXTINF:-1,Supersports 1 backup
-http://tv.wakds.xyz:8080/tangyuan/12345678/120
-#EXTINF:-1,Supersports 2 backup
-http://tv.wakds.xyz:8080/tangyuan/12345678/121
-#EXTINF:-1,Supersports 3 backup
-http://tv.wakds.xyz:8080/tangyuan/12345678/122
-#EXTINF:-1,Supersports 4 backup
-http://tv.wakds.xyz:8080/tangyuan/12345678/123
-#EXTINF:-1,BeIN 1 Sports HD
-http://tv.wakds.xyz:8080/tangyuan/12345678/132
-#EXTINF:-1,BeIN 2 Sports HD
-http://tv.wakds.xyz:8080/tangyuan/12345678/133
-#EXTINF:-1,BeIN 3 Sports HD
-http://tv.wakds.xyz:8080/tangyuan/12345678/134
-#EXTINF:-1,BeIN 7 Sports HD
-http://tv.wakds.xyz:8080/tangyuan/12345678/137
-#EXTINF:-1,BeIN 12 Sports HD
-http://tv.wakds.xyz:8080/tangyuan/12345678/142
-#EXTINF:-1,BeIN 13 Sports HD
-http://tv.wakds.xyz:8080/tangyuan/12345678/143
-#EXTINF:-1,Cinema World
-http://tv.wakds.xyz:8080/tangyuan/12345678/148
-#EXTINF:-1,TV3
-http://tv.wakds.xyz:8080/tangyuan/12345678/151
-#EXTINF:-1,TV3 backup
-http://tv.wakds.xyz:8080/tangyuan/12345678/152
-#EXTINF:-1,NTV7
-http://tv.wakds.xyz:8080/tangyuan/12345678/153
-#EXTINF:-1,NTV7 backup
-http://tv.wakds.xyz:8080/tangyuan/12345678/154
-#EXTINF:-1,TV8
-http://tv.wakds.xyz:8080/tangyuan/12345678/155
-#EXTINF:-1,TV9
-http://tv.wakds.xyz:8080/tangyuan/12345678/156
-#EXTINF:-1,Warna backup
-http://tv.wakds.xyz:8080/tangyuan/12345678/157
-#EXTINF:-1,RIA 1
-http://tv.wakds.xyz:8080/tangyuan/12345678/158
-#EXTINF:-1,Awani
-http://tv.wakds.xyz:8080/tangyuan/12345678/159
-#EXTINF:-1,Bernama
-http://tv.wakds.xyz:8080/tangyuan/12345678/160
-#EXTINF:-1,Prima
-http://tv.wakds.xyz:8080/tangyuan/12345678/161
-#EXTINF:-1,Al-Hijrah
-http://tv.wakds.xyz:8080/tangyuan/12345678/162
-#EXTINF:-1,RTM Sports HD
-http://tv.wakds.xyz:8080/tangyuan/12345678/163
-#EXTINF:-1,Arena
-http://tv.wakds.xyz:8080/tangyuan/12345678/164
-#EXTINF:-1,NatGeo Wild HD
-http://tv.wakds.xyz:8080/tangyuan/12345678/165
-#EXTINF:-1,Oasis
-http://tv.wakds.xyz:8080/tangyuan/12345678/166
-#EXTINF:-1,Ceria
-http://tv.wakds.xyz:8080/tangyuan/12345678/167
-#EXTINF:-1,Citra
-http://tv.wakds.xyz:8080/tangyuan/12345678/168
-#EXTINF:-1,Drama Sangat
-http://tv.wakds.xyz:8080/tangyuan/12345678/169
-#EXTINF:-1,Naura
-http://tv.wakds.xyz:8080/tangyuan/12345678/170
-#EXTINF:-1,Hello
-http://tv.wakds.xyz:8080/tangyuan/12345678/171
-#EXTINF:-1,Goshop
-http://tv.wakds.xyz:8080/tangyuan/12345678/172
-#EXTINF:-1,Goshop Ch
-http://tv.wakds.xyz:8080/tangyuan/12345678/173
-#EXTINF:-1,Sony HD
-http://tv.wakds.xyz:8080/tangyuan/12345678/174
-#EXTINF:-1,KBS Wolrd
-http://tv.wakds.xyz:8080/tangyuan/12345678/175
-#EXTINF:-1,Oh!k
-http://tv.wakds.xyz:8080/tangyuan/12345678/177
-#EXTINF:-1,Celestial Classic
-http://tv.wakds.xyz:8080/tangyuan/12345678/179
-http://tv.wakds.xyz:8080/tangyuan/12345678/180
-http://tv.wakds.xyz:8080/tangyuan/12345678/181
-#EXTINF:-1,AEC
-http://tv.wakds.xyz:8080/tangyuan/12345678/182
-#EXTINF:-1,AOD 511
-http://tv.wakds.xyz:8080/tangyuan/12345678/183
-#EXTINF:-1,AOD HD
-http://tv.wakds.xyz:8080/tangyuan/12345678/187
-#EXTINF:-1,KiX HD
-http://tv.wakds.xyz:8080/tangyuan/12345678/192
-#EXTINF:-1,HBO HD
-http://tv.wakds.xyz:8080/tangyuan/12345678/193
-#EXTINF:-1,HGTV
-http://tv.wakds.xyz:8080/tangyuan/12345678/194
-#EXTINF:-1,Animal Planet (Eng)
-http://tv.wakds.xyz:8080/tangyuan/12345678/195
-#EXTINF:-1,MBC 4
-http://tv.wakds.xyz:8080/tangyuan/12345678/202
-#EXTINF:-1,MBC 5
-http://tv.wakds.xyz:8080/tangyuan/12345678/203
-#EXTINF:-1,MBC Action
-http://tv.wakds.xyz:8080/tangyuan/12345678/204
-#EXTINF:-1,MBC Drama
-http://tv.wakds.xyz:8080/tangyuan/12345678/205
-#EXTINF:-1,MBC Iraq
-http://tv.wakds.xyz:8080/tangyuan/12345678/206
-#EXTINF:-1,MBC Max
-http://tv.wakds.xyz:8080/tangyuan/12345678/209
-#EXTINF:-1,Palestine Sports
-http://tv.wakds.xyz:8080/tangyuan/12345678/212
-#EXTINF:-1,Qatar TV
-http://tv.wakds.xyz:8080/tangyuan/12345678/214
-#EXTINF:-1,momo親子
-http://tv.wakds.xyz:8080/tangyuan/12345678/217
-#EXTINF:-1,Saudi TV
-http://tv.wakds.xyz:8080/tangyuan/12345678/218
-#EXTINF:-1,Sharqiya News
-http://tv.wakds.xyz:8080/tangyuan/12345678/219
-#EXTINF:-1,Bloomberg News
-http://tv.wakds.xyz:8080/tangyuan/12345678/226
-#EXTINF:-1,J sport 1
-http://tv.wakds.xyz:8080/tangyuan/12345678/2683
-#EXTINF:-1,J sport 2
-http://tv.wakds.xyz:8080/tangyuan/12345678/2684
-#EXTINF:-1,J sport 3
-http://tv.wakds.xyz:8080/tangyuan/12345678/2685
-#EXTINF:-1,J sport 4
-http://tv.wakds.xyz:8080/tangyuan/12345678/2686
-#EXTINF:-1,TOKYO MX
-http://tv.wakds.xyz:8080/tangyuan/12345678/2687
-#EXTINF:-1,BS-1
-http://tv.wakds.xyz:8080/tangyuan/12345678/2688
-#EXTINF:-1,BS11
-http://tv.wakds.xyz:8080/tangyuan/12345678/2689
-#EXTINF:-1,BS12
-http://tv.wakds.xyz:8080/tangyuan/12345678/2690
-#EXTINF:-1,BS-TBS
-http://tv.wakds.xyz:8080/tangyuan/12345678/2691
-#EXTINF:-1 group-title="wakds",Boomerang
-http://tv.wakds.xyz:8080/tangyuan/12345678/2729
+
 + + + + + worldch.ddns.net:8080 + + + + +
+
 + + + + + ytv.plus:25461-null + + + + +
+
 #EXTINF:-1 group-title="ytv",CNN
 http://ytv.plus:25461/diegotv/1234/80
 http://ytv.plus:25461/diegotv/1234/192
@@ -8025,7 +7863,9 @@ http://ytv.plus:25461/live/diegotv/1234/129.m3u8
 http://ytv.plus:25461/streaming/clients_live.php?extension=m3u8&username=diegotv&password=1234&stream=3618&type=hls
 http://ytv.plus:25461/diegotv/1234/3618
 http://ytv.plus:25461/live/diegotv/1234/3618.m3u8
+
 + + + + + outdated + + + + 
+
 https://lnwlomtoe.atvlb.com/lnwlomtoe/ch20/chunks.m3u8
 https://tumlive109.dvrdns.org:30443/tumlive/Foxsport1/chunks.m3u8
 https://tumlive109.dvrdns.org:30443/tumlive/Mono29/chunks.m3u8
@@ -8034,7 +7874,9 @@ https://tumlive109.dvrdns.org:30443/tumlive/SKYNET3/chunks.m3u8
 https://tumlive109.dvrdns.org:30443/tumlive/TruesportHD3/chunks.m3u8
 https://ws.hls.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.m3u8
 https://ws.hls.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.m3u8
+
 + + + + + iamntp / offline + + + + +
+
 https://iamntp.com/hbo/red_onweb.m3u8
 http://www.iamntp.com/hbo/family.php
 http://www.iamntp.com/hbo/hbo.php
@@ -8043,7 +7885,9 @@ http://www.iamntp.com/hbo/max.php
 http://www.iamntp.com/hbo/red.php
 http://www.iamntp.com/hbo/sig.php
 http://www.iamntp.com/tv/link/wp.php
+
 + + + + + + + + + + + + + + + + + + +
+
 https://iptv-kovid-19.tk/we-play/live/hbo-hd/playlist.m3u8
 https://iptv-kovid-19.tk/we-play/live/true-epl-1/playlist.m3u8
 https://live.dufree4k.net/02_WarnerTVHD_720p/chunklist.m3u8
@@ -8371,24 +8215,13 @@ http://50.7.161.82:8278/streams/d/Animalplanet/playlist.m3u8
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1,KBS HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:-1 group-title="MY",AnimalPlanet HD
+
 #EXTINF:-1, CN
 http://internetowa.tv/?c=hlsPlay&channel=cartoonnetwork&token=2bdae9ac2bd68cf8200f99d6672d0b5cca6d583abbb1da9646e66138cc2fad99dd1c081abfbab2fb3004cc8634231d9a5ade8d47cbe80f3f9269f0420ac8c4bc
- S PremierLeague
- S PSL
- S Action
- S Variety 2
+
 #EXTINF:-1 group-title="BamarTV", 80s party |loop.tv
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/385813.m3u8 < N
-#EXTINF:-1 tvg-id="Astro SuperSport",ASSP1
-#EXTINF:-1 tvg-id="Astro SuperSport 2",ASSP2
-#EXTINF:-1 tvg-id="Astro SuperSport 3",ASSP3
-#EXTINF:-1 tvg-id="Astro SuperSport 4",ASSP4
- tvg-id="Astro SuperSport",my-asp1hd |54.37
- tvg-id="Astro SuperSport 2",my-asp2hd |54.37
- tvg-id="Astro SuperSport 3",my-asp3hd |54.37
- tvg-id="Astro SuperSport 4",my-asp4hd |54.37
- tvg-id="Astro SuperSport" group-title="103.22",astro1 |103.22
+
 http://156.146.43.241:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=123zzzaaaxxaazzzxxx987
 http://156.146.43.241:2200/EX/BT_Sport_2_HD-uk/index.m3u8?token=123zzzaaaxxaazzzxxx987
 http://156.146.43.241:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=123zzzaaaxxaazzzxxx987
