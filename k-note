@@ -183,6 +183,138 @@ http://203.81.84.130/hls/mwd_serie/index.m3u8
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
 http://203.81.84.130/hls/mwd_variety/index.m3u8
 
++ + + + + BamarTV + + + + +
+
+#EXTINF:-1 group-title="BamarTV", 80s Party |loop 
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/3.m3u8
+#EXTINF:-1,AVJ
+https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
+#EXTINF:-1,AsianCrush
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Crackle
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd2759bc8634d002d9ff9bc?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,fubo Sports Network
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc776?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,RetroCrush
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Latin x Loop
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccd4?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop 80's
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccbf?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop 90's
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccdd?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Beast
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccc2?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Bedroom
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccc5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Electronica
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf2?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Far Out
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f2863338bc40f00420a0694?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Flashback
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccd7?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Hip Hop
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0cccb?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Hottest
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccd1?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop R&B
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccce?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Synapse
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccda?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Texas Tunes
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0cce0?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop TGIF
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccc8?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop That's Hot
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0cce6?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Trending
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0cce9?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Unwind
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccec?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Loop Yacht Rock
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccef?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1,Party
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="BamarTV",Party Tyme Karaoke
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+
+#EXTINF:-1 group-title="BamarTV",GVIP CH1
+http://phoenixzoon.goodviping.xyz/live/CH1/index.m3u8
+
+#EXTINF:-1 group-title="BamarTV",HDS CH 1
+http://cdn7.hhdstreams.club/live/abr_ch1/live/ch1_720p/chunks.m3u8
+
+#EXTINF:-1 group-title="BamarTV",NBCSN LIVE
+https://video-weaver.ams02.hls.live-video.net/v1/playlist/CowFGgsNePh32Xor0hSdgT1Q4CrOckwMj0i6NOLwEDai8TXC5YRhwSKisBnQWkLJStVFkPxCz5ocPHG1pPuTRzXwhcbFiwlnpvov984BzeGjaD87nxRyrkFNwK41LOMF1C-fVxQD5_RPVRpv1m4jRJINCR0V0WcHMwsuWWmA_uSkjoVBW5wumYg9dh80-kj2ZWvh0wZ2g1IjSFMF3AhGM_sigAr7-A52w9L3aCpXgEUOPqjFGOsakzZYJ86KJek_gdDgvzXjwFX6-gUMg4GkbTsPmTKPobrRJvPmz_QYrPTKI9LrhzrUKbXghLJc90N1zLqSAXcYPmTR9R0-XFbZwrUKxUngbIQKTA3HiLbt0auWsoD7WmvCRsGGfPju6PDQNhidplYDUTZlUYYcmSpe7c51Xb01Di_Ow1P_VN9_s17kAIvZ93EjPVsZxKrgtYlCRmjyHZpBHMgk5AkPtawOb7G88eUcmh73lTkyPUprtt7bwn4-NvTA8qqOnz4zJjVFWvHZiMvxfRp1Fb9rn375otSQ5HXCJzgEXTCLJ7DpTIzZ1vSq8wRjCXxFr5ylUXUi1PGaUkSc2lNhnkXA-B-RFpnqTQlfrT0FrN5yfQKrHNkhmS200vZBj1Oi4Sc7hWbxE-QDlzL8RKQmt9AXvNezsNK7Fnqga_SRTfPwi6ywZS8gFipnqNry14ZuL_CKnBQkGyH6GcjM092anDdqph6FjrKIOkbgUXV8toadJBFHA9p4FY4iwkpEpdKzQASjvOZwE5R9z8_YO6YuMwGOn-biOwi_21ag3115O48xUgAx9_qED-3wBjyf7oxKs77Li9O0nOdpSqelb2u5dCRBc5oRmpeoZTbKgD34_GHhVhWttxIQKCYCoW2uSywyeIN6POoB-xoMehFdEXEliu64kk5e.m3u8
+
+#EXTINF:-1 group-title="BamarTV",OVO L1
+http://192.166.246.122/hls/live1.m3u8
+
+#EXTINF:-1 group-title="BamarTV",OVO S1
+http://192.166.246.122/hls/ovostreamss1.m3u8
+
+#EXTINF:-1 group-title="BamarTV",COSMOTE SPORT1
+http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT2
+http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT3
+http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT4
+http://185.132.177.110:8080/COSMOTESport4HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT5
+http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT6
+http://185.132.177.110:8080/COSMOTESport6HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT7
+http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT8
+http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8?token=test
+#EXTINF:-1 group-title="BamarTV",COSMOTE SPORT9
+http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8?token=test
+
+ group-title="BamarTV",* live event 1 * nbcsn *
+https://dailyb0.s3.amazonaws.com/e1/1.m3u8
+* live event 2 * R1 *
+http://mafy.ddns.net:2082/TurkPortalGrup/Telegram/7264
+
+ group-title="BamarTV",* live event 3 * nbcsn *
+https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/bbe355fc873a4b9fa03769748f2326f1/index3.m3u8
+http://103.145.12.195:8080/hls/streama145429/index.m3u8 < offline
+
+* live event 4 * off *
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/f66c9ac57cf0482ca54c5cdc86e68854/index4.m3u8
+
+ group-title="BamarTV",live event 5: off
+https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/d1192d904efe496fa01cd23352cbe99b/index5.m3u8 < offline
+
+ group-title="BamarTV",* live event 6 * nbcsn *
+http://a2.aliez.me:8080/hls/streama141886/index.m3u8
+
+* live event 7 * off *
+http://192.166.246.122/hls/ovostreamss.m3u8
+
+* live event 8 * off *
+https://bucketdaily02.s3.eu-west-2.amazonaws.com/e2/2.m3u8
+
+* live event 9 * off *
+https://bucketdaily02.s3.eu-west-2.amazonaws.com/e1/1.m3u8
+
+https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8 < N
+http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8 < N
+http://ip2121.com:8081/at1/ENG3/chunks.m3u8 < N
+
+
+,S PremierLeague
+https://rebrand.ly/SPL-103
+,S PSL
+https://rebrand.ly/SPSL-103
+,S Action
+https://rebrand.ly/SA-103
+,S Variety 2
+https://rebrand.ly/SV2-103
+
+ group-title="BamarTV", 80s party |loop.tv
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/1.m3u8
 + + + + + cdn-globalnet + + + + +
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/MITV_Myanmar.png/revision/latest?cb=20191211065310" group-title="cdn", mitv /cdn
@@ -520,8 +652,6 @@ https://mptalive6-a.akamaihd.net:443/83c48cc94de947f392b2d08dc1eb694c/ap-southea
 
 + + + + + thaicable + + + + +
 
-
-
 http://4digital.ddns.net:11220/ts/0
 http://4digital.ddns.net:11221/ts/0
 
@@ -615,17 +745,14 @@ http://196.53.249.42:9981/play/stream/channel/4c9cbb76b8f664e86552c0a11b895f85?t
 
 http://196.53.249.42:9981/play/stream/channel/0c7b8cb35c8cdd6793e291f4b566555b?title=WARNER%20HD
 
-
 http://196.53.249.42:9981/play/stream/service/e4d7f09ef50de683d9a966df72e83d1b
 http://196.53.249.42:9981/play/stream/service/1b9bde3a5326f26e89fb533adc4f5df3
 http://196.53.249.42:9981/play/stream/service/e890fceeb1ca8c704c700594d5db412b
-
 
 http://196.53.249.42:9981/playlist/channels
 http://196.53.249.42:9981/extjs.html
 http://newhostshare.ddns.net:9981/playlist/channels
 http://newhostshare.ddns.net:9981/extjs.html
-
 
 #EXTINF:-1 group-title="thaicable",Cinemax
 http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248
@@ -1057,12 +1184,6 @@ http://thaicable.myftp.org:8000/live/infosat/2020/155.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/179.m3u8
 
 
-
-
-
-
-
-
 https://rebrand.ly/sn-hd-196
 
 http://196.53.249.42:9981/play/stream/service/844d67a2660c72f6ad4370e3594c501f?title=img
@@ -1134,9 +1255,6 @@ http://196.53.249.42:9981/play/stream/service/f5ad986169c5acba47216d899a11800b?t
 http://196.53.249.42:9981/play/stream/service/fd53263eac7ed137393fc2e82f33e7ae?title=mono29
 http://196.53.249.42:9981/play/stream/service/fc26a003279bace8c378f48cbaee6ffa?title=true4u
 http://196.53.249.42:9981/play/stream/service/eafe3b57a26dcba62afe3c80955a4081?title=workpoint%20TV
-
-
-
 
 
 + + + + + http://www.mutv.tk/ + + + + +
@@ -1216,59 +1334,11 @@ http://196.53.249.42:9981/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?ticket
 http://196.53.249.42:9981/stream/service/99c00f0346648f88da9f368fab67d9e8?ticket=8127765E169E5AE21819F5AA650CB3BD78C6810E
 #EXTINF:-1,CH 4 | HBO
 http://newhostshare.ddns.net:9981/stream/service/d315a19be4cc4b8d6b914a59fe90659d?ticket=cd10ccad45daf177a88c3df9bcad69b876eda2ba
-#EXTINF:-1 tvg-id="Astro SuperSport",CH 7 | SUPERSPORT
-#EXTINF:-1 tvg-id="Astro SuperSport 2",CH 8 | SUPERSPORT 2
-#EXTINF:-1 tvg-id="Astro SuperSport 3",CH 9 | SUPERSPORT 3
-#EXTINF:-1 tvg-id="Astro SuperSport 4",CH 10 | SUPERSPORT 4
-#EXTINF:-1,CH 11 | 
-#EXTINF:-1,CH 12 | 
-#EXTINF:-1,CH 13 | 
-#EXTINF:-1,CH 14 | 
-#EXTINF:-1,CH 15 | AMARIN
-#EXTINF:-1,CH 16 | workpoint
-#EXTINF:-1,CH 17 | 
-#EXTINF:-1,CH 18 | true4U|24
-#EXTINF:-1,CH 19 | TNN16
-#EXTINF:-1,CH 20 | 
-#EXTINF:-1,CH 21 | 
-#EXTINF:-1,CH 22 | 
-#EXTINF:-1,CH 23 | Discovery Asia TH
-#EXTINF:-1,CH 24 | 
-#EXTINF:-1,CH 25 | 
-#EXTINF:-1,CH 26 | NATGEO WILD
-#EXTINF:-1,CH 28 | H2
-#EXTINF:-1,CH 29 | 
-#EXTINF:-1,CH 30 | BBC earth
-#EXTINF:-1,CH 31 | 
-#EXTINF:-1,CH 32 | FOX MOVIES TH
-#EXTINF:-1,CH 33 | er
-#EXTINF:-1,CH 34 | er
-#EXTINF:-1,CH 35 | FOX TH
-#EXTINF:-1,CH 36 | FOX TH
-#EXTINF:-1,CH 37 | er
-#EXTINF:-1,CH 38 | WBTV TH
-#EXTINF:-1,CH 39 | CTB
-#EXTINF:-1,CH 40 | FOX NEWS
-#EXTINF:-1,CH 41 | er
-#EXTINF:-1 tvg-id="Astro SuperSport",CH 42 | astro SUPERSPORT
-#EXTINF:-1 tvg-id="Astro SuperSport 3",CH 43 | astro SUPERSPORT3
-#EXTINF:-1,CH 44 | CNN
-#EXTINF:-1,CH 45 | euronews
-#EXTINF:-1,CH 46 | ALJAZEERA
-#EXTINF:-1,CH 47 | REDBULL TV
-#EXTINF:-1,CH 48 | beIN SPORTS1
-#EXTINF:-1,CH 49 | beIN SPORTS2
-#EXTINF:-1,CH 50 | er
-#EXTINF:-1,CH 51 | 
-#EXTINF:-1,CH 52 | EPL 1
-#EXTINF:-1,CH 53 | EPL 2
+
 #EXTINF:-1,CH 76 | CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1,CH 84 | 
-#EXTINF:-1,CH 87 | 
-#EXTINF:-1,CH 92 | TRACE
-#EXTINF:-1,WB TV TH
+
 #EXTINF:-1,CH 98 | 
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
@@ -1285,33 +1355,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,CH 112 | &priveHD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1,CH 113 | DOCURAMA
-#EXTINF:-1,CH 116 | arirang
-#EXTINF:-1,CH 118 | ALTV4
-#EXTINF:-1,CH 120 | 3HD
-#EXTINF:-1,CH 121 | 7HD
-#EXTINF:-1,CH 123 | PBS3
-#EXTINF:-1,CH 126
-#EXTINF:-1,CH 128 | TVB TH
-#EXTINF:-1,CH 129 | CH 8
-#EXTINF:-1,CH 132
-#EXTINF:-1,CH 134 | STAR CHINESE MOVIES TH
-#EXTINF:-1,CH 136
-#EXTINF:-1,CH 137 | FTV
-#EXTINF:-1,CH 138 | JASIMIN TV
-#EXTINF:-1,CH 139 | CI
-#EXTINF:-1,,CH 140 | FOX SPORT NEWS
-#EXTINF:-1,,CH 143 | Stadium
-#EXTINF:-1,,CH 144 | RTM2
-#EXTINF:-1,,CH 145 | REDBULL TV
-#EXTINF:-1,CH 147
-#EXTINF:-1,CH 148
-#EXTINF:-1,CH 149
-#EXTINF:-1,CH 150
-#EXTINF:-1,CH 151
-#EXTINF:-1,CH 152
-#EXTINF:-1,CH 153
-#EXTINF:-1,CH 154
+
 #EXTINF:-1 group-title="thaicable",CH 155
 
 + + + + + KH/Kingtel + + + + +
@@ -2263,140 +2307,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="VN|htv",PARAMOUNT CHANNEL |htv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-
-+ + + + + BamarTV + + + + +
-
-#EXTINF:-1 group-title="BamarTV", 80s Party |loop 
-https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/3.m3u8
-#EXTINF:-1,AVJ
-https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
-#EXTINF:-1,AsianCrush
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Crackle
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd2759bc8634d002d9ff9bc?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,fubo Sports Network
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc776?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,RetroCrush
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Latin x Loop
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccd4?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Loop 80's
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccbf?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Loop 90's
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccdd?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Loop Beast
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccc2?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Loop Bedroom
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccc5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Loop Electronica
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf2?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Loop Far Out
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f2863338bc40f00420a0694?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Loop Flashback
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccd7?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Loop Hip Hop
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0cccb?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Loop Hottest
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccd1?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Loop R&B
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccce?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Loop Synapse
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccda?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Loop Texas Tunes
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0cce0?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Loop TGIF
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccc8?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Loop That's Hot
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0cce6?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Loop Trending
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0cce9?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Loop Unwind
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccec?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Loop Yacht Rock
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccef?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Party
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1 group-title="BamarTV",Party Tyme Karaoke
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-
-#EXTINF:-1 group-title="BamarTV",GVIP CH1
-http://phoenixzoon.goodviping.xyz/live/CH1/index.m3u8
-
-#EXTINF:-1 group-title="BamarTV",HDS CH 1
-http://cdn7.hhdstreams.club/live/abr_ch1/live/ch1_720p/chunks.m3u8
-
-#EXTINF:-1 group-title="BamarTV",NBCSN LIVE
-https://video-weaver.ams02.hls.live-video.net/v1/playlist/CowFGgsNePh32Xor0hSdgT1Q4CrOckwMj0i6NOLwEDai8TXC5YRhwSKisBnQWkLJStVFkPxCz5ocPHG1pPuTRzXwhcbFiwlnpvov984BzeGjaD87nxRyrkFNwK41LOMF1C-fVxQD5_RPVRpv1m4jRJINCR0V0WcHMwsuWWmA_uSkjoVBW5wumYg9dh80-kj2ZWvh0wZ2g1IjSFMF3AhGM_sigAr7-A52w9L3aCpXgEUOPqjFGOsakzZYJ86KJek_gdDgvzXjwFX6-gUMg4GkbTsPmTKPobrRJvPmz_QYrPTKI9LrhzrUKbXghLJc90N1zLqSAXcYPmTR9R0-XFbZwrUKxUngbIQKTA3HiLbt0auWsoD7WmvCRsGGfPju6PDQNhidplYDUTZlUYYcmSpe7c51Xb01Di_Ow1P_VN9_s17kAIvZ93EjPVsZxKrgtYlCRmjyHZpBHMgk5AkPtawOb7G88eUcmh73lTkyPUprtt7bwn4-NvTA8qqOnz4zJjVFWvHZiMvxfRp1Fb9rn375otSQ5HXCJzgEXTCLJ7DpTIzZ1vSq8wRjCXxFr5ylUXUi1PGaUkSc2lNhnkXA-B-RFpnqTQlfrT0FrN5yfQKrHNkhmS200vZBj1Oi4Sc7hWbxE-QDlzL8RKQmt9AXvNezsNK7Fnqga_SRTfPwi6ywZS8gFipnqNry14ZuL_CKnBQkGyH6GcjM092anDdqph6FjrKIOkbgUXV8toadJBFHA9p4FY4iwkpEpdKzQASjvOZwE5R9z8_YO6YuMwGOn-biOwi_21ag3115O48xUgAx9_qED-3wBjyf7oxKs77Li9O0nOdpSqelb2u5dCRBc5oRmpeoZTbKgD34_GHhVhWttxIQKCYCoW2uSywyeIN6POoB-xoMehFdEXEliu64kk5e.m3u8
-
-#EXTINF:-1 group-title="BamarTV",OVO L1
-http://192.166.246.122/hls/live1.m3u8
-
-#EXTINF:-1 group-title="BamarTV",OVO S1
-http://192.166.246.122/hls/ovostreamss1.m3u8
-
-#EXTINF:-1 group-title="BamarTV",COSMOTE SPORT1
-http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT2
-http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT3
-http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT4
-http://185.132.177.110:8080/COSMOTESport4HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT5
-http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT6
-http://185.132.177.110:8080/COSMOTESport6HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT7
-http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT8
-http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8?token=test
-#EXTINF:-1 group-title="BamarTV",COSMOTE SPORT9
-http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8?token=test
-
- group-title="BamarTV",* live event 1 * nbcsn *
-https://dailyb0.s3.amazonaws.com/e1/1.m3u8
-* live event 2 * R1 *
-http://mafy.ddns.net:2082/TurkPortalGrup/Telegram/7264
-
- group-title="BamarTV",* live event 3 * nbcsn *
-https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/bbe355fc873a4b9fa03769748f2326f1/index3.m3u8
-http://103.145.12.195:8080/hls/streama145429/index.m3u8 < offline
-
-* live event 4 * off *
-https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/f66c9ac57cf0482ca54c5cdc86e68854/index4.m3u8
-
- group-title="BamarTV",live event 5: off
-https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/d1192d904efe496fa01cd23352cbe99b/index5.m3u8 < offline
-
- group-title="BamarTV",* live event 6 * nbcsn *
-http://a2.aliez.me:8080/hls/streama141886/index.m3u8
-
-* live event 7 * off *
-http://192.166.246.122/hls/ovostreamss.m3u8
-
-* live event 8 * off *
-https://bucketdaily02.s3.eu-west-2.amazonaws.com/e2/2.m3u8
-
-* live event 9 * off *
-https://bucketdaily02.s3.eu-west-2.amazonaws.com/e1/1.m3u8
-
-https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8 < N
-http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8 < N
-http://ip2121.com:8081/at1/ENG3/chunks.m3u8 < N
-
-
-,S PremierLeague
-https://rebrand.ly/SPL-103
-,S PSL
-https://rebrand.ly/SPSL-103
-,S Action
-https://rebrand.ly/SA-103
-,S Variety 2
-https://rebrand.ly/SV2-103
-
- group-title="BamarTV", 80s party |loop.tv
-https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/1.m3u8
-
 
 + + + + + http://iptvhit.live/projectadrian/epg/MYTV/7xhDoCdOia + + + + +
 
