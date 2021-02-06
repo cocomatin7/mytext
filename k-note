@@ -234,15 +234,19 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 group-title="BamarTV",GVIP CH1
 http://phoenixzoon.goodviping.xyz/live/CH1/index.m3u8
+#EXTINF:-1 group-title="BamarTV",GVIP CH2
+http://phoenixzoon.goodviping.xyz/live/CH2/index.m3u8
 #EXTINF:-1 group-title="BamarTV",HDS CH 1
 http://cdn7.hhdstreams.club/live/abr_ch1/live/ch1_720p/chunks.m3u8
+
 #EXTINF:-1 group-title="BamarTV",NBCSN LIVE
-https://video-weaver.ams02.hls.live-video.net/v1/playlist/CowFGgsNePh32Xor0hSdgT1Q4CrOckwMj0i6NOLwEDai8TXC5YRhwSKisBnQWkLJStVFkPxCz5ocPHG1pPuTRzXwhcbFiwlnpvov984BzeGjaD87nxRyrkFNwK41LOMF1C-fVxQD5_RPVRpv1m4jRJINCR0V0WcHMwsuWWmA_uSkjoVBW5wumYg9dh80-kj2ZWvh0wZ2g1IjSFMF3AhGM_sigAr7-A52w9L3aCpXgEUOPqjFGOsakzZYJ86KJek_gdDgvzXjwFX6-gUMg4GkbTsPmTKPobrRJvPmz_QYrPTKI9LrhzrUKbXghLJc90N1zLqSAXcYPmTR9R0-XFbZwrUKxUngbIQKTA3HiLbt0auWsoD7WmvCRsGGfPju6PDQNhidplYDUTZlUYYcmSpe7c51Xb01Di_Ow1P_VN9_s17kAIvZ93EjPVsZxKrgtYlCRmjyHZpBHMgk5AkPtawOb7G88eUcmh73lTkyPUprtt7bwn4-NvTA8qqOnz4zJjVFWvHZiMvxfRp1Fb9rn375otSQ5HXCJzgEXTCLJ7DpTIzZ1vSq8wRjCXxFr5ylUXUi1PGaUkSc2lNhnkXA-B-RFpnqTQlfrT0FrN5yfQKrHNkhmS200vZBj1Oi4Sc7hWbxE-QDlzL8RKQmt9AXvNezsNK7Fnqga_SRTfPwi6ywZS8gFipnqNry14ZuL_CKnBQkGyH6GcjM092anDdqph6FjrKIOkbgUXV8toadJBFHA9p4FY4iwkpEpdKzQASjvOZwE5R9z8_YO6YuMwGOn-biOwi_21ag3115O48xUgAx9_qED-3wBjyf7oxKs77Li9O0nOdpSqelb2u5dCRBc5oRmpeoZTbKgD34_GHhVhWttxIQKCYCoW2uSywyeIN6POoB-xoMehFdEXEliu64kk5e.m3u8
+
 #EXTINF:-1 group-title="BamarTV",OVO L1
 http://192.166.246.122/hls/live1.m3u8
 #EXTINF:-1 group-title="BamarTV",OVO S1
 http://192.166.246.122/hls/ovostreamss1.m3u8
 #EXTINF:-1 group-title="BamarTV",COSMOTE SPORT1
+
 http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8?token=test
 #EXTINF:-1,COSMOTE SPORT2
 http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8?token=test
@@ -2537,7 +2541,9 @@ http://iptvhit.live/Professor/BY4ME9/SB03op
 http://iptvhit.live/Professor/24PrOF/PrOf24
 http://iptvhit.live/kaloseyouri/xLydr5ip0x/nq1Bksq23L
 http://iptvhit.live/ELGAMEL/ccccc/xxxxx
+
 + + + + + 27.254.149.109:8081 + + + + +
+
  group-title="27.254",BBC WORLD NEWS |27.254
 http://27.254.149.109:8081/tumlive/BBC/chunks.m3u8
 http://27.254.149.109:8081/tumlive/CNN/chunks.m3u8
@@ -2624,14 +2630,20 @@ http://27.254.149.109:8081/tumlive/Sunmovie/chunks.m3u8
 http://27.254.149.109:8081/tumlive/TFLM/playlist.m3u8
 http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
 http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
+
 + + + + + 50.7.222.130:8278 + + + + +
+
 #EXTINF:-1 tvg-id="Astro SuperSport" group-title="50.7",Assp |50.7
 #EXTINF:-1 tvg-id="Astro SuperSport 2",Assp2 |50.7
 #EXTINF:-1 tvg-id="Astro SuperSport 3",Assp3 |50.7
 #EXTINF:-1 tvg-id="Astro SuperSport 4" group-title="50.7",Assp4 |50.7
+
 + + + + + 54.37.82.205:8081 + + + + +
+
 + + + + + 139.99.17.52:8081* / dooball66.com* + + + + +
+
 + + + + + vodcache.worldwidetv.club/root-c2/live-abr + + + + +
+
 http://139.99.17.52:8081/liveorigin/af-supersport10_480/playlist.m3u8
 https://vodcache.worldwidetv.club/root-c2/live-abr/af-supersport10/liveorigin/af-supersport10_480/playlist.m3u8
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport10/liveorigin/af-supersport10_480/playlist.m3u8
@@ -2956,7 +2968,9 @@ http://54.37.82.205:8081/liveorigin/us-wwe_480/playlist.m3u8
 http://54.37.82.205:8081/liveorigin/epl-bein1_480/chunks.m3u8
 http://54.37.82.205:8081/liveorigin/epl-bein2_480/chunks.m3u8
 http://54.37.82.205:8081/liveorigin/sd-tsports_480/chunks.m3u8
+
 + + + + + 77.83.117.60:8888 [https://www.livedoomovie.com] + + + + +
+
 #EXTINF:-1 group-title="77.83",truesports HD 1 |77.83'
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
 https://www.live77.83s.com/02_2sporthd2_720p/chunklist.m3u8
@@ -3125,7 +3139,9 @@ http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 ,SKYNET SPORTS HD |77.83'
 http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
 http://77.83.117.60:8888/sumrujlok_goodtv/chunklist.m3u8
+
 + + + + + 103.22.182.242:8081 + + + + + 
+
 http://103.22.182.242:8081/app/amarintv/chunks.m3u8
  tvg-id="Astro SuperSport" group-title="103.22",astro1 |103.22 |offline
 http://103.22.182.242:8081/app/astro1/chunks.m3u8
@@ -3166,7 +3182,9 @@ http://103.22.182.242:8081/app/tpf4/chunks.m3u8
 http://103.22.182.242:8081/app/tpf5/chunks.m3u8
  group-title="103.22",workpoint |103.22
 http://103.22.182.242:8081/app/workpoint/chunks.m3u8
+
 + + + + + 103.208.24.234:1935 + + + + + 
+
  tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="TH/103.208", True Premiere Football 1 |103
 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
  tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",  True Premiere Football 2 |103
@@ -3210,7 +3228,9 @@ http://103.208.24.234:1935/thaisport/epl-5.stream/chunklist.m3u8
 http://103.208.24.234:1935/thaisport/epl-bein2.stream/chunklist.m3u8
  group-title="TH/103.208", tsport7 |103
 http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
+
 + + + + + 103.253.72.107:9997 + + + + +
+
  tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="103.253", True Premiere Football HD1* |103
 http://103.253.72.107:9997/Premier1/index.m3u8
  tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2", True Premiere Football HD2* |103
@@ -3221,7 +3241,9 @@ http://103.253.72.107:9997/Premier3/index.m3u8
 http://103.253.72.107:9997/Premier4/index.m3u8
  tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 5" group-title="103.253", True Premiere Football HD5* |103
 http://103.253.72.107:9997/Premier5/index.m3u8
+
 + + + + + 156.146.43.241:2200/EX + + + + +
+
 token=123zzzaaaxxaazzzxxx987
 token=xrstalker < NO
 http://xlx723.dyndns.org/iproxy/miniProxy.php/
@@ -3318,8 +3340,11 @@ http://156.146.43.241:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?tok
 http://156.146.43.241:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=
 http://156.146.43.241:2200/R-EX/TAMIL_VIJAY_SUPER-in/tracks-v1a1/mono.m3u8?token=
 http://156.146.43.241:2200/R-EX/TAMIL_ZEE_THIRAI-in/tracks-v1a1/mono.m3u8?token=
+
 + + + + + 185.238.0.145:1313/c/livedo/ + + + + +
+
 + + + + + 185.246.210.55:2200/EX + + + + +
+
 #EXTINF:-1 group-title="185.246",BT Sport 1 |185.246
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.55:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1,BT Sport 2 |185.246
@@ -3403,7 +3428,9 @@ http://185.246.210.55:2200/AFR-EX/SuperSport_Variety_4_FHD-dstv/index.m3u8?token
 http://185.246.210.55:2200/AFR-EX/SuperSport_WWE_FHD-dstv/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 group-title="185.246",&flix |185.246
 http://185.246.210.55:2200/R-EX/HINDI_AND_FLIX_HD-in/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+
  -/-/-/-/- OFFLINE -/-/-/-/-
+
 http://185.246.210.55:2200/EX/privatehd/index.m3u8?token=xrstalker
 http://185.246.210.55:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=xrstalker
 http://185.246.210.55:2200/EX/BT_Sport_2_HD-uk/index.m3u8?token=xrstalker
@@ -3416,7 +3443,9 @@ http://185.246.210.55:2200/EX/beinsports1uhd-tr/index.m3u8?token=xrstalker
 http://185.246.210.55:2200/EX/beinsports2uhd-tr/index.m3u8?token=xrstalker
 http://185.246.210.55:2200/EX/beinsports3uhd-tr/index.m3u8?token=xrstalker
 http://185.246.210.55:2200/EX/beinsports4uhd-tr/index.m3u8?token=xrstalker
+
 + + + + + 119.59.125.74 + + + + +
+
  group-title="119/totnew",Celestial Classic Movies (CCM) |119
 http://119.59.125.74/stream/totnew.php?channel_id=1c2276a2f1884b269ce281c3334e8f85
 ,NHK WORLD TV |119
@@ -3454,8 +3483,11 @@ http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2bae
 http://119.59.125.74/stream/totnew.php?channel_id=b254601a75724ad79e2633f3d307e331
 http://119.59.125.74/stream/totnew.php?channel_id=443ea6ef1768462aaffdff38ce2a4355
 http://119.59.125.74/stream/totnew.php?channel_id=205930751d5743e2be719ed1dff8970f < OK
+
 + + + + + 160.119.77.50 >> 160.119.77.116:8081 + + + + + 
+
 + + + + + https://doofootball.livestream-cdn.com + + + + +
+
 https://doofootball.livestream-cdn.com/iptv/epl-2.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="160.119", True Premiere Football HD1 |160
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2", True Premiere Football HD2 |160
@@ -3748,7 +3780,9 @@ http://160.119.77.116:8081/iptv/uk-usa.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3", True Premiere Football HD3 |185
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 4", True Premiere Football HD4 |185
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 5" group-title="185.238", True Premiere Football HD5 |185
+
 + + + + + 203.150.107.30:8081 + + + + +
+
  group-title="203.150", PPTV 36
 http://203.150.107.30:8081/tested2iptv/core1/playlist.m3u8
  tvg-id="beIN Sports 1", beIN SPORTS 1 |203.150
@@ -3803,7 +3837,9 @@ http://203.150.107.30:8081/freethaitv/29fb241f985c468e8e6ffa8942b00a69.m3u8?s=d5
 http://203.150.107.30:8081/freethaitv/cd25fccffa6f4a2f8d7190d3e8907440.m3u8?s=d5833c4d6590ebea8861a5ea300cb4ba
  group-title="203.150",PPTV
 http://203.150.107.30:8081/freethaitv/623d009180394c528880c14e2254452a.m3u8?s=d5833c4d6590ebea8861a5ea300cb4ba
+
 + + + + + 203.154.177.124:8899 + + + + +
+
 #EXTINF:-1 group-title="203.154",COMEDY CENTRAL
 #EXTINF:-1,MTV Live HD
 #EXTINF:-1,Paramount Channel
@@ -3868,7 +3904,9 @@ http://203.154.177.124:8080/live/ch21/index.m3u8
 http://203.154.177.124:8080/live/ch22/index.m3u8
 #EXTINF:-1 group-title="203.154",CI'
 http://203.154.177.124:8080/live/ch23/index.m3u8
+
 + + + + + 203.154.243.31:8081 + + + + +
+
 WORLD ANIMAL HD
 http://203.154.243.89:1201
 ASTRO HD offline
@@ -3902,7 +3940,9 @@ http://203.154.243.31:8081/live/tennis/index.m3u8
 http://203.154.243.31:8081/live/hisport/index.m3u8
 http://203.154.243.31:8081/live/series/index.m3u8
 http://203.154.243.31:8081/live/thairath/index.m3u8
+
 + + + + + ufalive + + + + +
+
  group-title="ufalive",afn |ufalive
 https://cdn1.ufalive.center/app/afn/playlist.m3u8
 https://cdn1.ufalive.center/app/ais-eurosport/playlist.m3u8
@@ -4055,9 +4095,13 @@ https://cdn1.ufalive.center/app/workpoint/playlist.m3u8
 https://cdn1.ufalive.center/app/xzyte/playlist.m3u8
  group-title="ufalive",ziggo sport voetbal |ufalive
 https://cdn1.ufalive.center/app/ziggosportvoetbal/playlist.m3u8
+
 + + + + + https://ballnaka.tv/ + + + + +
+
 TH VPN
+
 + + + + + http://www.sportdoofree.com / 45.64.186.163:443 + + + + +
+
  group-title="TH/sportdoofree",bein 1 EPL
 https://cdn17.cloud-streaming.com/sportpack_x1/beinsport1_480p/chunks.m3u8?nimblesessionid=
 ,bein 2 EPL
@@ -4069,7 +4113,9 @@ https://cdn17.cloud-streaming.com/sportpack_x3/skynet3/chunks.m3u8?nimblesession
 https://cdn17.cloud-streaming.com/sportpack_x3/skynet4/chunks.m3u8?nimblesessionid=
 https://cdn17.cloud-streaming.com/sportpack_x3/skynet5/chunks.m3u8?nimblesessionid=
 https://cdn17.cloud-streaming.com/sportpack_x3/skynet6/chunks.m3u8?nimblesessionid=
+
 + + + + + cloud-streaming + + + + +
+
  tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="cloud/ilike4kin",premier hd1 /ilike4kin
 https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd1_720/chunks.m3u8
  tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",premier hd2 /ilike4kin
@@ -4099,7 +4145,9 @@ https://cdn161.cloud-streaming.com/ilike4kin_x6/true4u_720p/playlist.m3u8
 https://cdn161.cloud-streaming.com/ilike4kin_x6/voice_720p/playlist.m3u8
  group-title="cloud/ilike4kin",workpoint /ilike4kin
 https://cdn161.cloud-streaming.com/ilike4kin_x6/workpoint_720p/playlist.m3u8
+
 + + + + + https://www.warpfootball.games/live / 103.253.74.7:443 + + + + +
+
  group-title="TH/warpfootball",trueepl1
 https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl1_480p/chunks.m3u8
 ,trueepl2
@@ -4111,7 +4159,9 @@ https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl4_480p/chunks.m3u8?nim
  group-title="TH/warpfootball",trueepl5
 https://cdn221.cloud-streaming.com/wrapfootball_t1/trueepl5_480p/chunks.m3u8?nimblesessionid=
 https://cdn221.cloud-streaming.com/wrapfootball_t5/hd-hbo-thai/chunks.m3u8?nimblesessionid=
+
 + + + + + https://www.ballsoi8.com / 103.253.74.3:443 + + + + +
+
  group-title="TH/ballsoi8",trueepl3
 https://cdn227.cloud-streaming.com/ballsod_y1/trueepl3_480p/chunks.m3u8?nimblesessionid=4240400&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgMzoyMDoxNCBBTSZoYXNoX3ZhbHVlPUlReW5lQWRTcCtIQ21xNVJubkJsalE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0xMTgxNTQ=
  group-title="TH/ballsoi8",trueepl4
@@ -4138,10 +4188,14 @@ https://cdn227.cloud-streaming.com/ballsoi8_r3/skynet5/chunks.m3u8?nimblesession
 https://cdn227.cloud-streaming.com/ballsoi8_r3/skynet6/chunks.m3u8?nimblesessionid=
 hd-hbo-thai
 https://cdn227.cloud-streaming.com/ballsoi8_r5/hd-hbo-thai/chunks.m3u8?nimblesessionid=
+
 + + + + + https://www.liveballsod.com/ + + + + +
+
  bein 1
 https://cdn235.cloud-streaming.com/fifa55u_x1/beinsport1_480p/chunks.m3u8
+
 + + + + + totiptv.com + + + + + +
+
 STAR MAX Channel
 http://cwt02.livem3u8.me.totiptv.com/live/4e38ed2fa4dd43999828eab81196deff.m3u8?pt=1
 Saranair Channel
