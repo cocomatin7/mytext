@@ -236,6 +236,10 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea60567408
 http://phoenixzoon.goodviping.xyz/live/CH1/index.m3u8
 #EXTINF:-1 group-title="BamarTV",GVIP CH2
 http://phoenixzoon.goodviping.xyz/live/CH2/index.m3u8
+http://phoenixzoon.goodviping.xyz/live/CH3/index.m3u8
+#EXTINF:-1 group-title="BamarTV",GVIP CH4
+http://phoenixzoon.goodviping.xyz/live/CH4/index.m3u8
+http://phoenixzoon.goodviping.xyz/live/CH5/index.m3u8
 #EXTINF:-1 group-title="BamarTV",HDS CH 1
 http://cdn7.hhdstreams.club/live/abr_ch1/live/ch1_720p/chunks.m3u8
 
