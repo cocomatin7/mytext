@@ -194,7 +194,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea60547408
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1,Latin x Loop
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccd4?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1,Loop 80's
+#EXTINF:-1,Loop 80's | offline
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccbf?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1,Loop 90's
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccdd?X-Plex-Token=MorUy57ijWhGe4ixZb_T
@@ -232,6 +232,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 group-title="BamarTV",Party Tyme Karaoke
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+
 #EXTINF:-1 group-title="BamarTV",GVIP CH1
 http://phoenixzoon.goodviping.xyz/live/CH1/index.m3u8
 #EXTINF:-1 group-title="BamarTV",GVIP CH2
@@ -245,7 +246,9 @@ http://phoenixzoon.goodviping.xyz/live/CH5/index.m3u8
 http://cdn7.hhdstreams.club/live/abr_ch1/live/ch1_720p/chunks.m3u8
 #EXTINF:-1 group-title="BamarTV",HDS CH 2
 http://cdn7.hhdstreams.club/live/abr_ch2/live/ch2_720p/chunks.m3u8
+#EXTINF:-1 group-title="BamarTV",HDS CH 3
 http://cdn7.hhdstreams.club/live/abr_ch3/live/ch3_720p/chunks.m3u8
+#EXTINF:-1 group-title="BamarTV",HDS CH 4
 http://cdn7.hhdstreams.club/live/abr_ch4/live/ch4_720p/chunks.m3u8
 http://cdn7.hhdstreams.club/live/abr_ch5/live/ch5_720p/chunks.m3u8
 
@@ -2186,6 +2189,7 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/54
 http://vp2p2s.my6868.cc/20414/index.m3u8
 #EXTINF:-1,ASSP2
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/55
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 http://vp2p2s.my6868.cc/20415/sbmc.m3u8
 http://vp2p2s.my6868.cc/20415/index.m3u8
 #EXTINF:-1,ASSP3
