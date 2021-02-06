@@ -1336,7 +1336,9 @@ http://220.158.149.28:8180/live/TV00000000000000000170@HHZT
 http://220.158.149.28:8182/hls/TV00000000000000000170@HHZT
  group-title="Kingtel",MIZZIMA TV' /14:9999
 http://220.158.149.14:9999/live/TV00000000000000000170@HHZT
+
 + + + + + KH/OneTV + + + + + 
+
 #EXTINF:-1 group-title="OneTV",oneNEWS KH
 http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
 One 5
@@ -1496,7 +1498,9 @@ http://36.37.252.114:888/Apple/OneTV-089/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-090/playlist.m3u8
 K+1
 http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
+
 + + + + + SG + + + + +
+
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png" group-title="SG",Channel News Asia | d2k
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png", CNA HD*
@@ -1519,7 +1523,9 @@ https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master.m3u8
  Vasantham
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master.m3u8
+
 + + + + + GB + US + + + + +
+
 #EXTINF:-1 group-title="GB",Bloomberg TV Europe
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1,Bloomberg US
@@ -1592,7 +1598,9 @@ http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227171/1.m3u8
 #EXTINF:-1 group-title="GB",BBC World News |103.102
 http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
+
 + + + + + movies + + + + + 
+
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="movies", CINEMAX |org
 https://rebrand.ly/h-cin
 #EXTINF:-1 tvg-id="HBO HD", HBO |org
@@ -1619,6 +1627,7 @@ https://raw.githubusercontent.com/konanda-sg/mytext/master/hhit-mm.m3u8
 https://raw.githubusercontent.com/konanda-sg/mytext/master/hred-mm.m3u8
 #EXTINF:-1 tvg-id="HBO Signature HD", HBO SIGNATURE |mm
 https://raw.githubusercontent.com/konanda-sg/mytext/master/hsig-mm.m3u8
+
  EXTINF:-1 tvg-id="HBO HD" group-title="movies", HBO |CF
 https://rebrand.ly/H-bo-cf
  EXTINF:-1 tvg-id="Cinemax HD", CINEMAX |CF
@@ -1639,6 +1648,7 @@ https://rebrand.ly/H-re-se2
 https://rebrand.ly/H-re-se3
  EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |IP*
 https://rebrand.ly/H-re-ip
+
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="movies", CINEMAX ||org
 https://rebrand.ly/H-ci-02
 #EXTINF:-1 tvg-id="HBO HD", HBO ||org
@@ -1653,6 +1663,7 @@ https://rebrand.ly/H-si-02
 https://rebrand.ly/H-re-01
  EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO ||org*
 https://rebrand.ly/H-re-02
+
  EXTINF:-1 tvg-id="Cinemax HD" group-title="movies", CINEMAX |alt
 https://rebrand.ly/h-ci-alt
  EXTINF:-1 tvg-id="HBO HD", HBO |alt
@@ -1675,6 +1686,7 @@ https://zalogi.xyz/exo/playlist/hits-mkctvMalingPlaylist.m3u8
 https://zalogi.xyz/exo/playlist/sig-mkctvMalingPlaylist.m3u8
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO* |alt
 https://zalogi.xyz/exo/playlist/red-mkctvMalingPlaylist.m3u8
+
 #EXTINF:-1,HBO
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/85
 #EXTINF:-1,HBO FAMILY
@@ -1693,6 +1705,7 @@ https://alwa.lk21tvonlineid.com/family.m3u8
 https://alwa.lk21tvonlineid.com/hits.m3u8
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |alwa
 https://alwa.lk21tvonlineid.com/red.m3u8
+
  EXTINF:-1 tvg-id="HBO HD" group-title="movies", HBO |boxmv (alt)
 http://boxmovie-th.com/app-api-android/hbo/hbohd2/playlist.m3u8
  EXTINF:-1 tvg-id="Cinemax HD", CINEMAX |boxmv (alt)
@@ -1705,6 +1718,7 @@ http://boxmovie-th.com/app-api-android/hbo/hitshd2/playlist.m3u8
 http://boxmovie-th.com/app-api-android/hbo/sighd2/playlist.m3u8
  EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |boxmv (alt)
 http://boxmovie-th.com/app-api-android/hbo/redhd2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="movies", CINEMAX |dootv (alt)
 http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO HD", HBO |dootv (alt)
@@ -1763,10 +1777,12 @@ http://fdtvapps.xyz/channel/hbofam.m3u8
 http://fdtvapps.xyz/channel/hbohits.m3u8
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |fdtv
 http://fdtvapps.xyz/channel/red.m3u8
+
 http://me.zichannels.my.id/ch/family.m3u8
 http://me.zichannels.my.id/ch/hbo.m3u8
 http://me.zichannels.my.id/ch/hits.m3u8
 http://me.zichannels.my.id/ch/max.m3u8
+
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |me
 http://me.zichannels.my.id/ch/red.m3u8
 http://me.zichannels.my.id/ch/sighd.m3u8
@@ -1806,6 +1822,7 @@ https://zaltvku.imfast.io/RED.m3u8 < N?
 https://zaltvku.imfast.io/red_onweb.m3u8
 #EXTINF:-1 tvg-id="HBO Signature HD" group-title="movies", HBO SIGNATURE |onweb
 https://zaltvku.imfast.io/sig_onweb.m3u8
+
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAXNew.m3u8
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOFAMNew.m3u8
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8
@@ -1828,7 +1845,9 @@ https://raw.githubusercontent.com/zaltvplayer/play01/master/hbosig.m3u8
 https://raw.githubusercontent.com/zaltvplayer/play01/master/red.m3u8
 HBO Hits
 http://riyancoday.xyz/coday_play.m3u8?shinta=WWW.RiyanCoday.XYZ&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862cdcb1439e44bd6685165190fd4c2c4d31
+
 + + + + + movies /offline + + + + +
+
 http://www.stgiptv.online/session_dyos/dyos/server/hbohd.m3u8
 http://www.stgiptv.online/session_dyos/dyos/server/sighd.m3u8
 http://www.stgiptv.online/session_dyos/dyos/server/hitshd.m3u8
@@ -1895,7 +1914,9 @@ https://dootvgun.com/hbotv/hbosig/playlist.m3u8
 https://dootvgun.com/hbotv/hbored/playlist.m3u8
 https://dootvgun.com/hbotv/hbohits/playlist.m3u8
 https://dootvgun.com/hbotv/hbomax/playlist.m3u8
+
 + + + + + movies /misc + + + + +
+
 http://194.76.186.15:8080/play/a03a/index.m3u8 < HOT
 #EXTINF:-1 group-title="movies", movies 1
 https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
@@ -1940,7 +1961,9 @@ https://glus-st.mthcdn.com/stream/video02/2017/12/17/1513487216/1513487216_720.m
 https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513413876/1513413876_480.mp4
 #EXTINF:-1 group-title="movies",Transformers 4 Age Of Extinction(2014)
 https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513434647/1513434647_480.mp4
+
 + + + + + ID / oxygenplay + + + + +
+
  group-title="oxygenplay",bloomberg |oxygen
 http://103.130.186.138:8800/oxygenplay/bloomberg/index.m3u8
 ,B4U MOVIES |oxygen
@@ -1961,7 +1984,9 @@ http://103.130.186.138:8800/oxygenplay/hbo/index.m3u8
 http://103.130.186.138:8800/oxygenplay/mtvchina/index.m3u8
  group-title="oxygenplay",nhk world |oxygen
 http://103.130.186.138:8800/oxygenplay/nhkworld/index.m3u8
+
 + + + + + VN|203 + + + + +
+
 #EXTINF:-1 group-title="VN|203",NHK |203
 http://203.162.235.41:16901
 http://203.162.235.41:16902
@@ -1995,7 +2020,9 @@ http://203.162.235.41:16918
 http://203.162.235.41:16919
 offline
 http://203.162.235.41:16920
+
 + + + + + VN|htv + + + + +
+
  group-title="VN|htv",CNN HD |htv
 http://520574.xyz/dl/htv.php?id=6
 ,HBO CN |htv
@@ -2020,7 +2047,9 @@ http://520574.xyz/dl/htv.php?id=221
 http://520574.xyz/dl/htv.php?id=222
  group-title="VN|htv",HBO Hits HD CN |htv
 http://520574.xyz/dl/htv.php?id=223
+
 + + + + + VN|ftp + + + + +
+
 #EXTINF:-1 group-title="VN|ftp",V HD |ftp
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="FOX Movies HD",Fox Movies |ftp
@@ -2101,7 +2130,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="VN|htv",PARAMOUNT CHANNEL |htv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+
 + + + + + http://iptvhit.live/projectadrian/epg/MYTV/7xhDoCdOia + + + + +
+
 #EXTINF:-1 group-title="iptvhit",FOX MOVIES
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/34
 #EXTINF:-1,FOX MOVIES
@@ -2350,12 +2381,16 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/125
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFyYLMJn/Zp4v1-Y-L-400x400.jpg",BT 3
 http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/126
+
 -/-/-/-/-/- offline -/-/-/-/-/
+
 http://198.16.106.58:8278/supersports/playlist.m3u8
 http://198.16.106.58:8278/supersports2/playlist.m3u8
 http://198.16.106.58:8278/supersports3/playlist.m3u8
 http://198.16.106.58:8278/supersports4/playlist.m3u8
+
 -/-/-/-/-/-
+
 #EXTINF:-1,FOX MOVIES |offline
 http://103.76.148.203:25461/live/EqyGiMlzsS/xvlVrI4VzZ/1.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png",HBO
@@ -2383,7 +2418,9 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/133
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/134
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tv3.png",TV3
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/135
+
 + + + + + http://iptvhit.live/projectadrian/epg/Nixon/nvkgDOj4vI + + + + +
+
 url-tvg="http://iptvhit.live/projectadrian/epg/Nixon/nvkgDOj4vI"
 http://iptvhit.live/projectadrian/Nixon/nvkgDOj4vI/17
 http://iptvhit.live/projectadrian/Nixon/nvkgDOj4vI/18
