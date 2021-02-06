@@ -524,22 +524,7 @@ https://mptalive6-a.akamaihd.net:443/83c48cc94de947f392b2d08dc1eb694c/ap-southea
 
 + + + + + thaicable + + + + +
 
-#EXTINF:-1 group-title="BetTopFive", beIN 1TH
-https://cdn1.cloud-streaming.live/live/beinsport1/sport/bein1/chunks.m3u8?nimblesessionid=11304060
-#EXTINF:-1 group-title="BetTopFive", beIN 2TH
-https://cdn1.cloud-streaming.live/live/beinsport2/sport/bein2/chunks.m3u8?nimblesessionid=11304229
-#EXTINF:-1 group-title="BetTopFive", TPF 1
-https://cdn1.cloud-streaming.live/live/tpf1/sport/tpf1-480/chunks.m3u8?nimblesessionid=11303562
-#EXTINF:-1 group-title="BetTopFive", TPF 2
-https://cdn1.cloud-streaming.live/live/tpf2/sport/tpf2/chunks.m3u8?nimblesessionid=11302987
-#EXTINF:-1 group-title="BetTopFive", TPF 3
-https://cdn1.cloud-streaming.live/live/tpf3/sport/tpf3/chunks.m3u8?nimblesessionid=11303925
-#EXTINF:-1 group-title="BetTopFive", SPORTTV1
-https://cdn1.cloud-streaming.live/live/sporttv1/chunks.m3u8?nimblesessionid=11304419
-#EXTINF:-1 group-title="BetTopFive", SPORTTV2
-https://cdn1.cloud-streaming.live/live/sporttv2/chunks.m3u8?nimblesessionid=11304600
-#EXTINF:-1 group-title="BetTopFive", SPORTTV3
-https://cdn1.cloud-streaming.live/live/sporttv3/chunks.m3u8?nimblesessionid=11304807
+
 
 http://4digital.ddns.net:11220/ts/0
 http://4digital.ddns.net:11221/ts/0
@@ -565,6 +550,529 @@ http://180.183.101.168:9981/stream/channelid/1725989479?profile=pass
 
 #EXTINF:-1 tvg-id="6782e06602e1932ac3c51d55ce3efa19" tvg-chno="1",' TPF HD1* '
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+https://node101.cloud-streaming.com/mvcb_x6/premierhd1_720/chunks.m3u8?nimblesessionid=14779311&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMCAxOjI4OjA3IFBNJmhhc2hfdmFsdWU9emJVSml2bFdaTzBiQTk5ZzRjT0tndz09JnZhbGlkbWludXRlcz0yMCZpZD0zMzc2ODgmc3RybV9sZW49M
+
+#EXTINF:-1 tvg-id="8329d1847e0e3aa969a627dc9ce35225" tvg-chno="2",true1_2 ' TPF HD1 "
+http://180.183.101.168:9981/stream/channelid/80816515?profile=pass
+#EXTINF:-1 tvg-id="2921f2966afde67aa1db8ad3cd671089" tvg-chno="3",true1_1 " TPF HD1 "
+http://180.183.101.168:9981/stream/channelid/384966953?profile=pass
+
+#EXTINF:-1 group-title="thaicable", ENC01
+http://196.53.249.42:9981/play/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee
+http://196.53.249.42:9981/play/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?title=ENC01
+#EXTINF:-1 group-title="thaicable", ENC01 *
+http://196.53.249.42:9981/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee
+
+#EXTINF:-1, ENC02 | SPORTS HD
+http://196.53.249.42:9981/play/stream/service/99c00f0346648f88da9f368fab67d9e8
+http://196.53.249.42:9981/play/stream/service/99c00f0346648f88da9f368fab67d9e8?title=ENC02
+#EXTINF:-1, ENC02 | SPORTS HD *
+http://196.53.249.42:9981/stream/service/99c00f0346648f88da9f368fab67d9e8
+
++ + + + + https://rebrand.ly/sn-hd-196 + + + + + 
+
+#EXTINF:-1 tvg-id="976def8ec41b956e1186092d367fcb6a",ENC01
+http://196.53.249.42:9981/stream/channelid/250572183?ticket=90BD80D45802E6F6E879237564E84E87B12C3982&profile=pass
+#EXTINF:-1 tvg-id="662ff1d170caa73c4d93280ff615d18e",ENC02
+http://196.53.249.42:9981/stream/channelid/1374760806?ticket=CC6E67C9F11E63E232F0369E5172362571D11C85&profile=pass
+#EXTINF:-1 tvg-id="4c9cbb76b8f664e86552c0a11b895f85",ENC03
+http://196.53.249.42:9981/stream/channelid/1992006732?ticket=4ED7FC86B4C5218A8BEC393F3D7E2A2DB9E06E37&profile=pass
+#EXTINF:-1 tvg-id="efd871e80568fd116e069447efc80b0f",tfilm2
+http://196.53.249.42:9981/stream/channelid/1752291567?ticket=04E0B86F04961A15C2F21369020F17009E5591FC&profile=pass
+#EXTINF:-1 tvg-id="0c7b8cb35c8cdd6793e291f4b566555b",WARNER HD
+http://196.53.249.42:9981/stream/channelid/864844556?ticket=B23F34CD37F8D8CBF4EF2D22B921159FD9525EDA&profile=pass
+#EXTINF:-1 tvg-id="b79f72ac538e325520c41626262d4167",{name-not-set}
+http://196.53.249.42:9981/stream/channelid/745709495?ticket=5F860DA013D79933CE6EE0341AB926683041F7A9&profile=pass
+#EXTINF:-1 tvg-id="75e779b547c8d2fa954d1c40bb176620",{name-not-set}
+http://196.53.249.42:9981/stream/channelid/897181557?ticket=95EBE5F12BA25E6BF64CA32F0E1AFC95314CBFC3&profile=pass
+#EXTINF:-1 tvg-id="45e94e3e0c4a7812ebecdb680536350e",{name-not-set}
+http://196.53.249.42:9981/stream/channelid/1045358917?ticket=3B4B84CC296B3ED62332B547AFB64EF6FD9B31DD&profile=pass
+#EXTINF:-1 tvg-id="e5651b3f47734cf68f46adf42c4d8cdb",{name-not-set}
+http://196.53.249.42:9981/stream/channelid/1058760165?ticket=B99339BFF7448BD0BF91E15206F5F0B95B24F341&profile=pass
+#EXTINF:-1 tvg-id="4ba302c20080e85379153352f079be7c",{name-not-set}
+http://196.53.249.42:9981/stream/channelid/1107469131?ticket=23503EC4EA77101115BD2DEFDB49169277DE1E05&profile=pass
+#EXTINF:-1 tvg-id="9bd1fdc5a0b91200a7e8fbb8cc9eaa60",{name-not-set}
+http://196.53.249.42:9981/stream/channelid/1174262171?ticket=BF7E954003182646687B56A30123B8C90B9B248F&profile=pass
+#EXTINF:-1 tvg-id="dee88546daacebe1340642e46533fe35",{name-not-set}
+http://196.53.249.42:9981/stream/channelid/1183181022?ticket=47D2B3632775AE03F40E95A6FB86A4CB14D037D7&profile=pass
+#EXTINF:-1 tvg-id="1b37d1d167f69e7a26403a5fd7fb1319",{name-not-set}
+http://196.53.249.42:9981/stream/channelid/1372665627?ticket=F392CE85D937EE59CA67C63776C550A858DA5554&profile=pass
+#EXTINF:-1 tvg-id="db4f2353142a56ed23af61e360a4618b",{name-not-set}
+http://196.53.249.42:9981/stream/channelid/1394823131?ticket=92D1BD97808C03705383247607901BC8A230AD7F&profile=pass
+#EXTINF:-1 tvg-id="6608cde8cac7f8f9e2f180cedbc5063d",{name-not-set}
+http://196.53.249.42:9981/stream/channelid/1758267494?ticket=58CFC761DB37DCD742BC58CC726452D524182EC3&profile=pass
+#EXTINF:-1 tvg-id="538b85ed7cb88e645e13923c0543b644",{name-not-set}
+http://196.53.249.42:9981/stream/channelid/1837468499?ticket=D7FE98CE4BD53C4621EA08AFDFC1892AA7AC5375&profile=pass
+#EXTINF:-1 tvg-id="0a902b7a506be3fc74832db8a148b84e",{name-not-set}
+http://196.53.249.42:9981/stream/channelid/2049675274?ticket=5113C046587126074AC926999C69EA23D70EB220&profile=pass
+
+#EXTINF:-1 group-title="thaicable", ENC03
+http://196.53.249.42:9981/play/stream/service/790fdd22ebec49c47bf60331c70b0785
+http://196.53.249.42:9981/play/stream/service/790fdd22ebec49c47bf60331c70b0785?title=ENC03
+#EXTINF:-1 group-title="thaicable", ENC03 *
+http://196.53.249.42:9981/stream/service/790fdd22ebec49c47bf60331c70b0785
+
+Congiguration > DVB Inputs > Services
+http://196.53.249.42:9981/play/stream/channel/976def8ec41b956e1186092d367fcb6a?title=ENC01
+http://196.53.249.42:9981/play/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?title=ENC01
+http://196.53.249.42:9981/play/stream/channel/662ff1d170caa73c4d93280ff615d18e?title=ENC02
+http://196.53.249.42:9981/play/stream/service/99c00f0346648f88da9f368fab67d9e8?title=ENC02
+http://196.53.249.42:9981/play/stream/channel/4c9cbb76b8f664e86552c0a11b895f85?title=ENC03
+http://196.53.249.42:9981/play/stream/service/790fdd22ebec49c47bf60331c70b0785?title=ENC03
+
+http://196.53.249.42:9981/play/stream/channel/0c7b8cb35c8cdd6793e291f4b566555b?title=WARNER%20HD
+
+
+http://196.53.249.42:9981/play/stream/service/e4d7f09ef50de683d9a966df72e83d1b
+http://196.53.249.42:9981/play/stream/service/1b9bde3a5326f26e89fb533adc4f5df3
+http://196.53.249.42:9981/play/stream/service/e890fceeb1ca8c704c700594d5db412b
+
++ + + + +
+
+http://196.53.249.42:9981/playlist/channels
+http://196.53.249.42:9981/extjs.html
+http://newhostshare.ddns.net:9981/playlist/channels
+http://newhostshare.ddns.net:9981/extjs.html
+
++ + + + +
+
+#EXTINF:-1 group-title="thaicable",Cinemax
+http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248
+http://4digital.ddns.net:9981/play/stream/service/9d577e58dadc6f23bd8c76d21be8e248?title=Cinemax%20
+
+http://4digital.ddns.net:9981/play/stream/service/38d3c9236281bcd40829fde2744f78e4?title=FOX%20Action%20Movies
+http://4digital.ddns.net:9981/play/stream/service/cae8d79225fee492198d50159dcc6961?title=FOX%20Family%20Movies
+http://4digital.ddns.net:9981/play/stream/service/4befaab62f451a88f937a72304277db2?title=foxMoive
+http://4digital.ddns.net:9981/play/stream/service/c8c79f93a336289531cfe3555174925e?title=HBO%20Sig
+http://4digital.ddns.net:9981/play/stream/service/72f9cd112ecdfd3090a58fbe26514219?title=hbo%20hs
+http://4digital.ddns.net:9981/play/stream/service/f2ed7558641e7d795bc0f0902bbef7ae?title=History%20HD
+
+#EXTINF:-1,NET SPORT HD
+http://4digital.ddns.net:9981/stream/service/0ce306a5da35cefee8db8298ee7d8258
+http://4digital.ddns.net:9981/play/stream/service/0ce306a5da35cefee8db8298ee7d8258?title=VIP2
+#EXTINF:-1,True Premier Football HD1
+http://4digital.ddns.net:9981/stream/service/d396adf06388c6a42aed5805744dd446
+http://4digital.ddns.net:9981/play/stream/service/d396adf06388c6a42aed5805744dd446?title=VIP%20HD3
+
+#EXTINF:-1 group-title="thaicable",CH 1 | FOX MOVIES
+http://thaicable.myftp.org:8000/live/infosat/2020/1.m3u8
+http://196.53.249.42:9981/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?ticket=D428B33505FC2A579E8331D3B4680F55C4F31701
+
+#EXTINF:-1,CH 2 | SPORTS HD
+http://thaicable.myftp.org:8000/live/infosat/2020/2.m3u8
+http://196.53.249.42:9981/stream/service/99c00f0346648f88da9f368fab67d9e8?ticket=2959E3E0B54205AA40C8896309CB7F0B5174928A
+
+#EXTINF:-1,CH 2* | SPORTS HD
+http://thaicable.myftp.org:8000/live/infosat/2020/00002.ts
+#EXTINF:-1,CH 3 | NAT GEO
+http://thaicable.myftp.org:8000/live/infosat/2020/3.m3u8
+http://196.53.249.42:9981/stream/service/790fdd22ebec49c47bf60331c70b0785?ticket=E371300CA3D63D3B37724F5281AE7080586909C6
+
+#EXTINF:-1,CH 4 | CI
+http://thaicable.myftp.org:8000/live/infosat/2020/4.m3u8
+http://196.53.249.42:9981/stream/mux/dbfa4c7e398eb3ca85e215e4849d06ce?ticket=AB9F3FC26FDEBF62970EFF60ABCF06A96074337B
+
+#EXTINF:-1,CH 4 | CINEMAX
+http://4digital.ddns.net:9981/stream/service/d396adf06388c6a42aed5805744dd446?ticket=238862B3A10D3E6057FE446BBE5BDCB13ACC66F3
+
+#EXTINF:-1,Animal Planet |4digit
+http://4digital.ddns.net:9981/stream/mux/dbcd6e154bc899418914ef436e6ae4d9
+#EXTINF:-1,CINEMAX |4digit
+http://4digital.ddns.net:9981/stream/mux/eb556a2e43611f10ba7caed40a2f9acd
+http://4digital.ddns.net:9981/stream/mux/379e46234c7dce33396b09a49a68fd8a?title=FOX%20Family%20Movies%20%2F%20xtream
+#EXTINF:-1,FOX MOVIES |4digit
+http://4digital.ddns.net:9981/stream/mux/cd0886c1728b12540c5c9641f7f49e71?title=foxMoive%20%2F%20xtream
+#EXTINF:-1,HBO TH |4digit
+http://4digital.ddns.net:9981/stream/mux/b1db76fb8d9fe33eb9ac7023d0168fcc?title=hbo%20hd%20%2F%20xtream
+#EXTINF:-1,HBO Hits |4digit
+http://4digital.ddns.net:9981/stream/mux/8c45fd9a3112988877545c0205d404d8?title=HBO%20Hit%20%2F%20xtream
+#EXTINF:-1,HBO Signature |4digit
+http://4digital.ddns.net:9981/stream/mux/cde84d1bf18e2c838811fa1d920ca436?title=HBO%20Sig%20%2F%20xtream
+http://4digital.ddns.net:9981/stream/mux/c72f620b931fc9f0ca14abf5a102f012?title=VIP%20HD1%20%2F%20xtream
+#EXTINF:-1,NET SPORTS HD |4digit
+http://4digital.ddns.net:9981/stream/mux/7c4f1149ef1d43041266f5b13dfad63e?title=VIP2%20%2F%20xtream
+#EXTINF:-1,CINEMAX TH |4digit
+http://4digital.ddns.net:9981/stream/mux/cef1abd1366839784df3ed0bdd480dbd?title=VIP%20HD3%20%2F%20xtream
+
+#EXTINF:-1,CH 5 | SPORTS HD
+http://thaicable.myftp.org:8000/live/infosat/2020/5.m3u8
+#EXTINF:-1,CH 6 | NAT GEO
+http://thaicable.myftp.org:8000/live/infosat/2020/6.m3u8
+#EXTINF:-1,CH 7 | CTB
+http://thaicable.myftp.org:8000/live/infosat/2020/7.m3u8
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+
+#EXTINF:-1,CH 8 | NET SPORT HD
+http://thaicable.myftp.org:8000/live/infosat/2020/8.m3u8
+
+#EXTINF:-1,CH 8 | CINEMAX TH
+http://196.53.249.42:9981/stream/service/790fdd22ebec49c47bf60331c70b0785?ticket=90AC1DEEC72CB7CF356AC8896A071E53EF6B365B
+#EXTINF:-1,CH 9 | True Premier Football HD1
+http://thaicable.myftp.org:8000/live/infosat/2020/9.m3u8
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1,CH 10 | SUPERSPORT 1
+http://thaicable.myftp.org:8000/live/infosat/2020/10.m3u8
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1,CH 11 | SUPERSPORT 2
+http://thaicable.myftp.org:8000/live/infosat/2020/11.m3u8
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1,CH 12 | SUPERSPORT 3
+http://thaicable.myftp.org:8000/live/infosat/2020/12.m3u8
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1,CH 13 | SUPERSPORT 4
+http://thaicable.myftp.org:8000/live/infosat/2020/13.m3u8
+#EXTINF:-1,CH 14 | ER
+http://thaicable.myftp.org:8000/live/infosat/2020/14.m3u8
+#EXTINF:-1,CH 15 | FOX ACTION
+http://thaicable.myftp.org:8000/live/infosat/2020/15.m3u8
+http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
+#EXTINF:-1,CH 16 | ER
+http://thaicable.myftp.org:8000/live/infosat/2020/16.m3u8
+#EXTINF:-1,CH 17 | Foxlife
+http://thaicable.myftp.org:8000/live/infosat/2020/17.m3u8
+http://4digital.ddns.net:9981/stream/service/47c84ee02762feb71ba59ba4f6ba4b7e?ticket=7205E419157062EDF74D61753F445FD75EA395C0
+#EXTINF:-1,CH 18 | ER
+http://thaicable.myftp.org:8000/live/infosat/2020/18.m3u8
+#EXTINF:-1,CH 19 | ER
+http://thaicable.myftp.org:8000/live/infosat/2020/19.m3u8
+#EXTINF:-1,CH 20 | HBO TH
+http://thaicable.myftp.org:8000/live/infosat/2020/20.m3u8
+http://4digital.ddns.net:9981/stream/service/72f9cd112ecdfd3090a58fbe26514219?ticket=645732534EB5294AC86F05959CE70AEEF0C2532A
+#EXTINF:-1,CH 21 | ER
+http://thaicable.myftp.org:8000/live/infosat/2020/21.m3u8
+#EXTINF:-1,CH 22 | HBO Hits TH
+http://thaicable.myftp.org:8000/live/infosat/2020/22.m3u8
+http://4digital.ddns.net:9981/stream/service/1dbec728fd4c80b591761f1ff25a6277?ticket=B04DE750DD8114341E5D3D8A43AFBB79E26BCAA4
+#EXTINF:-1,CH 23 | HBO Signature
+http://thaicable.myftp.org:8000/live/infosat/2020/23.m3u8
+http://4digital.ddns.net:9981/stream/service/c8c79f93a336289531cfe3555174925e?ticket=33A937844738DFCF9AC41EF2C2D9F127CFCF62E8
+#EXTINF:-1,CH 24 | animal planet
+http://thaicable.myftp.org:8000/live/infosat/2020/24.m3u8
+http://4digital.ddns.net:9981/stream/service/704686d970c7557d0b564ba2e208fe8f?ticket=CBD0496E4DB0B983B59689DA5AF803E8146AA2D2
+#EXTINF:-1,CH 25 | ER
+http://thaicable.myftp.org:8000/live/infosat/2020/25.m3u8
+#EXTINF:-1,CH 26 | ER
+http://thaicable.myftp.org:8000/live/infosat/2020/26.m3u8
+#EXTINF:-1,CH 27 | ER
+http://thaicable.myftp.org:8000/live/infosat/2020/27.m3u8
+#EXTINF:-1,CH 28 | ER
+http://thaicable.myftp.org:8000/live/infosat/2020/28.m3u8
+#EXTINF:-1,CH 29 | ER
+http://thaicable.myftp.org:8000/live/infosat/2020/29.m3u8
+#EXTINF:-1,CH 30 | ER
+http://thaicable.myftp.org:8000/live/infosat/2020/30.m3u8
+#EXTINF:-1,CH 31
+http://thaicable.myftp.org:8000/live/infosat/2020/31.m3u8
+#EXTINF:-1,CH 32
+http://thaicable.myftp.org:8000/live/infosat/2020/32.m3u8
+http://thaicable.myftp.org:8000/live/infosat/2020/33.m3u8
+#EXTINF:-1,CH 34
+http://thaicable.myftp.org:8000/live/infosat/2020/34.m3u8
+#EXTINF:-1,CH 35
+http://thaicable.myftp.org:8000/live/infosat/2020/35.m3u8
+#EXTINF:-1,CH 36
+http://thaicable.myftp.org:8000/live/infosat/2020/36.m3u8
+#EXTINF:-1,CH 37
+http://thaicable.myftp.org:8000/live/infosat/2020/37.m3u8
+#EXTINF:-1,CH 38
+http://thaicable.myftp.org:8000/live/infosat/2020/38.m3u8
+#EXTINF:-1,CH 39
+http://thaicable.myftp.org:8000/live/infosat/2020/39.m3u8
+#EXTINF:-1,CH 40
+http://thaicable.myftp.org:8000/live/infosat/2020/40.m3u8
+#EXTINF:-1,CH 41
+http://thaicable.myftp.org:8000/live/infosat/2020/41.m3u8
+#EXTINF:-1,CH 42
+http://thaicable.myftp.org:8000/live/infosat/2020/42.m3u8
+#EXTINF:-1,CH 43
+http://thaicable.myftp.org:8000/live/infosat/2020/43.m3u8
+#EXTINF:-1,CH 44
+http://thaicable.myftp.org:8000/live/infosat/2020/44.m3u8
+#EXTINF:-1,CH 45
+http://thaicable.myftp.org:8000/live/infosat/2020/45.m3u8
+#EXTINF:-1,CH 46
+http://thaicable.myftp.org:8000/live/infosat/2020/46.m3u8
+#EXTINF:-1,CH 47
+http://thaicable.myftp.org:8000/live/infosat/2020/47.m3u8
+#EXTINF:-1,CH 48
+http://thaicable.myftp.org:8000/live/infosat/2020/48.m3u8
+#EXTINF:-1,CH 49
+http://thaicable.myftp.org:8000/live/infosat/2020/49.m3u8
+#EXTINF:-1,CH 50
+http://thaicable.myftp.org:8000/live/infosat/2020/50.m3u8
+#EXTINF:-1,CH 51
+http://thaicable.myftp.org:8000/live/infosat/2020/51.m3u8
+#EXTINF:-1,CH 52
+http://thaicable.myftp.org:8000/live/infosat/2020/52.m3u8
+#EXTINF:-1,CH 53
+http://thaicable.myftp.org:8000/live/infosat/2020/53.m3u8
+#EXTINF:-1,CH 54
+http://thaicable.myftp.org:8000/live/infosat/2020/54.m3u8
+#EXTINF:-1,CH 55
+http://thaicable.myftp.org:8000/live/infosat/2020/55.m3u8
+#EXTINF:-1,CH 56
+http://thaicable.myftp.org:8000/live/infosat/2020/56.m3u8
+#EXTINF:-1,CH 57
+http://thaicable.myftp.org:8000/live/infosat/2020/57.m3u8
+#EXTINF:-1,CH 58
+http://thaicable.myftp.org:8000/live/infosat/2020/58.m3u8
+#EXTINF:-1,CH 59
+http://thaicable.myftp.org:8000/live/infosat/2020/59.m3u8
+#EXTINF:-1,CH 60
+http://thaicable.myftp.org:8000/live/infosat/2020/60.m3u8
+#EXTINF:-1,CH 61
+http://thaicable.myftp.org:8000/live/infosat/2020/61.m3u8
+#EXTINF:-1,CH 62
+http://thaicable.myftp.org:8000/live/infosat/2020/62.m3u8
+#EXTINF:-1,CH 63
+http://thaicable.myftp.org:8000/live/infosat/2020/63.m3u8
+#EXTINF:-1,CH 64
+http://thaicable.myftp.org:8000/live/infosat/2020/64.m3u8
+#EXTINF:-1,CH 65
+http://thaicable.myftp.org:8000/live/infosat/2020/65.m3u8
+#EXTINF:-1,CH 66
+http://thaicable.myftp.org:8000/live/infosat/2020/66.m3u8
+#EXTINF:-1,CH 67
+http://thaicable.myftp.org:8000/live/infosat/2020/67.m3u8
+#EXTINF:-1,CH 68
+http://thaicable.myftp.org:8000/live/infosat/2020/68.m3u8
+#EXTINF:-1,CH 69
+http://thaicable.myftp.org:8000/live/infosat/2020/69.m3u8
+#EXTINF:-1,CH 70
+http://thaicable.myftp.org:8000/live/infosat/2020/70.m3u8
+#EXTINF:-1,CH 71
+http://thaicable.myftp.org:8000/live/infosat/2020/71.m3u8
+#EXTINF:-1,CH 72
+http://thaicable.myftp.org:8000/live/infosat/2020/72.m3u8
+#EXTINF:-1,CH 73
+http://thaicable.myftp.org:8000/live/infosat/2020/73.m3u8
+#EXTINF:-1,CH 74
+http://thaicable.myftp.org:8000/live/infosat/2020/74.m3u8
+#EXTINF:-1,CH 75
+http://thaicable.myftp.org:8000/live/infosat/2020/75.m3u8
+#EXTINF:-1,CH 76
+http://thaicable.myftp.org:8000/live/infosat/2020/76.m3u8
+#EXTINF:-1,CH 77
+http://thaicable.myftp.org:8000/live/infosat/2020/77.m3u8
+#EXTINF:-1,CH 78
+http://thaicable.myftp.org:8000/live/infosat/2020/78.m3u8
+#EXTINF:-1,CH 79
+http://thaicable.myftp.org:8000/live/infosat/2020/79.m3u8
+#EXTINF:-1,CH 80
+http://thaicable.myftp.org:8000/live/infosat/2020/80.m3u8
+#EXTINF:-1,CH 81
+http://thaicable.myftp.org:8000/live/infosat/2020/81.m3u8
+#EXTINF:-1,CH 82
+http://thaicable.myftp.org:8000/live/infosat/2020/82.m3u8
+#EXTINF:-1,CH 83
+http://thaicable.myftp.org:8000/live/infosat/2020/83.m3u8
+#EXTINF:-1,CH 84
+http://thaicable.myftp.org:8000/live/infosat/2020/84.m3u8
+#EXTINF:-1,CH 85
+http://thaicable.myftp.org:8000/live/infosat/2020/85.m3u8
+#EXTINF:-1,CH 86
+http://thaicable.myftp.org:8000/live/infosat/2020/86.m3u8
+#EXTINF:-1,CH 87
+http://thaicable.myftp.org:8000/live/infosat/2020/87.m3u8
+#EXTINF:-1,CH 88
+http://thaicable.myftp.org:8000/live/infosat/2020/88.m3u8
+#EXTINF:-1,CH 89
+http://thaicable.myftp.org:8000/live/infosat/2020/89.m3u8
+#EXTINF:-1,CH 90
+http://thaicable.myftp.org:8000/live/infosat/2020/90.m3u8
+#EXTINF:-1,CH 91
+http://thaicable.myftp.org:8000/live/infosat/2020/91.m3u8
+#EXTINF:-1,CH 92
+http://thaicable.myftp.org:8000/live/infosat/2020/92.m3u8
+#EXTINF:-1,CH 93
+http://thaicable.myftp.org:8000/live/infosat/2020/93.m3u8
+#EXTINF:-1,CH 94
+http://thaicable.myftp.org:8000/live/infosat/2020/94.m3u8
+#EXTINF:-1,CH 95
+http://thaicable.myftp.org:8000/live/infosat/2020/95.m3u8
+#EXTINF:-1,CH 96
+http://thaicable.myftp.org:8000/live/infosat/2020/96.m3u8
+#EXTINF:-1,CH 97
+http://thaicable.myftp.org:8000/live/infosat/2020/97.m3u8
+#EXTINF:-1,CH 98
+http://thaicable.myftp.org:8000/live/infosat/2020/98.m3u8
+#EXTINF:-1,CH 99
+http://thaicable.myftp.org:8000/live/infosat/2020/99.m3u8
+#EXTINF:-1,CH 100
+http://thaicable.myftp.org:8000/live/infosat/2020/100.m3u8
+#EXTINF:-1,CH 101
+http://thaicable.myftp.org:8000/live/infosat/2020/101.m3u8
+#EXTINF:-1,CH 102
+http://thaicable.myftp.org:8000/live/infosat/2020/102.m3u8
+#EXTINF:-1,CH 103
+http://thaicable.myftp.org:8000/live/infosat/2020/103.m3u8
+#EXTINF:-1,CH 104
+http://thaicable.myftp.org:8000/live/infosat/2020/104.m3u8
+#EXTINF:-1,CH 105
+http://thaicable.myftp.org:8000/live/infosat/2020/105.m3u8
+#EXTINF:-1,CH 106
+http://thaicable.myftp.org:8000/live/infosat/2020/106.m3u8
+#EXTINF:-1,CH 107
+http://thaicable.myftp.org:8000/live/infosat/2020/107.m3u8
+#EXTINF:-1,CH 108
+http://thaicable.myftp.org:8000/live/infosat/2020/108.m3u8
+#EXTINF:-1,CH 109
+http://thaicable.myftp.org:8000/live/infosat/2020/109.m3u8
+#EXTINF:-1,CH 110
+http://thaicable.myftp.org:8000/live/infosat/2020/110.m3u8
+#EXTINF:-1,CH 111
+http://thaicable.myftp.org:8000/live/infosat/2020/111.m3u8
+#EXTINF:-1,CH 112
+http://thaicable.myftp.org:8000/live/infosat/2020/112.m3u8
+#EXTINF:-1,CH 113
+http://thaicable.myftp.org:8000/live/infosat/2020/113.m3u8
+#EXTINF:-1,CH 114
+http://thaicable.myftp.org:8000/live/infosat/2020/114.m3u8
+#EXTINF:-1,CH 115
+http://thaicable.myftp.org:8000/live/infosat/2020/115.m3u8
+#EXTINF:-1,CH 116
+http://thaicable.myftp.org:8000/live/infosat/2020/116.m3u8
+#EXTINF:-1,CH 117
+http://thaicable.myftp.org:8000/live/infosat/2020/117.m3u8
+#EXTINF:-1,CH 118
+http://thaicable.myftp.org:8000/live/infosat/2020/118.m3u8
+#EXTINF:-1,CH 119
+http://thaicable.myftp.org:8000/live/infosat/2020/119.m3u8
+#EXTINF:-1,CH 120
+http://thaicable.myftp.org:8000/live/infosat/2020/120.m3u8
+#EXTINF:-1,CH 121
+http://thaicable.myftp.org:8000/live/infosat/2020/121.m3u8
+#EXTINF:-1,CH 122
+http://thaicable.myftp.org:8000/live/infosat/2020/122.m3u8
+#EXTINF:-1,CH 123
+http://thaicable.myftp.org:8000/live/infosat/2020/123.m3u8
+#EXTINF:-1,CH 124
+http://thaicable.myftp.org:8000/live/infosat/2020/124.m3u8
+#EXTINF:-1,CH 125
+http://thaicable.myftp.org:8000/live/infosat/2020/125.m3u8
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+#EXTINF:-1,CH 126 | TVB TH
+http://thaicable.myftp.org:8000/live/infosat/2020/126.m3u8
+https://edge6a.v2h-cdn.com/m2a7/TDramaTV.stream_720p/playlist.m3u8
+#EXTINF:-1,CH 127
+http://thaicable.myftp.org:8000/live/infosat/2020/127.m3u8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1,CH 128
+http://thaicable.myftp.org:8000/live/infosat/2020/128.m3u8
+#EXTINF:-1,CH 129
+http://thaicable.myftp.org:8000/live/infosat/2020/129.m3u8
+#EXTINF:-1,CH 130
+http://thaicable.myftp.org:8000/live/infosat/2020/130.m3u8
+#EXTINF:-1,CH 131
+http://thaicable.myftp.org:8000/live/infosat/2020/131.m3u8
+#EXTINF:-1,CH 132 | SCM TH
+http://thaicable.myftp.org:8000/live/infosat/2020/132.m3u8
+http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
+#EXTINF:-1,CH 133
+http://thaicable.myftp.org:8000/live/infosat/2020/133.m3u8
+http://61.19.242.134/feed/LC1/index.m3u8
+#EXTINF:-1,CH 134
+http://thaicable.myftp.org:8000/live/infosat/2020/134.m3u8
+https://cdn6.goprimetime.info/feed/LC54/playlist.m3u8
+#EXTINF:-1,CH 135
+http://thaicable.myftp.org:8000/live/infosat/2020/135.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,CH 136 | Jasmin
+http://thaicable.myftp.org:8000/live/infosat/2020/136.m3u8
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,CH 137
+http://thaicable.myftp.org:8000/live/infosat/2020/137.m3u8
+http://203.154.177.124:8899/live/ch23/playlist.m3u8
+
+http://203.154.177.124:8899/live/ch1/playlist.m3u8
+http://203.154.177.124:8899/live/ch2/playlist.m3u8
+http://203.154.177.124:8899/live/ch3/playlist.m3u8
+FIGHTBOX
+http://203.154.177.124:8899/live/ch4/playlist.m3u8
+ANIMAX
+http://203.154.177.124:8899/live/ch5/playlist.m3u8
+NA http://203.154.177.124:8899/live/ch6/playlist.m3u8
+http://203.154.177.124:8899/live/ch7/playlist.m3u8
+http://203.154.177.124:8899/live/ch8/playlist.m3u8
+http://203.154.177.124:8899/live/ch9/playlist.m3u8
+http://203.154.177.124:8899/live/ch10/playlist.m3u8
+NA http://203.154.177.124:8899/live/ch11/playlist.m3u8
+WB TV
+http://203.154.177.124:8899/live/ch12/playlist.m3u8
+NA http://203.154.177.124:8899/live/ch13/playlist.m3u8
+NA http://203.154.177.124:8899/live/ch14/playlist.m3u8
+NA http://203.154.177.124:8899/live/ch15/playlist.m3u8
+http://203.154.177.124:8899/live/ch16/playlist.m3u8
+NA http://203.154.177.124:8899/live/ch17/playlist.m3u8
+http://203.154.177.124:8899/live/ch18/playlist.m3u8
+NA http://203.154.177.124:8899/live/ch19/playlist.m3u8
+MIAO MI
+http://203.154.177.124:8899/live/ch20/playlist.m3u8
+http://203.154.177.124:8899/live/ch21/playlist.m3u8
+FIGHT
+http://203.154.177.124:8899/live/ch22/playlist.m3u8
+http://203.154.177.124:8899/live/ch24/playlist.m3u8
+http://203.154.177.124:8899/live/ch25/playlist.m3u8
+http://203.154.177.124:8899/live/ch26/playlist.m3u8
+http://203.154.177.124:8899/live/ch27/playlist.m3u8
+http://203.154.177.124:8899/live/ch28/playlist.m3u8
+http://203.154.177.124:8899/live/ch29/playlist.m3u8
+
+#EXTINF:-1,CH 138
+http://thaicable.myftp.org:8000/live/infosat/2020/138.m3u8
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1,CH 139
+http://thaicable.myftp.org:8000/live/infosat/2020/139.m3u8
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1,,CH 140
+http://thaicable.myftp.org:8000/live/infosat/2020/140.m3u8
+https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
+#EXTINF:-1,,CH 141
+http://thaicable.myftp.org:8000/live/infosat/2020/141.m3u8
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1,,CH 142
+http://thaicable.myftp.org:8000/live/infosat/2020/142.m3u8
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1,,CH 143 | REDBULL TV
+http://thaicable.myftp.org:8000/live/infosat/2020/143.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,,CH 144
+http://thaicable.myftp.org:8000/live/infosat/2020/144.m3u8
+#EXTINF:-1,,CH 145
+http://thaicable.myftp.org:8000/live/infosat/2020/145.m3u8
+#EXTINF:-1,CH 146
+http://thaicable.myftp.org:8000/live/infosat/2020/146.m3u8
+#EXTINF:-1,CH 147 | ER
+http://thaicable.myftp.org:8000/live/infosat/2020/147.m3u8
+#EXTINF:-1,CH 148 | NET SPORTS HD
+http://thaicable.myftp.org:8000/live/infosat/2020/148.m3u8
+http://newhostshare.ddns.net:9981/stream/service/4e5c0539c647b1fdffffe11ca690e516?ticket=f90e4e2233921e7999148e4d5361ef14163cbe4c
+#EXTINF:-1,CH 149 | CINEMAX
+http://thaicable.myftp.org:8000/live/infosat/2020/149.m3u8
+http://newhostshare.ddns.net:9981/stream/service/76b58fc1f38d43efd40c6e4fc5c09e1b?ticket=d880c5d62ed1bee4646e7ed48de9b13de97dec21
+#EXTINF:-1,CH 150 ER
+http://thaicable.myftp.org:8000/live/infosat/2020/150.m3u8
+#EXTINF:-1,CH 151 ER
+http://thaicable.myftp.org:8000/live/infosat/2020/151.m3u8
+#EXTINF:-1,CH 152 ER
+http://thaicable.myftp.org:8000/live/infosat/2020/152.m3u8
+#EXTINF:-1,CH 153 ER
+http://thaicable.myftp.org:8000/live/infosat/2020/153.m3u8
+#EXTINF:-1,CH 154 ER
+http://thaicable.myftp.org:8000/live/infosat/2020/154.m3u8
+#EXTINF:-1 group-title="thaicable",CH 155 ER
+http://thaicable.myftp.org:8000/live/infosat/2020/155.m3u8
+-/-/-/-/-offline-/-/-/-/
+http://thaicable.myftp.org:8000/live/infosat/2020/179.m3u8
+
+
+http://101.108.202.53:9981/play/stream/channel/382841c8e7e33830fa43e4f3e2a46be7?title=stream
+
+#EXTINF:-1 tvg-id="6782e06602e1932ac3c51d55ce3efa19" tvg-chno="1" group-title="thaicable",' TPF HD1 '
+http://180.183.101.168:9981/stream/channelid/1725989479?profile=pass
+
+#EXTINF:-1 tvg-id="6782e06602e1932ac3c51d55ce3efa19" tvg-chno="1",' TPF HD1* '
 https://node101.cloud-streaming.com/mvcb_x6/premierhd1_720/chunks.m3u8?nimblesessionid=14779311&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMCAxOjI4OjA3IFBNJmhhc2hfdmFsdWU9emJVSml2bFdaTzBiQTk5ZzRjT0tndz09JnZhbGlkbWludXRlcz0yMCZpZD0zMzc2ODgmc3RybV9sZW49M
 
 #EXTINF:-1 tvg-id="8329d1847e0e3aa969a627dc9ce35225" tvg-chno="2",true1_2 ' TPF HD1 "
@@ -639,7 +1147,6 @@ http://196.53.249.42:9981/stream/service/2980cea3a2ae9c55955ab66d99287b42
 http://196.53.249.42:9981/play/stream/service/7dbeb1c2d0474b1b638b2084a8b13bce
 http://196.53.249.42:9981/play/stream/service/7dbeb1c2d0474b1b638b2084a8b13bce?title=PPTV%20HD
 
-#EXTINF:-1 tvg-id="6608cde8cac7f8f9e2f180cedbc5063d",Amarin HD
 http://196.53.249.42:9981/stream/channelid/1758267494?ticket=0CE21DE9872A181D24E2F73EE98E0E1CFED115BC&profile=pass
 #EXTINF:-1 tvg-id="976def8ec41b956e1186092d367fcb6a",ENC01
 http://196.53.249.42:9981/stream/channelid/250572183?ticket=C8D898476ADC783FF0D421925DA77AE6B479B948&profile=pass
@@ -647,35 +1154,20 @@ http://196.53.249.42:9981/stream/channelid/250572183?ticket=C8D898476ADC783FF0D4
 http://196.53.249.42:9981/stream/channelid/1374760806?ticket=AB27D19C29408F6959048720E85454BE4A5920DF&profile=pass
 #EXTINF:-1 tvg-id="4c9cbb76b8f664e86552c0a11b895f85",ENC03
 http://196.53.249.42:9981/stream/channelid/1992006732?ticket=2F5EA2C936A23EC5CCC0ED8E64EC549AC82444A5&profile=pass
-#EXTINF:-1 tvg-id="45e94e3e0c4a7812ebecdb680536350e",FOX MOVIES
 http://196.53.249.42:9981/stream/channelid/1045358917?ticket=B3A3ED3C9D976864164C7A953CB6061F3E5F1153&profile=pass
-#EXTINF:-1 tvg-id="75e779b547c8d2fa954d1c40bb176620",mono29
 http://196.53.249.42:9981/stream/channelid/897181557?ticket=C5065EEF26290A42B1C7D294F5CF586C6C6FCB40&profile=pass
-#EXTINF:-1 tvg-id="538b85ed7cb88e645e13923c0543b644",ONE HD
 http://196.53.249.42:9981/stream/channelid/1837468499?ticket=D7CA058F2B0DBF455F0F30F2D0EBBCE83FB69D2C&profile=pass
-#EXTINF:-1 tvg-id="dee88546daacebe1340642e46533fe35",PPTV HD
 http://196.53.249.42:9981/stream/channelid/1183181022?ticket=BD2B83C30BC9C0040A94213D8C4A0998F8C8BBB8&profile=pass
-#EXTINF:-1 tvg-id="0a902b7a506be3fc74832db8a148b84e",TNN24
 http://196.53.249.42:9981/stream/channelid/2049675274?ticket=03D9CBDAABBD1B14BF0383B378DB0813192C7877&profile=pass
-#EXTINF:-1 tvg-id="e5651b3f47734cf68f46adf42c4d8cdb",true4u
 http://196.53.249.42:9981/stream/channelid/1058760165?ticket=14B3601649A4636AA31A41A143BCB8B44CE3FB4F&profile=pass
-#EXTINF:-1 tvg-id="db4f2353142a56ed23af61e360a4618b",TV5HD
 http://196.53.249.42:9981/stream/channelid/1394823131?ticket=C6ED5980907616A984165F34B60692020C746A06&profile=pass
-#EXTINF:-1 tvg-id="1b37d1d167f69e7a26403a5fd7fb1319",TV7HD
 http://196.53.249.42:9981/stream/channelid/1372665627?ticket=1B814B48B118F4CB508A92D1E1796DAFAB866D72&profile=pass
 #EXTINF:-1 tvg-id="0c7b8cb35c8cdd6793e291f4b566555b",WARNER HD
 http://196.53.249.42:9981/stream/channelid/864844556?ticket=EA3B54256C8CF8F85088FB280164DCEC6D4EC31C&profile=pass
-#EXTINF:-1 tvg-id="b79f72ac538e325520c41626262d4167",workpoint TV
 http://196.53.249.42:9981/stream/channelid/745709495?ticket=B97702D6CBA64E6C8D722211FDA32CBE1A3A7F39&profile=pass
 
 Congiguration > DVB Inputs > Services
 http://196.53.249.42:9981/play/stream/service/614960d031aebc2dbfbe786c01189485?title=Amarin%20HD
-http://196.53.249.42:9981/play/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?title=ENC01
-http://196.53.249.42:9981/play/stream/service/99c00f0346648f88da9f368fab67d9e8?title=ENC02
-http://196.53.249.42:9981/play/stream/service/790fdd22ebec49c47bf60331c70b0785?title=ENC03
-http://196.53.249.42:9981/play/stream/service/8f422994f95e9daf04337ac7f92452e9?title=FOX%20MOVIES
-http://196.53.249.42:9981/play/stream/service/2980cea3a2ae9c55955ab66d99287b42?title=ONE%20HD
-http://196.53.249.42:9981/play/stream/service/7dbeb1c2d0474b1b638b2084a8b13bce?title=PPTV%20HD
 http://196.53.249.42:9981/play/stream/service/dcf9466c6e2bfbf47331d18e787cda45?title=TNN24
 http://196.53.249.42:9981/play/stream/service/f5ad986169c5acba47216d899a11800b?title=TV5HD
 http://196.53.249.42:9981/play/stream/service/fd53263eac7ed137393fc2e82f33e7ae?title=mono29
