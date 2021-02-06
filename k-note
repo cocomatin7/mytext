@@ -1,9 +1,8 @@
 ﻿#EXTM3U 
 x-tvg-url="https://rebrand.ly/k-epg"
+
 #EXTINF:-1 group-title="DHAMMA", ပရိတ်ကြီး ၁၁ သုတ် မြောက်ဦးဆရာတော်
 https://www.youtube.com/watch?v=qtxyTrPdsJk
-#EXTINF:-1, BUDDHA
-https://www.youtube.com/watch?v=kuqwFMc2Ti4
 #EXTINF:-1, ဓာရဏပရိတ်တော် ပါဠိ၊အနက် - ကြာနီကန်ဆရာတော် 
 https://www.youtube.com/watch?v=Mvy_dU1mt3E
 #EXTINF:-1, ပရိတ်ကြီး(၁၁)သုတ် ပါဠိတော် - ကြာနီကန်ဆရာတော် 
@@ -46,13 +45,16 @@ https://www.youtube.com/watch?v=FHkXbCw-ft8
 https://www.youtube.com/watch?v=wD9NF_SlcmE
 #EXTINF:-1 group-title="DHAMMA", ပဋ္ဌာန်းပါဋိတော် - မင်းကွန်းဆရာတော်
 https://www.youtube.com/watch?v=Q-h7NHGDuGY
+
 + + + + + 203.81.81.230:80 + + + + + Configuration/DVB Input/Services/All + + + + + 
+
 #EXTINF:-1, Buddha'
 http://mcsh.xyz:8080/mcshTV/zCNiETzMzd/54375
 #EXTINF:-1, Buddha"
 http://mcsh.xyz:8080/live/mcshTV/zCNiETzMzd/54375.m3u8
 #EXTINF:-1, Buddha*
 http://mcsh.xyz:8080/streaming/clients_live.php?extension=m3u8&username=mcshTV&password=zCNiETzMzd&stream=54375&type=hls
+
 , 5 Plus
 http://Admin:9assw0rd743@206.189.83.114:9981/stream/service/9da8b8e4125828ebb775cd9b2ef7ed43?ticket=AC9B8A97FDE9F4427AEDF521E2B41A66A2B7B4ED
 , ASIAN MOVIES
@@ -135,7 +137,9 @@ http://Admin:9assw0rd743@206.189.83.114:9981/stream/service/03013df159f71f41f489
 http://Admin:9assw0rd743@206.189.83.114:9981/stream/service/dd0d85a003e7dcae1ba07f69f0b92378
 ,ZEE CINEMA
 http://Admin:9assw0rd743@206.189.83.114:9981/stream/service/9e91bff831a989cc7da12374000ba5e1
+
 + + + + + 203.81.81.230:80 + + + + +
+
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="203.81", MRTV |203
 http://203.81.81.230:80/mrtv.m3u8
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png"", MRTV ||203
@@ -149,7 +153,9 @@ http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv1.m3u8
 http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv2.m3u8
  tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="203.81", MRTV" |203
 http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv3.m3u8
+
 + + + + + rtmp://203.81.81.230:80 + + + + +
+
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="203.81", MRTV |rtmp
 rtmp://203.81.81.230:80/livepkgr/mrtv
 rtmp://203.81.81.230:80/live/NRCL
@@ -161,7 +167,9 @@ rtmp://203.81.81.229:80/livepkgr/HTT
 rtmp://203.81.81.229:80/livepkgr/NRC
 #EXTINF:-1 group-title="203.81", MRTV farmer |rtmp
 rtmp://203.81.81.229:80/livepkgr/farmer
+
 + + + + + 203.81.84.130 + + + + + 
+
 http://203.81.84.130/hls/mwd/index.m3u8
 http://203.81.84.130/hls/mwd_document/index.m3u8
 http://203.81.84.130/hls/mwd_family/index.m3u8
@@ -169,7 +177,9 @@ http://203.81.84.130/hls/mwd_movie/index.m3u8
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
 http://203.81.84.130/hls/mwd_variety/index.m3u8
+
 + + + + + BamarTV + + + + +
+
 #EXTINF:-1 group-title="BamarTV", 80s Party |loop 
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/3.m3u8
 #EXTINF:-1,AVJ
@@ -250,6 +260,7 @@ http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8?token=test
 http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8?token=test
 #EXTINF:-1 group-title="BamarTV",COSMOTE SPORT9
 http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8?token=test
+
  group-title="BamarTV",* live event 1 * nbcsn *
 https://dailyb0.s3.amazonaws.com/e1/1.m3u8
 * live event 2 * R1 *
@@ -280,9 +291,11 @@ https://rebrand.ly/SPSL-103
 https://rebrand.ly/SA-103
 ,S Variety 2
 https://rebrand.ly/SV2-103
- group-title="BamarTV", 80s party |loop.tv
+#EXTINF:-1 group-title="BamarTV", 80s party |loop.tv
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/1.m3u8
+
 + + + + + cdn-globalnet + + + + +
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/MITV_Myanmar.png/revision/latest?cb=20191211065310" group-title="cdn", mitv /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(3794b443-0bab-4f1c-bea5-3bdf37cf588a)/manifest.mpd
 #EXTINF:-1 group-title="cdn", MRTV Ent /cdn
@@ -294,7 +307,9 @@ https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(1095e49d-1c13-4
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel/3794b443-0bab-4f1c-bea5-3bdf37cf588a/chunklist.m3u8
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(e02c93f2-33d9-458b-bf23-a2717b5f59a8)/1600330851547item-06item_init.m4i
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(fca755f5-5090-41fd-bf2c-1c0049947d25)/1589515429431item-06item_init.m4i
+
 + + + + + cookie + + + + +
+
 #EXTINF:-1 tvg-logo="https://rebrand.ly/5p-png" group-title="cookie", 5 Plus |cookie 
 https://rebrand.ly/ck-5p
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
@@ -364,6 +379,7 @@ https://d39q34kqnktegw.cloudfront.net/live/37200273-aa1b-42a3-90c9-2c33906df915/
 https://d3ra9zflrl0q8d.cloudfront.net/live/86d311b0-048a-4244-9344-9aa475070a9a/prod/gidlean/progress-playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/LIVE-HD-COLOR.png" group-title="cookie", MTV Live* |cookie
 https://d3ra9zflrl0q8d.cloudfront.net/live/86d311b0-048a-4244-9344-9aa475070a9a/prod/gidlean/playlist.m3u8
+
 1095e49d-1c13-47fc-8174-546061a17c3b < MRTV NRC?
 172e104d-09f1-4d03-8f06-59fd5ae54fe5 | cinemax
 19daddcf-0f46-4a14-988e-14bc15f03298 | 5 Plus
@@ -394,12 +410,15 @@ f512c3ad-f27d-4177-b570-21dbf2a22522 | FOX SPORTS
 f7c615e1-0c83-46c7-9360-e98cb07a7165 | CN
 fca755f5-5090-41fd-bf2c-1c0049947d25 < MRTV Farmer?
 0d216142-f3f5-11e8-ab67-89df93dc8d44 < k-drama?
+
 http://live11.cookietv.com/live/fca755f5-5090-41fd-bf2c-1c0049947d25/prod/gidlean/progress-playlist.m3u8
 https://d15yubay3yee43.cloudfront.net/live/fca755f5-5090-41fd-bf2c-1c0049947d25/prod/gidlean/progress-playlist.m3u8
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:fca755f5-5090-41fd-bf2c-1c0049947d25_service/playlist.m3u8
 https://d39q34kqnktegw.cloudfront.net/live/fca755f5-5090-41fd-bf2c-1c0049947d25/prod/gidlean/progress-playlist.m3u8
 https://d3ra9zflrl0q8d.cloudfront.net/live/fca755f5-5090-41fd-bf2c-1c0049947d25/prod/gidlean/playlist.m3u8
+
 + + + + + forever + + + + +
+
 #EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png" group-title="forever", Channel7 |forever
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
@@ -409,7 +428,9 @@ http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png" group-title="forever", MRTV-4 |forever 
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
+
 + + + + + myanmarcast / MMnet + + + + +
+
 #EXTINF:-1 tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/dvb.jpg" group-title="MNet", DVB TV |MNet
 https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream.m3u8
 #EXTINF:-1 tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/Eleven-Broadcasting-Logo---851x315.jpg", Eleven Media |MNet
@@ -429,14 +450,18 @@ https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_low/index.m3u8
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_standard/index.m3u8
+
 -/-/-/-/- -/-/-/-/-
+
 https://l1-xl1.myanmarnet.com/relay2/7day/ch1/stream_standard/index.m3u8
 https://l1-xl1.myanmarnet.com/relay2/channelb/ch1/stream_standard/index.m3u8
 https://l1-xl1.myanmarnet.com/relay2/chb/ch1/stream_standard/index.m3u8
 https://l1-xl1.myanmarnet.com/relay/big9/ch1/stream_standard/index.m3u8
 https://l1-xl1.myanmarnet.com/relay2/lmn/ch1/stream_standard/index.m3u8
 https://l1-xl1.myanmarnet.com/relay2/mmn/ch1/stream_standard/index.m3u8
+
 + + + + + mmplay | otv.co.th + + + + +
+
 #EXTINF:-1 tvg-logo="https://rebrand.ly/5p-png" group-title="mmplay", 5 Plus |mmplay
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist.m3u8
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/media.m3u8
@@ -502,7 +527,9 @@ https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/chunklist_w191068738.m3u8
 https://cdn-edge.otv.co.th/mmplay/hluttaw/playlist.m3u8
 https://edge-stream-05.otv.co.th/mmplay/hluttaw/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/Hluttaw.stream/playlist.m3u8
+
 + + + + + MM /misc + + + + +
+
 , fortune TV
 https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/chunks.m3u8
 https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/playlist.m3u8
@@ -525,7 +552,9 @@ https://stream-01.sg1.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmgiow71YIQ9X34_F4H
 https://playback2.akamaized.net/streams/7063221_9340397_lsicm6xifqn1fznjnnf_1/exp=1603162400~acl=%2f*~data=hdntl~hmac=38376649381849c586a69892e065c446041463f363fbbb1414924af77408f3a3/media/7063221_9340397_lsicm6xifqn1fznjnnf_1@678000p.m3u8
 #EXTINF:-1 group-title="MM /misc", mitv* |ls
 https://api.new.livestream.com/accounts/7063221/events/9340397/broadcasts/212243392.secure.m3u8?dw=80&hdnea=st=1603076136~exp=1603077936~acl=/i/7063221_9340397_lsicm6xifqn1fznjnnf_1@310803/*~hmac=3e3e32d3c845a02fe609f02374e91bd5e8454aec75fcf119552b3c3ec87081c5&token=5f8d0154_86702f6c8d8c990355522a5462f8960680ee2fdb
-+ + + + + http://196.53.249.42:9981/extjs.html + + + + +
+
++ + + + + MM /misc + + + + +
+
 https://livestream.com/mitv/live
 , Mahar TV /iptvmate
 http://maharlive.b-cdn.net/stream.m3u8
@@ -540,13 +569,17 @@ https://livestream.com/accounts/15604755/events/4419934/player?width=640&height=
 https://playback2.akamaized.net/streams/15604755_4419934_lsiwflhpei6n34hw0t8_1/exp=1603164412~acl=%2f*~data=hdntl~hmac=0adee79c7f47ae0b658a3a762c14d7ee949f35b06ea037ee02704bcefa68841d/media/15604755_4419934_lsiwflhpei6n34hw0t8_1@1756000p.m3u8
 #EXTINF:-1 group-title="MM /misc", MRTV* |ls
 https://api.new.livestream.com/accounts/15604755/events/4419934/live.m3u8
+
 + + + + + mptalive + + + + +
+
 https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8
  group-title="mptalive",Skynet Sport Plus
 https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1600347845~exp=9007200855088836~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=7875ad2f13fb6b2d3d71f7c23f9fc5228ddd1c89fc786e8c496448c5aa02611f
  group-title="mptalive",Skynet Sport 6 MM
 https://mptalive6-a.akamaihd.net:443/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1602257857~exp=9007200856998848~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=404fff48c1b210f9ca2991e37dd89bd7131fb5063df82cc931208cfd64600051&post=-199830756_111&cc_key=
+
 + + + + + thaicable + + + + +
+
 http://4digital.ddns.net:11220/ts/0
 http://4digital.ddns.net:11221/ts/0
 #EXTINF:-1 group-title="thaicable",11222
@@ -559,7 +592,9 @@ http://4digital.ddns.net:11226/ts/0
 http://4digital.ddns.net:11227/ts/0
 http://4digital.ddns.net:11228/ts/0
 http://4digital.ddns.net:11229/ts/0
+
 + + + + +
+
 http://101.108.202.53:9981/play/stream/channel/382841c8e7e33830fa43e4f3e2a46be7?title=stream
 #EXTINF:-1 tvg-id="6782e06602e1932ac3c51d55ce3efa19" tvg-chno="1" group-title="thaicable",' TPF HD1 '
 http://180.183.101.168:9981/stream/channelid/1725989479?profile=pass
@@ -580,7 +615,9 @@ http://196.53.249.42:9981/play/stream/service/99c00f0346648f88da9f368fab67d9e8
 http://196.53.249.42:9981/play/stream/service/99c00f0346648f88da9f368fab67d9e8?title=ENC02
 #EXTINF:-1, ENC02 | SPORTS HD *
 http://196.53.249.42:9981/stream/service/99c00f0346648f88da9f368fab67d9e8
-+ + + + + https://rebrand.ly/sn-hd-196 + + + + + 
+
++ + + + + http://196.53.249.42:9981/extjs.html / https://rebrand.ly/sn-hd-196 + + + + +
+
 #EXTINF:-1 tvg-id="976def8ec41b956e1186092d367fcb6a",ENC01
 http://196.53.249.42:9981/stream/channelid/250572183?ticket=90BD80D45802E6F6E879237564E84E87B12C3982&profile=pass
 #EXTINF:-1 tvg-id="662ff1d170caa73c4d93280ff615d18e",ENC02
@@ -620,6 +657,7 @@ http://196.53.249.42:9981/play/stream/service/790fdd22ebec49c47bf60331c70b0785
 http://196.53.249.42:9981/play/stream/service/790fdd22ebec49c47bf60331c70b0785?title=ENC03
 #EXTINF:-1 group-title="thaicable", ENC03 *
 http://196.53.249.42:9981/stream/service/790fdd22ebec49c47bf60331c70b0785
+
 Congiguration > DVB Inputs > Services
 http://196.53.249.42:9981/play/stream/channel/976def8ec41b956e1186092d367fcb6a?title=ENC01
 http://196.53.249.42:9981/play/stream/channel/662ff1d170caa73c4d93280ff615d18e?title=ENC02
@@ -632,6 +670,7 @@ http://196.53.249.42:9981/playlist/channels
 http://196.53.249.42:9981/extjs.html
 http://newhostshare.ddns.net:9981/playlist/channels
 http://newhostshare.ddns.net:9981/extjs.html
+
 #EXTINF:-1 group-title="thaicable",Cinemax
 http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248
 http://4digital.ddns.net:9981/play/stream/service/9d577e58dadc6f23bd8c76d21be8e248?title=Cinemax%20
@@ -1047,7 +1086,36 @@ http://thaicable.myftp.org:8000/live/infosat/2020/154.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/155.m3u8
 -/-/-/-/-offline-/-/-/-/
 http://thaicable.myftp.org:8000/live/infosat/2020/179.m3u8
-https://rebrand.ly/sn-hd-196
+
++ + + + + thaicable.myftp.org + + + + +
+
+#EXTINF:-1 group-title="thaicable",CH 1 | HBO
+http://196.53.249.42:9981/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?ticket=2B2D554BB78E245DF1B8B368D530CA4044232A3A
+http://196.53.249.42:9981/stream/service/99c00f0346648f88da9f368fab67d9e8?ticket=8127765E169E5AE21819F5AA650CB3BD78C6810E
+#EXTINF:-1,CH 4 | HBO
+http://newhostshare.ddns.net:9981/stream/service/d315a19be4cc4b8d6b914a59fe90659d?ticket=cd10ccad45daf177a88c3df9bcad69b876eda2ba
+#EXTINF:-1,CH 76 | CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1,CH 98 | 
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
+#EXTINF:-1,CH 106 | BBC WORLD NEWS
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1,CH 107 | 
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/06.m3u8
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1,CH 111 | &flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,CH 112 | &priveHD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="thaicable",CH 155
+
++ + + + + https://rebrand.ly/sn-hd-196 + + + + +
+
 http://196.53.249.42:9981/play/stream/service/844d67a2660c72f6ad4370e3594c501f?title=img
 http://196.53.249.42:9981/play/stream/service/32cf655f7d0889cdaaad07888a716827?title=img
 http://196.53.249.42:9981/play/stream/service/6a5b7332aa7b003a9a3db7bbe56d0f27?title=img
@@ -1110,7 +1178,9 @@ http://196.53.249.42:9981/play/stream/service/f5ad986169c5acba47216d899a11800b?t
 http://196.53.249.42:9981/play/stream/service/fd53263eac7ed137393fc2e82f33e7ae?title=mono29
 http://196.53.249.42:9981/play/stream/service/fc26a003279bace8c378f48cbaee6ffa?title=true4u
 http://196.53.249.42:9981/play/stream/service/eafe3b57a26dcba62afe3c80955a4081?title=workpoint%20TV
+
 + + + + + http://www.mutv.tk/ + + + + +
+
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |MM VPN
 https://cdn1.cloud-streaming.live/live/tpf1/playlist.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |MM VPN
@@ -1176,32 +1246,9 @@ https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-very.stream/playlist.m3u8
 https://cdn1.ufalive.center/thdooball/tpf1_480/playlist.m3u8?wmsAuth=c2VydmVyX3RpbWU9MS8xNy8yMDIxIDEyOjQxOjU1IEFNJmhhc2hfdmFsdWU9emhXZmFXaHZ0SFNKRUFpYTJRNE85Zz09JnZhbGlkbWludXRlcz0y
-+ + + + + thaicable.myftp.org + + + + +
-#EXTINF:-1 group-title="thaicable",CH 1 | HBO
-http://196.53.249.42:9981/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?ticket=2B2D554BB78E245DF1B8B368D530CA4044232A3A
-http://196.53.249.42:9981/stream/service/99c00f0346648f88da9f368fab67d9e8?ticket=8127765E169E5AE21819F5AA650CB3BD78C6810E
-#EXTINF:-1,CH 4 | HBO
-http://newhostshare.ddns.net:9981/stream/service/d315a19be4cc4b8d6b914a59fe90659d?ticket=cd10ccad45daf177a88c3df9bcad69b876eda2ba
-#EXTINF:-1,CH 76 | CGTN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1,CH 98 | 
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
-#EXTINF:-1,CH 106 | BBC WORLD NEWS
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1,CH 107 | 
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/06.m3u8
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1,CH 111 | &flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1,CH 112 | &priveHD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="thaicable",CH 155
+
 + + + + + KH/Kingtel + + + + +
+
  group-title="Kingtel",HLUTTAW /28:8180
 http://220.158.149.28:8180/hls/TV00000000000000000089@HHZT
 ,HLUTTAW //28:8180
