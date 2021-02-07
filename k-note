@@ -671,6 +671,7 @@ https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/chunks.m3u8
 https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/playlist.m3u8
 http://live-aec.sky-cdn.com/aec_live/Fortune.stream_360p/chunklist_w1408103827.m3u8
 https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/dvb.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="MM /misc", Mahar |167.71
 http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8
 #EXTINF:-1, Mahar |ooredoo
@@ -778,10 +779,10 @@ http://4digital.ddns.net:9981/stream/service/47c84ee02762feb71ba59ba4f6ba4b7e?ti
 
 + + + + + http://196.53.249.42:9981/extjs.html / https://rebrand.ly/sn-hd-196 + + + + +
 
-#EXTINF:-1 group-title="thaicable", ENC01
+#EXTINF:-1 group-title="TH/196", ENC01
 http://196.53.249.42:9981/play/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee
 http://196.53.249.42:9981/play/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?title=ENC01
-#EXTINF:-1 group-title="thaicable", ENC01 *
+#EXTINF:-1, ENC01 *
 http://196.53.249.42:9981/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee
 #EXTINF:-1, ENC02 | SPORTS HD
 http://196.53.249.42:9981/play/stream/service/99c00f0346648f88da9f368fab67d9e8
@@ -823,13 +824,11 @@ http://196.53.249.42:9981/stream/channelid/1758267494?ticket=58CFC761DB37DCD742B
 http://196.53.249.42:9981/stream/channelid/1837468499?ticket=D7FE98CE4BD53C4621EA08AFDFC1892AA7AC5375&profile=pass
 #EXTINF:-1 tvg-id="0a902b7a506be3fc74832db8a148b84e",{name-not-set}
 http://196.53.249.42:9981/stream/channelid/2049675274?ticket=5113C046587126074AC926999C69EA23D70EB220&profile=pass
-#EXTINF:-1 group-title="thaicable", ENC03
+#EXTINF:-1, ENC03
 http://196.53.249.42:9981/play/stream/service/790fdd22ebec49c47bf60331c70b0785
 http://196.53.249.42:9981/play/stream/service/790fdd22ebec49c47bf60331c70b0785?title=ENC03
-#EXTINF:-1 group-title="thaicable", ENC03 *
+#EXTINF:-1, ENC03 *
 http://196.53.249.42:9981/stream/service/790fdd22ebec49c47bf60331c70b0785
-
-+ + + + + https://rebrand.ly/sn-hd-196 + + + + +
 
 http://196.53.249.42:9981/play/stream/service/844d67a2660c72f6ad4370e3594c501f?title=img
 http://196.53.249.42:9981/play/stream/service/32cf655f7d0889cdaaad07888a716827?title=img
@@ -860,17 +859,17 @@ http://196.53.249.42:9981/stream/channelid/1394823131?ticket=44F12ADA8EB44CEB80C
 http://196.53.249.42:9981/stream/channelid/1372665627?ticket=4098B011AF934693CC88329ACFF7DC12A750D9EB&profile=pass
 #EXTINF:-1 tvg-id="b79f72ac538e325520c41626262d4167",workpoint TV
 http://196.53.249.42:9981/stream/channelid/745709495?ticket=0C035B3079A7C8A3BA1C6E5C798822778F66A5E3&profile=pass
-#EXTINF:-1 group-title="thaicable", FOX MOVIES
+#EXTINF:-1, FOX MOVIES
 http://196.53.249.42:9981/play/stream/service/8f422994f95e9daf04337ac7f92452e9
 http://196.53.249.42:9981/play/stream/service/8f422994f95e9daf04337ac7f92452e9?title=FOX%20MOVIES
-#EXTINF:-1 group-title="thaicable", FOX MOVIES *
+#EXTINF:-1, FOX MOVIES *
 http://196.53.249.42:9981/stream/service/8f422994f95e9daf04337ac7f92452e9
-#EXTINF:-1 group-title="thaicable", ONE HD
+#EXTINF:-1, ONE HD
 http://196.53.249.42:9981/play/stream/service/2980cea3a2ae9c55955ab66d99287b42
 http://196.53.249.42:9981/play/stream/service/2980cea3a2ae9c55955ab66d99287b42?title=ONE%20HD
-#EXTINF:-1 group-title="thaicable", ONE HD *
+#EXTINF:-1, ONE HD *
 http://196.53.249.42:9981/stream/service/2980cea3a2ae9c55955ab66d99287b42
-#EXTINF:-1 group-title="thaicable", PPTV HD
+#EXTINF:-1, PPTV HD
 http://196.53.249.42:9981/play/stream/service/7dbeb1c2d0474b1b638b2084a8b13bce
 http://196.53.249.42:9981/play/stream/service/7dbeb1c2d0474b1b638b2084a8b13bce?title=PPTV%20HD
 http://196.53.249.42:9981/stream/channelid/1758267494?ticket=0CE21DE9872A181D24E2F73EE98E0E1CFED115BC&profile=pass
@@ -898,7 +897,7 @@ http://196.53.249.42:9981/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?ticket
 http://196.53.249.42:9981/stream/service/99c00f0346648f88da9f368fab67d9e8?ticket=2959E3E0B54205AA40C8896309CB7F0B5174928A
 http://196.53.249.42:9981/stream/service/790fdd22ebec49c47bf60331c70b0785?ticket=E371300CA3D63D3B37724F5281AE7080586909C6
 http://196.53.249.42:9981/stream/mux/dbfa4c7e398eb3ca85e215e4849d06ce?ticket=AB9F3FC26FDEBF62970EFF60ABCF06A96074337B
-#EXTINF:-1,CH 8 | CINEMAX TH
+#EXTINF:-1 group-title="TH/196",CH 8 | CINEMAX TH
 http://196.53.249.42:9981/stream/service/790fdd22ebec49c47bf60331c70b0785?ticket=90AC1DEEC72CB7CF356AC8896A071E53EF6B365B
 
 + + + + + TH/203.154.177.124:8899 + + + + +
