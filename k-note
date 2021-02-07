@@ -180,7 +180,7 @@ http://203.81.84.130/hls/mwd_variety/index.m3u8
 
 + + + + + BamarTV + + + + +
 
-#EXTINF:-1 group-title="BamarTV",True Premiere Football HD1 |160
+#EXTINF:-1 group-title="BamarTV/Sport",True Premiere Football HD1 |160
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1,True Premiere Football HD2 |160
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
@@ -200,9 +200,6 @@ http://185.238.0.145:1313/c/livedo/truepremierfootball1-hd.m3u8
 http://185.238.0.145:1313/c/livedo/truepremierfootball2-hd.m3u8
 #EXTINF:-1,True Premiere Football HD3 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball3-hd.m3u8
-
-#EXTINF:-1 group-title="BamarTV", 80s Party |loop 
-https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/3.m3u8
 
 #EXTINF:-1,SUPERSPORT 1 |50
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
@@ -226,6 +223,95 @@ https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
 https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
 #EXTINF:-1,True Premiere Football HD3 |mb13
 https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
+
+#EXTINF:-1,SUPERSPORT 1 |laos-tech
+https://laos-tech-live.b-cdn.net/my-asp1hd_720/index.m3u8
+#EXTINF:-1,SUPERSPORT 2 |laos-tech
+https://laos-tech-live.b-cdn.net/my-asp2hd_720/index.m3u8
+#EXTINF:-1,SUPERSPORT 3 |laos-tech
+https://laos-tech-live.b-cdn.net/my-asp3hd_720/index.m3u8
+#EXTINF:-1,SUPERSPORT 4 |laos-tech
+https://laos-tech-live.b-cdn.net/my-asp4hd_720/index.m3u8
+
+#EXTINF:-1,True Premiere Football HD1 |laos-tech
+https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
+#EXTINF:-1,True Premiere Football HD2 |laos-tech
+https://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
+#EXTINF:-1,True Premiere Football HD3 |laos-tech
+https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
+
+#EXTINF:-1,Astro Super Sport 1 HD |27-02
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/364352.m3u8
+#EXTINF:-1,Astro Super Sport 2HD |27-02
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/364351.m3u8
+#EXTINF:-1,Astro Super Sport 3HD |27-02
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/364350.m3u8
+#EXTINF:-1,Astro Super Sport 4HD |27-02
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/364349.m3u8
+#EXTINF:-1,IN: Star Sports Select 1 (TEST) |27-02
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/386619.m3u8
+#EXTINF:-1,IN: Star Sports Select 2 (TEST) |27-02
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/386620.m3u8
+
+#EXTINF:-1,True Premiere Football HD1 |livedoo*
+http://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere Football HD2 |livedoo*
+http://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere Football HD3 |livedoo*
+http://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1,True Premiere Football HD1 |livedoo
+http://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere Football HD2 |livedoo
+http://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere Football HD3 |livedoo
+http://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1,GVIP CH1
+http://phoenixzoon.goodviping.xyz/live/CH1/index.m3u8
+#EXTINF:-1,GVIP CH2
+http://phoenixzoon.goodviping.xyz/live/CH2/index.m3u8
+http://phoenixzoon.goodviping.xyz/live/CH3/index.m3u8
+#EXTINF:-1,GVIP CH4
+http://phoenixzoon.goodviping.xyz/live/CH4/index.m3u8
+http://phoenixzoon.goodviping.xyz/live/CH5/index.m3u8
+
+#EXTINF:-1,HDS CH 1
+http://cdn7.hhdstreams.club/live/abr_ch1/live/ch1_720p/chunks.m3u8
+#EXTINF:-1,HDS CH 2
+http://cdn7.hhdstreams.club/live/abr_ch2/live/ch2_720p/chunks.m3u8
+#EXTINF:-1,HDS CH 3
+http://cdn7.hhdstreams.club/live/abr_ch3/live/ch3_720p/chunks.m3u8
+#EXTINF:-1,HDS CH 4
+http://cdn7.hhdstreams.club/live/abr_ch4/live/ch4_720p/chunks.m3u8
+http://cdn7.hhdstreams.club/live/abr_ch5/live/ch5_720p/chunks.m3u8
+
+#EXTINF:-1,OVO L1
+http://192.166.246.122/hls/live1.m3u8
+#EXTINF:-1,OVO S1
+http://192.166.246.122/hls/ovostreamss1.m3u8
+#EXTINF:-1,COSMOTE SPORT1
+
+http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT2
+http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT3
+http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT4
+http://185.132.177.110:8080/COSMOTESport4HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT5
+http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT6
+http://185.132.177.110:8080/COSMOTESport6HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT7
+http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT8
+http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8?token=test
+#EXTINF:-1 group-title="BamarTV/Sport",COSMOTE SPORT9
+http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8?token=test
+
+#EXTINF:-1 group-title="BamarTV", 80s Party |loop 
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/3.m3u8
 
 #EXTINF:-1,AVJ
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
@@ -277,93 +363,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 group-title="BamarTV",Party Tyme Karaoke
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-
-#EXTINF:-1,SUPERSPORT 1 |laos-tech
-https://laos-tech-live.b-cdn.net/my-asp1hd_720/index.m3u8
-#EXTINF:-1,SUPERSPORT 2 |laos-tech
-https://laos-tech-live.b-cdn.net/my-asp2hd_720/index.m3u8
-#EXTINF:-1,SUPERSPORT 3 |laos-tech
-https://laos-tech-live.b-cdn.net/my-asp3hd_720/index.m3u8
-#EXTINF:-1,SUPERSPORT 4 |laos-tech
-https://laos-tech-live.b-cdn.net/my-asp4hd_720/index.m3u8
-
-#EXTINF:-1,True Premiere Football HD1 |laos-tech
-https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
-#EXTINF:-1,True Premiere Football HD2 |laos-tech
-https://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
-#EXTINF:-1,True Premiere Football HD3 |laos-tech
-https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
-
-#EXTINF:-1,Astro Super Sport 1 HD |27-02
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/364352.m3u8
-#EXTINF:-1,Astro Super Sport 2HD |27-02
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/364351.m3u8
-#EXTINF:-1,Astro Super Sport 3HD |27-02
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/364350.m3u8
-#EXTINF:-1,Astro Super Sport 4HD |27-02
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/364349.m3u8
-#EXTINF:-1,IN: Star Sports Select 1 (TEST) |27-02
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386619.m3u8
-#EXTINF:-1,IN: Star Sports Select 2 (TEST) |27-02
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386620.m3u8
-
-#EXTINF:-1,True Premiere Football HD1 |livedoo*
-http://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD2 |livedoo*
-http://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |livedoo*
-http://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1,True Premiere Football HD1 |livedoo
-http://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD2 |livedoo
-http://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |livedoo
-http://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="BamarTV",GVIP CH1
-http://phoenixzoon.goodviping.xyz/live/CH1/index.m3u8
-#EXTINF:-1 group-title="BamarTV",GVIP CH2
-http://phoenixzoon.goodviping.xyz/live/CH2/index.m3u8
-http://phoenixzoon.goodviping.xyz/live/CH3/index.m3u8
-#EXTINF:-1 group-title="BamarTV",GVIP CH4
-http://phoenixzoon.goodviping.xyz/live/CH4/index.m3u8
-http://phoenixzoon.goodviping.xyz/live/CH5/index.m3u8
-
-#EXTINF:-1 group-title="BamarTV",HDS CH 1
-http://cdn7.hhdstreams.club/live/abr_ch1/live/ch1_720p/chunks.m3u8
-#EXTINF:-1 group-title="BamarTV",HDS CH 2
-http://cdn7.hhdstreams.club/live/abr_ch2/live/ch2_720p/chunks.m3u8
-#EXTINF:-1 group-title="BamarTV",HDS CH 3
-http://cdn7.hhdstreams.club/live/abr_ch3/live/ch3_720p/chunks.m3u8
-#EXTINF:-1 group-title="BamarTV",HDS CH 4
-http://cdn7.hhdstreams.club/live/abr_ch4/live/ch4_720p/chunks.m3u8
-http://cdn7.hhdstreams.club/live/abr_ch5/live/ch5_720p/chunks.m3u8
-
-#EXTINF:-1 group-title="BamarTV",OVO L1
-http://192.166.246.122/hls/live1.m3u8
-#EXTINF:-1 group-title="BamarTV",OVO S1
-http://192.166.246.122/hls/ovostreamss1.m3u8
-#EXTINF:-1 group-title="BamarTV",COSMOTE SPORT1
-
-http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT2
-http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT3
-http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT4
-http://185.132.177.110:8080/COSMOTESport4HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT5
-http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT6
-http://185.132.177.110:8080/COSMOTESport6HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT7
-http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT8
-http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8?token=test
-#EXTINF:-1 group-title="BamarTV",COSMOTE SPORT9
-http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8?token=test
 
  group-title="BamarTV",* live event 1 * nbcsn *
 https://dailyb0.s3.amazonaws.com/e1/1.m3u8
@@ -8329,7 +8328,6 @@ http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1, CN
 http://internetowa.tv/?c=hlsPlay&channel=cartoonnetwork&token=2bdae9ac2bd68cf8200f99d6672d0b5cca6d583abbb1da9646e66138cc2fad99dd1c081abfbab2fb3004cc8634231d9a5ade8d47cbe80f3f9269f0420ac8c4bc
 
-#EXTINF:-1 group-title="BamarTV", 80s party |loop.tv
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/385813.m3u8 < N
 
 http://156.146.43.241:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=123zzzaaaxxaazzzxxx987
