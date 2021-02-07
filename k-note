@@ -1507,54 +1507,33 @@ http://220.158.149.14:9999/live/TV00000000000000000170@HHZT
 
 #EXTINF:-1 group-title="OneTV",oneNEWS KH
 http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
-One 5
 http://36.37.252.114:888/Apple/OneTV-002/playlist.m3u8
-One 3
 http://36.37.252.114:888/Apple/OneTV-003/playlist.m3u8
-One 2
 http://36.37.252.114:888/Apple/OneTV-004/playlist.m3u8
-#EXTINF:-1,One 7 EN
 http://36.37.252.114:888/Apple/OneTV-005/playlist.m3u8
-KH CH
 http://36.37.252.114:888/Apple/OneTV-006/playlist.m3u8
-One 6
 http://36.37.252.114:888/Apple/OneTV-007/playlist.m3u8
-CTN
 http://36.37.252.114:888/Apple/OneTV-008/playlist.m3u8
-MSTV
 http://36.37.252.114:888/Apple/OneTV-009/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-010/playlist.m3u8
-Bayon TV
 http://36.37.252.114:888/Apple/OneTV-011/playlist.m3u8
-BTV
 http://36.37.252.114:888/Apple/OneTV-012/playlist.m3u8
-One TV
 http://36.37.252.114:888/Apple/OneTV-013/playlist.m3u8
-WURKZ
 http://36.37.252.114:888/Apple/OneTV-014/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-015/playlist.m3u8
-SEA TV
 http://36.37.252.114:888/Apple/OneTV-016/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-017/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-018/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-019/playlist.m3u8
-ER
 http://36.37.252.114:888/Apple/OneTV-020/playlist.m3u8
-CH 5
 http://36.37.252.114:888/Apple/OneTV-021/playlist.m3u8
-CH 9
 http://36.37.252.114:888/Apple/OneTV-022/playlist.m3u8
-NTV
 http://36.37.252.114:888/Apple/OneTV-023/playlist.m3u8
-Town TV
 http://36.37.252.114:888/Apple/OneTV-024/playlist.m3u8
-KIDS
 http://36.37.252.114:888/Apple/OneTV-025/playlist.m3u8
-PBS 3
 http://36.37.252.114:888/Apple/OneTV-026/playlist.m3u8
 soccer ru1
 http://36.37.252.114:888/Apple/OneTV-027/playlist.m3u8
-TW CH
 http://36.37.252.114:888/Apple/OneTV-028/playlist.m3u8
 #EXTINF:-1 group-title="OneTV",cinemax |OneTV
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
@@ -1566,15 +1545,12 @@ http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
 #EXTINF:-1 group-title="OneTV",HBO Family |OneTV
 http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
-SKY2
+true sports HD2
 http://36.37.252.114:888/Apple/OneTV-034/playlist.m3u8
-#EXTINF:-1,beIN SPORT EXTRA
+#EXTINF:-1,true sports HD6
 http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
-3HD
 http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
-7HD
 http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
-FAN TV
 http://36.37.252.114:888/Apple/OneTV-038/playlist.m3u8
 ariang |OneTV
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
@@ -1582,11 +1558,11 @@ http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 CH 1
 http://36.37.252.114:888/Apple/OneTV-041/playlist.m3u8
-T Central
+offline
 http://36.37.252.114:888/Apple/OneTV-042/playlist.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport" group-title="OneTV",astro SUPER SPORT |OneTV
+#EXTINF:-1 group-title="OneTV",FOX SPORT3 |OneTV
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 3" group-title="OneTV",astro SUPER SPORT 3 |OneTV
+offline
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 FRANCE 24
 http://36.37.252.114:888/Apple/OneTV-045/playlist.m3u8
@@ -1598,39 +1574,26 @@ aljazia
 http://36.37.252.114:888/Apple/OneTV-048/playlist.m3u8
 frence 24
 http://36.37.252.114:888/Apple/OneTV-049/playlist.m3u8
-offline*
+offline
 http://36.37.252.114:888/Apple/OneTV-050/playlist.m3u8
-#EXTINF:-1 group-title="OneTV",bloomberg |OneTV
+offline
 http://36.37.252.114:888/Apple/OneTV-051/playlist.m3u8
-TV5
 http://36.37.252.114:888/Apple/OneTV-052/playlist.m3u8
-DW
 http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8
-CN CH
 http://36.37.252.114:888/Apple/OneTV-054/playlist.m3u8
-Xemdaga
 http://36.37.252.114:888/Apple/OneTV-055/playlist.m3u8
-redbull
 http://36.37.252.114:888/Apple/OneTV-056/playlist.m3u8
-RT
 http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8
-ID CH
 http://36.37.252.114:888/Apple/OneTV-058/playlist.m3u8
 #EXTINF:-1 group-title="OneTV",FTV |OneTV
 http://36.37.252.114:888/Apple/OneTV-059/playlist.m3u8
-eu music
 http://36.37.252.114:888/Apple/OneTV-060/playlist.m3u8
-CCTV 4
 http://36.37.252.114:888/Apple/OneTV-061/playlist.m3u8
-CGTN
 http://36.37.252.114:888/Apple/OneTV-062/playlist.m3u8
-CGTN DOC
 http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8
-#EXTINF:-1 group-title="OneTV",CCTV 11 |OneTV
 http://36.37.252.114:888/Apple/OneTV-064/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-065/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-066/playlist.m3u8
-#EXTINF:-1 group-title="OneTV",CCTV 15 |OneTV
 http://36.37.252.114:888/Apple/OneTV-067/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-068/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-069/playlist.m3u8
@@ -1644,24 +1607,22 @@ http://36.37.252.114:888/Apple/OneTV-075/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-076/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-077/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-078/playlist.m3u8
-#EXTINF:-1 group-title="OneTV",CCTV 17 |OneTV
 http://36.37.252.114:888/Apple/OneTV-079/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-080/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-081/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-082/playlist.m3u8
-CN DRAMA
 http://36.37.252.114:888/Apple/OneTV-083/playlist.m3u8
-CN MOVIES
 http://36.37.252.114:888/Apple/OneTV-084/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-085/playlist.m3u8
-FRESH NEWS
 http://36.37.252.114:888/Apple/OneTV-086/playlist.m3u8
+offline
 http://36.37.252.114:888/Apple/OneTV-087/playlist.m3u8
-#EXTINF:-1,WB TV
+#EXTINF:-1 group-title="OneTV",WB TV
 http://36.37.252.114:888/Apple/OneTV-088/playlist.m3u8
+offline
 http://36.37.252.114:888/Apple/OneTV-089/playlist.m3u8
-#EXTINF:-1 group-title="OneTV",CN
-http://36.37.252.114:888/Apple/OneTV-090/playlist.m3u8
+-/-/-/-offline-/-/-/-
+http://36.37.252.114:888/Apple/OneTV-099/playlist.m3u8
 K+1
 http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
 
