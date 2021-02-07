@@ -180,8 +180,30 @@ http://203.81.84.130/hls/mwd_variety/index.m3u8
 
 + + + + + BamarTV + + + + +
 
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+
+http://160.119.77.116:8081/iptv/bsb-epl1.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/bsb-epl2.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/bsb-epl3.stream/playlist.m3u8
+
+http://185.238.0.145:1313/c/livedo/truepremierfootball1-hd.m3u8
+http://185.238.0.145:1313/c/livedo/truepremierfootball2-hd.m3u8
+http://185.238.0.145:1313/c/livedo/truepremierfootball3-hd.m3u8
+
+
 #EXTINF:-1 group-title="BamarTV", 80s Party |loop 
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/3.m3u8
+
+https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
+https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
+https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
+
 #EXTINF:-1,AVJ
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
 #EXTINF:-1,AsianCrush
@@ -232,6 +254,15 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 group-title="BamarTV",Party Tyme Karaoke
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+
+https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+
 
 #EXTINF:-1 group-title="BamarTV",GVIP CH1
 http://phoenixzoon.goodviping.xyz/live/CH1/index.m3u8
