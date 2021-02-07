@@ -341,8 +341,6 @@ http://cdn7.hhdstreams.club/live/abr_ch3/live/ch3_720p/chunks.m3u8
 http://cdn7.hhdstreams.club/live/abr_ch4/live/ch4_720p/chunks.m3u8
 http://cdn7.hhdstreams.club/live/abr_ch5/live/ch5_720p/chunks.m3u8
 
- group-title="BamarTV",NBCSN LIVE
-
 #EXTINF:-1 group-title="BamarTV",OVO L1
 http://192.166.246.122/hls/live1.m3u8
 #EXTINF:-1 group-title="BamarTV",OVO S1
@@ -584,64 +582,83 @@ https://l1-xl1.myanmarnet.com/relay2/mmn/ch1/stream_standard/index.m3u8
 #EXTINF:-1 tvg-logo="https://rebrand.ly/5p-png" group-title="mmplay", 5 Plus |mmplay
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist.m3u8
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/media.m3u8
+
 #EXTINF:-1 tvg-logo="https://rebrand.ly/5p-png", 5 Plus |otv
 https://cdn-edge.otv.co.th/mmplay/5plus/chunklist.m3u8
 https://edge-stream-05.otv.co.th/mmplay/5plus/chunklist.m3u8
 http://edge-stream-07.otv.co.th/livestream/5Plus.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png", Channel 7 |mmplay
 https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png", Channel 7 |otv
 https://cdn-edge.otv.co.th/mmplay/channel7/playlist.m3u8
 https://edge-stream-05.otv.co.th/mmplay/channel7/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/Channel7.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png", Channel 9 |mmplay
 https://5a13fe32ef748.streamlock.net/mmplay/channel9/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png", Channel 9 |otv
 https://cdn-edge.otv.co.th/mmplay/channel9/playlist.m3u8
 https://edge-stream-05.otv.co.th/mmplay/channel9/chunklist.m3u8
 http://edge-stream-07.otv.co.th/livestream/Channel9.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f4e0eb57c600f104da1.png",DVB |mmplay
 https://5a13fe32ef748.streamlock.net/mmplay/dvb/chunklist.m3u8
 https://cdn-edge.otv.co.th/mmplay/dvb/playlist.m3u8
 https://edge-stream-05.otv.co.th/mmplay/dvb/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8
+
  MaharBawDi | OTV /OFF
 https://cdn-edge.otv.co.th/mmplay/Mahar.stream/playlist.m3u8
 http://edge-stream-07.otv.co.th/livestream/Mahar.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mi.png", MITV |mmplay
 https://5a13fe32ef748.streamlock.net/mmplay/mitv/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mi.png", MITV |otv
 https://cdn-edge.otv.co.th/mmplay/mitv/playlist.m3u8
 https://edge-stream-05.otv.co.th/mmplay/mitv/chunklist.m3u8
 http://edge-stream-07.otv.co.th/livestream/MITV.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/97/f3/92/97f3927e75ee7651747bcfe4560ea98b.jpg", MNTV |mmplay
 https://5a13fe32ef748.streamlock.net/mmplay/mntv/chunklist.m3u8
 https://5a13fe32ef748.streamlock.net/mmplay/mntv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/97/f3/92/97f3927e75ee7651747bcfe4560ea98b.jpg", MNTV |otv
 https://cdn-edge.otv.co.th/mmplay/mntv/playlist.m3u8
 https://edge-stream-05.otv.co.th/mmplay/mntv/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/MNTV.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV |mmplay
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV |otv
 https://cdn-edge.otv.co.th/mmplay/mrtv/playlist.m3u8
 https://edge-stream-05.otv.co.th/mmplay/mrtv/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/MRTV.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png", MRTV-4 |mmplay
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png", MRTV-4 |otv
 https://cdn-edge.otv.co.th/mmplay/mrtv-4/playlist.m3u8
 https://edge-stream-05.otv.co.th/mmplay/mrtv-4/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/MRTV-4.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/MRTV-E.png", MRTV Entertainment |mmplay
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/MRTV-E.png", MRTV Entertainment |otv
 https://cdn-edge.otv.co.th/mmplay/mrtv-entertainment/playlist.m3u8
 https://edge-stream-05.otv.co.th/mmplay/mrtv-entertainment/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/MRTV-Entertainment.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/hluttaw_old.png", MRTV HLUTTAW |mmplay
 https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/chunklist.m3u8
 https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/chunklist_w191068738.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/hluttaw_old.png" group-title="mmplay", MRTV HLUTTAW |otv
 https://cdn-edge.otv.co.th/mmplay/hluttaw/playlist.m3u8
 https://edge-stream-05.otv.co.th/mmplay/hluttaw/chunklist.m3u8
