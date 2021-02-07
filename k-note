@@ -291,6 +291,11 @@ http://192.166.246.122/hls/live1.m3u8
 #EXTINF:-1,OVO S1
 http://192.166.246.122/hls/ovostreamss1.m3u8
 
+#EXTINF:-1, NBCSN LIVE
+https://dailysportbucket41.s3.eu-west-2.amazonaws.com/e1/1.m3u8
+#EXTINF:-1, live 1
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/a51a7210c7904f41afb07feb17ca9652/index1.m3u8
+
 #EXTINF:-1,COSMOTE SPORT1
 http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8?token=test
 #EXTINF:-1,COSMOTE SPORT2
