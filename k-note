@@ -180,9 +180,7 @@ http://203.81.84.130/hls/mwd_variety/index.m3u8
 
 + + + + + BamarTV + + + + +
 
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+
 
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
@@ -199,6 +197,15 @@ http://185.238.0.145:1313/c/livedo/truepremierfootball3-hd.m3u8
 
 #EXTINF:-1 group-title="BamarTV", 80s Party |loop 
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/3.m3u8
+
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 
 https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
 https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
@@ -255,13 +262,35 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252
 #EXTINF:-1 group-title="BamarTV",Party Tyme Karaoke
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 
-https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+https://laos-tech-live.b-cdn.net/my-asp1hd_720/index.m3u8
+https://laos-tech-live.b-cdn.net/my-asp2hd_720/index.m3u8
+https://laos-tech-live.b-cdn.net/my-asp3hd_720/index.m3u8
+https://laos-tech-live.b-cdn.net/my-asp4hd_720/index.m3u8
 
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
+https://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
+https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
+
+#EXTINF:-1,Astro Super Sport 1 HD |27-02
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/364352.m3u8
+#EXTINF:-1,Astro Super Sport 2HD |27-02
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/364351.m3u8
+#EXTINF:-1,Astro Super Sport 3HD |27-02
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/364350.m3u8
+#EXTINF:-1,Astro Super Sport 4HD |27-02
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/364349.m3u8
+#EXTINF:-1,IN: Star Sports Select 1 (TEST)
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/386619.m3u8
+#EXTINF:-1,IN: Star Sports Select 2 (TEST)
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/386620.m3u8
+
+http://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+http://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+http://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+
+http://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+http://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+http://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="BamarTV",GVIP CH1
