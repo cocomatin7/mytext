@@ -180,35 +180,52 @@ http://203.81.84.130/hls/mwd_variety/index.m3u8
 
 + + + + + BamarTV + + + + +
 
-
-
+#EXTINF:-1,True Premiere Football HD1 |
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1,True Premiere Football HD2 |
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+#EXTINF:-1,True Premiere Football HD3 |
 http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 
+#EXTINF:-1,True Premiere Football HD1 |
 http://160.119.77.116:8081/iptv/bsb-epl1.stream/playlist.m3u8
+#EXTINF:-1,True Premiere Football HD2 |
 http://160.119.77.116:8081/iptv/bsb-epl2.stream/playlist.m3u8
+#EXTINF:-1,True Premiere Football HD3 |
 http://160.119.77.116:8081/iptv/bsb-epl3.stream/playlist.m3u8
 
+#EXTINF:-1,True Premiere Football HD1 |
 http://185.238.0.145:1313/c/livedo/truepremierfootball1-hd.m3u8
+#EXTINF:-1,True Premiere Football HD2 |
 http://185.238.0.145:1313/c/livedo/truepremierfootball2-hd.m3u8
+#EXTINF:-1,True Premiere Football HD3 |
 http://185.238.0.145:1313/c/livedo/truepremierfootball3-hd.m3u8
 
 
 #EXTINF:-1 group-title="BamarTV", 80s Party |loop 
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/3.m3u8
 
+#EXTINF:-1,
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1,
 http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1,
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1,
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
+#EXTINF:-1,True Premiere Football HD1 |
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere Football HD2 |
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere Football HD3 |
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 
+#EXTINF:-1,True Premiere Football HD1 |
 https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
+#EXTINF:-1,True Premiere Football HD2 |
 https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
+#EXTINF:-1,True Premiere Football HD3 |
 https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
 
 #EXTINF:-1,AVJ
@@ -267,8 +284,11 @@ https://laos-tech-live.b-cdn.net/my-asp2hd_720/index.m3u8
 https://laos-tech-live.b-cdn.net/my-asp3hd_720/index.m3u8
 https://laos-tech-live.b-cdn.net/my-asp4hd_720/index.m3u8
 
+#EXTINF:-1,True Premiere Football HD1 |
 https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
+#EXTINF:-1,True Premiere Football HD2 |
 https://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
+#EXTINF:-1,True Premiere Football HD3 |
 https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
 
 #EXTINF:-1,Astro Super Sport 1 HD |27-02
@@ -284,12 +304,18 @@ http://pie.buzz:83/live/Peter.nyr1909/6547736256/386619.m3u8
 #EXTINF:-1,IN: Star Sports Select 2 (TEST)
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/386620.m3u8
 
+#EXTINF:-1,True Premiere Football HD1 |
 http://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere Football HD2 |
 http://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere Football HD3 |
 http://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 
+#EXTINF:-1,True Premiere Football HD1 |
 http://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere Football HD2 |
 http://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere Football HD3 |
 http://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 
 
@@ -678,6 +704,7 @@ http://4digital.ddns.net:9981/play/stream/service/4befaab62f451a88f937a72304277d
 http://4digital.ddns.net:9981/play/stream/service/c8c79f93a336289531cfe3555174925e?title=HBO%20Sig
 http://4digital.ddns.net:9981/play/stream/service/72f9cd112ecdfd3090a58fbe26514219?title=hbo%20hs
 http://4digital.ddns.net:9981/play/stream/service/f2ed7558641e7d795bc0f0902bbef7ae?title=History%20HD
+
 #EXTINF:-1 group-title="TH/4digit",NET SPORT HD
 http://4digital.ddns.net:9981/stream/service/0ce306a5da35cefee8db8298ee7d8258
 http://4digital.ddns.net:9981/play/stream/service/0ce306a5da35cefee8db8298ee7d8258?title=VIP2
@@ -685,18 +712,46 @@ http://4digital.ddns.net:9981/play/stream/service/0ce306a5da35cefee8db8298ee7d82
 http://4digital.ddns.net:9981/stream/service/d396adf06388c6a42aed5805744dd446
 http://4digital.ddns.net:9981/play/stream/service/d396adf06388c6a42aed5805744dd446?title=VIP%20HD3
 
-+ + + + +
+#EXTINF:-1,Animal Planet |4digit
+http://4digital.ddns.net:9981/stream/mux/dbcd6e154bc899418914ef436e6ae4d9
+#EXTINF:-1,CINEMAX |4digit
+http://4digital.ddns.net:9981/stream/mux/eb556a2e43611f10ba7caed40a2f9acd
+http://4digital.ddns.net:9981/stream/mux/379e46234c7dce33396b09a49a68fd8a?title=FOX%20Family%20Movies%20%2F%20xtream
+#EXTINF:-1, CINEMAX
+http://4digital.ddns.net:9981/stream/service/d396adf06388c6a42aed5805744dd446?ticket=238862B3A10D3E6057FE446BBE5BDCB13ACC66F3
+#EXTINF:-1,FOX MOVIES |4digit
+http://4digital.ddns.net:9981/stream/mux/cd0886c1728b12540c5c9641f7f49e71?title=foxMoive%20%2F%20xtream
+#EXTINF:-1,HBO TH |4digit
+http://4digital.ddns.net:9981/stream/mux/b1db76fb8d9fe33eb9ac7023d0168fcc?title=hbo%20hd%20%2F%20xtream
+#EXTINF:-1,HBO Hits |4digit
+http://4digital.ddns.net:9981/stream/mux/8c45fd9a3112988877545c0205d404d8?title=HBO%20Hit%20%2F%20xtream
+#EXTINF:-1,HBO Signature |4digit
+http://4digital.ddns.net:9981/stream/mux/cde84d1bf18e2c838811fa1d920ca436?title=HBO%20Sig%20%2F%20xtream
+http://4digital.ddns.net:9981/stream/mux/c72f620b931fc9f0ca14abf5a102f012?title=VIP%20HD1%20%2F%20xtream
+#EXTINF:-1,NET SPORTS HD |4digit
+http://4digital.ddns.net:9981/stream/mux/7c4f1149ef1d43041266f5b13dfad63e?title=VIP2%20%2F%20xtream
+#EXTINF:-1 group-title="TH/4digit",CINEMAX TH |4digit
+http://4digital.ddns.net:9981/stream/mux/cef1abd1366839784df3ed0bdd480dbd?title=VIP%20HD3%20%2F%20xtream
+#EXTINF:-1, animal planet
+http://4digital.ddns.net:9981/stream/service/704686d970c7557d0b564ba2e208fe8f?ticket=CBD0496E4DB0B983B59689DA5AF803E8146AA2D2
+#EXTINF:-1, HBO Signature
+http://4digital.ddns.net:9981/stream/service/c8c79f93a336289531cfe3555174925e?ticket=33A937844738DFCF9AC41EF2C2D9F127CFCF62E8
+#EXTINF:-1, HBO Hits TH
+http://4digital.ddns.net:9981/stream/service/1dbec728fd4c80b591761f1ff25a6277?ticket=B04DE750DD8114341E5D3D8A43AFBB79E26BCAA4
+#EXTINF:-1, HBO TH
+http://4digital.ddns.net:9981/stream/service/72f9cd112ecdfd3090a58fbe26514219?ticket=645732534EB5294AC86F05959CE70AEEF0C2532A
+#EXTINF:-1 group-title="TH/4digit", Foxlife
+http://4digital.ddns.net:9981/stream/service/47c84ee02762feb71ba59ba4f6ba4b7e?ticket=7205E419157062EDF74D61753F445FD75EA395C0
 
-http://101.108.202.53:9981/play/stream/channel/382841c8e7e33830fa43e4f3e2a46be7?title=stream
-#EXTINF:-1 tvg-id="6782e06602e1932ac3c51d55ce3efa19" tvg-chno="1" group-title="thaicable",' TPF HD1 '
-http://180.183.101.168:9981/stream/channelid/1725989479?profile=pass
-#EXTINF:-1 tvg-id="6782e06602e1932ac3c51d55ce3efa19" tvg-chno="1",' TPF HD1* '
-http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
-https://node101.cloud-streaming.com/mvcb_x6/premierhd1_720/chunks.m3u8?nimblesessionid=14779311&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMCAxOjI4OjA3IFBNJmhhc2hfdmFsdWU9emJVSml2bFdaTzBiQTk5ZzRjT0tndz09JnZhbGlkbWludXRlcz0yMCZpZD0zMzc2ODgmc3RybV9sZW49M
-#EXTINF:-1 tvg-id="8329d1847e0e3aa969a627dc9ce35225" tvg-chno="2",true1_2 ' TPF HD1 "
-http://180.183.101.168:9981/stream/channelid/80816515?profile=pass
-#EXTINF:-1 tvg-id="2921f2966afde67aa1db8ad3cd671089" tvg-chno="3",true1_1 " TPF HD1 "
-http://180.183.101.168:9981/stream/channelid/384966953?profile=pass
++ + + + + TH/50.7.222.130:8278 + + + + +
+
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+
++ + + + + http://196.53.249.42:9981/extjs.html / https://rebrand.ly/sn-hd-196 + + + + +
+
 #EXTINF:-1 group-title="thaicable", ENC01
 http://196.53.249.42:9981/play/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee
 http://196.53.249.42:9981/play/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?title=ENC01
@@ -707,8 +762,6 @@ http://196.53.249.42:9981/play/stream/service/99c00f0346648f88da9f368fab67d9e8
 http://196.53.249.42:9981/play/stream/service/99c00f0346648f88da9f368fab67d9e8?title=ENC02
 #EXTINF:-1, ENC02 | SPORTS HD *
 http://196.53.249.42:9981/stream/service/99c00f0346648f88da9f368fab67d9e8
-
-+ + + + + http://196.53.249.42:9981/extjs.html / https://rebrand.ly/sn-hd-196 + + + + +
 
 #EXTINF:-1 tvg-id="976def8ec41b956e1186092d367fcb6a",ENC01
 http://196.53.249.42:9981/stream/channelid/250572183?ticket=90BD80D45802E6F6E879237564E84E87B12C3982&profile=pass
@@ -750,6 +803,117 @@ http://196.53.249.42:9981/play/stream/service/790fdd22ebec49c47bf60331c70b0785?t
 #EXTINF:-1 group-title="thaicable", ENC03 *
 http://196.53.249.42:9981/stream/service/790fdd22ebec49c47bf60331c70b0785
 
++ + + + + https://rebrand.ly/sn-hd-196 + + + + +
+
+http://196.53.249.42:9981/play/stream/service/844d67a2660c72f6ad4370e3594c501f?title=img
+http://196.53.249.42:9981/play/stream/service/32cf655f7d0889cdaaad07888a716827?title=img
+http://196.53.249.42:9981/play/stream/service/6a5b7332aa7b003a9a3db7bbe56d0f27?title=img
+#EXTINF:-1 tvg-id="6608cde8cac7f8f9e2f180cedbc5063d",Amarin HD
+http://196.53.249.42:9981/stream/channelid/1758267494?ticket=73AE55C2C6D9B3B9DC9FD4432358CD748B7697FF&profile=pass
+#EXTINF:-1 tvg-id="976def8ec41b956e1186092d367fcb6a",ENC01 / HD 1
+http://196.53.249.42:9981/stream/channelid/250572183?ticket=FF815247A09142BBC17D3B8CA33C70EC32495712&profile=pass
+#EXTINF:-1 tvg-id="662ff1d170caa73c4d93280ff615d18e",ENC02 / SPT HD
+http://196.53.249.42:9981/stream/channelid/1374760806?ticket=3DC4556D5F308D043E2CE79DC3882FACF902D2A2&profile=pass
+#EXTINF:-1 tvg-id="4c9cbb76b8f664e86552c0a11b895f85",ENC03 / NATGEO
+http://196.53.249.42:9981/stream/channelid/1992006732?ticket=6359A522B34329BE6A93A481AC8D478F94EBB1A7&profile=pass
+#EXTINF:-1 tvg-id="45e94e3e0c4a7812ebecdb680536350e",FOX MOVIES
+http://196.53.249.42:9981/stream/channelid/1045358917?ticket=D741991086D12EA76C7FFD7B0902FF97F0887E28&profile=pass
+#EXTINF:-1 tvg-id="75e779b547c8d2fa954d1c40bb176620",mono29
+http://196.53.249.42:9981/stream/channelid/897181557?ticket=E683B37DAD088A14367D05FA149D82534CD52914&profile=pass
+#EXTINF:-1 tvg-id="538b85ed7cb88e645e13923c0543b644",ONE HD
+http://196.53.249.42:9981/stream/channelid/1837468499?ticket=B27BC77D81D61DA09E940E0830B0B9D95A66A2A3&profile=pass
+#EXTINF:-1 tvg-id="dee88546daacebe1340642e46533fe35",PPTV HD
+http://196.53.249.42:9981/stream/channelid/1183181022?ticket=AE6301CB3A80C771BB46D75E80C4C856A45032F5&profile=pass
+#EXTINF:-1 tvg-id="0a902b7a506be3fc74832db8a148b84e",TNN24
+http://196.53.249.42:9981/stream/channelid/2049675274?ticket=B338F499187D11C4B16F9435FF7FD8D228A39312&profile=pass
+#EXTINF:-1 tvg-id="e5651b3f47734cf68f46adf42c4d8cdb",true4u
+http://196.53.249.42:9981/stream/channelid/1058760165?ticket=43508E971039912EAB04431B00CEBB911B8ED9D2&profile=pass
+#EXTINF:-1 tvg-id="db4f2353142a56ed23af61e360a4618b",TV5HD
+http://196.53.249.42:9981/stream/channelid/1394823131?ticket=44F12ADA8EB44CEB80CE72A0B62CB43FB95A717D&profile=pass
+#EXTINF:-1 tvg-id="1b37d1d167f69e7a26403a5fd7fb1319",TV7HD
+http://196.53.249.42:9981/stream/channelid/1372665627?ticket=4098B011AF934693CC88329ACFF7DC12A750D9EB&profile=pass
+#EXTINF:-1 tvg-id="b79f72ac538e325520c41626262d4167",workpoint TV
+http://196.53.249.42:9981/stream/channelid/745709495?ticket=0C035B3079A7C8A3BA1C6E5C798822778F66A5E3&profile=pass
+#EXTINF:-1 group-title="thaicable", FOX MOVIES
+http://196.53.249.42:9981/play/stream/service/8f422994f95e9daf04337ac7f92452e9
+http://196.53.249.42:9981/play/stream/service/8f422994f95e9daf04337ac7f92452e9?title=FOX%20MOVIES
+#EXTINF:-1 group-title="thaicable", FOX MOVIES *
+http://196.53.249.42:9981/stream/service/8f422994f95e9daf04337ac7f92452e9
+#EXTINF:-1 group-title="thaicable", ONE HD
+http://196.53.249.42:9981/play/stream/service/2980cea3a2ae9c55955ab66d99287b42
+http://196.53.249.42:9981/play/stream/service/2980cea3a2ae9c55955ab66d99287b42?title=ONE%20HD
+#EXTINF:-1 group-title="thaicable", ONE HD *
+http://196.53.249.42:9981/stream/service/2980cea3a2ae9c55955ab66d99287b42
+#EXTINF:-1 group-title="thaicable", PPTV HD
+http://196.53.249.42:9981/play/stream/service/7dbeb1c2d0474b1b638b2084a8b13bce
+http://196.53.249.42:9981/play/stream/service/7dbeb1c2d0474b1b638b2084a8b13bce?title=PPTV%20HD
+http://196.53.249.42:9981/stream/channelid/1758267494?ticket=0CE21DE9872A181D24E2F73EE98E0E1CFED115BC&profile=pass
+http://196.53.249.42:9981/stream/channelid/250572183?ticket=C8D898476ADC783FF0D421925DA77AE6B479B948&profile=pass
+http://196.53.249.42:9981/stream/channelid/1374760806?ticket=AB27D19C29408F6959048720E85454BE4A5920DF&profile=pass
+http://196.53.249.42:9981/stream/channelid/1992006732?ticket=2F5EA2C936A23EC5CCC0ED8E64EC549AC82444A5&profile=pass
+http://196.53.249.42:9981/stream/channelid/1045358917?ticket=B3A3ED3C9D976864164C7A953CB6061F3E5F1153&profile=pass
+http://196.53.249.42:9981/stream/channelid/897181557?ticket=C5065EEF26290A42B1C7D294F5CF586C6C6FCB40&profile=pass
+http://196.53.249.42:9981/stream/channelid/1837468499?ticket=D7CA058F2B0DBF455F0F30F2D0EBBCE83FB69D2C&profile=pass
+http://196.53.249.42:9981/stream/channelid/1183181022?ticket=BD2B83C30BC9C0040A94213D8C4A0998F8C8BBB8&profile=pass
+http://196.53.249.42:9981/stream/channelid/2049675274?ticket=03D9CBDAABBD1B14BF0383B378DB0813192C7877&profile=pass
+http://196.53.249.42:9981/stream/channelid/1058760165?ticket=14B3601649A4636AA31A41A143BCB8B44CE3FB4F&profile=pass
+http://196.53.249.42:9981/stream/channelid/1394823131?ticket=C6ED5980907616A984165F34B60692020C746A06&profile=pass
+http://196.53.249.42:9981/stream/channelid/1372665627?ticket=1B814B48B118F4CB508A92D1E1796DAFAB866D72&profile=pass
+http://196.53.249.42:9981/stream/channelid/864844556?ticket=EA3B54256C8CF8F85088FB280164DCEC6D4EC31C&profile=pass
+http://196.53.249.42:9981/stream/channelid/745709495?ticket=B97702D6CBA64E6C8D722211FDA32CBE1A3A7F39&profile=pass
+http://196.53.249.42:9981/play/stream/service/614960d031aebc2dbfbe786c01189485?title=Amarin%20HD
+http://196.53.249.42:9981/play/stream/service/dcf9466c6e2bfbf47331d18e787cda45?title=TNN24
+http://196.53.249.42:9981/play/stream/service/f5ad986169c5acba47216d899a11800b?title=TV5HD
+http://196.53.249.42:9981/play/stream/service/fd53263eac7ed137393fc2e82f33e7ae?title=mono29
+http://196.53.249.42:9981/play/stream/service/fc26a003279bace8c378f48cbaee6ffa?title=true4u
+http://196.53.249.42:9981/play/stream/service/eafe3b57a26dcba62afe3c80955a4081?title=workpoint%20TV
+
+http://196.53.249.42:9981/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?ticket=D428B33505FC2A579E8331D3B4680F55C4F31701
+http://196.53.249.42:9981/stream/service/99c00f0346648f88da9f368fab67d9e8?ticket=2959E3E0B54205AA40C8896309CB7F0B5174928A
+http://196.53.249.42:9981/stream/service/790fdd22ebec49c47bf60331c70b0785?ticket=E371300CA3D63D3B37724F5281AE7080586909C6
+http://196.53.249.42:9981/stream/mux/dbfa4c7e398eb3ca85e215e4849d06ce?ticket=AB9F3FC26FDEBF62970EFF60ABCF06A96074337B
+#EXTINF:-1,CH 8 | CINEMAX TH
+http://196.53.249.42:9981/stream/service/790fdd22ebec49c47bf60331c70b0785?ticket=90AC1DEEC72CB7CF356AC8896A071E53EF6B365B
+
++ + + + + TH/203.154.177.124:8899 + + + + +
+
+http://203.154.177.124:8899/live/ch23/playlist.m3u8
+http://203.154.177.124:8899/live/ch1/playlist.m3u8
+http://203.154.177.124:8899/live/ch2/playlist.m3u8
+http://203.154.177.124:8899/live/ch3/playlist.m3u8
+FIGHTBOX
+http://203.154.177.124:8899/live/ch4/playlist.m3u8
+ANIMAX
+http://203.154.177.124:8899/live/ch5/playlist.m3u8
+NA http://203.154.177.124:8899/live/ch6/playlist.m3u8
+http://203.154.177.124:8899/live/ch7/playlist.m3u8
+http://203.154.177.124:8899/live/ch8/playlist.m3u8
+http://203.154.177.124:8899/live/ch9/playlist.m3u8
+http://203.154.177.124:8899/live/ch10/playlist.m3u8
+NA http://203.154.177.124:8899/live/ch11/playlist.m3u8
+WB TV
+http://203.154.177.124:8899/live/ch12/playlist.m3u8
+NA http://203.154.177.124:8899/live/ch13/playlist.m3u8
+NA http://203.154.177.124:8899/live/ch14/playlist.m3u8
+NA http://203.154.177.124:8899/live/ch15/playlist.m3u8
+http://203.154.177.124:8899/live/ch16/playlist.m3u8
+NA http://203.154.177.124:8899/live/ch17/playlist.m3u8
+http://203.154.177.124:8899/live/ch18/playlist.m3u8
+NA http://203.154.177.124:8899/live/ch19/playlist.m3u8
+MIAO MI
+http://203.154.177.124:8899/live/ch20/playlist.m3u8
+http://203.154.177.124:8899/live/ch21/playlist.m3u8
+FIGHT
+http://203.154.177.124:8899/live/ch22/playlist.m3u8
+http://203.154.177.124:8899/live/ch24/playlist.m3u8
+http://203.154.177.124:8899/live/ch25/playlist.m3u8
+http://203.154.177.124:8899/live/ch26/playlist.m3u8
+http://203.154.177.124:8899/live/ch27/playlist.m3u8
+http://203.154.177.124:8899/live/ch28/playlist.m3u8
+http://203.154.177.124:8899/live/ch29/playlist.m3u8
+
++ + + + + TV Headend + + + + +
+
 Congiguration > DVB Inputs > Services
 http://196.53.249.42:9981/play/stream/channel/976def8ec41b956e1186092d367fcb6a?title=ENC01
 http://196.53.249.42:9981/play/stream/channel/662ff1d170caa73c4d93280ff615d18e?title=ENC02
@@ -763,64 +927,45 @@ http://196.53.249.42:9981/extjs.html
 http://newhostshare.ddns.net:9981/playlist/channels
 http://newhostshare.ddns.net:9981/extjs.html
 
++ + + + + TH/thaicable.myftp.org + + + + +
 
 #EXTINF:-1 group-title="thaicable",CH 1 | FOX MOVIES
 http://thaicable.myftp.org:8000/live/infosat/2020/1.m3u8
-http://196.53.249.42:9981/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?ticket=D428B33505FC2A579E8331D3B4680F55C4F31701
+
 #EXTINF:-1,CH 2 | SPORTS HD
 http://thaicable.myftp.org:8000/live/infosat/2020/2.m3u8
-http://196.53.249.42:9981/stream/service/99c00f0346648f88da9f368fab67d9e8?ticket=2959E3E0B54205AA40C8896309CB7F0B5174928A
 #EXTINF:-1,CH 2* | SPORTS HD
 http://thaicable.myftp.org:8000/live/infosat/2020/00002.ts
+
 #EXTINF:-1,CH 3 | NAT GEO
 http://thaicable.myftp.org:8000/live/infosat/2020/3.m3u8
-http://196.53.249.42:9981/stream/service/790fdd22ebec49c47bf60331c70b0785?ticket=E371300CA3D63D3B37724F5281AE7080586909C6
+
 #EXTINF:-1,CH 4 | CI
 http://thaicable.myftp.org:8000/live/infosat/2020/4.m3u8
-http://196.53.249.42:9981/stream/mux/dbfa4c7e398eb3ca85e215e4849d06ce?ticket=AB9F3FC26FDEBF62970EFF60ABCF06A96074337B
-#EXTINF:-1,CH 4 | CINEMAX
-http://4digital.ddns.net:9981/stream/service/d396adf06388c6a42aed5805744dd446?ticket=238862B3A10D3E6057FE446BBE5BDCB13ACC66F3
-#EXTINF:-1,Animal Planet |4digit
-http://4digital.ddns.net:9981/stream/mux/dbcd6e154bc899418914ef436e6ae4d9
-#EXTINF:-1,CINEMAX |4digit
-http://4digital.ddns.net:9981/stream/mux/eb556a2e43611f10ba7caed40a2f9acd
-http://4digital.ddns.net:9981/stream/mux/379e46234c7dce33396b09a49a68fd8a?title=FOX%20Family%20Movies%20%2F%20xtream
-#EXTINF:-1,FOX MOVIES |4digit
-http://4digital.ddns.net:9981/stream/mux/cd0886c1728b12540c5c9641f7f49e71?title=foxMoive%20%2F%20xtream
-#EXTINF:-1,HBO TH |4digit
-http://4digital.ddns.net:9981/stream/mux/b1db76fb8d9fe33eb9ac7023d0168fcc?title=hbo%20hd%20%2F%20xtream
-#EXTINF:-1,HBO Hits |4digit
-http://4digital.ddns.net:9981/stream/mux/8c45fd9a3112988877545c0205d404d8?title=HBO%20Hit%20%2F%20xtream
-#EXTINF:-1,HBO Signature |4digit
-http://4digital.ddns.net:9981/stream/mux/cde84d1bf18e2c838811fa1d920ca436?title=HBO%20Sig%20%2F%20xtream
-http://4digital.ddns.net:9981/stream/mux/c72f620b931fc9f0ca14abf5a102f012?title=VIP%20HD1%20%2F%20xtream
-#EXTINF:-1,NET SPORTS HD |4digit
-http://4digital.ddns.net:9981/stream/mux/7c4f1149ef1d43041266f5b13dfad63e?title=VIP2%20%2F%20xtream
-#EXTINF:-1,CINEMAX TH |4digit
-http://4digital.ddns.net:9981/stream/mux/cef1abd1366839784df3ed0bdd480dbd?title=VIP%20HD3%20%2F%20xtream
+
 #EXTINF:-1,CH 5 | SPORTS HD
 http://thaicable.myftp.org:8000/live/infosat/2020/5.m3u8
+
 #EXTINF:-1,CH 6 | NAT GEO
 http://thaicable.myftp.org:8000/live/infosat/2020/6.m3u8
+
 #EXTINF:-1,CH 7 | CTB
 http://thaicable.myftp.org:8000/live/infosat/2020/7.m3u8
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1,CH 8 | NET SPORT HD
 http://thaicable.myftp.org:8000/live/infosat/2020/8.m3u8
-#EXTINF:-1,CH 8 | CINEMAX TH
-http://196.53.249.42:9981/stream/service/790fdd22ebec49c47bf60331c70b0785?ticket=90AC1DEEC72CB7CF356AC8896A071E53EF6B365B
+
 #EXTINF:-1,CH 9 | True Premier Football HD1
 http://thaicable.myftp.org:8000/live/infosat/2020/9.m3u8
 #EXTINF:-1,CH 10 | SUPERSPORT 1
 http://thaicable.myftp.org:8000/live/infosat/2020/10.m3u8
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+
 #EXTINF:-1,CH 11 | SUPERSPORT 2
 http://thaicable.myftp.org:8000/live/infosat/2020/11.m3u8
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+
 #EXTINF:-1,CH 12 | SUPERSPORT 3
 http://thaicable.myftp.org:8000/live/infosat/2020/12.m3u8
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+
 #EXTINF:-1,CH 13 | SUPERSPORT 4
 http://thaicable.myftp.org:8000/live/infosat/2020/13.m3u8
 #EXTINF:-1,CH 14 | ER
@@ -832,25 +977,25 @@ http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/16.m3u8
 #EXTINF:-1,CH 17 | Foxlife
 http://thaicable.myftp.org:8000/live/infosat/2020/17.m3u8
-http://4digital.ddns.net:9981/stream/service/47c84ee02762feb71ba59ba4f6ba4b7e?ticket=7205E419157062EDF74D61753F445FD75EA395C0
+
 #EXTINF:-1,CH 18 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/18.m3u8
 #EXTINF:-1,CH 19 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/19.m3u8
 #EXTINF:-1,CH 20 | HBO TH
 http://thaicable.myftp.org:8000/live/infosat/2020/20.m3u8
-http://4digital.ddns.net:9981/stream/service/72f9cd112ecdfd3090a58fbe26514219?ticket=645732534EB5294AC86F05959CE70AEEF0C2532A
+
 #EXTINF:-1,CH 21 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/21.m3u8
 #EXTINF:-1,CH 22 | HBO Hits TH
 http://thaicable.myftp.org:8000/live/infosat/2020/22.m3u8
-http://4digital.ddns.net:9981/stream/service/1dbec728fd4c80b591761f1ff25a6277?ticket=B04DE750DD8114341E5D3D8A43AFBB79E26BCAA4
+
 #EXTINF:-1,CH 23 | HBO Signature
 http://thaicable.myftp.org:8000/live/infosat/2020/23.m3u8
-http://4digital.ddns.net:9981/stream/service/c8c79f93a336289531cfe3555174925e?ticket=33A937844738DFCF9AC41EF2C2D9F127CFCF62E8
+
 #EXTINF:-1,CH 24 | animal planet
 http://thaicable.myftp.org:8000/live/infosat/2020/24.m3u8
-http://4digital.ddns.net:9981/stream/service/704686d970c7557d0b564ba2e208fe8f?ticket=CBD0496E4DB0B983B59689DA5AF803E8146AA2D2
+
 #EXTINF:-1,CH 25 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/25.m3u8
 #EXTINF:-1,CH 26 | ER
@@ -1084,40 +1229,7 @@ http://thaicable.myftp.org:8000/live/infosat/2020/136.m3u8
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1,CH 137
 http://thaicable.myftp.org:8000/live/infosat/2020/137.m3u8
-http://203.154.177.124:8899/live/ch23/playlist.m3u8
-http://203.154.177.124:8899/live/ch1/playlist.m3u8
-http://203.154.177.124:8899/live/ch2/playlist.m3u8
-http://203.154.177.124:8899/live/ch3/playlist.m3u8
-FIGHTBOX
-http://203.154.177.124:8899/live/ch4/playlist.m3u8
-ANIMAX
-http://203.154.177.124:8899/live/ch5/playlist.m3u8
-NA http://203.154.177.124:8899/live/ch6/playlist.m3u8
-http://203.154.177.124:8899/live/ch7/playlist.m3u8
-http://203.154.177.124:8899/live/ch8/playlist.m3u8
-http://203.154.177.124:8899/live/ch9/playlist.m3u8
-http://203.154.177.124:8899/live/ch10/playlist.m3u8
-NA http://203.154.177.124:8899/live/ch11/playlist.m3u8
-WB TV
-http://203.154.177.124:8899/live/ch12/playlist.m3u8
-NA http://203.154.177.124:8899/live/ch13/playlist.m3u8
-NA http://203.154.177.124:8899/live/ch14/playlist.m3u8
-NA http://203.154.177.124:8899/live/ch15/playlist.m3u8
-http://203.154.177.124:8899/live/ch16/playlist.m3u8
-NA http://203.154.177.124:8899/live/ch17/playlist.m3u8
-http://203.154.177.124:8899/live/ch18/playlist.m3u8
-NA http://203.154.177.124:8899/live/ch19/playlist.m3u8
-MIAO MI
-http://203.154.177.124:8899/live/ch20/playlist.m3u8
-http://203.154.177.124:8899/live/ch21/playlist.m3u8
-FIGHT
-http://203.154.177.124:8899/live/ch22/playlist.m3u8
-http://203.154.177.124:8899/live/ch24/playlist.m3u8
-http://203.154.177.124:8899/live/ch25/playlist.m3u8
-http://203.154.177.124:8899/live/ch26/playlist.m3u8
-http://203.154.177.124:8899/live/ch27/playlist.m3u8
-http://203.154.177.124:8899/live/ch28/playlist.m3u8
-http://203.154.177.124:8899/live/ch29/playlist.m3u8
+
 #EXTINF:-1,CH 138
 http://thaicable.myftp.org:8000/live/infosat/2020/138.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
@@ -1165,113 +1277,64 @@ http://thaicable.myftp.org:8000/live/infosat/2020/155.m3u8
 -/-/-/-/-offline-/-/-/-/
 http://thaicable.myftp.org:8000/live/infosat/2020/179.m3u8
 
-+ + + + + thaicable.myftp.org + + + + +
++ + + + + TH/misc + + + + +
 
-#EXTINF:-1 group-title="thaicable",CH 1 | HBO
+#EXTINF:-1 group-title="TH/misc",CH 1 | HBO
 http://196.53.249.42:9981/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?ticket=2B2D554BB78E245DF1B8B368D530CA4044232A3A
 http://196.53.249.42:9981/stream/service/99c00f0346648f88da9f368fab67d9e8?ticket=8127765E169E5AE21819F5AA650CB3BD78C6810E
-#EXTINF:-1,CH 4 | HBO
+#EXTINF:-1, HBO
 http://newhostshare.ddns.net:9981/stream/service/d315a19be4cc4b8d6b914a59fe90659d?ticket=cd10ccad45daf177a88c3df9bcad69b876eda2ba
-#EXTINF:-1,CH 76 | CGTN
+#EXTINF:-1, CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1,CH 98 | 
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
-#EXTINF:-1,CH 106 | BBC WORLD NEWS
+#EXTINF:-1, BBC WORLD NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1,CH 107 | 
+#EXTINF:-1, sky news
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/06.m3u8
+
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1,CH 111 | &flix HD
+#EXTINF:-1, &flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1,CH 112 | &priveHD
+#EXTINF:-1, &priveHD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="thaicable",CH 155
+#EXTINF:-1,CH 155
+http://101.108.202.53:9981/play/stream/channel/382841c8e7e33830fa43e4f3e2a46be7?title=stream
 
-+ + + + + https://rebrand.ly/sn-hd-196 + + + + +
+#EXTINF:-1,' TPF HD1* '
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 
-http://196.53.249.42:9981/play/stream/service/844d67a2660c72f6ad4370e3594c501f?title=img
-http://196.53.249.42:9981/play/stream/service/32cf655f7d0889cdaaad07888a716827?title=img
-http://196.53.249.42:9981/play/stream/service/6a5b7332aa7b003a9a3db7bbe56d0f27?title=img
-#EXTINF:-1 tvg-id="6608cde8cac7f8f9e2f180cedbc5063d",Amarin HD
-http://196.53.249.42:9981/stream/channelid/1758267494?ticket=73AE55C2C6D9B3B9DC9FD4432358CD748B7697FF&profile=pass
-#EXTINF:-1 tvg-id="976def8ec41b956e1186092d367fcb6a",ENC01 / HD 1
-http://196.53.249.42:9981/stream/channelid/250572183?ticket=FF815247A09142BBC17D3B8CA33C70EC32495712&profile=pass
-#EXTINF:-1 tvg-id="662ff1d170caa73c4d93280ff615d18e",ENC02 / SPT HD
-http://196.53.249.42:9981/stream/channelid/1374760806?ticket=3DC4556D5F308D043E2CE79DC3882FACF902D2A2&profile=pass
-#EXTINF:-1 tvg-id="4c9cbb76b8f664e86552c0a11b895f85",ENC03 / NATGEO
-http://196.53.249.42:9981/stream/channelid/1992006732?ticket=6359A522B34329BE6A93A481AC8D478F94EBB1A7&profile=pass
-#EXTINF:-1 tvg-id="45e94e3e0c4a7812ebecdb680536350e",FOX MOVIES
-http://196.53.249.42:9981/stream/channelid/1045358917?ticket=D741991086D12EA76C7FFD7B0902FF97F0887E28&profile=pass
-#EXTINF:-1 tvg-id="75e779b547c8d2fa954d1c40bb176620",mono29
-http://196.53.249.42:9981/stream/channelid/897181557?ticket=E683B37DAD088A14367D05FA149D82534CD52914&profile=pass
-#EXTINF:-1 tvg-id="538b85ed7cb88e645e13923c0543b644",ONE HD
-http://196.53.249.42:9981/stream/channelid/1837468499?ticket=B27BC77D81D61DA09E940E0830B0B9D95A66A2A3&profile=pass
-#EXTINF:-1 tvg-id="dee88546daacebe1340642e46533fe35",PPTV HD
-http://196.53.249.42:9981/stream/channelid/1183181022?ticket=AE6301CB3A80C771BB46D75E80C4C856A45032F5&profile=pass
-#EXTINF:-1 tvg-id="0a902b7a506be3fc74832db8a148b84e",TNN24
-http://196.53.249.42:9981/stream/channelid/2049675274?ticket=B338F499187D11C4B16F9435FF7FD8D228A39312&profile=pass
-#EXTINF:-1 tvg-id="e5651b3f47734cf68f46adf42c4d8cdb",true4u
-http://196.53.249.42:9981/stream/channelid/1058760165?ticket=43508E971039912EAB04431B00CEBB911B8ED9D2&profile=pass
-#EXTINF:-1 tvg-id="db4f2353142a56ed23af61e360a4618b",TV5HD
-http://196.53.249.42:9981/stream/channelid/1394823131?ticket=44F12ADA8EB44CEB80CE72A0B62CB43FB95A717D&profile=pass
-#EXTINF:-1 tvg-id="1b37d1d167f69e7a26403a5fd7fb1319",TV7HD
-http://196.53.249.42:9981/stream/channelid/1372665627?ticket=4098B011AF934693CC88329ACFF7DC12A750D9EB&profile=pass
-#EXTINF:-1 tvg-id="b79f72ac538e325520c41626262d4167",workpoint TV
-http://196.53.249.42:9981/stream/channelid/745709495?ticket=0C035B3079A7C8A3BA1C6E5C798822778F66A5E3&profile=pass
-#EXTINF:-1 group-title="thaicable", FOX MOVIES
-http://196.53.249.42:9981/play/stream/service/8f422994f95e9daf04337ac7f92452e9
-http://196.53.249.42:9981/play/stream/service/8f422994f95e9daf04337ac7f92452e9?title=FOX%20MOVIES
-#EXTINF:-1 group-title="thaicable", FOX MOVIES *
-http://196.53.249.42:9981/stream/service/8f422994f95e9daf04337ac7f92452e9
-#EXTINF:-1 group-title="thaicable", ONE HD
-http://196.53.249.42:9981/play/stream/service/2980cea3a2ae9c55955ab66d99287b42
-http://196.53.249.42:9981/play/stream/service/2980cea3a2ae9c55955ab66d99287b42?title=ONE%20HD
-#EXTINF:-1 group-title="thaicable", ONE HD *
-http://196.53.249.42:9981/stream/service/2980cea3a2ae9c55955ab66d99287b42
-#EXTINF:-1 group-title="thaicable", PPTV HD
-http://196.53.249.42:9981/play/stream/service/7dbeb1c2d0474b1b638b2084a8b13bce
-http://196.53.249.42:9981/play/stream/service/7dbeb1c2d0474b1b638b2084a8b13bce?title=PPTV%20HD
-http://196.53.249.42:9981/stream/channelid/1758267494?ticket=0CE21DE9872A181D24E2F73EE98E0E1CFED115BC&profile=pass
-http://196.53.249.42:9981/stream/channelid/250572183?ticket=C8D898476ADC783FF0D421925DA77AE6B479B948&profile=pass
-http://196.53.249.42:9981/stream/channelid/1374760806?ticket=AB27D19C29408F6959048720E85454BE4A5920DF&profile=pass
-http://196.53.249.42:9981/stream/channelid/1992006732?ticket=2F5EA2C936A23EC5CCC0ED8E64EC549AC82444A5&profile=pass
-http://196.53.249.42:9981/stream/channelid/1045358917?ticket=B3A3ED3C9D976864164C7A953CB6061F3E5F1153&profile=pass
-http://196.53.249.42:9981/stream/channelid/897181557?ticket=C5065EEF26290A42B1C7D294F5CF586C6C6FCB40&profile=pass
-http://196.53.249.42:9981/stream/channelid/1837468499?ticket=D7CA058F2B0DBF455F0F30F2D0EBBCE83FB69D2C&profile=pass
-http://196.53.249.42:9981/stream/channelid/1183181022?ticket=BD2B83C30BC9C0040A94213D8C4A0998F8C8BBB8&profile=pass
-http://196.53.249.42:9981/stream/channelid/2049675274?ticket=03D9CBDAABBD1B14BF0383B378DB0813192C7877&profile=pass
-http://196.53.249.42:9981/stream/channelid/1058760165?ticket=14B3601649A4636AA31A41A143BCB8B44CE3FB4F&profile=pass
-http://196.53.249.42:9981/stream/channelid/1394823131?ticket=C6ED5980907616A984165F34B60692020C746A06&profile=pass
-http://196.53.249.42:9981/stream/channelid/1372665627?ticket=1B814B48B118F4CB508A92D1E1796DAFAB866D72&profile=pass
-http://196.53.249.42:9981/stream/channelid/864844556?ticket=EA3B54256C8CF8F85088FB280164DCEC6D4EC31C&profile=pass
-http://196.53.249.42:9981/stream/channelid/745709495?ticket=B97702D6CBA64E6C8D722211FDA32CBE1A3A7F39&profile=pass
-http://196.53.249.42:9981/play/stream/service/614960d031aebc2dbfbe786c01189485?title=Amarin%20HD
-http://196.53.249.42:9981/play/stream/service/dcf9466c6e2bfbf47331d18e787cda45?title=TNN24
-http://196.53.249.42:9981/play/stream/service/f5ad986169c5acba47216d899a11800b?title=TV5HD
-http://196.53.249.42:9981/play/stream/service/fd53263eac7ed137393fc2e82f33e7ae?title=mono29
-http://196.53.249.42:9981/play/stream/service/fc26a003279bace8c378f48cbaee6ffa?title=true4u
-http://196.53.249.42:9981/play/stream/service/eafe3b57a26dcba62afe3c80955a4081?title=workpoint%20TV
+https://node101.cloud-streaming.com/mvcb_x6/premierhd1_720/chunks.m3u8?nimblesessionid=14779311&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMCAxOjI4OjA3IFBNJmhhc2hfdmFsdWU9emJVSml2bFdaTzBiQTk5ZzRjT0tndz09JnZhbGlkbWludXRlcz0yMCZpZD0zMzc2ODgmc3RybV9sZW49M
+
+#EXTINF:-1,' TPF HD1 '
+http://180.183.101.168:9981/stream/channelid/1725989479?profile=pass
+
+#EXTINF:-1,true1_2 ' TPF HD1 "
+http://180.183.101.168:9981/stream/channelid/80816515?profile=pass
+
+#EXTINF:-1 group-title="TH/misc",true1_1 " TPF HD1 "
+http://180.183.101.168:9981/stream/channelid/384966953?profile=pass
 
 + + + + + http://www.mutv.tk/ + + + + +
 
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |MM VPN
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |MM VPN
 https://cdn1.cloud-streaming.live/live/tpf1/playlist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |MM VPN
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |MM VPN
 https://cdn1.cloud-streaming.live/live/tpf2/playlist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3",True Premiere Football HD3 |MM VPN
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3",True Premiere Football HD3 |MM VPN
 https://cdn1.cloud-streaming.live/live/tpf3/playlist.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 1",SUPERSPORT |MM VPN
+ tvg-id="Astro SuperSport 1",SUPERSPORT |MM VPN
 https://cdn1.cloud-streaming.live/live/astrosport1/playlist.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 2",SUPERSPORT 2 |MM VPN
+ tvg-id="Astro SuperSport 2",SUPERSPORT 2 |MM VPN
 https://cdn1.cloud-streaming.live/live/astrosport2/playlist.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 3",SUPERSPORT 3 |MM VPN
+ tvg-id="Astro SuperSport 3",SUPERSPORT 3 |MM VPN
 https://cdn1.cloud-streaming.live/live/astrosport3/playlist.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 4",SUPERSPORT 4 |MM VPN
+ tvg-id="Astro SuperSport 4",SUPERSPORT 4 |MM VPN
 https://cdn1.cloud-streaming.live/live/astrosport4/playlist.m3u8
 #EXTINF:-1, SPORT TV1 |MM VPN
 https://cdn1.cloud-streaming.live/live/sporttv1/playlist.m3u8
