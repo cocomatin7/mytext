@@ -655,20 +655,35 @@ https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1
  group-title="mptalive",Skynet Sport 6 MM
 https://mptalive6-a.akamaihd.net:443/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1602257857~exp=9007200856998848~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=404fff48c1b210f9ca2991e37dd89bd7131fb5063df82cc931208cfd64600051&post=-199830756_111&cc_key=
 
-+ + + + + thaicable + + + + +
++ + + + + TH/4digital.ddns.net + + + + +
 
 http://4digital.ddns.net:11220/ts/0
 http://4digital.ddns.net:11221/ts/0
-#EXTINF:-1 group-title="thaicable",11222
+#EXTINF:-1 group-title="TH/4digit",11222
 http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1,11223 | SKYNET SP HD
 http://4digital.ddns.net:11223/ts/0
-#EXTINF:-1 group-title="thaicable",11224
+#EXTINF:-1 group-title="TH/4digit",11224
 http://4digital.ddns.net:11224/ts/0
 http://4digital.ddns.net:11226/ts/0
 http://4digital.ddns.net:11227/ts/0
 http://4digital.ddns.net:11228/ts/0
 http://4digital.ddns.net:11229/ts/0
+#EXTINF:-1 group-title="TH/4digit",Cinemax
+http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248
+http://4digital.ddns.net:9981/play/stream/service/9d577e58dadc6f23bd8c76d21be8e248?title=Cinemax%20
+http://4digital.ddns.net:9981/play/stream/service/38d3c9236281bcd40829fde2744f78e4?title=FOX%20Action%20Movies
+http://4digital.ddns.net:9981/play/stream/service/cae8d79225fee492198d50159dcc6961?title=FOX%20Family%20Movies
+http://4digital.ddns.net:9981/play/stream/service/4befaab62f451a88f937a72304277db2?title=foxMoive
+http://4digital.ddns.net:9981/play/stream/service/c8c79f93a336289531cfe3555174925e?title=HBO%20Sig
+http://4digital.ddns.net:9981/play/stream/service/72f9cd112ecdfd3090a58fbe26514219?title=hbo%20hs
+http://4digital.ddns.net:9981/play/stream/service/f2ed7558641e7d795bc0f0902bbef7ae?title=History%20HD
+#EXTINF:-1 group-title="TH/4digit",NET SPORT HD
+http://4digital.ddns.net:9981/stream/service/0ce306a5da35cefee8db8298ee7d8258
+http://4digital.ddns.net:9981/play/stream/service/0ce306a5da35cefee8db8298ee7d8258?title=VIP2
+#EXTINF:-1 group-title="TH/4digit",True Premier Football HD1
+http://4digital.ddns.net:9981/stream/service/d396adf06388c6a42aed5805744dd446
+http://4digital.ddns.net:9981/play/stream/service/d396adf06388c6a42aed5805744dd446?title=VIP%20HD3
 
 + + + + +
 
@@ -748,21 +763,7 @@ http://196.53.249.42:9981/extjs.html
 http://newhostshare.ddns.net:9981/playlist/channels
 http://newhostshare.ddns.net:9981/extjs.html
 
-#EXTINF:-1 group-title="thaicable",Cinemax
-http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248
-http://4digital.ddns.net:9981/play/stream/service/9d577e58dadc6f23bd8c76d21be8e248?title=Cinemax%20
-http://4digital.ddns.net:9981/play/stream/service/38d3c9236281bcd40829fde2744f78e4?title=FOX%20Action%20Movies
-http://4digital.ddns.net:9981/play/stream/service/cae8d79225fee492198d50159dcc6961?title=FOX%20Family%20Movies
-http://4digital.ddns.net:9981/play/stream/service/4befaab62f451a88f937a72304277db2?title=foxMoive
-http://4digital.ddns.net:9981/play/stream/service/c8c79f93a336289531cfe3555174925e?title=HBO%20Sig
-http://4digital.ddns.net:9981/play/stream/service/72f9cd112ecdfd3090a58fbe26514219?title=hbo%20hs
-http://4digital.ddns.net:9981/play/stream/service/f2ed7558641e7d795bc0f0902bbef7ae?title=History%20HD
-#EXTINF:-1,NET SPORT HD
-http://4digital.ddns.net:9981/stream/service/0ce306a5da35cefee8db8298ee7d8258
-http://4digital.ddns.net:9981/play/stream/service/0ce306a5da35cefee8db8298ee7d8258?title=VIP2
-#EXTINF:-1,True Premier Football HD1
-http://4digital.ddns.net:9981/stream/service/d396adf06388c6a42aed5805744dd446
-http://4digital.ddns.net:9981/play/stream/service/d396adf06388c6a42aed5805744dd446?title=VIP%20HD3
+
 #EXTINF:-1 group-title="thaicable",CH 1 | FOX MOVIES
 http://thaicable.myftp.org:8000/live/infosat/2020/1.m3u8
 http://196.53.249.42:9981/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?ticket=D428B33505FC2A579E8331D3B4680F55C4F31701
