@@ -180,51 +180,51 @@ http://203.81.84.130/hls/mwd_variety/index.m3u8
 
 + + + + + BamarTV + + + + +
 
-#EXTINF:-1 group-title="BamarTV",True Premiere Football HD1 |
+#EXTINF:-1 group-title="BamarTV",True Premiere Football HD1 |160
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:-1,True Premiere Football HD2 |
+#EXTINF:-1,True Premiere Football HD2 |160
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |
+#EXTINF:-1,True Premiere Football HD3 |160
 http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 
-#EXTINF:-1,True Premiere Football HD1 |
+#EXTINF:-1,True Premiere Football HD1 |160*
 http://160.119.77.116:8081/iptv/bsb-epl1.stream/playlist.m3u8
-#EXTINF:-1,True Premiere Football HD2 |
+#EXTINF:-1,True Premiere Football HD2 |160*
 http://160.119.77.116:8081/iptv/bsb-epl2.stream/playlist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |
+#EXTINF:-1,True Premiere Football HD3 |160*
 http://160.119.77.116:8081/iptv/bsb-epl3.stream/playlist.m3u8
 
-#EXTINF:-1,True Premiere Football HD1 |
+#EXTINF:-1,True Premiere Football HD1 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball1-hd.m3u8
-#EXTINF:-1,True Premiere Football HD2 |
+#EXTINF:-1,True Premiere Football HD2 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball2-hd.m3u8
-#EXTINF:-1,True Premiere Football HD3 |
+#EXTINF:-1,True Premiere Football HD3 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball3-hd.m3u8
 
 #EXTINF:-1 group-title="BamarTV", 80s Party |loop 
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/3.m3u8
 
-#EXTINF:-1,SUPERSPORT 1 |
+#EXTINF:-1,SUPERSPORT 1 |50
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1,SUPERSPORT 2 |
+#EXTINF:-1,SUPERSPORT 2 |50
 http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1,SUPERSPORT 3 |
+#EXTINF:-1,SUPERSPORT 3 |50
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1,SUPERSPORT 4 |
+#EXTINF:-1,SUPERSPORT 4 |50
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
-#EXTINF:-1,True Premiere Football HD1 |
+#EXTINF:-1,True Premiere Football HD1 |77
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD2 |
+#EXTINF:-1,True Premiere Football HD2 |77
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |
+#EXTINF:-1,True Premiere Football HD3 |77
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:-1,True Premiere Football HD1 |
+#EXTINF:-1,True Premiere Football HD1 |mb13
 https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
-#EXTINF:-1,True Premiere Football HD2 |
+#EXTINF:-1,True Premiere Football HD2 |mb13
 https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
-#EXTINF:-1,True Premiere Football HD3 |
+#EXTINF:-1,True Premiere Football HD3 |mb13
 https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
 
 #EXTINF:-1,AVJ
@@ -278,20 +278,20 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252
 #EXTINF:-1 group-title="BamarTV",Party Tyme Karaoke
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 
-#EXTINF:-1,SUPERSPORT 1 |
+#EXTINF:-1,SUPERSPORT 1 |laos-tech
 https://laos-tech-live.b-cdn.net/my-asp1hd_720/index.m3u8
-#EXTINF:-1,SUPERSPORT 2 |
+#EXTINF:-1,SUPERSPORT 2 |laos-tech
 https://laos-tech-live.b-cdn.net/my-asp2hd_720/index.m3u8
-#EXTINF:-1,SUPERSPORT 3 |
+#EXTINF:-1,SUPERSPORT 3 |laos-tech
 https://laos-tech-live.b-cdn.net/my-asp3hd_720/index.m3u8
-#EXTINF:-1,SUPERSPORT 4 |
+#EXTINF:-1,SUPERSPORT 4 |laos-tech
 https://laos-tech-live.b-cdn.net/my-asp4hd_720/index.m3u8
 
-#EXTINF:-1,True Premiere Football HD1 |
+#EXTINF:-1,True Premiere Football HD1 |laos-tech
 https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
-#EXTINF:-1,True Premiere Football HD2 |
+#EXTINF:-1,True Premiere Football HD2 |laos-tech
 https://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
-#EXTINF:-1,True Premiere Football HD3 |
+#EXTINF:-1,True Premiere Football HD3 |laos-tech
 https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
 
 #EXTINF:-1,Astro Super Sport 1 HD |27-02
@@ -302,23 +302,23 @@ http://pie.buzz:83/live/Peter.nyr1909/6547736256/364351.m3u8
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/364350.m3u8
 #EXTINF:-1,Astro Super Sport 4HD |27-02
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/364349.m3u8
-#EXTINF:-1,IN: Star Sports Select 1 (TEST)
+#EXTINF:-1,IN: Star Sports Select 1 (TEST) |27-02
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/386619.m3u8
-#EXTINF:-1,IN: Star Sports Select 2 (TEST)
+#EXTINF:-1,IN: Star Sports Select 2 (TEST) |27-02
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/386620.m3u8
 
-#EXTINF:-1,True Premiere Football HD1 |
+#EXTINF:-1,True Premiere Football HD1 |livedoo*
 http://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD2 |
+#EXTINF:-1,True Premiere Football HD2 |livedoo*
 http://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |
+#EXTINF:-1,True Premiere Football HD3 |livedoo*
 http://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1,True Premiere Football HD1 |
+#EXTINF:-1,True Premiere Football HD1 |livedoo
 http://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD2 |
+#EXTINF:-1,True Premiere Football HD2 |livedoo
 http://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |
+#EXTINF:-1,True Premiere Football HD3 |livedoo
 http://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 
 
@@ -758,13 +758,6 @@ http://4digital.ddns.net:9981/stream/service/1dbec728fd4c80b591761f1ff25a6277?ti
 http://4digital.ddns.net:9981/stream/service/72f9cd112ecdfd3090a58fbe26514219?ticket=645732534EB5294AC86F05959CE70AEEF0C2532A
 #EXTINF:-1 group-title="TH/4digit", Foxlife
 http://4digital.ddns.net:9981/stream/service/47c84ee02762feb71ba59ba4f6ba4b7e?ticket=7205E419157062EDF74D61753F445FD75EA395C0
-
-+ + + + + TH/50.7.222.130:8278 + + + + +
-
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
 + + + + + http://196.53.249.42:9981/extjs.html / https://rebrand.ly/sn-hd-196 + + + + +
 
