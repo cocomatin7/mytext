@@ -5403,10 +5403,12 @@ https://laos-tech-live.b-cdn.net/al-supersports2_480/index.m3u8
 https://laos-tech-live.b-cdn.net/al-supersports3_480/index.m3u8
 https://laos-tech-live.b-cdn.net/al-supersports4_480/index.m3u8
 https://laos-tech-live.b-cdn.net/al-supersports5_480/index.m3u8
+
 #EXTINF:-1 group-title="doofree88", EPL beIN 1 |df88
 https://laos-tech-live.b-cdn.net/epl-bein1_720/index.m3u8
 #EXTINF:-1, EPL beIN 2 |df88
 https://laos-tech-live.b-cdn.net/epl-bein2_720/index.m3u8
+
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1", True Premiere Football HD1 |df88
 https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2", True Premiere Football HD2 |df88
@@ -5415,6 +5417,7 @@ https://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
 https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
 https://laos-tech-live.b-cdn.net/epl-x4_720/index.m3u8
 https://laos-tech-live.b-cdn.net/epl-x5_720/index.m3u8
+
 https://laos-tech-live.b-cdn.net/hd-amarin_720/index.m3u8
 https://laos-tech-live.b-cdn.net/hd-axn_720/index.m3u8
 https://laos-tech-live.b-cdn.net/hd-ch3_720/index.m3u8
@@ -5808,11 +5811,15 @@ https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 ,Discovery Science |doomovie'
 https://www.livedoomovie.com/02_DiscoveryScience/chunklist.m3u8
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
- tvg-id="beIN Sports 1", BEIN SPORT HD 1 |doomovie'
+
+#EXTINF:-1 tvg-id="beIN Sports 1", BEIN SPORT HD 1 |doomovie'
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
- tvg-id="beIN Sports 2", BEIN SPORT HD 2 |doomovie'
+#EXTINF:-1 tvg-id="beIN Sports 2", BEIN SPORT HD 2 |doomovie'
+https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 https://www.www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+
 https://www.livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FOX_Life_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FOX_Life_HD_720p/chunklist.m3u8
