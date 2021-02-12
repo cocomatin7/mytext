@@ -958,7 +958,7 @@ http://4digital.ddns.net:9981/stream/mux/cef1abd1366839784df3ed0bdd480dbd?title=
 
 #EXTINF:-1,Animal Planet |4digit
 http://4digital.ddns.net:9981/stream/mux/dbcd6e154bc899418914ef436e6ae4d9
-#EXTINF:-1, animal planet
+#EXTINF:-1, animal planet* |4digit
 http://4digital.ddns.net:9981/stream/service/704686d970c7557d0b564ba2e208fe8f?ticket=CBD0496E4DB0B983B59689DA5AF803E8146AA2D2
 
 #EXTINF:-1,CINEMAX* |4digit
@@ -967,12 +967,9 @@ http://4digital.ddns.net:9981/stream/mux/eb556a2e43611f10ba7caed40a2f9acd
 #EXTINF:-1,Cinemax |4digit
 http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248
 http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248?title=Cinemax%20
-#EXTINF:-1, CINEMAX
+#EXTINF:-1, Cinemax* |4digit
 http://4digital.ddns.net:9981/stream/service/d396adf06388c6a42aed5805744dd446?ticket=238862B3A10D3E6057FE446BBE5BDCB13ACC66F3
 
-
-#EXTINF:-1,FOX MOVIES |4digit
-http://4digital.ddns.net:9981/stream/mux/cd0886c1728b12540c5c9641f7f49e71?title=foxMoive%20%2F%20xtream
 #EXTINF:-1,fox Moive |4digit
 http://4digital.ddns.net:9981/stream/service/4befaab62f451a88f937a72304277db2?title=foxMoive
 #EXTINF:-1,fox Moive* |4digit
@@ -990,13 +987,13 @@ http://4digital.ddns.net:9981/stream/mux/379e46234c7dce33396b09a49a68fd8a?title=
 
 #EXTINF:-1,HBO TH |4digit
 http://4digital.ddns.net:9981/stream/mux/b1db76fb8d9fe33eb9ac7023d0168fcc?title=hbo%20hd%20%2F%20xtream
-#EXTINF:-1, HBO TH |4digit
+#EXTINF:-1, HBO TH* |4digit
 http://4digital.ddns.net:9981/stream/service/72f9cd112ecdfd3090a58fbe26514219?title=hbo%20hs
 http://4digital.ddns.net:9981/stream/service/72f9cd112ecdfd3090a58fbe26514219?ticket=645732534EB5294AC86F05959CE70AEEF0C2532A
 
-#EXTINF:-1,HBO Hits |4digit
+#EXTINF:-1,HBO Hits* |4digit
 http://4digital.ddns.net:9981/stream/mux/8c45fd9a3112988877545c0205d404d8?title=HBO%20Hit%20%2F%20xtream
-#EXTINF:-1, HBO Hits TH |4digit
+#EXTINF:-1, HBO Hits |4digit
 http://4digital.ddns.net:9981/stream/service/1dbec728fd4c80b591761f1ff25a6277?ticket=B04DE750DD8114341E5D3D8A43AFBB79E26BCAA4
 
 #EXTINF:-1,HBO Signature |4digit
