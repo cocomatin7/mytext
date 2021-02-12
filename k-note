@@ -1263,31 +1263,34 @@ http://thaicable.myftp.org:8000/live/infosat/2020/13.m3u8
 #EXTINF:-1,CH 14 | FOX MOVIES
 http://thaicable.myftp.org:8000/live/infosat/2020/14.m3u8
 
-#EXTINF:-1,CH 15 | FOX ACTION
+#EXTINF:-1,CH 15 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/15.m3u8
 http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
-
 #EXTINF:-1,CH 16 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/16.m3u8
-#EXTINF:-1,CH 17 | Foxlife
+#EXTINF:-1,CH 17 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/17.m3u8
 
-#EXTINF:-1,CH 18 | ER
+#EXTINF:-1,CH 18 | 18
 http://thaicable.myftp.org:8000/live/infosat/2020/18.m3u8
+http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248?ticket=5B9770279444E202ACE0326CC6117979182DC0E1
 #EXTINF:-1,CH 19 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/19.m3u8
 #EXTINF:-1,CH 20 | HBO TH
 http://thaicable.myftp.org:8000/live/infosat/2020/20.m3u8
+http://4digital.ddns.net:9981/stream/service/72f9cd112ecdfd3090a58fbe26514219?ticket=645732534EB5294AC86F05959CE70AEEF0C2532A
 
 #EXTINF:-1,CH 21 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/21.m3u8
 #EXTINF:-1,CH 22 | HBO Hits TH
 http://thaicable.myftp.org:8000/live/infosat/2020/22.m3u8
+http://4digital.ddns.net:9981/stream/service/1dbec728fd4c80b591761f1ff25a6277?ticket=B04DE750DD8114341E5D3D8A43AFBB79E26BCAA4
 
 #EXTINF:-1,CH 23 | HBO Signature
 http://thaicable.myftp.org:8000/live/infosat/2020/23.m3u8
+http://4digital.ddns.net:9981/stream/service/c8c79f93a336289531cfe3555174925e?ticket=33A937844738DFCF9AC41EF2C2D9F127CFCF62E8
 
-#EXTINF:-1,CH 24 | animal planet
+#EXTINF:-1,CH 24 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/24.m3u8
 
 #EXTINF:-1,CH 25 | ER
@@ -1302,10 +1305,11 @@ http://thaicable.myftp.org:8000/live/infosat/2020/28.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/29.m3u8
 #EXTINF:-1,CH 30 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/30.m3u8
-#EXTINF:-1,CH 31
+#EXTINF:-1,CH 31 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/31.m3u8
 #EXTINF:-1,CH 32
 http://thaicable.myftp.org:8000/live/infosat/2020/32.m3u8
+#EXTINF:-1,CH 33
 http://thaicable.myftp.org:8000/live/infosat/2020/33.m3u8
 #EXTINF:-1,CH 34
 http://thaicable.myftp.org:8000/live/infosat/2020/34.m3u8
