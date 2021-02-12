@@ -229,9 +229,9 @@ http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD1 |mb13
 https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
 #EXTINF:-1,True Premiere Football HD2 |mb13
-https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
+https://app.mb13.men/c/livedo/truepremierfootball2-hd.m3u8
 #EXTINF:-1,True Premiere Football HD3 |mb13
-https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
+https://app.mb13.men/c/livedo/truepremierfootball3-hd.m3u8
 
 #EXTINF:-1,SUPERSPORT 1 |laos-tech
 https://laos-tech-live.b-cdn.net/my-asp1hd_720/index.m3u8
@@ -2685,33 +2685,38 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/65
 http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
 #EXTINF:-1,PREMIER 4 |hit
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/66
+https://app.mb13.men/c/livedo/truepremierfootball4-hd.m3u8
 http://ip2121.com:8081/at1/ENG4/playlist.m3u8
 #EXTINF:-1,PREMIER 5 |hit
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/67
+http://50.7.222.130:8278/streams/d/truepre5_pat/playlist.m3u8
 http://ip2121.com:8081/at1/ENG5/playlist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |160
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |160
+
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |bsb
 http://160.119.77.116:8081/iptv/bsb-epl1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |bsb
 http://160.119.77.116:8081/iptv/bsb-epl2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3",True Premiere Football HD3 |bsb
 http://160.119.77.116:8081/iptv/bsb-epl3.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/bsb-epl4.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball1-hd.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball2-hd.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3",True Premiere Football HD3 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball3-hd.m3u8
 http://185.238.0.145:1313/c/livedo/truepremierfootball4-hd.m3u8
 http://185.238.0.145:1313/c/livedo/truepremierfootball5-hd.m3u8
+
 http://185.238.0.145:1313/c/livedo/truepremierfootball1-sd.m3u8
 http://185.238.0.145:1313/c/livedo/truepremierfootball2-sd.m3u8
 http://185.238.0.145:1313/c/livedo/truepremierfootball3-sd.m3u8
 http://185.238.0.145:1313/c/livedo/truepremierfootball4-sd.m3u8
 http://185.238.0.145:1313/c/livedo/truepremierfootball5-sd.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |196
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |196
 http://196.53.248.18:8081/premiere/pre01/playlist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |196
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |196
 http://196.53.248.18:8081/premiere/pre02/playlist.m3u8
 http://196.53.248.18:8081/premiere/pre03/playlist.m3u8
 http://196.53.248.18:8081/premiere/pre04/playlist.m3u8
@@ -2721,13 +2726,13 @@ https://app.mb13.men/c/livedo/truepremierfootball1-sd.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |livedo
 https://app.mb13.men/c/livedo/truepremierfootball2-hd.m3u8
 https://app.mb13.men/c/livedo/truepremierfootball2-sd.m3u8
-#EXTINF:-1,PREMIER 3 |
+#EXTINF:-1,PREMIER 3 |livedo
 https://app.mb13.men/c/livedo/truepremierfootball3-hd.m3u8
 https://app.mb13.men/c/livedo/truepremierfootball3-sd.m3u8
-#EXTINF:-1,PREMIER 4 |
+#EXTINF:-1,PREMIER 4 |livedo
 https://app.mb13.men/c/livedo/truepremierfootball4-hd.m3u8
 https://app.mb13.men/c/livedo/truepremierfootball4-sd.m3u8
-#EXTINF:-1,PREMIER 5 |
+#EXTINF:-1,PREMIER 5 |livedo
 https://app.mb13.men/c/livedo/truepremierfootball5-hd.m3u8
 https://app.mb13.men/c/livedo/truepremierfootball5-sd.m3u8
 ,SKYNET EPL HD
@@ -2774,6 +2779,7 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/114
 #EXTINF:-1,Optus 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/115
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/385813.m3u8
+
 http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/275827.m3u8
 #EXTINF:-1,Optus 2
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/117
@@ -2791,14 +2797,14 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/122
 #EXTINF:-1,Optus 8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/123
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFyYLMJn/Zp4v1-Y-L-400x400.jpg",BT 1
-http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/124
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFyYLMJn/Zp4v1-Y-L-400x400.jpg",BT 2
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/125
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFyYLMJn/Zp4v1-Y-L-400x400.jpg",BT 3
-http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/126
+http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
 
 -/-/-/-/-/- offline -/-/-/-/-/
 
@@ -2809,17 +2815,12 @@ http://198.16.106.58:8278/supersports4/playlist.m3u8
 
 -/-/-/-/-/-
 
-#EXTINF:-1,FOX MOVIES |offline
-http://103.76.148.203:25461/live/EqyGiMlzsS/xvlVrI4VzZ/1.m3u8
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png",HBO
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png",HBO FAMILY
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png",HBO HITS
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cinemax.jpg",CINEMAX
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdR65sJb/red-by-hbo.png",RED
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png",HBO SIGNATURE
+http://vip3rtv.servebeer.com:8080/get.php?username=Buster&password=Buster&type=m3u
+Real Url: thejoysoflife.is-a-anarchist.com:8080     Status: Active    Created: 16/11/2019 11:40:17 PM     Expires: 24/2/2021 12:00:00 AM    Active Connections: 20     Maximum Connections: 599
+
 #EXTINF:-1,Spark 1
-http://vip3rtv.servebeer.com:8080/live/Buster/Buster/171460.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/127
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/385770.m3u8
 #EXTINF:-1,Spark 2
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/128
 #EXTINF:-1,Spark 3
@@ -2836,6 +2837,7 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/133
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/134
 #EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tv3.png",TV3
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/135
+http://50.7.222.130:8278/streams/d/TV3/playlist.m3u8
 
 + + + + + http://iptvhit.live/projectadrian/epg/Nixon/nvkgDOj4vI + + + + +
 
