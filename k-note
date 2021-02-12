@@ -380,36 +380,24 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252
 #EXTINF:-1 group-title="BamarTV",Party Tyme Karaoke
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 
- group-title="BamarTV",* live event 1 * nbcsn *
-https://dailyb0.s3.amazonaws.com/e1/1.m3u8
-* live event 2 * R1 *
-http://mafy.ddns.net:2082/TurkPortalGrup/Telegram/7264
- group-title="BamarTV",* live event 3 * nbcsn *
-https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/bbe355fc873a4b9fa03769748f2326f1/index3.m3u8
 http://103.145.12.195:8080/hls/streama145429/index.m3u8 < offline
-* live event 4 * off *
-https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/f66c9ac57cf0482ca54c5cdc86e68854/index4.m3u8
- group-title="BamarTV",live event 5: off
-https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/d1192d904efe496fa01cd23352cbe99b/index5.m3u8 < offline
- group-title="BamarTV",* live event 6 * nbcsn *
-http://a2.aliez.me:8080/hls/streama141886/index.m3u8
-* live event 7 * off *
-http://192.166.246.122/hls/ovostreamss.m3u8
-* live event 8 * off *
-https://bucketdaily02.s3.eu-west-2.amazonaws.com/e2/2.m3u8
-* live event 9 * off *
-https://bucketdaily02.s3.eu-west-2.amazonaws.com/e1/1.m3u8
-https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8 < N
 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8 < N
+http://192.166.246.122/hls/ovostreamss.m3u8
+http://a2.aliez.me:8080/hls/streama141886/index.m3u8
 http://ip2121.com:8081/at1/ENG3/chunks.m3u8 < N
-,S PremierLeague
-https://rebrand.ly/SPL-103
-,S PSL
-https://rebrand.ly/SPSL-103
-,S Action
+http://mafy.ddns.net:2082/TurkPortalGrup/Telegram/7264
+https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/bbe355fc873a4b9fa03769748f2326f1/index3.m3u8
+https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/d1192d904efe496fa01cd23352cbe99b/index5.m3u8 < offline
+https://bucketdaily02.s3.eu-west-2.amazonaws.com/e1/1.m3u8
+https://bucketdaily02.s3.eu-west-2.amazonaws.com/e2/2.m3u8
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/f66c9ac57cf0482ca54c5cdc86e68854/index4.m3u8
+https://dailyb0.s3.amazonaws.com/e1/1.m3u8
+https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8 < N
 https://rebrand.ly/SA-103
-,S Variety 2
+https://rebrand.ly/SPL-103
+https://rebrand.ly/SPSL-103
 https://rebrand.ly/SV2-103
+
 #EXTINF:-1 group-title="BamarTV", 80s party |loop.tv
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/1.m3u8
 
@@ -918,40 +906,51 @@ http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
 + + + + + TH/4digital.ddns.net + + + + +
 
-http://4digital.ddns.net:11220/ts/0
-http://4digital.ddns.net:11221/ts/0
-#EXTINF:-1 group-title="TH/4digit",11222
+#EXTINF:-1 group-title="TH/4digit",FOX MOVIES
 http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1,11223 | SKYNET SP HD
 http://4digital.ddns.net:11223/ts/0
-#EXTINF:-1 group-title="TH/4digit",11224
+#EXTINF:-1 group-title="TH/4digit",CINEMAX TH
 http://4digital.ddns.net:11224/ts/0
-http://4digital.ddns.net:11226/ts/0
-http://4digital.ddns.net:11227/ts/0
-http://4digital.ddns.net:11228/ts/0
-http://4digital.ddns.net:11229/ts/0
-#EXTINF:-1 group-title="TH/4digit",Cinemax
-http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248
-http://4digital.ddns.net:9981/play/stream/service/9d577e58dadc6f23bd8c76d21be8e248?title=Cinemax%20
-http://4digital.ddns.net:9981/play/stream/service/38d3c9236281bcd40829fde2744f78e4?title=FOX%20Action%20Movies
-http://4digital.ddns.net:9981/play/stream/service/cae8d79225fee492198d50159dcc6961?title=FOX%20Family%20Movies
-http://4digital.ddns.net:9981/play/stream/service/4befaab62f451a88f937a72304277db2?title=foxMoive
-http://4digital.ddns.net:9981/play/stream/service/c8c79f93a336289531cfe3555174925e?title=HBO%20Sig
-http://4digital.ddns.net:9981/play/stream/service/72f9cd112ecdfd3090a58fbe26514219?title=hbo%20hs
-http://4digital.ddns.net:9981/play/stream/service/f2ed7558641e7d795bc0f0902bbef7ae?title=History%20HD
 
-#EXTINF:-1 group-title="TH/4digit",NET SPORT HD
+http://4digital.ddns.net:9981/stream/service/0d1b94c02844e68a0bd30e1540f9301f?title=NGC%20HD
+http://4digital.ddns.net:9981/stream/service/0df4ac932e8840a7c0d88c5583d9e540?title=Warner%20%2F%20TTT
+http://4digital.ddns.net:9981/stream/service/1dbec728fd4c80b591761f1ff25a6277?title=hbo%20hit
+http://4digital.ddns.net:9981/stream/service/38d3c9236281bcd40829fde2744f78e4?title=FOX%20Action%20Movies
+http://4digital.ddns.net:9981/stream/service/4befaab62f451a88f937a72304277db2?title=foxMoive
+http://4digital.ddns.net:9981/stream/service/524c8ebc773cff38883b108e6ddb78b3?title=VIP%20HD1
+http://4digital.ddns.net:9981/stream/service/704686d970c7557d0b564ba2e208fe8f?title=Animal%20Planet
+http://4digital.ddns.net:9981/stream/service/72f9cd112ecdfd3090a58fbe26514219?title=hbo%20hs
+http://4digital.ddns.net:9981/stream/service/77e7c1ece637c9f7bbf0adf69b6c8184?title=encoder2
+http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248?title=Cinemax%20
+http://4digital.ddns.net:9981/stream/service/c8c79f93a336289531cfe3555174925e?title=HBO%20Sig
+http://4digital.ddns.net:9981/stream/service/cae8d79225fee492198d50159dcc6961?title=FOX%20Family%20Movies
+http://4digital.ddns.net:9981/stream/service/f2ed7558641e7d795bc0f0902bbef7ae?title=History%20HD
+http://4digital.ddns.net:9981/stream/service/f744298928a1d0b2831247b1a97e4912?title=VIP%20HD3
+http://4digital.ddns.net:9981/stream/service/47c84ee02762feb71ba59ba4f6ba4b7e?title=FOX%20Life
+http://4digital.ddns.net:9981/stream/service/47c84ee02762feb71ba59ba4f6ba4b7e?ticket=7205E419157062EDF74D61753F445FD75EA395C0
+
+#EXTINF:-1 group-title="TH/4digit",FOX MOVIES |4digit
+http://4digital.ddns.net:9981/stream/service/524c8ebc773cff38883b108e6ddb78b3?title=VIP%20HD1
+
+#EXTINF:-1 group-title="TH/4digit",NET SPORT HD |4digit
+http://4digital.ddns.net:9981/stream/service/77e7c1ece637c9f7bbf0adf69b6c8184?title=encoder2
+#EXTINF:-1 group-title="TH/4digit",NET SPORT HD* |4digit
 http://4digital.ddns.net:9981/stream/service/0ce306a5da35cefee8db8298ee7d8258
 http://4digital.ddns.net:9981/play/stream/service/0ce306a5da35cefee8db8298ee7d8258?title=VIP2
-#EXTINF:-1 group-title="TH/4digit",True Premier Football HD1
+
+#EXTINF:-1 group-title="TH/4digit",True Premier Football HD1 |4digit
 http://4digital.ddns.net:9981/stream/service/d396adf06388c6a42aed5805744dd446
 http://4digital.ddns.net:9981/play/stream/service/d396adf06388c6a42aed5805744dd446?title=VIP%20HD3
 
 #EXTINF:-1,Animal Planet |4digit
 http://4digital.ddns.net:9981/stream/mux/dbcd6e154bc899418914ef436e6ae4d9
-#EXTINF:-1,CINEMAX |4digit
+#EXTINF:-1,CINEMAX* |4digit
 http://4digital.ddns.net:9981/stream/mux/eb556a2e43611f10ba7caed40a2f9acd
 http://4digital.ddns.net:9981/stream/mux/379e46234c7dce33396b09a49a68fd8a?title=FOX%20Family%20Movies%20%2F%20xtream
+#EXTINF:-1,Cinemax |4digit
+http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248
+http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248?title=Cinemax%20
 #EXTINF:-1, CINEMAX
 http://4digital.ddns.net:9981/stream/service/d396adf06388c6a42aed5805744dd446?ticket=238862B3A10D3E6057FE446BBE5BDCB13ACC66F3
 #EXTINF:-1,FOX MOVIES |4digit
@@ -975,8 +974,9 @@ http://4digital.ddns.net:9981/stream/service/c8c79f93a336289531cfe3555174925e?ti
 http://4digital.ddns.net:9981/stream/service/1dbec728fd4c80b591761f1ff25a6277?ticket=B04DE750DD8114341E5D3D8A43AFBB79E26BCAA4
 #EXTINF:-1, HBO TH
 http://4digital.ddns.net:9981/stream/service/72f9cd112ecdfd3090a58fbe26514219?ticket=645732534EB5294AC86F05959CE70AEEF0C2532A
-#EXTINF:-1 group-title="TH/4digit", Foxlife
-http://4digital.ddns.net:9981/stream/service/47c84ee02762feb71ba59ba4f6ba4b7e?ticket=7205E419157062EDF74D61753F445FD75EA395C0
+
+#EXTINF:-1 group-title="TH/4digit", WarnerTV
+http://4digital.ddns.net:9981/stream/service/0df4ac932e8840a7c0d88c5583d9e540?title=Warner%20%2F%20TTT
 
 + + + + + http://196.53.249.42:9981/extjs.html / https://rebrand.ly/sn-hd-196 + + + + +
 
