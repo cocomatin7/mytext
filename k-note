@@ -972,6 +972,8 @@ http://4digital.ddns.net:9981/stream/service/d396adf06388c6a42aed5805744dd446?ti
 
 #EXTINF:-1,fox Moive |4digit
 http://4digital.ddns.net:9981/stream/service/4befaab62f451a88f937a72304277db2?title=foxMoive
+#EXTINF:-1,FOX MOVIES |4digit
+http://4digital.ddns.net:9981/stream/service/524c8ebc773cff38883b108e6ddb78b3?ticket=21EF2F1848D2EC1476A7253805F9EDB8755D5B63
 #EXTINF:-1,fox Moive* |4digit
 http://4digital.ddns.net:9981/stream/mux/cd0886c1728b12540c5c9641f7f49e71?title=foxMoive%20%2F%20xtream
 
@@ -1226,7 +1228,6 @@ http://thaicable.myftp.org:8000/live/infosat/2020/3.m3u8
 #EXTINF:-1,CH 4 | BOX FILM
 http://thaicable.myftp.org:8000/live/infosat/2020/4.m3u8
 
-
 #EXTINF:-1,CH 5 | CTB
 http://thaicable.myftp.org:8000/live/infosat/2020/5.m3u8
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
@@ -1239,13 +1240,16 @@ http://61.19.242.134/feed/LC1/index.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/7.m3u8
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
-#EXTINF:-1,CH 8 | NET SPORT HD
+#EXTINF:-1,CH 8 | EPL 1
 http://thaicable.myftp.org:8000/live/infosat/2020/8.m3u8
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 
-#EXTINF:-1,CH 9 | True Premier Football HD1
+#EXTINF:-1,CH 9 | TSports
 http://thaicable.myftp.org:8000/live/infosat/2020/9.m3u8
-#EXTINF:-1,CH 10 | SUPERSPORT 1
+
+#EXTINF:-1,CH 10 | SUPERSPORT
 http://thaicable.myftp.org:8000/live/infosat/2020/10.m3u8
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 
 #EXTINF:-1,CH 11 | SUPERSPORT 2
 http://thaicable.myftp.org:8000/live/infosat/2020/11.m3u8
@@ -1255,11 +1259,14 @@ http://thaicable.myftp.org:8000/live/infosat/2020/12.m3u8
 
 #EXTINF:-1,CH 13 | SUPERSPORT 4
 http://thaicable.myftp.org:8000/live/infosat/2020/13.m3u8
-#EXTINF:-1,CH 14 | ER
+
+#EXTINF:-1,CH 14 | FOX MOVIES
 http://thaicable.myftp.org:8000/live/infosat/2020/14.m3u8
+
 #EXTINF:-1,CH 15 | FOX ACTION
 http://thaicable.myftp.org:8000/live/infosat/2020/15.m3u8
 http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
+
 #EXTINF:-1,CH 16 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/16.m3u8
 #EXTINF:-1,CH 17 | Foxlife
