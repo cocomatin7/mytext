@@ -3049,11 +3049,6 @@ http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
 
 + + + + + 50.7.222.130:8278 + + + + +
 
-#EXTINF:-1 tvg-id="Astro SuperSport" group-title="50.7",Assp |50.7
-#EXTINF:-1 tvg-id="Astro SuperSport 2",Assp2 |50.7
-#EXTINF:-1 tvg-id="Astro SuperSport 3",Assp3 |50.7
-#EXTINF:-1 tvg-id="Astro SuperSport 4" group-title="50.7",Assp4 |50.7
-
 + + + + + 54.37.82.205:8081 + + + + +
 
 + + + + + 139.99.17.52:8081* / dooball66.com* + + + + +
@@ -5881,16 +5876,24 @@ https://www.livedoomovie.com/02_NHANG_DUNK_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_Nick_Jr_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
- tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1* |doomovie'
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1* |doomovie'
 https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 https://sport.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |doomovie'
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2* |doomovie'
+https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |doomovie'
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD3* |doomovie'
+https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD3 |doomovie'
 https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+
 https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD5_720p/Chunklist.m3u8
 ,Red by HBO |doomovie'
