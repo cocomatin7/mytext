@@ -210,6 +210,15 @@ http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1,SUPERSPORT 4 |50
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
+#EXTINF:-1,True Premiere Football HD1 |50
+http://50.7.222.130:8278/streams/d/truepre1_pat/playlist.m3u8
+#EXTINF:-1,True Premiere Football HD2 |50
+http://50.7.222.130:8278/streams/d/truepre2_pat/playlist.m3u8
+#EXTINF:-1,True Premiere Football HD3 |50
+http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
+#EXTINF:-1,True Premiere Football HD4 |50
+http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
+
 #EXTINF:-1,True Premiere Football HD1 |77
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD2 |77
@@ -1253,6 +1262,7 @@ http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 
 #EXTINF:-1,CH 11 | SUPERSPORT 2
 http://thaicable.myftp.org:8000/live/infosat/2020/11.m3u8
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 
 #EXTINF:-1,CH 12 | SUPERSPORT 3
 http://thaicable.myftp.org:8000/live/infosat/2020/12.m3u8
@@ -2572,6 +2582,7 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/109
 https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
 #EXTINF:-1,ASSP1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/54
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 http://vp2p2s.my6868.cc/20414/index.m3u8
 #EXTINF:-1,ASSP2
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/55
@@ -2662,13 +2673,16 @@ https://cdnjt25.useetv.com/dass/15/foxsport2/chunklist_b1344100_sleng_.m3u8
 #EXTINF:-1,FOX SPORTS 3
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/62
 https://cdnjt25.useetv.com/dass/15/foxsport3/chunklist9_b1344100_sleng_.m3u8
+
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |hit
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/63
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |hit
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/64
 http://ip2121.com:8081/at1/ENG2/playlist.m3u8
 #EXTINF:-1,PREMIER 3 |hit
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/65
+http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
 #EXTINF:-1,PREMIER 4 |hit
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/66
 http://ip2121.com:8081/at1/ENG4/playlist.m3u8
@@ -8646,10 +8660,7 @@ http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+
 http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/playlist.m3u8
