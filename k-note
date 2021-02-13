@@ -276,37 +276,53 @@ http://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD3 |livedoo
 http://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:-1,GVIP CH1
+,GVIP CH1
 http://phoenixzoon.goodviping.xyz/live/CH1/index.m3u8
-#EXTINF:-1,GVIP CH2
+,GVIP CH2
 http://phoenixzoon.goodviping.xyz/live/CH2/index.m3u8
 http://phoenixzoon.goodviping.xyz/live/CH3/index.m3u8
-#EXTINF:-1,GVIP CH4
+,GVIP CH4
 http://phoenixzoon.goodviping.xyz/live/CH4/index.m3u8
 http://phoenixzoon.goodviping.xyz/live/CH5/index.m3u8
 
-#EXTINF:-1,HDS CH 1
+,HDS CH 1
 http://cdn7.hhdstreams.club/live/abr_ch1/live/ch1_720p/chunks.m3u8
-#EXTINF:-1,HDS CH 2
+,HDS CH 2
 http://cdn7.hhdstreams.club/live/abr_ch2/live/ch2_720p/chunks.m3u8
-#EXTINF:-1,HDS CH 3
+,HDS CH 3
 http://cdn7.hhdstreams.club/live/abr_ch3/live/ch3_720p/chunks.m3u8
-#EXTINF:-1,HDS CH 4
+,HDS CH 4
 http://cdn7.hhdstreams.club/live/abr_ch4/live/ch4_720p/chunks.m3u8
 http://cdn7.hhdstreams.club/live/abr_ch5/live/ch5_720p/chunks.m3u8
 
 #EXTINF:-1,OVO L1
 http://192.166.246.122/hls/live1.m3u8
+
 #EXTINF:-1,OVO S1
 http://192.166.246.122/hls/ovostreamss1.m3u8
 
+http://192.166.246.122/hls/ovostreams5.m3u8
+http://192.166.246.122/hls/ovostreams12.m3u8
+
+#EXTINF:-1,OVO 2
+http://192.166.246.122/hls/ovo2.m3u8
+
 #EXTINF:-1, NBCSN LIVE
+https://dailysportbucket71.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 https://dailysportbucket41.s3.eu-west-2.amazonaws.com/e1/1.m3u8
+
 #EXTINF:-1, live 1
+https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/b7120065d50d48b5b237407793c2c221/index1.m3u8
+https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/1c684fefc6864ef2b0259b5e568b70c8/index1.m3u8
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/a51a7210c7904f41afb07feb17ca9652/index1.m3u8
-#EXTINF:-1, NBCSN LIVE *
+
+, NBCSN LIVE *
 https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/za5cq0ormjrr93u.m3u8?s=OMrxGFA-fGzYWJDWukVijA&e=1612724087
-#EXTINF:-1, BT SPORT 3 LIVE *
+
+#EXTINF:-1, CNBC LIVE
+https://afdfadsds.global.ssl.fastly.net/LiveApp/streams/630825105027713152264570.m3u8
+
+, BT SPORT 3 LIVE *
 https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/f2s41vu1evpyi2.m3u8?s=BFnbvI6UjrXV2t-rnwyxTg&e=1612724082
 
 #EXTINF:-1, S EPL
