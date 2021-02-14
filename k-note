@@ -1848,16 +1848,19 @@ true sports HD2
 http://36.37.252.114:888/Apple/OneTV-034/playlist.m3u8
 #EXTINF:-1,astro SUPERSPORT |OneTV
 http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
+3HD
 http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
+7HD
 http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
+HiT TV
 http://36.37.252.114:888/Apple/OneTV-038/playlist.m3u8
-ariang |OneTV
+#EXTINF:-1,ariang |OneTV
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 #EXTINF:-1 group-title="OneTV",KBS WORLD |OneTV
 http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 CH 1
 http://36.37.252.114:888/Apple/OneTV-041/playlist.m3u8
-offline
+truesport HD3
 http://36.37.252.114:888/Apple/OneTV-042/playlist.m3u8
 #EXTINF:-1 group-title="OneTV",astro SUPERSPORT2 |OneTV
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
@@ -1869,7 +1872,7 @@ THVL 1
 http://36.37.252.114:888/Apple/OneTV-046/playlist.m3u8
 euronews
 http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
-aljazia
+offline
 http://36.37.252.114:888/Apple/OneTV-048/playlist.m3u8
 frence 24
 http://36.37.252.114:888/Apple/OneTV-049/playlist.m3u8
@@ -1877,15 +1880,22 @@ offline
 http://36.37.252.114:888/Apple/OneTV-050/playlist.m3u8
 offline
 http://36.37.252.114:888/Apple/OneTV-051/playlist.m3u8
+TV5MONDE
 http://36.37.252.114:888/Apple/OneTV-052/playlist.m3u8
+DW
 http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-054/playlist.m3u8
+#EXTINF:-1,astro SUPERSPORT* |OneTV
 http://36.37.252.114:888/Apple/OneTV-055/playlist.m3u8
+REDBULL 
 http://36.37.252.114:888/Apple/OneTV-056/playlist.m3u8
+RT
 http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8
+truesport HD4
 http://36.37.252.114:888/Apple/OneTV-058/playlist.m3u8
 #EXTINF:-1 group-title="OneTV",FTV |OneTV
 http://36.37.252.114:888/Apple/OneTV-059/playlist.m3u8
+#EXTINF:-1,eu music |OneTV
 http://36.37.252.114:888/Apple/OneTV-060/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-061/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-062/playlist.m3u8
@@ -1920,10 +1930,15 @@ http://36.37.252.114:888/Apple/OneTV-087/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-088/playlist.m3u8
 offline
 http://36.37.252.114:888/Apple/OneTV-089/playlist.m3u8
+#EXTINF:-1,CN |OneTV
+http://36.37.252.114:888/Apple/OneTV-090/playlist.m3u8
 -/-/-/-offline-/-/-/-
 http://36.37.252.114:888/Apple/OneTV-099/playlist.m3u8
-#EXTINF:-1 group-title="OneTV",CNN
+#EXTINF:-1,CNN |OneTV
 http://36.37.252.114:888/Apple/OneTV-100
+#EXTINF:-1 group-title="OneTV",NET GEO |OneTV
+http://36.37.252.114:888/Apple/OneTV-101
+http://36.37.252.114:888/Apple/OneTV-112
 http://36.37.252.114:888/Apple/OneTV-113
 K+1
 http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
