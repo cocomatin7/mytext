@@ -1932,8 +1932,10 @@ http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png" group-title="SG",Channel News Asia | d2k
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png", CNA HD*
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png", CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png", CNA HD*
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
  tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png",Channel News Asia
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master.m3u8
 #EXTINF:-1 group-title="SG",8新闻台
