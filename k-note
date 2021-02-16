@@ -425,6 +425,39 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252
 #EXTINF:-1 group-title="BamarTV",Party Tyme Karaoke
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 
+#EXTINF:-1,UseeSports 1
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-useesport
+#EXTINF:-1,UseeSports 2
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-useesports2
+#EXTINF:-1,Bein Sport 1
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-bein1
+#EXTINF:-1,bein Sport 2
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-bein2
+#EXTINF:-1,Fox Sport 1
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-foxsport1
+#EXTINF:-1,Fox Sport 2
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-foxsport2
+#EXTINF:-1,Fox Sport 3
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-foxsport3
+#EXTINF:-1,KBS World
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-kbsworld
+#EXTINF:-1,HBO
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hbo
+#EXTINF:-1,HBO SIGNATURE
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-sig
+#EXTINF:-1,HBO FAMILY
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-fam
+#EXTINF:-1,HBO HITS
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hits
+#EXTINF:-1,HBO RED
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-red
+#EXTINF:-1,CINEMAX by HBO
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-max
+#EXTINF:-1,CNN International
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-cnninternational
+#EXTINF:-1,Bloomberg
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-blomberg
+
 http://103.145.12.195:8080/hls/streama145429/index.m3u8 < offline
 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8 < N
 http://192.166.246.122/hls/ovostreamss.m3u8
