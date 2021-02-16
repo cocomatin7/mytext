@@ -180,11 +180,25 @@ http://203.81.84.130/hls/mwd_variety/index.m3u8
 
 + + + + + BamarTV + + + + +
 
+http://103.105.213.251:8443/live/17c48a5e57f0ea637f07d6a5f6c81406/8.m3u8
+#EXTINF:-1 group-title="103.105",WB TV
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/21.m3u8
+Livetime
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/55.m3u8
+Blueant
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/56.m3u8
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/57.m3u8
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/58.m3u8
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/59.m3u8
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/60.m3u8
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/61.m3u8
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/62.m3u8
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/63.m3u8
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/64.m3u8
+#EXTINF:-1 group-title="103.105",MTV Live HD
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/65.m3u8
+
+http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/66.m3u8
 
 #EXTINF:-1 group-title="BamarTV/Sport",True Premiere Football HD1 |160
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
