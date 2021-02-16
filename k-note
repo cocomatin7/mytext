@@ -180,6 +180,12 @@ http://203.81.84.130/hls/mwd_variety/index.m3u8
 
 + + + + + BamarTV + + + + +
 
+http://tv.wakds.xyz:8080/get.php?username=Iptvlive&password=iptvlive08&type=m3u
+Real Url: tv.wakds.xyz:8080     Status: Active    Created: 8/2/2021 3:25:36 PM     Expires: 10/3/2021 4:00:00 PM    Active Connections: 34     Maximum Connections: 150
+
+http://7paus.club:80/get.php?username=RestreamTVsuperTV20&password=C1LjRPsAtrfQ&type=m3u
+Real Url: 7paus.club:80     Status: Active    Created: 30/12/2020 6:50:54 PM     Expires: Null    Active Connections: 13     Maximum Connections: 20
+
 http://103.105.213.251:8443/live/17c48a5e57f0ea637f07d6a5f6c81406/8.m3u8
 #EXTINF:-1 group-title="103.105",WB TV
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/21.m3u8
@@ -295,6 +301,541 @@ http://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 http://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD3 |livedoo
 http://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1,SKYSPORTS GOLF
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555933
+#EXTINF:-1,SKYSPORTS RACES
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555934
+#EXTINF:-1,SKYSPORTS ARENA
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555935
+#EXTINF:-1,SKYSPORTS MAINEVENT
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555936
+#EXTINF:-1,SKYSPORTS EPL
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555937
+#EXTINF:-1,SKYSPORTS FOOTBALL
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555938
+#EXTINF:-1,EUROSPORT1
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555939
+#EXTINF:-1,EUROSPORT2
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555940
+#EXTINF:-1,BEIN SPORT ID 1
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555885
+#EXTINF:-1,BEIN SPORT ID 2
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555886
+#EXTINF:-1,BEIN1 ASIA
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555887
+#EXTINF:-1,BEIN2 ASIA
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555888
+#EXTINF:-1,BEIN SPORTS1 SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555889
+#EXTINF:-1,BEIN SPORTS1 SD BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555890
+#EXTINF:-1,BEIN SPORTS2 SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555891
+#EXTINF:-1,BEIN SPORTS2 SD BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555892
+#EXTINF:-1,BEIN SPORTS 3 SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555893
+#EXTINF:-1,BEIN SPORTS 3 SD BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555894
+#EXTINF:-1,BEIN SPORTS 4 SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555895
+#EXTINF:-1,BEIN SPORTS 4 SD BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555896
+#EXTINF:-1,BEIN SPORTS 5 SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555897
+#EXTINF:-1,BEIN SPORTS 5 SD BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555898
+#EXTINF:-1,BEIN SPORTS 6 SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555899
+#EXTINF:-1,BEIN SPORTS 6 SD BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555900
+#EXTINF:-1,BEIN SPORTS 7 SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555901
+#EXTINF:-1,BEIN SPORTS 7 SD BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555902
+#EXTINF:-1,BEIN SPORTS 8 SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555903
+#EXTINF:-1,BEIN SPORTS 8 SD BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555904
+#EXTINF:-1,BEIN SPORTS 9 SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555905
+#EXTINF:-1,BEIN SPORTS 10 SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555906
+#EXTINF:-1,BEIN SPORTS1 HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555907
+#EXTINF:-1,BEIN SPORTS1 HD BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555908
+#EXTINF:-1,BEIN SPORTS2 HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555909
+#EXTINF:-1,BEIN SPORTS2 HD BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555910
+#EXTINF:-1,BEIN SPORTS 3 HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555911
+#EXTINF:-1,BEIN SPORTS 3 HD BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555912
+#EXTINF:-1,BEIN SPORTS 4 HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555913
+#EXTINF:-1,BEIN SPORTS 4 HD BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555914
+#EXTINF:-1,BEIN SPORTS 5 HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555915
+#EXTINF:-1,BEIN SPORTS 5 HD BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555916
+#EXTINF:-1,BEIN SPORTS 6 HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555917
+#EXTINF:-1,BEIN SPORTS 6 HD BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555918
+#EXTINF:-1,BEIN SPORTS 7 HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555919
+#EXTINF:-1,BEIN SPORTS 7 HD BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555920
+#EXTINF:-1,BEIN SPORTS 8 HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555921
+#EXTINF:-1,BEIN SPORTS 8 HD BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555922
+#EXTINF:-1,BEIN SPORTS 9 HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555923
+#EXTINF:-1,BEIN SPORTS H0 SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555924
+#EXTINF:-1,BEIN SPORT FR1
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555925
+#EXTINF:-1,BEIN SPORT FR2
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555926
+#EXTINF:-1,BEIN SPORT FR3
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555927
+#EXTINF:-1,BEIN SPORT MAX4
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555928
+#EXTINF:-1,BEIN SPORT MAX5
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555929
+#EXTINF:-1,BEIN SPORT MAX6
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555930
+#EXTINF:-1,TRUE PRIMIER1
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555941
+#EXTINF:-1,TRUE PRIMIER2
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555942
+http://160.119.77.116:8081/iptv/epl-2.stream/chunks.m3u8
+#EXTINF:-1,TRUE PRIMIER3
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555943
+#EXTINF:-1,TRUE PRIMIER4
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555944
+#EXTINF:-1,TRUE PRIMIER5
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555945
+#EXTINF:-1,DA VINCI LEANING
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555946
+#EXTINF:-1,DREAMWORK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555947
+#EXTINF:-1,ZOOMOO
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555948
+#EXTINF:-1,ZOOMO SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555949
+#EXTINF:-1,NICKELODEON
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555950
+#EXTINF:-1,NICKJR
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555951
+#EXTINF:-1,CARTOON NETWORK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555952
+#EXTINF:-1,BABY FIRST
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555953
+#EXTINF:-1,BKIDS
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555954
+#EXTINF:-1,BOOMERANG
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555955
+#EXTINF:-1,DUNIA ANAK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555956
+#EXTINF:-1,HOOREE
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555957
+#EXTINF:-1,DUCKTV
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555958
+#EXTINF:-1,HIP HOP HOREE
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555959
+#EXTINF:-1,AniPlus
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555960
+#EXTINF:-1,Aniplus 2
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555961
+#EXTINF:-1,MYKIDS
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555962
+#EXTINF:-1,MYKIDS 2
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555963
+#EXTINF:-1,Animax
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555964
+#EXTINF:-1,Animax2
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555965
+#EXTINF:-1,SPACETOON
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555966
+#EXTINF:-1,LIFESTYLE
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555967
+#EXTINF:-1,RTP
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555968
+#EXTINF:-1,CITRA ENTERTAIMENT
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555969
+#EXTINF:-1,K+
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555970
+#EXTINF:-1,CRIME & INVESTIGATION
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555971
+#EXTINF:-1,EAT&GO
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555972
+#EXTINF:-1,INSERT
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555973
+#EXTINF:-1,showbiz
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555974
+#EXTINF:-1,leaning & knowledge
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555975
+#EXTINF:-1,liFe & style
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555976
+#EXTINF:-1,FOX CRIME
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555977
+#EXTINF:-1,CHINASE DRAMA
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555978
+#EXTINF:-1,SONY GEM SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555979
+#EXTINF:-1,DRAKORPLUS
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555980
+#EXTINF:-1,SINEMA INDONESIA
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555981
+#EXTINF:-1,CELESTIAL MOVIE
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555982
+#EXTINF:-1,CELESTIAL MOVIE 2
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555983
+#EXTINF:-1,KIX
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555984
+#EXTINF:-1,KIX 2
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555985
+#EXTINF:-1,ZEEBIOSKOP
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555986
+#EXTINF:-1,ZEEBIOSKOP 2
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555987
+#EXTINF:-1,thrill
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555988
+#EXTINF:-1,thrill 2
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555989
+#EXTINF:-1,MY CINEMA
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555990
+#EXTINF:-1,MY CINEMA BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555991
+#EXTINF:-1,CINEMA WORLD ID
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555992
+#EXTINF:-1,MOVIE HITS
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555993
+#EXTINF:-1,HIT
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555994
+#EXTINF:-1,DIVA
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555995
+#EXTINF:-1,AXN
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555996
+#EXTINF:-1,K-DRAMA
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555997
+#EXTINF:-1,SONY ONE HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555998
+#EXTINF:-1,Cinemax HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214555999
+#EXTINF:-1,Cinemax
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556000
+#EXTINF:-1,Cinemax BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556001
+#EXTINF:-1,Cinemax SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556002
+#EXTINF:-1,HBO HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556003
+#EXTINF:-1,HBO
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556004
+#EXTINF:-1,HBO BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556005
+#EXTINF:-1,HBO SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556006
+#EXTINF:-1,HBO Hits HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556007
+#EXTINF:-1,HBO Hits
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556008
+#EXTINF:-1,HBO Hits BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556009
+#EXTINF:-1,HBO Hits SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556010
+#EXTINF:-1,HBO Signature HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556011
+#EXTINF:-1,HBO Signature
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556012
+#EXTINF:-1,HBO Signature SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556013
+#EXTINF:-1,HBO Family HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556014
+#EXTINF:-1,HBO Family
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556015
+#EXTINF:-1,HBO Family BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556016
+#EXTINF:-1,HBO Family SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556017
+#EXTINF:-1,Red By HBO
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556018
+#EXTINF:-1,Red by HBO 2
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556019
+#EXTINF:-1,FOX
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556020
+#EXTINF:-1,FOX BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556021
+#EXTINF:-1,Fox Action Movies
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556022
+#EXTINF:-1,Fox Action Movies Back
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556023
+#EXTINF:-1,Fox Movies
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556024
+#EXTINF:-1,Fox Movies Back
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556025
+#EXTINF:-1,FOX Movies Asia
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556026
+#EXTINF:-1,TVN
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556027
+#EXTINF:-1,TVN Movies
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556028
+#EXTINF:-1,FLIX
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556029
+#EXTINF:-1,WARNER TV
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556030
+
+#EXTINF:-1,MOVIE NOW
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556038
+#EXTINF:-1,MOVIE KINGDOM
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556039
+#EXTINF:-1,MNX MOVIE
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556040
+#EXTINF:-1,MGM
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556041
+#EXTINF:-1,FOX Family Movie
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556042
+#EXTINF:-1,FOX Family Movie back
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556043
+#EXTINF:-1,Fox Family Movies Asia
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556044
+#EXTINF:-1,FLIXHD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556045
+#EXTINF:-1,HI INDO
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556046
+#EXTINF:-1,HORROR MOVIE
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556047
+#EXTINF:-1,Sony Movies Action
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556048
+#EXTINF:-1,SINEMA INDONESIA X
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556049
+#EXTINF:-1,LOVE4NATURE
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556050
+#EXTINF:-1,LOVE4NATURE SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556051
+#EXTINF:-1,SMITHSONIAN
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556052
+#EXTINF:-1,SMITHSONIAN SD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556053
+#EXTINF:-1,BBC EART
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556054
+#EXTINF:-1,BBC EART BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556055
+#EXTINF:-1,SCIENCE
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556056
+#EXTINF:-1,NATGEO WILD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556057
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556058
+#EXTINF:-1,TLC
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556059
+#EXTINF:-1,discovery
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556060
+#EXTINF:-1,discovery Asia
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556061
+#EXTINF:-1,HISTORY
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556062
+#EXTINF:-1,ANIMAL PLANET
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556063
+#EXTINF:-1,NATGEOPEOPLE
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556064
+#EXTINF:-1,AFN
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556065
+#EXTINF:-1,LIFETIME
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556066
+#EXTINF:-1,OUTDOR
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556067
+#EXTINF:-1,BLUE EXTREAME
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556068
+#EXTINF:-1,BLUE ANT INTERTAIMENT
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556069
+#EXTINF:-1,E!
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556070
+#EXTINF:-1,NHK World
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556071
+#EXTINF:-1,DW TV
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556072
+#EXTINF:-1,ZEECINEMA
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556073
+#EXTINF:-1,B4U PLUS
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556074
+#EXTINF:-1,PRIVETV HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556075
+#EXTINF:-1,STARGOLD HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556076
+#EXTINF:-1,ZEETV
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556077
+#EXTINF:-1,ZEETV 1
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556078
+#EXTINF:-1,STARBHARAT HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556079
+#EXTINF:-1,STARPLUS HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556080
+#EXTINF:-1,COLORSHD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556081
+#EXTINF:-1,WWE
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556082
+#EXTINF:-1,GAME MAXX
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556083
+#EXTINF:-1,STARGOLD SELECT
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556084
+#EXTINF:-1,B4U KARAK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556085
+#EXTINF:-1,SONY HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556086
+#EXTINF:-1,HBO
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556087
+#EXTINF:-1,SONYSAB HD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556088
+#EXTINF:-1,HINDI
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556089
+#EXTINF:-1,ZEEBOLLYWOOD
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556090
+#EXTINF:-1,ZEEBOLLYWOOD NOW
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556091
+#EXTINF:-1,Aaj Tak
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556092
+#EXTINF:-1,B4U Music
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556093
+#EXTINF:-1,Hungama Digital
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556094
+#EXTINF:-1,Raj TV
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556095
+#EXTINF:-1,Sun TV
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556096
+#EXTINF:-1,Sun Music
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556097
+#EXTINF:-1,Kalaignar
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556098
+#EXTINF:-1,Makkal
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556099
+#EXTINF:-1,Moon TV
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556100
+#EXTINF:-1,Thanthi
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556101
+#EXTINF:-1,MalaiMurasu Seithigal
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556102
+#EXTINF:-1,SVBC 2
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556103
+#EXTINF:-1,ABP à¦†à¦¨à¦¨à§à¦¦
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556104
+#EXTINF:-1,Channel T1
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556105
+#EXTINF:-1,Balle Balle
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556106
+#EXTINF:-1,Boogle Bollywood
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556107
+#EXTINF:-1,Channel Akkal
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556108
+#EXTINF:-1,DD Punjabi
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556109
+#EXTINF:-1,MH One
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556110
+#EXTINF:-1,MH1 Prime
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556111
+#EXTINF:-1,Pitaara
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556112
+#EXTINF:-1,Asianet
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556113
+#EXTINF:-1,Asianet News
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556114
+#EXTINF:-1,Asianet Plus
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556115
+#EXTINF:-1,DD Malayalam
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556116
+#EXTINF:-1,Flowers
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556117
+#EXTINF:-1,Jaihind
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556118
+#EXTINF:-1,Mazhavil Manorama
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556119
+#EXTINF:-1,Kairali
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556120
+#EXTINF:-1,Kappa TV
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556121
+#EXTINF:-1,Kaumudy
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556122
+#EXTINF:-1,92 News
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556123
+#EXTINF:-1,ARY Musik
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556124
+#EXTINF:-1,ARY Zindagi
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556125
+#EXTINF:-1,Kay2
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556126
+#EXTINF:-1,Venus
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556127
+#EXTINF:-1,Madani TV
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556128
+#EXTINF:-1,RTM SPORT
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556129
+#EXTINF:-1,RTM SPORT BACK
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556130
+#EXTINF:-1,ASTRO AWANI
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556131
+#EXTINF:-1,ASTRO CERIA
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556132
+#EXTINF:-1,IKIM
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556133
+#EXTINF:-1,ASTRO AEC
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556134
+#EXTINF:-1,ASTRO PRIMA
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556135
+#EXTINF:-1,PERTIWI
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556136
+#EXTINF:-1,NAURA
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556137
+#EXTINF:-1,HELLO
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556138
+#EXTINF:-1,RTM
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556139
+#EXTINF:-1,ASTRO GO SHOP
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556140
+#EXTINF:-1,OKEY
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556141
+#EXTINF:-1,TV1
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556142
+#EXTINF:-1,TV2
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556143
+#EXTINF:-1,TV3
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556144
+#EXTINF:-1,ASTRO BOO
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556145
+#EXTINF:-1,RANIA
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556146
+#EXTINF:-1,CITRA
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556147
+#EXTINF:-1,OASIS
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556148
+#EXTINF:-1,ASTRO BOLLYONE
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556149
+#EXTINF:-1,ASTRO SHUANG XING
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556150
+#EXTINF:-1,ASTRO QUAN JIA
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556151
+#EXTINF:-1,ASTRO VAANAVIL
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556152
+#EXTINF:-1,ASTRO VINMEEN
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556153
+#EXTINF:-1,ASTRO VASANTHAM
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556154
+#EXTINF:-1,AEC
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556155
+#EXTINF:-1,RIA
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556156
+#EXTINF:-1,CERIA
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556157
+#EXTINF:-1,DRAMA SANGAT
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556158
+#EXTINF:-1,WARNA
+https://m3u-editor.com/serve/99fb3510-6f3a-11eb-9f7c-6fe1fbf0323b/214556159
 
 ,GVIP CH1
 http://phoenixzoon.goodviping.xyz/live/CH1/index.m3u8
