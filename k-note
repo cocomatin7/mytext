@@ -871,7 +871,8 @@ http://192.166.246.122/hls/ovostreams12.m3u8
 http://77.247.109.116/hls/ovo2.m3u8
 http://192.166.246.122/hls/ovo2.m3u8
 
-#EXTINF:-1, NBCSN LIVE
+#EXTINF:-1, NBCSN Live
+https://dailybar2.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 https://dailysportbucket71.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 https://dailysportbucket41.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 
