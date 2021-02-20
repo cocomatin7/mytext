@@ -1551,15 +1551,23 @@ http://4digital.ddns.net:9981/stream/service/47c84ee02762feb71ba59ba4f6ba4b7e?ti
 
 #EXTINF:-1 group-title="TH/4digit", VIP HD1 / FOX MOVIES |4digit
 http://4digital.ddns.net:9981/stream/service/524c8ebc773cff38883b108e6ddb78b3?title=VIP%20HD1
+http://4digital.ddns.net:9981/play/stream/service/524c8ebc773cff38883b108e6ddb78b3?title=VIP%20HD1
 #EXTINF:-1 group-title="TH/4digit", VIP HD1 / FOX MOVIES* |4digit
 http://4digital.ddns.net:9981/stream/mux/9cf0b005756711872510792c2700d4a6?title=VIP%20HD1%20%2F%20xtream
+http://4digital.ddns.net:9981/play/stream/mux/9cf0b005756711872510792c2700d4a6?title=VIP%20HD1%20%2F%20xtream
 VIP HD1 < offline
 http://4digital.ddns.net:9981/stream/mux/c72f620b931fc9f0ca14abf5a102f012?title=VIP%20HD1%20%2F%20xtream
 
 #EXTINF:-1 group-title="TH/4digit",NET SPORT HD |4digit
 http://4digital.ddns.net:9981/stream/service/77e7c1ece637c9f7bbf0adf69b6c8184?title=encoder2
+http://4digital.ddns.net:9981/play/stream/service/77e7c1ece637c9f7bbf0adf69b6c8184?title=encoder2
+#EXTINF:-1 group-title="TH/4digit",NET SPORT HD" |4digit
+http://4digital.ddns.net:9981/stream/channel/a24dad82db99b7188168a9ab362a55a8?title=encoder2
+http://4digital.ddns.net:9981/play/stream/channel/a24dad82db99b7188168a9ab362a55a8?title=encoder2
+
 #EXTINF:-1 group-title="TH/4digit",NET SPORT HD* |4digit
 http://4digital.ddns.net:9981/stream/mux/e3d8ac1eaebee8540805b8453a9fd4c2?title=encoder2%20%2F%20xtream
+http://4digital.ddns.net:9981/play/stream/mux/e3d8ac1eaebee8540805b8453a9fd4c2?title=encoder2%20%2F%20xtream
 
 VIP2 / NET SPORT HD* |4digit < offline
 http://4digital.ddns.net:9981/stream/service/0ce306a5da35cefee8db8298ee7d8258
@@ -1568,10 +1576,15 @@ VIP2 / NET SPORTS HD** |4digit < offline
 http://4digital.ddns.net:9981/stream/mux/7c4f1149ef1d43041266f5b13dfad63e?title=VIP2%20%2F%20xtream
 
 #EXTINF:-1 group-title="TH/4digit", VIP HD3 / TPF HD1 |4digit
+http://4digital.ddns.net:9981/stream/service/f744298928a1d0b2831247b1a97e4912?title=VIP%20HD3
+http://4digital.ddns.net:9981/play/stream/service/f744298928a1d0b2831247b1a97e4912?title=VIP%20HD3
+VIP HD3 / TPF HD1 |4digit < offline
 http://4digital.ddns.net:9981/stream/service/d396adf06388c6a42aed5805744dd446
 http://4digital.ddns.net:9981/play/stream/service/d396adf06388c6a42aed5805744dd446?title=VIP%20HD3
+
 #EXTINF:-1 group-title="TH/4digit", VIP HD3 / CINEMAX
 http://4digital.ddns.net:9981/stream/mux/93068dc3c24eef87391aff725056b679?title=VIP%20HD3%20%2F%20xtream
+http://4digital.ddns.net:9981/play/stream/mux/93068dc3c24eef87391aff725056b679?title=VIP%20HD3%20%2F%20xtream
 VIP HD3 / CINEMAX TH |4digit < offline
 http://4digital.ddns.net:9981/stream/mux/cef1abd1366839784df3ed0bdd480dbd?title=VIP%20HD3%20%2F%20xtream
 
