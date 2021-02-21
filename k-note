@@ -9496,7 +9496,7 @@ http://tv.wakds.xyz:8080/tangyuan/12345678/94
 
 + + + + + vewvew.com:8443 + + + + +
 
-#EXTINF:-1,NBC Sports Network
+#EXTINF:-1 group-title="vewvew",NBC Sports Network
 https://vewvew.com:8443/live/nansakns/asahsgah/1980.m3u8
 #EXTINF:-1,AU beIN Sports 1
 https://vewvew.com:8443/live/nansakns/asahsgah/225190.m3u8
@@ -9504,6 +9504,14 @@ https://vewvew.com:8443/live/nansakns/asahsgah/225190.m3u8
 https://vewvew.com:8443/live/nansakns/asahsgah/225191.m3u8
 #EXTINF:-1,AU beIN Sports 3
 https://vewvew.com:8443/live/nansakns/asahsgah/225192.m3u8
+#EXTINF:-1,MY Astro SuperSport
+https://vewvew.com:8443/live/nansakns/asahsgah/227201.m3u8
+#EXTINF:-1,MY Astro SuperSport 2
+https://vewvew.com:8443/live/nansakns/asahsgah/227202.m3u8
+#EXTINF:-1,MY Astro SuperSport 3
+https://vewvew.com:8443/live/nansakns/asahsgah/227203.m3u8
+#EXTINF:-1,MY Astro SuperSport 4
+https://vewvew.com:8443/live/nansakns/asahsgah/227204.m3u8
 #EXTINF:-1,Soccer01: RMC 1
 https://vewvew.com:8443/live/nansakns/asahsgah/2495.m3u8
 #EXTINF:-1,Soccer02: S 
@@ -9564,9 +9572,90 @@ https://vewvew.com:8443/live/nansakns/asahsgah/2522.m3u8
 https://vewvew.com:8443/live/nansakns/asahsgah/2523.m3u8
 #EXTINF:-1,Soccer30:
 https://vewvew.com:8443/live/nansakns/asahsgah/2524.m3u8
+#EXTINF:-1,South Africa SuperSport Action
+https://vewvew.com:8443/live/nansakns/asahsgah/228324.m3u8
+#EXTINF:-1,South Africa Supersport Blitz
+https://vewvew.com:8443/live/nansakns/asahsgah/228325.m3u8
+#EXTINF:-1,South Africa SuperSport Cricket
+https://vewvew.com:8443/live/nansakns/asahsgah/228326.m3u8
+#EXTINF:-1,South Africa SuperSport Football
+https://vewvew.com:8443/live/nansakns/asahsgah/228327.m3u8
+#EXTINF:-1,South Africa Supersport Grandstand
+https://vewvew.com:8443/live/nansakns/asahsgah/228328.m3u8
+#EXTINF:-1,South Africa SuperSport La Liga
+https://vewvew.com:8443/live/nansakns/asahsgah/228329.m3u8
+#EXTINF:-1,South Africa SuperSport MáXimo
+https://vewvew.com:8443/live/nansakns/asahsgah/228330.m3u8
+#EXTINF:-1,South Africa SuperSport Premier League
+https://vewvew.com:8443/live/nansakns/asahsgah/228331.m3u8
+#EXTINF:-1,South Africa SuperSport PSL
+https://vewvew.com:8443/live/nansakns/asahsgah/228332.m3u8
+#EXTINF:-1,South Africa SuperSport Rugby
+https://vewvew.com:8443/live/nansakns/asahsgah/228333.m3u8
+#EXTINF:-1,South Africa SuperSport Variety 1
+https://vewvew.com:8443/live/nansakns/asahsgah/228334.m3u8
+#EXTINF:-1,South Africa SuperSport Variety 2
+https://vewvew.com:8443/live/nansakns/asahsgah/228335.m3u8
+#EXTINF:-1,South Africa SuperSport Variety 3
+https://vewvew.com:8443/live/nansakns/asahsgah/228336.m3u8
+#EXTINF:-1,South Africa SuperSport Variety 4
+https://vewvew.com:8443/live/nansakns/asahsgah/228337.m3u8
+#EXTINF:-1,UK BT Sports 1 FHD
+https://vewvew.com:8443/live/nansakns/asahsgah/228507.m3u8
+#EXTINF:-1,UK BT Sports 1 HD
+https://vewvew.com:8443/live/nansakns/asahsgah/228508.m3u8
+#EXTINF:-1,UK BT Sports 2 FHD
+https://vewvew.com:8443/live/nansakns/asahsgah/228509.m3u8
+#EXTINF:-1,UK BT Sports 2 HD
+https://vewvew.com:8443/live/nansakns/asahsgah/228510.m3u8
+#EXTINF:-1,UK BT Sports 3 FHD
+https://vewvew.com:8443/live/nansakns/asahsgah/228511.m3u8
+#EXTINF:-1,UK BT Sports 3 HD
+https://vewvew.com:8443/live/nansakns/asahsgah/228512.m3u8
+#EXTINF:-1,UK Sky Sport Racing HD
+https://vewvew.com:8443/live/nansakns/asahsgah/228633.m3u8
+#EXTINF:-1,UK Sky Sports Action
+https://vewvew.com:8443/live/nansakns/asahsgah/228634.m3u8
+#EXTINF:-1,UK Sky Sports Action HD
+https://vewvew.com:8443/live/nansakns/asahsgah/228635.m3u8
+#EXTINF:-1,UK Sky Sports Arena HD
+https://vewvew.com:8443/live/nansakns/asahsgah/228636.m3u8
+#EXTINF:-1,UK Sky Sports Cricket
+https://vewvew.com:8443/live/nansakns/asahsgah/228637.m3u8
+#EXTINF:-1,UK Sky Sports Cricket HD
+https://vewvew.com:8443/live/nansakns/asahsgah/228638.m3u8
+#EXTINF:-1,UK Sky Sports F1
+https://vewvew.com:8443/live/nansakns/asahsgah/228639.m3u8
+#EXTINF:-1,UK Sky Sports F1 HD
+https://vewvew.com:8443/live/nansakns/asahsgah/228640.m3u8
+#EXTINF:-1,UK Sky Sports Football
+https://vewvew.com:8443/live/nansakns/asahsgah/228641.m3u8
+#EXTINF:-1,UK Sky Sports Football HD
+https://vewvew.com:8443/live/nansakns/asahsgah/228642.m3u8
+#EXTINF:-1,UK Sky Sports Golf
+https://vewvew.com:8443/live/nansakns/asahsgah/228643.m3u8
+#EXTINF:-1,UK Sky Sports Golf HD
+https://vewvew.com:8443/live/nansakns/asahsgah/228644.m3u8
+#EXTINF:-1,UK Sky Sports Main Events
+https://vewvew.com:8443/live/nansakns/asahsgah/228645.m3u8
+#EXTINF:-1,UK Sky Sports Main Events HD
+https://vewvew.com:8443/live/nansakns/asahsgah/228646.m3u8
+#EXTINF:-1,UK Sky Sports MIX
+https://vewvew.com:8443/live/nansakns/asahsgah/228647.m3u8
+#EXTINF:-1,UK Sky Sports News
+https://vewvew.com:8443/live/nansakns/asahsgah/228648.m3u8
+#EXTINF:-1,UK Sky Sports News HD
+https://vewvew.com:8443/live/nansakns/asahsgah/228649.m3u8
+#EXTINF:-1,UK Sky Sports Premier League
+https://vewvew.com:8443/live/nansakns/asahsgah/228650.m3u8
+#EXTINF:-1,UK Sky Sports Premier League HD
+https://vewvew.com:8443/live/nansakns/asahsgah/228651.m3u8
+#EXTINF:-1,UK Sky Sports Racing
+https://vewvew.com:8443/live/nansakns/asahsgah/228652.m3u8
+
 #EXTINF:-1,UFC Network
 https://vewvew.com:8443/live/nansakns/asahsgah/1995.m3u8
-#EXTINF:-1,UFC Fight Pass
+#EXTINF:-1 group-title="vewvew",UFC Fight Pass
 https://vewvew.com:8443/live/nansakns/asahsgah/1996.m3u8
 
 + + + + + worldch.ddns.net:8080 + + + + +
