@@ -875,15 +875,22 @@ http://77.247.109.116/hls/ovo2.m3u8
 http://192.166.246.122/hls/ovo2.m3u8
 
 #EXTINF:-1, NBCSN Live
+https://dailylast1.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 https://dailybar2.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 https://dailysportbucket71.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 https://dailysportbucket41.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 
-#EXTINF:-1, MStream
+#EXTINF:-1, SSPL
+http://d3j49m1b2c30jh.cloudfront.net/edge/SSPL/chunks.m3u8
+
+ MStream
 http://stream.mazystreams.xyz/live/streamsd/chunks.m3u8
 
-
 #EXTINF:-1, live 1
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/551ef6c11aba44f0b19c76dc6d2a3da8/reproduce.m3u8
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/551ef6c11aba44f0b19c76dc6d2a3da8/reproduce_1.m3u8
+
+#EXTINF:-1, live 2
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/308776c26e3143048f1b09d589ad34fc/index1.m3u8
 https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/b7120065d50d48b5b237407793c2c221/index1.m3u8
 https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/1c684fefc6864ef2b0259b5e568b70c8/index1.m3u8
