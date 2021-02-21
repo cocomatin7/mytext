@@ -1857,86 +1857,101 @@ https://cdn6.goprimetime.info/feed/LC53/playlist.m3u8
 
 #EXTINF:-1 group-title="thaicable",CH 1 | FOX MOVIES
 http://thaicable.myftp.org:8000/live/infosat/2020/1.m3u8
+http://4digital.ddns.net:9981/stream/service/524c8ebc773cff38883b108e6ddb78b3?ticket=21EF2F1848D2EC1476A7253805F9EDB8755D5B63
 
 #EXTINF:-1,CH 2 | CINEMAX
 http://thaicable.myftp.org:8000/live/infosat/2020/2.m3u8
+http://4digital.ddns.net:9981/stream/service/f744298928a1d0b2831247b1a97e4912?ticket=15DBCA8941EB0CCB8C238BE0F54402535AF78BFA
 #EXTINF:-1,CH 2* | CINEMAX*
 http://thaicable.myftp.org:8000/live/infosat/2020/00002.ts
 
 #EXTINF:-1,CH 3 | NAT GEO
 http://thaicable.myftp.org:8000/live/infosat/2020/3.m3u8
+http://4digital.ddns.net:9981/stream/service/77e7c1ece637c9f7bbf0adf69b6c8184?ticket=0CC9A46FB55B326ABCD252E1C5623A8A652F5F26
 
-#EXTINF:-1,CH 4 | BOX FILM
+#EXTINF:-1,CH 4 | EPL 1
 http://thaicable.myftp.org:8000/live/infosat/2020/4.m3u8
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 
-#EXTINF:-1,CH 5 | CTB
+#EXTINF:-1,CH 5 | TSports
 http://thaicable.myftp.org:8000/live/infosat/2020/5.m3u8
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
-#EXTINF:-1,CH 6 | SUN
+#EXTINF:-1,CH 6 | astro SUPERSPORT
 http://thaicable.myftp.org:8000/live/infosat/2020/6.m3u8
 http://61.19.242.134/feed/LC1/index.m3u8
 
-#EXTINF:-1,CH 7 | CTB
+#EXTINF:-1,CH 7 | astro SUPERSPORT 2
 http://thaicable.myftp.org:8000/live/infosat/2020/7.m3u8
+https://laos-tech-live.b-cdn.net/my-asp2hd_720/index.m3u8
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
-#EXTINF:-1,CH 8 | EPL 1
+#EXTINF:-1,CH 8 | astro SUPERSPORT 3
 http://thaicable.myftp.org:8000/live/infosat/2020/8.m3u8
+https://laos-tech-live.b-cdn.net/my-asp3hd_720/index.m3u8
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 
 #EXTINF:-1,CH 9 | TSports
 http://thaicable.myftp.org:8000/live/infosat/2020/9.m3u8
 
-#EXTINF:-1,CH 10 | SUPERSPORT
+#EXTINF:-1,CH 10 | NAT GEO
 http://thaicable.myftp.org:8000/live/infosat/2020/10.m3u8
+https://laos-tech-live.b-cdn.net/hd-natgeo_720/index.m3u8
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 
-#EXTINF:-1,CH 11 | SUPERSPORT 2
+#EXTINF:-1,CH 11 | BOX FILM
 http://thaicable.myftp.org:8000/live/infosat/2020/11.m3u8
+https://cdn6.goprimetime.info/feed/LC52/tracks-v1a1/mono.m3u8
 http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 
-#EXTINF:-1,CH 12 | SUPERSPORT 3
+#EXTINF:-1,CH 12 | CTB
 http://thaicable.myftp.org:8000/live/infosat/2020/12.m3u8
+http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
 
-#EXTINF:-1,CH 13 | SUPERSPORT 4
+#EXTINF:-1,CH 13 | SUN
 http://thaicable.myftp.org:8000/live/infosat/2020/13.m3u8
+http://61.19.242.134/feed/LC1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,CH 14 | FOX MOVIES
 http://thaicable.myftp.org:8000/live/infosat/2020/14.m3u8
+http://4digital.ddns.net:9981/stream/service/9eaba2b89c25f13c00fe59a915659ea1?ticket=487511BF4EFB570E9E5273DE55EF1149410DA401
 
 #EXTINF:-1,CH 15 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/15.m3u8
 http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
-#EXTINF:-1,CH 16 | ER
+#EXTINF:-1,CH 16 | FOX family MOVIES
 http://thaicable.myftp.org:8000/live/infosat/2020/16.m3u8
-#EXTINF:-1,CH 17 | ER
+http://4digital.ddns.net:9981/stream/service/cae8d79225fee492198d50159dcc6961?ticket=DFB973A683642A16FC30F9D14A6D66ACD20E4AF6
+#EXTINF:-1,CH 17 | FOXlife
 http://thaicable.myftp.org:8000/live/infosat/2020/17.m3u8
 
-#EXTINF:-1,CH 18 | 18
+#EXTINF:-1,CH 18 | WBTV
 http://thaicable.myftp.org:8000/live/infosat/2020/18.m3u8
+https://laos-tech-live.b-cdn.net/hd-warnertv_720/index.m3u8
 http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248?ticket=5B9770279444E202ACE0326CC6117979182DC0E1
-#EXTINF:-1,CH 19 | ER
+#EXTINF:-1,CH 19 | CINEMAX
 http://thaicable.myftp.org:8000/live/infosat/2020/19.m3u8
-#EXTINF:-1,CH 20 | HBO TH
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+#EXTINF:-1,CH 20 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/20.m3u8
 http://4digital.ddns.net:9981/stream/service/72f9cd112ecdfd3090a58fbe26514219?ticket=645732534EB5294AC86F05959CE70AEEF0C2532A
 
 #EXTINF:-1,CH 21 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/21.m3u8
-#EXTINF:-1,CH 22 | HBO Hits TH
+#EXTINF:-1,CH 22 | true FILM HD2
 http://thaicable.myftp.org:8000/live/infosat/2020/22.m3u8
 http://4digital.ddns.net:9981/stream/service/1dbec728fd4c80b591761f1ff25a6277?ticket=B04DE750DD8114341E5D3D8A43AFBB79E26BCAA4
-
-#EXTINF:-1,CH 23 | HBO Signature
+#EXTINF:-1,CH 23 | true FILM HD
 http://thaicable.myftp.org:8000/live/infosat/2020/23.m3u8
 http://4digital.ddns.net:9981/stream/service/c8c79f93a336289531cfe3555174925e?ticket=33A937844738DFCF9AC41EF2C2D9F127CFCF62E8
-
 #EXTINF:-1,CH 24 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/24.m3u8
-
-#EXTINF:-1,CH 25 | ER
+#EXTINF:-1,CH 25 | HBO TH
 http://thaicable.myftp.org:8000/live/infosat/2020/25.m3u8
+http://4digital.ddns.net:9981/stream/service/8f5407f123860627f38c08d81839331f?ticket=536E8E79A8CEF11D80178CB3FC5615C40D174EE2
+
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+
 #EXTINF:-1,CH 26 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/26.m3u8
 #EXTINF:-1,CH 27 | ER
