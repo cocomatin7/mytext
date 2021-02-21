@@ -8776,6 +8776,32 @@ http://62.210.127.144:8080/live/PW7zZ7QxQh/3DkkcbHJt7/9617.mp2t?token=QhVcUhcJRg
 + + + + + 103.136.43.127:8080 [SEA] + + + + +
 http://103.136.43.127:8080/12997/b5093454/16964
 + + + + + 185.8.176.227:25461 [IN] + + + + +
+
++ + + + + 31.220.40.123:80 / us1-external-sources.iptvserver.tv + + + + +
+
+#EXTINF:-1 group-title="31.220",CNBC HD (ENG)
+http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501.m3u8
+#EXTINF:-1,CNBC US
+http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/502.m3u8
+#EXTINF:-1,NBCSN  HD (ENG)
+http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606.m3u8
+#EXTINF:-1,FS1
+http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549.m3u8
+#EXTINF:-1,FS2
+http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550.m3u8
+#EXTINF:-1,BEIN SPORTS ENG HD
+http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488.m3u8
+#EXTINF:-1,ELEVEN SPORTS
+http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517.m3u8
+#EXTINF:-1,BEIN ESPANIOL HD
+http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487.m3u8
+#EXTINF:-1,Bloomberg
+http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/767.m3u8
+#EXTINF:-1,FIGHT NETWORK
+http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526.m3u8
+#EXTINF:-1 group-title="31.220",UFC USA
+http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122.m3u8
+
 + + + + + 50.7.136.122:25461 / 1milltvbox.loginto.me:25461 [MY] + + + + +
 + + + + + client.vpnuser.ws:8080 [TH] + + + + +
 + + + + + clientbox.tv:80 [SEA] + + + + +
@@ -8797,7 +8823,6 @@ http://188.40.76.108:25461/get.php?username=mytv01&password=uSIRzmks51&type=m3u 
 
 #EXTINF:-1,IN: Romedy_Now_HD
 http://globaltv.life:8880/live/sfast@trial/oIb3fTcCuJ/65833.m3u8
-
 
 + + + + + goiptv.co:8080 [SEA] + + + + +
 
