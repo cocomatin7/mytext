@@ -9225,6 +9225,7 @@ http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/287060.m3u8
 http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/287059.m3u8
 #EXTINF:-1,SuperSport Blitz| HD
 http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/287058.m3u8
+
 #EXTINF:-1,PL: Polsat Sport Premium 2 FHD
 http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/353391.m3u8
 #EXTINF:-1,PL: Polsat Sport Premium 1 FHD
@@ -9241,6 +9242,7 @@ http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/353386.m3u8
 http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/353308.m3u8
 #EXTINF:-1,PL: CANAL SPORT 1 HD
 http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/353307.m3u8
+
 #EXTINF:-1,FR_RMC_Sport_01_FullHD
 http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/352453.m3u8
 #EXTINF:-1,FR_RMC_Sport_02_HD
@@ -9255,13 +9257,8 @@ http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/352457.m3u8
 http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/352456.m3u8
 #EXTINF:-1,FR_RMC_ACCESS_SPORT_01_HD
 http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/352467.m3u8
-#EXTINF:-1,FR_RMC_ACCESS_SPORT_02_HD
+#EXTINF:-1 group-title="muttsnutts",FR_RMC_ACCESS_SPORT_02_HD
 http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/352466.m3u8
-http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/275828.m3u8
-http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/275829.m3u8
-http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/275830.m3u8
-#EXTINF:-1 group-title="muttsnutts",Optus 5
-http://muttsnutts.from-mi.com:8090/live/muttsnuts/PzreCs7oYP/275831.m3u8
 
 + + + + + 
 
