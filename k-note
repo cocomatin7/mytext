@@ -1651,97 +1651,97 @@ http://4digital.ddns.net:9981/stream/service/0df4ac932e8840a7c0d88c5583d9e540?ti
 
 + + + + + http://196.53.249.42:9981/extjs.html / https://rebrand.ly/sn-hd-196 + + + + +
 
-#EXTINF:-1 group-title="TH/196", ENC01 < offline?
+ group-title="TH/196", ENC01 < offline?
 http://196.53.249.42:9981/play/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee
 http://196.53.249.42:9981/play/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?title=ENC01
-#EXTINF:-1, ENC01 *
+, ENC01 *
 http://196.53.249.42:9981/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee
-#EXTINF:-1, ENC02 | SPORTS HD
+, ENC02 | SPORTS HD
 http://196.53.249.42:9981/play/stream/service/99c00f0346648f88da9f368fab67d9e8
 http://196.53.249.42:9981/play/stream/service/99c00f0346648f88da9f368fab67d9e8?title=ENC02
-#EXTINF:-1, ENC02 | SPORTS HD *
+, ENC02 | SPORTS HD *
 http://196.53.249.42:9981/stream/service/99c00f0346648f88da9f368fab67d9e8
 
-#EXTINF:-1 tvg-id="976def8ec41b956e1186092d367fcb6a",ENC01
+ tvg-id="976def8ec41b956e1186092d367fcb6a",ENC01
 http://196.53.249.42:9981/stream/channelid/250572183?ticket=90BD80D45802E6F6E879237564E84E87B12C3982&profile=pass
-#EXTINF:-1 tvg-id="662ff1d170caa73c4d93280ff615d18e",ENC02
+ tvg-id="662ff1d170caa73c4d93280ff615d18e",ENC02
 http://196.53.249.42:9981/stream/channelid/1374760806?ticket=CC6E67C9F11E63E232F0369E5172362571D11C85&profile=pass
-#EXTINF:-1 tvg-id="4c9cbb76b8f664e86552c0a11b895f85",ENC03
+ tvg-id="4c9cbb76b8f664e86552c0a11b895f85",ENC03
 http://196.53.249.42:9981/stream/channelid/1992006732?ticket=4ED7FC86B4C5218A8BEC393F3D7E2A2DB9E06E37&profile=pass
-#EXTINF:-1 tvg-id="efd871e80568fd116e069447efc80b0f",tfilm2
+ tvg-id="efd871e80568fd116e069447efc80b0f",tfilm2
 http://196.53.249.42:9981/stream/channelid/1752291567?ticket=04E0B86F04961A15C2F21369020F17009E5591FC&profile=pass
-#EXTINF:-1 tvg-id="0c7b8cb35c8cdd6793e291f4b566555b",WARNER HD
+ tvg-id="0c7b8cb35c8cdd6793e291f4b566555b",WARNER HD
 http://196.53.249.42:9981/stream/channelid/864844556?ticket=B23F34CD37F8D8CBF4EF2D22B921159FD9525EDA&profile=pass
-#EXTINF:-1 tvg-id="b79f72ac538e325520c41626262d4167",{name-not-set}
+ tvg-id="b79f72ac538e325520c41626262d4167",{name-not-set}
 http://196.53.249.42:9981/stream/channelid/745709495?ticket=5F860DA013D79933CE6EE0341AB926683041F7A9&profile=pass
-#EXTINF:-1 tvg-id="75e779b547c8d2fa954d1c40bb176620",{name-not-set}
+ tvg-id="75e779b547c8d2fa954d1c40bb176620",{name-not-set}
 http://196.53.249.42:9981/stream/channelid/897181557?ticket=95EBE5F12BA25E6BF64CA32F0E1AFC95314CBFC3&profile=pass
-#EXTINF:-1 tvg-id="45e94e3e0c4a7812ebecdb680536350e",{name-not-set}
+ tvg-id="45e94e3e0c4a7812ebecdb680536350e",{name-not-set}
 http://196.53.249.42:9981/stream/channelid/1045358917?ticket=3B4B84CC296B3ED62332B547AFB64EF6FD9B31DD&profile=pass
-#EXTINF:-1 tvg-id="e5651b3f47734cf68f46adf42c4d8cdb",{name-not-set}
+ tvg-id="e5651b3f47734cf68f46adf42c4d8cdb",{name-not-set}
 http://196.53.249.42:9981/stream/channelid/1058760165?ticket=B99339BFF7448BD0BF91E15206F5F0B95B24F341&profile=pass
-#EXTINF:-1 tvg-id="4ba302c20080e85379153352f079be7c",{name-not-set}
+ tvg-id="4ba302c20080e85379153352f079be7c",{name-not-set}
 http://196.53.249.42:9981/stream/channelid/1107469131?ticket=23503EC4EA77101115BD2DEFDB49169277DE1E05&profile=pass
-#EXTINF:-1 tvg-id="9bd1fdc5a0b91200a7e8fbb8cc9eaa60",{name-not-set}
+ tvg-id="9bd1fdc5a0b91200a7e8fbb8cc9eaa60",{name-not-set}
 http://196.53.249.42:9981/stream/channelid/1174262171?ticket=BF7E954003182646687B56A30123B8C90B9B248F&profile=pass
-#EXTINF:-1 tvg-id="dee88546daacebe1340642e46533fe35",{name-not-set}
+ tvg-id="dee88546daacebe1340642e46533fe35",{name-not-set}
 http://196.53.249.42:9981/stream/channelid/1183181022?ticket=47D2B3632775AE03F40E95A6FB86A4CB14D037D7&profile=pass
-#EXTINF:-1 tvg-id="1b37d1d167f69e7a26403a5fd7fb1319",{name-not-set}
+ tvg-id="1b37d1d167f69e7a26403a5fd7fb1319",{name-not-set}
 http://196.53.249.42:9981/stream/channelid/1372665627?ticket=F392CE85D937EE59CA67C63776C550A858DA5554&profile=pass
-#EXTINF:-1 tvg-id="db4f2353142a56ed23af61e360a4618b",{name-not-set}
+ tvg-id="db4f2353142a56ed23af61e360a4618b",{name-not-set}
 http://196.53.249.42:9981/stream/channelid/1394823131?ticket=92D1BD97808C03705383247607901BC8A230AD7F&profile=pass
-#EXTINF:-1 tvg-id="6608cde8cac7f8f9e2f180cedbc5063d",{name-not-set}
+ tvg-id="6608cde8cac7f8f9e2f180cedbc5063d",{name-not-set}
 http://196.53.249.42:9981/stream/channelid/1758267494?ticket=58CFC761DB37DCD742BC58CC726452D524182EC3&profile=pass
-#EXTINF:-1 tvg-id="538b85ed7cb88e645e13923c0543b644",{name-not-set}
+ tvg-id="538b85ed7cb88e645e13923c0543b644",{name-not-set}
 http://196.53.249.42:9981/stream/channelid/1837468499?ticket=D7FE98CE4BD53C4621EA08AFDFC1892AA7AC5375&profile=pass
-#EXTINF:-1 tvg-id="0a902b7a506be3fc74832db8a148b84e",{name-not-set}
+ tvg-id="0a902b7a506be3fc74832db8a148b84e",{name-not-set}
 http://196.53.249.42:9981/stream/channelid/2049675274?ticket=5113C046587126074AC926999C69EA23D70EB220&profile=pass
-#EXTINF:-1, ENC03
+, ENC03
 http://196.53.249.42:9981/play/stream/service/790fdd22ebec49c47bf60331c70b0785
 http://196.53.249.42:9981/play/stream/service/790fdd22ebec49c47bf60331c70b0785?title=ENC03
-#EXTINF:-1, ENC03 *
+, ENC03 *
 http://196.53.249.42:9981/stream/service/790fdd22ebec49c47bf60331c70b0785
 
 http://196.53.249.42:9981/play/stream/service/844d67a2660c72f6ad4370e3594c501f?title=img
 http://196.53.249.42:9981/play/stream/service/32cf655f7d0889cdaaad07888a716827?title=img
 http://196.53.249.42:9981/play/stream/service/6a5b7332aa7b003a9a3db7bbe56d0f27?title=img
-#EXTINF:-1 tvg-id="6608cde8cac7f8f9e2f180cedbc5063d",Amarin HD
+ tvg-id="6608cde8cac7f8f9e2f180cedbc5063d",Amarin HD
 http://196.53.249.42:9981/stream/channelid/1758267494?ticket=73AE55C2C6D9B3B9DC9FD4432358CD748B7697FF&profile=pass
-#EXTINF:-1 tvg-id="976def8ec41b956e1186092d367fcb6a",ENC01 / HD 1
+ tvg-id="976def8ec41b956e1186092d367fcb6a",ENC01 / HD 1
 http://196.53.249.42:9981/stream/channelid/250572183?ticket=FF815247A09142BBC17D3B8CA33C70EC32495712&profile=pass
-#EXTINF:-1 tvg-id="662ff1d170caa73c4d93280ff615d18e",ENC02 / SPT HD
+ tvg-id="662ff1d170caa73c4d93280ff615d18e",ENC02 / SPT HD
 http://196.53.249.42:9981/stream/channelid/1374760806?ticket=3DC4556D5F308D043E2CE79DC3882FACF902D2A2&profile=pass
-#EXTINF:-1 tvg-id="4c9cbb76b8f664e86552c0a11b895f85",ENC03 / NATGEO
+ tvg-id="4c9cbb76b8f664e86552c0a11b895f85",ENC03 / NATGEO
 http://196.53.249.42:9981/stream/channelid/1992006732?ticket=6359A522B34329BE6A93A481AC8D478F94EBB1A7&profile=pass
-#EXTINF:-1 tvg-id="45e94e3e0c4a7812ebecdb680536350e",FOX MOVIES
+ tvg-id="45e94e3e0c4a7812ebecdb680536350e",FOX MOVIES
 http://196.53.249.42:9981/stream/channelid/1045358917?ticket=D741991086D12EA76C7FFD7B0902FF97F0887E28&profile=pass
-#EXTINF:-1 tvg-id="75e779b547c8d2fa954d1c40bb176620",mono29
+ tvg-id="75e779b547c8d2fa954d1c40bb176620",mono29
 http://196.53.249.42:9981/stream/channelid/897181557?ticket=E683B37DAD088A14367D05FA149D82534CD52914&profile=pass
-#EXTINF:-1 tvg-id="538b85ed7cb88e645e13923c0543b644",ONE HD
+ tvg-id="538b85ed7cb88e645e13923c0543b644",ONE HD
 http://196.53.249.42:9981/stream/channelid/1837468499?ticket=B27BC77D81D61DA09E940E0830B0B9D95A66A2A3&profile=pass
-#EXTINF:-1 tvg-id="dee88546daacebe1340642e46533fe35",PPTV HD
+ tvg-id="dee88546daacebe1340642e46533fe35",PPTV HD
 http://196.53.249.42:9981/stream/channelid/1183181022?ticket=AE6301CB3A80C771BB46D75E80C4C856A45032F5&profile=pass
-#EXTINF:-1 tvg-id="0a902b7a506be3fc74832db8a148b84e",TNN24
+ tvg-id="0a902b7a506be3fc74832db8a148b84e",TNN24
 http://196.53.249.42:9981/stream/channelid/2049675274?ticket=B338F499187D11C4B16F9435FF7FD8D228A39312&profile=pass
-#EXTINF:-1 tvg-id="e5651b3f47734cf68f46adf42c4d8cdb",true4u
+ tvg-id="e5651b3f47734cf68f46adf42c4d8cdb",true4u
 http://196.53.249.42:9981/stream/channelid/1058760165?ticket=43508E971039912EAB04431B00CEBB911B8ED9D2&profile=pass
-#EXTINF:-1 tvg-id="db4f2353142a56ed23af61e360a4618b",TV5HD
+ tvg-id="db4f2353142a56ed23af61e360a4618b",TV5HD
 http://196.53.249.42:9981/stream/channelid/1394823131?ticket=44F12ADA8EB44CEB80CE72A0B62CB43FB95A717D&profile=pass
-#EXTINF:-1 tvg-id="1b37d1d167f69e7a26403a5fd7fb1319",TV7HD
+ tvg-id="1b37d1d167f69e7a26403a5fd7fb1319",TV7HD
 http://196.53.249.42:9981/stream/channelid/1372665627?ticket=4098B011AF934693CC88329ACFF7DC12A750D9EB&profile=pass
-#EXTINF:-1 tvg-id="b79f72ac538e325520c41626262d4167",workpoint TV
+ tvg-id="b79f72ac538e325520c41626262d4167",workpoint TV
 http://196.53.249.42:9981/stream/channelid/745709495?ticket=0C035B3079A7C8A3BA1C6E5C798822778F66A5E3&profile=pass
-#EXTINF:-1, FOX MOVIES
+, FOX MOVIES
 http://196.53.249.42:9981/play/stream/service/8f422994f95e9daf04337ac7f92452e9
 http://196.53.249.42:9981/play/stream/service/8f422994f95e9daf04337ac7f92452e9?title=FOX%20MOVIES
-#EXTINF:-1, FOX MOVIES *
+, FOX MOVIES *
 http://196.53.249.42:9981/stream/service/8f422994f95e9daf04337ac7f92452e9
-#EXTINF:-1, ONE HD
+, ONE HD
 http://196.53.249.42:9981/play/stream/service/2980cea3a2ae9c55955ab66d99287b42
 http://196.53.249.42:9981/play/stream/service/2980cea3a2ae9c55955ab66d99287b42?title=ONE%20HD
-#EXTINF:-1, ONE HD *
+, ONE HD *
 http://196.53.249.42:9981/stream/service/2980cea3a2ae9c55955ab66d99287b42
-#EXTINF:-1, PPTV HD
+, PPTV HD
 http://196.53.249.42:9981/play/stream/service/7dbeb1c2d0474b1b638b2084a8b13bce
 http://196.53.249.42:9981/play/stream/service/7dbeb1c2d0474b1b638b2084a8b13bce?title=PPTV%20HD
 http://196.53.249.42:9981/stream/channelid/1758267494?ticket=0CE21DE9872A181D24E2F73EE98E0E1CFED115BC&profile=pass
@@ -1769,7 +1769,7 @@ http://196.53.249.42:9981/stream/service/5d5dc7bc8874aaaf7dd39e263e5c39ee?ticket
 http://196.53.249.42:9981/stream/service/99c00f0346648f88da9f368fab67d9e8?ticket=2959E3E0B54205AA40C8896309CB7F0B5174928A
 http://196.53.249.42:9981/stream/service/790fdd22ebec49c47bf60331c70b0785?ticket=E371300CA3D63D3B37724F5281AE7080586909C6
 http://196.53.249.42:9981/stream/mux/dbfa4c7e398eb3ca85e215e4849d06ce?ticket=AB9F3FC26FDEBF62970EFF60ABCF06A96074337B
-#EXTINF:-1 group-title="TH/196",CH 8 | CINEMAX TH
+ group-title="TH/196",CH 8 | CINEMAX TH
 http://196.53.249.42:9981/stream/service/790fdd22ebec49c47bf60331c70b0785?ticket=90AC1DEEC72CB7CF356AC8896A071E53EF6B365B
 
 + + + + + TH/203.154.177.124:8899 + + + + +
