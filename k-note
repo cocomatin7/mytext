@@ -1547,7 +1547,7 @@ http://50.7.161.82:8278/Antv/playlist.m3u8?tid=13104999
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 ,TV1 HD
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-,TVN HD
+#EXTINF:-1 group-title="TH/50.7",TVN HD
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 ,Prima HD
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
@@ -1555,10 +1555,13 @@ http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 ,TV3 HD
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1,Fox action hd
 http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1,Fox family
 http://50.7.161.82:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:-1,Fox Movie
 http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
-,HBO MY
+#EXTINF:-1,,HBO MY
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hbohd/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hbofamily/playlist.m3u8
@@ -1568,7 +1571,7 @@ http://50.7.161.82:8278/streams/d/Cinemax/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Animalplanet/playlist.m3u8
 ,HGTV HD
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-,KBS HD
+#EXTINF:-1 group-title="TH/50.7",KBS HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
 + + + + + TH/4digital.ddns.net + + + + +
@@ -2914,6 +2917,7 @@ http://fdtvapps.xyz/channel/hbofam.m3u8
 http://fdtvapps.xyz/channel/hbohits.m3u8
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |fdtv
 http://fdtvapps.xyz/channel/red.m3u8
+
 
 http://me.zichannels.my.id/ch/family.m3u8
 http://me.zichannels.my.id/ch/hbo.m3u8
