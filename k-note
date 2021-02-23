@@ -304,6 +304,10 @@ http://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD3 |livedoo
 http://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 
+
+
+
+
 #EXTINF:-1,KSport1
 http://93.157.62.180/KSport1/index.m3u8
 #EXTINF:-1,KSport2
@@ -955,6 +959,8 @@ http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8?token=test
 
 #EXTINF:-1 group-title="BamarTV", 80s Party |loop 
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/3.m3u8
+
+http://79.137.41.99/DisneyChannel/index.m3u8
 
 #EXTINF:-1,AVJ
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
