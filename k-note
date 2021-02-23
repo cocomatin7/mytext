@@ -304,6 +304,15 @@ http://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD3 |livedoo
 http://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 
+#EXTINF:-1,KSport1
+http://93.157.62.180/KSport1/index.m3u8
+#EXTINF:-1,KSport2
+http://93.157.62.180/KSport2/index.m3u8
+#EXTINF:-1,KSport3
+http://93.157.62.180/KSport3/index.m3u8
+#EXTINF:-1,KSport4
+http://93.157.62.180/KSport4/index.m3u8
+
 #EXTINF:-1,Supersport1
 http://93.157.62.180/Supersport1/index.m3u8
 #EXTINF:-1,Supersport2 EPL
