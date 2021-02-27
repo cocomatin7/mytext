@@ -1775,7 +1775,7 @@ http://4digital.ddns.net:9981/stream/service/0df4ac932e8840a7c0d88c5583d9e540?ti
 
 + + + + + http://171.4.161.216:9981/extjs.html + + + + +
 
-#EXTINF:-1 tvg-id="8af6d730fec246530256a8f12f3e7c2e",CCTV5
+#EXTINF:-1 tvg-id="8af6d730fec246530256a8f12f3e7c2e" group-title="TH/171.4",CCTV5
 http://171.4.161.216:9981/stream/channelid/819459722?ticket=415ED5108E9187F5774C9550E3C384EA4CC5D90B&profile=pass
 #EXTINF:-1 tvg-id="7e2b0d36b863766bcbe6118df2102429",CCTV5+
 http://171.4.161.216:9981/stream/channelid/906832766?ticket=546E4662671BDF6DD194D24E4DF4012C2E1F1991&profile=pass
@@ -1811,7 +1811,7 @@ http://171.4.161.216:9981/stream/channelid/1035746771?ticket=D1F2EECEC54DEDE398A
 http://171.4.161.216:9981/stream/channelid/1659012231?ticket=C41AD37CAFBC0DE3B55BB17E12E795814B972741&profile=pass
 #EXTINF:-1 tvg-id="84ebfff89260e947fbd8b1fc75c068d6",{name-not-set}
 http://171.4.161.216:9981/stream/channelid/2030037892?ticket=352685EBC0EB1CD1D7174EFD62294FBC1C94BEEA&profile=pass
-#EXTINF:-1 tvg-id="46b9677cb41a6488e86af621933de26a",{name-not-set}
+#EXTINF:-1 tvg-id="46b9677cb41a6488e86af621933de26a" group-title="TH/171.4",{name-not-set}
 http://171.4.161.216:9981/stream/channelid/2087172422?ticket=E0A768A2AC655358A1CEA8F6BDD9C2C9A30860B0&profile=pass
 
 http://171.4.161.216:9981/play/stream/mux/b39af9128856a9021b06a48061692e0d?title=Animal%20Planet%20%2F%20xtream
