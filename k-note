@@ -436,12 +436,9 @@ http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8?token=test
 #EXTINF:-1 group-title="BamarTV/Sport",COSMOTE SPORT9
 http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8?token=test
 
-#EXTINF:-1 group-title="BamarTV", 80s Party |loop 
-https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/3.m3u8
-
 http://79.137.41.99/DisneyChannel/index.m3u8
 
-#EXTINF:-1,AVJ
+#EXTINF:-1 group-title="BamarTV",AVJ
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
 #EXTINF:-1,AsianCrush
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767?X-Plex-Token=MorUy57ijWhGe4ixZb_T
@@ -492,6 +489,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252
 #EXTINF:-1 group-title="BamarTV",Party Tyme Karaoke
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 
+#EXTINF:-1 group-title="BamarTV", 80s Party |loop 
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/3.m3u8
 #EXTINF:-1,LOOP 80'S FHD
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/0a3255a5-e315-46e6-b8cb-4b9bce25cc11/5.m3u8
 #EXTINF:-1,LOOP 80'S
