@@ -492,7 +492,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252
 #EXTINF:-1 group-title="BamarTV",Party Tyme Karaoke
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 
-#EXTINF:-1,LOOP 80'S
+#EXTINF:-1,LOOP 80'S FHD
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/0a3255a5-e315-46e6-b8cb-4b9bce25cc11/5.m3u8
 #EXTINF:-1,LOOP 80'S
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/0a3255a5-e315-46e6-b8cb-4b9bce25cc11/4.m3u8
@@ -505,31 +505,32 @@ https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/
 https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/5846b7b3-d46f-4652-8acb-e581996de641/1.m3u8
 #EXTINF:-1,LOOP 90'S
 https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/5846b7b3-d46f-4652-8acb-e581996de641/0.m3u8
-#EXTINF:-1,LOOP ALT+
+
+#EXTINF:-1,LOOP ALT+ FHD
 https://bf478e05dd884185aebc142c47e5081a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/alt_loop/20480ac8-e570-4d9b-8579-6f2a78ee5a0d/5.m3u8
-#EXTINF:-1,LOOP BEAST
+#EXTINF:-1,LOOP BEAST FHD
 https://4995bb351158404890f211589ad8235f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_loop/ee523a3a-121c-477c-99ad-b1d155f6cce0/5.m3u8
-#EXTINF:-1,LOOP BEDROM
+#EXTINF:-1,LOOP BEDROM FHD
 https://0137a758022c46a38e455092610c984b.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_loop/7c4643bb-600c-49fe-9b6f-56cf304e5ac4/5.m3u8
-#EXTINF:-1,LOOP ELECTRONICA
+#EXTINF:-1,LOOP ELECTRONICA FHD
 https://1e1876eb600945e89b6d98ddf44d26f2.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_loop/863f2f66-5942-4e33-b1ba-bc1852b007f2/5.m3u8
-#EXTINF:-1,LOOP FLASHBACK
+#EXTINF:-1,LOOP FLASHBACK FHD
 https://80daef5afee04639ab6f19432058fb93.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_loop/8a997739-f93b-4c80-84bf-68143445bfb0/5.m3u8
-#EXTINF:-1,LOOP FAR OUT
+#EXTINF:-1,LOOP FAR OUT FHD
 https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/b0b4e8ad-0c44-49fe-8646-6dee5c529589/5.m3u8
-#EXTINF:-1,LOOP HOTTEST
+#EXTINF:-1,LOOP HOTTEST FHD
 https://e896313b744c41d095a1981b251d4344.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_loop/1d364009-e579-4fa4-9f7e-05c08d81f276/5.m3u8
-#EXTINF:-1,LOOP R&B
+#EXTINF:-1,LOOP R&B FHD
 https://42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/c09c8cd5-96fe-4ddb-a14c-ad076be152cc/5.m3u8
-#EXTINF:-1,LOOP SYNAPSE
+#EXTINF:-1,LOOP SYNAPSE FHD
 https://d6749b2b5cb74c85a06a9841003eb04b.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_loop/dc7864f3-5666-4ff6-bd77-74883c6e048a/5.m3u8
-#EXTINF:-1,LOOP TEXAS LATIN
+#EXTINF:-1,LOOP TEXAS LATIN FHD
 https://61d06f00ea524bb9a59ed1ceaa43a294.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_loop/d8b80fed-abff-473f-8ffa-58bff2c16891/5.m3u8
-#EXTINF:-1,LOOP TEXAS TUNES
+#EXTINF:-1,LOOP TEXAS TUNES FHD
 https://931a92f064db4a8db82cb89f072dc6c7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_loop/74fcffcf-b3eb-47dc-b338-9e6a38241a8d/5.m3u8
-#EXTINF:-1,LOOP THAT'S HOT
+#EXTINF:-1,LOOP THAT'S HOT FHD
 https://0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_loop/56d57a01-9fc2-402d-a7b1-f4bd931ecc11/5.m3u8
-#EXTINF:-1,LOOP YACHT ROCK
+#EXTINF:-1,LOOP YACHT ROCK FHD
 https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/b6cccfb4-4fca-4d05-9e65-e4fc75989d71/5.m3u8
 
 #EXTINF:-1,UseeSports 1
