@@ -1781,18 +1781,35 @@ http://171.4.161.216:9981/stream/channelid/819459722?ticket=415ED5108E9187F5774C
 http://171.4.161.216:9981/stream/channelid/906832766?ticket=546E4662671BDF6DD194D24E4DF4012C2E1F1991&profile=pass
 #EXTINF:-1 tvg-id="38f18f90e9736c7a0b8d845f381e033e",Cinemax 
 http://171.4.161.216:9981/stream/channelid/277868856?ticket=BF0771A47B033683090293D55216CF0156571F36&profile=pass
+
 #EXTINF:-1 tvg-id="15dbb1284f263e23d23b1d63b4f4ff7a",encoder2
 http://171.4.161.216:9981/stream/channelid/682744597?ticket=05932454DE5FE5A954EA7BE3499AE9DEA8F33F2A&profile=pass
+#EXTINF:-1 tvg-id="15dbb1284f263e23d23b1d63b4f4ff7a",encoder2'
+http://171.4.161.216:9981/stream/channel/15dbb1284f263e23d23b1d63b4f4ff7a?title=encoder2
+#EXTINF:-1 tvg-id="15dbb1284f263e23d23b1d63b4f4ff7a",encoder2"
+http://171.4.161.216:9981/stream/mux/e3d8ac1eaebee8540805b8453a9fd4c2?title=encoder2%20%2F%20xtream
+
 #EXTINF:-1 tvg-id="0476ba41388a213f7a0dfb81060a86a7",FOX Family Movies
 http://171.4.161.216:9981/stream/channelid/1102738948?ticket=50265E5E7867579795BCE898AB7401E8CAE1F33B&profile=pass
 #EXTINF:-1 tvg-id="8f154587f7c8be91e656ac643fb7e39d",Fox test
 http://171.4.161.216:9981/stream/channelid/121968015?ticket=B28B68C921E7715FBCA5D1E71B61C6DC53000785&profile=pass
 #EXTINF:-1 tvg-id="8440596a58a829f8086718979b60c51e",HBO HD
 http://171.4.161.216:9981/stream/channelid/1784234116?ticket=FD12CF030696FEC20D860B37315388578704BF7B&profile=pass
+
 #EXTINF:-1 tvg-id="cba495b9a2ad5b4677673d49ac298619",VIP HD1
 http://171.4.161.216:9981/stream/channelid/966108363?ticket=340350BEC3F10D65091822255C18A15B8DE16408&profile=pass
+#EXTINF:-1 tvg-id="cba495b9a2ad5b4677673d49ac298619",VIP HD1'
+http://171.4.161.216:9981/stream/channel/cba495b9a2ad5b4677673d49ac298619?title=VIP%20HD1
+#EXTINF:-1 tvg-id="cba495b9a2ad5b4677673d49ac298619",VIP HD1"
+http://171.4.161.216:9981/stream/mux/9cf0b005756711872510792c2700d4a6?title=VIP%20HD1%20%2F%20xtream
+
 #EXTINF:-1 tvg-id="52508e96f03075344319f3369247672e",VIP HD3
 http://171.4.161.216:9981/stream/channelid/378425426?ticket=3FA3C219D0936B3031023733A04B917961CCE040&profile=pass
+#EXTINF:-1 tvg-id="52508e96f03075344319f3369247672e",VIP HD3'
+http://171.4.161.216:9981/stream/channel/52508e96f03075344319f3369247672e?title=VIP%20HD3
+#EXTINF:-1 tvg-id="52508e96f03075344319f3369247672e",VIP HD3"
+http://171.4.161.216:9981/stream/mux/93068dc3c24eef87391aff725056b679?title=VIP%20HD3%20%2F%20xtream
+
 #EXTINF:-1 tvg-id="0cf51d32e2a42dbe9fe4eb187b8cf4d9",Warner
 http://171.4.161.216:9981/stream/channelid/840824076?ticket=C285ECC27F66F1BF9E00089DD26FB48F26D7877B&profile=pass
 #EXTINF:-1 tvg-id="36b7e18fb26a718fc2c37a25e950da4f",{name-not-set}
@@ -1813,6 +1830,22 @@ http://171.4.161.216:9981/stream/channelid/1659012231?ticket=C41AD37CAFBC0DE3B55
 http://171.4.161.216:9981/stream/channelid/2030037892?ticket=352685EBC0EB1CD1D7174EFD62294FBC1C94BEEA&profile=pass
 #EXTINF:-1 tvg-id="46b9677cb41a6488e86af621933de26a" group-title="TH/171.4",{name-not-set}
 http://171.4.161.216:9981/stream/channelid/2087172422?ticket=E0A768A2AC655358A1CEA8F6BDD9C2C9A30860B0&profile=pass
+
+http://171.4.161.216:9981/stream/mux/b39af9128856a9021b06a48061692e0d?title=Animal%20Planet%20%2F%20xtream
+http://171.4.161.216:9981/stream/channel/38f18f90e9736c7a0b8d845f381e033e?title=Cinemax%20
+http://171.4.161.216:9981/stream/mux/eb556a2e43611f10ba7caed40a2f9acd?title=Cinemax%20%20%2F%20xtream
+http://171.4.161.216:9981/stream/mux/495e184e0f870055d4f859461a9e80d8?title=FOX%20Action%20Movies%20%2F%20xtream
+http://171.4.161.216:9981/stream/channel/0476ba41388a213f7a0dfb81060a86a7?title=FOX%20Family%20Movies
+http://171.4.161.216:9981/stream/mux/379e46234c7dce33396b09a49a68fd8a?title=FOX%20Family%20Movies%20%2F%20xtream
+http://171.4.161.216:9981/stream/channel/8440596a58a829f8086718979b60c51e?title=HBO%20HD
+http://171.4.161.216:9981/stream/mux/e9d776daf57f657b2e899fc2d02e0388?title=HBO%20HD%20%2F%20xtream
+http://171.4.161.216:9981/stream/mux/4ffd904fcbd591af0b707b4fd50f2867?title=hbo%20hit%20%2F%20xtream
+http://171.4.161.216:9981/stream/mux/cde84d1bf18e2c838811fa1d920ca436?title=HBO%20Sig%20%2F%20xtream
+
+
+
+http://171.4.161.216:9981/stream/channel/0cf51d32e2a42dbe9fe4eb187b8cf4d9?title=Warner
+http://171.4.161.216:9981/stream/mux/f94b4ed13522317c0df4099579f1dd95?title=WBTV%20%2F%20xtream
 
 http://171.4.161.216:9981/play/stream/mux/b39af9128856a9021b06a48061692e0d?title=Animal%20Planet%20%2F%20xtream
 http://171.4.161.216:9981/play/stream/channel/38f18f90e9736c7a0b8d845f381e033e?title=Cinemax%20
