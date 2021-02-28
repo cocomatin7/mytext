@@ -428,6 +428,15 @@ https://d2qw5e19354vil.cloudfront.net/out/v1/31cf06a5948c488e85ddef08474e807d/in
 http://cdn.streamspass.club/live/streamsd/playlist.m3u8
 https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/za5cq0ormjrr93u.m3u8?s=OMrxGFA-fGzYWJDWukVijA&e=1612724087
 
+#EXTINF:-1,SPass1
+https://cdn28.sportspass.io/ff680340.m3u8
+#EXTINF:-1,SPass2
+https://cdn28.sportspass.io/ffa79ee6.m3u8
+#EXTINF:-1,SPass3
+https://cdn28.sportspass.io/ff286681.m3u8
+#EXTINF:-1,SPass4
+https://cdn28.sportspass.io/ff214ea4.m3u8
+
 #EXTINF:-1, CNBC LIVE
 https://afdfadsds.global.ssl.fastly.net/LiveApp/streams/630825105027713152264570.m3u8
 
