@@ -424,11 +424,17 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bbec2fcf9b5
 https://d2qw5e19354vil.cloudfront.net/out/v1/31cf06a5948c488e85ddef08474e807d/index.m3u8
 
 
-, NBCSN LIVE *
+#EXTINF:-1,NBCSN LIVE *
+http://cdn.streamspass.club/live/streamsd/playlist.m3u8
 https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/za5cq0ormjrr93u.m3u8?s=OMrxGFA-fGzYWJDWukVijA&e=1612724087
 
 #EXTINF:-1, CNBC LIVE
 https://afdfadsds.global.ssl.fastly.net/LiveApp/streams/630825105027713152264570.m3u8
+
+
+http://streamwat.ch/custom/player/#https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+http://streamwat.ch/custom/player/#https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+http://streamwat.ch/custom/player/#https://www.livedoomovies.com/02_BTSPORTHD_3_720p/chunklist.m3u8
 
 , BT SPORT 3 LIVE *
 https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/f2s41vu1evpyi2.m3u8?s=BFnbvI6UjrXV2t-rnwyxTg&e=1612724082
