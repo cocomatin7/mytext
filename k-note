@@ -263,19 +263,36 @@ https://app.mb13.men/c/livedo/truepremierfootball3-hd.m3u8
 
 #EXTINF:-1,SUPERSPORT 1 |laos-tech
 https://laos-tech-live.b-cdn.net/my-asp1hd_720/index.m3u8
+#EXTINF:-1,SUPERSPORT 1 |laos-tech*
+http://laos-tech-live.b-cdn.net/my-asp1hd_720/index.m3u8
+
 #EXTINF:-1,SUPERSPORT 2 |laos-tech
 https://laos-tech-live.b-cdn.net/my-asp2hd_720/index.m3u8
+#EXTINF:-1,SUPERSPORT 2 |laos-tech*
+http://laos-tech-live.b-cdn.net/my-asp2hd_720/index.m3u8
+
 #EXTINF:-1,SUPERSPORT 3 |laos-tech
 https://laos-tech-live.b-cdn.net/my-asp3hd_720/index.m3u8
+#EXTINF:-1,SUPERSPORT 3 |laos-tech*
+http://laos-tech-live.b-cdn.net/my-asp3hd_720/index.m3u8
+
 #EXTINF:-1,SUPERSPORT 4 |laos-tech
+https://laos-tech-live.b-cdn.net/my-asp4hd_720/index.m3u8
+#EXTINF:-1,SUPERSPORT 4 |laos-tech*
 https://laos-tech-live.b-cdn.net/my-asp4hd_720/index.m3u8
 
 #EXTINF:-1,True Premiere Football HD1 |laos-tech
 https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
+#EXTINF:-1,True Premiere Football HD1 |laos-tech*
+http://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
 #EXTINF:-1,True Premiere Football HD2 |laos-tech
 https://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
+#EXTINF:-1,True Premiere Football HD2 |laos-tech*
+http://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
 #EXTINF:-1,True Premiere Football HD3 |laos-tech
 https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
+#EXTINF:-1,True Premiere Football HD3 |laos-tech*
+http://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
 
 #EXTINF:-1,True Premiere Football HD1 |ldm
 https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
