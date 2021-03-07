@@ -2946,6 +2946,7 @@ https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/chunklist.m3u
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="GB",BBC WORLD NEWS
 #EXTINF:-1,BBC WORLD NEWS |CS
 https://cloud-service.best/hplus.php?play&id=73425
+
 #EXTINF:-1,CNN |218
 http://218.202.220.2:5000/nn_live.ts?id=CNN
 #EXTINF:-1,CNN |CS
@@ -2965,6 +2966,9 @@ https://cnnnewsource-i.akamaihd.net/hls/live/258562/CNNNewsource2/master.m3u8
 #EXTINF:-1,CNN News Source'
 http://cnnnewsource-i.akamaihd.net/hls/live/258565/CNNNewsource5/master.m3u8
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,CNN |cdn77*
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 https://1176700211.rsc.cdn77.org/MIvMKLuOkeBLX2680ucG1w==,1607576912/1176700211/tracks-v1a1/mono.m3u8
 https://1176700211.rsc.cdn77.org/opmh6kDzyzTJzGPIiEQ1_g==,1598828865/1176700211/tracks-v1a1/mono.m3u8
 https://1176700211.rsc.cdn77.org/1zH5dLYYIUJEZp6eoekpwA==,1604481595/1176700211/tracks-v1a1/mono.m3u8
