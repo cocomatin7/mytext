@@ -355,8 +355,6 @@ http://pie.buzz:83/live/Peter.nyr1909/6547736256/386619.m3u8
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/386620.m3u8
 
 
-
-
 #EXTINF:-1,KSport1
 http://93.157.62.180/KSport1/index.m3u8
 #EXTINF:-1,KSport2
@@ -589,7 +587,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea60567408
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
 #EXTINF:-1,LOOP 80'S FHD
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/0a3255a5-e315-46e6-b8cb-4b9bce25cc11/5.m3u8
-#EXTINF:-1,LOOP 80'S
+#EXTINF:-1,LOOP 80'S HD
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/0a3255a5-e315-46e6-b8cb-4b9bce25cc11/4.m3u8
 
 #EXTINF:-1,LOOP 90'S FHD
