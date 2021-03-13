@@ -1902,6 +1902,49 @@ http://4digital.ddns.net:9981/play/stream/mux/f94b4ed13522317c0df4099579f1dd95?t
 #EXTINF:-1 group-title="TH/4digit", WarnerTV* |4digit
 http://4digital.ddns.net:9981/stream/service/0df4ac932e8840a7c0d88c5583d9e540?title=Warner%20%2F%20TTT
 
+#EXTINF:-1 tvg-id="b7cb6ff1e82ec50c494431e6121d0694",Cinemax 
+http://4digital.ddns.net:9981/stream/channelid/1903152055?ticket=FCD88F0617587F86AD111443E24BB356C2A18BE9&profile=pass
+#EXTINF:-1 tvg-id="1c13d7a07bbe1a5a8cbcb75b9f913c4a",encoder2
+http://4digital.ddns.net:9981/stream/channelid/550966044?ticket=38414A983E311E20A5204C043F6F7206A0B8F1EC&profile=pass
+#EXTINF:-1 tvg-id="dc63b6b5aeeb536ed9b47569c436e05b",Fox action HD
+http://4digital.ddns.net:9981/stream/channelid/901145564?ticket=45955AEB4D3DF23921EEF8231CBA7EBBBDA67AEF&profile=pass
+#EXTINF:-1 tvg-id="2c6debfa7a01c3859803b097a0e329ec",FOX Life
+http://4digital.ddns.net:9981/stream/channelid/2062249260?ticket=ADEB410200E9CDC71FA6CEAD7957C911DB85A642&profile=pass
+#EXTINF:-1 tvg-id="f79b88c6a5d9023704cbd4152e02077d",FOXFFM
+http://4digital.ddns.net:9981/stream/channelid/1183357943?ticket=09575E7327F63DD5E105F256732C6B41F16DAF29&profile=pass
+#EXTINF:-1 tvg-id="13b7b27bf34621a723c312dbefe8cd9a",FOXMP
+http://4digital.ddns.net:9981/stream/channelid/2075309843?ticket=6C889A1FBF3C183CBDCFF6956D27BA1A044E1213&profile=pass
+#EXTINF:-1 tvg-id="cdc31b70f2da1b65f40b093a00010983",HBO TH
+http://4digital.ddns.net:9981/stream/channelid/1880867789?ticket=9D41B4E38C77AA8FC026CBE533E5EA4ED9AE506E&profile=pass
+#EXTINF:-1 tvg-id="371381ea9eaf1cd2447944b35a4f3c0a",T Sport
+http://4digital.ddns.net:9981/stream/channelid/1786843959?ticket=09CAA320B2FF577EBD0B486B802B2B4B66A8CCB3&profile=pass
+#EXTINF:-1 tvg-id="d8ce50a3bec5713d489a3934f4dabdfb",TPE 3
+http://4digital.ddns.net:9981/stream/channelid/592498392?ticket=B7D4F566B8F9ACB9DB44C5E998A27B053247E288&profile=pass
+#EXTINF:-1 tvg-id="c17d6f37ac75534c57a9356594ce8d0b",VIP HD1
+http://4digital.ddns.net:9981/stream/channelid/930053569?ticket=8B989B09504A281DED09028B54D78F34FCAAE64F&profile=pass
+#EXTINF:-1 tvg-id="d27013eb98639759b778ce3cf3ac40d3",VIP HD3
+http://4digital.ddns.net:9981/stream/channelid/1796436178?ticket=9B816BF4C6C4AAB872C8984FCF5D1F373027EB71&profile=pass
+#EXTINF:-1 tvg-id="358c10d348260c969fb9141fe7b67bc6",Warner
+http://4digital.ddns.net:9981/stream/channelid/1393593397?ticket=E9D73FFBCF1A0C1B33C0337DBA51EA593D1FB72A&profile=pass
+#EXTINF:-1 tvg-id="a87376bf8b2068731b9d15de882a42bc",Warner TV
+http://4digital.ddns.net:9981/stream/channelid/1064727464?ticket=5870A4BE6DF47ECA33A3EF420F8057D724F6D338&profile=pass
+#EXTINF:-1 tvg-id="dee982989b368ddee5d330c7eba2f685",{name-not-set}
+http://4digital.ddns.net:9981/stream/channelid/411232734?ticket=F574B930DC93BA735CEA84E93CB701B6C7DE3E5B&profile=pass
+#EXTINF:-1 tvg-id="9a423fb3d03ce5a3e46225d83f522611",{name-not-set}
+http://4digital.ddns.net:9981/stream/channelid/859783834?ticket=539175DDE1B0A9C2B5BE4F94A4DAF9AF64958CA4&profile=pass
+#EXTINF:-1 tvg-id="6585e0b32cbbd0d408e9ea70c49f5e53",{name-not-set}
+http://4digital.ddns.net:9981/stream/channelid/870352229?ticket=A7DF85C25F8173E05D6AC824DB929DD65A6E5684&profile=pass
+#EXTINF:-1 tvg-id="02dece3c8e08f8c6c0ec9da351d0574e",{name-not-set}
+http://4digital.ddns.net:9981/stream/channelid/1020190210?ticket=85D6E8577123FCBB483372FE8DEF45F3A62F9E31&profile=pass
+#EXTINF:-1 tvg-id="1f08acda008bbec24b3bae0c8459f3a2",{name-not-set}
+http://4digital.ddns.net:9981/stream/channelid/1521223711?ticket=5262E50BC148499E25F0650D57E5E4A0A6CB8951&profile=pass
+#EXTINF:-1 tvg-id="6d18ff708220a7f8bcb05b3f56b45ffb",{name-not-set}
+http://4digital.ddns.net:9981/stream/channelid/1895766125?ticket=F78F4AABCCD15BC19E366A1EE0D5DC9D50F02B6C&profile=pass
+#EXTINF:-1 tvg-id="0451f67cb0df2711f1691fcbc4973df6",{name-not-set}
+http://4digital.ddns.net:9981/stream/channelid/2096517380?ticket=EC6AEC5067EB5A07E3A26D2A80362196976F3B67&profile=pass
+#EXTINF:-1 tvg-id="477201fd4ad1d34dcc3160532efc53cd",{name-not-set}
+http://4digital.ddns.net:9981/stream/channelid/2097246791?ticket=4068219972CE6994ED268AA9C9BAD5C252F15869&profile=pass
+
 + + + + + http://171.4.161.216:9981/extjs.html + + + + +
 
 #EXTINF:-1 tvg-id="8af6d730fec246530256a8f12f3e7c2e" group-title="TH/171.4",CCTV5
