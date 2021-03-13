@@ -414,6 +414,7 @@ http://cdn7.hhdstreams.club/live/abr_ch4/live/ch4_720p/chunks.m3u8
 http://cdn7.hhdstreams.club/live/abr_ch5/live/ch5_720p/chunks.m3u8
 
 #EXTINF:-1,OVO L1
+http://d1qag1ur6to329.cloudfront.net/hls/live1.m3u8
 http://77.247.109.116/hls/live1.m3u8
 http://192.166.246.122/hls/live1.m3u8
 
@@ -429,6 +430,7 @@ http://192.166.246.122/hls/ovostreams5.m3u8
 http://192.166.246.122/hls/ovostreams12.m3u8
 
 #EXTINF:-1,OVO 2
+http://77.247.109.116/hls/ovo2.m3u8
 http://77.247.109.116/hls/ovo2.m3u8
 http://192.166.246.122/hls/ovo2.m3u8
 
@@ -1780,6 +1782,13 @@ http://4digital.ddns.net:9981/stream/service/1dbec728fd4c80b591761f1ff25a6277?ti
 offline
 http://4digital.ddns.net:9981/stream/service/c8c79f93a336289531cfe3555174925e?ticket=33A937844738DFCF9AC41EF2C2D9F127CFCF62E8
 
+
+#EXTINF:-1 group-title="TH/4digit", asss
+http://4digital.ddns.net:9981/play/stream/mux/9fbd51d89a0d3a6ae4102571dc209cb9?title=asss%20%2F%20xtream
+
+
+
+
 #EXTINF:-1 group-title="TH/4digit", VIP HD1 / FOX MOVIES |4digit
 http://4digital.ddns.net:9981/stream/service/524c8ebc773cff38883b108e6ddb78b3?title=VIP%20HD1
 http://4digital.ddns.net:9981/play/stream/service/524c8ebc773cff38883b108e6ddb78b3?title=VIP%20HD1
@@ -1850,14 +1859,20 @@ http://4digital.ddns.net:9981/stream/service/524c8ebc773cff38883b108e6ddb78b3?ti
 http://4digital.ddns.net:9981/stream/service/9eaba2b89c25f13c00fe59a915659ea1?ticket=487511BF4EFB570E9E5273DE55EF1149410DA401
 #EXTINF:-1,fox Moive* |4digit
 http://4digital.ddns.net:9981/stream/mux/cd0886c1728b12540c5c9641f7f49e71?title=foxMoive%20%2F%20xtream
+#EXTINF:-1,FOX MOVIES PREMIUM |4digit
+http://4digital.ddns.net:9981/stream/mux/80b2bdad4a7fcc83a8890524a5bc2f7f?title=FOXMP%20%2F%20xtream
 
-#EXTINF:-1,FOX Action MOVIES |4digit
+ FOX Action MOVIES |4digit
 http://4digital.ddns.net:9981/stream/service/38d3c9236281bcd40829fde2744f78e4?title=FOX%20Action%20Movies
-#EXTINF:-1,FOX Action MOVIES* |4digit
+ FOX Action MOVIES* |4digit
 http://4digital.ddns.net:9981/stream/mux/495e184e0f870055d4f859461a9e80d8?title=FOX%20Action%20Movies%20%2F%20xtream
+#EXTINF:-1,FOX ACTION MOVIES* |4digit
+http://4digital.ddns.net:9981/stream/mux/6a73119e4517c5813c99426c21caca6f?title=Fox%20action%20HD%20%2F%20xtream
 
 #EXTINF:-1,FOX Family MOVIES |4digit
 http://4digital.ddns.net:9981/stream/service/cae8d79225fee492198d50159dcc6961?title=FOX%20Family%20Movies
+#EXTINF:-1,FOX family MOVIES |4digit
+http://4digital.ddns.net:9981/stream/mux/f883c3704883bb1dabc9061f8c5729bf?title=FOXFFM%20%2F%20xtream
 #EXTINF:-1,FOX Family MOVIES' |4digit
 http://4digital.ddns.net:9981/stream/service/cae8d79225fee492198d50159dcc6961?ticket=DFB973A683642A16FC30F9D14A6D66ACD20E4AF6
 #EXTINF:-1,FOX Family MOVIES* |4digit
@@ -1883,6 +1898,7 @@ http://4digital.ddns.net:9981/stream/service/c8c79f93a336289531cfe3555174925e?ti
 
 #EXTINF:-1, WarnerTV |4digit
 http://4digital.ddns.net:9981/stream/mux/f94b4ed13522317c0df4099579f1dd95?title=WBTV%20%2F%20xtream
+http://4digital.ddns.net:9981/play/stream/mux/f94b4ed13522317c0df4099579f1dd95?title=WBTV%20%2F%20xtream
 #EXTINF:-1 group-title="TH/4digit", WarnerTV* |4digit
 http://4digital.ddns.net:9981/stream/service/0df4ac932e8840a7c0d88c5583d9e540?title=Warner%20%2F%20TTT
 
