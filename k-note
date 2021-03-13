@@ -1945,6 +1945,13 @@ http://4digital.ddns.net:9981/stream/channelid/2096517380?ticket=EC6AEC5067EB5A0
 #EXTINF:-1 tvg-id="477201fd4ad1d34dcc3160532efc53cd",{name-not-set}
 http://4digital.ddns.net:9981/stream/channelid/2097246791?ticket=4068219972CE6994ED268AA9C9BAD5C252F15869&profile=pass
 
++ + + + + http://116.204.181.238:9981/extjs.html + + + + +
+
+#EXTINF:-1 tvg-id="ab2e96925297c48537054172d7d887a1" group-title="TH/116.204",SKynet sport HD
+http://116.204.181.238:9981/stream/channelid/311832235?ticket=9F70532A1463CE100E923F394DEF83B210764F25&profile=pass
+#EXTINF:-1 tvg-id="f3ef5fea3cf8425665cacb7079fb3a9c" group-title="TH/116.204",Sport Klub HD
+http://116.204.181.238:9981/stream/channelid/1784672243?ticket=7A2563D1244E690F52F11643F757B732398D99AE&profile=pass
+
 + + + + + http://171.4.161.216:9981/extjs.html + + + + +
 
  tvg-id="8af6d730fec246530256a8f12f3e7c2e" group-title="TH/171.4",CCTV5
