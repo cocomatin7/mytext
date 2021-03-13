@@ -1949,6 +1949,18 @@ http://4digital.ddns.net:9981/stream/channelid/2097246791?ticket=4068219972CE699
 
 #EXTINF:-1 tvg-id="ab2e96925297c48537054172d7d887a1" group-title="TH/116.204",SKynet sport HD
 http://116.204.181.238:9981/stream/channelid/311832235?ticket=9F70532A1463CE100E923F394DEF83B210764F25&profile=pass
+
+#EXTINF:-1,SKynet sport HD
+http://116.204.181.238:9981/stream/mux/4404e2ae7e7f817ec5f681ced04d86cb?title=SKynet%20sport%20HD%20%2F%20encoder
+#EXTINF:-1,Sport Klub HD
+http://116.204.181.238:9981/stream/mux/bd39212b66f44e31392d1459f25ffcb1?title=Sport%20Klub%20HD%20%2F%20IPTV%20Automatic%20Network
+#EXTINF:-1,TEN 1 HD
+http://116.204.181.238:9981/stream/mux/4493b52199801e8078254d8fb7088085?title=TEN%201%20HD%20%2F%20encoder
+#EXTINF:-1,TPE1-1
+http://116.204.181.238:9981/stream/mux/22a670110dc4ae60082f702464f042ce?title=TPE1-1%20%2F%20encoder
+#EXTINF:-1,TRUE Movies Hit HD
+http://116.204.181.238:9981/stream/mux/f753475ce21c80892fe3dce88723d6b1?title=TRUE%20Movies%20Hit%20HD%20%2F%20encoder
+
 #EXTINF:-1 tvg-id="f3ef5fea3cf8425665cacb7079fb3a9c" group-title="TH/116.204",Sport Klub HD
 http://116.204.181.238:9981/stream/channelid/1784672243?ticket=7A2563D1244E690F52F11643F757B732398D99AE&profile=pass
 
