@@ -1949,6 +1949,8 @@ http://4digital.ddns.net:9981/stream/channelid/2097246791?ticket=4068219972CE699
 
 #EXTINF:-1 tvg-id="ab2e96925297c48537054172d7d887a1" group-title="TH/116.204",SKynet sport HD
 http://116.204.181.238:9981/stream/channelid/311832235?ticket=9F70532A1463CE100E923F394DEF83B210764F25&profile=pass
+#EXTINF:-1 tvg-id="ab2e96925297c48537054172d7d887a1" group-title="TH/116.204",SKynet sport HD*
+http://116.204.181.238:9981/stream/channel/ab2e96925297c48537054172d7d887a1?title=SKynet%20sport%20HD
 
 #EXTINF:-1,SKynet sport HD
 http://116.204.181.238:9981/stream/service/bc3b819e01ee7efdf15a09771972f5f6?title=SKynet%20sport%20HD
@@ -1974,6 +1976,8 @@ http://116.204.181.238:9981/stream/mux/f753475ce21c80892fe3dce88723d6b1?title=TR
 
 #EXTINF:-1 tvg-id="f3ef5fea3cf8425665cacb7079fb3a9c" group-title="TH/116.204",Sport Klub HD
 http://116.204.181.238:9981/stream/channelid/1784672243?ticket=7A2563D1244E690F52F11643F757B732398D99AE&profile=pass
+#EXTINF:-1 tvg-id="f3ef5fea3cf8425665cacb7079fb3a9c" group-title="TH/116.204",Sport Klub HD
+http://116.204.181.238:9981/stream/channel/f3ef5fea3cf8425665cacb7079fb3a9c?title=Sport%20Klub%20HD
 
 + + + + + http://171.4.161.216:9981/extjs.html + + + + +
 
