@@ -1784,10 +1784,10 @@ http://4digital.ddns.net:9981/stream/service/c8c79f93a336289531cfe3555174925e?ti
 
 
 #EXTINF:-1 group-title="TH/4digit", asss
-http://4digital.ddns.net:9981/play/stream/mux/9fbd51d89a0d3a6ae4102571dc209cb9?title=asss%20%2F%20xtream
+http://4digital.ddns.net:9981/stream/mux/9fbd51d89a0d3a6ae4102571dc209cb9?title=asss%20%2F%20xtream
 
-
-
+#EXTINF:-1 group-title="TH/4digit", TPE3 / TPF HD1
+http://4digital.ddns.net:9981/stream/channel/d8ce50a3bec5713d489a3934f4dabdfb?title=TPE%203
 
 #EXTINF:-1 group-title="TH/4digit", VIP HD1 / FOX MOVIES |4digit
 http://4digital.ddns.net:9981/stream/service/524c8ebc773cff38883b108e6ddb78b3?title=VIP%20HD1
