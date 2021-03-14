@@ -531,6 +531,39 @@ http://103.252.220.46:25461/live/41246671289321/41604451921808/78993.m3u8?token=
 #EXTINF:-1, S Cricket
 http://103.252.220.46:25461/live/41246671289321/41604451921808/78992.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA==
 
+#EXTINF:-1,UseeSports 1
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-useesport
+#EXTINF:-1,UseeSports 2
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-useesports2
+#EXTINF:-1,Bein Sport 1
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-bein1
+#EXTINF:-1,bein Sport 2
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-bein2
+#EXTINF:-1,Fox Sport 1
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-foxsport1
+#EXTINF:-1,Fox Sport 2
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-foxsport2
+#EXTINF:-1,Fox Sport 3
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-foxsport3
+#EXTINF:-1,KBS World
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-kbsworld
+#EXTINF:-1,HBO
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hbo
+#EXTINF:-1,HBO SIGNATURE
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-sig
+#EXTINF:-1,HBO FAMILY
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-fam
+#EXTINF:-1,HBO HITS
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hits
+#EXTINF:-1,HBO RED
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-red
+#EXTINF:-1,CINEMAX by HBO
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-max
+#EXTINF:-1,CNN International
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-cnninternational
+#EXTINF:-1,Bloomberg
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-blomberg
+
 #EXTINF:-1,COSMOTE SPORT1
 http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8?token=test
 #EXTINF:-1,COSMOTE SPORT2
@@ -646,38 +679,18 @@ https://0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1,LOOP YACHT ROCK FHD
 https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/b6cccfb4-4fca-4d05-9e65-e4fc75989d71/5.m3u8
 
-#EXTINF:-1,UseeSports 1
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-useesport
-#EXTINF:-1,UseeSports 2
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-useesports2
-#EXTINF:-1,Bein Sport 1
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-bein1
-#EXTINF:-1,bein Sport 2
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-bein2
-#EXTINF:-1,Fox Sport 1
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-foxsport1
-#EXTINF:-1,Fox Sport 2
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-foxsport2
-#EXTINF:-1,Fox Sport 3
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-foxsport3
-#EXTINF:-1,KBS World
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-kbsworld
-#EXTINF:-1,HBO
-https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hbo
-#EXTINF:-1,HBO SIGNATURE
-https://home-tv.web.id/dinda/malaka.m3u8?channel=h-sig
-#EXTINF:-1,HBO FAMILY
-https://home-tv.web.id/dinda/malaka.m3u8?channel=h-fam
-#EXTINF:-1,HBO HITS
-https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hits
-#EXTINF:-1,HBO RED
-https://home-tv.web.id/dinda/malaka.m3u8?channel=h-red
-#EXTINF:-1,CINEMAX by HBO
-https://home-tv.web.id/dinda/malaka.m3u8?channel=h-max
-#EXTINF:-1,CNN International
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-cnninternational
-#EXTINF:-1,Bloomberg
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-blomberg
+#EXTINF:-1,LOOP FLASHBACK
+https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_loop/8a997739-f93b-4c80-84bf-68143445bfb0/3.m3u8
+#EXTINF:-1,LOOP THAT'S HOT
+https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_loop/56d57a01-9fc2-402d-a7b1-f4bd931ecc11/3.m3u8
+#EXTINF:-1,LOOP YACHT ROCK
+https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/b6cccfb4-4fca-4d05-9e65-e4fc75989d71/1.m3u8
+#EXTINF:-1,LOOP R&B
+https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/c09c8cd5-96fe-4ddb-a14c-ad076be152cc/0.m3u8
+#EXTINF:-1,LOOP FAR OUT
+https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/b0b4e8ad-0c44-49fe-8646-6dee5c529589/3.m3u8
+
+
 
 http://103.145.12.195:8080/hls/streama145429/index.m3u8 < offline
 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8 < N
