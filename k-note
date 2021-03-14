@@ -9257,7 +9257,7 @@ http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122.m3u8
 
 + + + + + 50.7.136.122:25461 / 1milltvbox.loginto.me:25461 [MY] + + + + +
 
-#EXTINF:-1,Live Events 01:
+#EXTINF:-1 group-title="bigboss",Live Events 01:
 http://bigboss2017.club:8080/OVOmainoneWgTkI/468TGE75ffji6453/130627.m3u8
 #EXTINF:-1,Live Events 02:
 http://bigboss2017.club:8080/OVOmainoneWgTkI/468TGE75ffji6453/130626.m3u8
@@ -9406,7 +9406,7 @@ http://bigboss2017.club:8080/OVOmainoneWgTkI/468TGE75ffji6453/114320.m3u8
 http://bigboss2017.club:8080/OVOmainoneWgTkI/468TGE75ffji6453/114321.m3u8
 #EXTINF:-1,Optus 9
 http://bigboss2017.club:8080/OVOmainoneWgTkI/468TGE75ffji6453/114322.m3u8
-#EXTINF:-1,Optus 10
+#EXTINF:-1 group-title="bigboss",Optus 10
 http://bigboss2017.club:8080/OVOmainoneWgTkI/468TGE75ffji6453/114323.m3u8
 
 + + + + + client.vpnuser.ws:8080 [TH] + + + + +
