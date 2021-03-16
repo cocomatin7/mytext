@@ -636,6 +636,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252
  group-title="BamarTV",Party Tyme Karaoke
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 
+#EXTINF:-1 group-title="BamarTV", MizzimaTV
+https://www.youtube.com/watch?v=u9-jHk_5Nxs
+
 #EXTINF:-1 group-title="BamarTV", 80s Party |loop 
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
 #EXTINF:-1,LOOP 80'S FHD
@@ -2844,13 +2847,13 @@ http://220.158.149.28:8180/live/TV00000000000000000091@HHZT;LIVE
 http://220.158.149.28:8182/hls/TV00000000000000000091@HHZT.m3u8
  tvg-logo="https://www.skynetdth.com/images/channal_logo/Channel_9.png" group-title="Kingtel",CHANNEL 9 /14:9999
 http://220.158.149.14:9999/live/TV00000000000000000091@HHZT
-#EXTINF:-1 group-title="Kingtel",MIZZIMA TV /28:8180
+#EXTINF:-1 group-title="Kingtel",MIZZIMA TV /28:8180 |offline
 http://220.158.149.28:8180/hls/TV00000000000000000092@HHZT
-#EXTINF:-1,MIZZIMA TV //28:8180
+#EXTINF:-1,MIZZIMA TV //28:8180 |offline
 http://220.158.149.28:8180/live/TV00000000000000000092@HHZT
-#EXTINF:-1,MIZZIMA TV /28:8182
+#EXTINF:-1,MIZZIMA TV /28:8182 |offline
 http://220.158.149.28:8182/hls/TV00000000000000000092@HHZT.m3u8
-#EXTINF:-1 group-title="Kingtel",MIZZIMA TV /14:9999
+#EXTINF:-1 group-title="Kingtel",MIZZIMA TV /14:9999 |offline
 http://220.158.149.14:9999/live/TV00000000000000000092@HHZT
  group-title="Kingtel",BBC WORLD NEWS /25:8180
 http://220.158.149.25:8180/TV00000000000000000112@HHZT
@@ -2900,14 +2903,14 @@ http://220.158.149.28:8180/live/TV00000000000000000169@HHZT
 http://220.158.149.28:8182/hls/TV00000000000000000169@HHZT.m3u8
  group-title="Kingtel",CHANNEL 9' /14:9999
 http://220.158.149.14:9999/live/TV00000000000000000169@HHZT
-#EXTINF:-1 group-title="Kingtel",MIZZIMA TV' /28:8180
+#EXTINF:-1 group-title="Kingtel",MIZZIMA TV' /28:8180 |offline
 http://220.158.149.28:8180/hls/TV00000000000000000170@HHZT
 http://220.158.149.28:8180/TV00000000000000000170@HHZT
-#EXTINF:-1,MIZZIMA TV' //28:8180
+#EXTINF:-1,MIZZIMA TV' //28:8180 |offline
 http://220.158.149.28:8180/live/TV00000000000000000170@HHZT
-#EXTINF:-1,MIZZIMA TV' /28:8182
+#EXTINF:-1,MIZZIMA TV' /28:8182 |offline
 http://220.158.149.28:8182/hls/TV00000000000000000170@HHZT
-#EXTINF:-1 group-title="Kingtel",MIZZIMA TV' /14:9999
+#EXTINF:-1 group-title="Kingtel",MIZZIMA TV' /14:9999 |offline
 http://220.158.149.14:9999/live/TV00000000000000000170@HHZT
 
 + + + + + KH/OneTV + + + + + 
