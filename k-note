@@ -638,6 +638,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea60567408
 
 #EXTINF:-1 group-title="BamarTV", MizzimaTV
 https://www.youtube.com/watch?v=u9-jHk_5Nxs
+#EXTINF:-1 group-title="BamarTV", MizzimaTV*
+http://www.youtube.com/embed/u9-jHk_5Nxs
+https://youtu.be/u9-jHk_5Nxs
 
 #EXTINF:-1 group-title="BamarTV", 80s Party |loop 
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
