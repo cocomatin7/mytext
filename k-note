@@ -240,6 +240,14 @@ http://160.119.77.116:8081/iptv/bsb-epl2.stream/playlist.m3u8
 #EXTINF:-1,True Premiere Football HD3 |160*
 http://160.119.77.116:8081/iptv/bsb-epl3.stream/playlist.m3u8
 
+#EXTINF:-1,True Premiere Football HD1 |160
+http://160.119.77.117/iptv/epl-1.stream/chunks.m3u8
+#EXTINF:-1,True Premiere Football HD2 |160
+http://160.119.77.117/iptv/epl-2.stream/chunks.m3u8
+http://160.119.77.117/iptv/epl-3.stream/chunks.m3u8
+http://160.119.77.117/iptv/epl-4.stream/chunks.m3u8
+http://160.119.77.117/iptv/epl-5.stream/chunks.m3u8
+
 #EXTINF:-1,True Premiere Football HD1 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball1-hd.m3u8
 #EXTINF:-1,True Premiere Football HD2 |185
