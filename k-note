@@ -342,44 +342,44 @@ http://pie.buzz:83/live/Peter.nyr1909/6547736256/386619.m3u8
 #EXTINF:-1,IN: Star Sports Select 2 (TEST) |27-02
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/386620.m3u8
 
-#EXTINF:-1,rmc 1
+,rmc 1
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/2545/index.m3u8
-#EXTINF:-1,rmc 2
+,rmc 2
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/2546/index.m3u8
-#EXTINF:-1,rmc 3
+,rmc 3
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/2547/index.m3u8
 
-#EXTINF:-1,MATCH!
+,MATCH!
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6052/index.m3u8
-#EXTINF:-1,CANAL+ SPORT2
+,CANAL+ SPORT2
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6055/index.m3u8
 
 vsport
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6069/index.m3u8
-#EXTINF:-1,M Deportes
+,M Deportes
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6070/index.m3u8
-#EXTINF:-1,DAZN F1
+,DAZN F1
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6071/index.m3u8
-#EXTINF:-1,M LaLiga
+,M LaLiga
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6072/index.m3u8
-#EXTINF:-1,M LaLiga
+,M LaLiga
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6073/index.m3u8
-#EXTINF:-1,M Liga
+,M Liga
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6074/index.m3u8
 
-#EXTINF:-1,ELEVEN SPORTS2
+,ELEVEN SPORTS2
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6082/index.m3u8
-#EXTINF:-1,ELEVEN SPORTS1
+,ELEVEN SPORTS1
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6083/index.m3u8
 
 nicktoons
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6095/index.m3u8
 
-#EXTINF:-1,skysport 1DE
+,skysport 1DE
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6097/index.m3u8
-#EXTINF:-1,CANAL+ SPORT
+,CANAL+ SPORT
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6098/index.m3u8
-#EXTINF:-1,CANAL+ SPORT2
+,CANAL+ SPORT2
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6099/index.m3u8
 
 skysport 2
@@ -387,27 +387,27 @@ http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6113/index.m3u8
 sky news
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6117/index.m3u8
 
-#EXTINF:-1,beIN 1
+,beIN 1
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6123/index.m3u8
-#EXTINF:-1,beIN 3
+,beIN 3
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6124/index.m3u8
-#EXTINF:-1,beIN 4
+,beIN 4
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6125/index.m3u8
-#EXTINF:-1,beIN 5
+,beIN 5
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6126/index.m3u8
-#EXTINF:-1,beIN 6
+,beIN 6
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6127/index.m3u8
-#EXTINF:-1,beIN 4SD
+,beIN 4SD
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6128/index.m3u8
-#EXTINF:-1,beIN 1HD
+,beIN 1HD
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6129/index.m3u8
-#EXTINF:-1,beIN 2FT
+,beIN 2FT
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6130/index.m3u8
-#EXTINF:-1,beIN 1 HD
+,beIN 1 HD
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6131/index.m3u8
-#EXTINF:-1,beIN 1 EN
+,beIN 1 EN
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6132/index.m3u8
-#EXTINF:-1,beIN 2 EN
+,beIN 2 EN
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6133/index.m3u8
 
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6132/index.m3u8 < EXP
@@ -1346,6 +1346,34 @@ http://4digital.ddns.net:9981/stream/mux/bc829eafc93da82a4e54194d7699baa7
 http://4digital.ddns.net:9981/stream/mux/7c4f1149ef1d43041266f5b13dfad63e
 #EXTINF:-1,EPL 2 HD TH
 http://4digital.ddns.net:9981/stream/mux/c53a1cd7668d86080c2d91e8c411f342
+
+#EXTINF:-1,Championship
+http://4digital.ddns.net:9981/stream/mux/e2ac2b3715d1481cb885ac26e1473c84
+#EXTINF:-1,VIP HD1
+http://4digital.ddns.net:9981/stream/mux/a7e489d8448265bf934cd25e59b5b669
+#EXTINF:-1,VIP2
+http://4digital.ddns.net:9981/stream/mux/7c4f1149ef1d43041266f5b13dfad63e
+#EXTINF:-1,TS 1
+http://4digital.ddns.net:9981/stream/mux/5f8cbaad57615150f371cd9e52a00507
+#EXTINF:-1,TS 2
+http://4digital.ddns.net:9981/stream/mux/2baeef58a6f17891729d7b3b82544f1e
+#EXTINF:-1,TS 3
+http://4digital.ddns.net:9981/stream/mux/392f3b0c98a482b63991ad6bbece3201
+#EXTINF:-1,EPL 1 HD TH
+http://4digital.ddns.net:9981/stream/mux/58267dc898a8b994b8fc8efae8cc4f0a
+#EXTINF:-1,EPL 2 HD TH
+http://4digital.ddns.net:9981/stream/mux/c53a1cd7668d86080c2d91e8c411f342
+#EXTINF:-1,beIN SPORTS 1
+http://4digital.ddns.net:9981/stream/mux/fc8bb39ff804af7a19d6a504cc7e58e9
+#EXTINF:-1,beIN SPORTS 2
+http://4digital.ddns.net:9981/stream/mux/bc829eafc93da82a4e54194d7699baa7
+#EXTINF:-1,A BWF
+http://4digital.ddns.net:9981/stream/mux/76a1359ad713e0452770ff810d270e50
+#EXTINF:-1,AS
+http://4digital.ddns.net:9981/stream/mux/871cf710fd70befcbe630089ce196871
+#EXTINF:-1,AS2
+http://4digital.ddns.net:9981/stream/mux/c0efa1b6ba3bc63a377fb23d0c2bb447
+
 
 #EXTINF:-1,EPL 1 HD TH
 http://4digital.ddns.net:9981/stream/service/adc7fb6d3b9f49d34a94656169ef82c6
