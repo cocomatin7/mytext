@@ -272,6 +272,25 @@ http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD3 |77
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 
+-/-/-/-/-/- 198.16.106.58:8278 -/-/-/-/-/
+
+#EXTINF:-1,ASSP 1
+http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1,ASSP 2
+http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1,ASSP 3
+http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1,ASSP 4
+http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
+
+-/-/-/-/-/- offline -/-/-/-/-/
+http://198.16.106.58:8278/supersports/playlist.m3u8
+http://198.16.106.58:8278/supersports2/playlist.m3u8
+http://198.16.106.58:8278/supersports3/playlist.m3u8
+http://198.16.106.58:8278/supersports4/playlist.m3u8
+
+-/-/-/-/-/-
+
 #EXTINF:-1,True Premiere Football HD1 |mb13
 https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
 #EXTINF:-1,True Premiere Football HD2 |mb13
@@ -4097,13 +4116,6 @@ http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFyYLMJn/Zp4v1-Y-L-400x400.jpg",BT 3
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/126
 http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
-
--/-/-/-/-/- offline -/-/-/-/-/
-
-http://198.16.106.58:8278/supersports/playlist.m3u8
-http://198.16.106.58:8278/supersports2/playlist.m3u8
-http://198.16.106.58:8278/supersports3/playlist.m3u8
-http://198.16.106.58:8278/supersports4/playlist.m3u8
 
 -/-/-/-/-/-
 
