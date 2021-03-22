@@ -431,6 +431,14 @@ http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6133/index.m3u8
 
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6132/index.m3u8 < EXP
 
+#EXTINF:-1,BeinPremiumHD2
+http://62.210.246.140:8081/yacinetv/BeinPremiumHD1/playlist.m3u8
+http://62.210.246.140:8081/yacinetv/BeinPremiumHD1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjEgNToyNDo1MiBBTSZoYXNoX3ZhbHVlPTQ3UE1oWFhsMk9mS3hzS05YNlVqZmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1,BeinPremiumHD2
+http://62.210.246.140:8081/yacinetv/BeinPremiumHD2/playlist.m3u8
+
+
+
 #EXTINF:-1,KSport1
 http://93.157.62.180/KSport1/index.m3u8
 #EXTINF:-1,KSport2
@@ -801,6 +809,11 @@ https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/
 https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/b0b4e8ad-0c44-49fe-8646-6dee5c529589/3.m3u8
 
 
+
+bollywood premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+bollywood classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 
 http://103.145.12.195:8080/hls/streama145429/index.m3u8 < offline
 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8 < N
