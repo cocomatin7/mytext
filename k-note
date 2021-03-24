@@ -437,6 +437,8 @@ http://62.210.246.140:8081/yacinetv/BeinPremiumHD1/playlist.m3u8?wmsAuthSign=c2V
 #EXTINF:-1,BeinPremiumHD2
 http://62.210.246.140:8081/yacinetv/BeinPremiumHD2/playlist.m3u8
 
+#EXTINF:-1,beIN SP 1PR
+https://streamcdn.getloconow.com/DUIAV7E2ZF_c113a376-2e87-414d-89de-da8622074455/DUIAV7E2ZF_c113a376-2e87-414d-89de-da8622074455_hi/manifest.m3u8
 
 #EXTINF:-1,KSport1
 http://93.157.62.180/KSport1/index.m3u8
@@ -1124,6 +1126,23 @@ https://www.youtube.com/watch?v=u9-jHk_5Nxs
 #EXTINF:-1 group-title="BamarTV", MizzimaTV*
 http://www.youtube.com/embed/u9-jHk_5Nxs
 https://youtu.be/u9-jHk_5Nxs
+
+#EXTINF:-1,HINDI CINEMA-1
+http://fun6.xyz:2052/HINDI_CINEMA_01/index.m3u8
+#EXTINF:-1,HINDI CINEMA-2 HD
+http://fun6.xyz:2052/HINDI_CINEMA_02/index.m3u8
+#EXTINF:-1,HINDI CINEMA-3
+http://fun6.xyz:2052/HINDI_CINEMA_03/index.m3u8
+#EXTINF:-1,HINDI CINEMA-4
+http://fun6.xyz:2052/HINDI_CINEMA_04/index.m3u8
+#EXTINF:-1,HINDI CINEMA-5
+http://fun6.xyz:2052/HINDI_CINEMA_05/index.m3u8
+#EXTINF:-1,HINDI CINEMA-6
+http://fun6.xyz:2052/HINDI_CINEMA_06/index.m3u8
+#EXTINF:-1,HINDI CINEMA-7
+http://fun6.xyz:2052/HINDI_CINEMA_07/index.m3u8
+#EXTINF:-1,HINDI CINEMA-8
+http://fun6.xyz:2052/HINDI_CINEMA_08/index.m3u8
 
 #EXTINF:-1,Mix 24-7
 http://159.69.56.148:25461/M3UMix247/89ph5uifoi/1
