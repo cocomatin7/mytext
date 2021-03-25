@@ -632,8 +632,15 @@ http://89.187.189.58:80/102/index.m3u8
 http://89.187.189.58:80/127/index.m3u8
 #EXTINF:-1,Bein Sports 9
 http://89.187.189.58:80/130/index.m3u8
+#EXTINF:-1,beIN Sports 1EN
+http://89.187.189.58:80/132/index.m3u8
 #EXTINF:-1,Bein Sports 12
 http://89.187.189.58:80/133/index.m3u8
+#EXTINF:-1,beIN Sports 3EN
+http://89.187.189.58:80/134/index.m3u8
+#EXTINF:-1,beIN Sports 5HD
+http://89.187.189.58:80/135/index.m3u8
+http://89.187.189.58:80/136/index.m3u8
 #EXTINF:-1,Fox News
 http://89.187.189.58:80/196/index.m3u8
 
@@ -781,6 +788,8 @@ http://89.187.189.58:80/1290/index.m3u8
 #EXTINF:-1,Magic TV
 http://89.187.189.58:80/1298/index.m3u8
 
+#EXTINF:-1,STM
+http://89.187.189.58:80/2888/index.m3u8
 #EXTINF:-1,DU TV
 http://89.187.189.58:80/2920/index.m3u8
 
@@ -792,6 +801,8 @@ http://89.187.189.58:80/3127/index.m3u8
 http://89.187.189.58:80/3136/index.m3u8
 #EXTINF:-1,BT Sport 1 HD
 http://89.187.189.58:80/3137/index.m3u8
+#EXTINF:-1,Sky Sports Golf
+http://89.187.189.58:80/3285/index.m3u8
 
 #EXTINF:-1,LFC TV
 http://89.187.189.58:80/4128/index.m3u8
@@ -801,6 +812,8 @@ http://89.187.189.58:80/4132/index.m3u8
 http://89.187.189.58:80/4134/index.m3u8
 #EXTINF:-1,TG4
 http://89.187.189.58:80/4143/index.m3u8
+#EXTINF:-1,LFC
+http://89.187.189.58:80/4150/index.m3u8
 #EXTINF:-1,Quest Red
 http://89.187.189.58:80/4164/index.m3u8
 
@@ -812,6 +825,8 @@ http://89.187.189.58:80/4785/index.m3u8
 http://89.187.189.58:80/4814/index.m3u8
 #EXTINF:-1,CNBC TV1
 http://89.187.189.58:80/4815/index.m3u8
+#EXTINF:-1,Captain News
+http://89.187.189.58:80/4816/index.m3u8
 #EXTINF:-1,DD News
 http://89.187.189.58:80/4817/index.m3u8
 #EXTINF:-1,Colors Cineplex HD
@@ -856,24 +871,6 @@ http://89.187.189.58:80/4882/index.m3u8
 
 
 
-#EXTINF:-1,Captain News
-http://89.187.189.58:80/4816/index.m3u8
-#EXTINF:-1,STM
-http://89.187.189.58:80/2888/index.m3u8
-#EXTINF:-1,LFC
-http://89.187.189.58:80/4150/index.m3u8
-#EXTINF:-1,Sky Sports Golf
-http://89.187.189.58:80/3285/index.m3u8
-
-#EXTINF:-1,beIN Sports 1EN
-http://89.187.189.58/132/index.m3u8
-#EXTINF:-1,beIN Sports 2EN
-http://89.187.189.58/133/index.m3u8
-#EXTINF:-1,beIN Sports 3EN
-http://89.187.189.58/134/index.m3u8
-#EXTINF:-1,beIN Sports 5HD
-http://89.187.189.58/135/index.m3u8
-http://89.187.189.58/136/index.m3u8
 
 #EXTINF:-1,Sky Sports Racing HD
 http://89.187.189.58/14/index.m3u8
