@@ -941,21 +941,44 @@ http://89.187.189.58:80/3285/index.m3u8
 
 #EXTINF:-1,LFC TV
 http://89.187.189.58:80/4128/index.m3u8
+
 #EXTINF:-1,4 Channel HD
 http://89.187.189.58:80/4132/index.m3u8
 #EXTINF:-1,RTE 1
 http://89.187.189.58:80/4134/index.m3u8
+
 #EXTINF:-1,TG4
 http://89.187.189.58:80/4143/index.m3u8
+
 #EXTINF:-1,LFC
 http://89.187.189.58:80/4150/index.m3u8
-#EXTINF:-1,Quest Red
+
+#EXTINF:-1,skysports mix
+http://89.187.189.58:80/4151/index.m3u8
+#EXTINF:-1,skysports news
+http://89.187.189.58:80/4152/index.m3u8
+#EXTINF:-1,4153
+http://89.187.189.58:80/4153/index.m3u8
+#EXTINF:-1,skysports F1
+http://89.187.189.58:80/4154/index.m3u8
+QUEST
+http://89.187.189.58:80/4155/index.m3u8
+#EXTINF:-1,skysports football
+http://89.187.189.58:80/4156/index.m3u8
+#EXTINF:-1,skysports football
+http://89.187.189.58:80/4157/index.m3u8
+#EXTINF:-1,skysports cricket
+http://89.187.189.58:80/4158/index.m3u8
+http://89.187.189.58:80/4159/index.m3u8
+
+Quest Red
 http://89.187.189.58:80/4164/index.m3u8
 
-#EXTINF:-1,Really
+Really
 http://89.187.189.58:80/4783/index.m3u8
-#EXTINF:-1,Yesterday
+Yesterday
 http://89.187.189.58:80/4785/index.m3u8
+
 #EXTINF:-1,CNBC TV18
 http://89.187.189.58:80/4814/index.m3u8
 #EXTINF:-1,CNBC TV1
@@ -964,35 +987,55 @@ http://89.187.189.58:80/4815/index.m3u8
 http://89.187.189.58:80/4816/index.m3u8
 #EXTINF:-1,DD News
 http://89.187.189.58:80/4817/index.m3u8
+
 #EXTINF:-1,Colors Cineplex HD
 http://89.187.189.58:80/4822/index.m3u8
-#EXTINF:-1,&Pictures HD
+abp news
+http://89.187.189.58:80/4830/index.m3u8
+
+http://89.187.189.58:80/4831/index.m3u8
+#EXTINF:-1,&pictures HD
 http://89.187.189.58:80/4832/index.m3u8
-#EXTINF:-1,Movies Now HD
+http://89.187.189.58:80/4833/index.m3u8
+#EXTINF:-1,B4U Music
+http://89.187.189.58:80/4834/index.m3u8
+http://89.187.189.58:80/4835/index.m3u8
+Movies Now HD
 http://89.187.189.58:80/4836/index.m3u8
+http://89.187.189.58:80/4837/index.m3u8
+http://89.187.189.58:80/4838/index.m3u8
+http://89.187.189.58:80/4839/index.m3u8
 #EXTINF:-1,Sony Pix HD
 http://89.187.189.58:80/4840/index.m3u8
+
 #EXTINF:-1,India Today
 http://89.187.189.58:80/4842/index.m3u8
+
 #EXTINF:-1,Sony Six HD
 http://89.187.189.58:80/4852/index.m3u8
 #EXTINF:-1,Zee Bollywood
 http://89.187.189.58:80/4853/index.m3u8
 #EXTINF:-1,Zee Business
 http://89.187.189.58:80/4859/index.m3u8
+http://89.187.189.58:80/4860/index.m3u8
+
 #EXTINF:-1,Star Gold Select HD
 http://89.187.189.58:80/4861/index.m3u8
+#EXTINF:-1,S MAX
+http://89.187.189.58:80/4862/index.m3u8
 #EXTINF:-1,Sony Ten 1 HD
 http://89.187.189.58:80/4863/index.m3u8
+http://89.187.189.58:80/4864/index.m3u8
 #EXTINF:-1,Zee Cinema HD
 http://89.187.189.58:80/4865/index.m3u8
 #EXTINF:-1,Star Sports 2 HD
 http://89.187.189.58:80/4866/index.m3u8
-
+http://89.187.189.58:80/4867/index.m3u8
+http://89.187.189.58:80/4868/index.m3u8
 #EXTINF:-1,Sony Sab HD
 http://89.187.189.58:80/4869/index.m3u8
-
 http://89.187.189.58:80/4870/index.m3u8
+
 STAR GOLD
 http://89.187.189.58:80/4871/index.m3u8
 #EXTINF:-1,Sony Ten 2 HD
@@ -1007,9 +1050,9 @@ http://89.187.189.58:80/4876/index.m3u8
 http://89.187.189.58:80/4877/index.m3u8
 http://89.187.189.58:80/4878/index.m3u8
 http://89.187.189.58:80/4879/index.m3u8
-
 #EXTINF:-1,Sony Ten 3 HD
 http://89.187.189.58:80/4880/index.m3u8
+
 http://89.187.189.58:80/4881/index.m3u8
 #EXTINF:-1,Sony Max HD
 http://89.187.189.58:80/4882/index.m3u8
