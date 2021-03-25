@@ -460,44 +460,76 @@ http://93.157.62.180/Supersport4/index.m3u8
 #EXTINF:-1,Supersport5
 http://93.157.62.180/Supersport5/index.m3u8
 
-#EXTINF:-1,HGTV
-http://89.187.189.58/HGTV/index.m3u8
-#EXTINF:-1,TLC HD
-http://89.187.189.58/TLC/index.m3u8
-#EXTINF:-1,CNN
-http://89.187.189.58/CNN/index.m3u8
-#EXTINF:-1,CNBC
-http://89.187.189.58/CNBC/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://89.187.189.58/Nickelodeon/index.m3u8
-#EXTINF:-1,Bloomberg
-http://89.187.189.58/Bloomberg/index.m3u8
-#EXTINF:-1,E4
-http://89.187.189.58/E4/index.m3u8
-#EXTINF:-1,BBC News
-http://89.187.189.58:80/BBCNews/index.m3u8
-#EXTINF:-1,Food Network
-http://89.187.189.58:80/FoodNetwork/index.m3u8
-#EXTINF:-1,SYFY
-http://89.187.189.58:80/SYFY/index.m3u8
+-/-/-/-/-
+
+#EXTINF:-1,4Seven
+http://89.187.189.58:80/4Seven/index.m3u8
+#EXTINF:-1,5 USA
+http://89.187.189.58:80/5USA/index.m3u8
+#EXTINF:-1,5 Star
+http://89.187.189.58:80/5Star/index.m3u8
+
 #EXTINF:-1,BBC 1
 http://89.187.189.58:80/BBC1/index.m3u8
 #EXTINF:-1,BBC 2
 http://89.187.189.58:80/BBC2/index.m3u8
 #EXTINF:-1,BBC 4
 http://89.187.189.58:80/BBC4/index.m3u8
+#EXTINF:-1,BBC News
+http://89.187.189.58:80/BBCNews/index.m3u8
 #EXTINF:-1,BBC Parliament
 http://89.187.189.58:80/BBCParliament/index.m3u8
 #EXTINF:-1,BBC Red Button
 http://89.187.189.58:80/BBCRedButton/index.m3u8
+#EXTINF:-1,Bloomberg
+http://89.187.189.58/Bloomberg/index.m3u8
+#EXTINF:-1,BOOMERANG
+http://89.187.189.58/BOOMERANG/video.m3u8
+
+#EXTINF:-1,CBeebies
+http://89.187.189.58:80/CBeebies/index.m3u8
+#EXTINF:-1,Cartoonito
+http://89.187.189.58:80/Cartoonito/index.m3u8
 #EXTINF:-1,CBS Reality
 http://89.187.189.58:80/CBSReality/index.m3u8
 #EXTINF:-1,CBS Drama
 http://89.187.189.58:80/CBSDrama/index.m3u8
 #EXTINF:-1,CBS Justice
 http://89.187.189.58:80/CBSJustice/index.m3u8
-#EXTINF:-1,Sky Arts
-http://89.187.189.58:80/SkyArts/index.m3u8
+#EXTINF:-1,CNN
+http://89.187.189.58/CNN/index.m3u8
+#EXTINF:-1,CNBC
+http://89.187.189.58/CNBC/index.m3u8
+#EXTINF:-1,DISNEY_JUNIOR
+http://89.187.189.58/DISNEY_JUNIOR/video.m3u8
+#EXTINF:-1,DISNEY_XD
+http://89.187.189.58/DISNEY_XD/video.m3u8
+#EXTINF:-1,Drama
+http://89.187.189.58:80/Drama/index.m3u8
+#EXTINF:-1,Dave
+http://89.187.189.58:80/Dave/index.m3u8
+
+#EXTINF:-1,E4
+http://89.187.189.58/E4/index.m3u8
+#EXTINF:-1,E_ENTERTAINMENT
+http://89.187.189.58/E_ENTERTAINMENT/video.m3u8
+#EXTINF:-1,eurosport1 hd
+http://89.187.189.58/EUROSPORT_1_HD/index.m3u8
+#EXTINF:-1,eurosport2 hd
+http://89.187.189.58/EUROSPORT_2_HD/index.m3u8
+
+#EXTINF:-1,Food Network
+http://89.187.189.58:80/FoodNetwork/index.m3u8
+#EXTINF:-1,Fox News
+http://89.187.189.58:80/FoxNews/index.m3u8
+#EXTINF:-1,FOX
+http://89.187.189.58:80/FOX/index.m3u8
+
+#EXTINF:-1,HGTV
+http://89.187.189.58/HGTV/index.m3u8
+
+#EXTINF:-1,ID
+http://89.187.189.58/INVESTIGATION_DISCOVERY/index.m3u8
 #EXTINF:-1,ITV
 http://89.187.189.58:80/ITVHD/index.m3u8
 #EXTINF:-1,ITV 2
@@ -508,30 +540,26 @@ http://89.187.189.58:80/ITV3/index.m3u8
 http://89.187.189.58:80/ITV4/index.m3u8
 #EXTINF:-1,ITV Be
 http://89.187.189.58:80/ITVBe/index.m3u8
-#EXTINF:-1,TG 4
-http://89.187.189.58:80/TG4/index.m3u8
-#EXTINF:-1,4Seven
-http://89.187.189.58:80/4Seven/index.m3u8
-#EXTINF:-1,5 USA
-http://89.187.189.58:80/5USA/index.m3u8
-#EXTINF:-1,5 Star
-http://89.187.189.58:80/5Star/index.m3u8
-#EXTINF:-1,CBeebies
-http://89.187.189.58:80/CBeebies/index.m3u8
-#EXTINF:-1,Cartoonito
-http://89.187.189.58:80/Cartoonito/index.m3u8
-#EXTINF:-1,Fox News
-http://89.187.189.58:80/FoxNews/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://89.187.189.58/Nickelodeon/index.m3u8
+
+#EXTINF:-1,Sky Arts
+http://89.187.189.58:80/SkyArts/index.m3u8
+#EXTINF:-1,SYFY
+http://89.187.189.58:80/SYFY/index.m3u8
 #EXTINF:-1,Sony Movies
 http://89.187.189.58:80/SonyMovies/index.m3u8
+
+#EXTINF:-1,TLC HD
+http://89.187.189.58/TLC/index.m3u8
+#EXTINF:-1,TG 4
+http://89.187.189.58:80/TG4/index.m3u8
+
 #EXTINF:-1,Horror Channel
 http://89.187.189.58:80/HorrorChannel/index.m3u8
 #EXTINF:-1,Yesterday
 http://89.187.189.58:80/Yesterday/index.m3u8
-#EXTINF:-1,Drama
-http://89.187.189.58:80/Drama/index.m3u8
-#EXTINF:-1,Dave
-http://89.187.189.58:80/Dave/index.m3u8
+
 #EXTINF:-1,Really
 http://89.187.189.58:80/Really/index.m3u8
 #EXTINF:-1,Quest
@@ -540,24 +568,10 @@ http://89.187.189.58:80/Quest/index.m3u8
 http://89.187.189.58:80/Nick_Jr/index.m3u8
 #EXTINF:-1,Nicktoons
 http://89.187.189.58:80/Nicktoons/index.m3u8
-#EXTINF:-1,FOX
-http://89.187.189.58:80/FOX/index.m3u8
-#EXTINF:-1,ID
-http://89.187.189.58/INVESTIGATION_DISCOVERY/index.m3u8
-#EXTINF:-1,eurosport1 hd
-http://89.187.189.58/EUROSPORT_1_HD/index.m3u8
-#EXTINF:-1,eurosport2 hd
-http://89.187.189.58/EUROSPORT_2_HD/index.m3u8
+
 #EXTINF:-1,COMEDY_CENTRAL
 http://89.187.189.58/COMEDY_CENTRAL/video.m3u8
-#EXTINF:-1,E_ENTERTAINMENT
-http://89.187.189.58/E_ENTERTAINMENT/video.m3u8
-#EXTINF:-1,DISNEY_JUNIOR
-http://89.187.189.58/DISNEY_JUNIOR/video.m3u8
-#EXTINF:-1,DISNEY_XD
-http://89.187.189.58/DISNEY_XD/video.m3u8
-#EXTINF:-1,BOOMERANG
-http://89.187.189.58/BOOMERANG/video.m3u8
+
 
 #EXTINF:-1,Sky Sport News
 http://89.187.189.58:80/1/index.m3u8
@@ -627,8 +641,17 @@ http://89.187.189.58:80/85/index.m3u8
 #EXTINF:-1,BT SPORT 2
 http://89.187.189.58:80/88/index.m3u8
 
+http://89.187.189.58:80/100/index.m3u8
+http://89.187.189.58:80/101/index.m3u8
 #EXTINF:-1,Now Sport1
 http://89.187.189.58:80/102/index.m3u8
+http://89.187.189.58:80/103/index.m3u8
+http://89.187.189.58:80/104/index.m3u8
+http://89.187.189.58:80/105/index.m3u8
+http://89.187.189.58:80/106/index.m3u8
+http://89.187.189.58:80/107/index.m3u8
+http://89.187.189.58:80/108/index.m3u8
+http://89.187.189.58:80/109/index.m3u8
 
 #EXTINF:-1,Bein Sports 6
 http://89.187.189.58:80/127/index.m3u8
@@ -719,25 +742,25 @@ http://89.187.189.58:80/592/index.m3u8
 #EXTINF:-1,Sony Max
 http://89.187.189.58:80/604/index.m3u8
 #EXTINF:-1,Sky Sports HD
-http://89.187.189.58/657/index.m3u8
+http://89.187.189.58:80/657/index.m3u8
 #EXTINF:-1,BT Sport 3
-http://89.187.189.58/658/index.m3u8
+http://89.187.189.58:80/658/index.m3u8
 
 #EXTINF:-1,Sky Sports Main Event
 http://89.187.189.58:80/709/index.m3u8
 #EXTINF:-1,Sky Sports Football
-http://89.187.189.58/711/index.m3u8
+http://89.187.189.58:80/711/index.m3u8
 #EXTINF:-1,Sky Sports Arena
 http://89.187.189.58:80/712/index.m3u8
 #EXTINF:-1,WWE
 http://89.187.189.58:80/769/index.m3u8
 
-http://89.187.189.58/780/index.m3u8
-http://89.187.189.58/781/index.m3u8
+http://89.187.189.58:80/780/index.m3u8
+http://89.187.189.58:80/781/index.m3u8
 #EXTINF:-1,Optus Sport 1 HD
-http://89.187.189.58/782/index.m3u8
+http://89.187.189.58:80/782/index.m3u8
 #EXTINF:-1,Optus Sport 2 HD
-http://89.187.189.58/783/index.m3u8
+http://89.187.189.58:80/783/index.m3u8
 
 http://89.187.189.58:80/784/index.m3u8
 #EXTINF:-1,S LaLiga
