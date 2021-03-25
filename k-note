@@ -712,13 +712,37 @@ http://89.187.189.58:80/769/index.m3u8
 http://89.187.189.58/782/index.m3u8
 #EXTINF:-1,Optus Sport 2 HD
 http://89.187.189.58/783/index.m3u8
+S Premier League
+http://89.187.189.58/794/index.m3u8
+#EXTINF:-1,S Cricket
+http://89.187.189.58/795/index.m3u8
 #EXTINF:-1,SuperSport 5
 http://89.187.189.58:80/796/index.m3u8
+#EXTINF:-1,S Motorsport
+http://89.187.189.58:80/797/index.m3u8
+http://89.187.189.58:80/798/index.m3u8
+#EXTINF:-1,S Maximo1
+http://89.187.189.58:80/799/index.m3u8
 
-#EXTINF:-1,SuperSport 8
+#EXTINF:-1,S Blitz
+http://89.187.189.58:80/800/index.m3u8
+#EXTINF:-1,S Action
+http://89.187.189.58:80/801/index.m3u8
+#EXTINF:-1,S Tennis
 http://89.187.189.58:80/802/index.m3u8
-#EXTINF:-1,SuperSport 11
+#EXTINF:-1,S Variety 4
+http://89.187.189.58:80/803/index.m3u8
+#EXTINF:-1,S Variety 3
+http://89.187.189.58:80/804/index.m3u8
+#EXTINF:-1,S Rugby
 http://89.187.189.58:80/805/index.m3u8
+#EXTINF:-1,S Football
+http://89.187.189.58:80/806/index.m3u8
+http://89.187.189.58:80/807/index.m3u8
+http://89.187.189.58:80/808/index.m3u8
+#EXTINF:-1,S Grandstand
+http://89.187.189.58:80/809/index.m3u8
+
 #EXTINF:-1,Viasat Hochkey
 http://89.187.189.58:80/820/index.m3u8
 
@@ -808,6 +832,8 @@ http://89.187.189.58:80/4853/index.m3u8
 http://89.187.189.58:80/4859/index.m3u8
 #EXTINF:-1,Star Gold Select HD
 http://89.187.189.58:80/4861/index.m3u8
+#EXTINF:-1,Sony Ten 1 HD
+http://89.187.189.58:80/4863/index.m3u8
 #EXTINF:-1,Zee Cinema HD
 http://89.187.189.58:80/4865/index.m3u8
 #EXTINF:-1,Star Sports 2 HD
@@ -816,9 +842,6 @@ http://89.187.189.58:80/4866/index.m3u8
 #EXTINF:-1,Sony Sab HD
 http://89.187.189.58:80/4869/index.m3u8
 
-
-#EXTINF:-1,Sony Ten 1 HD
-http://89.187.189.58:80/4863/index.m3u8
 #EXTINF:-1,Sony Ten 2 HD
 http://89.187.189.58:80/4872/index.m3u8
 #EXTINF:-1,Star Sports 3 HD
@@ -831,36 +854,7 @@ http://89.187.189.58:80/4880/index.m3u8
 #EXTINF:-1,Sony Max HD
 http://89.187.189.58:80/4882/index.m3u8
 
-#EXTINF:-1,S Action
-http://89.187.189.58:80/801/index.m3u8
-#EXTINF:-1,S Cricket
-http://89.187.189.58/795/index.m3u8
-#EXTINF:-1,S Variety 2
-http://89.187.189.58:80/804/index.m3u8
-http://89.187.189.58/796/index.m3u8
-#EXTINF:-1,S Motorsport
-http://89.187.189.58:80/797/index.m3u8
-http://89.187.189.58:80/798/index.m3u8
-#EXTINF:-1,S Maximo1
-http://89.187.189.58:80/799/index.m3u8
-S Premier League
-http://89.187.189.58/794/index.m3u8
-#EXTINF:-1,S Blitz
-http://89.187.189.58:80/800/index.m3u8
-#EXTINF:-1,S Tennis
-http://89.187.189.58:80/802/index.m3u8
-#EXTINF:-1,S Variety 3
-http://89.187.189.58:80/804/index.m3u8
-#EXTINF:-1,S Variety 4
-http://89.187.189.58:80/803/index.m3u8
-#EXTINF:-1,S Football
-http://89.187.189.58:80/806/index.m3u8
-#EXTINF:-1,S Grandstand
-http://89.187.189.58:80/809/index.m3u8
-#EXTINF:-1,S Rugby
-http://89.187.189.58:80/805/index.m3u8
-http://89.187.189.58:80/807/index.m3u8
-http://89.187.189.58:80/808/index.m3u8
+
 
 #EXTINF:-1,Captain News
 http://89.187.189.58:80/4816/index.m3u8
