@@ -474,42 +474,54 @@ http://89.187.189.58/Nickelodeon/index.m3u8
 http://89.187.189.58/Bloomberg/index.m3u8
 #EXTINF:-1,E4
 http://89.187.189.58/E4/index.m3u8
-#EXTINF:-1,Star Plus HD
-http://89.187.189.58:80/316/index.m3u8
-#EXTINF:-1,Colors Rishtey
-http://89.187.189.58:80/481/index.m3u8
-#EXTINF:-1,Zee TV
-http://89.187.189.58:80/463/index.m3u8
-#EXTINF:-1,Fox News
-http://89.187.189.58:80/196/index.m3u8
-#EXTINF:-1,BBC News
-http://89.187.189.58:80/421/index.m3u8
+
+#EXTINF:-1,Sky Sport News
+http://89.187.189.58:80/1/index.m3u8
+http://89.187.189.58:80/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sky Sport Action
+http://89.187.189.58:80/3/index.m3u8
+#EXTINF:-1,Sky Sport News
+http://89.187.189.58:80/5/index.m3u8
 #EXTINF:-1,Eurosport 1
 http://89.187.189.58:80/7/index.m3u8
 #EXTINF:-1,Eurosport 2
 http://89.187.189.58:80/8/index.m3u8
-#EXTINF:-1,Sky Sport News
-http://89.187.189.58:80/5/index.m3u8
-#EXTINF:-1,Sky Sport Action
-http://89.187.189.58:80/3/index.m3u8
-#EXTINF:-1,Sky Sport
-http://89.187.189.58:80/1/index.m3u8
-#EXTINF:-1,Sky Sport Cricket
-http://89.187.189.58:80/307/index.m3u8
-#EXTINF:-1,Sky Sport Premiere League
-http://89.187.189.58:80/309/index.m3u8
 #EXTINF:-1,BT SPORT ESPN
 http://89.187.189.58:80/9/index.m3u8
 #EXTINF:-1,BT SPORT
 http://89.187.189.58:80/13/index.m3u8
 #EXTINF:-1,BT SPORT 2
 http://89.187.189.58:80/88/index.m3u8
+
+#EXTINF:-1,Fox News
+http://89.187.189.58:80/196/index.m3u8
+
 #EXTINF:-1,BT SPORT 3
 http://89.187.189.58:80/295/index.m3u8
-#EXTINF:-1,Bein Sports 2
+
+#EXTINF:-1,Sky Sport Cricket
+http://89.187.189.58:80/307/index.m3u8
+#EXTINF:-1,Sky Sport Premiere League
+http://89.187.189.58:80/309/index.m3u8
+#EXTINF:-1,Star Plus HD
+http://89.187.189.58:80/316/index.m3u8
+
+#EXTINF:-1,BBC News
+http://89.187.189.58:80/421/index.m3u8
+#EXTINF:-1,beIN Sports 2
 http://89.187.189.58:80/424/index.m3u8
-#EXTINF:-1,Bein Sports 5
+#EXTINF:-1,S Golf
+http://89.187.189.58:80/425/index.m3u8
+#EXTINF:-1,beIN Sports 3
+http://89.187.189.58:80/426/index.m3u8
+#EXTINF:-1,beIN Sports 5
 http://89.187.189.58:80/427/index.m3u8
+#EXTINF:-1,Zee TV
+http://89.187.189.58:80/463/index.m3u8
+#EXTINF:-1,Colors Rishtey
+http://89.187.189.58:80/481/index.m3u8
+
+
 #EXTINF:-1,Bein Sports 6
 http://89.187.189.58:80/127/index.m3u8
 #EXTINF:-1,Bein Sports 9
@@ -10045,125 +10057,125 @@ http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122.m3u8
 
 + + + + + iptvportuguese.live:8010 / bigserver.theworkpc.com:8010 + + + + +
 
-#EXTINF:-1 group-title="bigserver",FR: RMC SPORT 1 HD
+ group-title="bigserver",FR: RMC SPORT 1 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5451.m3u8
-#EXTINF:-1,FR: RMC SPORT 2 HD
+,FR: RMC SPORT 2 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/1146.m3u8
-#EXTINF:-1,FR: RMC SPORT 3 HD
+,FR: RMC SPORT 3 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/1994.m3u8
-#EXTINF:-1,FR: RMC SPORT 4 HD
+,FR: RMC SPORT 4 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3851.m3u8
-#EXTINF:-1,PL: Canal+ Sport 2 HD
+,PL: Canal+ Sport 2 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/12383.m3u8
-#EXTINF:-1,PL: Canal+ Sport 4 HD
+,PL: Canal+ Sport 4 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/12385.m3u8
-#EXTINF:-1,PL: Canal+ Sport HD
+,PL: Canal+ Sport HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/12382.m3u8
-#EXTINF:-1,PL: Eleven Sports 1 FHD
+,PL: Eleven Sports 1 FHD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/12401.m3u8
-#EXTINF:-1,PL: Eleven Sports 2 FHD
+,PL: Eleven Sports 2 FHD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/12349.m3u8
-#EXTINF:-1,PL: Eleven Sports 3 FHD
+,PL: Eleven Sports 3 FHD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/12348.m3u8
-#EXTINF:-1,PL: POLSAT SPORT FIGHT HD
+,PL: POLSAT SPORT FIGHT HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/12329.m3u8
-#EXTINF:-1,PL: POLSAT SPORT EXTRA HD
+,PL: POLSAT SPORT EXTRA HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/12395.m3u8
-#EXTINF:-1,PL: Polsat Sport HD
+,PL: Polsat Sport HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/12394.m3u8
-#EXTINF:-1,PL: Polsat Sport Premium 1 HD
+,PL: Polsat Sport Premium 1 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/12396.m3u8
-#EXTINF:-1,PL: Polsat Sport Premium 2 HD
+,PL: Polsat Sport Premium 2 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/12397.m3u8
-#EXTINF:-1,PT: Eleven Sports 1 FHD
+,PT: Eleven Sports 1 FHD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/6895.m3u8
-#EXTINF:-1,PT: Eleven Sports 1 HD
+,PT: Eleven Sports 1 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5604.m3u8
-#EXTINF:-1,PT: Eleven Sports 1 SD
+,PT: Eleven Sports 1 SD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/6897.m3u8
-#EXTINF:-1,PT: Eleven Sports 2 FHD
+,PT: Eleven Sports 2 FHD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/6892.m3u8
-#EXTINF:-1,PT: Eleven Sports 2 HD
+,PT: Eleven Sports 2 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5603.m3u8
-#EXTINF:-1,PT: Eleven Sports 2 SD
+,PT: Eleven Sports 2 SD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/6894.m3u8
-#EXTINF:-1,PT: Eleven Sports 3 HD
+,PT: Eleven Sports 3 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5602.m3u8
-#EXTINF:-1,PT: Eleven Sports 3 SD
+,PT: Eleven Sports 3 SD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7741.m3u8
-#EXTINF:-1,PT: Eleven Sports 4 HD
+,PT: Eleven Sports 4 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5601.m3u8
-#EXTINF:-1,PT: Eleven Sports 4 SD
+,PT: Eleven Sports 4 SD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7740.m3u8
-#EXTINF:-1,PT: Eleven Sports 5 HD
+,PT: Eleven Sports 5 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5600.m3u8
-#EXTINF:-1,PT: Eleven Sports 5 SD
+,PT: Eleven Sports 5 SD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7739.m3u8
-#EXTINF:-1,PT: Eleven Sports 6 HD
+,PT: Eleven Sports 6 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5599.m3u8
-#EXTINF:-1,PT: Eleven Sports 6 SD
+,PT: Eleven Sports 6 SD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7738.m3u8
-#EXTINF:-1,PT: SPORT TV 1 FHD
+,PT: SPORT TV 1 FHD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3698.m3u8
-#EXTINF:-1,PT: SPORT TV 1 HD
+,PT: SPORT TV 1 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/799.m3u8
-#EXTINF:-1,PT: SPORT TV 2
+,PT: SPORT TV 2
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3236.m3u8
-#EXTINF:-1,PT: SPORT TV 2 FHD
+,PT: SPORT TV 2 FHD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3700.m3u8
-#EXTINF:-1,PT: SPORT TV 2 HD
+,PT: SPORT TV 2 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/798.m3u8
-#EXTINF:-1,PT: SPORT TV 3
+,PT: SPORT TV 3
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3235.m3u8
-#EXTINF:-1,PT: SPORT TV 3 HD
+,PT: SPORT TV 3 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/797.m3u8
-#EXTINF:-1,PT: SPORT TV 4
+,PT: SPORT TV 4
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3234.m3u8
-#EXTINF:-1,PT: SPORT TV 4 HD
+,PT: SPORT TV 4 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/796.m3u8
-#EXTINF:-1,PT: SPORT TV 5
+,PT: SPORT TV 5
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3233.m3u8
-#EXTINF:-1,PT: SPORT TV 5 HD
+,PT: SPORT TV 5 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/1658.m3u8
-#EXTINF:-1,UK: B4U MOVIES
+,UK: B4U MOVIES
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/3176.m3u8
-#EXTINF:-1,UK: BT Sport 1 HD
+,UK: BT Sport 1 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/141.m3u8
-#EXTINF:-1,UK: BT Sport 2 HD
+,UK: BT Sport 2 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/142.m3u8
-#EXTINF:-1,UK: BT Sport 3 HD
+,UK: BT Sport 3 HD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/2443.m3u8
-#EXTINF:-1,BE: ELEVEN PRO LEAGUE 1 HD (FR)
+,BE: ELEVEN PRO LEAGUE 1 HD (FR)
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/18149.m3u8
-#EXTINF:-1,BE: ELEVEN PRO LEAGUE 2 FHD
+,BE: ELEVEN PRO LEAGUE 2 FHD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/18150.m3u8
-#EXTINF:-1,BE: ELEVEN PRO LEAGUES 1 FHD (FR)
+,BE: ELEVEN PRO LEAGUES 1 FHD (FR)
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/18151.m3u8
-#EXTINF:-1,BE: ELEVEN PRO LEAGUES 2 FHD (FR)
+,BE: ELEVEN PRO LEAGUES 2 FHD (FR)
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/18152.m3u8
-#EXTINF:-1,BE: ELEVEN PRO LEAGUES 3 FHD (FR)
+,BE: ELEVEN PRO LEAGUES 3 FHD (FR)
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/18153.m3u8
-#EXTINF:-1,BE: ELEVENSPORT 1 (fr)
+,BE: ELEVENSPORT 1 (fr)
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/18154.m3u8
-#EXTINF:-1,BE: ELEVENSPORT 1 (BE)
+,BE: ELEVENSPORT 1 (BE)
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/18155.m3u8
-#EXTINF:-1,BE: ELEVENSPORT 2 (BE)
+,BE: ELEVENSPORT 2 (BE)
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/18156.m3u8
-#EXTINF:-1,BE: ELEVENSPORT 2 (FR)
+,BE: ELEVENSPORT 2 (FR)
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/18157.m3u8
-#EXTINF:-1,BE: ELEVENSPORT 3 (BE)
+,BE: ELEVENSPORT 3 (BE)
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/18158.m3u8
-#EXTINF:-1,BE: ELEVENSPORT 3 (FR)
+,BE: ELEVENSPORT 3 (FR)
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/18159.m3u8
-#EXTINF:-1,BE: PLAY SPORTS 1 FHD
+,BE: PLAY SPORTS 1 FHD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/18161.m3u8
-#EXTINF:-1,BE: PLAY SPORTS 2 FHD
+,BE: PLAY SPORTS 2 FHD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/18163.m3u8
-#EXTINF:-1,BE: PLAY SPORTS 3 FHD
+,BE: PLAY SPORTS 3 FHD
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/18165.m3u8
-#EXTINF:-1,BE: PLAY SPORTS 4
+,BE: PLAY SPORTS 4
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/18166.m3u8
-#EXTINF:-1 group-title="bigserver",BE: PLAY SPORTS 5
+ group-title="bigserver",BE: PLAY SPORTS 5
 http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/18167.m3u8
 
 + + + + + bigboss2017.club:8080 / 198.16.72.106:8080 / bornw1ld.cyou:8080 + + + + + DOWN + + + + +
