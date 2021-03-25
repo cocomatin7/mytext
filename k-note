@@ -490,21 +490,44 @@ http://89.187.189.58:80/8/index.m3u8
 http://89.187.189.58:80/9/index.m3u8
 #EXTINF:-1,BT SPORT
 http://89.187.189.58:80/13/index.m3u8
+
+
+
+#EXTINF:-1,4 Channel
+http://89.187.189.58:80/18/index.m3u8
+#EXTINF:-1,MTV Classic
+http://89.187.189.58:80/46/index.m3u8
+#EXTINF:-1,Gold
+http://89.187.189.58:80/58/index.m3u8
 #EXTINF:-1,BT SPORT 2
 http://89.187.189.58:80/88/index.m3u8
 
+#EXTINF:-1,Bein Sports 6
+http://89.187.189.58:80/127/index.m3u8
+#EXTINF:-1,Bein Sports 9
+http://89.187.189.58:80/130/index.m3u8
+#EXTINF:-1,Bein Sports 12
+http://89.187.189.58:80/133/index.m3u8
 #EXTINF:-1,Fox News
 http://89.187.189.58:80/196/index.m3u8
 
 #EXTINF:-1,BT SPORT 3
 http://89.187.189.58:80/295/index.m3u8
 
+#EXTINF:-1,TLC
+http://89.187.189.58:80/304/index.m3u8
 #EXTINF:-1,Sky Sport Cricket
 http://89.187.189.58:80/307/index.m3u8
 #EXTINF:-1,Sky Sport Premiere League
 http://89.187.189.58:80/309/index.m3u8
 #EXTINF:-1,Star Plus HD
 http://89.187.189.58:80/316/index.m3u8
+#EXTINF:-1,Paramount Network
+http://89.187.189.58:80/334/index.m3u8
+#EXTINF:-1,Fox
+http://89.187.189.58:80/337/index.m3u8
+#EXTINF:-1,together TV
+http://89.187.189.58:80/340/index.m3u8
 
 #EXTINF:-1,BBC News
 http://89.187.189.58:80/421/index.m3u8
@@ -522,46 +545,33 @@ http://89.187.189.58:80/463/index.m3u8
 http://89.187.189.58:80/481/index.m3u8
 
 
-#EXTINF:-1,Bein Sports 6
-http://89.187.189.58:80/127/index.m3u8
-#EXTINF:-1,Bein Sports 9
-http://89.187.189.58:80/130/index.m3u8
-#EXTINF:-1,Bein Sports 12
-http://89.187.189.58:80/133/index.m3u8
-#EXTINF:-1,Fox
-http://89.187.189.58:80/337/index.m3u8
-#EXTINF:-1,together TV
-http://89.187.189.58:80/340/index.m3u8
-#EXTINF:-1,TLC
-http://89.187.189.58:80/304/index.m3u8
-#EXTINF:-1,Paramount Network
-http://89.187.189.58:80/334/index.m3u8
-#EXTINF:-1,Gold
-http://89.187.189.58:80/58/index.m3u8
-#EXTINF:-1,4 Channel
-http://89.187.189.58:80/18/index.m3u8
-#EXTINF:-1,MTV Classic
-http://89.187.189.58:80/46/index.m3u8
+
+#EXTINF:-1,Star Gold
+http://89.187.189.58:80/529/index.m3u8
+#EXTINF:-1,PTC Punjabi
+http://89.187.189.58:80/538/index.m3u8
+
 #EXTINF:-1,MTV Rocks
 http://89.187.189.58:80/580/index.m3u8
-#EXTINF:-1,The Box
-http://89.187.189.58:80/1289/index.m3u8
-#EXTINF:-1,The Box UK
-http://89.187.189.58:80/1290/index.m3u8
-#EXTINF:-1,Magic TV
-http://89.187.189.58:80/1298/index.m3u8
 #EXTINF:-1,Nick Jr
 http://89.187.189.58:80/586/index.m3u8
+
 #EXTINF:-1,Pop Max
 http://89.187.189.58:80/1246/index.m3u8
 #EXTINF:-1,BBC Cbeebies
 http://89.187.189.58:80/1255/index.m3u8
 #EXTINF:-1,Tiny Pop
 http://89.187.189.58:80/1256/index.m3u8
-#EXTINF:-1,PTC Punjabi
-http://89.187.189.58:80/538/index.m3u8
-#EXTINF:-1,Star Gold
-http://89.187.189.58:80/529/index.m3u8
+
+#EXTINF:-1,The Box
+http://89.187.189.58:80/1289/index.m3u8
+#EXTINF:-1,The Box UK
+http://89.187.189.58:80/1290/index.m3u8
+#EXTINF:-1,Magic TV
+http://89.187.189.58:80/1298/index.m3u8
+
+
+
 #EXTINF:-1,Star Plus
 http://89.187.189.58:80/1099/index.m3u8
 #EXTINF:-1,B4U Music
