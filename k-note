@@ -895,8 +895,14 @@ http://89.187.189.58:80/1099/index.m3u8
 
 #EXTINF:-1,Sony Movies Action
 http://89.187.189.58:80/1174/index.m3u8
+#EXTINF:-1,Laliga TV HD
+http://89.187.189.58/1187/mono.m3u8
 #EXTINF:-1,Premier Sports
 http://89.187.189.58:80/1193/index.m3u8
+#EXTINF:-1,Premier sports 2
+http://89.187.189.58/1194/mono.m3u8
+#EXTINF:-1,Free sports
+http://89.187.189.58/1195/mono.m3u8
 
 #EXTINF:-1,Pop Max
 http://89.187.189.58:80/1246/index.m3u8
@@ -1080,12 +1086,9 @@ http://89.187.189.58:80/4900/index.m3u8
 
 /-/-/-/-
 
-#EXTINF:-1,Free sports
-http://89.187.189.58/1195/mono.m3u8
-#EXTINF:-1,Premier sports 2
-http://89.187.189.58/1194/mono.m3u8
-#EXTINF:-1,Laliga TV HD
-http://89.187.189.58/1187/mono.m3u8
+beIN Sports 1
+http://3.yacinelg.xyz/live/918454578/index.m3u8
+
 
 ,GVIP CH1
 http://phoenixzoon.goodviping.xyz/live/CH1/index.m3u8
