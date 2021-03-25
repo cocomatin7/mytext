@@ -728,10 +728,22 @@ http://89.187.189.58:80/568/index.m3u8
 #EXTINF:-1,MUTV HD
 http://89.187.189.58/578/index.m3u8
 
-#EXTINF:-1,MTV Rocks
+#EXTINF:-1,MTV 90s
 http://89.187.189.58:80/580/index.m3u8
-#EXTINF:-1,Nick Jr
+#EXTINF:-1,CNN
+http://89.187.189.58:80/581/index.m3u8
+#EXTINF:-1,FREE SPORT LIVE
+http://89.187.189.58:80/582/index.m3u8
+http://89.187.189.58:80/583/index.m3u8
+http://89.187.189.58:80/584/index.m3u8
+nick Jr.
+http://89.187.189.58:80/585/index.m3u8
+#EXTINF:-1,Nicktoon
 http://89.187.189.58:80/586/index.m3u8
+Disney XD
+http://89.187.189.58:80/587/index.m3u8
+Pick
+http://89.187.189.58:80/588/index.m3u8
 #EXTINF:-1,Pick
 http://89.187.189.58:80/589/index.m3u8
 #EXTINF:-1,Sky Sports Mix
@@ -739,13 +751,44 @@ http://89.187.189.58/591/index.m3u8
 #EXTINF:-1,Crime and Investigation
 http://89.187.189.58:80/592/index.m3u8
 
+http://89.187.189.58:80/600/index.m3u8
+http://89.187.189.58:80/601/index.m3u8
+http://89.187.189.58:80/602/index.m3u8
+http://89.187.189.58:80/603/index.m3u8
 #EXTINF:-1,Sony Max
 http://89.187.189.58:80/604/index.m3u8
-#EXTINF:-1,Sky Sports HD
+http://89.187.189.58:80/605/index.m3u8
+http://89.187.189.58:80/606/index.m3u8
+http://89.187.189.58:80/607/index.m3u8
+http://89.187.189.58:80/608/index.m3u8
+http://89.187.189.58:80/609/index.m3u8
+
+http://89.187.189.58:80/650/index.m3u8
+http://89.187.189.58:80/651/index.m3u8
+http://89.187.189.58:80/652/index.m3u8
+http://89.187.189.58:80/653/index.m3u8
+http://89.187.189.58:80/654/index.m3u8
+http://89.187.189.58:80/655/index.m3u8
+http://89.187.189.58:80/656/index.m3u8
+#EXTINF:-1,Sky Sports F1
 http://89.187.189.58:80/657/index.m3u8
 #EXTINF:-1,BT Sport 3
 http://89.187.189.58:80/658/index.m3u8
+#EXTINF:-1,UFC Stream
+http://89.187.189.58:80/659/index.m3u8
 
+http://89.187.189.58:80/700/index.m3u8
+http://89.187.189.58:80/701/index.m3u8
+http://89.187.189.58:80/702/index.m3u8
+http://89.187.189.58:80/703/index.m3u8
+http://89.187.189.58:80/704/index.m3u8
+http://89.187.189.58:80/705/index.m3u8
+horror
+http://89.187.189.58:80/706/index.m3u8
+horror1
+http://89.187.189.58:80/707/index.m3u8
+BLAZE
+http://89.187.189.58:80/708/index.m3u8
 #EXTINF:-1,Sky Sports Main Event
 http://89.187.189.58:80/709/index.m3u8
 #EXTINF:-1,Sky Sports Football
@@ -758,8 +801,10 @@ http://89.187.189.58:80/769/index.m3u8
 http://89.187.189.58:80/780/index.m3u8
 http://89.187.189.58:80/781/index.m3u8
 #EXTINF:-1,Optus Sport 1 HD
+http://89.187.189.58/782/tracks-v1a1/mono.m3u8
 http://89.187.189.58:80/782/index.m3u8
 #EXTINF:-1,Optus Sport 2 HD
+http://89.187.189.58/783/tracks-v1a1/mono.m3u8
 http://89.187.189.58:80/783/index.m3u8
 
 http://89.187.189.58:80/784/index.m3u8
@@ -829,10 +874,21 @@ http://89.187.189.58:80/1017/index.m3u8
 http://89.187.189.58:80/1019/index.m3u8
 #EXTINF:-1,France 24
 http://89.187.189.58:80/1028/index.m3u8
+
+http://89.187.189.58:80/1080/index.m3u8
+#EXTINF:-1,COLOR
+http://89.187.189.58:80/1081/index.m3u8
+http://89.187.189.58:80/1082/index.m3u8
 #EXTINF:-1,B4U Music
 http://89.187.189.58:80/1083/index.m3u8
-#EXTINF:-1,B4U Movies
+http://89.187.189.58:80/1084/index.m3u8
+http://89.187.189.58:80/1085/index.m3u8
+http://89.187.189.58:80/1086/index.m3u8
+#EXTINF:-1,B4U MOVIES
 http://89.187.189.58:80/1087/index.m3u8
+http://89.187.189.58:80/1088/index.m3u8
+#EXTINF:-1,9x Music
+http://89.187.189.58:80/1089/index.m3u8
 
 #EXTINF:-1,Star Plus
 http://89.187.189.58:80/1099/index.m3u8
@@ -936,12 +992,22 @@ http://89.187.189.58:80/4866/index.m3u8
 #EXTINF:-1,Sony Sab HD
 http://89.187.189.58:80/4869/index.m3u8
 
+http://89.187.189.58:80/4870/index.m3u8
+STAR GOLD
+http://89.187.189.58:80/4871/index.m3u8
 #EXTINF:-1,Sony Ten 2 HD
 http://89.187.189.58:80/4872/index.m3u8
-#EXTINF:-1,Star Sports 3 HD
+#EXTINF:-1,Star Sports 2 HD
 http://89.187.189.58:80/4873/index.m3u8
 #EXTINF:-1,Zee News
 http://89.187.189.58:80/4874/index.m3u8
+http://89.187.189.58:80/4875/index.m3u8
+COLOR HD
+http://89.187.189.58:80/4876/index.m3u8
+http://89.187.189.58:80/4877/index.m3u8
+http://89.187.189.58:80/4878/index.m3u8
+http://89.187.189.58:80/4879/index.m3u8
+
 #EXTINF:-1,Sony Ten 3 HD
 http://89.187.189.58:80/4880/index.m3u8
 http://89.187.189.58:80/4881/index.m3u8
@@ -952,6 +1018,22 @@ MIRROR NOW
 http://89.187.189.58:80/4884/index.m3u8
 COLOR
 http://89.187.189.58:80/4885/index.m3u8
+http://89.187.189.58:80/4886/index.m3u8
+http://89.187.189.58:80/4887/index.m3u8
+http://89.187.189.58:80/4888/index.m3u8
+http://89.187.189.58:80/4889/index.m3u8
+http://89.187.189.58:80/4890/index.m3u8
+http://89.187.189.58:80/4891/index.m3u8
+http://89.187.189.58:80/4892/index.m3u8
+http://89.187.189.58:80/4893/index.m3u8
+http://89.187.189.58:80/4894/index.m3u8
+http://89.187.189.58:80/4895/index.m3u8
+http://89.187.189.58:80/4896/index.m3u8
+http://89.187.189.58:80/4897/index.m3u8
+http://89.187.189.58:80/4898/index.m3u8
+http://89.187.189.58:80/4899/index.m3u8
+GSTV IN
+http://89.187.189.58:80/4900/index.m3u8
 
 /-/-/-/-
 
