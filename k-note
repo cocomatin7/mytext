@@ -732,14 +732,33 @@ http://89.187.189.58:80/712/index.m3u8
 #EXTINF:-1,WWE
 http://89.187.189.58:80/769/index.m3u8
 
+http://89.187.189.58/780/index.m3u8
+http://89.187.189.58/781/index.m3u8
 #EXTINF:-1,Optus Sport 1 HD
 http://89.187.189.58/782/index.m3u8
 #EXTINF:-1,Optus Sport 2 HD
 http://89.187.189.58/783/index.m3u8
-S Premier League
-http://89.187.189.58/794/index.m3u8
+
+http://89.187.189.58:80/784/index.m3u8
+#EXTINF:-1,S LaLiga
+http://89.187.189.58:80/785/index.m3u8
+#EXTINF:-1,S PSL
+http://89.187.189.58:80/786/index.m3u8
+#EXTINF:-1,beIN Sport 1EN
+http://89.187.189.58:80/787/index.m3u8
+#EXTINF:-1,BTV1
+http://89.187.189.58:80/788/index.m3u8
+#EXTINF:-1,skysports football
+http://89.187.189.58:80/789/index.m3u8
+http://89.187.189.58:80/790/index.m3u8
+#EXTINF:-1,791
+http://89.187.189.58:80/791/index.m3u8
+http://89.187.189.58:80/792/index.m3u8
+http://89.187.189.58:80/793/index.m3u8
+#EXTINF:-1,S Premier League
+http://89.187.189.58:80/794/index.m3u8
 #EXTINF:-1,S Cricket
-http://89.187.189.58/795/index.m3u8
+http://89.187.189.58:80/795/index.m3u8
 #EXTINF:-1,SuperSport 5
 http://89.187.189.58:80/796/index.m3u8
 #EXTINF:-1,S Motorsport
@@ -766,7 +785,18 @@ http://89.187.189.58:80/807/index.m3u8
 http://89.187.189.58:80/808/index.m3u8
 #EXTINF:-1,S Grandstand
 http://89.187.189.58:80/809/index.m3u8
-
+http://89.187.189.58:80/810/index.m3u8
+http://89.187.189.58:80/811/index.m3u8
+http://89.187.189.58:80/812/index.m3u8
+http://89.187.189.58:80/813/index.m3u8
+http://89.187.189.58:80/814/index.m3u8
+http://89.187.189.58:80/815/index.m3u8
+http://89.187.189.58:80/816/index.m3u8
+http://89.187.189.58:80/817/index.m3u8
+SMTV
+http://89.187.189.58:80/818/index.m3u8
+819
+http://89.187.189.58:80/819/index.m3u8
 #EXTINF:-1,Viasat Hochkey
 http://89.187.189.58:80/820/index.m3u8
 
