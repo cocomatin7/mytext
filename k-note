@@ -548,6 +548,16 @@ http://89.187.189.58/INVESTIGATION_DISCOVERY/index.m3u8
 http://89.187.189.58/EUROSPORT_1_HD/index.m3u8
 #EXTINF:-1,eurosport2 hd
 http://89.187.189.58/EUROSPORT_2_HD/index.m3u8
+#EXTINF:-1,COMEDY_CENTRAL
+http://89.187.189.58/COMEDY_CENTRAL/video.m3u8
+#EXTINF:-1,E_ENTERTAINMENT
+http://89.187.189.58/E_ENTERTAINMENT/video.m3u8
+#EXTINF:-1,DISNEY_JUNIOR
+http://89.187.189.58/DISNEY_JUNIOR/video.m3u8
+#EXTINF:-1,DISNEY_XD
+http://89.187.189.58/DISNEY_XD/video.m3u8
+#EXTINF:-1,BOOMERANG
+http://89.187.189.58/BOOMERANG/video.m3u8
 
 #EXTINF:-1,Sky Sport News
 http://89.187.189.58:80/1/index.m3u8
@@ -615,6 +625,9 @@ http://89.187.189.58:80/85/index.m3u8
 #EXTINF:-1,BT SPORT 2
 http://89.187.189.58:80/88/index.m3u8
 
+#EXTINF:-1,Now Sport1
+http://89.187.189.58:80/102/index.m3u8
+
 #EXTINF:-1,Bein Sports 6
 http://89.187.189.58:80/127/index.m3u8
 #EXTINF:-1,Bein Sports 9
@@ -641,6 +654,8 @@ http://89.187.189.58:80/334/index.m3u8
 http://89.187.189.58:80/337/index.m3u8
 #EXTINF:-1,together TV
 http://89.187.189.58:80/340/index.m3u8
+#EXTINF:-1,ITVbe
+http://89.187.189.58:80/343/index.m3u8
 #EXTINF:-1,BBC Parliament
 http://89.187.189.58:80/346/index.m3u8
 
@@ -654,8 +669,12 @@ http://89.187.189.58:80/425/index.m3u8
 http://89.187.189.58:80/426/index.m3u8
 #EXTINF:-1,beIN Sports 5
 http://89.187.189.58:80/427/index.m3u8
+#EXTINF:-1,ITV
+http://89.187.189.58:80/433/index.m3u8
 #EXTINF:-1,Zee TV
 http://89.187.189.58:80/463/index.m3u8
+#EXTINF:-1,Sony SAB
+http://89.187.189.58:80/466/index.m3u8
 #EXTINF:-1,Colors Rishtey
 http://89.187.189.58:80/481/index.m3u8
 
@@ -672,16 +691,27 @@ http://89.187.189.58:80/568/index.m3u8
 http://89.187.189.58:80/580/index.m3u8
 #EXTINF:-1,Nick Jr
 http://89.187.189.58:80/586/index.m3u8
+#EXTINF:-1,Pick
+http://89.187.189.58:80/589/index.m3u8
+#EXTINF:-1,Crime and Investigation
+http://89.187.189.58:80/592/index.m3u8
 
 #EXTINF:-1,Sony Max
 http://89.187.189.58:80/604/index.m3u8
 
 #EXTINF:-1,Sky Sports Main Event
 http://89.187.189.58:80/709/index.m3u8
+#EXTINF:-1,Sky Sports Football
+http://89.187.189.58/711/index.m3u8
 #EXTINF:-1,Sky Sports Arena
 http://89.187.189.58:80/712/index.m3u8
 #EXTINF:-1,WWE
 http://89.187.189.58:80/769/index.m3u8
+
+#EXTINF:-1,Optus Sport 1 HD
+http://89.187.189.58/782/index.m3u8
+#EXTINF:-1,Optus Sport 2 HD
+http://89.187.189.58/783/index.m3u8
 #EXTINF:-1,SuperSport 5
 http://89.187.189.58:80/796/index.m3u8
 
@@ -706,6 +736,8 @@ http://89.187.189.58:80/1087/index.m3u8
 #EXTINF:-1,Star Plus
 http://89.187.189.58:80/1099/index.m3u8
 
+#EXTINF:-1,Sony Movies Action
+http://89.187.189.58:80/1174/index.m3u8
 #EXTINF:-1,Premier Sports
 http://89.187.189.58:80/1193/index.m3u8
 
@@ -725,49 +757,29 @@ http://89.187.189.58:80/1290/index.m3u8
 #EXTINF:-1,Magic TV
 http://89.187.189.58:80/1298/index.m3u8
 
+#EXTINF:-1,DU TV
+http://89.187.189.58:80/2920/index.m3u8
 
 #EXTINF:-1,Two
 http://89.187.189.58:80/3107/index.m3u8
-
-
-#EXTINF:-1,ITV
-http://89.187.189.58:80/433/index.m3u8
-
-#EXTINF:-1,ITVbe
-http://89.187.189.58:80/343/index.m3u8
-
-#EXTINF:-1,Sony Movies Action
-http://89.187.189.58:80/1174/index.m3u8
-#EXTINF:-1,Sony SAB
-http://89.187.189.58:80/466/index.m3u8
-
-#EXTINF:-1,Crime and Investigation
-http://89.187.189.58:80/592/index.m3u8
-
-#EXTINF:-1,Pick
-http://89.187.189.58:80/589/index.m3u8
-#EXTINF:-1,RTE 1
-http://89.187.189.58:80/4134/index.m3u8
-#EXTINF:-1,4 Channel HD
-http://89.187.189.58:80/4132/index.m3u8
-
-#EXTINF:-1,Now Sport1
-http://89.187.189.58:80/102/index.m3u8
-
 #EXTINF:-1,Box Nation
 http://89.187.189.58:80/3127/index.m3u8
+#EXTINF:-1,BT Sport 2 HD
+http://89.187.189.58:80/3136/index.m3u8
+#EXTINF:-1,BT Sport 1 HD
+http://89.187.189.58:80/3137/index.m3u8
+
+#EXTINF:-1,LFC TV
+http://89.187.189.58:80/4128/index.m3u8
+#EXTINF:-1,4 Channel HD
+http://89.187.189.58:80/4132/index.m3u8
+#EXTINF:-1,RTE 1
+http://89.187.189.58:80/4134/index.m3u8
 #EXTINF:-1,TG4
 http://89.187.189.58:80/4143/index.m3u8
 #EXTINF:-1,Quest Red
 http://89.187.189.58:80/4164/index.m3u8
-#EXTINF:-1,LFC TV
-http://89.187.189.58:80/4128/index.m3u8
-#EXTINF:-1,BT Sport 1 HD
-http://89.187.189.58:80/3137/index.m3u8
-#EXTINF:-1,BT Sport 2 HD
-http://89.187.189.58:80/3136/index.m3u8
-#EXTINF:-1,DU TV
-http://89.187.189.58:80/2920/index.m3u8
+
 #EXTINF:-1,Really
 http://89.187.189.58:80/4783/index.m3u8
 #EXTINF:-1,Yesterday
@@ -788,44 +800,36 @@ http://89.187.189.58:80/4836/index.m3u8
 http://89.187.189.58:80/4840/index.m3u8
 #EXTINF:-1,India Today
 http://89.187.189.58:80/4842/index.m3u8
+#EXTINF:-1,Sony Six HD
+http://89.187.189.58:80/4852/index.m3u8
 #EXTINF:-1,Zee Bollywood
 http://89.187.189.58:80/4853/index.m3u8
+#EXTINF:-1,Zee Business
+http://89.187.189.58:80/4859/index.m3u8
 #EXTINF:-1,Star Gold Select HD
 http://89.187.189.58:80/4861/index.m3u8
 #EXTINF:-1,Zee Cinema HD
 http://89.187.189.58:80/4865/index.m3u8
 #EXTINF:-1,Star Sports 2 HD
 http://89.187.189.58:80/4866/index.m3u8
-#EXTINF:-1,Star Sports 3 HD
-http://89.187.189.58:80/4873/index.m3u8
+
 #EXTINF:-1,Sony Sab HD
 http://89.187.189.58:80/4869/index.m3u8
-#EXTINF:-1,Sony Six HD
-http://89.187.189.58:80/4852/index.m3u8
+
 
 #EXTINF:-1,Sony Ten 1 HD
 http://89.187.189.58:80/4863/index.m3u8
 #EXTINF:-1,Sony Ten 2 HD
 http://89.187.189.58:80/4872/index.m3u8
+#EXTINF:-1,Star Sports 3 HD
+http://89.187.189.58:80/4873/index.m3u8
+#EXTINF:-1,Zee News
+http://89.187.189.58:80/4874/index.m3u8
 #EXTINF:-1,Sony Ten 3 HD
 http://89.187.189.58:80/4880/index.m3u8
 
-#EXTINF:-1,Zee News
-http://89.187.189.58:80/4874/index.m3u8
-#EXTINF:-1,Zee Business
-http://89.187.189.58:80/4859/index.m3u8
 #EXTINF:-1,Sony Max HD
 http://89.187.189.58:80/4882/index.m3u8
-#EXTINF:-1,COMEDY_CENTRAL
-http://89.187.189.58/COMEDY_CENTRAL/video.m3u8
-#EXTINF:-1,E_ENTERTAINMENT
-http://89.187.189.58/E_ENTERTAINMENT/video.m3u8
-#EXTINF:-1,DISNEY_JUNIOR
-http://89.187.189.58/DISNEY_JUNIOR/video.m3u8
-#EXTINF:-1,DISNEY_XD
-http://89.187.189.58/DISNEY_XD/video.m3u8
-#EXTINF:-1,BOOMERANG
-http://89.187.189.58/BOOMERANG/video.m3u8
 
 #EXTINF:-1,S Action
 http://89.187.189.58:80/801/index.m3u8
@@ -895,13 +899,9 @@ http://89.187.189.58/591/index.m3u8
 http://89.187.189.58/657/index.m3u8
 #EXTINF:-1,BT Sport 3
 http://89.187.189.58/658/index.m3u8
-#EXTINF:-1,Sky Sports Football
-http://89.187.189.58/711/index.m3u8
-#EXTINF:-1,Optus Sport 1 HD
-http://89.187.189.58/782/index.m3u8
-#EXTINF:-1,Optus Sport 2 HD
-http://89.187.189.58/783/index.m3u8
 
+
+-/-/-/-/-
 
 #EXTINF:-1,Free sports
 http://89.187.189.58/1195/mono.m3u8
