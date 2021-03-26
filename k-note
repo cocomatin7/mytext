@@ -214,14 +214,6 @@ http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1,ASSP 4
 http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
 
-skynetsporthd
-https://sport.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-https://sport.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
-https://sport.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
-https://sport.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
-https://sport.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
-https://sport.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
-https://sport.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-mainevent.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/uk-btsport1hd.stream/chunks.m3u8
@@ -328,6 +320,7 @@ https://sport.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
 https://sport.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1,NETSPORT 6
 https://sport.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+
 
 #EXTINF:-1,Astro Super Sport 1 HD |27-02
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/364352.m3u8
@@ -5499,16 +5492,22 @@ http://77.83.117.60:8888/02_Zee_Cinema_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_Zee_Nung_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Zee TV" group-title="77.83", ZEE TV |77.83'
 http://77.83.117.60:8888/02_Zee_TV_720p/chunklist.m3u8
-,SKYNET SPORTS 1 |77.83'
+
+#EXTINF:-1,SKYNET SPORTS 1 |77.83'
 http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1,SKYNET SPORTS 2 |77.83'
 http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1,SKYNET SPORTS 3 |77.83'
 http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
-http://77.83.117.60:8888/03_skynetsport4_480p/Chunklist.m3u8
+#EXTINF:-1,SKYNET SPORTS 4 |77.83'
+http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1,SKYNET SPORTS 5 |77.83'
 http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
-,SKYNET SPORTS 6 |77.83'
+#EXTINF:-1,SKYNET SPORTS 6 |77.83'
 http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
-,SKYNET SPORTS HD |77.83'
+#EXTINF:-1 group-title="77.83",SKYNET SPORTS HD |77.83'
 http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
+
 http://77.83.117.60:8888/sumrujlok_goodtv/chunklist.m3u8
 
 + + + + + 103.22.182.242:8081 + + + + + 
@@ -7996,16 +7995,21 @@ https://www.livedoomovie.com/02_Zee_Cinema_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_Zee_Nung_720p/chunklist.m3u8
  tvg-id="Zee TV", ZEE TV |doomovie'
 https://www.livedoomovie.com/02_Zee_TV_720p/chunklist.m3u8
-,SKYNET SPORTS 1 |doomovie'
+#EXTINF:-1 group-title="doomovie",SKYNET SPORTS 1 |doomovie'
 https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1,SKYNET SPORTS 2 |doomovie'
 https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1,SKYNET SPORTS 3 |doomovie'
 https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1,SKYNET SPORTS 4 |doomovie'
 https://www.livedoomovie.com/03_skynetsport4_480p/Chunklist.m3u8
+#EXTINF:-1,SKYNET SPORTS 5 |doomovie'
 https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
-,SKYNET SPORTS 6 |doomovie'
+#EXTINF:-1,SKYNET SPORTS 6 |doomovie'
 https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
- group-title="doomovie",SKYNET SPORTS HD |doomovie'
+#EXTINF:-1 group-title="doomovie",SKYNET SPORTS HD |doomovie'
 https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+
 https://www.livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8
 
 + + + + + https://lnwlomtoe.atvlb.com + + + + + +
@@ -9238,20 +9242,21 @@ https://www.livedoomovies.com/02_Zee_Cinema_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_Zee_Nung_720p/chunklist.m3u8
  tvg-id="Zee TV", ZEE TV |doomovie-hd
 https://www.livedoomovies.com/02_Zee_TV_720p/chunklist.m3u8
-SKYNET SPORTS 1 |doomovie-hd
+#EXTINF:-1 group-title="doomovie-hd",SKYNET SPORTS 1 |doomovie-hd
 https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
-SKYNET SPORTS 2 |doomovie-hd
+#EXTINF:-1,SKYNET SPORTS 2 |doomovie-hd
 https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
-SKYNET SPORTS 3 |doomovie-hd
+#EXTINF:-1,SKYNET SPORTS 3 |doomovie-hd
 https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
-SKYNET SPORTS 4 |doomovie-hd
+#EXTINF:-1,SKYNET SPORTS 4 |doomovie-hd
 https://www.livedoomovies.com/03_skynetsport4_480p/Chunklist.m3u8
-SKYNET SPORTS 5 |doomovie-hd
+#EXTINF:-1,SKYNET SPORTS 5 |doomovie-hd
 https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
-SKYNET SPORTS 6 |doomovie-hd
+#EXTINF:-1,SKYNET SPORTS 6 |doomovie-hd
 https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
-SKYNET SPORTS HD |doomovie-hd
+#EXTINF:-1 group-title="doomovie-hd",SKYNET SPORTS HD |doomovie-hd
 https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
+
 #EXTINF:0, NatGeoWild |doomovie-hd
 https://www.livedoomovies.com/02_NatGeoWild_720p/chunklist.m3u8
 #EXTINF:0 group-title="doomovie-hd", Sumrujlok |doomovie-hd
