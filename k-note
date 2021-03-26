@@ -520,6 +520,8 @@ http://89.187.189.58:80/FOX/index.m3u8
 
 #EXTINF:-1,HGTV
 http://89.187.189.58/HGTV/index.m3u8
+#EXTINF:-1,Horror Channel
+http://89.187.189.58:80/HorrorChannel/index.m3u8
 
 #EXTINF:-1,ID
 http://89.187.189.58/INVESTIGATION_DISCOVERY/index.m3u8
@@ -548,8 +550,6 @@ http://89.187.189.58/TLC/index.m3u8
 #EXTINF:-1,TG 4
 http://89.187.189.58:80/TG4/index.m3u8
 
-#EXTINF:-1,Horror Channel
-http://89.187.189.58:80/HorrorChannel/index.m3u8
 #EXTINF:-1,Yesterday
 http://89.187.189.58:80/Yesterday/index.m3u8
 
@@ -565,38 +565,76 @@ http://89.187.189.58:80/Nicktoons/index.m3u8
 #EXTINF:-1,COMEDY_CENTRAL
 http://89.187.189.58/COMEDY_CENTRAL/video.m3u8
 
-
 #EXTINF:-1,Sky Sport News
 http://89.187.189.58:80/1/index.m3u8
 http://89.187.189.58:80/1/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sky Sport Action
 http://89.187.189.58:80/3/index.m3u8
+#EXTINF:-1,Sky Sport Golf
+http://89.187.189.58:80/4/index.m3u8
+http://89.187.189.58:80/4/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sky Sport News
 http://89.187.189.58:80/5/index.m3u8
+#EXTINF:-1,Sky Sport F1
+http://89.187.189.58:80/6/index.m3u8
+http://89.187.189.58:80/6/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Eurosport 1
 http://89.187.189.58:80/7/index.m3u8
 #EXTINF:-1,Eurosport 2
 http://89.187.189.58:80/8/index.m3u8
-#EXTINF:-1,Sky Sport Golf
-http://89.187.189.58:80/4/index.m3u8
-#EXTINF:-1,Sky Sport F1
-http://89.187.189.58:80/6/index.m3u8
 #EXTINF:-1,BT SPORT ESPN
 http://89.187.189.58:80/9/index.m3u8
+http://89.187.189.58:80/9/tracks-v1a1/mono.m3u8
+
+http://89.187.189.58:80/10/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/11/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/12/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/13/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/14/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/15/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/16/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/17/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/18/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/19/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,BT SPORT
 http://89.187.189.58:80/13/index.m3u8
 #EXTINF:-1,Sky Sports Racing HD
-http://89.187.189.58/14/index.m3u8
+http://89.187.189.58:80/14/index.m3u8
 #EXTINF:-1,BBC NEWS
 http://89.187.189.58:80/16/index.m3u8
 #EXTINF:-1,4 Channel
 http://89.187.189.58:80/18/index.m3u8
 #EXTINF:-1,5 Channel
 http://89.187.189.58:80/19/index.m3u8
+
+http://89.187.189.58:80/20/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/21/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/22/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/23/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/24/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/25/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/26/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/27/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/28/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/29/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,BBC Four
 http://89.187.189.58:80/21/index.m3u8
 #EXTINF:-1,ITV2
 http://89.187.189.58:80/22/index.m3u8
+
+http://89.187.189.58:80/30/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/31/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/32/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/33/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/34/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/35/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/36/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/37/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/38/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/39/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,One
 http://89.187.189.58:80/31/index.m3u8
@@ -604,22 +642,69 @@ http://89.187.189.58:80/31/index.m3u8
 http://89.187.189.58:80/34/index.m3u8
 #EXTINF:-1,Quest
 http://89.187.189.58:80/37/index.m3u8
+
+http://89.187.189.58:80/40/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/41/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/42/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/43/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/44/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/45/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/46/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/47/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/48/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/49/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,CBS Drama
 http://89.187.189.58:80/43/index.m3u8
 #EXTINF:-1,MTV Classic
 http://89.187.189.58:80/46/index.m3u8
 #EXTINF:-1,Trace Wallt
 http://89.187.189.58:80/49/index.m3u8
+
+http://89.187.189.58:80/50/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/51/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/52/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/53/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/54/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/55/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/56/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/57/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/58/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/59/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Nick Toons
 http://89.187.189.58:80/52/index.m3u8
 #EXTINF:-1,Film
 http://89.187.189.58:80/55/index.m3u8
 #EXTINF:-1,Gold
 http://89.187.189.58:80/58/index.m3u8
+
+http://89.187.189.58:80/60/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/61/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/62/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/63/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/64/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/65/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/66/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/67/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/68/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/69/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Film
 http://89.187.189.58:80/61/index.m3u8
 #EXTINF:-1,DMAX
 http://89.187.189.58:80/64/index.m3u8
+
+http://89.187.189.58:80/70/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/71/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/72/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/73/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/74/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/75/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/76/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/77/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/78/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/79/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Film
 http://89.187.189.58:80/70/index.m3u8
@@ -627,12 +712,35 @@ http://89.187.189.58:80/70/index.m3u8
 http://89.187.189.58:80/73/index.m3u8
 #EXTINF:-1,Discovery
 http://89.187.189.58:80/79/index.m3u8
+
+http://89.187.189.58:80/80/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/81/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/82/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/83/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/84/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/85/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/86/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/87/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/88/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/89/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,NatGeo
 http://89.187.189.58:80/82/index.m3u8
 #EXTINF:-1,Animal Planet
 http://89.187.189.58:80/85/index.m3u8
 #EXTINF:-1,BT SPORT 2
 http://89.187.189.58:80/88/index.m3u8
+
+http://89.187.189.58:80/90/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/91/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/92/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/93/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/94/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/95/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/96/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/97/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/98/tracks-v1a1/mono.m3u8
+http://89.187.189.58:80/99/tracks-v1a1/mono.m3u8
 
 http://89.187.189.58:80/100/index.m3u8
 http://89.187.189.58:80/101/index.m3u8
@@ -721,22 +829,10 @@ http://89.187.189.58:80/568/index.m3u8
 #EXTINF:-1,MUTV HD
 http://89.187.189.58/578/index.m3u8
 
-#EXTINF:-1,MTV 90s
+#EXTINF:-1,MTV Rocks
 http://89.187.189.58:80/580/index.m3u8
-#EXTINF:-1,CNN
-http://89.187.189.58:80/581/index.m3u8
-#EXTINF:-1,FREE SPORT LIVE
-http://89.187.189.58:80/582/index.m3u8
-http://89.187.189.58:80/583/index.m3u8
-http://89.187.189.58:80/584/index.m3u8
-nick Jr.
-http://89.187.189.58:80/585/index.m3u8
-#EXTINF:-1,Nicktoon
+#EXTINF:-1,Nick Jr
 http://89.187.189.58:80/586/index.m3u8
-Disney XD
-http://89.187.189.58:80/587/index.m3u8
-Pick
-http://89.187.189.58:80/588/index.m3u8
 #EXTINF:-1,Pick
 http://89.187.189.58:80/589/index.m3u8
 #EXTINF:-1,Sky Sports Mix
@@ -744,44 +840,13 @@ http://89.187.189.58/591/index.m3u8
 #EXTINF:-1,Crime and Investigation
 http://89.187.189.58:80/592/index.m3u8
 
-http://89.187.189.58:80/600/index.m3u8
-http://89.187.189.58:80/601/index.m3u8
-http://89.187.189.58:80/602/index.m3u8
-http://89.187.189.58:80/603/index.m3u8
 #EXTINF:-1,Sony Max
 http://89.187.189.58:80/604/index.m3u8
-http://89.187.189.58:80/605/index.m3u8
-http://89.187.189.58:80/606/index.m3u8
-http://89.187.189.58:80/607/index.m3u8
-http://89.187.189.58:80/608/index.m3u8
-http://89.187.189.58:80/609/index.m3u8
-
-http://89.187.189.58:80/650/index.m3u8
-http://89.187.189.58:80/651/index.m3u8
-http://89.187.189.58:80/652/index.m3u8
-http://89.187.189.58:80/653/index.m3u8
-http://89.187.189.58:80/654/index.m3u8
-http://89.187.189.58:80/655/index.m3u8
-http://89.187.189.58:80/656/index.m3u8
-#EXTINF:-1,Sky Sports F1
+#EXTINF:-1,Sky Sports HD
 http://89.187.189.58:80/657/index.m3u8
 #EXTINF:-1,BT Sport 3
 http://89.187.189.58:80/658/index.m3u8
-#EXTINF:-1,UFC Stream
-http://89.187.189.58:80/659/index.m3u8
 
-http://89.187.189.58:80/700/index.m3u8
-http://89.187.189.58:80/701/index.m3u8
-http://89.187.189.58:80/702/index.m3u8
-http://89.187.189.58:80/703/index.m3u8
-http://89.187.189.58:80/704/index.m3u8
-http://89.187.189.58:80/705/index.m3u8
-horror
-http://89.187.189.58:80/706/index.m3u8
-horror1
-http://89.187.189.58:80/707/index.m3u8
-BLAZE
-http://89.187.189.58:80/708/index.m3u8
 #EXTINF:-1,Sky Sports Main Event
 http://89.187.189.58:80/709/index.m3u8
 #EXTINF:-1,Sky Sports Football
@@ -794,10 +859,8 @@ http://89.187.189.58:80/769/index.m3u8
 http://89.187.189.58:80/780/index.m3u8
 http://89.187.189.58:80/781/index.m3u8
 #EXTINF:-1,Optus Sport 1 HD
-http://89.187.189.58/782/tracks-v1a1/mono.m3u8
 http://89.187.189.58:80/782/index.m3u8
 #EXTINF:-1,Optus Sport 2 HD
-http://89.187.189.58/783/tracks-v1a1/mono.m3u8
 http://89.187.189.58:80/783/index.m3u8
 
 http://89.187.189.58:80/784/index.m3u8
@@ -867,35 +930,18 @@ http://89.187.189.58:80/1017/index.m3u8
 http://89.187.189.58:80/1019/index.m3u8
 #EXTINF:-1,France 24
 http://89.187.189.58:80/1028/index.m3u8
-
-http://89.187.189.58:80/1080/index.m3u8
-#EXTINF:-1,COLOR
-http://89.187.189.58:80/1081/index.m3u8
-http://89.187.189.58:80/1082/index.m3u8
 #EXTINF:-1,B4U Music
 http://89.187.189.58:80/1083/index.m3u8
-http://89.187.189.58:80/1084/index.m3u8
-http://89.187.189.58:80/1085/index.m3u8
-http://89.187.189.58:80/1086/index.m3u8
-#EXTINF:-1,B4U MOVIES
+#EXTINF:-1,B4U Movies
 http://89.187.189.58:80/1087/index.m3u8
-http://89.187.189.58:80/1088/index.m3u8
-#EXTINF:-1,9x Music
-http://89.187.189.58:80/1089/index.m3u8
 
 #EXTINF:-1,Star Plus
 http://89.187.189.58:80/1099/index.m3u8
 
 #EXTINF:-1,Sony Movies Action
 http://89.187.189.58:80/1174/index.m3u8
-#EXTINF:-1,Laliga TV HD
-http://89.187.189.58/1187/mono.m3u8
 #EXTINF:-1,Premier Sports
 http://89.187.189.58:80/1193/index.m3u8
-#EXTINF:-1,Premier sports 2
-http://89.187.189.58/1194/mono.m3u8
-#EXTINF:-1,Free sports
-http://89.187.189.58/1195/mono.m3u8
 
 #EXTINF:-1,Pop Max
 http://89.187.189.58:80/1246/index.m3u8
@@ -940,44 +986,21 @@ http://89.187.189.58:80/3285/index.m3u8
 
 #EXTINF:-1,LFC TV
 http://89.187.189.58:80/4128/index.m3u8
-
 #EXTINF:-1,4 Channel HD
 http://89.187.189.58:80/4132/index.m3u8
 #EXTINF:-1,RTE 1
 http://89.187.189.58:80/4134/index.m3u8
-
 #EXTINF:-1,TG4
 http://89.187.189.58:80/4143/index.m3u8
-
 #EXTINF:-1,LFC
 http://89.187.189.58:80/4150/index.m3u8
-
-#EXTINF:-1,skysports mix
-http://89.187.189.58:80/4151/index.m3u8
-#EXTINF:-1,skysports news
-http://89.187.189.58:80/4152/index.m3u8
-#EXTINF:-1,4153
-http://89.187.189.58:80/4153/index.m3u8
-#EXTINF:-1,skysports F1
-http://89.187.189.58:80/4154/index.m3u8
-QUEST
-http://89.187.189.58:80/4155/index.m3u8
-#EXTINF:-1,skysports football
-http://89.187.189.58:80/4156/index.m3u8
-#EXTINF:-1,skysports football
-http://89.187.189.58:80/4157/index.m3u8
-#EXTINF:-1,skysports cricket
-http://89.187.189.58:80/4158/index.m3u8
-http://89.187.189.58:80/4159/index.m3u8
-
-Quest Red
+#EXTINF:-1,Quest Red
 http://89.187.189.58:80/4164/index.m3u8
 
-Really
+#EXTINF:-1,Really
 http://89.187.189.58:80/4783/index.m3u8
-Yesterday
+#EXTINF:-1,Yesterday
 http://89.187.189.58:80/4785/index.m3u8
-
 #EXTINF:-1,CNBC TV18
 http://89.187.189.58:80/4814/index.m3u8
 #EXTINF:-1,CNBC TV1
@@ -986,72 +1009,42 @@ http://89.187.189.58:80/4815/index.m3u8
 http://89.187.189.58:80/4816/index.m3u8
 #EXTINF:-1,DD News
 http://89.187.189.58:80/4817/index.m3u8
-
 #EXTINF:-1,Colors Cineplex HD
 http://89.187.189.58:80/4822/index.m3u8
-abp news
-http://89.187.189.58:80/4830/index.m3u8
-
-http://89.187.189.58:80/4831/index.m3u8
-#EXTINF:-1,&pictures HD
+#EXTINF:-1,&Pictures HD
 http://89.187.189.58:80/4832/index.m3u8
-http://89.187.189.58:80/4833/index.m3u8
-#EXTINF:-1,B4U Music
-http://89.187.189.58:80/4834/index.m3u8
-http://89.187.189.58:80/4835/index.m3u8
-Movies Now HD
+#EXTINF:-1,Movies Now HD
 http://89.187.189.58:80/4836/index.m3u8
-http://89.187.189.58:80/4837/index.m3u8
-http://89.187.189.58:80/4838/index.m3u8
-http://89.187.189.58:80/4839/index.m3u8
 #EXTINF:-1,Sony Pix HD
 http://89.187.189.58:80/4840/index.m3u8
-
 #EXTINF:-1,India Today
 http://89.187.189.58:80/4842/index.m3u8
-
 #EXTINF:-1,Sony Six HD
 http://89.187.189.58:80/4852/index.m3u8
 #EXTINF:-1,Zee Bollywood
 http://89.187.189.58:80/4853/index.m3u8
 #EXTINF:-1,Zee Business
 http://89.187.189.58:80/4859/index.m3u8
-http://89.187.189.58:80/4860/index.m3u8
-
 #EXTINF:-1,Star Gold Select HD
 http://89.187.189.58:80/4861/index.m3u8
-#EXTINF:-1,S MAX
-http://89.187.189.58:80/4862/index.m3u8
 #EXTINF:-1,Sony Ten 1 HD
 http://89.187.189.58:80/4863/index.m3u8
-http://89.187.189.58:80/4864/index.m3u8
 #EXTINF:-1,Zee Cinema HD
 http://89.187.189.58:80/4865/index.m3u8
 #EXTINF:-1,Star Sports 2 HD
 http://89.187.189.58:80/4866/index.m3u8
-http://89.187.189.58:80/4867/index.m3u8
-http://89.187.189.58:80/4868/index.m3u8
+
 #EXTINF:-1,Sony Sab HD
 http://89.187.189.58:80/4869/index.m3u8
-http://89.187.189.58:80/4870/index.m3u8
 
-STAR GOLD
-http://89.187.189.58:80/4871/index.m3u8
 #EXTINF:-1,Sony Ten 2 HD
 http://89.187.189.58:80/4872/index.m3u8
-#EXTINF:-1,Star Sports 2 HD
+#EXTINF:-1,Star Sports 3 HD
 http://89.187.189.58:80/4873/index.m3u8
 #EXTINF:-1,Zee News
 http://89.187.189.58:80/4874/index.m3u8
-http://89.187.189.58:80/4875/index.m3u8
-COLOR HD
-http://89.187.189.58:80/4876/index.m3u8
-http://89.187.189.58:80/4877/index.m3u8
-http://89.187.189.58:80/4878/index.m3u8
-http://89.187.189.58:80/4879/index.m3u8
 #EXTINF:-1,Sony Ten 3 HD
 http://89.187.189.58:80/4880/index.m3u8
-
 http://89.187.189.58:80/4881/index.m3u8
 #EXTINF:-1,Sony Max HD
 http://89.187.189.58:80/4882/index.m3u8
@@ -1060,28 +1053,15 @@ MIRROR NOW
 http://89.187.189.58:80/4884/index.m3u8
 COLOR
 http://89.187.189.58:80/4885/index.m3u8
-http://89.187.189.58:80/4886/index.m3u8
-http://89.187.189.58:80/4887/index.m3u8
-http://89.187.189.58:80/4888/index.m3u8
-http://89.187.189.58:80/4889/index.m3u8
-http://89.187.189.58:80/4890/index.m3u8
-http://89.187.189.58:80/4891/index.m3u8
-http://89.187.189.58:80/4892/index.m3u8
-http://89.187.189.58:80/4893/index.m3u8
-http://89.187.189.58:80/4894/index.m3u8
-http://89.187.189.58:80/4895/index.m3u8
-http://89.187.189.58:80/4896/index.m3u8
-http://89.187.189.58:80/4897/index.m3u8
-http://89.187.189.58:80/4898/index.m3u8
-http://89.187.189.58:80/4899/index.m3u8
-GSTV IN
-http://89.187.189.58:80/4900/index.m3u8
 
 /-/-/-/-
 
-beIN Sports 1
-http://3.yacinelg.xyz/live/918454578/index.m3u8
-
+#EXTINF:-1,Free sports
+http://89.187.189.58/1195/mono.m3u8
+#EXTINF:-1,Premier sports 2
+http://89.187.189.58/1194/mono.m3u8
+#EXTINF:-1,Laliga TV HD
+http://89.187.189.58/1187/mono.m3u8
 
 ,GVIP CH1
 http://phoenixzoon.goodviping.xyz/live/CH1/index.m3u8
