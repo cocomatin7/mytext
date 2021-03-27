@@ -1375,7 +1375,7 @@ http://89.187.189.58:80/568/index.m3u8
 #EXTINF:-1,MUTV HD
 http://89.187.189.58/578/index.m3u8
 
-#EXTINF:-1,MTV Rocks
+#EXTINF:-1,MTV 90s
 http://89.187.189.58:80/580/index.m3u8
 #EXTINF:-1,Nick Jr
 http://89.187.189.58:80/586/index.m3u8
@@ -1402,13 +1402,15 @@ http://89.187.189.58:80/712/index.m3u8
 #EXTINF:-1,WWE
 http://89.187.189.58:80/769/index.m3u8
 
+#EXTINF:-1,780
 http://89.187.189.58:80/780/index.m3u8
+#EXTINF:-1,781
 http://89.187.189.58:80/781/index.m3u8
 #EXTINF:-1,Optus Sport 1 HD
 http://89.187.189.58:80/782/index.m3u8
 #EXTINF:-1,Optus Sport 2 HD
 http://89.187.189.58:80/783/index.m3u8
-
+#EXTINF:-1,784
 http://89.187.189.58:80/784/index.m3u8
 #EXTINF:-1,S LaLiga
 http://89.187.189.58:80/785/index.m3u8
@@ -1420,10 +1422,14 @@ http://89.187.189.58:80/787/index.m3u8
 http://89.187.189.58:80/788/index.m3u8
 #EXTINF:-1,skysports football
 http://89.187.189.58:80/789/index.m3u8
+
+#EXTINF:-1,790
 http://89.187.189.58:80/790/index.m3u8
-#EXTINF:-1,791
+#EXTINF:-1,sis racing
 http://89.187.189.58:80/791/index.m3u8
+#EXTINF:-1,792
 http://89.187.189.58:80/792/index.m3u8
+#EXTINF:-1,793
 http://89.187.189.58:80/793/index.m3u8
 #EXTINF:-1,S Premier League
 http://89.187.189.58:80/794/index.m3u8
@@ -1433,6 +1439,7 @@ http://89.187.189.58:80/795/index.m3u8
 http://89.187.189.58:80/796/index.m3u8
 #EXTINF:-1,S Motorsport
 http://89.187.189.58:80/797/index.m3u8
+#EXTINF:-1,798
 http://89.187.189.58:80/798/index.m3u8
 #EXTINF:-1,S Maximo1
 http://89.187.189.58:80/799/index.m3u8
@@ -1451,21 +1458,32 @@ http://89.187.189.58:80/804/index.m3u8
 http://89.187.189.58:80/805/index.m3u8
 #EXTINF:-1,S Football
 http://89.187.189.58:80/806/index.m3u8
+#EXTINF:-1,807
 http://89.187.189.58:80/807/index.m3u8
+#EXTINF:-1,808
 http://89.187.189.58:80/808/index.m3u8
 #EXTINF:-1,S Grandstand
 http://89.187.189.58:80/809/index.m3u8
+
+#EXTINF:-1,810
 http://89.187.189.58:80/810/index.m3u8
+#EXTINF:-1,811
 http://89.187.189.58:80/811/index.m3u8
+#EXTINF:-1,812
 http://89.187.189.58:80/812/index.m3u8
+#EXTINF:-1,813
 http://89.187.189.58:80/813/index.m3u8
+#EXTINF:-1,814
 http://89.187.189.58:80/814/index.m3u8
+#EXTINF:-1,815
 http://89.187.189.58:80/815/index.m3u8
+#EXTINF:-1,816
 http://89.187.189.58:80/816/index.m3u8
+#EXTINF:-1,817
 http://89.187.189.58:80/817/index.m3u8
-SMTV
+#EXTINF:-1,SMTV
 http://89.187.189.58:80/818/index.m3u8
-819
+#EXTINF:-1,819
 http://89.187.189.58:80/819/index.m3u8
 #EXTINF:-1,Viasat Hochkey
 http://89.187.189.58:80/820/index.m3u8
