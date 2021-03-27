@@ -1065,23 +1065,29 @@ http://89.187.189.58:80/28/tracks-v1a1/mono.m3u8
 #EXTINF:-1,29
 http://89.187.189.58:80/29/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,30
 http://89.187.189.58:80/30/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/31/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/32/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/33/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/34/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/35/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/36/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/37/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/38/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/39/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,One
 http://89.187.189.58:80/31/index.m3u8
+http://89.187.189.58:80/31/tracks-v1a1/mono.m3u8
+#EXTINF:-1,32
+http://89.187.189.58:80/32/tracks-v1a1/mono.m3u8
+#EXTINF:-1,33
+http://89.187.189.58:80/33/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Food Network
 http://89.187.189.58:80/34/index.m3u8
+http://89.187.189.58:80/34/tracks-v1a1/mono.m3u8
+#EXTINF:-1,35
+http://89.187.189.58:80/35/tracks-v1a1/mono.m3u8
+#EXTINF:-1,36
+http://89.187.189.58:80/36/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Quest
 http://89.187.189.58:80/37/index.m3u8
+http://89.187.189.58:80/37/tracks-v1a1/mono.m3u8
+#EXTINF:-1,38
+http://89.187.189.58:80/38/tracks-v1a1/mono.m3u8
+#EXTINF:-1,39
+http://89.187.189.58:80/39/tracks-v1a1/mono.m3u8
 
 http://89.187.189.58:80/40/tracks-v1a1/mono.m3u8
 http://89.187.189.58:80/41/tracks-v1a1/mono.m3u8
