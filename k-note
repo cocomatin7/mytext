@@ -927,7 +927,6 @@ http://89.187.189.58/CNBC/index.m3u8
 #EXTINF:-1,COMEDY_CENTRAL
 http://89.187.189.58/COMEDY_CENTRAL/video.m3u8
 
-
 #EXTINF:-1,DISNEY_JUNIOR
 http://89.187.189.58/DISNEY_JUNIOR/video.m3u8
 #EXTINF:-1,DISNEY_XD
@@ -1044,13 +1043,13 @@ http://89.187.189.58:80/19/index.m3u8
 
 #EXTINF:-1,20
 http://89.187.189.58:80/20/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BBC Four
+#EXTINF:-1,CBeebies
 http://89.187.189.58:80/21/index.m3u8
 http://89.187.189.58:80/21/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ITV2
+#EXTINF:-1,itv2
 http://89.187.189.58:80/22/index.m3u8
 http://89.187.189.58:80/22/tracks-v1a1/mono.m3u8
-#EXTINF:-1,23
+#EXTINF:-1,itv3
 http://89.187.189.58:80/23/tracks-v1a1/mono.m3u8
 #EXTINF:-1,24
 http://89.187.189.58:80/24/tracks-v1a1/mono.m3u8
@@ -1089,23 +1088,29 @@ http://89.187.189.58:80/38/tracks-v1a1/mono.m3u8
 #EXTINF:-1,39
 http://89.187.189.58:80/39/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,40
 http://89.187.189.58:80/40/tracks-v1a1/mono.m3u8
+#EXTINF:-1,41
 http://89.187.189.58:80/41/tracks-v1a1/mono.m3u8
+#EXTINF:-1,42
 http://89.187.189.58:80/42/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/43/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/44/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/45/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/46/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/47/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/48/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/49/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,CBS Drama
 http://89.187.189.58:80/43/index.m3u8
+http://89.187.189.58:80/43/tracks-v1a1/mono.m3u8
+#EXTINF:-1,44
+http://89.187.189.58:80/44/tracks-v1a1/mono.m3u8
+#EXTINF:-1,45
+http://89.187.189.58:80/45/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MTV Classic
 http://89.187.189.58:80/46/index.m3u8
+http://89.187.189.58:80/46/tracks-v1a1/mono.m3u8
+#EXTINF:-1,49
+http://89.187.189.58:80/47/tracks-v1a1/mono.m3u8
+#EXTINF:-1,48
+http://89.187.189.58:80/48/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Trace Wallt
 http://89.187.189.58:80/49/index.m3u8
+http://89.187.189.58:80/49/tracks-v1a1/mono.m3u8
 
 http://89.187.189.58:80/50/tracks-v1a1/mono.m3u8
 http://89.187.189.58:80/51/tracks-v1a1/mono.m3u8
