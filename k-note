@@ -924,6 +924,10 @@ http://89.187.189.58:80/CBSJustice/index.m3u8
 http://89.187.189.58/CNN/index.m3u8
 #EXTINF:-1,CNBC
 http://89.187.189.58/CNBC/index.m3u8
+#EXTINF:-1,COMEDY_CENTRAL
+http://89.187.189.58/COMEDY_CENTRAL/video.m3u8
+
+
 #EXTINF:-1,DISNEY_JUNIOR
 http://89.187.189.58/DISNEY_JUNIOR/video.m3u8
 #EXTINF:-1,DISNEY_XD
@@ -966,35 +970,34 @@ http://89.187.189.58:80/ITV3/index.m3u8
 http://89.187.189.58:80/ITV4/index.m3u8
 #EXTINF:-1,ITV Be
 http://89.187.189.58:80/ITVBe/index.m3u8
+
 #EXTINF:-1,Nickelodeon
 http://89.187.189.58/Nickelodeon/index.m3u8
-
-#EXTINF:-1,Sky Arts
-http://89.187.189.58:80/SkyArts/index.m3u8
-#EXTINF:-1,SYFY
-http://89.187.189.58:80/SYFY/index.m3u8
-#EXTINF:-1,Sony Movies
-http://89.187.189.58:80/SonyMovies/index.m3u8
-
-#EXTINF:-1,TLC HD
-http://89.187.189.58/TLC/index.m3u8
-#EXTINF:-1,TG 4
-http://89.187.189.58:80/TG4/index.m3u8
-
-#EXTINF:-1,Yesterday
-http://89.187.189.58:80/Yesterday/index.m3u8
-
-#EXTINF:-1,Really
-http://89.187.189.58:80/Really/index.m3u8
-#EXTINF:-1,Quest
-http://89.187.189.58:80/Quest/index.m3u8
 #EXTINF:-1,Nick Jr
 http://89.187.189.58:80/Nick_Jr/index.m3u8
 #EXTINF:-1,Nicktoons
 http://89.187.189.58:80/Nicktoons/index.m3u8
 
-#EXTINF:-1,COMEDY_CENTRAL
-http://89.187.189.58/COMEDY_CENTRAL/video.m3u8
+#EXTINF:-1,Quest
+http://89.187.189.58:80/Quest/index.m3u8
+
+#EXTINF:-1,Really
+http://89.187.189.58:80/Really/index.m3u8
+
+#EXTINF:-1,Sky Arts
+http://89.187.189.58:80/SkyArts/index.m3u8
+#EXTINF:-1,Sony Movies
+http://89.187.189.58:80/SonyMovies/index.m3u8
+#EXTINF:-1,SYFY
+http://89.187.189.58:80/SYFY/index.m3u8
+
+#EXTINF:-1,TG 4
+http://89.187.189.58:80/TG4/index.m3u8
+#EXTINF:-1,TLC HD
+http://89.187.189.58/TLC/index.m3u8
+
+#EXTINF:-1,Yesterday
+http://89.187.189.58:80/Yesterday/index.m3u8
 
 #EXTINF:-1,Sky Sport News
 http://89.187.189.58:80/1/index.m3u8
@@ -1018,23 +1021,22 @@ http://89.187.189.58:80/8/index.m3u8
 http://89.187.189.58:80/9/index.m3u8
 http://89.187.189.58:80/9/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,10
 http://89.187.189.58:80/10/tracks-v1a1/mono.m3u8
+#EXTINF:-1,11
 http://89.187.189.58:80/11/tracks-v1a1/mono.m3u8
+#EXTINF:-1,12
 http://89.187.189.58:80/12/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/13/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/14/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/15/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/16/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/17/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/18/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/19/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,BT SPORT
 http://89.187.189.58:80/13/index.m3u8
 #EXTINF:-1,Sky Sports Racing HD
 http://89.187.189.58:80/14/index.m3u8
+#EXTINF:-1,15
+http://89.187.189.58:80/15/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BBC NEWS
 http://89.187.189.58:80/16/index.m3u8
+#EXTINF:-1,17
+http://89.187.189.58:80/17/tracks-v1a1/mono.m3u8
 #EXTINF:-1,4 Channel
 http://89.187.189.58:80/18/index.m3u8
 #EXTINF:-1,5 Channel
