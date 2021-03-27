@@ -10720,126 +10720,276 @@ http://kmx.kolpax.de:80/get.php?username=tommy&password=YPZqsm6adc&type=m3u < N
 
 + + + + + local-iptv.myddns.me:8000 + + + + + OFFLINE + + + + +
 
- group-title="local-iptv",AU 12: ESPN 1
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/493.m3u8
-,AU 13: ESPN 2
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/494.m3u8
-,AU 15: AU: beIN SPORTS 1
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/496.m3u8
-,AU 16: AU: BeIN SPORTS 2
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/497.m3u8
-,AU 17: AU: beIN SPORTS 3
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/498.m3u8
+#EXTINF:-1 group-title="local-iptv",Event DAZN CA 1 HD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1317.m3u8
+#EXTINF:-1,Event DAZN CA 2 HD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1318.m3u8
+#EXTINF:-1,Event DAZN CA 3 HD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1319.m3u8
+#EXTINF:-1,Event DAZN CA 4 HD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1320.m3u8
+#EXTINF:-1,Event DAZN CA 5 HD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1321.m3u8
 
- group-title="local-iptv",now SP 1 *
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/2074.m3u8
-,now SP 2 *
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/2075.m3u8
-,now SP 3 *
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/2076.m3u8
-,NOW Sports 4 HD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/2077.m3u8
-,NOW Sports 5 HD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/2078.m3u8
+#EXTINF:-1,Optus 1
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1367.m3u8
+#EXTINF:-1,Optus 2
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1368.m3u8
+#EXTINF:-1,Optus 3
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1369.m3u8
+#EXTINF:-1,Optus 4
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1370.m3u8
+#EXTINF:-1,Optus 5
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1371.m3u8
 
- group-title="local-iptv",SPORT 1 *
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/542.m3u8
-,SPORT 2 *
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/543.m3u8
-,SPORT 3 *
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/544.m3u8
-,SPORT 4 *
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/545.m3u8
-,WORLD SPORT 05: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/546.m3u8
+#EXTINF:-1,SPARK 1
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1309.m3u8
+#EXTINF:-1,SPARK 2
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1310.m3u8
+#EXTINF:-1,SPARK 3
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1311.m3u8
+#EXTINF:-1,SPARK 4
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1312.m3u8
+#EXTINF:-1,SPARK 5
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1313.m3u8
 
- group-title="local-iptv",Optus 1
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1367.m3u8
-,Optus 2
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1368.m3u8
-,Optus 3
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1369.m3u8
-,Optus 4
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1370.m3u8
-,Optus 5
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1371.m3u8
-,Optus 6
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1372.m3u8
+#EXTINF:-1,24/7 05: US: UFC Fight Pass HD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/446.m3u8
+#EXTINF:-1,24/7 06: US: UFC NIGHT PASS 24/7
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/447.m3u8
+#EXTINF:-1,24/7 07: US: WWE Network
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/448.m3u8
+#EXTINF:-1,24/7 09: UFC on ESPN 21 Brunson vs Holland-Replay
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/450.m3u8
+#EXTINF:-1,24/7 10: BOXING: Canelo v Yildirim REPLAY
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/451.m3u8
 
- group-title="local-iptv",EPL 01: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/383.m3u8
-,EPL 02: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/384.m3u8
-,EPL 03:
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/385.m3u8
-,EPL 04: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/386.m3u8
-,EPL 05: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/387.m3u8
-,EPL 06: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/388.m3u8
-,EPL 07: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/389.m3u8
-,EPL 08: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/390.m3u8
-,EPL 09: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/391.m3u8
-,EPL 10: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/392.m3u8
+#EXTINF:-1,EPL 01: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/383.m3u8
+#EXTINF:-1,EPL 02: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/384.m3u8
+#EXTINF:-1,EPL 03:
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/385.m3u8
+#EXTINF:-1,EPL 04: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/386.m3u8
+#EXTINF:-1,EPL 05: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/387.m3u8
+#EXTINF:-1,EPL 06: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/388.m3u8
+#EXTINF:-1,EPL 07: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/389.m3u8
+#EXTINF:-1,EPL 08: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/390.m3u8
+#EXTINF:-1,EPL 09: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/391.m3u8
+#EXTINF:-1,EPL 10: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/392.m3u8
+#EXTINF:-1,EPL 11: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/393.m3u8
+#EXTINF:-1,EPL 12: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/394.m3u8
+#EXTINF:-1,EPL 13: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/395.m3u8
+#EXTINF:-1,EPL 14: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/396.m3u8
+#EXTINF:-1,EPL 15: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/397.m3u8
+#EXTINF:-1,EPL 16:
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/398.m3u8
+#EXTINF:-1,EPL 17:
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/399.m3u8
+#EXTINF:-1,EPL 18:
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/400.m3u8
+#EXTINF:-1,EPL 19:
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/401.m3u8
+#EXTINF:-1,EPL 20: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/402.m3u8
+#EXTINF:-1,EPL 21: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1464.m3u8
+#EXTINF:-1,EPL 22: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1465.m3u8
+#EXTINF:-1,EPL 23: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1466.m3u8
+#EXTINF:-1,EPL 24: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1467.m3u8
+#EXTINF:-1,EPL 25:
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1468.m3u8
 
- group-title="local-iptv",Event DAZN CA 1 HD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1317.m3u8
-,Event DAZN CA 2 HD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1318.m3u8
-,Event DAZN CA 3 HD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1319.m3u8
-,Event DAZN CA 4 HD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1320.m3u8
-,Event DAZN CA 5 HD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1321.m3u8
-,Event DAZN CA 6 HD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1322.m3u8
-,Event DAZN CA 7 HD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1323.m3u8
-,Event DAZN CA 8 HD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1324.m3u8
-,Event DAZN CA 9 HD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1325.m3u8
-,Event DAZN CA 10 HD
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1326.m3u8
+#EXTINF:-1,FOOT 01: 17:00	Norway vs Turkey
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1581.m3u8
+#EXTINF:-1,FOOT 02: 17:00	Croatia vs Cyprus
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1582.m3u8
+#EXTINF:-1,FOOT 03: 17:00	Belarus vs Estonia
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1583.m3u8
+#EXTINF:-1,FOOT 04: 17:00	Netherlands vs Latvia
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1584.m3u8
+#EXTINF:-1,FOOT 05: 19:45	Slovakia vs Malta
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1585.m3u8
+#EXTINF:-1,FOOT 06: 19:45	Serbia vs Portugal
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1586.m3u8
+#EXTINF:-1,FOOT 07: 19:45	Czech Republic vs Belgium
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1587.m3u8
+#EXTINF:-1,FOOT 08: 19:45	Ireland Republic vs Luxembourg
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1588.m3u8
+#EXTINF:-1,FOOT 09: 22:00	Anguilla vs Dominican Republic
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1589.m3u8
+#EXTINF:-1,FOOT 10: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1590.m3u8
 
- group-title="local-iptv",EFLC 01: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/363.m3u8
-,EFLC 02: 20:15 Luton Town vs Cardiff City
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/364.m3u8
-,EFLC 03: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/365.m3u8
-,EFLC 04: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/366.m3u8
-,EFLC 05: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/367.m3u8
+#EXTINF:-1,AU 15: AU: beIN SPORTS 1
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/496.m3u8
+#EXTINF:-1,AU 16: AU: BeIN SPORTS 2
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/497.m3u8
+#EXTINF:-1,AU 17: AU: beIN SPORTS 3
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/498.m3u8
 
- group-title="local-iptv",FOOT 01: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1581.m3u8
-,FOOT 02: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1582.m3u8
-,FOOT 03: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1583.m3u8
-,FOOT 04: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1584.m3u8
-,FOOT 05: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/1585.m3u8
+#EXTINF:-1,NOW Sports 1 HD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2074.m3u8
+#EXTINF:-1,NOW Sports 2 HD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2075.m3u8
+#EXTINF:-1,NOW Sports 3 HD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2076.m3u8
+#EXTINF:-1,NOW Sports 4 HD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2077.m3u8
+#EXTINF:-1,NOW Sports 5 HD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2078.m3u8
+#EXTINF:-1,NOW Sports 6 HD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2079.m3u8
+#EXTINF:-1,NOW Sports 7 HD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2162.m3u8
+#EXTINF:-1,NOW Sports 8 HD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2163.m3u8
 
- group-title="local-iptv",EFL 01: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/323.m3u8
-,EFL 02:
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/324.m3u8
-,EFL 03: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/325.m3u8
-,EFL 04: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/326.m3u8
- group-title="local-iptv",EFL 05:
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AM4784345/327.m3u8
+#EXTINF:-1,beIN-SPORTS HD 01 EN FULL HD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1437.m3u8
+#EXTINF:-1,beIN-SPORTS HD 02 EN FULL HD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1438.m3u8
+#EXTINF:-1,beIN-SPORTS HD 03 EN FULL HD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1439.m3u8
+#EXTINF:-1,beIN-SPORTS 01 SD EN
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1453.m3u8
+#EXTINF:-1,beIN-SPORTS 02 SD EN
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1454.m3u8
+#EXTINF:-1,beIN-SPORTS 03 SD EN
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1455.m3u8
+
+#EXTINF:-1,BeinSports HD1 720p
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1441.m3u8
+#EXTINF:-1,BeinSports HD2 720p
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1442.m3u8
+#EXTINF:-1,BeinSports HD3 720p
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1443.m3u8
+#EXTINF:-1,BeinSports HD4 720p
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1444.m3u8
+#EXTINF:-1,BeinSports HD5 720p
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1445.m3u8
+#EXTINF:-1,BeinSports HD6 720p
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1446.m3u8
+#EXTINF:-1,BeinSports HD07 720p
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1447.m3u8
+#EXTINF:-1,BEIN SPORTS 1 SD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1457.m3u8
+#EXTINF:-1,BEIN SPORTS 2 SD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1458.m3u8
+#EXTINF:-1,BEIN SPORTS 3 SD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1459.m3u8
+#EXTINF:-1,BEIN SPORTS 4 SD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1460.m3u8
+#EXTINF:-1,BEIN SPORTS 5 SD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1461.m3u8
+#EXTINF:-1,BEIN SPORTS 6 SD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1462.m3u8
+#EXTINF:-1,BEIN SPORTS 7 SD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2448.m3u8
+
+#EXTINF:-1,beIN SPORTS XTRA 01 FHD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2459.m3u8
+#EXTINF:-1,beIN SPORTS XTRA 02 FHD
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2460.m3u8
+
+#EXTINF:-1,DStv | SuperSport Action
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2461.m3u8
+#EXTINF:-1,DStv | SuperSport Blitz
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2462.m3u8
+#EXTINF:-1,DStv | SuperSport Cricket
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2463.m3u8
+#EXTINF:-1,DStv | SuperSport ESPN
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2464.m3u8
+#EXTINF:-1,DStv | SuperSport ESPN2
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2465.m3u8
+#EXTINF:-1,DStv | SuperSport Fotball
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2466.m3u8
+#EXTINF:-1,DStv | SuperSport Golf
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2467.m3u8
+#EXTINF:-1,DStv | SuperSport Grandstand
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2468.m3u8
+#EXTINF:-1,DStv | SuperSport LaLiga
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2469.m3u8
+#EXTINF:-1,DStv | SuperSport Maximo
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2470.m3u8
+#EXTINF:-1,DStv | SuperSport Motorsport
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2471.m3u8
+#EXTINF:-1,DStv | SuperSport Play
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2472.m3u8
+#EXTINF:-1,DStv | SuperSport Premier League
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2473.m3u8
+#EXTINF:-1,DStv | SuperSport PSL
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2474.m3u8
+#EXTINF:-1,DStv | SuperSport Rugby
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2475.m3u8
+#EXTINF:-1,DStv | SuperSport Tennis
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2476.m3u8
+#EXTINF:-1,DStv | SuperSport Variety 1
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2477.m3u8
+#EXTINF:-1,DStv | SuperSport Variety 2
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2478.m3u8
+#EXTINF:-1,DStv | SuperSport Variety 3
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2479.m3u8
+#EXTINF:-1,DStv | SuperSport Variety 4
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2480.m3u8
+#EXTINF:-1,DStv | SuperSport WWE
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2481.m3u8
+
+#EXTINF:-1,EVENTS 01: NASCAR: 3.05PM BRISTOL MOTOR SPEEDWAY DIRT RACES
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1017.m3u8
+#EXTINF:-1,EVENTS 02: 1:30AM Shuriken Fight Series 9
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1018.m3u8
+#EXTINF:-1,EVENTS 03: 2:30PM Texas St Disc Golf Championships
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1019.m3u8
+#EXTINF:-1,EVENTS 04: 3PM Road To The Horse Day 2
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1020.m3u8
+#EXTINF:-1,EVENTS 05: 6PM World Of Outlaws Sprint Cars
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1021.m3u8
+#EXTINF:-1,EVENTS 06: 6:15PM Kingdom of Speed Weekend
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1022.m3u8
+#EXTINF:-1,EVENTS 07: 6:30PM Attice Raceway
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1023.m3u8
+#EXTINF:-1,EVENTS 08: 6:50PM Arch Night Williams Grove
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1024.m3u8
+#EXTINF:-1,EVENTS 09: 7PM World Of Outlaws Late Model
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1025.m3u8
+#EXTINF:-1,EVENTS 10: 7PM Funny Car Chaos
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1026.m3u8
+#EXTINF:-1,EVENTS 11: 7PM Turnpike Challenge
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1027.m3u8
+#EXTINF:-1,EVENTS 12: 7:30PM Lake Desoto Clash
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1028.m3u8
+#EXTINF:-1,EVENTS 13: 8PM Titan FC 68
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1029.m3u8
+#EXTINF:-1,EVENTS 14: 8PM ROH 19th Anniversary
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1030.m3u8
+#EXTINF:-1,EVENTS 15: 8PM USAC CRA Sprints
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1031.m3u8
+#EXTINF:-1,EVENTS 16: 9PM LFA 103
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1032.m3u8
+#EXTINF:-1,EVENTS 17: 9PM Taco Bravo Night 2
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1033.m3u8
+#EXTINF:-1,EVENTS 18: 10PM NJPW Strong Strong Style Evovled Eps 2
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1034.m3u8
+#EXTINF:-1,EVENTS 19: 11PM La Capital del Box 5 Olmeda v Valencia
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1035.m3u8
+#EXTINF:-1 group-title="local-iptv",EVENTS 20: 
+http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1036.m3u8
 
 + + + + + https://m3u-editor.com [SEA] + + + + +
 
