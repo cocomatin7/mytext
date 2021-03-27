@@ -457,7 +457,436 @@ http://93.157.62.180/Supersport5/index.m3u8
 
 -/-/-/-/-
 
-#EXTINF:-1,4Seven
+
+
+/-/-/-/-
+
+#EXTINF:-1,Free sports
+http://89.187.189.58/1195/mono.m3u8
+#EXTINF:-1,Premier sports 2
+http://89.187.189.58/1194/mono.m3u8
+#EXTINF:-1,Laliga TV HD
+http://89.187.189.58/1187/mono.m3u8
+
+,GVIP CH1
+http://phoenixzoon.goodviping.xyz/live/CH1/index.m3u8
+,GVIP CH2
+http://phoenixzoon.goodviping.xyz/live/CH2/index.m3u8
+http://phoenixzoon.goodviping.xyz/live/CH3/index.m3u8
+,GVIP CH4
+http://phoenixzoon.goodviping.xyz/live/CH4/index.m3u8
+http://phoenixzoon.goodviping.xyz/live/CH5/index.m3u8
+
+,HDS CH 1
+http://cdn7.hhdstreams.club/live/abr_ch1/live/ch1_720p/chunks.m3u8
+,HDS CH 2
+http://cdn7.hhdstreams.club/live/abr_ch2/live/ch2_720p/chunks.m3u8
+,HDS CH 3
+http://cdn7.hhdstreams.club/live/abr_ch3/live/ch3_720p/chunks.m3u8
+,HDS CH 4
+http://cdn7.hhdstreams.club/live/abr_ch4/live/ch4_720p/chunks.m3u8
+http://cdn7.hhdstreams.club/live/abr_ch5/live/ch5_720p/chunks.m3u8
+
+#EXTINF:-1,OVO L1
+http://d1qag1ur6to329.cloudfront.net/hls/live1.m3u8
+http://77.247.109.116/hls/live1.m3u8
+http://192.166.246.122/hls/live1.m3u8
+
+#EXTINF:-1,OVO S
+http://123ovo123.xyz/live/streams.m3u8
+http://77.247.109.116/hls/ovostreams.m3u8
+
+#EXTINF:-1,OVO S1
+http://77.247.109.116/hls/ovostreamss1.m3u8
+http://192.166.246.122/hls/ovostreamss1.m3u8
+
+http://192.166.246.122/hls/ovostreams5.m3u8
+http://192.166.246.122/hls/ovostreams12.m3u8
+
+#EXTINF:-1,OVO 2
+http://77.247.109.116/hls/ovo2.m3u8
+http://77.247.109.116/hls/ovo2.m3u8
+http://192.166.246.122/hls/ovo2.m3u8
+
+#EXTINF:-1, NBCSN Live
+https://dailylast1.s3.eu-west-2.amazonaws.com/e1/1.m3u8
+https://dailybar2.s3.eu-west-2.amazonaws.com/e1/1.m3u8
+https://dailysportbucket71.s3.eu-west-2.amazonaws.com/e1/1.m3u8
+https://dailysportbucket41.s3.eu-west-2.amazonaws.com/e1/1.m3u8
+
+#EXTINF:-1,SPORTTV1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1, SSPL
+http://d3j49m1b2c30jh.cloudfront.net/edge/SSPL/chunks.m3u8
+
+#EXTINF:-1,meridix-live3
+https://meridix-live3.secure.footprint.net/live/anasiwadiee/chunklist.m3u8
+
+#EXTINF:-1, MStream
+http://stream.mazystreams.xyz/live/streamsd/chunks.m3u8
+
+#EXTINF:-1, live 1
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/551ef6c11aba44f0b19c76dc6d2a3da8/reproduce.m3u8
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/551ef6c11aba44f0b19c76dc6d2a3da8/reproduce_1.m3u8
+
+#EXTINF:-1, live 2
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/60e36b4ccb474d0c81b7f40aa2ec7400/index2.m3u8
+http://ebqt.blogspot.com/p/a3.html
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/308776c26e3143048f1b09d589ad34fc/index1.m3u8
+https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/b7120065d50d48b5b237407793c2c221/index1.m3u8
+https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/1c684fefc6864ef2b0259b5e568b70c8/index1.m3u8
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/a51a7210c7904f41afb07feb17ca9652/index1.m3u8
+
+#EXTINF:-1, live 3
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bbec2fcf9b5b4b53ae27af7109e3dab3/index3.m3u8
+
+#EXTINF:-1,EPL 1
+https://d2qw5e19354vil.cloudfront.net/out/v1/31cf06a5948c488e85ddef08474e807d/index.m3u8
+
+
+#EXTINF:-1,NBCSN LIVE *
+http://cdn.streamspass.club/live/streamsd/playlist.m3u8
+https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/za5cq0ormjrr93u.m3u8?s=OMrxGFA-fGzYWJDWukVijA&e=1612724087
+
+ SPass1
+https://cdn28.sportspass.io/ff680340.m3u8
+ SPass 2
+https://cdn28.sportspass.io/ffa79ee6.m3u8
+ SPass 3
+https://cdn28.sportspass.io/ff286681.m3u8
+ SPass 4
+https://cdn28.sportspass.io/ff214ea4.m3u8
+ SPass 5
+https://cdn28.sportspass.io/ff314994.m3u8
+
+#EXTINF:-1, CNBC LIVE
+https://afdfadsds.global.ssl.fastly.net/LiveApp/streams/630825105027713152264570.m3u8
+
+,soccer1
+https://hls.raino.xyz/soccer/soccer1.m3u8
+,soccer2
+https://hls.raino.xyz/soccer/soccer2.m3u8
+,soccer3
+https://hls.raino.xyz/soccer/soccer3.m3u8
+,soccer4
+https://hls.raino.xyz/soccer/soccer4.m3u8
+,soccer5
+https://hls.raino.xyz/soccer/soccer5.m3u8
+,soccer6
+https://hls.raino.xyz/soccer/soccer6.m3u8
+,soccer7
+https://hls.raino.xyz/soccer/soccer7.m3u8
+,soccer8
+https://hls.raino.xyz/soccer/soccer8.m3u8
+,soccer9
+https://hls.raino.xyz/soccer/soccer9.m3u8
+,soccer10
+https://hls.raino.xyz/soccer/soccer10.m3u8
+
+http://streamwat.ch/custom/player/#https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+http://streamwat.ch/custom/player/#https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+http://streamwat.ch/custom/player/#https://www.livedoomovies.com/02_BTSPORTHD_3_720p/chunklist.m3u8
+
+, BT SPORT 3 LIVE *
+https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/f2s41vu1evpyi2.m3u8?s=BFnbvI6UjrXV2t-rnwyxTg&e=1612724082
+
+#EXTINF:-1, S EPL
+http://103.252.220.46:25461/live/41246671289321/41604451921808/78994.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA==
+#EXTINF:-1, S PSL
+http://103.252.220.46:25461/live/41246671289321/41604451921808/78993.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA==
+#EXTINF:-1, S Cricket
+http://103.252.220.46:25461/live/41246671289321/41604451921808/78992.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA==
+
+#EXTINF:-1,UseeSports 1
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-useesport
+#EXTINF:-1,UseeSports 2
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-useesports2
+#EXTINF:-1,Bein Sport 1
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-bein1
+#EXTINF:-1,bein Sport 2
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-bein2
+#EXTINF:-1,Fox Sport 1
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-foxsport1
+#EXTINF:-1,Fox Sport 2
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-foxsport2
+#EXTINF:-1,Fox Sport 3
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-foxsport3
+#EXTINF:-1,KBS World
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-kbsworld
+#EXTINF:-1,HBO
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hbo
+#EXTINF:-1,HBO SIGNATURE
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-sig
+#EXTINF:-1,HBO FAMILY
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-fam
+#EXTINF:-1,HBO HITS
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hits
+#EXTINF:-1,HBO RED
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-red
+#EXTINF:-1,CINEMAX by HBO
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-max
+#EXTINF:-1,CNN International
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-cnninternational
+#EXTINF:-1,Bloomberg
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-blomberg
+
+#EXTINF:-1,COSMOTE SPORT1
+http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT2
+http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT3
+http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT4
+http://185.132.177.110:8080/COSMOTESport4HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT5
+http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT6
+http://185.132.177.110:8080/COSMOTESport6HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT7
+http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8?token=test
+#EXTINF:-1,COSMOTE SPORT8
+http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8?token=test
+#EXTINF:-1 group-title="BamarTV/Sport",COSMOTE SPORT9
+http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8?token=test
+
+http://79.137.41.99/DisneyChannel/index.m3u8
+
+#EXTINF:-1 group-title="BamarTV",AVJ
+https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
+,AsianCrush
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Crackle
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd2759bc8634d002d9ff9bc?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,fubo Sports Network
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc776?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,RetroCrush
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Latin x Loop
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccd4?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Loop 80's | offline
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccbf?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Loop 90's
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccdd?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Loop Beast
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccc2?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Loop Bedroom
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccc5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Loop Electronica
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf2?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Loop Far Out
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f2863338bc40f00420a0694?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Loop Flashback
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccd7?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Loop Hip Hop
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0cccb?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Loop Hottest
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccd1?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Loop R&B
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccce?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Loop Synapse
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccda?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Loop Texas Tunes
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0cce0?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Loop TGIF
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccc8?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Loop That's Hot
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0cce6?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Loop Trending
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0cce9?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Loop Unwind
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccec?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Loop Yacht Rock
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccef?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+,Party
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+ group-title="BamarTV",Party Tyme Karaoke
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+
+#EXTINF:-1 group-title="BamarTV", MizzimaTV
+https://www.youtube.com/watch?v=u9-jHk_5Nxs
+#EXTINF:-1 group-title="BamarTV", MizzimaTV*
+http://www.youtube.com/embed/u9-jHk_5Nxs
+https://youtu.be/u9-jHk_5Nxs
+
+#EXTINF:-1,HINDI CINEMA-1
+http://fun6.xyz:2052/HINDI_CINEMA_01/index.m3u8
+#EXTINF:-1,HINDI CINEMA-2 HD
+http://fun6.xyz:2052/HINDI_CINEMA_02/index.m3u8
+#EXTINF:-1,HINDI CINEMA-3
+http://fun6.xyz:2052/HINDI_CINEMA_03/index.m3u8
+#EXTINF:-1,HINDI CINEMA-4
+http://fun6.xyz:2052/HINDI_CINEMA_04/index.m3u8
+#EXTINF:-1,HINDI CINEMA-5
+http://fun6.xyz:2052/HINDI_CINEMA_05/index.m3u8
+#EXTINF:-1,HINDI CINEMA-6
+http://fun6.xyz:2052/HINDI_CINEMA_06/index.m3u8
+#EXTINF:-1,HINDI CINEMA-7
+http://fun6.xyz:2052/HINDI_CINEMA_07/index.m3u8
+#EXTINF:-1,HINDI CINEMA-8
+http://fun6.xyz:2052/HINDI_CINEMA_08/index.m3u8
+
+#EXTINF:-1,Mix 24-7
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/1
+#EXTINF:-1,Mix 24-7 Top 100
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/2
+#EXTINF:-1,Mix 24-7 Tropical
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/3
+#EXTINF:-1,Mix 24-7 Retro
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/4
+#EXTINF:-1,Mix 24-7 Pop
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/5
+#EXTINF:-1,Mix 24-7 Vintage
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/6
+#EXTINF:-1,ConciertosLive
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/7
+#EXTINF:-1,PuroRock24-7
+http://159.69.56.148:25461/M3UMix247/89ph5uifoi/25
+
+#EXTINF:-1 group-title="BamarTV", 80s Party |loop 
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
+
+#EXTINF:-1,LOOP 80'S FHD
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/0a3255a5-e315-46e6-b8cb-4b9bce25cc11/5.m3u8
+#EXTINF:-1,LOOP 80'S HD
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/0a3255a5-e315-46e6-b8cb-4b9bce25cc11/4.m3u8
+
+#EXTINF:-1,Loop 80s
+https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s/playlist.m3u8
+#EXTINF:-1,Loop 90s
+https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop90s/playlist.m3u8
+
+#EXTINF:-1,LOOP 90'S FHD
+https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/5846b7b3-d46f-4652-8acb-e581996de641/5.m3u8
+#EXTINF:-1,LOOP 90'S HD
+https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/5846b7b3-d46f-4652-8acb-e581996de641/4.m3u8
+#EXTINF:-1,LOOP 90'S SD
+https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/5846b7b3-d46f-4652-8acb-e581996de641/1.m3u8
+#EXTINF:-1,LOOP 90'S
+https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/5846b7b3-d46f-4652-8acb-e581996de641/0.m3u8
+
+#EXTINF:-1,LOOP ALT+ FHD
+https://bf478e05dd884185aebc142c47e5081a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/alt_loop/20480ac8-e570-4d9b-8579-6f2a78ee5a0d/5.m3u8
+#EXTINF:-1,LOOP BEAST FHD
+https://4995bb351158404890f211589ad8235f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_loop/ee523a3a-121c-477c-99ad-b1d155f6cce0/5.m3u8
+#EXTINF:-1,LOOP BEDROM FHD
+https://0137a758022c46a38e455092610c984b.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_loop/7c4643bb-600c-49fe-9b6f-56cf304e5ac4/5.m3u8
+#EXTINF:-1,LOOP ELECTRONICA FHD
+https://1e1876eb600945e89b6d98ddf44d26f2.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_loop/863f2f66-5942-4e33-b1ba-bc1852b007f2/5.m3u8
+#EXTINF:-1,LOOP FLASHBACK FHD
+https://80daef5afee04639ab6f19432058fb93.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_loop/8a997739-f93b-4c80-84bf-68143445bfb0/5.m3u8
+#EXTINF:-1,LOOP FAR OUT FHD
+https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/b0b4e8ad-0c44-49fe-8646-6dee5c529589/5.m3u8
+#EXTINF:-1,LOOP HOTTEST FHD
+https://e896313b744c41d095a1981b251d4344.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_loop/1d364009-e579-4fa4-9f7e-05c08d81f276/5.m3u8
+#EXTINF:-1,LOOP R&B FHD
+https://42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/c09c8cd5-96fe-4ddb-a14c-ad076be152cc/5.m3u8
+#EXTINF:-1,LOOP SYNAPSE FHD
+https://d6749b2b5cb74c85a06a9841003eb04b.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_loop/dc7864f3-5666-4ff6-bd77-74883c6e048a/5.m3u8
+#EXTINF:-1,LOOP TEXAS LATIN FHD
+https://61d06f00ea524bb9a59ed1ceaa43a294.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_loop/d8b80fed-abff-473f-8ffa-58bff2c16891/5.m3u8
+#EXTINF:-1,LOOP TEXAS TUNES FHD
+https://931a92f064db4a8db82cb89f072dc6c7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_loop/74fcffcf-b3eb-47dc-b338-9e6a38241a8d/5.m3u8
+#EXTINF:-1,LOOP THAT'S HOT FHD
+https://0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_loop/56d57a01-9fc2-402d-a7b1-f4bd931ecc11/5.m3u8
+#EXTINF:-1,LOOP YACHT ROCK FHD
+https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/b6cccfb4-4fca-4d05-9e65-e4fc75989d71/5.m3u8
+
+
+#EXTINF:-1,LOOP FLASHBACK
+https://80daef5afee04639ab6f19432058fb93.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_loop/8a997739-f93b-4c80-84bf-68143445bfb0/3.m3u8
+#EXTINF:-1,LOOP THAT'S HOT
+https://80daef5afee04639ab6f19432058fb93.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_loop/56d57a01-9fc2-402d-a7b1-f4bd931ecc11/3.m3u8
+#EXTINF:-1,LOOP YACHT ROCK
+https://80daef5afee04639ab6f19432058fb93.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/b6cccfb4-4fca-4d05-9e65-e4fc75989d71/3.m3u8
+#EXTINF:-1,LOOP R&B
+https://80daef5afee04639ab6f19432058fb93.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/c09c8cd5-96fe-4ddb-a14c-ad076be152cc/3.m3u8
+#EXTINF:-1,LOOP FAR OUT
+https://80daef5afee04639ab6f19432058fb93.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/b0b4e8ad-0c44-49fe-8646-6dee5c529589/3.m3u8
+
+#EXTINF:-1,LOOP FLASHBACK
+https://0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_loop/8a997739-f93b-4c80-84bf-68143445bfb0/4.m3u8
+#EXTINF:-1,LOOP THAT'S HOT
+https://0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_loop/56d57a01-9fc2-402d-a7b1-f4bd931ecc11/4.m3u8
+#EXTINF:-1,LOOP YACHT ROCK
+https://0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/b6cccfb4-4fca-4d05-9e65-e4fc75989d71/4.m3u8
+#EXTINF:-1,LOOP R&B
+https://0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/c09c8cd5-96fe-4ddb-a14c-ad076be152cc/4.m3u8
+#EXTINF:-1,LOOP FAR OUT
+https://0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/b0b4e8ad-0c44-49fe-8646-6dee5c529589/4.m3u8
+
+#EXTINF:-1,LOOP FLASHBACK
+https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_loop/8a997739-f93b-4c80-84bf-68143445bfb0/5.m3u8
+#EXTINF:-1,LOOP THAT'S HOT
+https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_loop/56d57a01-9fc2-402d-a7b1-f4bd931ecc11/5.m3u8
+#EXTINF:-1,LOOP YACHT ROCK
+https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/b6cccfb4-4fca-4d05-9e65-e4fc75989d71/5.m3u8
+#EXTINF:-1,LOOP R&B
+https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/c09c8cd5-96fe-4ddb-a14c-ad076be152cc/5.m3u8
+#EXTINF:-1,LOOP FAR OUT
+https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/b0b4e8ad-0c44-49fe-8646-6dee5c529589/5.m3u8
+
+#EXTINF:-1,LOOP FLASHBACK
+https://42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_loop/8a997739-f93b-4c80-84bf-68143445bfb0/0.m3u8
+#EXTINF:-1,LOOP THAT'S HOT
+https://42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_loop/56d57a01-9fc2-402d-a7b1-f4bd931ecc11/0.m3u8
+#EXTINF:-1,LOOP YACHT ROCK
+https://42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/b6cccfb4-4fca-4d05-9e65-e4fc75989d71/0.m3u8
+#EXTINF:-1,LOOP R&B
+https://42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/c09c8cd5-96fe-4ddb-a14c-ad076be152cc/0.m3u8
+#EXTINF:-1,LOOP FAR OUT
+https://42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/b0b4e8ad-0c44-49fe-8646-6dee5c529589/0.m3u8
+
+#EXTINF:-1,LOOP FLASHBACK
+https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_loop/8a997739-f93b-4c80-84bf-68143445bfb0/3.m3u8
+#EXTINF:-1,LOOP THAT'S HOT
+https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_loop/56d57a01-9fc2-402d-a7b1-f4bd931ecc11/3.m3u8
+#EXTINF:-1,LOOP YACHT ROCK
+https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/b6cccfb4-4fca-4d05-9e65-e4fc75989d71/3.m3u8
+#EXTINF:-1,LOOP R&B
+https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/c09c8cd5-96fe-4ddb-a14c-ad076be152cc/3.m3u8
+#EXTINF:-1,LOOP FAR OUT
+https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/b0b4e8ad-0c44-49fe-8646-6dee5c529589/3.m3u8
+
+
+
+bollywood premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+bollywood classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+
+http://103.145.12.195:8080/hls/streama145429/index.m3u8 < offline
+http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8 < N
+http://192.166.246.122/hls/ovostreamss.m3u8
+http://a2.aliez.me:8080/hls/streama141886/index.m3u8
+http://ip2121.com:8081/at1/ENG3/chunks.m3u8 < N
+http://mafy.ddns.net:2082/TurkPortalGrup/Telegram/7264
+https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/bbe355fc873a4b9fa03769748f2326f1/index3.m3u8
+https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/d1192d904efe496fa01cd23352cbe99b/index5.m3u8 < offline
+https://bucketdaily02.s3.eu-west-2.amazonaws.com/e1/1.m3u8
+https://bucketdaily02.s3.eu-west-2.amazonaws.com/e2/2.m3u8
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/f66c9ac57cf0482ca54c5cdc86e68854/index4.m3u8
+https://dailyb0.s3.amazonaws.com/e1/1.m3u8
+https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8 < N
+https://rebrand.ly/SA-103
+https://rebrand.ly/SPL-103
+https://rebrand.ly/SPSL-103
+https://rebrand.ly/SV2-103
+
+#EXTINF:-1 group-title="BamarTV", 80s party |loop.tv
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/3.m3u8
+
++ + + + 89.187.189.58:80 + + + + + +
+
+#EXTINF:-1 group-title="89.187",4Seven
 http://89.187.189.58:80/4Seven/index.m3u8
 #EXTINF:-1,5 USA
 http://89.187.189.58:80/5USA/index.m3u8
@@ -1048,439 +1477,13 @@ http://89.187.189.58:80/4874/index.m3u8
 #EXTINF:-1,Sony Ten 3 HD
 http://89.187.189.58:80/4880/index.m3u8
 http://89.187.189.58:80/4881/index.m3u8
-#EXTINF:-1,Sony Max HD
+#EXTINF:-1 group-title="89.187",Sony Max HD
 http://89.187.189.58:80/4882/index.m3u8
 http://89.187.189.58:80/4883/index.m3u8
 MIRROR NOW
 http://89.187.189.58:80/4884/index.m3u8
 COLOR
 http://89.187.189.58:80/4885/index.m3u8
-
-/-/-/-/-
-
-#EXTINF:-1,Free sports
-http://89.187.189.58/1195/mono.m3u8
-#EXTINF:-1,Premier sports 2
-http://89.187.189.58/1194/mono.m3u8
-#EXTINF:-1,Laliga TV HD
-http://89.187.189.58/1187/mono.m3u8
-
-,GVIP CH1
-http://phoenixzoon.goodviping.xyz/live/CH1/index.m3u8
-,GVIP CH2
-http://phoenixzoon.goodviping.xyz/live/CH2/index.m3u8
-http://phoenixzoon.goodviping.xyz/live/CH3/index.m3u8
-,GVIP CH4
-http://phoenixzoon.goodviping.xyz/live/CH4/index.m3u8
-http://phoenixzoon.goodviping.xyz/live/CH5/index.m3u8
-
-,HDS CH 1
-http://cdn7.hhdstreams.club/live/abr_ch1/live/ch1_720p/chunks.m3u8
-,HDS CH 2
-http://cdn7.hhdstreams.club/live/abr_ch2/live/ch2_720p/chunks.m3u8
-,HDS CH 3
-http://cdn7.hhdstreams.club/live/abr_ch3/live/ch3_720p/chunks.m3u8
-,HDS CH 4
-http://cdn7.hhdstreams.club/live/abr_ch4/live/ch4_720p/chunks.m3u8
-http://cdn7.hhdstreams.club/live/abr_ch5/live/ch5_720p/chunks.m3u8
-
-#EXTINF:-1,OVO L1
-http://d1qag1ur6to329.cloudfront.net/hls/live1.m3u8
-http://77.247.109.116/hls/live1.m3u8
-http://192.166.246.122/hls/live1.m3u8
-
-#EXTINF:-1,OVO S
-http://123ovo123.xyz/live/streams.m3u8
-http://77.247.109.116/hls/ovostreams.m3u8
-
-#EXTINF:-1,OVO S1
-http://77.247.109.116/hls/ovostreamss1.m3u8
-http://192.166.246.122/hls/ovostreamss1.m3u8
-
-http://192.166.246.122/hls/ovostreams5.m3u8
-http://192.166.246.122/hls/ovostreams12.m3u8
-
-#EXTINF:-1,OVO 2
-http://77.247.109.116/hls/ovo2.m3u8
-http://77.247.109.116/hls/ovo2.m3u8
-http://192.166.246.122/hls/ovo2.m3u8
-
-#EXTINF:-1, NBCSN Live
-https://dailylast1.s3.eu-west-2.amazonaws.com/e1/1.m3u8
-https://dailybar2.s3.eu-west-2.amazonaws.com/e1/1.m3u8
-https://dailysportbucket71.s3.eu-west-2.amazonaws.com/e1/1.m3u8
-https://dailysportbucket41.s3.eu-west-2.amazonaws.com/e1/1.m3u8
-
-#EXTINF:-1,SPORTTV1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV3
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV4
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV5
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-
-#EXTINF:-1, SSPL
-http://d3j49m1b2c30jh.cloudfront.net/edge/SSPL/chunks.m3u8
-
-#EXTINF:-1,meridix-live3
-https://meridix-live3.secure.footprint.net/live/anasiwadiee/chunklist.m3u8
-
-#EXTINF:-1, MStream
-http://stream.mazystreams.xyz/live/streamsd/chunks.m3u8
-
-#EXTINF:-1, live 1
-https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/551ef6c11aba44f0b19c76dc6d2a3da8/reproduce.m3u8
-https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/551ef6c11aba44f0b19c76dc6d2a3da8/reproduce_1.m3u8
-
-#EXTINF:-1, live 2
-https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/60e36b4ccb474d0c81b7f40aa2ec7400/index2.m3u8
-http://ebqt.blogspot.com/p/a3.html
-https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/308776c26e3143048f1b09d589ad34fc/index1.m3u8
-https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/b7120065d50d48b5b237407793c2c221/index1.m3u8
-https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/1c684fefc6864ef2b0259b5e568b70c8/index1.m3u8
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/a51a7210c7904f41afb07feb17ca9652/index1.m3u8
-
-#EXTINF:-1, live 3
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bbec2fcf9b5b4b53ae27af7109e3dab3/index3.m3u8
-
-#EXTINF:-1,EPL 1
-https://d2qw5e19354vil.cloudfront.net/out/v1/31cf06a5948c488e85ddef08474e807d/index.m3u8
-
-
-#EXTINF:-1,NBCSN LIVE *
-http://cdn.streamspass.club/live/streamsd/playlist.m3u8
-https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/za5cq0ormjrr93u.m3u8?s=OMrxGFA-fGzYWJDWukVijA&e=1612724087
-
- SPass1
-https://cdn28.sportspass.io/ff680340.m3u8
- SPass 2
-https://cdn28.sportspass.io/ffa79ee6.m3u8
- SPass 3
-https://cdn28.sportspass.io/ff286681.m3u8
- SPass 4
-https://cdn28.sportspass.io/ff214ea4.m3u8
- SPass 5
-https://cdn28.sportspass.io/ff314994.m3u8
-
-#EXTINF:-1, CNBC LIVE
-https://afdfadsds.global.ssl.fastly.net/LiveApp/streams/630825105027713152264570.m3u8
-
-,soccer1
-https://hls.raino.xyz/soccer/soccer1.m3u8
-,soccer2
-https://hls.raino.xyz/soccer/soccer2.m3u8
-,soccer3
-https://hls.raino.xyz/soccer/soccer3.m3u8
-,soccer4
-https://hls.raino.xyz/soccer/soccer4.m3u8
-,soccer5
-https://hls.raino.xyz/soccer/soccer5.m3u8
-,soccer6
-https://hls.raino.xyz/soccer/soccer6.m3u8
-,soccer7
-https://hls.raino.xyz/soccer/soccer7.m3u8
-,soccer8
-https://hls.raino.xyz/soccer/soccer8.m3u8
-,soccer9
-https://hls.raino.xyz/soccer/soccer9.m3u8
-,soccer10
-https://hls.raino.xyz/soccer/soccer10.m3u8
-
-http://streamwat.ch/custom/player/#https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-http://streamwat.ch/custom/player/#https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-http://streamwat.ch/custom/player/#https://www.livedoomovies.com/02_BTSPORTHD_3_720p/chunklist.m3u8
-
-, BT SPORT 3 LIVE *
-https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/f2s41vu1evpyi2.m3u8?s=BFnbvI6UjrXV2t-rnwyxTg&e=1612724082
-
-#EXTINF:-1, S EPL
-http://103.252.220.46:25461/live/41246671289321/41604451921808/78994.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA==
-#EXTINF:-1, S PSL
-http://103.252.220.46:25461/live/41246671289321/41604451921808/78993.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA==
-#EXTINF:-1, S Cricket
-http://103.252.220.46:25461/live/41246671289321/41604451921808/78992.m3u8?token=ShEJBUoJRA0UVwMEVwRTBwwLU1VUAlwIAAZRAFpaDgMFVwRWXFlTAQBGGhJCQkJWWV9vCwATAw4NCFpVThpCEVRBPg1dQ1wVA1QBCAYAEh8aRlkPARMDCRkTEwsGGg0MRF8NSBsEHkNTFlhRXWlUVk5bUwdGC1dMWV1PQA1WaAZUXgAKXUNcFQdGGhJYRUARAhBkEBFUGXBbRQYQDF1DQnJcT0R1FQIZFEgUUlhCQlJMVxJYCkRVVRkTAA0XVkMQSBFbRm0pRBsUAU5EVFhDWldcElhGXApMDRNPQAtLaBBUQBUWXAALUkRGDBIBFBwRVVNIPQdeV1dQUhcLDVZEQAsRUEYVQwtYWA1CX0NpQFpcEAoMEV1VRA==
-
-#EXTINF:-1,UseeSports 1
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-useesport
-#EXTINF:-1,UseeSports 2
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-useesports2
-#EXTINF:-1,Bein Sport 1
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-bein1
-#EXTINF:-1,bein Sport 2
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-bein2
-#EXTINF:-1,Fox Sport 1
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-foxsport1
-#EXTINF:-1,Fox Sport 2
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-foxsport2
-#EXTINF:-1,Fox Sport 3
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-foxsport3
-#EXTINF:-1,KBS World
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-kbsworld
-#EXTINF:-1,HBO
-https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hbo
-#EXTINF:-1,HBO SIGNATURE
-https://home-tv.web.id/dinda/malaka.m3u8?channel=h-sig
-#EXTINF:-1,HBO FAMILY
-https://home-tv.web.id/dinda/malaka.m3u8?channel=h-fam
-#EXTINF:-1,HBO HITS
-https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hits
-#EXTINF:-1,HBO RED
-https://home-tv.web.id/dinda/malaka.m3u8?channel=h-red
-#EXTINF:-1,CINEMAX by HBO
-https://home-tv.web.id/dinda/malaka.m3u8?channel=h-max
-#EXTINF:-1,CNN International
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-cnninternational
-#EXTINF:-1,Bloomberg
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-blomberg
-
-#EXTINF:-1,COSMOTE SPORT1
-http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT2
-http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT3
-http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT4
-http://185.132.177.110:8080/COSMOTESport4HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT5
-http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT6
-http://185.132.177.110:8080/COSMOTESport6HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT7
-http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8?token=test
-#EXTINF:-1,COSMOTE SPORT8
-http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8?token=test
-#EXTINF:-1 group-title="BamarTV/Sport",COSMOTE SPORT9
-http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8?token=test
-
-http://79.137.41.99/DisneyChannel/index.m3u8
-
-#EXTINF:-1 group-title="BamarTV",AVJ
-https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
-,AsianCrush
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Crackle
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd2759bc8634d002d9ff9bc?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,fubo Sports Network
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc776?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,RetroCrush
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Latin x Loop
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccd4?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Loop 80's | offline
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccbf?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Loop 90's
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccdd?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Loop Beast
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccc2?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Loop Bedroom
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccc5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Loop Electronica
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf2?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Loop Far Out
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f2863338bc40f00420a0694?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Loop Flashback
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccd7?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Loop Hip Hop
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0cccb?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Loop Hottest
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccd1?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Loop R&B
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccce?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Loop Synapse
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccda?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Loop Texas Tunes
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0cce0?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Loop TGIF
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccc8?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Loop That's Hot
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0cce6?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Loop Trending
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0cce9?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Loop Unwind
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccec?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Loop Yacht Rock
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccef?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-,Party
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
- group-title="BamarTV",Party Tyme Karaoke
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-
-#EXTINF:-1 group-title="BamarTV", MizzimaTV
-https://www.youtube.com/watch?v=u9-jHk_5Nxs
-#EXTINF:-1 group-title="BamarTV", MizzimaTV*
-http://www.youtube.com/embed/u9-jHk_5Nxs
-https://youtu.be/u9-jHk_5Nxs
-
-#EXTINF:-1,HINDI CINEMA-1
-http://fun6.xyz:2052/HINDI_CINEMA_01/index.m3u8
-#EXTINF:-1,HINDI CINEMA-2 HD
-http://fun6.xyz:2052/HINDI_CINEMA_02/index.m3u8
-#EXTINF:-1,HINDI CINEMA-3
-http://fun6.xyz:2052/HINDI_CINEMA_03/index.m3u8
-#EXTINF:-1,HINDI CINEMA-4
-http://fun6.xyz:2052/HINDI_CINEMA_04/index.m3u8
-#EXTINF:-1,HINDI CINEMA-5
-http://fun6.xyz:2052/HINDI_CINEMA_05/index.m3u8
-#EXTINF:-1,HINDI CINEMA-6
-http://fun6.xyz:2052/HINDI_CINEMA_06/index.m3u8
-#EXTINF:-1,HINDI CINEMA-7
-http://fun6.xyz:2052/HINDI_CINEMA_07/index.m3u8
-#EXTINF:-1,HINDI CINEMA-8
-http://fun6.xyz:2052/HINDI_CINEMA_08/index.m3u8
-
-#EXTINF:-1,Mix 24-7
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/1
-#EXTINF:-1,Mix 24-7 Top 100
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/2
-#EXTINF:-1,Mix 24-7 Tropical
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/3
-#EXTINF:-1,Mix 24-7 Retro
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/4
-#EXTINF:-1,Mix 24-7 Pop
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/5
-#EXTINF:-1,Mix 24-7 Vintage
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/6
-#EXTINF:-1,ConciertosLive
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/7
-#EXTINF:-1,PuroRock24-7
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/25
-
-#EXTINF:-1 group-title="BamarTV", 80s Party |loop 
-https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
-
-#EXTINF:-1,LOOP 80'S FHD
-https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/0a3255a5-e315-46e6-b8cb-4b9bce25cc11/5.m3u8
-#EXTINF:-1,LOOP 80'S HD
-https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/0a3255a5-e315-46e6-b8cb-4b9bce25cc11/4.m3u8
-
-#EXTINF:-1,Loop 80s
-https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s/playlist.m3u8
-#EXTINF:-1,Loop 90s
-https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop90s/playlist.m3u8
-
-#EXTINF:-1,LOOP 90'S FHD
-https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/5846b7b3-d46f-4652-8acb-e581996de641/5.m3u8
-#EXTINF:-1,LOOP 90'S HD
-https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/5846b7b3-d46f-4652-8acb-e581996de641/4.m3u8
-#EXTINF:-1,LOOP 90'S SD
-https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/5846b7b3-d46f-4652-8acb-e581996de641/1.m3u8
-#EXTINF:-1,LOOP 90'S
-https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/5846b7b3-d46f-4652-8acb-e581996de641/0.m3u8
-
-#EXTINF:-1,LOOP ALT+ FHD
-https://bf478e05dd884185aebc142c47e5081a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/alt_loop/20480ac8-e570-4d9b-8579-6f2a78ee5a0d/5.m3u8
-#EXTINF:-1,LOOP BEAST FHD
-https://4995bb351158404890f211589ad8235f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_loop/ee523a3a-121c-477c-99ad-b1d155f6cce0/5.m3u8
-#EXTINF:-1,LOOP BEDROM FHD
-https://0137a758022c46a38e455092610c984b.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_loop/7c4643bb-600c-49fe-9b6f-56cf304e5ac4/5.m3u8
-#EXTINF:-1,LOOP ELECTRONICA FHD
-https://1e1876eb600945e89b6d98ddf44d26f2.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_loop/863f2f66-5942-4e33-b1ba-bc1852b007f2/5.m3u8
-#EXTINF:-1,LOOP FLASHBACK FHD
-https://80daef5afee04639ab6f19432058fb93.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_loop/8a997739-f93b-4c80-84bf-68143445bfb0/5.m3u8
-#EXTINF:-1,LOOP FAR OUT FHD
-https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/b0b4e8ad-0c44-49fe-8646-6dee5c529589/5.m3u8
-#EXTINF:-1,LOOP HOTTEST FHD
-https://e896313b744c41d095a1981b251d4344.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_loop/1d364009-e579-4fa4-9f7e-05c08d81f276/5.m3u8
-#EXTINF:-1,LOOP R&B FHD
-https://42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/c09c8cd5-96fe-4ddb-a14c-ad076be152cc/5.m3u8
-#EXTINF:-1,LOOP SYNAPSE FHD
-https://d6749b2b5cb74c85a06a9841003eb04b.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_loop/dc7864f3-5666-4ff6-bd77-74883c6e048a/5.m3u8
-#EXTINF:-1,LOOP TEXAS LATIN FHD
-https://61d06f00ea524bb9a59ed1ceaa43a294.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_loop/d8b80fed-abff-473f-8ffa-58bff2c16891/5.m3u8
-#EXTINF:-1,LOOP TEXAS TUNES FHD
-https://931a92f064db4a8db82cb89f072dc6c7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_loop/74fcffcf-b3eb-47dc-b338-9e6a38241a8d/5.m3u8
-#EXTINF:-1,LOOP THAT'S HOT FHD
-https://0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_loop/56d57a01-9fc2-402d-a7b1-f4bd931ecc11/5.m3u8
-#EXTINF:-1,LOOP YACHT ROCK FHD
-https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/b6cccfb4-4fca-4d05-9e65-e4fc75989d71/5.m3u8
-
-
-#EXTINF:-1,LOOP FLASHBACK
-https://80daef5afee04639ab6f19432058fb93.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_loop/8a997739-f93b-4c80-84bf-68143445bfb0/3.m3u8
-#EXTINF:-1,LOOP THAT'S HOT
-https://80daef5afee04639ab6f19432058fb93.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_loop/56d57a01-9fc2-402d-a7b1-f4bd931ecc11/3.m3u8
-#EXTINF:-1,LOOP YACHT ROCK
-https://80daef5afee04639ab6f19432058fb93.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/b6cccfb4-4fca-4d05-9e65-e4fc75989d71/3.m3u8
-#EXTINF:-1,LOOP R&B
-https://80daef5afee04639ab6f19432058fb93.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/c09c8cd5-96fe-4ddb-a14c-ad076be152cc/3.m3u8
-#EXTINF:-1,LOOP FAR OUT
-https://80daef5afee04639ab6f19432058fb93.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/b0b4e8ad-0c44-49fe-8646-6dee5c529589/3.m3u8
-
-#EXTINF:-1,LOOP FLASHBACK
-https://0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_loop/8a997739-f93b-4c80-84bf-68143445bfb0/4.m3u8
-#EXTINF:-1,LOOP THAT'S HOT
-https://0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_loop/56d57a01-9fc2-402d-a7b1-f4bd931ecc11/4.m3u8
-#EXTINF:-1,LOOP YACHT ROCK
-https://0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/b6cccfb4-4fca-4d05-9e65-e4fc75989d71/4.m3u8
-#EXTINF:-1,LOOP R&B
-https://0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/c09c8cd5-96fe-4ddb-a14c-ad076be152cc/4.m3u8
-#EXTINF:-1,LOOP FAR OUT
-https://0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/b0b4e8ad-0c44-49fe-8646-6dee5c529589/4.m3u8
-
-#EXTINF:-1,LOOP FLASHBACK
-https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_loop/8a997739-f93b-4c80-84bf-68143445bfb0/5.m3u8
-#EXTINF:-1,LOOP THAT'S HOT
-https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_loop/56d57a01-9fc2-402d-a7b1-f4bd931ecc11/5.m3u8
-#EXTINF:-1,LOOP YACHT ROCK
-https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/b6cccfb4-4fca-4d05-9e65-e4fc75989d71/5.m3u8
-#EXTINF:-1,LOOP R&B
-https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/c09c8cd5-96fe-4ddb-a14c-ad076be152cc/5.m3u8
-#EXTINF:-1,LOOP FAR OUT
-https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/b0b4e8ad-0c44-49fe-8646-6dee5c529589/5.m3u8
-
-#EXTINF:-1,LOOP FLASHBACK
-https://42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_loop/8a997739-f93b-4c80-84bf-68143445bfb0/0.m3u8
-#EXTINF:-1,LOOP THAT'S HOT
-https://42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_loop/56d57a01-9fc2-402d-a7b1-f4bd931ecc11/0.m3u8
-#EXTINF:-1,LOOP YACHT ROCK
-https://42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/b6cccfb4-4fca-4d05-9e65-e4fc75989d71/0.m3u8
-#EXTINF:-1,LOOP R&B
-https://42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/c09c8cd5-96fe-4ddb-a14c-ad076be152cc/0.m3u8
-#EXTINF:-1,LOOP FAR OUT
-https://42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/b0b4e8ad-0c44-49fe-8646-6dee5c529589/0.m3u8
-
-#EXTINF:-1,LOOP FLASHBACK
-https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_loop/8a997739-f93b-4c80-84bf-68143445bfb0/3.m3u8
-#EXTINF:-1,LOOP THAT'S HOT
-https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_loop/56d57a01-9fc2-402d-a7b1-f4bd931ecc11/3.m3u8
-#EXTINF:-1,LOOP YACHT ROCK
-https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/b6cccfb4-4fca-4d05-9e65-e4fc75989d71/3.m3u8
-#EXTINF:-1,LOOP R&B
-https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/c09c8cd5-96fe-4ddb-a14c-ad076be152cc/3.m3u8
-#EXTINF:-1,LOOP FAR OUT
-https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/b0b4e8ad-0c44-49fe-8646-6dee5c529589/3.m3u8
-
-
-
-bollywood premier
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-bollywood classic
-https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-
-http://103.145.12.195:8080/hls/streama145429/index.m3u8 < offline
-http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8 < N
-http://192.166.246.122/hls/ovostreamss.m3u8
-http://a2.aliez.me:8080/hls/streama141886/index.m3u8
-http://ip2121.com:8081/at1/ENG3/chunks.m3u8 < N
-http://mafy.ddns.net:2082/TurkPortalGrup/Telegram/7264
-https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/bbe355fc873a4b9fa03769748f2326f1/index3.m3u8
-https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/d1192d904efe496fa01cd23352cbe99b/index5.m3u8 < offline
-https://bucketdaily02.s3.eu-west-2.amazonaws.com/e1/1.m3u8
-https://bucketdaily02.s3.eu-west-2.amazonaws.com/e2/2.m3u8
-https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/f66c9ac57cf0482ca54c5cdc86e68854/index4.m3u8
-https://dailyb0.s3.amazonaws.com/e1/1.m3u8
-https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8 < N
-https://rebrand.ly/SA-103
-https://rebrand.ly/SPL-103
-https://rebrand.ly/SPSL-103
-https://rebrand.ly/SV2-103
-
-#EXTINF:-1 group-title="BamarTV", 80s party |loop.tv
-https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/3.m3u8
-
 
 + + + + + cdn-globalnet + + + + +
 
