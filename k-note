@@ -999,7 +999,7 @@ http://89.187.189.58/TLC/index.m3u8
 #EXTINF:-1,Yesterday
 http://89.187.189.58:80/Yesterday/index.m3u8
 
-#EXTINF:-1,Sky Sport News
+#EXTINF:-1,Sky Sport F1
 http://89.187.189.58:80/1/index.m3u8
 http://89.187.189.58:80/1/tracks-v1a1/mono.m3u8
 http://89.187.189.58:80/2/tracks-v1a1/mono.m3u8
@@ -1021,42 +1021,49 @@ http://89.187.189.58:80/8/index.m3u8
 http://89.187.189.58:80/9/index.m3u8
 http://89.187.189.58:80/9/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,10
+#EXTINF:-1,Racing TV
 http://89.187.189.58:80/10/tracks-v1a1/mono.m3u8
-#EXTINF:-1,11
+#EXTINF:-1,BOX NATION
 http://89.187.189.58:80/11/tracks-v1a1/mono.m3u8
-#EXTINF:-1,12
+#EXTINF:-1,eir spt 1
 http://89.187.189.58:80/12/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BT SPORT
 http://89.187.189.58:80/13/index.m3u8
 #EXTINF:-1,Sky Sports Racing HD
 http://89.187.189.58:80/14/index.m3u8
-#EXTINF:-1,15
+#EXTINF:-1,BBC THREE
 http://89.187.189.58:80/15/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BBC NEWS
 http://89.187.189.58:80/16/index.m3u8
-#EXTINF:-1,17
+#EXTINF:-1,itv
 http://89.187.189.58:80/17/tracks-v1a1/mono.m3u8
 #EXTINF:-1,4 Channel
 http://89.187.189.58:80/18/index.m3u8
 #EXTINF:-1,5 Channel
 http://89.187.189.58:80/19/index.m3u8
 
+#EXTINF:-1,20
 http://89.187.189.58:80/20/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/21/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/22/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/23/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/24/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/25/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/26/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/27/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/28/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/29/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,BBC Four
 http://89.187.189.58:80/21/index.m3u8
+http://89.187.189.58:80/21/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ITV2
 http://89.187.189.58:80/22/index.m3u8
+http://89.187.189.58:80/22/tracks-v1a1/mono.m3u8
+#EXTINF:-1,23
+http://89.187.189.58:80/23/tracks-v1a1/mono.m3u8
+#EXTINF:-1,24
+http://89.187.189.58:80/24/tracks-v1a1/mono.m3u8
+#EXTINF:-1,25
+http://89.187.189.58:80/25/tracks-v1a1/mono.m3u8
+#EXTINF:-1,26
+http://89.187.189.58:80/26/tracks-v1a1/mono.m3u8
+#EXTINF:-1,27
+http://89.187.189.58:80/27/tracks-v1a1/mono.m3u8
+#EXTINF:-1,28
+http://89.187.189.58:80/28/tracks-v1a1/mono.m3u8
+#EXTINF:-1,29
+http://89.187.189.58:80/29/tracks-v1a1/mono.m3u8
 
 http://89.187.189.58:80/30/tracks-v1a1/mono.m3u8
 http://89.187.189.58:80/31/tracks-v1a1/mono.m3u8
