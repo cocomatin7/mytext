@@ -1069,7 +1069,7 @@ http://89.187.189.58:80/30/tracks-v1a1/mono.m3u8
 #EXTINF:-1,One
 http://89.187.189.58:80/31/index.m3u8
 http://89.187.189.58:80/31/tracks-v1a1/mono.m3u8
-#EXTINF:-1,32
+#EXTINF:-1,TG 4
 http://89.187.189.58:80/32/tracks-v1a1/mono.m3u8
 #EXTINF:-1,33
 http://89.187.189.58:80/33/tracks-v1a1/mono.m3u8
@@ -1136,21 +1136,29 @@ http://89.187.189.58:80/58/tracks-v1a1/mono.m3u8
 #EXTINF:-1,59
 http://89.187.189.58:80/59/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,60
 http://89.187.189.58:80/60/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/61/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/62/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/63/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/64/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/65/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/66/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/67/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/68/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/69/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,Film
 http://89.187.189.58:80/61/index.m3u8
+http://89.187.189.58:80/61/tracks-v1a1/mono.m3u8
+#EXTINF:-1,62
+http://89.187.189.58:80/62/tracks-v1a1/mono.m3u8
+#EXTINF:-1,63
+http://89.187.189.58:80/63/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DMAX
 http://89.187.189.58:80/64/index.m3u8
+http://89.187.189.58:80/64/tracks-v1a1/mono.m3u8
+#EXTINF:-1,65
+http://89.187.189.58:80/65/tracks-v1a1/mono.m3u8
+#EXTINF:-1,66
+http://89.187.189.58:80/66/tracks-v1a1/mono.m3u8
+#EXTINF:-1,67
+http://89.187.189.58:80/67/tracks-v1a1/mono.m3u8
+#EXTINF:-1,68
+http://89.187.189.58:80/68/tracks-v1a1/mono.m3u8
+#EXTINF:-1,69
+http://89.187.189.58:80/69/tracks-v1a1/mono.m3u8
+
 
 http://89.187.189.58:80/70/tracks-v1a1/mono.m3u8
 http://89.187.189.58:80/71/tracks-v1a1/mono.m3u8
