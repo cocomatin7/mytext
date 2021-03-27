@@ -1270,16 +1270,25 @@ http://89.187.189.58:80/118/tracks-v1a1/mono.m3u8
 #EXTINF:-1,119
 http://89.187.189.58:80/119/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,120
 http://89.187.189.58:80/120/tracks-v1a1/mono.m3u8
+#EXTINF:-1,121
 http://89.187.189.58:80/121/tracks-v1a1/mono.m3u8
+#EXTINF:-1,122
 http://89.187.189.58:80/122/tracks-v1a1/mono.m3u8
+#EXTINF:-1,123
 http://89.187.189.58:80/123/tracks-v1a1/mono.m3u8
+#EXTINF:-1,124
 http://89.187.189.58:80/124/tracks-v1a1/mono.m3u8
+#EXTINF:-1,125
 http://89.187.189.58:80/125/tracks-v1a1/mono.m3u8
+#EXTINF:-1,126
 http://89.187.189.58:80/126/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Bein Sports 3
-http://89.187.189.58:80/127/index.m3u8
+http://89.187.189.58:80/127/tracks-v1a1/mono.m3u8
+#EXTINF:-1,128
 http://89.187.189.58:80/128/tracks-v1a1/mono.m3u8
+#EXTINF:-1,129
 http://89.187.189.58:80/129/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Bein Sports 9
