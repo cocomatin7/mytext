@@ -1112,23 +1112,29 @@ http://89.187.189.58:80/48/tracks-v1a1/mono.m3u8
 http://89.187.189.58:80/49/index.m3u8
 http://89.187.189.58:80/49/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,50
 http://89.187.189.58:80/50/tracks-v1a1/mono.m3u8
+#EXTINF:-1,51
 http://89.187.189.58:80/51/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/52/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/53/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/54/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/55/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/56/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/57/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/58/tracks-v1a1/mono.m3u8
-http://89.187.189.58:80/59/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,Nick Toons
 http://89.187.189.58:80/52/index.m3u8
+http://89.187.189.58:80/52/tracks-v1a1/mono.m3u8
+#EXTINF:-1,53
+http://89.187.189.58:80/53/tracks-v1a1/mono.m3u8
+#EXTINF:-1,54
+http://89.187.189.58:80/54/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Film
 http://89.187.189.58:80/55/index.m3u8
+http://89.187.189.58:80/55/tracks-v1a1/mono.m3u8
+#EXTINF:-1,56
+http://89.187.189.58:80/56/tracks-v1a1/mono.m3u8
+#EXTINF:-1,57
+http://89.187.189.58:80/57/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Gold
 http://89.187.189.58:80/58/index.m3u8
+http://89.187.189.58:80/58/tracks-v1a1/mono.m3u8
+#EXTINF:-1,59
+http://89.187.189.58:80/59/tracks-v1a1/mono.m3u8
 
 http://89.187.189.58:80/60/tracks-v1a1/mono.m3u8
 http://89.187.189.58:80/61/tracks-v1a1/mono.m3u8
