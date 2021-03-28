@@ -3722,6 +3722,7 @@ http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png" group-title="SG",Channel News Asia | d2k
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png", CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png", CNA HD*
@@ -10394,6 +10395,18 @@ https://m3u-editor.com/serve/akun-free367/93567218
 http://magco.rip:8000/get.php?username=41246671289321&password=41604451921808&type=m3u_plus | 8/5/2021 
 
 + + + + + mantul.biz.id:8888 [SEA] + + + + +
+
+#EXTINF:-1 group-title="maxx",MTV HITS
+http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/23287.ts
+#EXTINF:-1,NBC Sports (Network) HD
+http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/28740.ts
+#EXTINF:-1,NBC Sports Network
+http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/22499.ts
+#EXTINF:-1,NBC Sports Network HD
+http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/15942.ts
+#EXTINF:-1 group-title="maxx",NBCSN
+http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/10054.ts
+
 + + + + + mhiptv.com:8888 [beIN] + + + + +
 
 http://mhiptv.com:8888/live/ka5/ka5/3652.m3u8
