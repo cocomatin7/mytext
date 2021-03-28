@@ -579,24 +579,6 @@ https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-foxsport1
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-foxsport2
 #EXTINF:-1,Fox Sport 3
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-foxsport3
-#EXTINF:-1,KBS World
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-kbsworld
-#EXTINF:-1,HBO
-https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hbo
-#EXTINF:-1,HBO SIGNATURE
-https://home-tv.web.id/dinda/malaka.m3u8?channel=h-sig
-#EXTINF:-1,HBO FAMILY
-https://home-tv.web.id/dinda/malaka.m3u8?channel=h-fam
-#EXTINF:-1,HBO HITS
-https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hits
-#EXTINF:-1,HBO RED
-https://home-tv.web.id/dinda/malaka.m3u8?channel=h-red
-#EXTINF:-1,CINEMAX by HBO
-https://home-tv.web.id/dinda/malaka.m3u8?channel=h-max
-#EXTINF:-1,CNN International
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-cnninternational
-#EXTINF:-1,Bloomberg
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-blomberg
 
 #EXTINF:-1,COSMOTE SPORT1
 http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8?token=test
@@ -672,6 +654,28 @@ http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/65.m3u8
 http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/66.m3u8
 
 http://79.137.41.99/DisneyChannel/index.m3u8
+
+#EXTINF:-1 group-title="ID",KBS World
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-kbsworld
+#EXTINF:-1,HBO
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hbo
+#EXTINF:-1,HBO SIGNATURE
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-sig
+#EXTINF:-1,HBO FAMILY
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-fam
+#EXTINF:-1,HBO HITS
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-hits
+#EXTINF:-1,HBO RED
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-red
+#EXTINF:-1,CINEMAX by HBO
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-max
+#EXTINF:-1,CNN International
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-cnninternational
+#EXTINF:-1,Bloomberg
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-blomberg
+#EXTINF:-1 group-title="ID",CINEMAX ID
+http://bonev2.xyz:80/playlist/Go-max-new-bonetv.m3u8
+
 
 #EXTINF:-1 group-title="BamarTV",AVJ
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
@@ -9970,6 +9974,15 @@ http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/767.m3u8
 http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526.m3u8
 #EXTINF:-1 group-title="31.220",UFC USA
 http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122.m3u8
+
++ + + + + 34.70.48.178:25461 + + + + +
+
+#EXTINF:-1 group-title="34.70",Astro Supersport |30
+http://34.70.48.178:25461/live/oSC7QXUAgM/XI6uWOiWRG/2.m3u8
+#EXTINF:-1,Astro Supersport 2 |30
+http://34.70.48.178:25461/live/oSC7QXUAgM/XI6uWOiWRG/3.m3u8
+#EXTINF:-1 group-title="34.70",Astro Supersport 3 |30
+http://34.70.48.178:25461/live/oSC7QXUAgM/XI6uWOiWRG/4.m3u8
 
 + + + + + 50.7.136.122:25461 / 1milltvbox.loginto.me:25461 [MY] + + + + +
 
