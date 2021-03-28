@@ -683,6 +683,15 @@ http://89.187.189.107/51/video.m3u8?token=0E1F2DBD1742FFD
 #EXTINF:-1,MTV Live HD
 http://89.187.189.107/144/video.m3u8?token=0E1F2DBD1742FFD
 
+#EXTINF:-1,MTV
+http://152.228.154.144:80/stream/CUUY1Q39SE/89.m3u8
+#EXTINF:-1,MTV 80s
+http://152.228.154.144:80/stream/CUUY1Q39SE/87.m3u8
+#EXTINF:-1,MTV 90s
+http://152.228.154.144:80/stream/CUUY1Q39SE/88.m3u8
+#EXTINF:-1,MTV Club
+http://152.228.154.144:80/stream/CUUY1Q39SE/147.m3u8
+
 ,AsianCrush
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 ,Crackle
