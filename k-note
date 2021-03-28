@@ -126,14 +126,23 @@ http://185.238.0.145:1313/c/livedo/truepremierfootball2-hd.m3u8
 #EXTINF:-1,True Premiere Football HD3 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball3-hd.m3u8
 
-#EXTINF:-1,SUPERSPORT 1 |50
+,SUPERSPORT 1 |50
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1,SUPERSPORT 2 |50
+,SUPERSPORT 2 |50
 http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1,SUPERSPORT 3 |50
+,SUPERSPORT 3 |50
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1,SUPERSPORT 4 |50
+,SUPERSPORT 4 |50
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+
+#EXTINF:-1,ASSP 1 |198
+http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1,ASSP 2 |198
+http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1,ASSP 3 |198
+http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1,ASSP 4 |198
+http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
 
 #EXTINF:-1,True Premiere Football HD1 |50
 http://50.7.222.130:8278/streams/d/truepre1_pat/playlist.m3u8
@@ -144,23 +153,13 @@ http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
 #EXTINF:-1,True Premiere Football HD4 |50
 http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
 
+
 #EXTINF:-1,True Premiere Football HD1 |77
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD2 |77
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD3 |77
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
-
--/-/-/-/-/- 198.16.106.58:8278 -/-/-/-/-/
-
-#EXTINF:-1,ASSP 1 |198
-http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1,ASSP 2 |198
-http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1,ASSP 3 |198
-http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1,ASSP 4 |198
-http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
 
 -/-/-/-/-/- doofootball.livestream-cdn.com -/-/-/-/-/
 
@@ -3045,12 +3044,12 @@ http://thaicable.myftp.org:8000/live/infosat/2020/9.m3u8
 ,CH 10 | NAT GEO
 http://thaicable.myftp.org:8000/live/infosat/2020/10.m3u8
 https://laos-tech-live.b-cdn.net/hd-natgeo_720/index.m3u8
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+
 
 ,CH 11 | BOX FILM
 http://thaicable.myftp.org:8000/live/infosat/2020/11.m3u8
 https://cdn6.goprimetime.info/feed/LC52/tracks-v1a1/mono.m3u8
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+
 
 ,CH 12 | CTB
 http://thaicable.myftp.org:8000/live/infosat/2020/12.m3u8
@@ -4445,11 +4444,12 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/109
 https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
 #EXTINF:-1,ASSP1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/54
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+
+
 http://vp2p2s.my6868.cc/20414/index.m3u8
 #EXTINF:-1,ASSP2
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/55
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+
 http://vp2p2s.my6868.cc/20415/sbmc.m3u8
 http://vp2p2s.my6868.cc/20415/index.m3u8
 #EXTINF:-1,ASSP3
@@ -9976,6 +9976,7 @@ http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526.m3u8
 http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122.m3u8
 
 + + + + + 34.70.48.178:25461 + + + + +
+https://delivery.ghanacloud.ga/get.php?username=oSC7QXUAgM&password=XI6uWOiWRG&type=m3u
 
 #EXTINF:-1 group-title="34.70",Astro Supersport |30
 http://34.70.48.178:25461/live/oSC7QXUAgM/XI6uWOiWRG/2.m3u8
