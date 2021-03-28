@@ -347,7 +347,14 @@ https://v6.sportzonline.to/channels/pt/sporttv5.php
 SPORTTV5
 https://rwyzjmd8vxbgug4d.ezcdn383.net:8443/hls/war3u.m3u8?s=VEUxY67HEjmW9z2TXHYOkw&e=1616340552
 Live HD1
+https://sportzonline.to/channels/hd/hd1.php
+https://v1.sportzonline.to/channels/hd/hd1.php
+https://v2.sportzonline.to/channels/hd/hd1.php
+https://v3.sportzonline.to/channels/hd/hd1.php
+https://v4.sportzonline.to/channels/hd/hd1.php
+https://v5.sportzonline.to/channels/hd/hd1.php
 https://v6.sportzonline.to/channels/hd/hd1.php
+
 https://v6.sportzonline.to/channels/hd/hd2.php
 https://v6.sportzonline.to/channels/hd/hd3.php
 https://v6.sportzonline.to/channels/hd/hd4.php
@@ -355,6 +362,7 @@ https://v6.sportzonline.to/channels/hd/hd5.php
 https://v6.sportzonline.to/channels/hd/hd6.php
 https://v6.sportzonline.to/channels/hd/hd7.php
 https://v6.sportzonline.to/channels/hd/hd8.php
+https://sportzonline.to/channels/hd/hd8.php
 
 ,rmc 1
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/2545/index.m3u8
@@ -488,6 +496,7 @@ http://cdn7.hhdstreams.club/live/abr_ch4/live/ch4_720p/chunks.m3u8
 http://cdn7.hhdstreams.club/live/abr_ch5/live/ch5_720p/chunks.m3u8
 
 #EXTINF:-1,OVO L1
+http://77.247.109.116/hls/liveovo1.m3u8
 http://d1qag1ur6to329.cloudfront.net/hls/live1.m3u8
 http://77.247.109.116/hls/live1.m3u8
 http://192.166.246.122/hls/live1.m3u8
@@ -505,8 +514,10 @@ http://192.166.246.122/hls/ovostreams12.m3u8
 
 #EXTINF:-1,OVO 2
 http://77.247.109.116/hls/ovo2.m3u8
-http://77.247.109.116/hls/ovo2.m3u8
 http://192.166.246.122/hls/ovo2.m3u8
+
+http://d1qag1ur6to329.cloudfront.net/hls/live1.m3u8
+http://77.247.109.116/hls/liveovo4.m3u8
 
 #EXTINF:-1, NBCSN Live
 https://dailylast1.s3.eu-west-2.amazonaws.com/e1/1.m3u8
