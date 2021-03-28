@@ -97,27 +97,27 @@ http://203.81.84.130/hls/mwd_variety/index.m3u8
 
 + + + + + BamarTV/Sport + + + + +
 
-#EXTINF:-1 group-title="BamarTV/Sport",True Premiere Football HD1 |160
-http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:-1,True Premiere Football HD2 |160
-http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |160
-http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
-
-#EXTINF:-1,True Premiere Football HD1 |160*
-http://160.119.77.116:8081/iptv/bsb-epl1.stream/playlist.m3u8
-#EXTINF:-1,True Premiere Football HD2 |160*
-http://160.119.77.116:8081/iptv/bsb-epl2.stream/playlist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |160*
-http://160.119.77.116:8081/iptv/bsb-epl3.stream/playlist.m3u8
-
-#EXTINF:-1,True Premiere Football HD1 |160
+#EXTINF:-1 group-title="BamarTV/Sport",True Premiere Football HD1 |160.119
 http://160.119.77.117/iptv/epl-1.stream/chunks.m3u8
-#EXTINF:-1,True Premiere Football HD2 |160
+#EXTINF:-1,True Premiere Football HD2 |160.119
 http://160.119.77.117/iptv/epl-2.stream/chunks.m3u8
 http://160.119.77.117/iptv/epl-3.stream/chunks.m3u8
 http://160.119.77.117/iptv/epl-4.stream/chunks.m3u8
 http://160.119.77.117/iptv/epl-5.stream/chunks.m3u8
+
+,True Premiere Football HD1 |160
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+,True Premiere Football HD2 |160
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+,True Premiere Football HD3 |160
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+
+,True Premiere Football HD1 |160*
+http://160.119.77.116:8081/iptv/bsb-epl1.stream/playlist.m3u8
+,True Premiere Football HD2 |160*
+http://160.119.77.116:8081/iptv/bsb-epl2.stream/playlist.m3u8
+,True Premiere Football HD3 |160*
+http://160.119.77.116:8081/iptv/bsb-epl3.stream/playlist.m3u8
 
 #EXTINF:-1,True Premiere Football HD1 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball1-hd.m3u8
@@ -160,21 +160,6 @@ http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD3 |77
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
-
--/-/-/-/-/- doofootball.livestream-cdn.com -/-/-/-/-/
-
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-mainevent.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-btsport1hd.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-btsport2hd.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-btsport3hd.stream/chunks.m3u8
-
-https://doofootball.livestream-cdn.com/iptv/hd-cnn.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-bbcworldnews.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/sd-bloomberg.stream/chunks.m3u8
-
-https://doofootball.livestream-cdn.com/iptv/hd-bein1.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/hd-bein6.stream/chunks.m3u8
 
 -/-/-/-/-/- offline -/-/-/-/-/
 http://198.16.106.58:8278/supersports/playlist.m3u8
@@ -908,7 +893,7 @@ https://bucketdaily02.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 https://bucketdaily02.s3.eu-west-2.amazonaws.com/e2/2.m3u8
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/f66c9ac57cf0482ca54c5cdc86e68854/index4.m3u8
 https://dailyb0.s3.amazonaws.com/e1/1.m3u8
-https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8 < N
+
 https://rebrand.ly/SA-103
 https://rebrand.ly/SPL-103
 https://rebrand.ly/SPSL-103
@@ -3405,6 +3390,9 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1, &priveHD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1, Bflix
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+
 #EXTINF:-1,CH 155
 http://101.108.202.53:9981/play/stream/channel/382841c8e7e33830fa43e4f3e2a46be7?title=stream
 
@@ -3438,56 +3426,111 @@ https://cdn1.cloud-streaming.live/live/astrosport2/playlist.m3u8
 https://cdn1.cloud-streaming.live/live/astrosport3/playlist.m3u8
  tvg-id="Astro SuperSport 4",SUPERSPORT 4 |MM VPN
 https://cdn1.cloud-streaming.live/live/astrosport4/playlist.m3u8
-#EXTINF:-1, SPORT TV1 |MM VPN
+
 https://cdn1.cloud-streaming.live/live/sporttv1/playlist.m3u8
-#EXTINF:-1, SPORT TV2 |MM VPN
-#EXTINF:-1, SPORT TV3 |MM VPN
-#EXTINF:-1, SPORT TV4 |MM VPN
-#EXTINF:-1, SPORT TV5 |MM VPN
-https://doofootball.livestream-cdn.com/iptv/hd-bein1.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/hd-bein2.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/hd-bein3.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/hd-bein4.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/hd-bein5.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/hd-bein6.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/hd-foxsports1.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/sd-foxsports2.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/hd-foxsports3.stream/playlist.m3u8
+
+
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-mutv.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-lfctv.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-chelseatv.stream/chunks.m3u8
-http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-mainevent.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-cricket.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-action.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-golf.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-f1.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-football.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-arena.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-skysports-mix.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-btsport1hd.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-btsport2hd.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-btsport3hd.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/uk-espn.stream/chunks.m3u8
+
++ + + + + http://160.119.77.117 + + + + +
+
+#EXTINF:-1, group-title="160.119",epl-1
+http://160.119.77.117/iptv/epl-1.stream/chunks.m3u8
+#EXTINF:-1,epl-2
+http://160.119.77.117/iptv/epl-2.stream/chunks.m3u8
+#EXTINF:-1,epl-3
+http://160.119.77.117/iptv/epl-3.stream/chunks.m3u8
+http://160.119.77.117/iptv/epl-4.stream/chunks.m3u8
+http://160.119.77.117/iptv/epl-5.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-asian.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-axn.stream/chunks.m3u8
+#EXTINF:-1,bein1
+http://160.119.77.117/iptv/hd-bein1.stream/chunks.m3u8
+#EXTINF:-1,bein2
+http://160.119.77.117/iptv/hd-bein2.stream/chunks.m3u8
+#EXTINF:-1,bein3
+http://160.119.77.117/iptv/hd-bein3.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-bein4.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-bein5.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-bein6.stream/chunks.m3u8
+#EXTINF:-1,cnn
+http://160.119.77.117/iptv/hd-cnn.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-discovery.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-foxaction.stream/chunks.m3u8
+#EXTINF:-1,foxsports1
+http://160.119.77.117/iptv/hd-foxsports1.stream/chunks.m3u8
+#EXTINF:-1,foxsports3
+http://160.119.77.117/iptv/hd-foxsports3.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-history.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-history2.stream/chunks.m3u8
+#EXTINF:-1,kbsworld
+http://160.119.77.117/iptv/hd-kbsworld.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-natgeo.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-nba.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-tennis.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-tsport1.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-tsport2.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-tsport3.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-xzyte.stream/chunks.m3u8
+http://160.119.77.117/iptv/ie-rte1.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-bbcearth.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-bbclifestyle.stream/chunks.m3u8
+#EXTINF:-1,bloomberg
+http://160.119.77.117/iptv/sd-bloomberg.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-celestial.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-explife.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-expsci.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-expwild.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-fox.stream/chunks.m3u8
+#EXTINF:-1,foxsports2
+http://160.119.77.117/iptv/sd-foxsports2.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-sparkjump.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-sparkplay.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-tsport2.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-tsport5.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-tsport6.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-tsport7.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-very.stream/chunks.m3u8
+#EXTINF:-1,bbcworldnews
+http://160.119.77.117/iptv/uk-bbcworldnews.stream/chunks.m3u8
+#EXTINF:-1,btsport1hd
+http://160.119.77.117/iptv/uk-btsport1hd.stream/chunks.m3u8
+#EXTINF:-1,btsport2hd
+http://160.119.77.117/iptv/uk-btsport2hd.stream/chunks.m3u8
+#EXTINF:-1,btsport3hd
+http://160.119.77.117/iptv/uk-btsport3hd.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-btsportextra2.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-chelseatv.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-espn.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-lfctv.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-mutv.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-skysports-action.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-skysports-arena.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-skysports-cricket.stream/chunks.m3u8
+#EXTINF:-1,epl
+http://160.119.77.117/iptv/uk-skysports-epl.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-skysports-f1.stream/chunks.m3u8
+#EXTINF:-1,football
+http://160.119.77.117/iptv/uk-skysports-football.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-skysports-golf.stream/chunks.m3u8
+#EXTINF:-1,mainevent
+http://160.119.77.117/iptv/uk-skysports-mainevent.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-skysports-mix.stream/chunks.m3u8
+#EXTINF:-1,skysports-news
+http://160.119.77.117/iptv/uk-skysports-news.stream/chunks.m3u8
+#EXTINF:-1, group-title="160.119",foxsports1
+http://160.119.77.117/iptv/us-foxsports1.stream/chunks.m3u8
+
++ + + + +
+
 https://dootvgun.com/hbotv/hbohd/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/sd-fox.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/sd-celestial.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/sd-sparkplay.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/sd-sparkjump.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/sd-explife.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/playlist.m3u8
-https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/chunks.m3u8
-https://doofootball.livestream-cdn.com/iptv/sd-very.stream/playlist.m3u8
+http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/playlist.m3u8
+
++ + + + + +
+
 https://cdn1.ufalive.center/thdooball/tpf1_480/playlist.m3u8?wmsAuth=c2VydmVyX3RpbWU9MS8xNy8yMDIxIDEyOjQxOjU1IEFNJmhhc2hfdmFsdWU9emhXZmFXaHZ0SFNKRUFpYTJRNE85Zz09JnZhbGlkbWludXRlcz0y
 
 + + + + + KH/Kingtel + + + + +
@@ -4464,9 +4507,11 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/58
 #EXTINF:-1,,BEIN 2
 https://cdnjt25.useetv.com/joss/15/bein2/chunklist_b1344100_sleng_.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/59
+
 #EXTINF:-1,SKY SPORTS MAIN EVENT
 http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/76
+
 #EXTINF:-1,SKY SPORTS EPL
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/77
@@ -4481,11 +4526,15 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/80oCdOia/80
 #EXTINF:-1,SKY SPORTS F1
 http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/81
+
 #EXTINF:-1,SKY SPORTS ACTION
 http://160.119.77.116:8081/iptv/uk-skysports-action.stream/playlist.m3u8
+
+
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/82
 #EXTINF:-1 group-title="iptvhit",SKY SPORTS ARENA
 http://160.119.77.116:8081/iptv/uk-skysports-arena.stream/playlist.m3u8
+
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/83
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9OwJW4s.png",TRANS 7
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/17
@@ -4539,7 +4588,7 @@ https://cdnjt25.useetv.com/dass/15/foxsport3/chunklist9_b1344100_sleng_.m3u8
 
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |hit
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/63
-http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |hit
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/64
 http://ip2121.com:8081/at1/ENG2/playlist.m3u8
@@ -4555,11 +4604,11 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/67
 http://50.7.222.130:8278/streams/d/truepre5_pat/playlist.m3u8
 http://ip2121.com:8081/at1/ENG5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |bsb
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |bsb
 http://160.119.77.116:8081/iptv/bsb-epl1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |bsb
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |bsb
 http://160.119.77.116:8081/iptv/bsb-epl2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3",True Premiere Football HD3 |bsb
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3",True Premiere Football HD3 |bsb
 http://160.119.77.116:8081/iptv/bsb-epl3.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/bsb-epl4.stream/playlist.m3u8
 
@@ -4678,8 +4727,6 @@ http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
 
 http://vip3rtv.servebeer.com:8080/get.php?username=Buster&password=Buster&type=m3u
 Real Url: thejoysoflife.is-a-anarchist.com:8080     Status: Active    Created: 16/11/2019 11:40:17 PM     Expires: 24/2/2021 12:00:00 AM    Active Connections: 20     Maximum Connections: 599
-
-
 
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia
 
@@ -6350,15 +6397,14 @@ http://119.59.125.74/stream/totnew.php?channel_id=205930751d5743e2be719ed1dff897
 
 + + + + + 160.119.77.50 >> 160.119.77.116:8081 + + + + + 
 
-+ + + + + https://doofootball.livestream-cdn.com + + + + +
 
-https://doofootball.livestream-cdn.com/iptv/epl-2.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="160.119", True Premiere Football HD1 |160
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2", True Premiere Football HD2 |160
+
+#EXTINF:-1 group-title="160.119", True Premiere Football HD1 |160
+#EXTINF:-1, True Premiere Football HD2 |160
 #EXTINF:-1, True Premiere Football HD3 |160
 #EXTINF:-1, True Premiere Football HD4 |160
 #EXTINF:-1, True Premiere Football HD5 |160
-#EXTINF:-1, beIN 1 |160
+#EXTINF:-1 group-title="160.119", beIN 1 |160
 http://160.119.77.116:8081/iptv/hd-bein1.stream/playlist.m3u8
 #EXTINF:-1, beIN 2 |160
 http://160.119.77.116:8081/iptv/hd-bein2.stream/playlist.m3u8
@@ -6486,7 +6532,6 @@ http://160.119.77.116:8081/iptv/hd-foxsports2eng.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-foxsports3eng.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-fxeng.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
-http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8 
 http://160.119.77.116:8081/iptv/hd-golf.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-golfeng.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-history.stream/playlist.m3u8
@@ -7493,10 +7538,6 @@ http://dootvthai-hd.com/cmd/true/TRUE-X-ZYTE-HD/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/verytv/playlist.m3u8
  group-title="dootvthai",YTN
 http://dootvthai-hd.com/cmd/true/YTN/playlist.m3u8
-
-+ + + + + duboffik.otttv.pw + + + + +
-
-http://duboffik.otttv.pw/iptv/DLEUNZU347YM8V/6000/index.m3u8
 
 + + + + + totiptv.com / h4 + + + + +
 
@@ -8627,183 +8668,188 @@ https://stream1.watchfootball.live/02_epl2_720p/chunklist.m3u8
 
 + + + + + https://freetvdd.com*/TH + + + + + +
 
+https://streaming.livescorethai.net < http://160.119.77.117
+
  tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="TH/freetvdd",epl-1 |freetvdd
 https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8
  tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",epl-2 |freetvdd
-https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8
 ,bein1 |freetvdd
-https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8
 ,bein2 |freetvdd
-https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/epl-x1.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/epl-x2.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/epl-x3.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/epl-x4.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/epl-x5.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-amarin.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-bbcworldnews.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-bein1.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-bein10.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-bein11.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-bein12.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-bein2.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-bein3.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-bein4.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-bein5.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-bein6.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-bein7.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-bein8.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-bein9.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-ch5.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-ch7.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/epl-x1.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/epl-x2.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/epl-x3.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/epl-x4.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/epl-x5.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-amarin.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-bbcworldnews.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-bein1.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-bein10.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-bein11.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-bein12.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-bein2.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-bein3.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-bein4.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-bein5.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-bein6.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-bein7.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-bein8.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-bein9.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-ch3.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-ch5.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-ch7.stream/chunks.m3u8
  tvg-id="Cinemax HD",cinemax eng/mm |freetvdd
-https://streaming.livescorethai.net/iptv/hd-cinemax.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/hd-cinemax.stream/chunks.m3u8
 ,cnn |freetvdd
-https://streaming.livescorethai.net/iptv/hd-cnn.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-comedycentral.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/hd-cnn.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-comedycentral.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8
 ,DIS Asia MM |freetvdd
-https://streaming.livescorethai.net/iptv/hd-discoveryeng.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-fightsports.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-fox.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/hd-discoveryeng.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-fightsports.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-fox.stream/chunks.m3u8
 ,fox action |freetvdd
-https://streaming.livescorethai.net/iptv/hd-foxaction.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-foxcrimeeng.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/hd-foxaction.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-foxcrimeeng.stream/chunks.m3u8
 ,fox family |freetvdd
-https://streaming.livescorethai.net/iptv/hd-foxfamily.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-foxlife.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/hd-foxfamily.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-foxlife.stream/chunks.m3u8
 ,fox premium |freetvdd
-https://streaming.livescorethai.net/iptv/hd-foxpremium.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-foxsports1.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-fxeng.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-gmmone.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-golf.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-hbo-th.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/hd-foxpremium.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-foxsports1.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-fxeng.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-gmmone.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-golf.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-hbo-th.stream/chunks.m3u8
 ,HBO MM |freetvdd
-https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8
 ,History MM |freetvdd
-https://streaming.livescorethai.net/iptv/hd-historyeng.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-mcot.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-mono.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/hd-historyeng.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-mcot.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-mono.stream/chunks.m3u8
 ,mtv live |freetvdd
-https://streaming.livescorethai.net/iptv/hd-mtvlive.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/hd-mtvlive.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8
 ,natgeo EN |freetvdd
-https://streaming.livescorethai.net/iptv/hd-natgeoeng.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-natgeopeople.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/hd-natgeoeng.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-natgeopeople.stream/chunks.m3u8
 ,natgeo people EN |freetvdd
-https://streaming.livescorethai.net/iptv/hd-natgeopeopleeng.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-natgeowild.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/hd-natgeopeopleeng.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-natgeowild.stream/chunks.m3u8
 ,natgeo wild |freetvdd
-https://streaming.livescorethai.net/iptv/hd-natgeowildeng.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-nba.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-nfl.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-pptv.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/hd-natgeowildeng.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-nba.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-nfl.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-pptv.stream/chunks.m3u8
  tvg-id="SCM HD",SCM MM |freetvdd
-https://streaming.livescorethai.net/iptv/hd-starchinese.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-tennis.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-tfilm2.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-thairath.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-tpbs.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-tsport4.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/hd-starchinese.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-tennis.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-tfilm2.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-thairath.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-tpbs.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-tsport4.stream/chunks.m3u8
 ,tvn |freetvdd
-https://streaming.livescorethai.net/iptv/hd-tvn.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/hd-tvn.stream/chunks.m3u8
 ,warner tv |freetvdd
-https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/hd-xzyte.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/hd-xzyte.stream/chunks.m3u8
  tvg-id="Zee Cinema",ZEE Cinema |freetvdd
-https://streaming.livescorethai.net/iptv/in-zeecinema.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/rs-arena1.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/rs-arena2.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/rs-arena3.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/rs-arena4.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-24u.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/in-zeecinema.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/rs-arena1.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/rs-arena2.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/rs-arena3.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/rs-arena4.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-24u.stream/chunks.m3u8
  tvg-id="Asian Food Network",afn |freetvdd
-https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-bbclifestyle.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/sd-asianfood.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-bbclifestyle.stream/chunks.m3u8
 ,bloomberg |freetvdd
-https://streaming.livescorethai.net/iptv/sd-bloomberg.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-celestial.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/sd-bloomberg.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-celestial.stream/chunks.m3u8
 ,channel news asia |freetvdd
-https://streaming.livescorethai.net/iptv/sd-channelnewsasia.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/sd-channelnewsasia.stream/chunks.m3u8
 ,cnbc |freetvdd
-https://streaming.livescorethai.net/iptv/sd-cnbc.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-discovery.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-explife.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-expsci.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-fox.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-foxsports2.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-foxsports3.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/sd-cnbc.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-discovery.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-explife.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-expsci.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-fox.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-foxsports2.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-foxsports3.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8
 ,mtv asia |freetvdd
-https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-nation.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-nbt.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-nation.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-nbt.stream/chunks.m3u8
 ,nhk premium |freetvdd
-https://streaming.livescorethai.net/iptv/sd-nhkpremium.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/sd-nhkpremium.stream/chunks.m3u8
 ,red by hbo |freetvdd
-https://streaming.livescorethai.net/iptv/sd-redalt.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/sd-redalt.stream/chunks.m3u8
 ,skynet sports 1 |freetvdd
-https://streaming.livescorethai.net/iptv/sd-skynetsports1.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/sd-skynetsports1.stream/chunks.m3u8
 ,skynet sports 2 |freetvdd
-https://streaming.livescorethai.net/iptv/sd-skynetsports2.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/sd-skynetsports2.stream/chunks.m3u8
 ,skynet sports 3 |freetvdd
-https://streaming.livescorethai.net/iptv/sd-skynetsports3.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/sd-skynetsports3.stream/chunks.m3u8
 ,skynet sports 4 |freetvdd
-https://streaming.livescorethai.net/iptv/sd-skynetsports4.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/sd-skynetsports4.stream/chunks.m3u8
 ,skynet sports 5 |freetvdd
-https://streaming.livescorethai.net/iptv/sd-skynetsports5.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/sd-skynetsports5.stream/chunks.m3u8
 ,skynet sports 6 |freetvdd
-https://streaming.livescorethai.net/iptv/sd-skynetsports6.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/sd-skynetsports6.stream/chunks.m3u8
 ,skynet sports hd |freetvdd
-https://streaming.livescorethai.net/iptv/sd-skynetsportshd.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/sd-skynetsportshd.stream/chunks.m3u8
 ,skynet sports + |freetvdd
-https://streaming.livescorethai.net/iptv/sd-skynetsportsplus.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-starchineselegend.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-thrill.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-tnn24.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-tsport2.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-tsport6.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-tsports.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/sd-znung.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/sd-skynetsportsplus.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-starchineselegend.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-thrill.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-tnn24.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-tsport2.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-tsport5.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-tsport6.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-tsports.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/sd-znung.stream/chunks.m3u8
 ,bbc world news |freetvdd
-https://streaming.livescorethai.net/iptv/uk-bbcworldnews.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/uk-bbcworldnews.stream/chunks.m3u8
 ,btsport 1hd |freetvdd
-https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/chunks.m3u8
 ,btsport 2hd |freetvdd
-https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/chunks.m3u8
 ,btsport 3hd |freetvdd
-https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/chunks.m3u8
 ,cnn int |freetvdd
-https://streaming.livescorethai.net/iptv/uk-cnn.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/uk-skysports-action.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/uk-skysports-arena.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/uk-skysports-cricket.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/uk-skysports-f1.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/uk-skysports-golf.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/uk-skysports-mainevent.stream/chunks.m3u8?
-https://streaming.livescorethai.net/iptv/uk-skysports-mix.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/uk-cnn.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8
+
+https://streaming.livescorethai.net/iptv/uk-skysports-action.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-skysports-action.stream/chunks.m3u8
+
+https://streaming.livescorethai.net/iptv/uk-skysports-arena.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/uk-skysports-cricket.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/uk-skysports-f1.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/uk-skysports-golf.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/uk-skysports-mainevent.stream/chunks.m3u8
+https://streaming.livescorethai.net/iptv/uk-skysports-mix.stream/chunks.m3u8
  group-title="TH/freetvdd",uk-skysports-news |freetvdd
-https://streaming.livescorethai.net/iptv/uk-skysports-news.stream/chunks.m3u8?
+https://streaming.livescorethai.net/iptv/uk-skysports-news.stream/chunks.m3u8
 
 + + + + + https://timesnow.airtel.tv + + + + +
 
@@ -10127,9 +10173,9 @@ http://iptvtree.net:8080/live/13354/27c12697/162530.m3u8 < N
 
 http://kmx.kolpax.de:80/get.php?username=tommy&password=YPZqsm6adc&type=m3u < N
 
-+ + + + + local-iptv.myddns.me:8000 + + + + + OFFLINE + + + + +
++ + + + + local-iptv.myddns.me:8000 + + + + + null / 0-913 + + + + +
 
-#EXTINF:-1 group-title="local-iptv",Event DAZN CA 1 HD
+#EXTINF:-1 group-title="local-iptv",Event DAZN CA 1 HD *
 http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1317.m3u8
 #EXTINF:-1,Event DAZN CA 2 HD
 http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1318.m3u8
@@ -10140,9 +10186,9 @@ http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1320.m3
 #EXTINF:-1,Event DAZN CA 5 HD
 http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1321.m3u8
 
-#EXTINF:-1,Optus 1
+#EXTINF:-1,Optus 1 *
 http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1367.m3u8
-#EXTINF:-1,Optus 2
+#EXTINF:-1,Optus 2 *
 http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1368.m3u8
 #EXTINF:-1,Optus 3
 http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1369.m3u8
@@ -10213,18 +10259,8 @@ http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/400.m3u
 http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/401.m3u8
 #EXTINF:-1,EPL 20: 
 http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/402.m3u8
-#EXTINF:-1,EPL 21: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1464.m3u8
-#EXTINF:-1,EPL 22: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1465.m3u8
-#EXTINF:-1,EPL 23: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1466.m3u8
-#EXTINF:-1,EPL 24: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1467.m3u8
-#EXTINF:-1,EPL 25:
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1468.m3u8
 
-#EXTINF:-1,FOOT 01: 
+#EXTINF:-1,FOOT 01: *
 http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1581.m3u8
 #EXTINF:-1,FOOT 02: 
 http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1582.m3u8
@@ -10252,7 +10288,7 @@ http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/497.m3u
 #EXTINF:-1,AU 17: AU: beIN SPORTS 3
 http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/498.m3u8
 
-#EXTINF:-1,NOW Sports 1 HD
+#EXTINF:-1,NOW Sports 1 HD *
 http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2074.m3u8
 #EXTINF:-1,NOW Sports 2 HD
 http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/2075.m3u8
@@ -10996,6 +11032,11 @@ http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
 
 http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/playlist.m3u8
+
++ + + + + https://doofootball.livestream-cdn.com < http://160.119.77.117 + + + + +
+
+https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/epl-2.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-bein1.stream/chunks.m3u8
@@ -11004,8 +11045,12 @@ https://doofootball.livestream-cdn.com/iptv/hd-bein3.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-bein4.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-bein5.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-bein6.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-bein6.stream/chunks.m3u8 
+https://doofootball.livestream-cdn.com/iptv/hd-cnn.stream/chunks.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-discovery.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-foxsports1.stream/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/hd-foxsports3.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-history.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-history2.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-natgeo.stream/chunks.m3u8
@@ -11017,18 +11062,21 @@ https://doofootball.livestream-cdn.com/iptv/hd-tsport3.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-bloomberg.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-celestial.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-explife.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-fox.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-foxsports2.stream/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/sd-sparkjump.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-sparkplay.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-tsport2.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-tsport5.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-tsport6.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-tsport7.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-very.stream/playlist.m3u8
+https://doofootball.livestream-cdn.com/iptv/uk-bbcworldnews.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/uk-btsport1hd.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/uk-btsport2hd.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/uk-btsport3hd.stream/chunks.m3u8
@@ -11046,6 +11094,8 @@ https://doofootball.livestream-cdn.com/iptv/uk-skysports-golf.stream/playlist.m3
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-mainevent.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-mix.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
+
+
 https://dootvgun.com/hbotv/hbohd/playlist.m3u8
 https://laos-tech-live.b-cdn.net/hd-tfilm2_720/index.m3u8
 https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
