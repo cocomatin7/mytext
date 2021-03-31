@@ -10005,36 +10005,55 @@ http://152.228.154.144:80/stream/LRVE26JR5X/84.m3u8
 #EXTINF:-1,MTV
 http://152.228.154.144:80/stream/LRVE26JR5X/89.m3u8
 #EXTINF:-1,MTV 80s
-http://152.228.154.144:80/stream/LRVE26JR5X/87.m3u8
+http://152.228.154.144:80/stream/YT8BFPF5WW/87.m3u8
 #EXTINF:-1,MTV 90s
-http://152.228.154.144:80/stream/LRVE26JR5X/88.m3u8
-#EXTINF:-1,MTV Club
-http://152.228.154.144:80/stream/LRVE26JR5X/147.m3u8
+http://152.228.154.144:80/stream/YT8BFPF5WW/88.m3u8
+#EXTINF:-1 group-title="stream",MTV Club *
+http://152.228.154.144:80/stream/UTUT24TNEX/147.m3u8
 
-#EXTINF:-1,Barely Legal TV (18+)
+,Barely Legal TV (18+)*
 http://152.228.154.144:80/stream/LRVE26JR5X/289.m3u8
-#EXTINF:-1,Brazzers TV Europe (18+)
+,Brazzers TV Europe (18+)*
 http://152.228.154.144:80/stream/LRVE26JR5X/53.m3u8
-#EXTINF:-1,Candy HD (18+)
+,Candy HD (18+)*
 http://152.228.154.144:80/stream/LRVE26JR5X/57.m3u8
-#EXTINF:-1,Erox (18+)
+,Erox (18+)*
 http://152.228.154.144:80/stream/LRVE26JR5X/281.m3u8
-#EXTINF:-1,Hustler HD (18+)
+,Hustler HD (18+)*
 http://152.228.154.144:80/stream/LRVE26JR5X/52.m3u8
-#EXTINF:-1,Nuart (18+)
+,Nuart (18+)*
 http://152.228.154.144:80/stream/LRVE26JR5X/55.m3u8
-#EXTINF:-1,O-la-la (18+)
+,O-la-la (18+)*
 http://152.228.154.144:80/stream/LRVE26JR5X/334.m3u8
-#EXTINF:-1,Playboy (18+)
+,Playboy (18+)*
 http://152.228.154.144:80/stream/LRVE26JR5X/56.m3u8
-#EXTINF:-1,Redlight HD (18+)
+,Redlight HD (18+)*
 http://152.228.154.144:80/stream/LRVE26JR5X/51.m3u8
-#EXTINF:-1,Vivid Red HD (18+)
+,Vivid Red HD (18+)*
 http://152.228.154.144:80/stream/LRVE26JR5X/284.m3u8
-#EXTINF:-1,XXL (18+)
+,XXL (18+)*
 http://152.228.154.144:80/stream/LRVE26JR5X/290.m3u8
-#EXTINF:-1 group-title="stream",Русская Ночь (18+)
+ group-title="stream",Русская Ночь (18+)
 http://152.228.154.144:80/stream/LRVE26JR5X/54.m3u8
+
++ + + + + 185.162.8.175:6878/ace + + + + +
+
+#EXTINF:-1,Candy HD 18+
+http://185.162.8.175:6878/ace/getstream?id=8a0c2a4bfd4692851158902e692c5f9f89bd4acc&.m3u8
+#EXTINF:-1,Playboy TV 18+
+http://185.162.8.175:6878/ace/getstream?id=2a2ecfa17d0f86ebe0b7a97f4c2e4c1e3bf9c87f&.m3u8
+#EXTINF:-1,Redlight HD 18+
+http://185.162.8.175:6878/ace/getstream?id=daa2f26ff9a9b83874b1155ffcdb0e6e97f08341&.m3u8
+#EXTINF:-1,Русская ночь 18+
+http://185.162.8.175:6878/ace/getstream?id=5a9715fe5e6cb34502defb83e1aa3eaa48834bce&.m3u8
+#EXTINF:-1,Brazzers TV 18+
+http://185.162.8.175:6878/ace/getstream?id=d035036a8c34608bafbe25d97eeccfa53ad0035b&.m3u8
+#EXTINF:-1,Dorcel HD 18+
+http://185.162.8.175:6878/ace/getstream?id=07ed9d5adcb40560751d6e7d53b36f157f6e2041&.m3u8
+#EXTINF:-1,Hustler HD Europe 18+
+http://185.162.8.175:6878/ace/getstream?id=512d21052629e67dbfc6b71306393a24792ccd80&.m3u8
+#EXTINF:-1,Nuart 18+
+http://185.162.8.175:6878/ace/getstream?id=c3e3101ff8349b283f87e086c53936ffe6eb0b79&.m3u8
 
 + + + + + 31.220.40.123:80 / us1-external-sources.iptvserver.tv + + + + +
 
