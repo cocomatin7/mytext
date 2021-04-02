@@ -10266,7 +10266,72 @@ http://176.98.26.37:8000/streaming/clients_live.php?extension=m3u8&username=tivi
 
 http://188.40.76.108:25461/get.php?username=mytv01&password=uSIRzmks51&type=m3u [https://rebrand.ly/188-mytv01] < N
 
-+ + + + + 209.222.101.100:25461 + + + + + 10/10/2021 + + + + +
++ + + + + 209.222.101.100:25461 + + + + + 10/10/2021 / 5-5 + + + + +
+
+#EXTINF:-1 group-title="209.222",USA MTV Classic
+http://209.222.101.100:25461/live/tv/tv/13751.m3u8
+#EXTINF:-1,USA MTV Live
+http://209.222.101.100:25461/live/tv/tv/13752.m3u8
+#EXTINF:-1,USA MTV U
+http://209.222.101.100:25461/live/tv/tv/13753.m3u8
+#EXTINF:-1,UK MTV
+http://209.222.101.100:25461/live/tv/tv/13754.m3u8
+#EXTINF:-1,UK MTV Base
+http://209.222.101.100:25461/live/tv/tv/13755.m3u8
+#EXTINF:-1,UK MTV Classic
+http://209.222.101.100:25461/live/tv/tv/13756.m3u8
+#EXTINF:-1,UK MTV Dance
+http://209.222.101.100:25461/live/tv/tv/13757.m3u8
+#EXTINF:-1,UK MTV HD
+http://209.222.101.100:25461/live/tv/tv/13758.m3u8
+#EXTINF:-1,UK MTV Hits
+http://209.222.101.100:25461/live/tv/tv/13759.m3u8
+#EXTINF:-1,UK MTV Music
+http://209.222.101.100:25461/live/tv/tv/13760.m3u8
+#EXTINF:-1,UK MTV OMG
+http://209.222.101.100:25461/live/tv/tv/13761.m3u8
+#EXTINF:-1,UK MTV Rocks
+http://209.222.101.100:25461/live/tv/tv/13762.m3u8
+
+#EXTINF:-1,USA Bein Sports UHD
+http://209.222.101.100:25461/live/tv/tv/22187.m3u8
+#EXTINF:-1,USA BeIN Sports 2
+http://209.222.101.100:25461/live/tv/tv/22189.m3u8
+#EXTINF:-1,USA BeIN Sports 4
+http://209.222.101.100:25461/live/tv/tv/22190.m3u8
+#EXTINF:-1,USA BeIN Sports 5
+http://209.222.101.100:25461/live/tv/tv/22191.m3u8
+#EXTINF:-1,USA BeIN Sports 6
+http://209.222.101.100:25461/live/tv/tv/22192.m3u8
+#EXTINF:-1,USA BeIN Sports 7
+http://209.222.101.100:25461/live/tv/tv/22193.m3u8
+#EXTINF:-1,USA Bein Sports N Espanol UHD
+http://209.222.101.100:25461/live/tv/tv/22195.m3u8
+#EXTINF:-1,USA BeIN Sports LaLiga
+http://209.222.101.100:25461/live/tv/tv/22196.m3u8
+#EXTINF:-1,USA Latin BEIN Sports Latin
+http://209.222.101.100:25461/live/tv/tv/22197.m3u8
+
+#EXTINF:-1,PL | Polsat Sport Extra FHD
+http://209.222.101.100:25461/live/tv/tv/74220.m3u8
+#EXTINF:-1,PL | Polsat Sport FHD
+http://209.222.101.100:25461/live/tv/tv/74221.m3u8
+#EXTINF:-1,PL | Polsat Sport Fight FHD
+http://209.222.101.100:25461/live/tv/tv/74222.m3u8
+#EXTINF:-1,PL | Polsat Sport Premium 1 FHD
+http://209.222.101.100:25461/live/tv/tv/74223.m3u8
+#EXTINF:-1,PL | Polsat Sport Premium 1 HD
+http://209.222.101.100:25461/live/tv/tv/74224.m3u8
+#EXTINF:-1,PL | Polsat Sport Premium 2 HD
+http://209.222.101.100:25461/live/tv/tv/74225.m3u8
+#EXTINF:-1,PL | Polsat Sport Premium 3 HD
+http://209.222.101.100:25461/live/tv/tv/74226.m3u8
+#EXTINF:-1,PL | Polsat Sport Premium 4 HD
+http://209.222.101.100:25461/live/tv/tv/74227.m3u8
+#EXTINF:-1,PL | Polsat Sport Premium 5 HD
+http://209.222.101.100:25461/live/tv/tv/74228.m3u8
+#EXTINF:-1,PL | Polsat Sport Premium 6 HD
+http://209.222.101.100:25461/live/tv/tv/74229.m3u8
 
 #EXTINF:-1 group-title="209.222",Soccer01 
 http://209.222.101.100:25461/live/tv/tv/77363.m3u8
@@ -10350,15 +10415,15 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
 
 + + + + + http://iptv.kitv.live:1935/live/Shari/MTV-P / Disabled + + + + +
 
-http://iptv.kitv.live:1935/live/Shari/MTV-P/81.ts
+http://iptv.kitv.live:1935/get.php?username=Shari&password=MTV-P&type=m3u < null < 1-0 < not play
 
 + + + + + iptv8.premium-stv.com:2052 + + + + +
 
-http://iptv8.premium-stv.com:2052/get.php?username=SPORTPORTpro1&password=vgadJThhsjdfw33&type=m3u
+http://iptv8.premium-stv.com:2052/get.php?username=SPORTPORTpro1&password=vgadJThhsjdfw33&type=m3u < N
 
 + + + + + iptvlogin + + + + +
 
-http://links.iptvlogin.com:80/get.php?username=tomaslineexchange&password=H69dbcR5673Sxz8d53&type=m3u
+http://links.iptvlogin.com:80/get.php?username=tomaslineexchange&password=H69dbcR5673Sxz8d53&type=m3u < N
 
 + + + + + iptvtree.net:8080 [SEA] + + + + +
 
@@ -10609,28 +10674,8 @@ http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1023.m3
 http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1024.m3u8
 #EXTINF:-1,EVENTS 09: 
 http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1025.m3u8
-#EXTINF:-1,EVENTS 10: 
+#EXTINF:-1 group-title="local-iptv",EVENTS 10: 
 http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1026.m3u8
-#EXTINF:-1,EVENTS 11: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1027.m3u8
-#EXTINF:-1,EVENTS 12: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1028.m3u8
-#EXTINF:-1,EVENTS 13: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1029.m3u8
-#EXTINF:-1,EVENTS 14: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1030.m3u8
-#EXTINF:-1,EVENTS 15: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1031.m3u8
-#EXTINF:-1,EVENTS 16: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1032.m3u8
-#EXTINF:-1,EVENTS 17: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1033.m3u8
-#EXTINF:-1,EVENTS 18: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1034.m3u8
-#EXTINF:-1,EVENTS 19: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1035.m3u8
-#EXTINF:-1 group-title="local-iptv",EVENTS 20: 
-http://local-iptv.myddns.me:8000/live/239021AM4884820/47212021AMM4784345/1036.m3u8
 
 + + + + + https://m3u-editor.com [SEA] + + + + +
 
@@ -10638,7 +10683,7 @@ https://m3u-editor.com/serve/akun-free367/93567218
 
 + + + + + magco.rip:8000 [SEA] + + + + +
 
-http://magco.rip:8000/get.php?username=41246671289321&password=41604451921808&type=m3u_plus | 8/5/2021 
+http://magco.rip:8000/get.php?username=41246671289321&password=41604451921808&type=m3u < 8/5/2021 < 1-33 
 
 + + + + + main.ipboxhd.com:8080 + + + + +
 
