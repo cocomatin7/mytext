@@ -128,15 +128,6 @@ http://185.238.0.145:1313/c/livedo/truepremierfootball2-hd.m3u8
 #EXTINF:-1,True Premiere Football HD3 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball3-hd.m3u8
 
-,SUPERSPORT 1 |50
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-,SUPERSPORT 2 |50
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-,SUPERSPORT 3 |50
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-,SUPERSPORT 4 |50
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-
 #EXTINF:-1,ASSP 1 |198
 http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1,ASSP 2 |198
@@ -145,6 +136,15 @@ http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1,ASSP 4 |198
 http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
+
+,SUPERSPORT 1 |50
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+,SUPERSPORT 2 |50
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+,SUPERSPORT 3 |50
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+,SUPERSPORT 4 |50
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
 #EXTINF:-1,True Premiere Football HD1 |50
 http://50.7.222.130:8278/streams/d/truepre1_pat/playlist.m3u8
@@ -155,7 +155,6 @@ http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
 #EXTINF:-1,True Premiere Football HD4 |50
 http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
 
-
 #EXTINF:-1,True Premiere Football HD1 |77
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD2 |77
@@ -164,6 +163,7 @@ http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 
 -/-/-/-/-/- offline -/-/-/-/-/
+
 http://198.16.106.58:8278/supersports/playlist.m3u8
 http://198.16.106.58:8278/supersports2/playlist.m3u8
 http://198.16.106.58:8278/supersports3/playlist.m3u8
@@ -232,13 +232,6 @@ http://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD3 |livedoo*
 http://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:-1,True Premiere Football HD1 |livedoo
-http://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD2 |livedoo
-http://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |livedoo
-http://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-
 #EXTINF:-1,NETSPORT HD
 https://sport.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:-1,NETSPORT HD*
@@ -257,19 +250,12 @@ https://sport.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1,NETSPORT 6
 https://sport.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 
-
-#EXTINF:-1,Astro Super Sport 1 HD |27-02
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/364352.m3u8
-#EXTINF:-1,Astro Super Sport 2HD |27-02
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/364351.m3u8
-#EXTINF:-1,Astro Super Sport 3HD |27-02
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/364350.m3u8
-#EXTINF:-1,Astro Super Sport 4HD |27-02
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/364349.m3u8
-#EXTINF:-1,IN: Star Sports Select 1 (TEST) |27-02
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386619.m3u8
-#EXTINF:-1,IN: Star Sports Select 2 (TEST) |27-02
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386620.m3u8
+#EXTINF:-1,True Premiere Football HD1 |livedoo
+http://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere Football HD2 |livedoo
+http://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere Football HD3 |livedoo
+http://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 
 + + + + + http://www.totalsportek.tv/watch/sport-tv-5/ + + + + +
 
@@ -4692,10 +4678,7 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/113
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/114
 #EXTINF:-1,Optus 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/115
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/385813.m3u8
 
-http://pie.buzz:83/get.php?username=Peter.nyr1909&password=6547736256&type=m3u
-Real Url: securepoint.io:83     Status: Active    Created: 29/3/2018 12:09:38 PM     Expires: 29/3/2021 4:00:00 AM    Active Connections: 77     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
 
 http://catenamode.cf:8090/get.php?username=muttsnuts&password=PzreCs7oYP&type=m3u
 Real Url: muttsnutts.from-mi.com:8090     Status: Active    Created: 16/6/2020 10:23:28 AM     Expires: Null    Active Connections: 148     Maximum Connections: 270     Formats: "m3u8","ts","rtmp"
@@ -4704,7 +4687,7 @@ Real Url: muttsnutts.from-mi.com:8090     Status: Active    Created: 16/6/2020 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/117
 #EXTINF:-1,Optus 3
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/118
-http://pie.buzz:83/live/33313113/74518762/385815.m3u8
+
 #EXTINF:-1,Optus 4
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/119
 #EXTINF:-1,Optus 5
@@ -11084,6 +11067,85 @@ https://nonton.site:8443/live/global12/mgt/37412.m3u8
 #EXTINF:-1 group-title="nonton",MY - WARNER TV
 https://nonton.site:8443/live/global12/mgt/37414.m3u8
 
++ + + + + pie.buzz:83 + + + + +
+
+http://pie.buzz:83/get.php?username=Peter.nyr1909&password=6547736256&type=m3u
+Real Url: securepoint.io:83     Status: Active    Created: 29/3/2018 12:09:38 PM     Expires: 28/4/2021 4:00:00 AM    Active Connections: 78     Maximum Connections: 100
+
+#EXTINF:-1 group-title="pie",UK SD : MTV Base  
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/20973.m3u8
+#EXTINF:-1,UK SD : MTV Classic
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/20975.m3u8
+#EXTINF:-1,UK SD : MTV Hits
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/20977.m3u8
+#EXTINF:-1,UK HD : MTV
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/221667.m3u8
+#EXTINF:-1,UK SD : MTV Club
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/381387.m3u8
+#EXTINF:-1,UK HD : MTV Live
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/381386.m3u8
+#EXTINF:-1,UK SD : MTV Music
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/381385.m3u8
+#EXTINF:-1,UK SD : MTV OMG
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/381389.m3u8
+#EXTINF:-1,UK HD :  MTV Rocks
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/309837.m3u8
+#EXTINF:-1,UK SD : Now 90s
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/381392.m3u8
+
+#EXTINF:-1,NBC Sports Network HD
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/353545.m3u8
+
+#EXTINF:-1,FOOT 01: 
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/386037.m3u8
+#EXTINF:-1,FOOT 02:
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/386038.m3u8
+#EXTINF:-1,FOOT 03: 
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/386039.m3u8
+#EXTINF:-1,FOOT 04: 
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/386040.m3u8
+#EXTINF:-1,FOOT 05: 
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/386041.m3u8
+#EXTINF:-1,FOOT 06: 
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/386042.m3u8
+#EXTINF:-1,FOOT 07:
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/386043.m3u8
+#EXTINF:-1,FOOT 08:
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/386044.m3u8
+#EXTINF:-1,FOOT 09: 
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/386045.m3u8
+#EXTINF:-1,FOOT 10: 
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/386046.m3u8
+
+#EXTINF:-1,BeinSports HD1 720p
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/385863.m3u8
+#EXTINF:-1,BeinSports HD2 720p
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/385864.m3u8
+#EXTINF:-1,BeinSports HD3 720p
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/385865.m3u8
+#EXTINF:-1,BeinSports HD4 720p
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/385866.m3u8
+#EXTINF:-1,BeinSports HD5 720p
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/385867.m3u8
+#EXTINF:-1,BeinSports HD6 720p
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/385868.m3u8
+#EXTINF:-1,BeinSports HD07 720p
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/385869.m3u8
+
+#EXTINF:-1,Astro Super Sport 1 HD
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/364352.m3u8
+#EXTINF:-1,Astro Super Sport 2HD
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/364351.m3u8
+#EXTINF:-1,Astro Super Sport 3HD
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/364350.m3u8
+#EXTINF:-1,Astro Super Sport 4HD
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/364349.m3u8
+
+#EXTINF:-1,IN: Star Sports Select 1 (TEST)
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/386619.m3u8
+#EXTINF:-1 group-title="pie",IN: Star Sports Select 2 (TEST)
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/386620.m3u8
+
 + + + + + pro-panel01.club:8080 / premium-streamplay.club [SEA] + + + + +
 
 http://premium-streamplay.club:8080/live/mama/123456/8130.m3u8
@@ -11544,8 +11606,6 @@ https://cdn1.cloud-streaming.live/live/sporttv3/chunks.m3u8?nimblesessionid=1130
 
 , CN
 http://internetowa.tv/?c=hlsPlay&channel=cartoonnetwork&token=2bdae9ac2bd68cf8200f99d6672d0b5cca6d583abbb1da9646e66138cc2fad99dd1c081abfbab2fb3004cc8634231d9a5ade8d47cbe80f3f9269f0420ac8c4bc
-
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/385813.m3u8 < N
 
 http://156.146.43.241:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=123zzzaaaxxaazzzxxx987
 http://156.146.43.241:2200/EX/BT_Sport_2_HD-uk/index.m3u8?token=123zzzaaaxxaazzzxxx987
