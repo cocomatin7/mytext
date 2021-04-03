@@ -6380,8 +6380,6 @@ http://119.59.125.74/stream/totnew.php?channel_id=205930751d5743e2be719ed1dff897
 
 + + + + + 160.119.77.50 >> 160.119.77.116:8081 + + + + + 
 
-
-
 #EXTINF:-1 group-title="160.119", True Premiere Football HD1 |160
 #EXTINF:-1, True Premiere Football HD2 |160
 #EXTINF:-1, True Premiere Football HD3 |160
@@ -6672,6 +6670,13 @@ http://160.119.77.116:8081/iptv/uk-usa.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3", True Premiere Football HD3 |185
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 4", True Premiere Football HD4 |185
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 5" group-title="185.238", True Premiere Football HD5 |185
+
++ + + + + 202.57.43.60:8443 + + + + +
+
+Animax
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
+NAT GEO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/128.m3u8
 
 + + + + + 203.150.107.30:8081 + + + + +
 
