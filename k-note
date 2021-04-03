@@ -415,6 +415,19 @@ http://cdn7.hhdstreams.club/live/abr_ch3/live/ch3_720p/chunks.m3u8
 http://cdn7.hhdstreams.club/live/abr_ch4/live/ch4_720p/chunks.m3u8
 http://cdn7.hhdstreams.club/live/abr_ch5/live/ch5_720p/chunks.m3u8
 
+view-source:http://www.ovostreams.com/1.php
+view-source:http://www.ovostreams.com/2.php
+view-source:http://www.ovostreams.com/3.php
+http://d1qag1ur6to329.cloudfront.net/hls/live1.m3u8
+view-source:http://www.ovostreams.com/4.php
+http://77.247.109.116/hls/liveovo4.m3u8
+view-source:http://www.ovostreams.com/5.php
+http://77.247.109.116/hls/ovostreams5.m3u8
+
+
+http://streamwat.ch/custom/player/#http://77.247.109.116/hls/liveovo1.m3u8
+
+
 #EXTINF:-1,OVO L1
 http://d1ewc4fx6laipk.cloudfront.net/hls/liveovo1.m3u8
 #EXTINF:-1,OVO L1 *
@@ -424,7 +437,6 @@ http://77.247.109.116/hls/live1.m3u8
 http://192.166.246.122/hls/live1.m3u8
 
 #EXTINF:-1,OVO S
-
 http://123ovo123.xyz/live/streams.m3u8
 http://77.247.109.116/hls/ovostreams.m3u8
 
@@ -443,6 +455,7 @@ http://d1qag1ur6to329.cloudfront.net/hls/live1.m3u8
 http://77.247.109.116/hls/liveovo4.m3u8
 
 #EXTINF:-1, NBCSN Live
+http://208.88.246.11:2095/9466NBCSP/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 https://dailylast1.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 https://dailybar2.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 https://dailysportbucket71.s3.eu-west-2.amazonaws.com/e1/1.m3u8
@@ -457,7 +470,12 @@ https://meridix-live3.secure.footprint.net/live/anasiwadiee/chunklist.m3u8
 #EXTINF:-1, MStream
 http://stream.mazystreams.xyz/live/streamsd/chunks.m3u8
 
+http://nflscoop.net/gday4.html
+#EXTINF:-1, gday4
+https://you1sports.com/hls/ep4.m3u8
+
 #EXTINF:-1, live 1
+https://cdn3.wowza.com/1/ZW1uR2x4aGZvZjl5/aFpoVC9J/hls/jpp032gl/2728/chunklist.m3u8
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/551ef6c11aba44f0b19c76dc6d2a3da8/reproduce.m3u8
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/551ef6c11aba44f0b19c76dc6d2a3da8/reproduce_1.m3u8
 
