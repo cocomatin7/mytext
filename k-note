@@ -426,7 +426,7 @@ http://77.247.109.116/hls/ovostreams5.m3u8
 
 
 http://streamwat.ch/custom/player/#http://77.247.109.116/hls/liveovo1.m3u8
-
+http://streamwat.ch/custom/player/#https://you1sports.com/hls/ep1.m3u8
 
 #EXTINF:-1,OVO L1
 http://d1ewc4fx6laipk.cloudfront.net/hls/liveovo1.m3u8
@@ -454,6 +454,10 @@ http://192.166.246.122/hls/ovo2.m3u8
 http://d1qag1ur6to329.cloudfront.net/hls/live1.m3u8
 http://77.247.109.116/hls/liveovo4.m3u8
 
+#EXTINF:-1,NBCSN LIVE *
+http://cdn.streamspass.club/live/streamsd/playlist.m3u8
+https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/za5cq0ormjrr93u.m3u8?s=OMrxGFA-fGzYWJDWukVijA&e=1612724087
+
 #EXTINF:-1, NBCSN Live
 http://208.88.246.11:2095/9466NBCSP/transco15/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 https://dailylast1.s3.eu-west-2.amazonaws.com/e1/1.m3u8
@@ -470,9 +474,18 @@ https://meridix-live3.secure.footprint.net/live/anasiwadiee/chunklist.m3u8
 #EXTINF:-1, MStream
 http://stream.mazystreams.xyz/live/streamsd/chunks.m3u8
 
+Live Gday1 http://nflscoop.net/gday1.html
+http://nflscoop.net/gday2.html
+http://nflscoop.net/gday3.html
 http://nflscoop.net/gday4.html
+http://nflscoop.net/gday5.html
+http://nflscoop.net/gday6.html
+
 #EXTINF:-1, gday4
 https://you1sports.com/hls/ep4.m3u8
+http://d2kadvyeq051an.cloudfront.net/?vdakd=923045
+
+http://ebqt.blogspot.com/p/a3.html
 
 #EXTINF:-1, live 1
 https://cdn3.wowza.com/1/ZW1uR2x4aGZvZjl5/aFpoVC9J/hls/jpp032gl/2728/chunklist.m3u8
@@ -494,9 +507,7 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bbec2fcf9b5
 https://d2qw5e19354vil.cloudfront.net/out/v1/31cf06a5948c488e85ddef08474e807d/index.m3u8
 
 
-#EXTINF:-1,NBCSN LIVE *
-http://cdn.streamspass.club/live/streamsd/playlist.m3u8
-https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/za5cq0ormjrr93u.m3u8?s=OMrxGFA-fGzYWJDWukVijA&e=1612724087
+
 
  SPass1
 https://cdn28.sportspass.io/ff680340.m3u8
