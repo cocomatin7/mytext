@@ -265,7 +265,7 @@ https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 http://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD2 |livedoo
 http://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |livedoo
+#EXTINF:-1 group-title="BamarTV/Sport",True Premiere Football HD3 |livedoo
 http://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 
 + + + + + http://www.totalsportek.tv/watch/sport-tv-5/ + + + + +
@@ -294,6 +294,12 @@ https://v6.sportzonline.to/channels/hd/hd6.php
 https://v6.sportzonline.to/channels/hd/hd7.php
 https://v6.sportzonline.to/channels/hd/hd8.php
 https://sportzonline.to/channels/hd/hd8.php
+
+#EXTINF:-1 group-title="BamarTV/Sport", sportz HD1
+https://rwyzjmd8vxbgug4d.ezcdn383.net:8443/hls/c2kxuno.m3u8?s=kAzkUwFT5GqlqXewDKz5mg&e=1617475871
+#EXTINF:-1 group-title="BamarTV/Sport", sportz HD2
+https://rwyzjmd8vxbgug4d.ezcdn383.net:8443/hls/oaa446jqf0418.m3u8?s=C0E9JJRJIYv_eIThDMXWTA&e=1617476162
+
 
 ,rmc 1
 http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/2545/index.m3u8
@@ -505,8 +511,6 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bbec2fcf9b5
 
 #EXTINF:-1,EPL 1
 https://d2qw5e19354vil.cloudfront.net/out/v1/31cf06a5948c488e85ddef08474e807d/index.m3u8
-
-
 
 
  SPass1
