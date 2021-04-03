@@ -10135,6 +10135,9 @@ http://103.136.43.127:8080/get.php?username=12997&password=b5093454&type=m3u < N
 
 + + + + + 185.8.176.227:25461 [IN] + + + + +
 
+http://185.226.88.3:1036/get.php?username=backup&password=backup&type=m3u < 10.14.16.36:1036 < null < 1-0 
+http://37.26.83.98:1036/get.php?username=speednet&password=netspeed&type=m3u < 10.14.16.36:1036 < null < 1000-10
+
 + + + + + 23.237.88.117:25461 + + + + +
 
 http://23.237.88.117:25461/get.php?username=cancun&password=cancun1&type=m3u < 25/03/21
@@ -10359,6 +10362,11 @@ http://51.15.1.11:25461/live/MEGA-TV/TELEGRAM/18.m3u8
 http://51.195.216.247:55055/live/vmp343streams/850256/101474
 #EXTINF:-1 group-title="51.195",DAZN 
 http://51.195.216.247:55055/live/vmp343streams/850256/101475
+
++ + + + + 103.135.208.14:80 [IN] + + + + +
+
+http://79.106.72.90:25461/get.php?username=giga&password=net&type=m3u
+Real Url: 79.106.72.90:25461     Status: Active    Created: 10/3/2021 10:14:19 AM     Expires: Null    Active Connections: 96     Maximum Connections: 1000
 
 + + + + + 103.135.208.14:80 [IN] + + + + +
 
