@@ -85,7 +85,7 @@ rtmp://203.81.81.229:80/livepkgr/NRC
 #EXTINF:-1 group-title="203.81", MRTV farmer |rtmp
 rtmp://203.81.81.229:80/livepkgr/farmer
 
-+ + + + + 203.81.84.130 + + + + + 
++ + + + + 203.81.84.130/mwd + + + + + 
 
 http://203.81.84.130/hls/mwd/index.m3u8
 http://203.81.84.130/hls/mwd_document/index.m3u8
@@ -96,6 +96,48 @@ http://203.81.84.130/hls/mwd_shopping/index.m3u8
 http://203.81.84.130/hls/mwd_variety/index.m3u8
 
 + + + + + BamarTV/Sport + + + + +
+
+,SUPERSPORT 1 |50
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+,SUPERSPORT 2 |50
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+,SUPERSPORT 3 |50
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+,SUPERSPORT 4 |50
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+
+#EXTINF:-1 group-title="BamarTV/Sport",True Premiere Football HD1 |50
+http://50.7.222.130:8278/streams/d/truepre1_pat/playlist.m3u8
+#EXTINF:-1,True Premiere Football HD2 |50
+http://50.7.222.130:8278/streams/d/truepre2_pat/playlist.m3u8
+#EXTINF:-1,True Premiere Football HD3 |50
+http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
+#EXTINF:-1,True Premiere Football HD4 |50
+http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
+
+#EXTINF:-1,BeinPremiumHD2
+http://62.210.246.140:8081/yacinetv/BeinPremiumHD1/playlist.m3u8
+http://62.210.246.140:8081/yacinetv/BeinPremiumHD1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjEgNToyNDo1MiBBTSZoYXNoX3ZhbHVlPTQ3UE1oWFhsMk9mS3hzS05YNlVqZmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1,BeinPremiumHD2
+http://62.210.246.140:8081/yacinetv/BeinPremiumHD2/playlist.m3u8
+
+#EXTINF:-1,True Premiere Football HD1 |77
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere Football HD2 |77
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere Football HD3 |77
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1,SPORTTV1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="BamarTV/Sport",True Premiere Football HD1 |160.119
 http://160.119.77.117/iptv/epl-1.stream/chunks.m3u8
@@ -135,39 +177,10 @@ http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1,ASSP 4 |198
 http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
 
-,SUPERSPORT 1 |50
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-,SUPERSPORT 2 |50
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-,SUPERSPORT 3 |50
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-,SUPERSPORT 4 |50
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-
-#EXTINF:-1,True Premiere Football HD1 |50
-http://50.7.222.130:8278/streams/d/truepre1_pat/playlist.m3u8
-#EXTINF:-1,True Premiere Football HD2 |50
-http://50.7.222.130:8278/streams/d/truepre2_pat/playlist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |50
-http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
-#EXTINF:-1,True Premiere Football HD4 |50
-http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
-
-#EXTINF:-1,True Premiere Football HD1 |77
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD2 |77
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |77
-http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
-
--/-/-/-/-/- offline -/-/-/-/-/
-
 http://198.16.106.58:8278/supersports/playlist.m3u8
 http://198.16.106.58:8278/supersports2/playlist.m3u8
 http://198.16.106.58:8278/supersports3/playlist.m3u8
 http://198.16.106.58:8278/supersports4/playlist.m3u8
-
--/-/-/-/-/-
 
 #EXTINF:-1,True Premiere Football HD1 |mb13
 https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
@@ -232,9 +245,6 @@ http://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1,NETSPORT HD
 https://sport.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1,NETSPORT HD*
-https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
-
 #EXTINF:-1,NETSPORT 1
 https://sport.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:-1,NETSPORT 2
@@ -247,6 +257,9 @@ https://sport.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
 https://sport.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1,NETSPORT 6
 https://sport.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+
+#EXTINF:-1,NETSPORT HD*
+https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 
 #EXTINF:-1,True Premiere Football HD1 |livedoo
 http://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
@@ -352,47 +365,36 @@ http://developer.ottclub.xyz/iptv/FQ9M6P6NLZ42QH/6133/index.m3u8
 
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6132/index.m3u8 < EXP
 
-#EXTINF:-1,BeinPremiumHD2
-http://62.210.246.140:8081/yacinetv/BeinPremiumHD1/playlist.m3u8
-http://62.210.246.140:8081/yacinetv/BeinPremiumHD1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjEgNToyNDo1MiBBTSZoYXNoX3ZhbHVlPTQ3UE1oWFhsMk9mS3hzS05YNlVqZmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:-1,BeinPremiumHD2
-http://62.210.246.140:8081/yacinetv/BeinPremiumHD2/playlist.m3u8
 
 #EXTINF:-1,beIN SP 1PR
 https://streamcdn.getloconow.com/DUIAV7E2ZF_c113a376-2e87-414d-89de-da8622074455/DUIAV7E2ZF_c113a376-2e87-414d-89de-da8622074455_hi/manifest.m3u8
 
-#EXTINF:-1,KSport1
+,Free sports
+http://89.187.189.58/1195/mono.m3u8
+,Premier sports 2
+http://89.187.189.58/1194/mono.m3u8
+,Laliga TV HD
+http://89.187.189.58/1187/mono.m3u8
+
+,KSport1
 http://93.157.62.180/KSport1/index.m3u8
-#EXTINF:-1,KSport2
+,KSport2
 http://93.157.62.180/KSport2/index.m3u8
-#EXTINF:-1,KSport3
+,KSport3
 http://93.157.62.180/KSport3/index.m3u8
-#EXTINF:-1,KSport4
+,KSport4
 http://93.157.62.180/KSport4/index.m3u8
 
-#EXTINF:-1,Supersport1
+,Supersport1
 http://93.157.62.180/Supersport1/index.m3u8
-#EXTINF:-1,Supersport2 EPL
+,Supersport2 EPL
 http://93.157.62.180/Supersport2/index.m3u8
-#EXTINF:-1,Supersport3
+,Supersport3
 http://93.157.62.180/Supersport3/index.m3u8
-#EXTINF:-1,Supersport4
+,Supersport4
 http://93.157.62.180/Supersport4/index.m3u8
-#EXTINF:-1,Supersport5
+,Supersport5
 http://93.157.62.180/Supersport5/index.m3u8
-
--/-/-/-/-
-
-
-
-/-/-/-/-
-
-#EXTINF:-1,Free sports
-http://89.187.189.58/1195/mono.m3u8
-#EXTINF:-1,Premier sports 2
-http://89.187.189.58/1194/mono.m3u8
-#EXTINF:-1,Laliga TV HD
-http://89.187.189.58/1187/mono.m3u8
 
 ,GVIP CH1
 http://phoenixzoon.goodviping.xyz/live/CH1/index.m3u8
@@ -442,17 +444,6 @@ https://dailylast1.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 https://dailybar2.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 https://dailysportbucket71.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 https://dailysportbucket41.s3.eu-west-2.amazonaws.com/e1/1.m3u8
-
-#EXTINF:-1,SPORTTV1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV3
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV4
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV5
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1, SSPL
 http://d3j49m1b2c30jh.cloudfront.net/edge/SSPL/chunks.m3u8
