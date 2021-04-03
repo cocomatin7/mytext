@@ -10380,6 +10380,10 @@ http://104.218.61.161:83/get.php?username=directline76598&password=35222AM020342
 
 http://176.98.26.37:8000/streaming/clients_live.php?extension=m3u8&username=tivi&password=best&stream=28&type=hls
 
++ + + + + 185.226.88.6:1026 + + + + +
+
+http://185.226.88.6:1026/get.php?username=SMYYKzbS0z&password=HRj5TKnrRx&type=m3u < null < 1000-276
+
 + + + + + 188.40.76.108:25461 /mytv01 + + + + +
 
 http://188.40.76.108:25461/get.php?username=mytv01&password=uSIRzmks51&type=m3u [https://rebrand.ly/188-mytv01] < N
@@ -11262,6 +11266,11 @@ http://pie.buzz:83/live/Peter.nyr1909/6547736256/364349.m3u8
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/386619.m3u8
 #EXTINF:-1 group-title="pie",IN: Star Sports Select 2 (TEST)
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/386620.m3u8
+
++ + + + + portal.simiptv.co.uk:8080 + + + + +
+
+http://portal.simiptv.co.uk:8080/get.php?username=alipajiuk&password=oRGQpcPAkZ&type=m3u
+Real Url: portal.simiptv.co.uk:8080     Status: Active    Created: 9/4/2020 8:08:39 PM     Expires: Null    Active Connections: 99     Maximum Connections: 100 
 
 + + + + + pro-panel01.club:8080 / premium-streamplay.club [SEA] + + + + +
 
