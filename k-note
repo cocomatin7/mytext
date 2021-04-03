@@ -10169,7 +10169,7 @@ http://34.70.48.178:25461/live/oSC7QXUAgM/XI6uWOiWRG/4.m3u8
 
 + + + + + 51.15.1.11:25461 + + + + +
 
-#EXTINF:-1,BEIN SPORTS 1 HD PREMIUM
+#EXTINF:-1 group-title="51.15",BEIN SPORTS 1 HD PREMIUM
 http://51.15.1.11:25461/live/MEGA-TV/TELEGRAM/1.m3u8
 #EXTINF:-1,BEIN SPORTS 2 HD PREMIUM
 http://51.15.1.11:25461/live/MEGA-TV/TELEGRAM/2.m3u8
@@ -10203,8 +10203,15 @@ http://51.15.1.11:25461/live/MEGA-TV/TELEGRAM/15.m3u8
 http://51.15.1.11:25461/live/MEGA-TV/TELEGRAM/16.m3u8
 #EXTINF:-1,BEIN SPORTS 4 SD
 http://51.15.1.11:25461/live/MEGA-TV/TELEGRAM/17.m3u8
-#EXTINF:-1,BEIN SPORTS 5 SD
+#EXTINF:-1 group-title="51.15",BEIN SPORTS 5 SD
 http://51.15.1.11:25461/live/MEGA-TV/TELEGRAM/18.m3u8
+
++ + + + + 51.195.216.247:55055 + + + + +
+
+#EXTINF:-1 group-title="51.195",DAZN 1
+http://51.195.216.247:55055/live/vmp343streams/850256/101474
+#EXTINF:-1 group-title="51.195",DAZN 
+http://51.195.216.247:55055/live/vmp343streams/850256/101475
 
 + + + + + iptvportuguese.live:8010 / bigserver.theworkpc.com:8010 + + + + + 300-238 + + + + +
 
