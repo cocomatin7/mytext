@@ -9741,6 +9741,10 @@ http://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 http://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 http://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
+https://mediasv.online/tvchannel_x1/hits/playlist.m3u8
+https://mediasv.online/tvchannel_x1/moviehits/playlist.m3u8
+
+
 + + + + + https://y5w8j4a9.ssl.hwcdn.net + + + + +
 
 #EXTINF:-1 group-title="IN/y5",& Flix
@@ -10156,6 +10160,7 @@ http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526.m3u8
 http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122.m3u8
 
 + + + + + 34.70.48.178:25461 + + + + +
+
 https://delivery.ghanacloud.ga/get.php?username=oSC7QXUAgM&password=XI6uWOiWRG&type=m3u
 
 #EXTINF:-1 group-title="34.70",Astro Supersport |30
@@ -10213,50 +10218,6 @@ http://51.195.216.247:55055/live/vmp343streams/850256/101474
 #EXTINF:-1 group-title="51.195",DAZN 
 http://51.195.216.247:55055/live/vmp343streams/850256/101475
 
-+ + + + + iptvportuguese.live:8010 / bigserver.theworkpc.com:8010 + + + + + 300-238 + + + + +
-
-#EXTINF:-1 group-title="bigserver",PT: Eleven Sports 1 FHD
-http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/6895.m3u8
-#EXTINF:-1,PT: Eleven Sports 1 HD
-http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5604.m3u8
-#EXTINF:-1,PT: Eleven Sports 1 SD
-http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/6897.m3u8
-#EXTINF:-1,PT: Eleven Sports 2 FHD
-http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/6892.m3u8
-#EXTINF:-1,PT: Eleven Sports 2 HD
-http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5603.m3u8
-#EXTINF:-1,PT: Eleven Sports 2 SD
-http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/6894.m3u8
-#EXTINF:-1,PT: Eleven Sports 3 HD
-http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5602.m3u8
-#EXTINF:-1,PT: Eleven Sports 3 SD
-http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7741.m3u8
-#EXTINF:-1,PT: Eleven Sports 4 HD
-http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5601.m3u8
-#EXTINF:-1,PT: Eleven Sports 4 SD
-http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7740.m3u8
-#EXTINF:-1,PT: Eleven Sports 5 HD
-http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5600.m3u8
-#EXTINF:-1,PT: Eleven Sports 5 SD
-http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7739.m3u8
-#EXTINF:-1,PT: Eleven Sports 6 HD
-http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5599.m3u8
-#EXTINF:-1,PT: Eleven Sports 6 SD
-http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7738.m3u8
-
-#EXTINF:-1 group-title="bigserver",USA: NBC SPORTS NETWORK
-http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16692.m3u8
-
-+ + + + + bigboss2017.club:8080 / 198.16.72.106:8080 / bornw1ld.cyou:8080 + + + + + DOWN + + + + +
-
-http://bornw1ld.cyou:8080/get.php?username=OVOmainoneWgTkI&password=468TGE75ffji6453&type=m3u
-
-+ + + + +  + + + + +
-
-+ + + + + client.vpnuser.ws:8080 [TH] + + + + +
-+ + + + + clientbox.tv:80 [SEA] + + + + +
-+ + + + + client-premiumzone.in:8080 / premium-streamplay.club:8080 + + + + +
-+ + + + + clientportal.link:80 / tv.iptvstack.net:80 / 85.203.33.42:80 / 85.203.33.7:80 + + + + +
 + + + + + 103.135.208.14:80 [IN] + + + + +
 
 http://103.135.208.14/get.php?username=ibox&password=bd&type=m3u < N
@@ -10403,6 +10364,59 @@ http://appstv.us:25461/live/1/2/284.m3u8
 http://appstv.us:25461/live/1/2/285.m3u8
 #EXTINF:-1 group-title="appstv",TUDN EXTRA 5
 http://appstv.us:25461/live/1/2/286.m3u8
+
++ + + + + iptvportuguese.live:8010 / bigserver.theworkpc.com:8010 + + + + + 300-238 + + + + +
+
+#EXTINF:-1 group-title="bigserver",PT: Eleven Sports 1 FHD
+http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/6895.m3u8
+#EXTINF:-1,PT: Eleven Sports 1 HD
+http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5604.m3u8
+#EXTINF:-1,PT: Eleven Sports 1 SD
+http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/6897.m3u8
+#EXTINF:-1,PT: Eleven Sports 2 FHD
+http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/6892.m3u8
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5603.m3u8
+#EXTINF:-1,PT: Eleven Sports 2 SD
+http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/6894.m3u8
+#EXTINF:-1,PT: Eleven Sports 3 HD
+http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5602.m3u8
+#EXTINF:-1,PT: Eleven Sports 3 SD
+http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7741.m3u8
+#EXTINF:-1,PT: Eleven Sports 4 HD
+http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5601.m3u8
+#EXTINF:-1,PT: Eleven Sports 4 SD
+http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7740.m3u8
+#EXTINF:-1,PT: Eleven Sports 5 HD
+http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5600.m3u8
+#EXTINF:-1,PT: Eleven Sports 5 SD
+http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7739.m3u8
+#EXTINF:-1,PT: Eleven Sports 6 HD
+http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/5599.m3u8
+#EXTINF:-1,PT: Eleven Sports 6 SD
+http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/7738.m3u8
+
+#EXTINF:-1 group-title="bigserver",USA: NBC SPORTS NETWORK
+http://bigserver.theworkpc.com:8010/live/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16692.m3u8
+
++ + + + + bigboss2017.club:8080 / 198.16.72.106:8080 / bornw1ld.cyou:8080 + + + + + DOWN + + + + +
+
+http://bornw1ld.cyou:8080/get.php?username=OVOmainoneWgTkI&password=468TGE75ffji6453&type=m3u
+
++ + + + +  + + + + +
+
++ + + + + client.vpnuser.ws:8080 [TH] + + + + +
++ + + + + clientbox.tv:80 [SEA] + + + + +
++ + + + + client-premiumzone.in:8080 / premium-streamplay.club:8080 + + + + +
++ + + + + clientportal.link:80 / tv.iptvstack.net:80 / 85.203.33.42:80 / 85.203.33.7:80 + + + + +
+
+
++ + + + + dillutv.dillu.ltd:7651 + + + + +
+
+http://dillutv.dillu.ltd:7651/get.php?username=virusezrestreamptpanel&password=A9D3iv0A8o&type=m3u
+Real Url: dillutv.dillu.ltd:7651     Status: Active    Created: 29/3/2021 7:19:20 PM     Expires: Null    Active Connections: 59     Maximum Connections: 100 
+
+
 
 + + + + + dragoniptv / livegopanel + + + + +
 + + + + + endoftheworldisnigh.sytes.net:8989 [MTV] + + + + +
