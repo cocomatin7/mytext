@@ -122,6 +122,11 @@ http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD3 |77
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 
+#EXTINF:-1,beIN SPORTS 1EN
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1,beIN SPORTS 2EN
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+
 #EXTINF:-1,SPORTTV1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1,SPORTTV2
@@ -5496,9 +5501,10 @@ http://77.83.117.60:8888/02_DiscoveryHDWorld/chunklist.m3u8
 http://77.83.117.60:8888/02_DiscoveryScience/chunklist.m3u8
 http://77.83.117.60:8888/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 1", BEIN SPORT HD 1 |77.83'
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 http://77.83.117.60:8888/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 2", BEIN SPORT HD 2 |77.83'
-https://www.www.live77.83.com/02_epl2_720p_UK/chunklist.m3u8
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 http://77.83.117.60:8888/02_epl2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FANMUSICHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FOX_Life_720p/chunklist.m3u8
@@ -5514,8 +5520,11 @@ http://77.83.117.60:8888/02_FoxFamilyHD_TH_720p/Chunklist.m3u8
 #EXTINF:-1 tvg-id="FOX Movies HD",Fox Movies HD MM |77.83'
 http://77.83.117.60:8888/02_FoxMoviesHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxMoviesTH_720p/chunklist.m3u8
+FOX SPORTS 2
 http://77.83.117.60:8888/02_FoxSport2_TH_720p/chunklist.m3u8
+FOX SPORTS 3
 http://77.83.117.60:8888/02_FoxSport3_TH_720p/chunklist.m3u8
+FOX SPORTS
 http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxThai_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxThai_TH_720p/chunklist.m3u8
@@ -5524,13 +5533,13 @@ http://77.83.117.60:8888/02_GMM_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_GMMONE_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_golfhd_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_H2HD_720p/chunklist.m3u8
-#EXTINF:-1,HBO Family |77.83'
+HBO Family |77.83'
 http://77.83.117.60:8888/02_HBOFamily_720p/chunklist.m3u8
-#EXTINF:-1,HBO |77.83'
+HBO |77.83'
 http://77.83.117.60:8888/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1,HBO Hit |77.83'
+HBO Hit |77.83'
 http://77.83.117.60:8888/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1,HBO Signature |77.83'
+HBO Signature |77.83'
 http://77.83.117.60:8888/02_HBOSignature_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_HISTORYHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_KIX_Thailand_720p/chunklist.m3u8
@@ -5569,13 +5578,14 @@ http://77.83.117.60:8888/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |77.83'
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3",True Premiere Football HD3 |77.83'
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD5_720p/Chunklist.m3u8
-#EXTINF:-1,Red by HBO |77.83'
+Red by HBO |77.83'
 http://77.83.117.60:8888/02_RedbyHBO_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SabaideeTV_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SCM HD",Star chinese Movies |77.83' /ER
+Star chinese Movies |77.83' /ER
 http://77.83.117.60:8888/02_SCM_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SMM_TV_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_sport2_480p/chunklist.m3u8
@@ -5607,13 +5617,13 @@ http://77.83.117.60:8888/02_VOICE_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_WarnerTVHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_Wish_Channel_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_WORKPOINT_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="Zee Cinema",ZEE Cinema |77.83' 
+ZEE Cinema |77.83' 
 http://77.83.117.60:8888/02_Zee_Cinema_720p/chunklist.m3u8
-,Zee Nung |77.83'
+Zee Nung |77.83'
 http://77.83.117.60:8888/02_Zee_Nung_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="Zee TV" group-title="77.83", ZEE TV |77.83'
+ZEE TV |77.83'
 http://77.83.117.60:8888/02_Zee_TV_720p/chunklist.m3u8
-
+http://77.83.117.60:8888/sumrujlok_goodtv/chunklist.m3u8
 #EXTINF:-1,SKYNET SPORTS 1 |77.83'
 http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:-1,SKYNET SPORTS 2 |77.83'
@@ -5628,9 +5638,6 @@ http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
 http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="77.83",SKYNET SPORTS HD |77.83'
 http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
-
-
-http://77.83.117.60:8888/sumrujlok_goodtv/chunklist.m3u8
 
 + + + + + 103.22.182.242:8081 + + + + + 
 
