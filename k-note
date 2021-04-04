@@ -2447,6 +2447,23 @@ http://4digital.ddns.net:9981/stream/channelid/2097246791?ticket=4068219972CE699
 
 + + + + + http://116.204.181.238:9981/extjs.html + + + + +
 
+#EXTINF:-1 group-title="TH/116.204", Vip3 HD 
+http://116.204.181.238:9981/stream/mux/4493b52199801e8078254d8fb7088085
+#EXTINF:-1, TRUE EPL HD
+http://116.204.181.238:9981/stream/mux/f753475ce21c80892fe3dce88723d6b1
+#EXTINF:-1, SKynet sport HD
+http://116.204.181.238:9981/stream/mux/4404e2ae7e7f817ec5f681ced04d86cb
+#EXTINF:-1, Sport Klub HD
+http://116.204.181.238:9981/stream/mux/bd39212b66f44e31392d1459f25ffcb1
+#EXTINF:-1, TEN 1 HD
+http://116.204.181.238:9981/stream/service/0ffaaed6204c6bd473cc3506385c680d
+#EXTINF:-1, TRUE Movies Hit HD
+http://116.204.181.238:9981/stream/service/9e409278d1aa9bce532ca6b8fd50d41f
+#EXTINF:-1, SKynet sport HD
+http://116.204.181.238:9981/stream/service/bc3b819e01ee7efdf15a09771972f5f6
+#EXTINF:-1, Sport Klub HD
+http://116.204.181.238:9981/stream/service/43ffdc60b5c50afbe95f7f690dd04fed
+
 #EXTINF:-1 group-title="TH/116.204", EPL 1 HD TH
 http://116.204.181.238:9981/stream/mux/83f4dd764e27d85c8cb857969e018554 
 #EXTINF:-1, EPL 2 SD TH 
@@ -2576,8 +2593,12 @@ http://116.204.181.238:9981/stream/channel/f3ef5fea3cf8425665cacb7079fb3a9c?titl
 
 + + + + + TV Headend + + + + +
 
+Congiguration > DVB Inputs > Muxes
 Congiguration > DVB Inputs > Services
+Congiguration > Channel / EPG > Channels
 
+http://4digital.ddns.net:9981/extjs.html
+http://116.204.181.238:9981/extjs.html
 http://newhostshare.ddns.net:9981/playlist/channels
 http://newhostshare.ddns.net:9981/extjs.html
 
