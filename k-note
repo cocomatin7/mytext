@@ -336,7 +336,11 @@ http://streamwat.ch/custom/player/#http://77.247.109.116/hls/liveovo1.m3u8
 http://streamwat.ch/custom/player/#https://you1sports.com/hls/ep1.m3u8
 http://streamwat.ch/custom/player/#http://4digital.ddns.net:11223/ts/0
 
+
+http://www.ovostreams.com/1.php
+
 #EXTINF:-1,OVO L1
+http://pull-2000.5centscdn.com/hls/liveovo1.m3u8
 http://d1ewc4fx6laipk.cloudfront.net/hls/liveovo1.m3u8
 #EXTINF:-1,OVO L1 *
 http://77.247.109.116/hls/liveovo1.m3u8
@@ -381,6 +385,8 @@ https://meridix-live3.secure.footprint.net/live/anasiwadiee/chunklist.m3u8
 
 #EXTINF:-1, MStream
 http://stream.mazystreams.xyz/live/streamsd/chunks.m3u8
+
+http://ebqt.blogspot.com/p/a77.html
 
 Live Gday1 http://nflscoop.net/gday1.html
 Live Gday2 http://nflscoop.net/gday2.html
