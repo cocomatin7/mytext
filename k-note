@@ -2190,6 +2190,31 @@ http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
 + + + + + http://4digital.ddns.net:9981/extjs.html + + + + +
 
+#EXTINF:-1 group-title="TH/4digit", VIP HD1
+http://4digital.ddns.net:9981/stream/mux/a7e489d8448265bf934cd25e59b5b669
+#EXTINF:-1, TS 1
+http://4digital.ddns.net:9981/stream/mux/5f8cbaad57615150f371cd9e52a00507
+#EXTINF:-1, TS 2
+http://4digital.ddns.net:9981/stream/mux/2baeef58a6f17891729d7b3b82544f1e
+#EXTINF:-1, TS 3
+http://4digital.ddns.net:9981/stream/mux/392f3b0c98a482b63991ad6bbece3201
+#EXTINF:-1, VIP2
+http://4digital.ddns.net:9981/stream/mux/7c4f1149ef1d43041266f5b13dfad63e
+#EXTINF:-1, HBO Asia
+http://4digital.ddns.net:9981/stream/mux/a75d109849e16ded2d2509a443b43624
+#EXTINF:-1, VIP HD1'
+http://4digital.ddns.net:9981/stream/service/91f3c53f4010cf6724485247d112839f
+#EXTINF:-1, TS 1'
+http://4digital.ddns.net:9981/stream/service/b8b62540e6eda7f5f93b02ca23d121ed
+#EXTINF:-1, TS 2'
+http://4digital.ddns.net:9981/stream/service/e9e90cd84a13e5580bbb8ecd0d907dcf
+#EXTINF:-1, TS 3'
+http://4digital.ddns.net:9981/stream/service/db5c54702d62a3f69a5c61d857dde3cb
+#EXTINF:-1, VIP2'
+http://4digital.ddns.net:9981/stream/service/0ce306a5da35cefee8db8298ee7d8258
+#EXTINF:-1, HBO Asia'
+http://4digital.ddns.net:9981/stream/service/88d806f78571a0ac9298f434d8973746
+
 #EXTINF:-1 group-title="TH/4digit", A Leag
 http://4digital.ddns.net:9981/stream/mux/915d4013605f154f014ae5c94208b529
 #EXTINF:-1, EPL 1 HD TH
@@ -2216,16 +2241,7 @@ http://4digital.ddns.net:9981/stream/mux/0d97edf8113918906b865ae82e1b7db6
 http://4digital.ddns.net:9981/stream/mux/397d6aed37a4306c01b64acd11867316
 #EXTINF:-1, SKYnet6
 http://4digital.ddns.net:9981/stream/mux/92c30f6ea283762d80e5360cafd21033
-#EXTINF:-1, TS 1  
-http://4digital.ddns.net:9981/stream/mux/5f8cbaad57615150f371cd9e52a00507
-#EXTINF:-1, TS 2 
-http://4digital.ddns.net:9981/stream/mux/2baeef58a6f17891729d7b3b82544f1e
-#EXTINF:-1, TS 3
-http://4digital.ddns.net:9981/stream/mux/392f3b0c98a482b63991ad6bbece3201
-#EXTINF:-1, VIP HD1  
-http://4digital.ddns.net:9981/stream/mux/a7e489d8448265bf934cd25e59b5b669
-#EXTINF:-1, VIP2 
-http://4digital.ddns.net:9981/stream/mux/7c4f1149ef1d43041266f5b13dfad63e
+
 #EXTINF:-1, WB TV LAo
 http://4digital.ddns.net:9981/stream/mux/8f06cb446f5b71529f363e77992ed9c8 
 #EXTINF:-1, beIN SPORTS 1
@@ -2269,15 +2285,7 @@ http://4digital.ddns.net:9981/stream/service/a893924c32f807f0daef92de3636a1d8
 #EXTINF:-1, SKYnet5
 http://4digital.ddns.net:9981/stream/service/1d67d5aaeb678ad2b0a321d0a0245005
 http://4digital.ddns.net:9981/stream/service/8326c4332a930a19d70a25607252a1c6
-#EXTINF:-1, TS 1
-http://4digital.ddns.net:9981/stream/service/b8b62540e6eda7f5f93b02ca23d121ed
-#EXTINF:-1, TS 2
-http://4digital.ddns.net:9981/stream/service/e9e90cd84a13e5580bbb8ecd0d907dcf
-http://4digital.ddns.net:9981/stream/service/db5c54702d62a3f69a5c61d857dde3cb
 #EXTINF:-1, VIP HD1
-http://4digital.ddns.net:9981/stream/service/91f3c53f4010cf6724485247d112839f
-#EXTINF:-1, VIP2
-http://4digital.ddns.net:9981/stream/service/0ce306a5da35cefee8db8298ee7d8258
 http://4digital.ddns.net:9981/stream/service/99f88d9c4feac218e92515e726d04d13
 http://4digital.ddns.net:9981/stream/service/4d7237235f530a1d3a03fdac43073d8f
 http://4digital.ddns.net:9981/stream/service/7fc35a92848c47d9305c80a12c35f3ca
@@ -2463,6 +2471,10 @@ http://116.204.181.238:9981/stream/service/9e409278d1aa9bce532ca6b8fd50d41f
 http://116.204.181.238:9981/stream/service/bc3b819e01ee7efdf15a09771972f5f6
 #EXTINF:-1, Sport Klub HD'
 http://116.204.181.238:9981/stream/service/43ffdc60b5c50afbe95f7f690dd04fed
+#EXTINF:-1, SKynet sport HD"
+http://116.204.181.238:9981/stream/channel/ab2e96925297c48537054172d7d887a1
+#EXTINF:-1, Sport Klub HD"
+http://116.204.181.238:9981/stream/channel/f3ef5fea3cf8425665cacb7079fb3a9c
 
 #EXTINF:-1 group-title="TH/116.204", EPL 1 HD TH
 http://116.204.181.238:9981/stream/mux/83f4dd764e27d85c8cb857969e018554 
@@ -2527,8 +2539,6 @@ http://116.204.181.238:9981/stream/service/933447845cac9efad8ba12328c3a5957
 #EXTINF:-1, i asia HD
 http://116.204.181.238:9981/stream/service/33e110b142bb1d3afcabfa763393c6da
 http://116.204.181.238:9981/stream/service/d5671d73f821d1c82980f2dddc2872cb
-http://116.204.181.238:9981/stream/channel/ab2e96925297c48537054172d7d887a1
-http://116.204.181.238:9981/stream/channel/f3ef5fea3cf8425665cacb7079fb3a9c
 
 http://116.204.181.238:9981/stream/service/76e108f9e98a6f3ffbaf7542882a4f57 A Flim HD
 http://116.204.181.238:9981/stream/service/33e110b142bb1d3afcabfa763393c6da i asia HD
