@@ -329,6 +329,7 @@ http://77.247.109.116/hls/ovostreams5.m3u8
 
 http://streamwat.ch/custom/player/#http://77.247.109.116/hls/liveovo1.m3u8
 http://streamwat.ch/custom/player/#https://you1sports.com/hls/ep1.m3u8
+http://streamwat.ch/custom/player/#http://4digital.ddns.net:11223/ts/0
 
 #EXTINF:-1,OVO L1
 http://d1ewc4fx6laipk.cloudfront.net/hls/liveovo1.m3u8
@@ -533,7 +534,7 @@ Erox (18+)
 http://152.228.154.144:80/stream/PD2219LVSV/281.m3u8
 Hustler HD (18+)
 http://152.228.154.144:80/stream/PD2219LVSV/52.m3u8
-Nuart (18+)
+Nuart (18+) < 
 http://152.228.154.144:80/stream/PD2219LVSV/55.m3u8
 O-la-la (18+)
 http://152.228.154.144:80/stream/PD2219LVSV/334.m3u8
@@ -545,8 +546,38 @@ Vivid Red HD (18+)
 http://152.228.154.144:80/stream/PD2219LVSV/284.m3u8
 XXL (18+)
 http://152.228.154.144:80/stream/PD2219LVSV/290.m3u8
-Русская Ночь (18+)
+Русская Ночь (18+) < 
 http://152.228.154.144:80/stream/PD2219LVSV/54.m3u8
+http://152.228.154.144:80/stream/LRVE26JR5X/54.m3u8 < Exp
+
+Barely Legal http://212.83.130.111/iptv/C2MEK3RMAS8FDC/871/index.m3u8
+HUSTLER http://212.83.130.111/iptv/C2MEK3RMAS8FDC/244/index.m3u8
+REDLIGHT http://212.83.130.111/iptv/C2MEK3RMAS8FDC/242/index.m3u8
+VIVID RED http://212.83.130.111/iptv/C2MEK3RMAS8FDC/2162/index.m3u8
+
+#EXTINF:-1,CNN
+http://89.187.189.107/104/video.m3u8?token=0A60B59722A3427
+#EXTINF:-1,BBC World News
+http://89.187.189.107/105/video.m3u8?token=0A60B59722A3427
+#EXTINF:-1,MTV Club
+http://89.187.189.107/46/video.m3u8?token=0A60B59722A3427
+#EXTINF:-1,MTV 80s
+http://89.187.189.107/51/video.m3u8?token=0A60B59722A3427
+#EXTINF:-1,MTV Live HD
+http://89.187.189.107/144/video.m3u8?token=0A60B59722A3427
+
+HUSTLER HD http://89.187.189.107/592/video.m3u8?token=0A60B59722A3427
+REDLIGHT HD http://89.187.189.107/594/video.m3u8?token=0A60B59722A3427
+O-LA-LA HD http://89.187.189.107/598/video.m3u8?token=0A60B59722A3427
+PENHAUSE HD http://89.187.189.107/1497/video.m3u8?token=0A60B59722A3427
+Brazzers TV Europe (18+) http://89.187.189.107/76/video.m3u8?token=0A60B59722A3427
+Blue Hustler (18+) http://89.187.189.107/107/video.m3u8?token=0A60B59722A3427
+Русская Ночь (18+) http://89.187.189.107/132/video.m3u8?token=0A60B59722A3427
+
+http://appstv.us:25461/live/1/2/181.m3u8
+Hustler * http://appstv.us:25461/live/1/2/183.m3u8
+Playboy * http://appstv.us:25461/live/1/2/184.m3u8
+Redlight * http://appstv.us:25461/live/1/2/187.m3u8
 
 ,AsianCrush
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767?X-Plex-Token=MorUy57ijWhGe4ixZb_T
