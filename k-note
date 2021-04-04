@@ -9381,9 +9381,15 @@ http://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 http://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 http://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
+https://mediasv.online/tvchannel_x1/cartoonnetwork/playlist.m3u8
+https://mediasv.online/tvchannel_x1/discovery-asia/playlist.m3u8
+https://mediasv.online/tvchannel_x1/fox-family/playlist.m3u8
+https://mediasv.online/tvchannel_x1/foxactionmovie/playlist.m3u8
+https://mediasv.online/tvchannel_x1/hd-animalplanet/playlist.m3u8
+https://mediasv.online/tvchannel_x1/hd-discovery/playlist.m3u8
 https://mediasv.online/tvchannel_x1/hits/playlist.m3u8
 https://mediasv.online/tvchannel_x1/moviehits/playlist.m3u8
-
+https://mediasv.online/tvchannel_x1/natgeo/playlist.m3u8
 
 + + + + + https://y5w8j4a9.ssl.hwcdn.net + + + + +
 
@@ -10073,13 +10079,41 @@ http://bornw1ld.cyou:8080/get.php?username=OVOmainoneWgTkI&password=468TGE75ffji
 + + + + + client-premiumzone.in:8080 / premium-streamplay.club:8080 + + + + +
 + + + + + clientportal.link:80 / tv.iptvstack.net:80 / 85.203.33.42:80 / 85.203.33.7:80 + + + + +
 
-
 + + + + + dillutv.dillu.ltd:7651 + + + + +
 
 http://dillutv.dillu.ltd:7651/get.php?username=virusezrestreamptpanel&password=A9D3iv0A8o&type=m3u
 Real Url: dillutv.dillu.ltd:7651     Status: Active    Created: 29/3/2021 7:19:20 PM     Expires: Null    Active Connections: 59     Maximum Connections: 100 
 
-
+#EXTINF:-1 group-title="dillutv",DIGI SPORT 1
+http://dillutv.dillu.ltd:7651/live/virusezrestreamptpanel/A9D3iv0A8o/3472.m3u8
+#EXTINF:-1,DIGI SPORT 1 HD
+http://dillutv.dillu.ltd:7651/live/virusezrestreamptpanel/A9D3iv0A8o/3473.m3u8
+#EXTINF:-1,DIGI SPORT 2
+http://dillutv.dillu.ltd:7651/live/virusezrestreamptpanel/A9D3iv0A8o/3474.m3u8
+#EXTINF:-1,DIGI SPORT 2 HD
+http://dillutv.dillu.ltd:7651/live/virusezrestreamptpanel/A9D3iv0A8o/3475.m3u8
+#EXTINF:-1,DIGI SPORT 3
+http://dillutv.dillu.ltd:7651/live/virusezrestreamptpanel/A9D3iv0A8o/3476.m3u8
+#EXTINF:-1,DIGI SPORT 3 HD
+http://dillutv.dillu.ltd:7651/live/virusezrestreamptpanel/A9D3iv0A8o/3477.m3u8
+#EXTINF:-1,DIGI SPORT 4
+http://dillutv.dillu.ltd:7651/live/virusezrestreamptpanel/A9D3iv0A8o/3478.m3u8
+#EXTINF:-1,DIGI SPORT 4 HD
+http://dillutv.dillu.ltd:7651/live/virusezrestreamptpanel/A9D3iv0A8o/3479.m3u8
+#EXTINF:-1,TELEKOM SPORT 1
+http://dillutv.dillu.ltd:7651/live/virusezrestreamptpanel/A9D3iv0A8o/3482.m3u8
+#EXTINF:-1,TELEKOM SPORT 1 HD
+http://dillutv.dillu.ltd:7651/live/virusezrestreamptpanel/A9D3iv0A8o/3481.m3u8
+#EXTINF:-1,TELEKOM SPORT 2
+http://dillutv.dillu.ltd:7651/live/virusezrestreamptpanel/A9D3iv0A8o/3480.m3u8
+#EXTINF:-1,TELEKOM SPORT 2 HD
+http://dillutv.dillu.ltd:7651/live/virusezrestreamptpanel/A9D3iv0A8o/3483.m3u8
+#EXTINF:-1,TELEKOM SPORT 3
+http://dillutv.dillu.ltd:7651/live/virusezrestreamptpanel/A9D3iv0A8o/3484.m3u8
+#EXTINF:-1,TELEKOM SPORT 3 HD
+http://dillutv.dillu.ltd:7651/live/virusezrestreamptpanel/A9D3iv0A8o/3485.m3u8
+#EXTINF:-1 group-title="dillutv",TELEKOM SPORT 4 HD
+http://dillutv.dillu.ltd:7651/live/virusezrestreamptpanel/A9D3iv0A8o/3487.m3u8
 
 + + + + + dragoniptv / livegopanel + + + + +
 + + + + + endoftheworldisnigh.sytes.net:8989 [MTV] + + + + +
