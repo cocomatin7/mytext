@@ -8283,12 +8283,17 @@ https://mediasv.online/tvchannel_x1/hd-foxpremium/playlist.m3u8
 https://mediasv.online/tvchannel_x1/hd-history2/playlist.m3u8
 https://mediasv.online/tvchannel_x1/hd-history/playlist.m3u8
 https://mediasv.online/live/golfchannel/playlist.m3u8
+
 #EXTINF:-1,true EPL 1
 https://mediasv.online/live/trueepl1/playlist.m3u8
 #EXTINF:-1,true EPL 2
 https://mediasv.online/live/trueepl2/playlist.m3u8
 #EXTINF:-1,true EPL 3
 https://mediasv.online/live/trueepl3/playlist.m3u8
+#EXTINF:-1,beIN 1TH
+https://mediasv.online/live/bein1/playlist.m3u8
+#EXTINF:-1,beIN 2TH
+https://mediasv.online/live/bein2/playlist.m3u8
 
 https://mediasv.online/tvchannel_x1/hd-axn/playlist.m3u8
 https://mediasv.online/tvchannel_x1/hits/playlist.m3u8
