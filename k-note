@@ -323,17 +323,20 @@ https://rwyzjmd8vxbgug4d.ezcdn383.net:8443/hls/oaa446jqf0418.m3u8?s=C0E9JJRJIYv_
 #EXTINF:-1, sportz HD3
 https://rwyzjmd8vxbgug4d.ezcdn383.net:8443/hls/71dv0gylb.m3u8?s=P94rSIczkv0OXTBQ5enb-g&e=1617476430
 
-http://www.ovostreams.com/1.php
+OVO1 http://www.ovostreams.com/1.php
 http://pull-2002.5centscdn.com/hls/liveovo1.m3u8
 
-http://www.ovostreams.com/2.php
+OVO2 http://www.ovostreams.com/2.php
 http://pull-2000.5centscdn.com/hls/liveovo2.m3u8
 
-http://www.ovostreams.com/3.php
+OVO3 http://www.ovostreams.com/3.php
 http://77.247.109.116/hls/liveovo3.m3u8
 
-http://www.ovostreams.com/4.php
+OVO4 http://www.ovostreams.com/4.php
 http://77.247.109.116/hls/liveovo4.m3u8
+
+OVO5 http://www.ovostreams.com/5.php < DOWN
+https://pol.ptvsportstv.com/ovo/streamsdemo.stream/playlist.m3u8
 
 view-source:http://www.ovostreams.com/1.php
 view-source:http://www.ovostreams.com/2.php
