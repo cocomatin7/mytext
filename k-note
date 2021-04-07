@@ -10773,6 +10773,9 @@ http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/10054.ts
 
 + + + + + meti-tv.xyz:25461 + + + + +
 
+http://meti-tv.xyz:25461/get.php?username=MetiTVakanalet&password=svOVWvluBT&type=m3u
+Real Url: meti-tv.xyz:25461     Status: Active    Created: 3/2/2021 2:05:03 PM     Expires: Null    Active Connections: 37     Maximum Connections: 200
+
 #EXTINF:-1 group-title="meti-tv",Super sport 1 HD
 http://meti-tv.xyz:25461/live/MetiTVakanalet/svOVWvluBT/149.m3u8
 #EXTINF:-1,Super sport 2 HD
