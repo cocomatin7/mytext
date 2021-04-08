@@ -8369,20 +8369,20 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007
 #EXTINF:-1 group-title="pluto",Vevo Holiday
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcf059646c0cf000a293edd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=257&deviceId=5dcf059646c0cf000a293edd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0485&deviceLon=-118.2529&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-+ + + + + watchfootball + + + + + +
++ + + + + stream.tvtap.live:8081 + + + + + +
 
-#EXTINF:-1 group-title="tvtap",skysports pl
+#EXTINF:-1 group-title="tvtap",skysports pl |tvtap
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/chunks.m3u8
-#EXTINF:-1 group-title="tvtap",skysports football
+#EXTINF:-1 group-title="tvtap",skysports football |tvtap
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
-#EXTINF:-1 group-title="tvtap",laligatv
+#EXTINF:-1 group-title="tvtap",laligatv |tvtap
 http://stream.tvtap.live:8081/live/es-laligatvbar.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIxIDI6NDI6NDcgUE0maGFzaF92YWx1ZT1vSHZWMXlrN1poaEEzZE5qaTNpSjR3PT0mdmFsaWRtaW51dGVzPTIw
 
 http://stream.tvtap.live:8081/live/us-ae.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDIxIDEwOjAzOjAzIEFNJmhhc2hfdmFsdWU9Z3
 http://stream.tvtap.live:8081/live/us-hallmark.stream/playlist.m3u8
-#EXTINF:-1 group-title="tvtap",MTV Classic
+#EXTINF:-1 group-title="tvtap",MTV Classic |tvtap
 http://stream.tvtap.live:8081/live/mtvclassic.stream/chunks.m3u8
-#EXTINF:-1 group-title="tvtap",MTV Hits
+#EXTINF:-1 group-title="tvtap",MTV Hits |tvtap
 http://stream.tvtap.live:8081/live/mtvhits.stream/chunks.m3u8
 
 + + + + + watchfootball + + + + + +
@@ -10188,25 +10188,25 @@ http://209.222.101.100:25461/live/tv/tv/77382.m3u8
 
 + + + + + appstv.us:25461 + + + + +
 
-#EXTINF:-1 group-title="appstv",NBCSN
+#EXTINF:-1 group-title="appstv",NBCSN |appstv
 http://appstv.us:25461/live/1/2/1430.m3u8
-#EXTINF:-1,USA | MTV CLASSICS
+#EXTINF:-1,USA | MTV CLASSICS |appstv
 http://appstv.us:25461/live/1/2/1520.m3u8
-#EXTINF:-1,VH1 Classic
+#EXTINF:-1,VH1 Classic |appstv
 http://appstv.us:25461/live/1/2/674.m3u8
-#EXTINF:-1,CNN ENG
+#EXTINF:-1,CNN ENG |appstv
 http://appstv.us:25461/live/1/2/678.m3u8
-#EXTINF:-1,UFC Fight Pass
+#EXTINF:-1,UFC Fight Pass |appstv
 http://appstv.us:25461/live/1/2/13419.m3u8
-#EXTINF:-1,TUDN EXTRA 1
+#EXTINF:-1,TUDN EXTRA 1 |appstv
 http://appstv.us:25461/live/1/2/282.m3u8
-#EXTINF:-1,TUDN EXTRA 2
+#EXTINF:-1,TUDN EXTRA 2 |appstv
 http://appstv.us:25461/live/1/2/283.m3u8
-#EXTINF:-1,TUDN EXTRA 3
+#EXTINF:-1,TUDN EXTRA 3 |appstv
 http://appstv.us:25461/live/1/2/284.m3u8
-#EXTINF:-1,TUDN EXTRA 4
+#EXTINF:-1,TUDN EXTRA 4 |appstv
 http://appstv.us:25461/live/1/2/285.m3u8
-#EXTINF:-1 group-title="appstv",TUDN EXTRA 5
+#EXTINF:-1 group-title="appstv",TUDN EXTRA 5 |appstv
 http://appstv.us:25461/live/1/2/286.m3u8
 
 + + + + + iptvportuguese.live:8010 / bigserver.theworkpc.com:8010 + + + + + 300-238 + + + + +
