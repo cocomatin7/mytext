@@ -548,7 +548,7 @@ http://www.mcsh.xyz:8080/live/nyinanda/454745/81.m3u8
 Русская Ночь
 http://ua1.iptv.monster/play/132/9290FC45C3932BD/video.m3u8
 Blue Hustler TV
-http://ua1.iptv.monster/play/107/9290FC45C3932BD/video.m3u8
+http://ua1.iptv.monster/play/107/D165FE5B556D149/video.m3u8
 Playboy
 http://ua1.iptv.monster/play/242/9290FC45C3932BD/video.m3u8
 Hustler HD Europe
@@ -568,7 +568,7 @@ http://ua1.iptv.monster/play/1490/9290FC45C3932BD/video.m3u8
 Penthouse HD
 http://ua1.iptv.monster/play/1497/9290FC45C3932BD/video.m3u8
 Penthouse Gold HD
-http://ua1.iptv.monster/play/8848/9290FC45C3932BD/video.m3u8
+http://ua1.iptv.monster/play/8848/AF738B914814063/video.m3u8
 
 #EXTINF:-1,BBC
 http://152.228.154.144:80/stream/PD2219LVSV/85.m3u8
@@ -625,13 +625,13 @@ http://89.187.189.107/51/video.m3u8?token=0A60B59722A3427
 #EXTINF:-1,MTV Live HD
 http://89.187.189.107/144/video.m3u8?token=0A60B59722A3427
 
-HUSTLER HD http://89.187.189.107/592/video.m3u8?token=0A60B59722A3427
+HUSTLER HD http://89.187.189.107/592/video.m3u8?token=AF738B914814063
 REDLIGHT HD http://89.187.189.107/594/video.m3u8?token=0A60B59722A3427
-O-LA-LA HD http://89.187.189.107/598/video.m3u8?token=0A60B59722A3427
-PENHAUSE HD http://89.187.189.107/1497/video.m3u8?token=0A60B59722A3427
-Brazzers TV Europe (18+) http://89.187.189.107/76/video.m3u8?token=0A60B59722A3427
-Blue Hustler (18+) http://89.187.189.107/107/video.m3u8?token=0A60B59722A3427
-Русская Ночь (18+) http://89.187.189.107/132/video.m3u8?token=0A60B59722A3427
+O-LA-LA HD http://89.187.189.107/598/video.m3u8?token=AF738B914814063
+PENHAUSE HD http://89.187.189.107/1497/video.m3u8?token=AF738B914814063
+Brazzers TV Europe (18+) http://89.187.189.107/76/video.m3u8?token=AF738B914814063
+Blue Hustler (18+) http://89.187.189.107/107/video.m3u8?token=AF738B914814063
+Русская Ночь (18+) http://89.187.189.107/132/video.m3u8?token=AF738B914814063
 
 http://appstv.us:25461/live/1/2/181.m3u8
 Hustler * http://appstv.us:25461/live/1/2/183.m3u8
@@ -10315,6 +10315,19 @@ http://iptv.kitv.live:1935/get.php?username=Shari&password=MTV-P&type=m3u < null
 
 http://iptv8.premium-stv.com:2052/get.php?username=SPORTPORTpro1&password=vgadJThhsjdfw33&type=m3u < N
 
++ + + + + iptvlink.ga:8888 + + + + + null / 100000-3
+
+http://iptvlink.ga:8888/get.php?username=join&password=@iptvfreenet&type=m3u
+
+#EXTINF:-1 group-title="iptvlink",PRIVE HD
+http://iptvlink.ga:8888/live/join/@iptvfreenet/137.ts
+#EXTINF:-1,KBS WORLD
+http://iptvlink.ga:8888/live/join/@iptvfreenet/135.ts
+#EXTINF:-1,Flix HD
+http://iptvlink.ga:8888/live/join/@iptvfreenet/138.ts
+#EXTINF:-1 group-title="iptvlink",Prive HD
+http://iptvlink.ga:8888/live/join/@iptvfreenet/140.ts
+
 + + + + + iptvlogin + + + + +
 
 http://links.iptvlogin.com:80/get.php?username=tomaslineexchange&password=H69dbcR5673Sxz8d53&type=m3u < N
@@ -10666,6 +10679,8 @@ http://main.ipboxhd.com:8080/live/italiauserstalker1/RvQER8SeH1/10234.m3u8
 
 + + + + + mantul.biz.id:8888 [SEA] + + + + +
 
+http://maxx-iptv10.ddns.net:8080/get.php?username=maxx015&password=7857585044&type=m3u < null < 5-2
+
 #EXTINF:-1 group-title="maxx",MTV HITS
 http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/23287.ts
 #EXTINF:-1,NBC Sports (Network) HD
@@ -10945,7 +10960,7 @@ http://speccy.pw:8008/d/d/17048
 + + + + + srv.cybergroup.top:14170 + + + + +
 + + + + + streamx.link:8080 + + + + +
 
-http://streamx.link:8080/get.php?username=NvxBXobrQj&password=fRPdh3UVHc&type=m3u | 9/12/2020 
+http://streamx.link:8080/get.php?username=NvxBXobrQj&password=fRPdh3UVHc&type=m3u | 9/12/2020 < N
 
 + + + + + supertexasiptv.ddns.net:8000 + + + + +
 
