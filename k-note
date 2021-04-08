@@ -1770,8 +1770,10 @@ https://rebrand.ly/ck-ad-2
 http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-playlist.m3u8
 http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-chunklist.m3u8
 http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/playlist.m3u8
+http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-playlist.m3u8
  tvg-logo="https://www.skynetdth.com/images/channal_logo/CN.png" group-title="cookie", Cartoon Network |aovivotv 
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/cartoonnetwork_511a418e_96554db03e60909b1d6c7ffc422523415b43dd35/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png", Channel7 |cookie
 https://rebrand.ly/ck-c7
@@ -1788,6 +1790,10 @@ https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8?wmsAuthSign=c2VydmVyX3R
 https://rebrand.ly/ck-cm-1
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="cookie",Cinemax* |cookie
 https://rebrand.ly/ck-cm-2
+#EXTINF:-1 tvg-id="Cinemax HD" group-title="cookie",Cinemax' |cookie
+http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_1.m3u8
+http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
+http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://rebrand.ly/cc-png" group-title="cookie", Cookie return |cookie
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
@@ -9747,6 +9753,13 @@ http://cloudcdn.tk:8080/get.php?username=Ps1gfW661&password=fTeMeM99&type=m3u
 Real Url: 85.203.33.88:80 Expires: 29/10/2021 6:41:31 PM    Active Connections: 0     Maximum Connections: 1
 http://cloudcdn.tk:8080/get.php?username=wZkgtvQF6G0800&password=aqE7hM928&type=m3u
 
+http://mag.clientportal.link:80/get.php?username=4okpPua295&password=0qFG82580&type=m3u
+Real Url: 85.203.33.88:80     Status: Active    Created: 14/3/2019 4:13:12 AM     Expires: 6/4/2022 10:29:02 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://mag.clientportal.link:80/get.php?username=VHctBSKbfY391&password=oUI6VX530&type=m3u
+Real Url: 85.203.33.88:80     Status: Active    Created: 24/1/2020 7:55:42 AM     Expires: 6/2/2022 12:10:33 PM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
+
+
 + + + + + 103.22.183.58:8888 [TH] + + + + +
 
 http://103.22.183.58:8888/get.php?username=WM2Dw8CZH8&password=crUYcV9ZBK&type=m3u < N
@@ -11090,6 +11103,254 @@ http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/693.m3u8
 + + + + + pro-panel01.club:8080 / premium-streamplay.club [SEA] + + + + +
 
 http://premium-streamplay.club:8080/live/mama/123456/8130.m3u8
+
++ + + + + sdorfijsdfcvx.cabelstream.net:8080 + + + + + null / 1800 + + + + 
+
+http://local.satrestream.com:8080/get.php?username=Maestrotiger&password=Caliskan@ozel1234&type=m3u
+Real Url: sdorfijsdfcvx.cabelstream.net:8080     Status: Active    Created: 27/2/2020 8:33:06 PM     Expires: Null    Active Connections: 1267     Maximum Connections: 1800 
+
+#EXTINF:-1 group-title="satrestream",TR: TiViBUSPOR 1 HD+
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/298.m3u8
+#EXTINF:-1,TR: TiViBUSPOR 2 HD+
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/299.m3u8
+#EXTINF:-1,TR: TiViBUSPOR 3 HD+
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/300.m3u8
+#EXTINF:-1,TR: TIVIBUSPOR 1 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/268.m3u8
+#EXTINF:-1,TR: TIVIBUSPOR 2 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/269.m3u8
+#EXTINF:-1,TR: TIVIBUSPOR 3 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/270.m3u8
+
+#EXTINF:-1,VIP SPORT: SKY SPORT NEWS (UK)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3140.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORT PREMIER LEAGUE (UK)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3141.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORTS FOOTBALL (UK)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3142.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORT ACTION (UK)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3143.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORTS ARENA (UK)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3144.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORT MIX (UK)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3145.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORTS MAIN EVENT (UK)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3146.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORTS F1 (UK)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3147.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORT GOLF (UK)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3148.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORT CRICKET (UK)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3149.m3u8
+#EXTINF:-1,VIP SPORT: BT SPORT 1 (UK)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3150.m3u8
+#EXTINF:-1,VIP SPORT: BT SPORT 2 (UK)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3151.m3u8
+#EXTINF:-1,VIP SPORT: BT SPORT 3 (UK)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3152.m3u8
+#EXTINF:-1,VIP SPORT: SPORT TV 1 (PT)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3155.m3u8
+#EXTINF:-1,VIP SPORT: SPORT TV 2 (PT)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3156.m3u8
+#EXTINF:-1,VIP SPORT: SPORT TV 3 (PT)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3157.m3u8
+#EXTINF:-1,VIP SPORT: SPORT TV 4 (PT)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3158.m3u8
+#EXTINF:-1,VIP SPORT: SPORT TV 5 (PT)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3159.m3u8
+#EXTINF:-1,VIP SPORT: ELEVEN SPORT 1 (PT)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3160.m3u8
+#EXTINF:-1,VIP SPORT: ELEVEN SPORT 2 (PT)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3161.m3u8
+#EXTINF:-1,VIP SPORT: beiN SPORTS 1 HD+(TR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/100000.m3u8
+#EXTINF:-1,VIP SPORT: beiN SPORTS 2 HD+(TR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/100001.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORT NEWS (DE)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3167.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORT 1 (DE)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3168.m3u8
+#EXTINF:-1,VIP SPORT: SKY SPORT 2 (DE)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3169.m3u8
+#EXTINF:-1,VIP SPORT: BUNDESLIGA 1 (DE)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3170.m3u8
+#EXTINF:-1,VIP SPORT: DAZN Sport 1 HD (DE)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3171.m3u8
+#EXTINF:-1,VIP SPORT: DAZN Sport 2 HD (DE)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3172.m3u8
+#EXTINF:-1,VIP SPORT: ESPN 1 HD (NL)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3173.m3u8
+#EXTINF:-1,VIP SPORT: ESPN 2 HD (NL)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3174.m3u8
+#EXTINF:-1,VIP SPORT: ZIGGO SPORT SELECT HD (NL)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3175.m3u8
+#EXTINF:-1,VIP SPORT: ELEVEN SPORT 1 (PL)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3162.m3u8
+#EXTINF:-1,VIP SPORT: ELEVEN SPORT 2 (PL)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3163.m3u8
+#EXTINF:-1,VIP SPORT: ELEVEN SPORT 3 (PL)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3164.m3u8
+#EXTINF:-1,VIP SPORT: Canal  Sport 1 HD (PL)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3165.m3u8
+#EXTINF:-1,VIP SPORT: Canal  Sport 2 HD (PL)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3166.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORTS 1 (FR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3181.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORTS 2 (FR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3182.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORTS 3 (FR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3183.m3u8
+#EXTINF:-1,VIP SPORT: RMC SPORT 1 (FR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3184.m3u8
+#EXTINF:-1,VIP SPORT: RMC SPORT 2 (FR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3185.m3u8
+#EXTINF:-1,VIP SPORT: RMC SPORT 3 (FR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3186.m3u8
+#EXTINF:-1,VIP SPORT: RMC SPORT 4 (FR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3187.m3u8
+#EXTINF:-1,VIP SPORT: LIGA TV (ES)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3189.m3u8
+#EXTINF:-1,VIP SPORT: LALIGA TV BAR (ES)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3190.m3u8
+#EXTINF:-1,VIP SPORT: Arena Sport 1 HD (EX-YU)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3194.m3u8
+#EXTINF:-1,VIP SPORT: Arena Sport 2 HD (EX-YU)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3195.m3u8
+#EXTINF:-1,VIP SPORT: Arena Sport 3 HD (EX-YU)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3196.m3u8
+#EXTINF:-1,VIP SPORT: Arena Sport 4 HD (EX-YU)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3197.m3u8
+#EXTINF:-1,VIP SPORT: Arena Sport 5 HD (EX-YU)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3198.m3u8
+#EXTINF:-1,VIP SPORT: SPORT KLUB 1 (EX-YU)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3199.m3u8
+#EXTINF:-1,VIP SPORT: SPORT KLUB 2 (EX-YU)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3200.m3u8
+#EXTINF:-1,VIP SPORT: SPORT KLUB 3 (EX-YU)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3201.m3u8
+#EXTINF:-1,VIP SPORT: SPORT KLUB 4 (EX-YU)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3202.m3u8
+#EXTINF:-1,VIP SPORT: Super Sport 1 (AL)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3203.m3u8
+#EXTINF:-1,VIP SPORT: Super Sport 2 (AL)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3204.m3u8
+#EXTINF:-1,VIP SPORT: Super Sport 3 (AL)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3205.m3u8
+#EXTINF:-1,VIP SPORT: Tring Sport 1 (AL)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3206.m3u8
+#EXTINF:-1,VIP SPORT: Tring Sport 2 (AL)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3207.m3u8
+#EXTINF:-1,VIP SPORT: DIGI SPORT 1 (RO)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3208.m3u8
+#EXTINF:-1,VIP SPORT: DIGI SPORT 2 (RO)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3209.m3u8
+#EXTINF:-1,VIP SPORT: DIGI SPORT 3 (RO)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3210.m3u8
+#EXTINF:-1,VIP SPORT: DIGI SPORT 4 (RO)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3211.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT 1 (AR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3212.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT 2 (AR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3213.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT 3 (AR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3214.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT 4 (AR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3215.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT 5 (AR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3216.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT 6 (AR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3217.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT 7 (AR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3218.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT 8 (AR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3219.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT 9 (AR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3220.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORT 10 (AR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3221.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORTS 11 (AR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3222.m3u8
+#EXTINF:-1,VIP SPORT: BEIN SPORTS 12 (AR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3223.m3u8
+#EXTINF:-1,VIP SPORT: AL KASS SPORTS 1 (AR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3224.m3u8
+#EXTINF:-1,VIP SPORT: AL KASS SPORTS 2 (AR)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3225.m3u8
+#EXTINF:-1,VIP SPORT: UFC Network 
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3228.m3u8
+#EXTINF:-1,VIP SPORT: NBA Network (US)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3229.m3u8
+#EXTINF:-1,VIP SPORT: NHL Network (US)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3230.m3u8
+#EXTINF:-1,VIP SPORT: MLB Network (US)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3231.m3u8
+#EXTINF:-1,VIP SPORT: NFL Network (US)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3232.m3u8
+#EXTINF:-1,VIP SPORT: WWE Network (US)
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/3233.m3u8
+
+#EXTINF:-1,UK: MTV Base
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/15436.m3u8
+#EXTINF:-1,UK: MTV Hits
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/15435.m3u8
+#EXTINF:-1,UK: BT Sport 1 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/15414.m3u8
+#EXTINF:-1,UK: BT Sport 2 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/15413.m3u8
+#EXTINF:-1,UK: BT Sport 3 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/15412.m3u8
+#EXTINF:-1,UK: Sky Sports Football HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/15405.m3u8
+#EXTINF:-1,UK: Sky Sports Main Event HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/15409.m3u8
+#EXTINF:-1,UK: Sky Sports News HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/15411.m3u8
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/15410.m3u8
+
+#EXTINF:-1,AR: beIN SPORTS 1 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/24360.m3u8
+#EXTINF:-1,AR: beIN SPORTS 2 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/24361.m3u8
+#EXTINF:-1,AR: beIN SPORTS 3 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/24362.m3u8
+#EXTINF:-1,AR: beIN SPORTS 4 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/24363.m3u8
+#EXTINF:-1,AR: beIN SPORTS 5 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/24364.m3u8
+#EXTINF:-1,AR: beIN SPORTS 6 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/24365.m3u8
+#EXTINF:-1,AR: beIN SPORTS 7 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/24366.m3u8
+#EXTINF:-1,AR: beIN SPORTS 8 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/24367.m3u8
+#EXTINF:-1,AR: beIN SPORTS 9 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/24368.m3u8
+#EXTINF:-1,AR: beIN SPORTS 10 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/24369.m3u8
+#EXTINF:-1,AR: beIN SPORTS 11 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/24370.m3u8
+#EXTINF:-1,AR: beIN SPORTS 12 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/24371.m3u8
+#EXTINF:-1,AR: beIN SPORTS 13 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/24372.m3u8
+
+#EXTINF:-1,IN: Star Sports Select 2 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/51209.m3u8
+#EXTINF:-1,IN: Star Sports Select 1 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/51210.m3u8
+#EXTINF:-1,IN: Star Sports Select 2 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/51291.m3u8
+#EXTINF:-1,IN: Star Sports Select 1 HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/51292.m3u8
+#EXTINF:-1,IN: &Tv HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/51270.m3u8
+#EXTINF:-1,IN: &Prive HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/51271.m3u8
+#EXTINF:-1,IN: &Pictures HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/51272.m3u8
+#EXTINF:-1 group-title="satrestream",IN: &Flix HD
+http://sdorfijsdfcvx.cabelstream.net:8080/live/Maestrotiger/Caliskan@ozel1234/51273.m3u8
 
 + + + + + starshare.live:8080 [MY+MM] + + + + +
 + + + + + s1.showplustv.com:1997 [TH+MM] + + + + +
