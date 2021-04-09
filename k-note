@@ -2478,6 +2478,10 @@ http://4digital.ddns.net:9981/stream/channelid/2097246791?ticket=4068219972CE699
 
 #EXTINF:-1 group-title="TH/116.204", Vip3 HD 
 http://116.204.181.238:9981/stream/mux/4493b52199801e8078254d8fb7088085
+#EXTINF:-1, Test Vip3HD
+http://116.204.181.238:9981/stream/mux/22c649b518c38732dedaf43df1baed85
+#EXTINF:-1, Test Vip1HD
+http://116.204.181.238:9981/stream/mux/cd9b5535c24c54ad5d6a8b5e8b905ed2
 #EXTINF:-1, TRUE EPL HD
 http://116.204.181.238:9981/stream/mux/f753475ce21c80892fe3dce88723d6b1
 #EXTINF:-1, SKynet sport HD
