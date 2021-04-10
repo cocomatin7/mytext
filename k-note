@@ -570,6 +570,32 @@ http://ua1.iptv.monster/play/1497/9290FC45C3932BD/video.m3u8
 Penthouse Gold HD
 http://ua1.iptv.monster/play/8848/AF738B914814063/video.m3u8
 
++ + + + + http://73.85.95.69:9981/extjs.html + + + + +
+
+http://73.85.95.69:9981/stream/mux/6564bc70b9eaa0d1f35892bc9f78ddbb Bratty Sis
+http://73.85.95.69:9981/stream/mux/81325079c0dd25f86cf2d487edfd2244 Brand New Amateurs
+http://73.85.95.69:9981/stream/mux/cb6182713cd034f8beb34e317ed80191 Babes TV HD
+http://73.85.95.69:9981/stream/mux/a47ec20742321e99507d688395a8f2e3 Brazzers TV Europe
+http://73.85.95.69:9981/stream/mux/a4676d2eb68d82d5067740f22592ed13 Big Tits Adult TV
+http://73.85.95.69:9981/stream/mux/ac3fc7cda1ef27fa9e7d2e9a5a5a1fee Beate Uhse
+http://73.85.95.69:9981/stream/mux/42ca023288caad94dab484ceee66cc91 Pink O TV (18+)
+http://73.85.95.69:9981/stream/mux/6bb91c8baf0d12de54e3c9ba01abe0b8 Hot TV (18+)
+http://73.85.95.69:9981/stream/mux/7388fc4a4cccd2cdad7e2f6454ecb71f Bang Bus
+http://73.85.95.69:9981/stream/mux/ccdf1c85de8cf881fa2f332c70f522b2 Sexy HOT (18+)
+http://73.85.95.69:9981/stream/mux/6fdcbc00f7af3be652e4b8cc5f0eb028 Ass Parade
+http://73.85.95.69:9981/stream/mux/d87f7deadc97debf0581b8c4b05846ae Playhouse (18+)
+http://73.85.95.69:9981/stream/mux/a578d2e3a2a2644583c52c4a1fce8747 Dad Crush
+http://73.85.95.69:9981/stream/mux/7dec03c3816add9d5c81cc3b16e47160 21 Sextury
+http://73.85.95.69:9981/stream/mux/de7632d2a452c09bcc9b7b9f5896fd87 Barely Legal TV
+http://73.85.95.69:9981/stream/mux/98cbd33886cec5348751ff4dbb34b906 Brazzers TV Europe (18+)
+http://73.85.95.69:9981/stream/mux/69a2d100affcf1ac25c75f23b39b303b Redlight HD (18+)
+http://73.85.95.69:9981/stream/mux/21c96d17f73b5371d4ecfb561a0c4144 cento x cento
+http://73.85.95.69:9981/stream/mux/cc21170c48ce264ca8fec6cb1d8ad4e2 Babes HD
+http://73.85.95.69:9981/stream/mux/e8ec79a346f6cef6d3add614f266c422 Bang!
+http://73.85.95.69:9981/stream/mux/a6bd653e36c72b2270fd040edc657066 Bang Bros HD
+
++ + + + + http://152.228.154.144:80/ + + + + +
+
 #EXTINF:-1,BBC
 http://152.228.154.144:80/stream/PD2219LVSV/85.m3u8
 #EXTINF:-1,CNN |stream
@@ -2633,6 +2659,26 @@ http://116.204.181.238:9981/stream/channelid/1784672243?ticket=7A2563D1244E690F5
 http://116.204.181.238:9981/stream/channel/f3ef5fea3cf8425665cacb7079fb3a9c?title=Sport%20Klub%20HD
 
 + + + + + http://171.4.161.216:9981/extjs.html + + + + +
+
+
++ + + + + http://180.183.115.141:9981/playlist + + + + +
+
+#EXTINF:-1 group-title="TH/180.183",Service01
+http://180.183.115.141:9981/stream/channelid/1725989479?profile=pass
+#EXTINF:-1 tvg-id="64feb1c9e2eb96fcfc1cba989d01a18d" tvg-chno="1",true1
+http://180.183.115.141:9981/stream/channelid/1236401764?profile=pass
+#EXTINF:-1 tvg-id="352185fbee8b1dcf4f2ad0ac4bac842b" tvg-chno="1",true1//{PMT:4095}
+http://180.183.115.141:9981/stream/channelid/2072322357?profile=pass
+#EXTINF:-1 tvg-id="352185fbee8b1dcf4f2ad0ac4bac842b" tvg-chno="1",true1/
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="50a1344bf45432072d5c15a2474999b7" tvg-chno="1",true1
+http://180.183.115.141:9981/stream/channelid/1261740368?profile=pass
+#EXTINF:-1 tvg-id="50a1344bf45432072d5c15a2474999b7" tvg-chno="1",true1*
+https://node101.cloud-streaming.com/mvcb_x6/premierhd1_720/chunks.m3u8?nimblesessionid=14779311&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMCAxOjI4OjA3IFBNJmhhc2hfdmFsdWU9emJVSml2bFdaTzBiQTk5ZzRjT0tndz09JnZhbGlkbWludXRlcz0yMCZpZD0zMzc2ODgmc3RybV9sZW49M
+#EXTINF:-1 tvg-id="8329d1847e0e3aa969a627dc9ce35225" tvg-chno="2",true1_2
+http://180.183.115.141:9981/stream/channelid/80816515?profile=pass
+#EXTINF:-1 group-title="TH/180.183,true1_1
+http://180.183.115.141:9981/stream/channelid/384966953?profile=pass
 
 + + + + + http://196.53.249.42:9981/extjs.html / https://rebrand.ly/sn-hd-196 + + + + +
 
@@ -10836,6 +10882,11 @@ http://meti-tv.xyz:25461/live/MetiTVakanalet/svOVWvluBT/108.m3u8
 + + + + + mhiptv.com:8888 [beIN] + + + + +
 
 http://mhiptv.com:8888/live/ka5/ka5/3652.m3u8
+
++ + + + + mvu03.wanicelife.com:8880 + + + + +
+
+http://smartersplus.com:8880/get.php?username=SFL122277&password=GECHH4UGU&type=m3u
+Real Url: mvu03.wanicelife.com:8880     Status: Active    Created: 2/2/2021 12:28:23 PM     Expires: 2/2/2022 12:28:23 PM    Active Connections: 0     Maximum Connections: 2
 
 + + + + + muttsnutts.from-mi.com:8090 + + + + +
 
