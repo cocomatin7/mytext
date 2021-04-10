@@ -916,11 +916,14 @@ http://3.239.35.218:9981/stream/mux/1d96796fe35b838ba82e17425134cdc2 MIX 24 Pop
 http://3.239.35.218:9981/stream/mux/9531e1de9f6d3929c2f544e0f9baa240 MIX 24 Conciertos Live
 http://3.239.35.218:9981/stream/mux/b93dcfd1a6815319dfaadc141d168c09 MIX 24 Tropical
 
-
-http://3.239.35.218:9981/stream/service/da03b514735e256b02e96df5a811c2f9 Diema Sport 2 HD
-http://3.239.35.218:9981/stream/service/00efc487e8ed40325a84484a36b41312 Diema Sport
-http://3.239.35.218:9981/stream/service/e19647e6ff532a621b23b59a3b8e4520 beIN SPORTS XTRA
-http://3.239.35.218:9981/stream/service/9c50f327c4cc2d920eefe41097416928 Win Sports+
+#EXTINF:-1, Diema Sport 2 HD
+http://3.239.35.218:9981/stream/service/da03b514735e256b02e96df5a811c2f9
+#EXTINF:-1, Diema Sport
+http://3.239.35.218:9981/stream/service/00efc487e8ed40325a84484a36b41312
+#EXTINF:-1, beIN SPORTS XTRA
+http://3.239.35.218:9981/stream/service/e19647e6ff532a621b23b59a3b8e4520
+#EXTINF:-1, Win Sports+
+http://3.239.35.218:9981/stream/service/9c50f327c4cc2d920eefe41097416928
 #EXTINF:-1, VEVO R&B (US)
 http://3.239.35.218:9981/stream/service/f7a546bab698db8de87ac3496873d0ac
 #EXTINF:-1, VEVO Hip Hop (US)
@@ -931,11 +934,16 @@ http://3.239.35.218:9981/stream/service/703f8cdac1bd458f4420e02a52fc1dfa
 http://3.239.35.218:9981/stream/service/b08323eba0739c983c471433c6e1f4c8
 #EXTINF:-1, VEVO 2K (US)
 http://3.239.35.218:9981/stream/service/a03f80b547d7e24fbd21cca97a7d04c7
-http://3.239.35.218:9981/stream/service/23abeb3b11321c03f77872267e2f5344 beIN SPORTS XTRA
-http://3.239.35.218:9981/stream/service/2a2c2fb883bbf3ce7abb2740a743b737 Win Sports+
-http://3.239.35.218:9981/stream/service/391a4895525914cbe10c271a6da6f13a beIN SPORTS XTRA (720p)
-http://3.239.35.218:9981/stream/service/db2a69f5fbefef40dcb04d6d1a648286 MIX 24 Baladas
-http://3.239.35.218:9981/stream/service/dd7df1c9834f48b130a3c1b70926a251 MIX 24
+#EXTINF:-1, beIN SPORTS XTRA
+http://3.239.35.218:9981/stream/service/23abeb3b11321c03f77872267e2f5344
+#EXTINF:-1, Win Sports+
+http://3.239.35.218:9981/stream/service/2a2c2fb883bbf3ce7abb2740a743b737
+#EXTINF:-1, beIN SPORTS XTRA (720p)
+http://3.239.35.218:9981/stream/service/391a4895525914cbe10c271a6da6f13a
+#EXTINF:-1, MIX 24 Baladas
+http://3.239.35.218:9981/stream/service/db2a69f5fbefef40dcb04d6d1a648286
+#EXTINF:-1, MIX 24
+http://3.239.35.218:9981/stream/service/dd7df1c9834f48b130a3c1b70926a251
 #EXTINF:-1 group-title="3.239", MIX 24 Conciertos Live
 http://3.239.35.218:9981/stream/service/4b7a2579d61c5f86590a2c8eae6c105e
 
