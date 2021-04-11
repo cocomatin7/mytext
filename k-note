@@ -529,6 +529,11 @@ http://www.mcsh.xyz:8080/live/nyinanda/454745/81.m3u8
 
 #EXTINF:-1,Bflix Movie
 https://dreamtv.livebox.co.in/bflixouthls/live.m3u8?Live-TV™
+#EXTINF:-1,crackle
+https://crackle-plex.amagi.tv/playlist720p.m3u8
+#EXTINF:-1,REDBOX
+https://rush-redbox.amagi.tv/playlist720p.m3u8
+
 
 #EXTINF:-1,Paramount Channel HD
 http://ua1.iptv.monster/play/383/26E9D4A46612DC5/video.m3u8
@@ -8594,6 +8599,7 @@ https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/Chunklist.m3u8
  tvg-id="FOX Movies HD",Fox Movies HD MM |doomovie'
 https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+ tvg-id="FOX Movies HD",Fox Movies HD TH |doomovie'
 https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
@@ -9798,10 +9804,14 @@ http://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="IN/y5",& Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF:-1,&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v3a1/index.m3u8
 #EXTINF:-1,& Pics HD
 http://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,& Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
+#EXTINF:-1,&Prive
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v3a1/index.m3u8
 #EXTINF:-1,& TV HD *offline
 https://y5w8j4a9.ssl.hwcdn.net/andtvhd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Zee Cinema",ZEE Cinema
