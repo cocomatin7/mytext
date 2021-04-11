@@ -4184,7 +4184,6 @@ https://www.dropbox.com/s/dl/fvu91fvkr31yngd/mkctv_hbosig.m3u8
 https://www.dropbox.com/s/dl/q09u7xcrpjwi2e4/mkctv_red.m3u8
 
 
-
 #EXTINF:-1,HBO
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/85
 #EXTINF:-1,HBO FAMILY
@@ -4645,155 +4644,155 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 + + + + + http://iptvhit.live/projectadrian/epg/MYTV/7xhDoCdOia + + + + +
 
-#EXTINF:-1 group-title="iptvhit",FOX MOVIES
+ group-title="iptvhit",FOX MOVIES
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/34
-#EXTINF:-1,FOX MOVIES
+,FOX MOVIES
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/91
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,FOX ACTION
+,FOX ACTION
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/92
-#EXTINF:-1,FOX FAMILY
+,FOX FAMILY
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/93
 http://185.238.0.145:1313/c/ku/man/foxfamilymovies.m3u8
-#EXTINF:-1,WARNER
+,WARNER
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/36
 https://cdnjt25.useetv.com/dass/15/warner/chunklist_b1344100_sleng_.m3u8
-#EXTINF:-1,Warna
+,Warna
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/105
 http://vp2p2s.my6868.cc/20424/index.m3u8
-#EXTINF:-1,CNN
+,CNN
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/52
 https://cdnjt25.useetv.com/dass/15/cnninternational/chunklist_b1344100_sleng_.m3u8
-#EXTINF:-1,CH5
+,CH5
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/102
 https://dlau142f16b92.cloudfront.net/hls/clr4ctv_ch5/master.m3u8
-#EXTINF:-1,CH8
+,CH8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/103
 https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
-#EXTINF:-1,CH U
+,CH U
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/110
 https://d3inlz9elsutjl.cloudfront.net/hls/clr4ctv_chu/master.m3u8
-#EXTINF:-1,Ria
+,Ria
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/104
 http://vp2p2s.my6868.cc/20421/index.m3u8
-#EXTINF:-1,Vasantham
+,Vasantham
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/109
 https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
-#EXTINF:-1,ASSP1
+,ASSP1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/54
 
 
 http://vp2p2s.my6868.cc/20414/index.m3u8
-#EXTINF:-1,ASSP2
+,ASSP2
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/55
 
 http://vp2p2s.my6868.cc/20415/sbmc.m3u8
 http://vp2p2s.my6868.cc/20415/index.m3u8
-#EXTINF:-1,ASSP3
+,ASSP3
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/56
 http://vp2p2s.my6868.cc/20416/index.m3u8
-#EXTINF:-1,ASSP4
+,ASSP4
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/57
 http://vp2p2s.my6868.cc/20417/index.m3u8
-#EXTINF:-1,,BEIN 1
+,,BEIN 1
 https://cdnjt25.useetv.com/joss/15/bein1/chunklist_b1344100_sleng_.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/58
-#EXTINF:-1,,BEIN 2
+,,BEIN 2
 https://cdnjt25.useetv.com/joss/15/bein2/chunklist_b1344100_sleng_.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/59
 
-#EXTINF:-1,SKY SPORTS MAIN EVENT
+,SKY SPORTS MAIN EVENT
 http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/76
 
-#EXTINF:-1,SKY SPORTS EPL
+,SKY SPORTS EPL
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/77
-#EXTINF:-1,SKY SPORTS FOOTBALL
+,SKY SPORTS FOOTBALL
 http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/78
-#EXTINF:-1,SKY SPORTS CRICKET
+,SKY SPORTS CRICKET
 http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/playlist.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/79
-#EXTINF:-1,SKY SPORTS GOLF
+,SKY SPORTS GOLF
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/80oCdOia/80
-#EXTINF:-1,SKY SPORTS F1
+,SKY SPORTS F1
 http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/81
 
-#EXTINF:-1,SKY SPORTS ACTION
+,SKY SPORTS ACTION
 http://160.119.77.116:8081/iptv/uk-skysports-action.stream/playlist.m3u8
 
 
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/82
-#EXTINF:-1 group-title="iptvhit",SKY SPORTS ARENA
+ group-title="iptvhit",SKY SPORTS ARENA
 http://160.119.77.116:8081/iptv/uk-skysports-arena.stream/playlist.m3u8
 
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/83
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9OwJW4s.png",TRANS 7
+ tvg-logo="https://i.imgur.com/9OwJW4s.png",TRANS 7
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/17
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HOYaeCw.png",TRANS TV
+ tvg-logo="https://i.imgur.com/HOYaeCw.png",TRANS TV
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/18
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/05F8hNby/motogp-wsbk.jpg",MOTOGP 1
+ tvg-logo="https://i.postimg.cc/05F8hNby/motogp-wsbk.jpg",MOTOGP 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/19
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/05F8hNby/motogp-wsbk.jpg",WSBK 1
+ tvg-logo="https://i.postimg.cc/05F8hNby/motogp-wsbk.jpg",WSBK 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/22
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9uPtEml.png",THRILL
+ tvg-logo="https://i.imgur.com/9uPtEml.png",THRILL
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/35
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fmx7ZmP.png",AXN
+ tvg-logo="https://i.imgur.com/fmx7ZmP.png",AXN
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/37
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png",RTM SPORTS
+ tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png",RTM SPORTS
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/38
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tv1.png",TV1
+ tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tv1.png",TV1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/39
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",TV2
+ tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",TV2
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/40
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/ntv7.png",NTV7
+ tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/ntv7.png",NTV7
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/42
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/8tv.png",8TV
+ tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/8tv.png",8TV
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/43
-#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tv9.png",TV9
+ tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tv9.png",TV9
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/44
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png",DRAMA SANGAT
+ tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png",DRAMA SANGAT
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/45
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D7Rok2T.png",SCTV
+ tvg-logo="https://i.imgur.com/D7Rok2T.png",SCTV
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/47
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RS3w7vV.png",INDOSIAR
+ tvg-logo="https://i.imgur.com/RS3w7vV.png",INDOSIAR
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/48
-#EXTINF:-1 tvg-logo="https://s14.postimg.cc/w9t7y52ox/ID_mnc_tv_zpshi58jhma.png",MNC
+ tvg-logo="https://s14.postimg.cc/w9t7y52ox/ID_mnc_tv_zpshi58jhma.png",MNC
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/49
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rm9ypm0v/RCTI.png",RCTI
+ tvg-logo="https://i.postimg.cc/rm9ypm0v/RCTI.png",RCTI
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/50
-#EXTINF:-1 tvg-logo="https://s18.postimg.cc/hsg8kes4p/ID_global_tv_zpsqptddjo9.png",GTV
+ tvg-logo="https://s18.postimg.cc/hsg8kes4p/ID_global_tv_zpsqptddjo9.png",GTV
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/51
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCYsHVhH/400x400.png",CNA
+ tvg-logo="https://i.postimg.cc/RCYsHVhH/400x400.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/53
-#EXTINF:-1,FOX SPORTS 1
+,FOX SPORTS 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/60
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 https://cdnjt25.useetv.com/joss/15/foxsport1/chunklist_b1344100_sleng_.m3u8
-#EXTINF:-1,FOX SPORTS 2
+,FOX SPORTS 2
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/61
 https://cdnjt25.useetv.com/dass/15/foxsport2/chunklist_b1344100_sleng_.m3u8
-#EXTINF:-1,FOX SPORTS 3
+,FOX SPORTS 3
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/62
 https://cdnjt25.useetv.com/dass/15/foxsport3/chunklist9_b1344100_sleng_.m3u8
 
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |hit
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |hit
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/63
 
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |hit
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |hit
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/64
 http://ip2121.com:8081/at1/ENG2/playlist.m3u8
-#EXTINF:-1,PREMIER 3 |hit
+,PREMIER 3 |hit
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/65
 http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
-#EXTINF:-1,PREMIER 4 |hit
+,PREMIER 4 |hit
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/66
 https://app.mb13.men/c/livedo/truepremierfootball4-hd.m3u8
 http://ip2121.com:8081/at1/ENG4/playlist.m3u8
-#EXTINF:-1,PREMIER 5 |hit
+,PREMIER 5 |hit
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/67
 http://50.7.222.130:8278/streams/d/truepre5_pat/playlist.m3u8
 http://ip2121.com:8081/at1/ENG5/playlist.m3u8
@@ -4806,11 +4805,11 @@ http://160.119.77.116:8081/iptv/bsb-epl2.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/bsb-epl3.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/bsb-epl4.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |185
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball1-hd.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |185
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball2-hd.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3",True Premiere Football HD3 |185
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3",True Premiere Football HD3 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball3-hd.m3u8
 http://185.238.0.145:1313/c/livedo/truepremierfootball4-hd.m3u8
 http://185.238.0.145:1313/c/livedo/truepremierfootball5-hd.m3u8
@@ -4826,19 +4825,19 @@ http://196.53.248.18:8081/premiere/pre01/playlist.m3u8
 http://196.53.248.18:8081/premiere/pre02/playlist.m3u8
 http://196.53.248.18:8081/premiere/pre03/playlist.m3u8
 http://196.53.248.18:8081/premiere/pre04/playlist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |livedo
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |livedo
 https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
 https://app.mb13.men/c/livedo/truepremierfootball1-sd.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |livedo
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |livedo
 https://app.mb13.men/c/livedo/truepremierfootball2-hd.m3u8
 https://app.mb13.men/c/livedo/truepremierfootball2-sd.m3u8
-#EXTINF:-1,PREMIER 3 |livedo
+,PREMIER 3 |livedo
 https://app.mb13.men/c/livedo/truepremierfootball3-hd.m3u8
 https://app.mb13.men/c/livedo/truepremierfootball3-sd.m3u8
-#EXTINF:-1,PREMIER 4 |livedo
+,PREMIER 4 |livedo
 https://app.mb13.men/c/livedo/truepremierfootball4-hd.m3u8
 https://app.mb13.men/c/livedo/truepremierfootball4-sd.m3u8
-#EXTINF:-1,PREMIER 5 |livedo
+,PREMIER 5 |livedo
 https://app.mb13.men/c/livedo/truepremierfootball5-hd.m3u8
 https://app.mb13.men/c/livedo/truepremierfootball5-sd.m3u8
 ,SKYNET EPL HD
@@ -4857,60 +4856,60 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/72
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/73
 ,SKYNET EPL 6
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/74
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B614pJrn/400x400.png",REDBULL TV
+ tvg-logo="https://i.postimg.cc/B614pJrn/400x400.png",REDBULL TV
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/75
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png",FOX
+ tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png",FOX
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/94
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png",FOX CRIME
+ tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png",FOX CRIME
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/95
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9ErjLHU.png",CHAMPION 1
+ tvg-logo="https://i.imgur.com/9ErjLHU.png",CHAMPION 1
 https://cdnjt25.useetv.com/dass/15/champion1/chunklist_b1344100_sleng_.m3u8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/96
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ii5EPA.png",CHAMPION 2
+ tvg-logo="https://i.imgur.com/1Ii5EPA.png",CHAMPION 2
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/97
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHh8zhGJ/400x400.png",Oasis
+ tvg-logo="https://i.postimg.cc/FHh8zhGJ/400x400.png",Oasis
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/106
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHh8zhGJ/400x400.png",Prima
+ tvg-logo="https://i.postimg.cc/FHh8zhGJ/400x400.png",Prima
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/107
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHh8zhGJ/400x400.png",Ceria
+ tvg-logo="https://i.postimg.cc/FHh8zhGJ/400x400.png",Ceria
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/108
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria
+ tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/111
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hv9mTVS9/400x400.png",Bein MY
+ tvg-logo="https://i.postimg.cc/hv9mTVS9/400x400.png",Bein MY
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/112
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hv9mTVS9/400x400.png",Bein Max MY
+ tvg-logo="https://i.postimg.cc/hv9mTVS9/400x400.png",Bein Max MY
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/113
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHh8zhGJ/400x400.png",Citra
+ tvg-logo="https://i.postimg.cc/FHh8zhGJ/400x400.png",Citra
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/114
-#EXTINF:-1,Optus 1
+,Optus 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/115
 
 
 http://catenamode.cf:8090/get.php?username=muttsnuts&password=PzreCs7oYP&type=m3u
 Real Url: muttsnutts.from-mi.com:8090     Status: Active    Created: 16/6/2020 10:23:28 AM     Expires: Null    Active Connections: 148     Maximum Connections: 270     Formats: "m3u8","ts","rtmp"
 
-#EXTINF:-1,Optus 2
+,Optus 2
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/117
-#EXTINF:-1,Optus 3
+,Optus 3
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/118
 
-#EXTINF:-1,Optus 4
+,Optus 4
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/119
-#EXTINF:-1,Optus 5
+,Optus 5
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/120
-#EXTINF:-1,Optus 6
+,Optus 6
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/121
-#EXTINF:-1,Optus 7
+,Optus 7
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/122
-#EXTINF:-1,Optus 8
+,Optus 8
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/123
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFyYLMJn/Zp4v1-Y-L-400x400.jpg",BT 1
+ tvg-logo="https://i.postimg.cc/rFyYLMJn/Zp4v1-Y-L-400x400.jpg",BT 1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/124
 http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFyYLMJn/Zp4v1-Y-L-400x400.jpg",BT 2
+ tvg-logo="https://i.postimg.cc/rFyYLMJn/Zp4v1-Y-L-400x400.jpg",BT 2
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/125
 http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFyYLMJn/Zp4v1-Y-L-400x400.jpg",BT 3
+ tvg-logo="https://i.postimg.cc/rFyYLMJn/Zp4v1-Y-L-400x400.jpg",BT 3
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/126
 http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
 
