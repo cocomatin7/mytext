@@ -642,6 +642,9 @@ HUSTLER http://212.83.130.111/iptv/C2MEK3RMAS8FDC/244/index.m3u8
 REDLIGHT http://212.83.130.111/iptv/C2MEK3RMAS8FDC/242/index.m3u8
 VIVID RED http://212.83.130.111/iptv/C2MEK3RMAS8FDC/2162/index.m3u8
 
+#EXTINF:-1,Bflix Movie
+https://dreamtv.livebox.co.in/bflixouthls/live.m3u8?Live-TV™
+
 #EXTINF:-1,CNN
 http://89.187.189.107/104/video.m3u8?token=0A60B59722A3427
 #EXTINF:-1,BBC World News
