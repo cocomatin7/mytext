@@ -8942,8 +8942,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcf059646c0cf000a
 
 #EXTINF:-1 group-title="tvtap",skysports pl |tvtap
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 #EXTINF:-1 group-title="tvtap",skysports football |tvtap
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/golf.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgOTo1MDozMiBQTSZoYXNoX3ZhbHVlPWdGakZNWm1QK1lnQmZrV2ZwZVZMd2c9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 group-title="tvtap",laligatv |tvtap
 http://stream.tvtap.live:8081/live/es-laligatvbar.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIxIDI6NDI6NDcgUE0maGFzaF92YWx1ZT1vSHZWMXlrN1poaEEzZE5qaTNpSjR3PT0mdmFsaWRtaW51dGVzPTIw
 
