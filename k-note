@@ -6011,6 +6011,111 @@ http://54.37.82.205:8081/liveorigin/epl-bein1_480/chunks.m3u8
 http://54.37.82.205:8081/liveorigin/epl-bein2_480/chunks.m3u8
 http://54.37.82.205:8081/liveorigin/sd-tsports_480/chunks.m3u8
 
++ + + + + 73.68.128.14:9981/playlist + + + + +
+
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/50" tvg-id="9a6d75feac635a6fa07b499f3dc03783" group-title="73.68",24/7 Alvin SuperStar
+http://73.68.128.14:9981/stream/channelid/2121624986?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/46" tvg-id="640e5d74df000031ca90a7c88b59f67f",24/7 Barbie
+http://73.68.128.14:9981/stream/channelid/1952255588?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/44" tvg-id="1b0795f29fc527a949e972a8d91da253",24/7 Cars
+http://73.68.128.14:9981/stream/channelid/1922369307?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/34" tvg-id="76aa4fd753f3a5d89e5db6404feedb79",24/7 Detective Conan
+http://73.68.128.14:9981/stream/channelid/1464838774?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/19" tvg-id="a25a533136f393cc509f4b58fda1d09c",24/7 Disney Plus
+http://73.68.128.14:9981/stream/channelid/827546274?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/26" tvg-id="bd95d7497784d809477b1c5d882604e5",24/7 film 007
+http://73.68.128.14:9981/stream/channelid/1238865341?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/51" tvg-id="be2360ff7456b0f496ce91ad970e31ca",24/7 film 2019
+http://73.68.128.14:9981/stream/channelid/2137007038?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/36" tvg-id="84b0cada8554deecba4380bd476dfa88",24/7 film 2020
+http://73.68.128.14:9981/stream/channelid/1523232900?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/2" tvg-id="5a432d0987bbbab94ffd75751191028e",24/7 film Adriano Celentano
+http://73.68.128.14:9981/stream/channelid/153961306?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/47" tvg-id="e2f68b746786b461ca368e6cebc2579b",24/7 film Aldo Giovanni e Giacomo
+http://73.68.128.14:9981/stream/channelid/1955329762?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/27" tvg-id="7474fc4a398c80848a97025e8f471ba4",24/7 film Alessandro Siani
+http://73.68.128.14:9981/stream/channelid/1258058868?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/1" tvg-id="74d1a60560452913ec8199ab1736ba5c",24/7 film Alvaro Vitali
+http://73.68.128.14:9981/stream/channelid/94818676?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/6" tvg-id="f9266113694e1c3708512c51dd3b9397",24/7 film Avengers
+http://73.68.128.14:9981/stream/channelid/325134073?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/8" tvg-id="70c890171afd316bb9bc9f7fd3ff97c6",24/7 film Bruce Lee
+http://73.68.128.14:9981/stream/channelid/395364464?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/23" tvg-id="8524a7391d6e85e8f925efe1c323bd2c",24/7 film Bud Spencer
+http://73.68.128.14:9981/stream/channelid/967255173?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/35" tvg-id="92eaedd77737cfbcafaa2edf756804b9",24/7 film Checco Zalone
+http://73.68.128.14:9981/stream/channelid/1475209874?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/21" tvg-id="642db2b5ab91bf6689a297bc357fc871",24/7 film cinepanettone
+http://73.68.128.14:9981/stream/channelid/900869476?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/15" tvg-id="54808924d425ff2bab0e630164ac5519",24/7 film Don Camillo
+http://73.68.128.14:9981/stream/channelid/612991060?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/38" tvg-id="6ed6f0638c1b36237117a7a358964f67",24/7 film Fast and Furious
+http://73.68.128.14:9981/stream/channelid/1676727918?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/18" tvg-id="cc7222b06147d501a27318d1a9fc7981",24/7 film Franco e Ciccio
+http://73.68.128.14:9981/stream/channelid/807563980?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/40" tvg-id="d81f84edda5f268f1346f361290732b9",24/7 film gigi proietti
+http://73.68.128.14:9981/stream/channelid/1837375448?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/43" tvg-id="e8f76ef26aeaa90fdd2bd15bdb8e6fb1",24/7 film Harry Potter
+http://73.68.128.14:9981/stream/channelid/1919875048?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/7" tvg-id="eefb3195e21d455b7ba797e40f954ebb",24/7 film kevin Costner
+http://73.68.128.14:9981/stream/channelid/355597294?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/49" tvg-id="9a71d578b4cfeb402ce7a9b0b7c8cef7",24/7 film Leonardo Pieraccioni
+http://73.68.128.14:9981/stream/channelid/2027254170?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/12" tvg-id="820018231ff4eed94c09b03b8502f4d9",24/7 film Lino Banfi
+http://73.68.128.14:9981/stream/channelid/588775554?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/45" tvg-id="67dabdf303d078c73e6428db6e70d76e",24/7 Film Mario Merola
+http://73.68.128.14:9981/stream/channelid/1941822055?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/10" tvg-id="5854d7219f046d50a9f953b06c643080",24/7 film marvel
+http://73.68.128.14:9981/stream/channelid/567759960?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/4" tvg-id="3e8b0e8d23d36d89c61c0d14d27637d1",24/7 film Massimo Troisi
+http://73.68.128.14:9981/stream/channelid/219056958?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/41" tvg-id="7381136e3a7bef3f56a32431661ef253",24/7 film Nicolas Cage
+http://73.68.128.14:9981/stream/channelid/1846772083?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/14" tvg-id="b2da7f2440542d91cf61052775d6790c",24/7 film Nino D'Angelo
+http://73.68.128.14:9981/stream/channelid/612358834?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/28" tvg-id="a98a18ccaac9dfb28a33714243268a6a",24/7 film Paolo Villaggio
+http://73.68.128.14:9981/stream/channelid/1276676777?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/22" tvg-id="98c0a63834515ec0a9415613d9752053",24/7 film Pirati dei Caraibi
+http://73.68.128.14:9981/stream/channelid/950452376?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/42" tvg-id="64d7bcf041073ef5be59a2a6abe002cb",24/7 film Star Wars
+http://73.68.128.14:9981/stream/channelid/1891424100?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/13" tvg-id="b3c56da36a50eccf7ef6a4ca66d43b44",private film Steven Segal
+http://73.68.128.14:9981/stream/channelid/594396595?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/16" tvg-id="ed042d2c278f7b7cabaf1a96b8648579",24/7 film toto'
+http://73.68.128.14:9981/stream/channelid/741147885?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/24" tvg-id="c7e6cc3f61446d696df04c7f2d81b772",24/7 film Vandamme
+http://73.68.128.14:9981/stream/channelid/1070393031?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/33" tvg-id="641e28d3abff2fad2164aedd9e1f88c3",24/7 film Vincenzo Salemme
+http://73.68.128.14:9981/stream/channelid/1395138148?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/37" tvg-id="cc32f0dc5c168372c753de3e051d096e",24/7 Holly e Benji
+http://73.68.128.14:9981/stream/channelid/1559245516?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/29" tvg-id="5ff265cc9151855afbab51b71f14ab32",24/7 I Griffin
+http://73.68.128.14:9981/stream/channelid/1281749599?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/30" tvg-id="b7f9734d77a4d931dc487ba7ea604374",24/7 I Puffi
+http://73.68.128.14:9981/stream/channelid/1299446199?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/31" tvg-id="b739bccfade9f52182fb864dca0dd181",24/7 L'era Glaciale
+http://73.68.128.14:9981/stream/channelid/1337735607?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/48" tvg-id="af4a227685673bc94c990bc785ad979a",24/7 Lego Dc Comics
+http://73.68.128.14:9981/stream/channelid/1981958831?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/32" tvg-id="eba3975287136b5b66760cf641b42054",24/7 Lupin
+http://73.68.128.14:9981/stream/channelid/1385669611?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/11" tvg-id="3af80e22927f0978bc68cf8d4c3ac2fc",24/7 Masha e Orso
+http://73.68.128.14:9981/stream/channelid/571406394?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/9" tvg-id="e09a70212c967a7d3de14b4fb2572814",24/7 mel gibson
+http://73.68.128.14:9981/stream/channelid/561027808?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/17" tvg-id="2f199e2f22dd789b1a24edacbc049d44",24/7 Monster High
+http://73.68.128.14:9981/stream/channelid/798890287?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/5" tvg-id="6b55b110024c7c904f1ec5064faa94aa",24/7 One Piece
+http://73.68.128.14:9981/stream/channelid/280057195?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/39" tvg-id="15fd1eeadb23d719ad60138dca06bb91",24/7 Pokemon
+http://73.68.128.14:9981/stream/channelid/1780415765?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/20" tvg-id="06825eb12aac02a217a55046a6ee8f8c",24/7 Simpson
+http://73.68.128.14:9981/stream/channelid/828277254?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/25" tvg-id="8c2ee1bfd72dd6eae42739791c8a20f2",24/7 Tom And Jerry
+http://73.68.128.14:9981/stream/channelid/1071722124?profile=pass
+#EXTINF:-1 logo="http://73.68.128.14:9981/imagecache/53" tvg-id="53bc24e51695ce09c6f62d220a88f1ca" group-title="73.68",TOM & JERRY CHANNEL
+http://73.68.128.14:9981/stream/channelid/1696906323?profile=pass
+
 + + + + + 77.83.117.60:8888 [https://www.livedoomovie.com] + + + + +
 
 #EXTINF:-1 group-title="77.83",truesports HD 1 |77.83'
@@ -10312,6 +10417,11 @@ http://209.222.101.100:25461/live/tv/tv/77381.m3u8
 #EXTINF:-1 group-title="209.222",Soccer20:
 http://209.222.101.100:25461/live/tv/tv/77382.m3u8
 
++ + + + + 1sn.ns1.name:18800 + + + + +
+
+http://1sn.ns1.name:18800/get.php?username=fadilh66SkypeExYuVeryGood2017Started&password=ggdg1414hfdgdfhfdh24525hfhfhfhfh&type=m3u
+Real Url: 1sn.ns1.name:18800     Status: Active    Created: 14/12/2015 3:18:50 AM     Expires: Null    Active Connections: 48     Maximum Connections: 60
+
 + + + + + appstv.us:25461 + + + + +
 
 #EXTINF:-1 group-title="appstv",NBCSN |appstv
@@ -10389,6 +10499,11 @@ BT Sport 3 HD | http://gesrv01.betstream.tv/live/YMnS21043v/PKd9ks5SLd/67.ts
 TR:BEIN SPORTS 1 HD | http://gesrv01.betstream.tv/live/YMnS21043v/PKd9ks5SLd/47.ts
 TR:BEIN SPORTS 2 HD | http://gesrv01.betstream.tv/live/YMnS21043v/PKd9ks5SLd/48.ts
 TR:BEIN SPORTS 3 HD | http://gesrv01.betstream.tv/live/YMnS21043v/PKd9ks5SLd/49.ts
+
++ + + + + globaliptv.ga:8080 + + + + +
+
+http://globaliptv.ga:8080/get.php?username=1992&password=1992&type=m3u
+Real Url: globaliptv.ga:8080     Status: Active    Created: 13/11/2020 7:46:49 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1
 
 + + + + + globaltv.life:8880 + + + + +
 
