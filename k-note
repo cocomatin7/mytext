@@ -11027,6 +11027,73 @@ http://185.226.88.6:1026/get.php?username=SMYYKzbS0z&password=HRj5TKnrRx&type=m3
 
 http://188.40.76.108:25461/get.php?username=mytv01&password=uSIRzmks51&type=m3u [https://rebrand.ly/188-mytv01] < N
 
++ + + + + 209.145.54.100:25461 + + + + + Null + + + + +
+
+http://209.145.54.100:25461/get.php?username=tm-114-live&password=tm4.xyz&type=m3u
+Real Url: 209.145.54.100:25461     Status: Active    Created: 2/4/2021 5:17:12 PM     Expires: Null    Active Connections: 2     Maximum Connections: 3333
+
+#EXTINF:-1 group-title="209.145",beIN Sports 1 Premium SD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/11.m3u8
+#EXTINF:-1,beIN Sports 2 Premium SD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/12.m3u8
+#EXTINF:-1,beIN Sports 3 Premium SD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/13.m3u8
+#EXTINF:-1,beIN Sports 1 SD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/14.m3u8
+#EXTINF:-1,beIN Sports 2 SD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/15.m3u8
+#EXTINF:-1,beIN Sports 3 SD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/16.m3u8
+#EXTINF:-1,beIN Sports 4 SD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/17.m3u8
+#EXTINF:-1,beIN Sports 5 SD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/18.m3u8
+#EXTINF:-1,beIN Sports 6 SD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/19.m3u8
+#EXTINF:-1,beIN Sports 7 SD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/20.m3u8
+#EXTINF:-1,beIN Sports 1 Premium HD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/144.m3u8
+#EXTINF:-1,beIN Sports 2 Premium HD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/145.m3u8
+#EXTINF:-1,beIN Sports 3 Premium HD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/146.m3u8
+#EXTINF:-1,beIN Sports 1 HD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/147.m3u8
+#EXTINF:-1,beIN Sports 2 HD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/148.m3u8
+#EXTINF:-1,beIN Sports 3 HD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/149.m3u8
+#EXTINF:-1,beIN Sports 4 HD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/150.m3u8
+#EXTINF:-1,beIN Sports 5 HD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/151.m3u8
+#EXTINF:-1,beIN Sports 6 HD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/152.m3u8
+#EXTINF:-1,beIN Sports 7 HD
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/153.m3u8
+#EXTINF:-1,beIN Sports 1 Premium Low
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/21.m3u8
+#EXTINF:-1,beIN Sports 2 Premium Low
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/22.m3u8
+#EXTINF:-1,beIN Sports 3 Premium Low
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/23.m3u8
+#EXTINF:-1,beIN Sports 1 Low
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/24.m3u8
+#EXTINF:-1,beIN Sports 2 Low
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/25.m3u8
+#EXTINF:-1,beIN Sports 3 Low
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/26.m3u8
+#EXTINF:-1,beIN Sports 4 Low
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/27.m3u8
+#EXTINF:-1,beIN Sports 5 Low
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/28.m3u8
+#EXTINF:-1,beIN Sports 6 Low
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/29.m3u8
+#EXTINF:-1 group-title="209.145",beIN Sports 7 Low
+http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/30.m3u8
+
+
 + + + + + 209.222.101.100:25461 + + + + + 10/10/2021 / 5-5 + + + + +
 
 http://209.222.101.100:25461/get.php?username=tv&password=tv&type=m3u
