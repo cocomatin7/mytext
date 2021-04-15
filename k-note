@@ -950,6 +950,35 @@ http://3.239.35.218:9981/stream/service/dd7df1c9834f48b130a3c1b70926a251
 #EXTINF:-1 group-title="3.239", MIX 24 Conciertos Live
 http://3.239.35.218:9981/stream/service/4b7a2579d61c5f86590a2c8eae6c105e
 
++ + + + http://73.85.95.69:9981/extjs.html + + + +
+
+#EXTINF:-1 group-title="73.85", US Premier League TV test
+http://73.85.95.69:9981/stream/mux/8dcaf051a1c98d6b00a8f1278a5586fc
+#EXTINF:-1, Events Only 1 test
+http://73.85.95.69:9981/stream/mux/f60b04f33300dfa70742bb58fdb53d51
+#EXTINF:-1, Events Only 2 test
+http://73.85.95.69:9981/stream/mux/4fb9a5ab2fbe786b1737dee4324be415
+
+http://73.85.95.69:9981/stream/mux/a47ec20742321e99507d688395a8f2e3 XXX Brazzers TV Europe test
+http://73.85.95.69:9981/stream/mux/42ca023288caad94dab484ceee66cc91 XXXPink O TV (18%2B) test
+http://73.85.95.69:9981/stream/mux/6bb91c8baf0d12de54e3c9ba01abe0b8 XXXHot TV (18%2B) test
+http://73.85.95.69:9981/stream/mux/ccdf1c85de8cf881fa2f332c70f522b2 XXXSexy HOT (18%2B) test
+http://73.85.95.69:9981/stream/mux/d87f7deadc97debf0581b8c4b05846ae XXXPlayhouse (18%2B) test
+http://73.85.95.69:9981/stream/mux/de7632d2a452c09bcc9b7b9f5896fd87 XXX Barely Legal TV test
+http://73.85.95.69:9981/stream/mux/98cbd33886cec5348751ff4dbb34b906 XXXBrazzers TV Europe (18%2B) test
+http://73.85.95.69:9981/stream/mux/69a2d100affcf1ac25c75f23b39b303b XXXRedlight HD (18%2B) test
+http://73.85.95.69:9981/stream/mux/21c96d17f73b5371d4ecfb561a0c4144 XXX cento x cento test
+http://73.85.95.69:9981/stream/mux/cc21170c48ce264ca8fec6cb1d8ad4e2 XXX Babes HD test
+
+#EXTINF:-1, US Premier League TV
+http://73.85.95.69:9981/stream/service/9826ce7e962d871bd6215f6bf3c80295
+#EXTINF:-1, Event Only 1
+http://73.85.95.69:9981/stream/service/c6675ec159e8684721d75c380039974f
+#EXTINF:-1, Event Only 2
+http://73.85.95.69:9981/stream/service/140529e76e5e612b75b3d06c102d3872
+#EXTINF:-1 group-title="73.85", Sky Movies Great
+http://73.85.95.69:9981/stream/service/cbaeecc62cca41e46d7b0f1cf08b8a9c
+
 + + + + http://108.48.50.123:9981/extjs.html + + + + * | * + + + + + jayel | samsung7 + + + + + default | default$27 | PSe0WeZ4DuTCJAFY3b2g0uErXVYo
 
 http://108.48.50.123:9981/stream/mux/c4840e804f1b39604e7012b37b0f55d0 WORLD SPORT 19
