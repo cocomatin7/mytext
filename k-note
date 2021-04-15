@@ -672,10 +672,6 @@ http://152.228.154.144:80/stream/BRAU6ZDR72/54.m3u8
 http://152.228.154.144:80/stream/PD2219LVSV/54.m3u8 < Exp
 http://152.228.154.144:80/stream/LRVE26JR5X/54.m3u8 < Exp
 
-http://appstv.us:25461/live/1/2/181.m3u8
-Hustler * http://appstv.us:25461/live/1/2/183.m3u8
-Playboy * http://appstv.us:25461/live/1/2/184.m3u8
-Redlight * http://appstv.us:25461/live/1/2/187.m3u8
 
 ,AsianCrush
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767?X-Plex-Token=MorUy57ijWhGe4ixZb_T
@@ -11238,6 +11234,17 @@ Real Url: 1sn.ns1.name:18800     Status: Active    Created: 14/12/2015 3:18:50 A
 
 #EXTINF:-1 group-title="appstv",NBCSN |appstv
 http://appstv.us:25461/live/1/2/1430.m3u8
+#EXTINF:-1,FOX SPORTS
+http://appstv.us:25461/live/1/2/77.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://appstv.us:25461/live/1/2/78.m3u8
+#EXTINF:-1,FOX SPORTS 3
+http://appstv.us:25461/live/1/2/79.m3u8
+#EXTINF:-1,BEIN SPORTS LA LIGA
+http://appstv.us:25461/live/1/2/29.m3u8
+#EXTINF:-1,BEIN SPORTS Ñ
+http://appstv.us:25461/live/1/2/28.m3u8
+
 #EXTINF:-1,USA | MTV CLASSICS |appstv
 http://appstv.us:25461/live/1/2/1520.m3u8
 #EXTINF:-1,VH1 Classic |appstv
