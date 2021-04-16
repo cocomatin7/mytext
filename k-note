@@ -3204,8 +3204,10 @@ http://edge-stream-07.otv.co.th/livestream/Channel9.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.iptvmate.net/5e935f4e0eb57c600f104da1.png",DVB |mmplay
 https://5a13fe32ef748.streamlock.net/mmplay/dvb/chunklist.m3u8
 https://cdn-edge.otv.co.th/mmplay/dvb/playlist.m3u8
+http://cdn-edge.otv.co.th/mmplay/dvb/playlist.m3u8
 https://edge-stream-05.otv.co.th/mmplay/dvb/chunklist.m3u8
 https://edge-stream-07.otv.co.th/livestream/DVB.stream/playlist.m3u8
+
 
  MaharBawDi | OTV /OFF
 https://cdn-edge.otv.co.th/mmplay/Mahar.stream/playlist.m3u8
@@ -3271,6 +3273,8 @@ https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/dvb.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="MM /misc", Mahar |167.71
 http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8
+#EXTINF:-1 group-title="MM /misc", Mahar |cf
+https://d2e3tk355loocn.cloudfront.net/stream.m3u8
 #EXTINF:-1, Mahar |ooredoo
 https://live.mahar.tv/channel/mahar-ooredoo.smil/mahar-ooredoo.m3u8
 #EXTINF:-1 group-title="MM /misc", Mahar |streaml
@@ -4759,6 +4763,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
  tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png",Channel News Asia
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png",Channel News Asia
+https://d2ko4czujk9652.cloudfront.net/hls/clr4ctv_cnas/master.m3u8
+https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
+
+
 #EXTINF:-1 group-title="SG",8新闻台
 https://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master.m3u8
 #EXTINF:-1 group-title="SG" group-title="SG",CH 8
@@ -11033,6 +11042,9 @@ http://104.218.61.161:83/get.php?username=directline76598&password=35222AM020342
 
 http://176.98.26.37:8000/streaming/clients_live.php?extension=m3u8&username=tivi&password=best&stream=28&type=hls
 
+http://176.9.31.213:7080/get.php?username=live_channel&password=e71sq94uo8&type=m3u < to check
+
+
 http://176.9.31.213:7080/live/live_channel/e71sq94uo8/60.ts
 http://176.9.31.213:7080/live/live_channel/e71sq94uo8/61.ts
 http://176.9.31.213:7080/live/live_channel/e71sq94uo8/62.ts
@@ -11089,6 +11101,8 @@ http://176.9.31.213:7080/live/live_channel/e71sq94uo8/97.ts
 http://176.9.31.213:7080/live/live_channel/e71sq94uo8/98.ts
 http://176.9.31.213:7080/live/live_channel/e71sq94uo8/99.ts
 
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/103.ts
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/105.ts
 
 + + + + + 185.226.88.6:1026 + + + + +
 
@@ -11168,7 +11182,10 @@ http://209.145.54.100:25461/live/tm-114-live/tm4.xyz/30.m3u8
 + + + + + 209.222.101.100:25461 + + + + + 10/10/2021 / 5-5 + + + + +
 
 http://209.222.101.100:25461/get.php?username=tv&password=tv&type=m3u
-Real Url: 209.222.101.100:25461     Status: Active    Created: 10/10/2020 11:25:57 PM     Expires: 10/10/2021 11:25:57 PM    Active Connections: 3     Maximum Connections: 5
+Real Url: 209.222.101.100:25461     Status: Active    Created: 10/10/2020 11:25:57 PM     Expires: 10/10/2021 11:25:57 PM    Active Connections: 5     Maximum Connections: 5
+http://supersonictv.live:25461/get.php?username=dalvin&password=dalvin&type=m3u
+Real Url: 209.222.101.100:25461     Status: Active    Created: 3/6/2020 3:34:15 AM     Expires: 13/12/2021 5:34:43 PM    Active Connections: 2     Maximum Connections: 2
+
 
 #EXTINF:-1 group-title="209.222",USA MTV Classic
 http://209.222.101.100:25461/live/tv/tv/13751.m3u8
