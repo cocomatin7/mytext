@@ -12004,8 +12004,56 @@ http://vmrs.ddns.net:80/get.php?username=nordtv&password=KfjHwoZ4WF&type=m3u < N
 
 + + + + + www.aloka-iptv.xyz:443-null + + + + + AR CH + + + + +
 
-https://www.aloka-iptv.xyz:443/get.php?username=MEGA-TV32&password=TELEGRAM&type=m3u
-Real Url: www.aloka-iptv.xyz:80     Status: Active    Created: 8/4/2021 4:30:14 PM     Expires: Null    Active Connections: 0     Maximum Connections: 200
+https://www.aloka-iptv.xyz:443/get.php?username=MEGA-TV32&password=TELEGRAM&type=m3u Expires: Null    Active Connections: 0     Maximum Connections: 200 < N?
+
+https://www.aloka-iptv.xyz:443/get.php?username=MEGA-TV19&password=TELEGRAM&type=m3u www.aloka-iptv.xyz:80 Expires: Null    Active Connections: 1     Maximum Connections: 100
+
+#EXTINF:-1 group-title="aloka",BEIN SPORTS 1 HD PREMIUM
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/1.m3u8
+#EXTINF:-1,BEIN SPORTS 2 HD PREMIUM
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/2.m3u8
+#EXTINF:-1,BEIN SPORTS 3 HD PREMIUM
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/3.m3u8
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/4.m3u8
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/5.m3u8
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/6.m3u8
+#EXTINF:-1,BEIN SPORTS 4 HD
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/7.m3u8
+#EXTINF:-1,BEIN SPORTS 5 HD
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/8.m3u8
+#EXTINF:-1,BEIN SPORTS 6 HD
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/9.m3u8
+#EXTINF:-1,BEIN SPORTS 7 HD
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/10.m3u8
+#EXTINF:-1,beIN Sport 1 Premium SD
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/11.m3u8
+#EXTINF:-1,beIN Sport 2 Premium SD
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/12.m3u8
+#EXTINF:-1,beIN Sport 3 Premium SD
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/13.m3u8
+#EXTINF:-1,beIN Sports 1 SD
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/14.m3u8
+#EXTINF:-1,beIN Sports 2 SD
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/15.m3u8
+#EXTINF:-1,bein Sport 3 SD
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/16.m3u8
+#EXTINF:-1,beIN Sport SD 4
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/17.m3u8
+#EXTINF:-1,beIN Sport SD 5
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/18.m3u8
+#EXTINF:-1,BEIN SPORTS 1 LOW PREMIUM
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/19.m3u8
+#EXTINF:-1,BEIN SPORTS 2 LOW PREMIUM
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/20.m3u8
+#EXTINF:-1,BT SPORTS 1
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/137.m3u8
+#EXTINF:-1,BT SPORTS 2
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/138.m3u8
+#EXTINF:-1 group-title="aloka",BT SPORTS 3
+http://www.aloka-iptv.xyz:80/live/MEGA-TV19/TELEGRAM/139.m3u8
 
 + + + + + xtream-ui03.feel-tv.com:25461-null + + + + +
 
