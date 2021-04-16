@@ -5054,6 +5054,7 @@ https://www.dropbox.com/s/5u8m1owjbwvnlqf/HBOFAM.m3u8?dl=1
 https://www.dropbox.com/s/nm9vobcwjc1wh6i/CINEMAXX.m3u8?dl=1
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies",RED by HBO |db
 https://www.dropbox.com/s/1wmlsklnt5xcfie/REDX.m3u8?dl=1
+
 #EXTINF:-1 tvg-id="Cinemax HD" group-title="movies", CINEMAX |fdtv
 http://fdtvapps.xyz/channel/cinemax.m3u8
 #EXTINF:-1 tvg-id="HBO HD", HBO |fdtv
@@ -5064,6 +5065,19 @@ http://fdtvapps.xyz/channel/hbofam.m3u8
 http://fdtvapps.xyz/channel/hbohits.m3u8
 #EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO |fdtv
 http://fdtvapps.xyz/channel/red.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax HD" group-title="movies", CINEMAX | jkl
+https://jkl.masuk.id/nb/MAX/index.m3u8
+#EXTINF:-1 tvg-id="HBO HD", HBO | jkl
+https://jkl.masuk.id/nb/HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBO Family HD", HBO FAMILY | jkl
+https://jkl.masuk.id/nb/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBO Hits HD", HBO HiTS | jkl
+https://jkl.masuk.id/nb/HITS/index.m3u8
+#EXTINF:-1 tvg-id="HBO Signature HD",HBO Signature | jkl
+https://jkl.masuk.id/nb/SIG/index.m3u8
+#EXTINF:-1 tvg-id="RED BY HBO HD" group-title="movies", RED BY HBO | jkl
+https://jkl.masuk.id/nb/RED/index.m3u8
 
 
 #EXTINF:-1 group-title="movies", ID:Cinemax SD
@@ -11776,7 +11790,7 @@ http://pie.buzz:83/live/Peter.nyr1909/6547736256/386620.m3u8
 
 + + + + + portal.simiptv.co.uk:8080 + + + + +
 
-http://portal.simiptv.co.uk:8080/get.php?username=alipajiuk&password=oRGQpcPAkZ&type=m3u < Null < 100-99
+http://portal.simiptv.co.uk:8080/get.php?username=alipajiuk&password=oRGQpcPAkZ&type=m3u Expires: Null    Connections: 100-101
 
 #EXTINF:-1 group-title="simiptv",IND_& Flix HD
 http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/335.m3u8
