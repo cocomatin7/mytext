@@ -3481,6 +3481,9 @@ http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 group-title="TH/50.7",TVN HD
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1,Tvnmovie |185
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+
 ,Prima HD
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 ,TV2 HD
