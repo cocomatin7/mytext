@@ -12026,11 +12026,8 @@ http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/144841.m3u
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/266844.m3u8
 #EXTINF:-1,ID: beIN Sports 1 HD
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165105.m3u8
-#EXTINF:-1,ID: beIN Sports 2 HD
+#EXTINF:-1 group-title="tree",ID: beIN Sports 2 HD
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165073.m3u8
-
-
-
 
 + + + + + jo.sarhantv.com:8880 + + + + + beIN CH + + + + +
 
