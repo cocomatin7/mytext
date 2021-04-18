@@ -951,35 +951,6 @@ http://3.239.35.218:9981/stream/service/dd7df1c9834f48b130a3c1b70926a251
 #EXTINF:-1 group-title="3.239", MIX 24 Conciertos Live
 http://3.239.35.218:9981/stream/service/4b7a2579d61c5f86590a2c8eae6c105e
 
-+ + + + http://73.85.95.69:9981/extjs.html + + + +
-
-#EXTINF:-1 group-title="73.85", US Premier League TV |73.85
-http://73.85.95.69:9981/stream/mux/8dcaf051a1c98d6b00a8f1278a5586fc
-#EXTINF:-1, Events Only 1 |73.85
-http://73.85.95.69:9981/stream/mux/f60b04f33300dfa70742bb58fdb53d51
-#EXTINF:-1, Events Only 2 |73.85
-http://73.85.95.69:9981/stream/mux/4fb9a5ab2fbe786b1737dee4324be415
-
-http://73.85.95.69:9981/stream/mux/a47ec20742321e99507d688395a8f2e3 XXX Brazzers TV Europe test
-http://73.85.95.69:9981/stream/mux/42ca023288caad94dab484ceee66cc91 XXXPink O TV (18%2B) test
-http://73.85.95.69:9981/stream/mux/6bb91c8baf0d12de54e3c9ba01abe0b8 XXXHot TV (18%2B) test
-http://73.85.95.69:9981/stream/mux/ccdf1c85de8cf881fa2f332c70f522b2 XXXSexy HOT (18%2B) test
-http://73.85.95.69:9981/stream/mux/d87f7deadc97debf0581b8c4b05846ae XXXPlayhouse (18%2B) test
-http://73.85.95.69:9981/stream/mux/de7632d2a452c09bcc9b7b9f5896fd87 XXX Barely Legal TV test
-http://73.85.95.69:9981/stream/mux/98cbd33886cec5348751ff4dbb34b906 XXXBrazzers TV Europe (18%2B) test
-http://73.85.95.69:9981/stream/mux/69a2d100affcf1ac25c75f23b39b303b XXXRedlight HD (18%2B) test
-http://73.85.95.69:9981/stream/mux/21c96d17f73b5371d4ecfb561a0c4144 XXX cento x cento test
-http://73.85.95.69:9981/stream/mux/cc21170c48ce264ca8fec6cb1d8ad4e2 XXX Babes HD test
-
-#EXTINF:-1, US Premier League TV ||73.85
-http://73.85.95.69:9981/stream/service/9826ce7e962d871bd6215f6bf3c80295
-#EXTINF:-1, Event Only 1 ||73.85
-http://73.85.95.69:9981/stream/service/c6675ec159e8684721d75c380039974f
-#EXTINF:-1, Event Only 2 ||73.85
-http://73.85.95.69:9981/stream/service/140529e76e5e612b75b3d06c102d3872
-#EXTINF:-1 group-title="73.85", Sky Movies Great ||73.85
-http://73.85.95.69:9981/stream/service/cbaeecc62cca41e46d7b0f1cf08b8a9c
-
 + + + + http://108.48.50.123:9981/extjs.html + + + + * | * + + + + + jayel | samsung7 + + + + + default | default$27 | PSe0WeZ4DuTCJAFY3b2g0uErXVYo
 
 #EXTINF:-1 group-title="108.48",1xNFL RED ZONE Local
@@ -2126,220 +2097,10 @@ http://108.48.50.123:9981/stream/service/7bb11fe105d53c01e47eb2030a7e3a4c
 #EXTINF:-1 group-title="108.48", Now 90s
 http://108.48.50.123:9981/stream/service/d5adc009a690c7e479bb6f4cfcd8aefe
 
+
++ + + +  http://116.255.9.228:9981//extjs.html + + + + +
+
 + + + + http://139.99.84.196:8822/extjs.html + + + + + SG + + + + + +
-
-#EXTINF:-1 tvg-id="70ad54a5f0bdfe84cf5345bd99c8c4dc" group-title="101.127",CNA
-http://101.127.128.44:9981/stream/channelid/626306416?ticket=A3B31367CED6364F9B1C7745AF3DC26C0E6EB557&profile=pass
-#EXTINF:-1 tvg-id="074b5b58caa4032fb3cea403eef32c99",Channel 5
-http://101.127.128.44:9981/stream/channelid/1482377991?ticket=AE4400E777F5C44271F3A3EF7D1593B7F3196BF7&profile=pass
-#EXTINF:-1 tvg-id="b7042ce20ba00bc2320afacd4b43c099",Channel 8
-http://101.127.128.44:9981/stream/channelid/1647051959?ticket=F63D4C1C9B96B6441B6CAE80F2C4E40766428A25&profile=pass
-#EXTINF:-1 tvg-id="3c05f8e399abe076a13ff1bb17714840",Channel U
-http://101.127.128.44:9981/stream/channelid/1677198652?ticket=E98046F751B53D6755A1946E32755A0336E42B81&profile=pass
-#EXTINF:-1 tvg-id="42fa646afc2f8482f73977d2461d1d01",Suria
-http://101.127.128.44:9981/stream/channelid/1785002562?ticket=F19E1BFE0EDAA1BBE7C39C5803C1211BBE2EC6CD&profile=pass
-#EXTINF:-1 tvg-id="8dab81d59b6a48fee9d83f82813ae61a" group-title="101.127",Vasantham
-http://101.127.128.44:9981/stream/channelid/1434561421?ticket=37E5D392E275A91CA6D2B19D44DDE9BEB29F82B0&profile=pass
-
-#EXTINF:-1 group-title="139.99", LIVE EVENT 02
-http://139.99.84.196:8822/stream/mux/fdee9ca8681fe6e7cbb4df2126581021
-#EXTINF:-1, LIVE EVENT 03
-http://139.99.84.196:8822/stream/mux/d69c4ba07e8f1b483bee9be1513b07f0
-#EXTINF:-1, LIVE EVENT 01
-http://139.99.84.196:8822/stream/mux/761219ec0c0d209701c812b5c0706518
-#EXTINF:-1, CINEMAX
-http://139.99.84.196:8822/stream/mux/404cc85b4fea4c408f63c47d871b820a
-#EXTINF:-1, BEIN 01 HD
-http://139.99.84.196:8822/stream/mux/9272745465ad7ebf1b9dfbb9b3be3043
-#EXTINF:-1, FOX SPORT 03 HD
-http://139.99.84.196:8822/stream/mux/6de6576a73cde9539e0fe8956afd693d
-http://139.99.84.196:8822/stream/mux/c4616f04fc5c2581cfb05ba5c703b645 S ONE
-http://139.99.84.196:8822/stream/mux/a50a37d41156682c06108ba4b09d7ef7 K PLUS HD
-#EXTINF:-1, CHAMPIONS TV2 HD
-http://139.99.84.196:8822/stream/mux/af0027bd476a8fe29a4c947489b0a852
-http://139.99.84.196:8822/stream/mux/9da9680a13813d8cef306c4e8f2d44f0 BLOOMBERG
-http://139.99.84.196:8822/stream/mux/2e0e4b0a986ffe118dbe4d242d5ee930 FOX SPORT 01
-http://139.99.84.196:8822/stream/mux/648fb3083e983e2b46a361b360170909 FOX SPORT 03
-#EXTINF:-1, CNN
-http://139.99.84.196:8822/stream/mux/99794a114db14dc8bd787bd07b165173
-http://139.99.84.196:8822/stream/mux/d9be2acaaa0d28f059d56867318e1f84 TVN
-#EXTINF:-1, FOX ACTION MOVIES 
-http://139.99.84.196:8822/stream/mux/b1a937958e65db60ed8a17bca684df7b
-#EXTINF:-1, HBO
-http://139.99.84.196:8822/stream/mux/b09397e025997b5cfbb7b2c4e3a423da
-#EXTINF:-1, RED BY HBO
-http://139.99.84.196:8822/stream/mux/d134ae0a4ced79d97365e1f9ba711607
-#EXTINF:-1, FOX MOVIES PREMIUM  HD
-http://139.99.84.196:8822/stream/mux/321902b92cc251d2967427bfa7e2bb88
-#EXTINF:-1, HBO HITS HD
-http://139.99.84.196:8822/stream/mux/4833e8796ad9e4c562480d0224e6d987
-#EXTINF:-1, CINEMA WORD
-http://139.99.84.196:8822/stream/mux/88b6d187d3f06b59844c15b6a0d141a8
-http://139.99.84.196:8822/stream/mux/61bfd7bec91e94e7d29b2b8dead37d52 FOX MOVIES PREMIUM 
-http://139.99.84.196:8822/stream/mux/aa1b17aeccc2f1cfa21a18c2f68abe7f CHAMPIONS TV1 HD
-http://139.99.84.196:8822/stream/mux/e6285992f69066a7c9b113e70cf3c578 FLIK 
-http://139.99.84.196:8822/stream/mux/e781886344267c3e7286b96b3eed5a9d FOX FAMILY HD
-http://139.99.84.196:8822/stream/mux/969909604c77f9255e47a1295b8ebc7e WARNER
-http://139.99.84.196:8822/stream/mux/eeb7099bfb5727270d7b4ac1e0b55cd8 HBO HITS 
-http://139.99.84.196:8822/stream/mux/d11a0074abf0b5ddb9587c170cb0eae5 HBO FAMILY
-http://139.99.84.196:8822/stream/mux/1a5af88a0286a8c7400054c2ce632369 FOX SPORT 01 HD
-http://139.99.84.196:8822/stream/mux/1c85826aac1df26daa5f88935614ca60 CHAMPIONS TV1
-http://139.99.84.196:8822/stream/mux/66c3aadbfa31ff2dd0bc9de59d94ae18 CINEMAX HD
-http://139.99.84.196:8822/stream/mux/44dcd73351e479f9253b047c43954393 FOX ACTION MOVIES HD
-http://139.99.84.196:8822/stream/mux/c5e37e4938362da6c9fce0d46d4b3123 K PLUS
-http://139.99.84.196:8822/stream/mux/2c488bca8ce6055bf9c0c6151a68af09 KBS WORLD HD
-http://139.99.84.196:8822/stream/mux/2e9204184b0e9f68de6634492049e5dc WARNER HD
-http://139.99.84.196:8822/stream/mux/b0e1a807a12e7208bb02b79f74798604 TVNMOVIES
-http://139.99.84.196:8822/stream/mux/dfdd015c7687258f25770e9b8b7796ef BEIN 02
-http://139.99.84.196:8822/stream/mux/1031fb102b673ca56c92194cce91b492 CHAMPIONS TV2
-http://139.99.84.196:8822/stream/mux/5e9f1934793c179d068cafcb19688a4b RED BY HBO (HD)
-http://139.99.84.196:8822/stream/mux/dfd5731a6b5075e2af4c0b648685c69c DREAMWORK
-http://139.99.84.196:8822/stream/mux/3d7242bdb738e256ec61e990630b5419 BEIN 02 HD
-http://139.99.84.196:8822/stream/mux/9f36d2d80252b498302053a4aa74d26c FOX FAMILY
-http://139.99.84.196:8822/stream/mux/2d78da960cd162a7d7c4582b8337e517 USEE SPORTS 2
-http://139.99.84.196:8822/stream/mux/9718d5df7b01f042dc1e76f993c8fca0 HBO FAMILY HD
-http://139.99.84.196:8822/stream/mux/357e4fb79e92bc0ff83e28f4e203bd00 USEE SPORTS 1
-http://139.99.84.196:8822/stream/mux/0cd936159337167d31718d778c3733b7 KBS WORLD
-http://139.99.84.196:8822/stream/mux/30f618245b9a8d0eec85adfc61b7ba8e HBO SIGNATURE 
-http://139.99.84.196:8822/stream/mux/44c4ed6f7361ec208bed9ff60cbb1793 FOX SPORT 02
-http://139.99.84.196:8822/stream/mux/232a23a37ee7ad0a2a6300f866518915 BEIN 01
-http://139.99.84.196:8822/stream/mux/3fd51c934bb14cc25afc757573ecbef8 HBO SIGNATURE HD
-http://139.99.84.196:8822/stream/mux/66e3aa6b69e8d09a555d7662ec8206b0 HBO HD
-
-#EXTINF:-1, BEIN SPORT 1 HD
-http://139.99.84.196:8822/stream/service/780b8cc431f7504a21cca2fea9ae431e
-#EXTINF:-1, BEIN SPORT 1 SD
-http://139.99.84.196:8822/stream/service/9188df2996e7579fe16fc65b136a8d3d
-#EXTINF:-1, BEIN SPORT 2 HD
-http://139.99.84.196:8822/stream/service/b64aecd5c0d76d6569322dc09c819097
-#EXTINF:-1, BEIN SPORT 2 SD
-http://139.99.84.196:8822/stream/service/ef4c84e414698761a9b0521997a9b8a8
-http://139.99.84.196:8822/stream/service/2ca2a11539aabbff68fe55a933ca20df BLOOMBERG SD
-http://139.99.84.196:8822/stream/service/eeda933f8d3befb6bc6a39afc90c59f6 CHAMPIONS TV1
-http://139.99.84.196:8822/stream/service/a73d5477dd0b738752f4d417397f4dff CHAMPIONS TV1 HD
-http://139.99.84.196:8822/stream/service/0e55165273cba82f454d80b466c51521 CHAMPIONS TV2
-http://139.99.84.196:8822/stream/service/d15ea80334a408861d301ebeb4010ab5 CHAMPIONS TV2 HD
-http://139.99.84.196:8822/stream/service/652600680c85b26948c1beb8c3860583 CINEMA WORLD SD
-#EXTINF:-1, CINEMAX HD
-http://139.99.84.196:8822/stream/service/29e2b526bcb99dd20df3040c72d80802
-#EXTINF:-1, CINEMAX SD
-http://139.99.84.196:8822/stream/service/907fa922144e846b0ff3f490bddb8478
-http://139.99.84.196:8822/stream/service/1599328fab51fe529a45182b44d53e8e CNN INTERNATIONAL SD
-http://139.99.84.196:8822/stream/service/ab12c6949a8f9aa0c962e890cc3f2f5a DREAMWORKS SD
-http://139.99.84.196:8822/stream/service/af835950af10f938c98864dcc8ba36b0 Dreamworks HD
-http://139.99.84.196:8822/stream/service/9196aa8c6a342bd3f3c34b6340ddab08 FLIK HD
-http://139.99.84.196:8822/stream/service/d126bfc3274f1ed7b78d197f9673a7c2 FLIK SD
-http://139.99.84.196:8822/stream/service/e8e086396c1a441b00fd84bccb672994 FOX ACTION MOVIE SD
-http://139.99.84.196:8822/stream/service/df83d9043c86f3b5d9e1d01e46391703 FOX ACTION MOVIES HD
-http://139.99.84.196:8822/stream/service/1a13535308f6dab2ed5c5fdee723d650 FOX FAMILY MOVIE HD
-http://139.99.84.196:8822/stream/service/c670fb819b9dfdf70e72b8068757efc8 FOX FAMILY MOVIE SD
-http://139.99.84.196:8822/stream/service/4d674f2c3749712ed6791e0bfb4fbe53 FOX MOVIE PREMIUM HD
-http://139.99.84.196:8822/stream/service/665441490e63a4446f6572d243a17493 FOX MOVIE PREMIUM SD
-http://139.99.84.196:8822/stream/service/be454167462fbd810578ca5f1804c709 HBO FAM HD
-http://139.99.84.196:8822/stream/service/94aaf9437e88e0f97f60e9523c2b875e HBO FAMILY SD
-http://139.99.84.196:8822/stream/service/0980bc4bcdc8db6774980e1ad74fe019 HBO HD
-http://139.99.84.196:8822/stream/service/067de3d565a05ea9163ba4c9e858f370 HBO HITS HD
-http://139.99.84.196:8822/stream/service/fe865148c699905f31f7e7ca499eb75d HBO HITS SD
-http://139.99.84.196:8822/stream/service/26a290605377c5d142dc6883bf948012 HBO SD
-http://139.99.84.196:8822/stream/service/61b7839114b37c78c155bdf72537c42e HBO SIG HD
-http://139.99.84.196:8822/stream/service/12a69c9a13117611eb7342dda9ae2f91 HBO SIGNATURE SD
-http://139.99.84.196:8822/stream/service/08975489588e5b2165e70c557cd2df63 K PLUS HD
-http://139.99.84.196:8822/stream/service/6befebd5eb850c948f4d148458adaa0e K PLUS SD
-http://139.99.84.196:8822/stream/service/994200804eb28f2fce7aa8f646a90b31 KBS WORLD SD
-http://139.99.84.196:8822/stream/service/57b65e8098bba6b31f9d61b78b5b9a70 Live %2F Encoder
-http://139.99.84.196:8822/stream/service/310b3a5cd56b5169099b5a243b872eaa RED HD
-http://139.99.84.196:8822/stream/service/e1cb761cff05f88f26a890af3972730c RED SD
-http://139.99.84.196:8822/stream/service/9d55449bb33de96295b0f9eac9ecd816 S-ONE
-http://139.99.84.196:8822/stream/service/b39417abeb8c4a149e384d18662bcefc LIVE EVENT 04
-http://139.99.84.196:8822/stream/service/3b9ac473d57afd68fbd3f63c6a4cd6bf LIVE EVENT 03
-http://139.99.84.196:8822/stream/service/cf6599a111be635df476edf81380adaa LIVE EVENT 01
-http://139.99.84.196:8822/stream/service/3ad093868f16521e8494a48e3df6920d TVNMOVIES
-http://139.99.84.196:8822/stream/service/820fa0322c9893f35f2dc4e4e8bee1e4 USEE SPORTS 1
-http://139.99.84.196:8822/stream/service/ebcb94ac6d194b7c58c4ae8ad47bd623 USEE SPORTS 2
-http://139.99.84.196:8822/stream/service/666269d15cfccb06aecff46f620caf5a WARNER SD
-
-#EXTINF:-1 group-title="139.99", 29 BEIN 01
-http://139.99.84.196:8822/stream/channel/b416158cee1e9a2fe2a1c47fd8e7b182
-#EXTINF:-1, 30 BEIN 01 HD
-http://139.99.84.196:8822/stream/channel/6536f825f1b2daaf2fc1eeef6d9925a3
-#EXTINF:-1, 31 BEIN 02
-http://139.99.84.196:8822/stream/channel/1e6df35737e68acd83740640093c7d6e
-#EXTINF:-1, 32 BEIN 02 HD
-http://139.99.84.196:8822/stream/channel/767b318b9f1de576e13c5d4f1262174c
-#EXTINF:-1, 120 BLOOMBERG
-http://139.99.84.196:8822/stream/channel/85af4801b0559f15dacb1db0b27b3237
-#EXTINF:-1, 101 CINEMA WORD
-http://139.99.84.196:8822/stream/channel/209d91c2f6225112212bac956015bca1
-#EXTINF:-1, 98 CINEMAX
-http://139.99.84.196:8822/stream/channel/ba6ff7d4643fd03482d402b1d2242169
-#EXTINF:-1, 99 CINEMAX HD
-http://139.99.84.196:8822/stream/channel/f06f586988cf9a9edcefe1abe44c8cc1
-#EXTINF:-1, 104 CNN
-http://139.99.84.196:8822/stream/channel/de98fc1e3e70066d52d8f625280c50db
-#EXTINF:-1, 65 FLIK
-http://139.99.84.196:8822/stream/channel/d11f4d8993f310ebc98f846997647af5 
-#EXTINF:-1, 66 FLIK HD
-http://139.99.84.196:8822/stream/channel/18cb464554a68fb8fe4fa8b5343d2e01
-#EXTINF:-1, 69 FOX ACTION MOVIES
-http://139.99.84.196:8822/stream/channel/9df07a0022ce69da92c20eefec65ad72
-#EXTINF:-1, 70 FOX ACTION MOVIES HD
-http://139.99.84.196:8822/stream/channel/55368575133651d146656cc9c7040b16
-#EXTINF:-1, 73 FOX FAMILY
-http://139.99.84.196:8822/stream/channel/fcc9e55d14f296d9d1d0f9c315d21ece
-#EXTINF:-1, 74 FOX FAMILY HD
-http://139.99.84.196:8822/stream/channel/bc42e8132f6b57b51c358c8ab5610d76
-#EXTINF:-1, 77 FOX MOVIES PREMIUM 
-http://139.99.84.196:8822/stream/channel/877b314304885e9e775d0eea36afb7ed
-#EXTINF:-1, 78 FOX MOVIES PREMIUM  HD
-http://139.99.84.196:8822/stream/channel/aa1b14f6adc0882ab71f5694dd4f45e3
-#EXTINF:-1, 79 HBO
-http://139.99.84.196:8822/stream/channel/c9fd2f971c3fd83971248b3e2559c888
-#EXTINF:-1, 81 HBO FAMILY
-http://139.99.84.196:8822/stream/channel/8b53e417fd63e7572bfc36355954c771
-#EXTINF:-1, 82 HBO FAMILY HD
-http://139.99.84.196:8822/stream/channel/b86ef77c7147122f5b49d67350f237d2
-#EXTINF:-1, 80 HBO HD
-http://139.99.84.196:8822/stream/channel/5c913a8ebd57332df29fd12d4d2e294d
-#EXTINF:-1, 83 HBO HITS
-http://139.99.84.196:8822/stream/channel/2a8729f599520435d08734652db4ea45 
-#EXTINF:-1, 84 HBO HITS HD
-http://139.99.84.196:8822/stream/channel/8b49eaa01871281c67395e94ac7b160a
-#EXTINF:-1, 85 HBO SIGNATURE
-http://139.99.84.196:8822/stream/channel/da529a11160865256b1375519a890450 
-#EXTINF:-1, 86 HBO SIGNATURE HD
-http://139.99.84.196:8822/stream/channel/d0a034b871a3ef2f462ba997d38c9766
-http://139.99.84.196:8822/stream/channel/29826622561a9324d12fdb437207451a 116 K PLUS
-http://139.99.84.196:8822/stream/channel/97d0d0efef3d5b902506295899da7b87 117 K PLUS HD
-#EXTINF:-1, 114 KBS WORLD
-http://139.99.84.196:8822/stream/channel/efe5e185e4702875f7710f472dc85d48
-#EXTINF:-1, 115 KBS WORLD HD
-http://139.99.84.196:8822/stream/channel/cdc69eda5356369a23c5e28c39e525cf
-#EXTINF:-1, 122 LIVE EVENT 01
-http://139.99.84.196:8822/stream/channel/590a316cb138d4c36fd929c645931518
-#EXTINF:-1, 123 LIVE EVENT 02
-http://139.99.84.196:8822/stream/channel/c21ecd7756f39108e1d0be140663e8af
-#EXTINF:-1, 124 LIVE EVENT 03
-http://139.99.84.196:8822/stream/channel/91a2656194e2b198566016e7a325123b
-#EXTINF:-1, 125 LIVE EVENT 04
-http://139.99.84.196:8822/stream/channel/5643663bd61621ce23cd3cb9ddb4baeb
-#EXTINF:-1, 91 RED BY HBO
-http://139.99.84.196:8822/stream/channel/52ef95fc6d58f485829d34a34478b15c
-#EXTINF:-1, 92 RED BY HBO (HD)
-http://139.99.84.196:8822/stream/channel/53a8ab75e955fb1ce856d773e3a0ae91
-#EXTINF:-1, 109 TVN
-http://139.99.84.196:8822/stream/channel/e4c7b085a2adb1499b4955d20769e61b
-#EXTINF:-1, TVN HD
-http://139.99.84.196:8822/stream/channel/20ecec442a4a57d5504d0b529977d046
-#EXTINF:-1, TVNMOVIES
-http://139.99.84.196:8822/stream/channel/4f9d0c5180e0ff59b2ef0d85a8d3219f
-#EXTINF:-1, USEE SPORTS 1
-http://139.99.84.196:8822/stream/channel/9bf123cf57b057168fb61be7b4135f80
-#EXTINF:-1, 34 USEE SPORTS 2
-http://139.99.84.196:8822/stream/channel/fbc36f0fceb850470f342dd02550f9cb
-#EXTINF:-1, 94 WARNER
-http://139.99.84.196:8822/stream/channel/f6dcc7b5c7071f46c9da1c1b4ba17beb
-#EXTINF:-1 group-title="139.99", 93 WARNER HD
-http://139.99.84.196:8822/stream/channel/1e8b48a6dec70ea5b4f2745cf38cce88
 
 + + + + 89.187.189.58:80 + + + + + +
 
@@ -5222,6 +4983,35 @@ http://103.47.132.164/PLTV/88888888/224/3221227171/1.m3u8
 #EXTINF:-1 group-title="GB",BBC World News |103.102
 http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
 
++ + + + http://73.85.95.69:9981/extjs.html + + + + no playlist + + + + +
+
+#EXTINF:-1 group-title="73.85", US Premier League TV |73.85
+http://73.85.95.69:9981/stream/mux/8dcaf051a1c98d6b00a8f1278a5586fc
+#EXTINF:-1, Events Only 1 |73.85
+http://73.85.95.69:9981/stream/mux/f60b04f33300dfa70742bb58fdb53d51
+#EXTINF:-1, Events Only 2 |73.85
+http://73.85.95.69:9981/stream/mux/4fb9a5ab2fbe786b1737dee4324be415
+
+http://73.85.95.69:9981/stream/mux/a47ec20742321e99507d688395a8f2e3 XXX Brazzers TV Europe test
+http://73.85.95.69:9981/stream/mux/42ca023288caad94dab484ceee66cc91 XXXPink O TV (18%2B) test
+http://73.85.95.69:9981/stream/mux/6bb91c8baf0d12de54e3c9ba01abe0b8 XXXHot TV (18%2B) test
+http://73.85.95.69:9981/stream/mux/ccdf1c85de8cf881fa2f332c70f522b2 XXXSexy HOT (18%2B) test
+http://73.85.95.69:9981/stream/mux/d87f7deadc97debf0581b8c4b05846ae XXXPlayhouse (18%2B) test
+http://73.85.95.69:9981/stream/mux/de7632d2a452c09bcc9b7b9f5896fd87 XXX Barely Legal TV test
+http://73.85.95.69:9981/stream/mux/98cbd33886cec5348751ff4dbb34b906 XXXBrazzers TV Europe (18%2B) test
+http://73.85.95.69:9981/stream/mux/69a2d100affcf1ac25c75f23b39b303b XXXRedlight HD (18%2B) test
+http://73.85.95.69:9981/stream/mux/21c96d17f73b5371d4ecfb561a0c4144 XXX cento x cento test
+http://73.85.95.69:9981/stream/mux/cc21170c48ce264ca8fec6cb1d8ad4e2 XXX Babes HD test
+
+#EXTINF:-1, US Premier League TV ||73.85
+http://73.85.95.69:9981/stream/service/9826ce7e962d871bd6215f6bf3c80295
+#EXTINF:-1, Event Only 1 ||73.85
+http://73.85.95.69:9981/stream/service/c6675ec159e8684721d75c380039974f
+#EXTINF:-1, Event Only 2 ||73.85
+http://73.85.95.69:9981/stream/service/140529e76e5e612b75b3d06c102d3872
+#EXTINF:-1 group-title="73.85", Sky Movies Great ||73.85
+http://73.85.95.69:9981/stream/service/cbaeecc62cca41e46d7b0f1cf08b8a9c
+
 + + + + + http://82.45.49.11:9981/extjs.html + + + + + 
 
 #EXTINF:-1 group-title="82.45", 01:
@@ -5954,11 +5744,8 @@ https://www.dropbox.com/s/dl/zz3he1mu3lilgiz/mkctv_cinemax.m3u8
 
 https://dl.dropbox.com/s/mz1iezbism3zjy6/hbo.m3u8?dl=1
 https://dl.dropboxusercontent.com/s/mz1iezbism3zjy6/hbo.m3u8?dl=1
-
 https://www.dropbox.com/s/dl/o9397gnmm0s44ar/mkctv_hbofam.m3u8
-
 https://www.dropbox.com/s/dl/6wm74beyzd0w9xo/mkctv_hbohit.m3u8
-
 https://www.dropbox.com/s/dl/fvu91fvkr31yngd/mkctv_hbosig.m3u8
 #EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |mkc
 https://www.dropbox.com/s/dl/q09u7xcrpjwi2e4/mkctv_red.m3u8
@@ -6055,7 +5842,6 @@ http://fdtvapps.xyz/channel/hbofam.m3u8
 http://fdtvapps.xyz/channel/hbohits.m3u8
 #EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |fdtv
 http://fdtvapps.xyz/channel/red.m3u8
-
 
 http://home-tv.web.id/OYESS/hits.m3u8
 http://home-tv.web.id/OYESS/max.m3u8
@@ -6264,7 +6050,7 @@ http://balancer1.ottmex.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
 #EXTINF:-1,GOLDEN PREMIER
 http://balancer1.ottmex.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
 
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",  Avatar (2009)
+#EXTINF:-1 group-title="movies" tvg-logo="",  Avatar (2009)
 https://glus-st.mthcdn.com/stream/video02/2018/01/11/1515662135/1515662135_720.mp4
 #EXTINF:-1 group-title="movies",Transformers 1(2007)
 https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513413855/1513413855_720.mp4
