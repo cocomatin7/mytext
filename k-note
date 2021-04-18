@@ -3524,6 +3524,17 @@ http://4digital.ddns.net:9981/stream/mux/392f3b0c98a482b63991ad6bbece3201
 http://4digital.ddns.net:9981/stream/mux/7c4f1149ef1d43041266f5b13dfad63e
 #EXTINF:-1, HBO Asia
 http://4digital.ddns.net:9981/stream/mux/a75d109849e16ded2d2509a443b43624
+#EXTINF:-1, Fox Movies IDN
+http://4digital.ddns.net:9981/stream/mux/e89f60fab7601dd45f08f7413d506471
+#EXTINF:-1, Fox Action Movies IDN
+http://4digital.ddns.net:9981/stream/mux/130c25bf5aadd322ea475ce251f56092
+#EXTINF:-1, CHAMPIONS TV1
+http://4digital.ddns.net:9981/stream/mux/32c488d836b34785d4e139f5fe95618e
+#EXTINF:-1, Champions TV 2
+http://4digital.ddns.net:9981/stream/mux/fdc3994da4cfed4148a37b888e840dfc
+#EXTINF:-1, Champions TV 3
+http://4digital.ddns.net:9981/stream/mux/0c7b522fe058969aba411e61aa7aaba4
+
 #EXTINF:-1, VIP HD1'
 http://4digital.ddns.net:9981/stream/service/91f3c53f4010cf6724485247d112839f
 #EXTINF:-1, TS 1'
@@ -3536,6 +3547,22 @@ http://4digital.ddns.net:9981/stream/service/db5c54702d62a3f69a5c61d857dde3cb
 http://4digital.ddns.net:9981/stream/service/0ce306a5da35cefee8db8298ee7d8258
 #EXTINF:-1, HBO Asia'
 http://4digital.ddns.net:9981/stream/service/88d806f78571a0ac9298f434d8973746
+#EXTINF:-1, CHAMPIONS TV1
+http://4digital.ddns.net:9981/stream/service/a9408f8225444e2b28a7e266f67840fe
+#EXTINF:-1, Champions TV 2
+http://4digital.ddns.net:9981/stream/service/6e5902768d48f76cf15d453671378271
+#EXTINF:-1, Champions TV 3
+http://4digital.ddns.net:9981/stream/service/826441591439f801faf8244e3901e68e
+#EXTINF:-1, FOX Family Movies
+http://4digital.ddns.net:9981/stream/service/cae8d79225fee492198d50159dcc6961
+#EXTINF:-1, FOX Movies
+http://4digital.ddns.net:9981/stream/service/00827ea652a908d5566f1354421d1c79
+#EXTINF:-1, Fox Action
+http://4digital.ddns.net:9981/stream/service/392467d3c5d2aa7ba7cfb771098cb118
+#EXTINF:-1, Fox Action Movies IDN
+http://4digital.ddns.net:9981/stream/service/a99a12ac276f2b4c020e7a01a334231d
+#EXTINF:-1, Fox Movies IDN
+http://4digital.ddns.net:9981/stream/service/a17464769934778ef6f53db6a500fb82
 
  group-title="TH/4digit", A Leag
 http://4digital.ddns.net:9981/stream/mux/915d4013605f154f014ae5c94208b529
