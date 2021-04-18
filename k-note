@@ -3840,6 +3840,7 @@ http://3.239.35.218:9981/stream/service/4b7a2579d61c5f86590a2c8eae6c105e
 
 #EXTINF:-1 group-title="73.85", US Premier League TV |73.85
 http://73.85.95.69:9981/stream/mux/8dcaf051a1c98d6b00a8f1278a5586fc
+
 #EXTINF:-1, Events Only 1 |73.85
 http://73.85.95.69:9981/stream/mux/f60b04f33300dfa70742bb58fdb53d51
 #EXTINF:-1, Events Only 2 |73.85
@@ -4794,6 +4795,14 @@ http://108.48.50.123:9981/stream/channelid/768742788?profile=pass
 
 #EXTINF:-1 group-title="108.48",NBC Sports Network
 http://108.48.50.123:9981/stream/channelid/589644135?profile=pass
+
+http://108.48.50.123:9981/play/ticket/stream/mux/9433c45b823ca670adc335054bf04e81?title=get.php%20-%20FOOT%2008%3A%2020%3A00%20Milan%20vs%20Crvena%20Zvezda%20%2F%20fishytv
+http://108.48.50.123:9981/play/ticket/stream/mux/920a9d34683817323de61d75f9748a81?title=get.php%20-%20FOOT%2015%3A%2020%3A00%20Manchester%20United%20vs%20Real%20Sociedad%20%2F%20fishytv
+http://108.48.50.123:9981/play/ticket/stream/mux/787caccd520e79ad8d2a433b2fe172d8?title=get.php%20-%20IN%3A%20B4U%20Movies%20%2F%20fishytv
+http://108.48.50.123:9981/play/ticket/stream/mux/6ce1f551522e855778fd9a69650d131b?title=get.php%20-%20EPL%2009%3A%20%20%2F%20fishytv
+http://108.48.50.123:9981/play/ticket/stream/mux/7c70fb36684be77212cea2b6aae497e7?title=get.php%20-%20EPL%2006%3A%20%20%2F%20fishytv
+
+
 
 http://108.48.50.123:9981/stream/mux/c4840e804f1b39604e7012b37b0f55d0 WORLD SPORT 19
 http://108.48.50.123:9981/stream/mux/fb658d2c2a3bb95525326673898d9d84 Event DAZN CA 5 HD 
