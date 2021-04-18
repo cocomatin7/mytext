@@ -18108,10 +18108,12 @@ https://cnnnewsource-i.akamaihd.net/hls/live/258562/CNNNewsource2/master.m3u8
 http://cnnnewsource-i.akamaihd.net/hls/live/258565/CNNNewsource5/master.m3u8
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-
-http://81.110.215.150:9981/stream/service/7f3caf5ded3fd491be2114da602ea902?title=NOW%2080s
-http://81.110.215.150:9981/stream/channel/a1d607e66eb3da7600488ac9bc92558d?title=104%20%3A%20Channel%204%20HD
-http://81.110.215.150:9981/play/stream/channel/7923b9b76a73bf931ffac25f5adb120d?title=76%20%3A%20NOW%2080s
+#EXTINF:-1, NOW 80s
+http://81.110.215.150:9981/stream/service/7f3caf5ded3fd491be2114da602ea902
+#EXTINF:-1, Channel 4 HD
+http://81.110.215.150:9981/stream/channel/a1d607e66eb3da7600488ac9bc92558d
+#EXTINF:-1, NOW 80s
+http://81.110.215.150:9981/play/stream/channel/7923b9b76a73bf931ffac25f5adb120d
 
 #EXTINF:-1,01. UFC Fight Night Whittaker vs. Gastelum 7PM ET (3500k 60fps)
 http://82.45.49.11:9981/stream/channelid/975062207?profile=pass
@@ -18211,6 +18213,7 @@ http://82.45.49.11:9981/stream/channelid/1345080102?profile=pass
 http://82.45.49.11:9981/stream/channelid/1894030183?profile=pass
 #EXTINF:-1,20.
 http://82.45.49.11:9981/stream/channelid/1008725814?profile=pass
+
 #EXTINF:-1,Bein Sport 1
 http://82.45.49.11:9981/stream/channelid/282964178?profile=pass
 #EXTINF:-1,Bein Sport 1 English
@@ -18235,6 +18238,7 @@ http://82.45.49.11:9981/stream/channelid/702570100?profile=pass
 http://82.45.49.11:9981/stream/channelid/138884789?profile=pass
 #EXTINF:-1,Bein Sport 7
 http://82.45.49.11:9981/stream/channelid/1319214428?profile=pass
+
 #EXTINF:-1,BR Event 1: LFCTV
 http://82.45.49.11:9981/stream/channelid/437092557?profile=pass
 #EXTINF:-1,BR Event 2: MUTV
@@ -18265,25 +18269,6 @@ http://82.45.49.11:9981/stream/channelid/2111259810?profile=pass
 http://82.45.49.11:9981/stream/channelid/2037569239?profile=pass
 #EXTINF:-1,BT Sport 3 HD
 http://82.45.49.11:9981/stream/channelid/622648907?profile=pass
-
-#EXTINF:-1,CA SPORTS PACK 2 (CH431) (E)
-http://82.45.49.11:9981/stream/channelid/120431446?profile=pass
-#EXTINF:-1,CA SPORTS PACK 3 (CH432) (E)
-http://82.45.49.11:9981/stream/channelid/801168697?profile=pass
-#EXTINF:-1,CA SPORTS PACK 4 (CH433) (E)
-http://82.45.49.11:9981/stream/channelid/1903445918?profile=pass
-#EXTINF:-1,CA SPORTS PACK 5 (CH434) (E)
-http://82.45.49.11:9981/stream/channelid/287156980?profile=pass
-#EXTINF:-1,CA SPORTS PACK 6 (CH435) (E)
-http://82.45.49.11:9981/stream/channelid/1573805503?profile=pass
-#EXTINF:-1,CA SPORTS PACK 7 (CH436) (E)
-http://82.45.49.11:9981/stream/channelid/457401861?profile=pass
-#EXTINF:-1,CA SPORTS PACK 8 (CH437) (E)
-http://82.45.49.11:9981/stream/channelid/1439288870?profile=pass
-#EXTINF:-1,CA SPORTS PACK 9 (CH438) (E)
-http://82.45.49.11:9981/stream/channelid/1763892099?profile=pass
-#EXTINF:-1,CA SPORTS PACK 10 (CH439) (E)
-http://82.45.49.11:9981/stream/channelid/1674015157?profile=pass
 
 #EXTINF:-1,DAZN 1 HD
 http://82.45.49.11:9981/stream/channelid/1041430920?profile=pass
@@ -18354,13 +18339,172 @@ http://82.45.49.11:9981/stream/channelid/1730123157?profile=pass
 #EXTINF:-1,Sky Cinema Thriller HD
 http://82.45.49.11:9981/stream/channelid/1790630590?profile=pass
 
+#EXTINF:-1,Sky Sports Action
+http://82.45.49.11:9981/stream/channelid/144831527?profile=pass
+#EXTINF:-1,Sky Sports Action HD
+http://82.45.49.11:9981/stream/channelid/1169074853?profile=pass
+#EXTINF:-1,Sky Sports Arena
+http://82.45.49.11:9981/stream/channelid/2137125075?profile=pass
+#EXTINF:-1,Sky Sports Arena HD
+http://82.45.49.11:9981/stream/channelid/957193201?profile=pass
+#EXTINF:-1,Sky Sports Cricket
+http://82.45.49.11:9981/stream/channelid/89687510?profile=pass
+#EXTINF:-1,Sky Sports Cricket HD
+http://82.45.49.11:9981/stream/channelid/1888094217?profile=pass
+#EXTINF:-1,Sky Sports F1
+http://82.45.49.11:9981/stream/channelid/701358183?profile=pass
+#EXTINF:-1,Sky Sports F1 HD
+http://82.45.49.11:9981/stream/channelid/824795377?profile=pass
+#EXTINF:-1,Sky Sports Football
+http://82.45.49.11:9981/stream/channelid/1416133030?profile=pass
+#EXTINF:-1,Sky Sports Football HD
+http://82.45.49.11:9981/stream/channelid/2130715070?profile=pass
+#EXTINF:-1,Sky Sports Golf
+http://82.45.49.11:9981/stream/channelid/1751036027?profile=pass
+#EXTINF:-1,Sky Sports Golf HD
+http://82.45.49.11:9981/stream/channelid/1206733223?profile=pass
+#EXTINF:-1,Sky Sports Main Event
+http://82.45.49.11:9981/stream/channelid/642675592?profile=pass
+#EXTINF:-1,Sky Sports Main Event HD
+http://82.45.49.11:9981/stream/channelid/1117781709?profile=pass
+#EXTINF:-1,Sky Sports Mix
+http://82.45.49.11:9981/stream/channelid/670085934?profile=pass
+#EXTINF:-1,Sky Sports News
+http://82.45.49.11:9981/stream/channelid/1506139553?profile=pass
+#EXTINF:-1,Sky Sports News HD
+http://82.45.49.11:9981/stream/channelid/2117021714?profile=pass
+#EXTINF:-1,Sky Sports Premier League
+http://82.45.49.11:9981/stream/channelid/1422921425?profile=pass
+#EXTINF:-1,Sky Sports Premier League HD
+http://82.45.49.11:9981/stream/channelid/138971671?profile=pass
+#EXTINF:-1,Sky Sports Racing
+http://82.45.49.11:9981/stream/channelid/90396058?profile=pass
+#EXTINF:-1,Sky Store 1 - 
+http://82.45.49.11:9981/stream/channelid/1416118284?profile=pass
+#EXTINF:-1,Sky Store 2 - 
+http://82.45.49.11:9981/stream/channelid/370092241?profile=pass
+#EXTINF:-1,Sky Store 3 - 
+http://82.45.49.11:9981/stream/channelid/1447449757?profile=pass
+#EXTINF:-1,Sky Store 4 - 
+http://82.45.49.11:9981/stream/channelid/1254873590?profile=pass
+#EXTINF:-1,Sky Store 5 - 
+http://82.45.49.11:9981/stream/channelid/1213470065?profile=pass
+#EXTINF:-1,Sky Store 6 - 
+http://82.45.49.11:9981/stream/channelid/672469244?profile=pass
 
-http://150.143.114.89:9981/stream/service/f8b307b35e57a45f3c98d5cb8551bdf6?title=NOW%2080s
+#EXTINF:-1,SuperSport Action (FHD)
+http://82.45.49.11:9981/stream/channelid/1682888504?profile=pass
+#EXTINF:-1,SuperSport Blitz (FHD)
+http://82.45.49.11:9981/stream/channelid/595425589?profile=pass
+#EXTINF:-1,SuperSport Cricket (FHD)
+http://82.45.49.11:9981/stream/channelid/1812444619?profile=pass
+#EXTINF:-1,SuperSport ESPN
+http://82.45.49.11:9981/stream/channelid/256901954?profile=pass
+#EXTINF:-1,SuperSport ESPN 2
+http://82.45.49.11:9981/stream/channelid/152664506?profile=pass
+#EXTINF:-1,SuperSport Events
+http://82.45.49.11:9981/stream/channelid/1217398376?profile=pass
+#EXTINF:-1,SuperSport Football (FHD)
+http://82.45.49.11:9981/stream/channelid/305149897?profile=pass
+#EXTINF:-1,SuperSport Football Plus (FHD)
+http://82.45.49.11:9981/stream/channelid/227947180?profile=pass
+#EXTINF:-1,SuperSport Golf (FHD)
+http://82.45.49.11:9981/stream/channelid/251511907?profile=pass
+#EXTINF:-1,SuperSport Grandstand (FHD)
+http://82.45.49.11:9981/stream/channelid/1665358735?profile=pass
+#EXTINF:-1,SuperSport La Liga (FHD)
+http://82.45.49.11:9981/stream/channelid/2122824328?profile=pass
+#EXTINF:-1,SuperSport MaXimo 1 (SD)
+http://82.45.49.11:9981/stream/channelid/1768244102?profile=pass
+#EXTINF:-1,SuperSport Motorsport (FHD)
+http://82.45.49.11:9981/stream/channelid/2090173349?profile=pass
+#EXTINF:-1,SuperSport Play 1
+http://82.45.49.11:9981/stream/channelid/416936508?profile=pass
+#EXTINF:-1,SuperSport Play 2
+http://82.45.49.11:9981/stream/channelid/393572341?profile=pass
+#EXTINF:-1,SuperSport Premier League (FHD)
+http://82.45.49.11:9981/stream/channelid/368666739?profile=pass
+#EXTINF:-1,SuperSport PSL (FHD)
+http://82.45.49.11:9981/stream/channelid/1199947646?profile=pass
+#EXTINF:-1,SuperSport Rugby (FHD)
+http://82.45.49.11:9981/stream/channelid/35017507?profile=pass
+#EXTINF:-1,SuperSport TellyTrack
+http://82.45.49.11:9981/stream/channelid/1794801295?profile=pass
+#EXTINF:-1,SuperSport Tennis (FHD)
+http://82.45.49.11:9981/stream/channelid/1593694536?profile=pass
+#EXTINF:-1,SuperSport Variety 1 (FHD)
+http://82.45.49.11:9981/stream/channelid/1602208247?profile=pass
+#EXTINF:-1,SuperSport Variety 2
+http://82.45.49.11:9981/stream/channelid/1677822236?profile=pass
+#EXTINF:-1,SuperSport Variety 3 (FHD)
+http://82.45.49.11:9981/stream/channelid/1003048680?profile=pass
+#EXTINF:-1,SuperSport Variety 4 (FHD)
+http://82.45.49.11:9981/stream/channelid/170776718?profile=pass
+#EXTINF:-1,SuperSport WWE Channel
+http://82.45.49.11:9981/stream/channelid/444988340?profile=pass
+
+#EXTINF:-1,VIP Astro SuperSport 1
+http://82.45.49.11:9981/stream/channelid/76345534?profile=pass
+#EXTINF:-1,VIP Astro SuperSport 2
+http://82.45.49.11:9981/stream/channelid/1231232773?profile=pass
+#EXTINF:-1,VIP Astro SuperSport 3
+http://82.45.49.11:9981/stream/channelid/1917700206?profile=pass
+#EXTINF:-1,VIP Astro SuperSport 4
+http://82.45.49.11:9981/stream/channelid/1787522383?profile=pass
+
+#EXTINF:-1,VIP Racing UK FHD
+http://82.45.49.11:9981/stream/channelid/956314911?profile=pass
+#EXTINF:-1,VIP Sky Action FHD
+http://82.45.49.11:9981/stream/channelid/1035889973?profile=pass
+#EXTINF:-1,VIP Sky Comedy FHD
+http://82.45.49.11:9981/stream/channelid/1295302989?profile=pass
+#EXTINF:-1,VIP Sky Family FHD
+http://82.45.49.11:9981/stream/channelid/266628632?profile=pass
+#EXTINF:-1,VIP Sky Greats FHD
+http://82.45.49.11:9981/stream/channelid/1404904187?profile=pass
+#EXTINF:-1,VIP Sky Hits FHD
+http://82.45.49.11:9981/stream/channelid/159121986?profile=pass
+#EXTINF:-1,VIP Sky Premiere FHD
+http://82.45.49.11:9981/stream/channelid/1313599473?profile=pass
+#EXTINF:-1,VIP Sky SciFi FHD
+http://82.45.49.11:9981/stream/channelid/961982941?profile=pass
+#EXTINF:-1,VIP Sky Sports Action FHD
+http://82.45.49.11:9981/stream/channelid/1989814462?profile=pass
+#EXTINF:-1,VIP Sky Sports Arena FHD
+http://82.45.49.11:9981/stream/channelid/549811942?profile=pass
+#EXTINF:-1,VIP Sky Sports Cricket FHD
+http://82.45.49.11:9981/stream/channelid/2127705671?profile=pass
+#EXTINF:-1,VIP Sky Sports F1 FHD
+http://82.45.49.11:9981/stream/channelid/1661307548?profile=pass
+#EXTINF:-1,VIP Sky Sports Football FHD
+http://82.45.49.11:9981/stream/channelid/603938781?profile=pass
+#EXTINF:-1,VIP Sky Sports Golf FHD
+http://82.45.49.11:9981/stream/channelid/1610554463?profile=pass
+#EXTINF:-1,VIP Sky Sports Main Event 50FPS
+http://82.45.49.11:9981/stream/channelid/451056617?profile=pass
+#EXTINF:-1,VIP Sky Sports Mix FHD
+http://82.45.49.11:9981/stream/channelid/893110682?profile=pass
+#EXTINF:-1,VIP Sky Sports News FHD
+http://82.45.49.11:9981/stream/channelid/1455015381?profile=pass
+#EXTINF:-1,VIP Sky Sports Premier League FHD
+http://82.45.49.11:9981/stream/channelid/1990714102?profile=pass
+#EXTINF:-1,VIP Sky Sports Racing FHD
+http://82.45.49.11:9981/stream/channelid/1354919002?profile=pass
+#EXTINF:-1,VIP Sky Thriller FHD
+http://82.45.49.11:9981/stream/channelid/66995018?profile=pass
+#EXTINF:-1,VIP UK: BT Sport 1 FHD
+http://82.45.49.11:9981/stream/channelid/1719465567?profile=pass
+#EXTINF:-1,VIP UK: BT Sport 2 FHD
+http://82.45.49.11:9981/stream/channelid/950969635?profile=pass
+#EXTINF:-1,VIP UK: BT Sport 3 FHD
+http://82.45.49.11:9981/stream/channelid/586227666?profile=pass
+
+#EXTINF:-1,NOW 80s
+http://150.143.114.89:9981/stream/service/f8b307b35e57a45f3c98d5cb8551bdf6
 #EXTINF:-1,Sony Movies
 http://150.143.114.89:9981/stream/channelid/754852574
 #EXTINF:-1,Sony Movies Action
 http://150.143.114.89:9981/stream/channelid/1537503575
-
 
 
 #EXTINF:-1,CNN |cdn77*
