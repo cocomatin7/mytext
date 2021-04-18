@@ -4796,21 +4796,63 @@ http://108.48.50.123:9981/stream/channelid/768742788?profile=pass
 #EXTINF:-1 group-title="108.48",NBC Sports Network
 http://108.48.50.123:9981/stream/channelid/589644135?profile=pass
 
-http://108.48.50.123:9981/play/ticket/stream/mux/9433c45b823ca670adc335054bf04e81?title=get.php%20-%20FOOT%2008%3A%2020%3A00%20Milan%20vs%20Crvena%20Zvezda%20%2F%20fishytv
-http://108.48.50.123:9981/play/ticket/stream/mux/920a9d34683817323de61d75f9748a81?title=get.php%20-%20FOOT%2015%3A%2020%3A00%20Manchester%20United%20vs%20Real%20Sociedad%20%2F%20fishytv
-http://108.48.50.123:9981/play/ticket/stream/mux/787caccd520e79ad8d2a433b2fe172d8?title=get.php%20-%20IN%3A%20B4U%20Movies%20%2F%20fishytv
-http://108.48.50.123:9981/play/ticket/stream/mux/6ce1f551522e855778fd9a69650d131b?title=get.php%20-%20EPL%2009%3A%20%20%2F%20fishytv
-http://108.48.50.123:9981/play/ticket/stream/mux/7c70fb36684be77212cea2b6aae497e7?title=get.php%20-%20EPL%2006%3A%20%20%2F%20fishytv
-http://108.48.50.123:9981/play/ticket/stream/mux/5c7d4e52273d6f087b8fea40423281e3?title=get.php%20-%20UK%20%20FHD%20%3A%20Premier%20Sports%20LaLiga%20%2F%20fishytv
-http://108.48.50.123:9981/play/ticket/stream/mux/327a5bb9d24c4d69bb4d0a3ded33904c?title=get.php%20-%20VIP%20FHD%20Sky%20Sports%20Main%20Event%20%2F%20fishytv
-http://108.48.50.123:9981/play/ticket/stream/mux/20d17f21c5398c649df211446ce8bfce?title=get.php%20-%20AU%2017%3A%20AU%3A%20beIN%20SPORTS%203%20%2F%20fishytv
-http://108.48.50.123:9981/play/ticket/stream/mux/94791d837438c3144a2888064ba7eeef?title=get.php%20-%20RSA%20SuperSport%20Premier%20League%20%7C%20HD%20%2F%20fishytv
-http://108.48.50.123:9981/play/ticket/stream/mux/86cd344b84c6700a5a5e44f1ce234265?title=get.php%20-%20FOOT%2014%3A%2020%3A00%20Leicester%20City%20vs%20Slavia%20Praha%20%2F%20fishytv
-http://108.48.50.123:9981/play/ticket/stream/mux/df3801d53a00d8f29f1b8f7d9db3b535?title=get.php%20-%20FOOT%2011%3A%2020%3A00%20Club%20Brugge%20vs%20Dynamo%20Kyiv%20%2F%20fishytv
-http://108.48.50.123:9981/play/ticket/stream/mux/311ca69a0f15721aeb5fddb16ca0ae49?title=get.php%20-%20EPL%2007%3A%20%20%2F%20fishytv
-http://108.48.50.123:9981/play/ticket/stream/mux/972761f2c1599d05949f3f8e50c844a7?title=get.php%20-%20EPL%2004%3A%20%2F%20fishytv
-http://108.48.50.123:9981/play/ticket/stream/mux/48d1ae3f072c20b73d986089ad37b3bb?title=get.php%20-%20EPL%2001%3A%20%20%2F%20fishytv
-http://108.48.50.123:9981/play/ticket/stream/mux/f9406ed36a073bb58f61854a5a58da26?title=get.php%20-%20RSASuperSport%20Variety%204%20%7C%20HD%20%2F%20fishytv
+http://108.48.50.123:9981/stream/mux/9433c45b823ca670adc335054bf04e81 FOOT 08: 20:00 Milan vs Crvena Zvezda
+http://108.48.50.123:9981/stream/mux/920a9d34683817323de61d75f9748a81 FOOT 15: 20:00 Manchester United vs Real Sociedad
+http://108.48.50.123:9981/stream/mux/787caccd520e79ad8d2a433b2fe172d8 IN: B4U Movies
+http://108.48.50.123:9981/stream/mux/6ce1f551522e855778fd9a69650d131b EPL 09: 
+http://108.48.50.123:9981/stream/mux/7c70fb36684be77212cea2b6aae497e7 EPL 06: 
+http://108.48.50.123:9981/stream/mux/5c7d4e52273d6f087b8fea40423281e3 UK  FHD : Premier Sports LaLiga
+http://108.48.50.123:9981/stream/mux/327a5bb9d24c4d69bb4d0a3ded33904c VIP FHD Sky Sports Main Event
+http://108.48.50.123:9981/stream/mux/20d17f21c5398c649df211446ce8bfce AU 17: AU: beIN SPORTS 3
+http://108.48.50.123:9981/stream/mux/94791d837438c3144a2888064ba7eeef RSA SuperSport Premier League HD
+http://108.48.50.123:9981/stream/mux/86cd344b84c6700a5a5e44f1ce234265 FOOT 14: 20:00 Leicester City vs Slavia Praha
+http://108.48.50.123:9981/stream/mux/df3801d53a00d8f29f1b8f7d9db3b535 FOOT 11: 20:00 Club Brugge vs Dynamo Kyiv
+http://108.48.50.123:9981/stream/mux/311ca69a0f15721aeb5fddb16ca0ae49 EPL 07: 
+http://108.48.50.123:9981/stream/mux/972761f2c1599d05949f3f8e50c844a7 EPL 04:
+http://108.48.50.123:9981/stream/mux/48d1ae3f072c20b73d986089ad37b3bb EPL 01: 
+http://108.48.50.123:9981/stream/mux/f9406ed36a073bb58f61854a5a58da26 RSASuperSport Variety 4 HD
+http://108.48.50.123:9981/stream/mux/e67e7ebe96cbddd8f5aafdb3c0cc35c5 EPL 08: 
+http://108.48.50.123:9981/stream/mux/7a1665175b3f289f9ecd8d29261da46e EPL 05: 
+http://108.48.50.123:9981/stream/mux/c5fb1686eed57f8832cb3dc694c78ef2 FOOT 04: 
+http://108.48.50.123:9981/stream/mux/b2d6270fd0cba76f5b84c27f481685ed AU 01: BEIN SPORT 1
+http://108.48.50.123:9981/stream/mux/20520231de8a71016c05b3ffbbe3739c FOOT 13: 20:00 Bayer Leverkusen vs Young Boys
+http://108.48.50.123:9981/stream/mux/aaa57e6920a9d62332e56ef59dbac48f FOOT 12: 20:00 Dinamo Zagreb vs Krasnodar
+http://108.48.50.123:9981/stream/mux/eea13ab944d27d951ce46640d4465960 FOOT 20: 
+http://108.48.50.123:9981/stream/mux/66892c4cf7d3ab829e9c3fec12bf2f3e FOOT 02: 
+http://108.48.50.123:9981/stream/mux/53cf028612b017fc6c7105f2f41a4482 FOOT 18: 
+http://108.48.50.123:9981/stream/mux/837becdce2cfcbd173cd6f73f4e286ff Optus 2
+http://108.48.50.123:9981/stream/mux/f6a8d8ed3657190af86fc866e4beea60 RSA SuperSport La Liga HD
+http://108.48.50.123:9981/stream/mux/0ee9e4bd7f122ff608e800cc2f02a973 UK HD : BT SPORT 2
+http://108.48.50.123:9981/stream/mux/c84c1936628bbc2e3d6cfa016f70b82c VIP FHD : BT Sports 1 
+http://108.48.50.123:9981/stream/mux/b13445f8816f217138303e2db05663bf FOOT 09: 20:00 Roma vs Sporting Braga
+http://108.48.50.123:9981/stream/mux/fc78b645b88d065990c8b93a5285fe09 UK FHD : BT SPORTS 2
+http://108.48.50.123:9981/stream/mux/048dcf8f286c8b5fca3c5ed0bebec951 FOOT 19:
+http://108.48.50.123:9981/stream/mux/3dd57004f8f4fe911bab4283db5de72d Astro Super Sport 3HD
+http://108.48.50.123:9981/stream/mux/0c864798600a8b12ad7ca008138c9117 VIP AUS: KBS World Asia
+http://108.48.50.123:9981/stream/mux/6370c858b300d4578afee4c573d9bb97 RSA SuperSport MotorSports HD
+http://108.48.50.123:9981/stream/mux/8a9144ece30f18fd1dca9836600a7353 VIP HD NBC SPORTS NETWORK
+http://108.48.50.123:9981/stream/mux/304803183e50898cd9e7a19037e08e4f Event DAZN CA 1 HD
+http://108.48.50.123:9981/stream/mux/7a815f9aac2a5ada6e2938b2e1d6494a FOOT 10: 20:00 PSV vs Olympiakos Piraeus
+http://108.48.50.123:9981/stream/mux/fe99d0ef095cf103d093ee7533733170 FOOT 05: 
+http://108.48.50.123:9981/stream/mux/c2619976537d6b54a654bff1e903d459 UK FHD :  BT SPORTS 1
+http://108.48.50.123:9981/stream/mux/7d4f42bcf6132973167b2e94f727796c RSA Supersport Blitz
+http://108.48.50.123:9981/stream/mux/0673c68af0236d2cbf34adc6be8d7eda AU 16: AU: BeIN SPORTS 2
+http://108.48.50.123:9981/stream/mux/9e6b56cd5922b404e7952e938c72ef5c AU 15: AU: beIN SPORTS 1
+http://108.48.50.123:9981/stream/mux/04291840a6caf1c121a6886e8523642a NOW Sports 1 HD
+http://108.48.50.123:9981/stream/mux/30a85dc7857490989c200444a5a22339 NOW Sports 2 HD
+http://108.48.50.123:9981/stream/mux/3ff2710388cede709c58ee9407a8bb0d EPL 03: 
+http://108.48.50.123:9981/stream/mux/9931138d39cc01f5d036324ca92f7aea RSA SuperSport PSL HD
+http://108.48.50.123:9981/stream/mux/56040d1c59952aca8e7b84ecbde654bc FOOT 01:
+http://108.48.50.123:9981/stream/mux/fa224a43af9517a00483aec80fba319e FOOT 03: 
+http://108.48.50.123:9981/stream/mux/a242ead6ebee6124f443f1d8913f0e2a VIP HD : New Sky Sports Premier League
+http://108.48.50.123:9981/stream/mux/7c5debcd169805c648f4eb0223ff98de VIP HD : New Sky Sports Football
+http://108.48.50.123:9981/stream/mux/a2b91e7236ffa360d376911326223ec6 RSA SuperSport Action HD
+http://108.48.50.123:9981/stream/mux/f96910bf48322a77acdda38e84949e07 VIP HD : New BT Sports 2 
+http://108.48.50.123:9981/stream/mux/75d2040cb152113908946181c327616b EPL 02: 
+
+
+
+
 
 
 
