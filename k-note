@@ -4193,39 +4193,37 @@ http://82.45.49.11:9981/stream/service/8a10404e6effaf6611f33177118b7389
 http://82.45.49.11:9981/stream/service/c37306eafa982a5b16c4fabffe45b12b
 #EXTINF:-1, SS Premier League
 http://82.45.49.11:9981/stream/service/2893ce1914979e9a21a49f162fe9753f
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/bba7cd8bd9f4d97b2d1b2fc7afaba6de
-#EXTINF:-1,
+#EXTINF:-1, sky sports football
 http://82.45.49.11:9981/stream/service/15370e24511d0aa18711071b303c7355
-#EXTINF:-1,
+#EXTINF:-1, beIN SPORTS 1 4k
 http://82.45.49.11:9981/stream/service/c48f13c4fead24b6189aeea8d0fec921
-#EXTINF:-1,
+#EXTINF:-1, sky sports football '
 http://82.45.49.11:9981/stream/service/90b5fdbbf3c07cbef752d31f3a8f151c
-#EXTINF:-1,
+#EXTINF:-1, SS Action
 http://82.45.49.11:9981/stream/service/99e20563f1635968215105ea95e92ba9
-#EXTINF:-1,
+#EXTINF:-1, sky cinema
 http://82.45.49.11:9981/stream/service/3d197bddec3de3b730d17c5b5a075c1e
-#EXTINF:-1,
+#EXTINF:-1, S Variety
 http://82.45.49.11:9981/stream/service/a6ab83a8a3119e0736e738fe06353869
-#EXTINF:-1,
+#EXTINF:-1, BT SPORT 1HD
 http://82.45.49.11:9981/stream/service/0215761a84710b88ac0170971f25b211
-#EXTINF:-1,
+#EXTINF:-1, sky sport mainevent
 http://82.45.49.11:9981/stream/service/97873bac5cd871d634999fdb6f347855
-#EXTINF:-1,
+#EXTINF:-1, BT SPORT 2HD
 http://82.45.49.11:9981/stream/service/8d77df56ef773f988aa6e6a38c2e3849
-#EXTINF:-1,
+#EXTINF:-1, astro SUPERSPORT 3
 http://82.45.49.11:9981/stream/service/0db478fa57a48b87c460bcc39b65b032
-#EXTINF:-1,
+#EXTINF:-1, BT SPORT 3HD
 http://82.45.49.11:9981/stream/service/dc14c7c648cac24baf97cdc8902cec40
-#EXTINF:-1,
+#EXTINF:-1, sky sports premier league
 http://82.45.49.11:9981/stream/service/fb767ab80552489b339dcfa13927fa4f
-#EXTINF:-1,
+#EXTINF:-1, NBCSN
 http://82.45.49.11:9981/stream/service/faf48dad7345970f8b040178b4f31e55
 #EXTINF:-1, Peacock Premier League
 http://82.45.49.11:9981/stream/service/0a51b6a08e1c29af2a397736e46b4637
-#EXTINF:-1,
+#EXTINF:-1, sky sports football
 http://82.45.49.11:9981/stream/service/f63cab8fcfe9146dd6fca20c992b61f0
-#EXTINF:-1,
+#EXTINF:-1, now SPORTS 1
 http://82.45.49.11:9981/stream/service/d632c150c99e84bda72f5d0f94489fb2
 #EXTINF:-1, astro supersports 1
 http://82.45.49.11:9981/stream/service/d401c34f1240df2f1d93d791f4be378b
@@ -4233,27 +4231,29 @@ http://82.45.49.11:9981/stream/service/d401c34f1240df2f1d93d791f4be378b
 http://82.45.49.11:9981/stream/service/72d1fee3eb5f0a5f95dcb517ce0f50f6
 #EXTINF:-1, VIP Astro SuperSport 4
 http://82.45.49.11:9981/stream/service/f5ce6b1796fe99521e79d2158cb56a7f
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/144e9bc68b8b895d177937bf1091d376 Optus 1
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/136ad4a4518092cafe29c29663e77cb3 Optus 2
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/d4a7dfa6f8b93d011055a3c46309ec34 beIN Sport 1EN
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/90dcc783efdf2b431964b762ce2e1978 beIN Sport 2EN
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/3c92a64b298981f4767db0986b8fb45a SS Variety 1
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/a041c48e82bd1cecd101e00e7ed5bea5 Sky S Premier League
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/b70f7418558c5b9fb9c8da62a140bc76 Sky Sports Main Event HD
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/bc027e052e8e40a6d88a28429cc0582d VIP Sky Sports News FHD
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/cf51569b3b5ac8ee8641e2f4cd9c8d89 Sky Sports News HD
+#EXTINF:-1, Optus 1
+http://82.45.49.11:9981/stream/service/144e9bc68b8b895d177937bf1091d376
+#EXTINF:-1, Optus 2
+http://82.45.49.11:9981/stream/service/136ad4a4518092cafe29c29663e77cb3
+#EXTINF:-1, beIN Sport 1EN
+http://82.45.49.11:9981/stream/service/d4a7dfa6f8b93d011055a3c46309ec34
+#EXTINF:-1, beIN Sport 2EN
+http://82.45.49.11:9981/stream/service/90dcc783efdf2b431964b762ce2e1978
+#EXTINF:-1, SS Variety 1
+http://82.45.49.11:9981/stream/service/3c92a64b298981f4767db0986b8fb45a
+#EXTINF:-1, Sky S Premier League
+http://82.45.49.11:9981/stream/service/a041c48e82bd1cecd101e00e7ed5bea5
+#EXTINF:-1, Sky Sports Main Event HD
+http://82.45.49.11:9981/stream/service/b70f7418558c5b9fb9c8da62a140bc76
+#EXTINF:-1, VIP Sky Sports News FHD
+http://82.45.49.11:9981/stream/service/bc027e052e8e40a6d88a28429cc0582d
+#EXTINF:-1, Sky Sports News HD
+http://82.45.49.11:9981/stream/service/cf51569b3b5ac8ee8641e2f4cd9c8d89
 #EXTINF:-1,
 http://82.45.49.11:9981/stream/service/ee7615a4fc823fafcbadfce94be33f8b SuperSport ESPN
+#EXTINF:-1,
 http://82.45.49.11:9981/stream/service/bd356148ddb7a34920a3cefa79741d54 SuperSport ESPN 2
+#EXTINF:-1,
 http://82.45.49.11:9981/stream/service/fd1db31c0713f0444bf433d6d29cdeb7 SuperSport Events
 #EXTINF:-1,
 http://82.45.49.11:9981/stream/service/68ba9aef6269fdb917c8d216db5d39b4 SuperSport Football Plus (FHD)
