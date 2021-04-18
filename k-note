@@ -5287,6 +5287,8 @@ http://balancer1.ottmex.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
 #EXTINF:-1,GOLDEN PREMIER
 http://balancer1.ottmex.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
 
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",  Avatar (2009)
+https://glus-st.mthcdn.com/stream/video02/2018/01/11/1515662135/1515662135_720.mp4
 #EXTINF:-1 group-title="movies",Transformers 1(2007)
 https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513413855/1513413855_720.mp4
 #EXTINF:-1,Transformers 2 Revenge Of The Fallen(2009)
