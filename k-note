@@ -4249,80 +4249,81 @@ http://82.45.49.11:9981/stream/service/b70f7418558c5b9fb9c8da62a140bc76
 http://82.45.49.11:9981/stream/service/bc027e052e8e40a6d88a28429cc0582d
 #EXTINF:-1, Sky Sports News HD
 http://82.45.49.11:9981/stream/service/cf51569b3b5ac8ee8641e2f4cd9c8d89
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/ee7615a4fc823fafcbadfce94be33f8b SuperSport ESPN
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/bd356148ddb7a34920a3cefa79741d54 SuperSport ESPN 2
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/fd1db31c0713f0444bf433d6d29cdeb7 SuperSport Events
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/68ba9aef6269fdb917c8d216db5d39b4 SuperSport Football Plus (FHD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/229db0da664609ce63963cc5a7caec1b SuperSport Golf (FHD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/ef141632e7ab36598379e962f28f75be SuperSport Grandstand (FHD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/36f7bda76a09927c112ab5513586c429 SuperSport La Liga (FHD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/0e39a078d40c04354e4b86339358dd68 SuperSport MaXimo 1 (SD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/bf8b6e5c6cb17bf968990263ff164293 SuperSport Motorsport (FHD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/dc13372bb892d7fb6de6f54e9c08e379 SuperSport PSL (FHD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/5a72ba61aea97125c12d3d4038f18093 SuperSport Rugby (FHD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/1b50f0263e5e47e47632c168915d1592 SuperSport TellyTrack
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/7b10827b39805a0e767cecdd22cd7acf SuperSport Variety 2
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/ed54a68d13a2314b34be5b6c5c6419c3 SuperSport Variety 3 (FHD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/b364f3ec4d0fcc7181d973579efbbca1 SuperSport Variety 4 (FHD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/service/b4507daa512ebc25a0eb44131335c5da SuperSport WWE Channel
+#EXTINF:-1, SuperSport ESPN
+http://82.45.49.11:9981/stream/service/ee7615a4fc823fafcbadfce94be33f8b
+#EXTINF:-1, SuperSport ESPN 2
+http://82.45.49.11:9981/stream/service/bd356148ddb7a34920a3cefa79741d54
+#EXTINF:-1, SuperSport Events
+http://82.45.49.11:9981/stream/service/fd1db31c0713f0444bf433d6d29cdeb7
+#EXTINF:-1, SuperSport Football Plus (FHD)
+http://82.45.49.11:9981/stream/service/68ba9aef6269fdb917c8d216db5d39b4
+#EXTINF:-1, SuperSport Golf (FHD)
+http://82.45.49.11:9981/stream/service/229db0da664609ce63963cc5a7caec1b
+#EXTINF:-1, SuperSport Grandstand (FHD)
+http://82.45.49.11:9981/stream/service/ef141632e7ab36598379e962f28f75be
+#EXTINF:-1, SuperSport La Liga (FHD)
+http://82.45.49.11:9981/stream/service/36f7bda76a09927c112ab5513586c429
+#EXTINF:-1, SuperSport MaXimo 1 (SD)
+http://82.45.49.11:9981/stream/service/0e39a078d40c04354e4b86339358dd68
+#EXTINF:-1, SuperSport Motorsport (FHD)
+http://82.45.49.11:9981/stream/service/bf8b6e5c6cb17bf968990263ff164293
+#EXTINF:-1, SuperSport PSL (FHD)
+http://82.45.49.11:9981/stream/service/dc13372bb892d7fb6de6f54e9c08e379
+#EXTINF:-1, SuperSport Rugby (FHD)
+http://82.45.49.11:9981/stream/service/5a72ba61aea97125c12d3d4038f18093
+#EXTINF:-1, SuperSport TellyTrack
+http://82.45.49.11:9981/stream/service/1b50f0263e5e47e47632c168915d1592
+#EXTINF:-1, SuperSport Variety 2
+http://82.45.49.11:9981/stream/service/7b10827b39805a0e767cecdd22cd7acf
+#EXTINF:-1, SuperSport Variety 3 (FHD)
+http://82.45.49.11:9981/stream/service/ed54a68d13a2314b34be5b6c5c6419c3
+#EXTINF:-1, SuperSport Variety 4 (FHD)
+http://82.45.49.11:9981/stream/service/b364f3ec4d0fcc7181d973579efbbca1
+#EXTINF:-1, SuperSport WWE Channel
+http://82.45.49.11:9981/stream/service/b4507daa512ebc25a0eb44131335c5da
 
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/eab6878696306c0a7eb719b6ba66957b Bein Sport 1 English
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/83187eb56eaf0cb41d8560c611b44c32 Bein Sport 2 English
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/ea58769c9825eaf486aa289fd213219e Bein Sport 3 English
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/35797da3e9fff9424c0a5adee02ddf06 SuperSport Blitz (FHD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/c937301239276aecf5317c3d757eb4e9 SuperSport Football (FHD)
-http://82.45.49.11:9981/stream/channel/f7c17f5fba35d4a98f2311df44758005 SuperSport Variety 1 (FHD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/ac32968dc24e2d677d80258467982439 SuperSport Football Plus (FHD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/3cf2d91853d329411fcd1d8b204ee073 SuperSport Play 1
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/88ba877e256523ec80620346246f288d SuperSport La Liga (FHD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/1c8901e40e2025b26a2ebf063c89cf6b SuperSport Variety 2
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/1c8901e40e2025b26a2ebf063c89cf6b SuperSport Variety 2
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/8ed82d0a023f699a4f92f5082631f66f SuperSport Variety 4 (FHD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/6806904880bdf032a4db6f5ea2ab41bf SuperSport Events
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/7ebf85470ee03ddf07830c73c2526047 SuperSport PSL (FHD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/e84ec93ba04e973aed45f783ce2aa81f SuperSport Variety 3 (FHD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/f56f75970d1975349bd359eae5837531 SuperSport Play 2
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/8f7efaea9b247a62ba2ab8fe646ed03b SuperSport TellyTrack
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/864365e92ee5aa2d568c0449470432e8 SuperSport MaXimo 1 (SD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/7368f915484f51f57795f0e7c268f5ff SuperSport Premier League (FHD)
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/05fb048b15dfa1e889a0612ac238eede EPL: OPTUS GOAL RUSH
-#EXTINF:-1,
-http://82.45.49.11:9981/stream/channel/d3f54ffcd4c203c99125f0790ca6c51b EPL: Optus Sport 1
+#EXTINF:-1, Bein Sport 1 English
+http://82.45.49.11:9981/stream/channel/eab6878696306c0a7eb719b6ba66957b
+#EXTINF:-1, Bein Sport 2 English
+http://82.45.49.11:9981/stream/channel/83187eb56eaf0cb41d8560c611b44c32
+#EXTINF:-1, Bein Sport 3 English
+http://82.45.49.11:9981/stream/channel/ea58769c9825eaf486aa289fd213219e
+#EXTINF:-1, SuperSport Blitz (FHD)
+http://82.45.49.11:9981/stream/channel/35797da3e9fff9424c0a5adee02ddf06
+#EXTINF:-1, SuperSport Football (FHD)
+http://82.45.49.11:9981/stream/channel/c937301239276aecf5317c3d757eb4e9
+#EXTINF:-1, SuperSport Variety 1 (FHD)
+http://82.45.49.11:9981/stream/channel/f7c17f5fba35d4a98f2311df44758005
+#EXTINF:-1, SuperSport Football Plus (FHD)
+http://82.45.49.11:9981/stream/channel/ac32968dc24e2d677d80258467982439
+#EXTINF:-1, SuperSport Play 1
+http://82.45.49.11:9981/stream/channel/3cf2d91853d329411fcd1d8b204ee073
+#EXTINF:-1, SuperSport La Liga (FHD)
+http://82.45.49.11:9981/stream/channel/88ba877e256523ec80620346246f288d
+#EXTINF:-1, SuperSport Variety 2
+http://82.45.49.11:9981/stream/channel/1c8901e40e2025b26a2ebf063c89cf6b
+#EXTINF:-1, SuperSport Variety 2
+http://82.45.49.11:9981/stream/channel/1c8901e40e2025b26a2ebf063c89cf6b
+#EXTINF:-1, SuperSport Variety 4 (FHD)
+http://82.45.49.11:9981/stream/channel/8ed82d0a023f699a4f92f5082631f66f
+#EXTINF:-1, SuperSport Events
+http://82.45.49.11:9981/stream/channel/6806904880bdf032a4db6f5ea2ab41bf
+#EXTINF:-1, SuperSport PSL (FHD)
+http://82.45.49.11:9981/stream/channel/7ebf85470ee03ddf07830c73c2526047
+#EXTINF:-1, SuperSport Variety 3 (FHD)
+http://82.45.49.11:9981/stream/channel/e84ec93ba04e973aed45f783ce2aa81f
+#EXTINF:-1, SuperSport Play 2
+http://82.45.49.11:9981/stream/channel/f56f75970d1975349bd359eae5837531
+#EXTINF:-1, SuperSport TellyTrack
+http://82.45.49.11:9981/stream/channel/8f7efaea9b247a62ba2ab8fe646ed03b
+#EXTINF:-1, SuperSport MaXimo 1 (SD)
+http://82.45.49.11:9981/stream/channel/864365e92ee5aa2d568c0449470432e8
+#EXTINF:-1, SuperSport Premier League (FHD)
+http://82.45.49.11:9981/stream/channel/7368f915484f51f57795f0e7c268f5ff
+#EXTINF:-1, EPL: OPTUS GOAL RUSH
+http://82.45.49.11:9981/stream/channel/05fb048b15dfa1e889a0612ac238eede
+#EXTINF:-1, EPL: Optus Sport 1
+http://82.45.49.11:9981/stream/channel/d3f54ffcd4c203c99125f0790ca6c51b
 #EXTINF:-1, Now Sports 1
 http://82.45.49.11:9981/stream/channel/d66011f4298a84425ff086818b6df817
 #EXTINF:-1, Now Sports 2
