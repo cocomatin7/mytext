@@ -12596,6 +12596,11 @@ http://appstv.us:25461/live/1/2/285.m3u8
 #EXTINF:-1 group-title="appstv",TUDN EXTRA 5 |appstv
 http://appstv.us:25461/live/1/2/286.m3u8
 
++ + + + + b1g.ca:80 + + + + + null + + + + +
+
+http://b1g.me:80/get.php?username=devin&password=devin&type=m3u
+Real Url: b1g.ca:80     Status: Active    Created: 23/10/2019 10:07:18 AM     Expires: Null    Active Connections: 0     Maximum Connections: 1 
+
 + + + + + iptvportuguese.live:8010 / bigserver.theworkpc.com:8010 + + + + + 300-238 + + + + +
 
 http://bigserver.theworkpc.com:8010/get.php?username=exiptvtreeex2021&password=Pxxfw83tmj4MwgZ4&type=m3u < DOWN?
@@ -12770,9 +12775,6 @@ http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/144845.m3u
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/144841.m3u8
 #EXTINF:-1,PH: beIN Sports 3 HD
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/266844.m3u8
-
-
-
 
 + + + + + bigboss2017.club:8080 / 198.16.72.106:8080 / bornw1ld.cyou:8080 + + + + + DOWN + + + + +
 
