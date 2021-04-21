@@ -12185,6 +12185,42 @@ http://54k.top:8000/live/to44j/oyvee/104.m3u8
 #EXTINF:-1 group-title="54k",bein-7-512k-h265
 http://54k.top:8000/live/to44j/oyvee/105.m3u8
 
++ + + + + 62.182.80.153:80 + + + + + Null + + + + +
+
+http://62.182.80.153:80/get.php?username=Livetv&password=master&type=m3u
+Real Url: 62.182.80.153:80     Status: Active    Created: 7/11/2020 2:59:04 AM     Expires: Null    Active Connections: 189     Maximum Connections: 0
+
+#EXTINF:-1 group-title="62.182",UK: SKY CINEMA PREMIERE
+http://62.182.80.153:80/live/Livetv/master/1.m3u8
+#EXTINF:-1,UK: SKY CINEMA ACTION
+http://62.182.80.153:80/live/Livetv/master/2.m3u8
+#EXTINF:-1,UK: SKY CINEMA CRIME & THRILLER
+http://62.182.80.153:80/live/Livetv/master/3.m3u8
+#EXTINF:-1,UK: SKY CINEMA FAMILY
+http://62.182.80.153:80/live/Livetv/master/4.m3u8
+#EXTINF:-1,UK: SKY CINEMA DISNEY
+http://62.182.80.153:80/live/Livetv/master/5.m3u8
+#EXTINF:-1,UK: SKY CINEMA DRAMA & ROMANCE
+http://62.182.80.153:80/live/Livetv/master/6.m3u8
+#EXTINF:-1,UK: SKY CINEMA SCIFI & HORROR
+http://62.182.80.153:80/live/Livetv/master/7.m3u8
+#EXTINF:-1,UK: SKY CINEMA COMEDY
+http://62.182.80.153:80/live/Livetv/master/8.m3u8
+#EXTINF:-1,UK: BT SPORT 1
+http://62.182.80.153:80/live/Livetv/master/12.m3u8
+#EXTINF:-1,UK: BT SPORT 2
+http://62.182.80.153:80/live/Livetv/master/13.m3u8
+#EXTINF:-1,UK: BT SPORT 3
+http://62.182.80.153:80/live/Livetv/master/52.m3u8
+#EXTINF:-1,UK: SKY SPORTS NEWS
+http://62.182.80.153:80/live/Livetv/master/17.m3u8
+#EXTINF:-1,UK: BEIN SPORT 11 (ENGLISH )
+http://62.182.80.153:80/live/Livetv/master/22.m3u8
+#EXTINF:-1,UK: BEIN SPORT 12 (ENGLISH)
+http://62.182.80.153:80/live/Livetv/master/23.m3u8
+#EXTINF:-1 group-title="62.182",UK: BEIN SPORT 13 (ENGLISH)
+http://62.182.80.153:80/live/Livetv/master/24.m3u8
+
 + + + + + 75.119.151.44:25461 + + + + + beIN CH + + + + +
 
 http://75.119.151.44:25461/get.php?username=beinnnnnnnn&password=beinnnnnnnn&type=m3u
@@ -12272,6 +12308,11 @@ http://176.9.31.213:7080/live/live_channel/e71sq94uo8/105.ts
 + + + + + 185.226.88.6:1026 + + + + +
 
 http://185.226.88.6:1026/get.php?username=SMYYKzbS0z&password=HRj5TKnrRx&type=m3u < null < 1000-276
+
++ + + + + 185.134.22.131:8080 + + + + + 28/9/2021
+
+http://web24.live:8080/get.php?username=6657847853&password=UecFX5R79a&type=m3u
+Real Url: 185.134.22.131:8080     Status: Active    Created: 14/9/2019 12:00:00 AM     Expires: 28/9/2021 11:00:00 PM    Active Connections: 10     Maximum Connections: 11
 
 + + + + + 188.40.76.108:25461 /mytv01 + + + + +
 
@@ -13584,6 +13625,15 @@ http://premium-streamplay.club:8080/live/mama/123456/8130.m3u8
 
 http://securepoint.io:83/get.php?username=promo&password=promo&type=m3u
 Real Url: securepoint.io:83     Status: Active    Created: 19/1/2021 3:44:28 AM     Expires: 25/2/2022 3:44:00 AM    Active Connections: 6     Maximum Connections: 5
+
+http://tv.rebeliptv.com:83/get.php?username=91595487&password=07862755&type=m3u
+Real Url: securepoint.io:83     Status: Active    Created: 30/12/2018 7:39:13 PM     Expires: 26/5/2021 6:39:00 PM    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
+http://securepoint.io:83/get.php?username=86753099&password=86753099&type=m3u
+Real Url: securepoint.io:83     Status: Active    Created: 31/10/2019 11:41:22 PM     Expires: 27/12/2021 12:41:00 AM    Active Connections: 1     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
+http://tv.rebeliptv.com:83/get.php?username=82936722&password=29038858&type=m3u
+Real Url: securepoint.io:83     Status: Active    Created: 12/11/2019 3:47:54 PM     Expires: 12/5/2021 2:47:00 PM    Active Connections: 1     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
 
 #EXTINF:-1 group-title="securepoint",DStv | SuperSport Action
 http://securepoint.io:83/live/promo/promo/387256.m3u8
