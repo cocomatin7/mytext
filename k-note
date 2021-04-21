@@ -2265,6 +2265,14 @@ http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF:-1,Fox Movie
 http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
+
+#EXTINF:-1,Foxfamily'
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:-1,Foxactionhd'
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1,Foxmovie'
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+
 #EXTINF:-1,,HBO MY
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hbohd/playlist.m3u8
@@ -13983,6 +13991,11 @@ http://supertexasiptv.ddns.net:8000/get.php?username=bktv.xyz&password=qLqJNcj9r
 + + + + + tv.wakds.xyz:8080 + + + + +
 
 http://tv.wakds.xyz:8080/tangyuan/12345678/94
+
++ + + + + tv.zero2.site:8080 + + + + + 19/1/2038
+
+http://tv.zero2.site:8080/get.php?username=zero&password=zero&type=m3u
+Real Url: tv.zero2.site:8080 /zero2.site:8080     Status: Active    Created: 17/3/2021 7:51:53 PM     Expires: 19/1/2038 3:14:07 AM    Active Connections: 19     Maximum Connections: 100000
 
 + + + + + uk.redhatiptv.com:25461 + + + + +
 
