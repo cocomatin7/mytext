@@ -12221,6 +12221,11 @@ http://62.182.80.153:80/live/Livetv/master/23.m3u8
 #EXTINF:-1 group-title="62.182",UK: BEIN SPORT 13 (ENGLISH)
 http://62.182.80.153:80/live/Livetv/master/24.m3u8
 
++ + + + + 69.10.62.24:25461 + + + + + null + + + + + movies 
+
+http://69.10.62.24:25461/get.php?username=ufoDq8XnAO&password=kV3q1gkVRX&type=m3u
+Real Url: 69.10.62.24:25461     Status: Active    Created: 19/4/2021 1:01:49 AM     Expires: Null    Active Connections: 15     Maximum Connections: 200
+
 + + + + + 75.119.151.44:25461 + + + + + beIN CH + + + + +
 
 http://75.119.151.44:25461/get.php?username=beinnnnnnnn&password=beinnnnnnnn&type=m3u
