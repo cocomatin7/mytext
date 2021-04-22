@@ -2254,8 +2254,17 @@ http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 group-title="TH/50.7",TVN HD
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+
 #EXTINF:-1,Tvnmovie |185
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+#EXTINF:-1,Assp1 |185
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1,Assp2 |185
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1,Assp3 |185
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1,Assp4 |185
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
 ,Prima HD
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
@@ -13635,9 +13644,59 @@ http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/693.m3u8
 
 http://premium-streamplay.club:8080/live/mama/123456/8130.m3u8
 
++ + + + + pulsestreams.ddns.me:8080 + + + + +
+
+http://pulsestreamstv.uk:8080/get.php?username=tyler12345&password=tyler12345&type=m3u
+Real Url: pulsestreams.ddns.me:8080     Status: Active    Created: 27/2/2021 2:22:56 PM     Expires: 27/2/2022 2:22:56 PM    Active Connections: 0     Maximum Connections: 2
+
 + + + + + qqtv.nl:8080 + + + + +
 
-http://qqtv.nl:8080/get.php?username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&type=m3u&output=hls < null < 1100-1006
+http://qqtv.nl:8080/get.php?username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&type=m3u&output=hls < null < 1100-1006 < xxx
+
+Penthouse Gold HD http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/87010
+VENUS LA2 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/87020
+SEXTREME LA3 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/86675
+Dorcel HD http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/87014
+Penthouse HD http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/87016
+Redlight HD http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15193
+
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15611
+
+beIN Sports 11 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30238
+beIN Sports 2PRE http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30239
+beIN Sports 2FR http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30240
+
+beIN Sports 7 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30242
+
+tvu http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20000
+diy http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21100
+ctv http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21110
+
+
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/1111
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/11111
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21111
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31111
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/41111
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/51111
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/61111
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/71111
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/81111
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/91111
+
+https://mediasv.online/live/warner/playlist.m3u8
+https://mediasv.online/tvchannel_x1/moviehits/playlist.m3u8
+https://mediasv.online/tvchannel_x1/hd-hbo-thai/playlist.m3u8
+https://mediasv.online/tvchannel_x1/foxactionmovie/playlist.m3u8
+https://mediasv.online/tvchannel_x1/fox-family/playlist.m3u8
+https://mediasv.online/tvchannel_x1/hd-foxpremium/playlist.m3u8
+https://mediasv.online/live/trueepl1/playlist.m3u8
+https://mediasv.online/live7f/truepl1Fallback/playlist.m3u8
+https://mediasv.online/tvchannel_x1/hits/playlist.m3u8
+https://mediasv.online/tvchannel_x1/hbo-family/playlist.m3u8
+https://mediasv.online/tvchannel_x1/hd-hbo-hit/playlist.m3u8
+https://mediasv.online/tvchannel_x1/hd-hbo-signature/playlist.m3u8
+https://mediasv.online/tvchannel_x1/cartoonnetwork/playlist.m3u8
 
 + + + + + starshare.live:8080 [MY+MM] + + + + +
 + + + + + s1.showplustv.com:1997 [TH+MM] + + + + +
