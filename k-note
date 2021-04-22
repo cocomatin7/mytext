@@ -423,6 +423,10 @@ https://rwyzjmd8vxbgug4d.ezcdn383.net:8443/hls/oaa446jqf0418.m3u8?s=C0E9JJRJIYv_
 #EXTINF:-1, sportz HD3
 https://rwyzjmd8vxbgug4d.ezcdn383.net:8443/hls/71dv0gylb.m3u8?s=P94rSIczkv0OXTBQ5enb-g&e=1617476430
 
+#EXTINF:-1,star-live
+http://uk4.zecast.com:1935/star-live/cloud2t/chunklist.m3u8
+
+
 OVO1 http://www.ovostreams.com/1.php
 http://pull-2002.5centscdn.com/hls/liveovo1.m3u8
 
@@ -13630,6 +13634,10 @@ http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/693.m3u8
 + + + + + pro-panel01.club:8080 / premium-streamplay.club [SEA] + + + + +
 
 http://premium-streamplay.club:8080/live/mama/123456/8130.m3u8
+
++ + + + + qqtv.nl:8080 + + + + +
+
+http://qqtv.nl:8080/get.php?username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&type=m3u&output=hls < null < 1100-1006
 
 + + + + + starshare.live:8080 [MY+MM] + + + + +
 + + + + + s1.showplustv.com:1997 [TH+MM] + + + + +
