@@ -138,6 +138,27 @@ http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1,SPORTTV5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
+#EXTINF:-1,ASSP 1 |96
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
+#EXTINF:-1,ASSP 2 |96
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
+#EXTINF:-1,ASSP 3 |96
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
+#EXTINF:-1,ASSP 4 |96
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
+#EXTINF:-1,Mediacorp 5
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10001&key=84797b799ae18d1b
+#EXTINF:-1,Mediacorp 8
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10002&key=84797b799ae18d1b
+#EXTINF:-1,Mediacorp U
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10003&key=84797b799ae18d1b
+#EXTINF:-1,Mediacorp S
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10004&key=84797b799ae18d1b
+#EXTINF:-1,Mediacorp Vasanatham
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10005&key=84797b799ae18d1b
+#EXTINF:-1,Mediacorp cna
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_10007&key=84797b799ae18d1b
+
 #EXTINF:-1 group-title="BamarTV/Sport",True Premiere Football HD1 |160.119
 http://160.119.77.117/iptv/epl-1.stream/chunks.m3u8
 #EXTINF:-1,True Premiere Football HD2 |160.119
