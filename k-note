@@ -146,6 +146,7 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
 #EXTINF:-1,ASSP 4 |96
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
+
 #EXTINF:-1,Mediacorp 5
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10001&key=84797b799ae18d1b
 #EXTINF:-1,Mediacorp 8
@@ -2286,6 +2287,15 @@ http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1,Assp4 |185
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+
+#EXTINF:-1,Bein1hd
+http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
+#EXTINF:-1,Bein2hd
+http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
+
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 
 ,Prima HD
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
@@ -6055,9 +6065,15 @@ https://zalogi.xyz/exo/playlist/red-mkctvMalingPlaylist.m3u8
 
 
 https://www.dropbox.com/s/dl/zz3he1mu3lilgiz/mkctv_cinemax.m3u8
-
 https://dl.dropbox.com/s/mz1iezbism3zjy6/hbo.m3u8?dl=1
 https://dl.dropboxusercontent.com/s/mz1iezbism3zjy6/hbo.m3u8?dl=1
+https://dl.dropbox.com/s/lopcwe16r7c6flw/cinemax.m3u8?dl=1
+https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
+https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
+https://dl.dropbox.com/s/epjbhhbgl8dmtdt/family.m3u8?dl=1
+https://dl.dropbox.com/s/mz1iezbism3zjy6/hbo.m3u8?dl=1
+https://www.dropbox.com/s/dl/lmx3f8dnbe6xee4/hbo_omahtv.m3u8
+
 https://www.dropbox.com/s/dl/o9397gnmm0s44ar/mkctv_hbofam.m3u8
 https://www.dropbox.com/s/dl/6wm74beyzd0w9xo/mkctv_hbohit.m3u8
 https://www.dropbox.com/s/dl/fvu91fvkr31yngd/mkctv_hbosig.m3u8
