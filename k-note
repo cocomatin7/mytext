@@ -4448,7 +4448,7 @@ http://73.85.95.69:9981/stream/service/140529e76e5e612b75b3d06c102d3872
 #EXTINF:-1 group-title="73.85", Sky Movies Great ||73.85
 http://73.85.95.69:9981/stream/service/cbaeecc62cca41e46d7b0f1cf08b8a9c
 
-+ + + + + http://82.45.49.11:9981/extjs.html + + + + + 
++ + + + + http://82.45.49.11:9981/extjs.html + + + + + locked
 
  group-title="82.45", 01:
 http://82.45.49.11:9981/stream/mux/4f334f1d21370b6606a617fe051f3b58
@@ -5359,60 +5359,11 @@ http://82.45.49.11:9981/stream/channelid/950969635?profile=pass
  group-title="82.45",VIP UK: BT Sport 3 FHD
 http://82.45.49.11:9981/stream/channelid/586227666?profile=pass
 
-+ + + + http://108.48.50.123:9981/extjs.html + + + + meeko|martii14
++ + + + http://86.28.196.144:9981/extjs.html + + + + 
 
 #EXTINF:-1 group-title="86.28",(sub b +1000)
 http://86.28.196.144:9981/stream/channelid/1531820187?ticket=D02F671DFCB367F2891AC52C260ADB2154F6C483&profile=pass
-#EXTINF:-1,1007
-http://86.28.196.144:9981/stream/channelid/571318025?ticket=2A487E15D6779C13CD48CD5EB7DE126590578C89&profile=pass
-#EXTINF:-1,1008
-http://86.28.196.144:9981/stream/channelid/1537239195?ticket=5935FFE38CE50CB9C7D333BD0F00FA7D9EC7A15F&profile=pass
-#EXTINF:-1,3100
-http://86.28.196.144:9981/stream/channelid/2099133104?ticket=CDA3DCA8907C36D96C9B82C8D61D78274C4F2C64&profile=pass
-#EXTINF:-1,50342
-http://86.28.196.144:9981/stream/channelid/1439595609?ticket=DF841E4B74789143A97DC3FC4D282CBFE9AA3032&profile=pass
-#EXTINF:-1,50343
-http://86.28.196.144:9981/stream/channelid/56474281?ticket=8B9A387F82CCD0289D9F287924A845A7E54C280B&profile=pass
-#EXTINF:-1,50368
-http://86.28.196.144:9981/stream/channelid/132498968?ticket=086D99807476654B3BA788E068C41AB588A3DACA&profile=pass
-#EXTINF:-1,50662
-http://86.28.196.144:9981/stream/channelid/1264916806?ticket=9F8A45710E9DCE1BA1E7513E86D2F0442B2BA40D&profile=pass
-#EXTINF:-1,50663
-http://86.28.196.144:9981/stream/channelid/691683553?ticket=3ED0B5ABC3658A2DE3A4A38002734D40930F8FFD&profile=pass
-#EXTINF:-1,50666
-http://86.28.196.144:9981/stream/channelid/133991848?ticket=758291990303F3DCB9930FBC4A58AEEF504A2FAB&profile=pass
-#EXTINF:-1,50682
-http://86.28.196.144:9981/stream/channelid/1330894690?ticket=CF77E3D6015DB3CD66C29D4963FD5060DE3D5007&profile=pass
-#EXTINF:-1,50683
-http://86.28.196.144:9981/stream/channelid/1087459263?ticket=B5380BBAD2E06985E7EEC7C296740E1D8BA3308B&profile=pass
-#EXTINF:-1,50686
-http://86.28.196.144:9981/stream/channelid/1458559446?ticket=4F3BD932401DA9C2BDEFD466B7B4AF344C6FB707&profile=pass
-#EXTINF:-1,52210
-http://86.28.196.144:9981/stream/channelid/1725756505?ticket=ABAA40B29ECE1FA9813EC20545552EC3F1542AB0&profile=pass
-#EXTINF:-1,52221
-http://86.28.196.144:9981/stream/channelid/510286536?ticket=63DF9F6F040B2D1975198259E913315A50C5B7AA&profile=pass
-#EXTINF:-1,52231
-http://86.28.196.144:9981/stream/channelid/1104071745?ticket=5C7B9E0A4951FAB454024C64F357E6571D448832&profile=pass
-#EXTINF:-1,52240
-http://86.28.196.144:9981/stream/channelid/1564240999?ticket=6243E72AB3C49809161576F97D85B868D05B986B&profile=pass
-#EXTINF:-1,53395
-http://86.28.196.144:9981/stream/channelid/1399473018?ticket=E3D94C99079A0626FC275E2510C89E1DCF023FC4&profile=pass
-#EXTINF:-1,5503
-http://86.28.196.144:9981/stream/channelid/573224982?ticket=7D3138015D0DA0765D7309BD44D4F6DFAAF56F96&profile=pass
-#EXTINF:-1,55251
-http://86.28.196.144:9981/stream/channelid/525466678?ticket=7032560A323F045EA452D37948368792FD5BBF94&profile=pass
-#EXTINF:-1,55265
-http://86.28.196.144:9981/stream/channelid/1515117165?ticket=51B34B8E1AFC4DF9D1C1B4630A91365379BF7AD7&profile=pass
-#EXTINF:-1,7100
-http://86.28.196.144:9981/stream/channelid/598238115?ticket=C455B9B9290DAFB4A466AD2C149BF7845E3FE964&profile=pass
-#EXTINF:-1,7105
-http://86.28.196.144:9981/stream/channelid/261656625?ticket=EB3A9AD2FF94FD208C2B0A7691C039FBB3BB9C99&profile=pass
-#EXTINF:-1,9501
-http://86.28.196.144:9981/stream/channelid/710032784?ticket=2DBC334B2C90A200BA0AEA91D0A0294523F12C39&profile=pass
-#EXTINF:-1,___4109
-http://86.28.196.144:9981/stream/channelid/1426305051?ticket=4D4A8FFABFF092F5CC83690736D172B623D28AE3&profile=pass
-#EXTINF:-1,___4110
-http://86.28.196.144:9981/stream/channelid/1545384213?ticket=34523A83D07F4F8320765B8F4FAB111A9C6EF331&profile=pass
+
 #EXTINF:-1,Anytime
 http://86.28.196.144:9981/stream/channelid/1691942296?ticket=B25E901781177B83061B2E1D1CF05608D3082A35&profile=pass
 #EXTINF:-1,Astra UHD Demo
@@ -6486,7 +6437,926 @@ http://86.28.196.144:9981/stream/channelid/1697530255?ticket=12D9FC75107C37CCCB3
 
 + + + + http://108.48.50.123:9981/extjs.html + + + + * | * + + + + + jayel | samsung7 + + + + + default | default$27 | PSe0WeZ4DuTCJAFY3b2g0uErXVYo
 
-http://108.48.50.123:9981/extjs.html < try again later
+#EXTINF:-1 group-title="108.48",3ABN
+http://108.48.50.123:9981/stream/channelid/1500035023?profile=pass
+#EXTINF:-1,[entertainment] BEIN.BARAEM.
+http://108.48.50.123:9981/stream/channelid/634275396?profile=pass
+#EXTINF:-1,[Kids]: Disney Junior
+http://108.48.50.123:9981/stream/channelid/956725357?profile=pass
+#EXTINF:-1,[Libya.Sudan]: AR_Sudania24
+http://108.48.50.123:9981/stream/channelid/911673938?profile=pass
+#EXTINF:-1,[MBC.Rotana]: MBC + DRAMA
+http://108.48.50.123:9981/stream/channelid/794595286?profile=pass
+#EXTINF:-1,[MBC.Rotana]: MBC 4
+http://108.48.50.123:9981/stream/channelid/357457069?profile=pass
+#EXTINF:-1,[MBC.Rotana]: Rotana
+http://108.48.50.123:9981/stream/channelid/127365024?profile=pass
+#EXTINF:-1,[TR] SINEMA TV 1001
+http://108.48.50.123:9981/stream/channelid/2132284068?profile=pass
+#EXTINF:-1,ABC 8 (Tulsa) |
+http://108.48.50.123:9981/stream/channelid/1559630838?profile=pass
+#EXTINF:-1,AF : AFRICA MAGIC FAMILY
+http://108.48.50.123:9981/stream/channelid/1649422810?profile=pass
+#EXTINF:-1,AF: AFRICA MAGIC EPIC
+http://108.48.50.123:9981/stream/channelid/1490725514?profile=pass
+#EXTINF:-1,AL: Film Aksion
+http://108.48.50.123:9981/stream/channelid/1906655506?profile=pass
+#EXTINF:-1,AL: Film Autor
+http://108.48.50.123:9981/stream/channelid/924942281?profile=pass
+#EXTINF:-1,AL: Film Hits
+http://108.48.50.123:9981/stream/channelid/1301898016?profile=pass
+#EXTINF:-1,AL: Film Komedi
+http://108.48.50.123:9981/stream/channelid/1316770680?profile=pass
+#EXTINF:-1,AL: Film Nje
+http://108.48.50.123:9981/stream/channelid/1631751883?profile=pass
+#EXTINF:-1,AL: JOLLY
+http://108.48.50.123:9981/stream/channelid/1933015083?profile=pass
+#EXTINF:-1,AL: Kino Comedy
+http://108.48.50.123:9981/stream/channelid/1706119634?profile=pass
+#EXTINF:-1,AL: Kino Dark
+http://108.48.50.123:9981/stream/channelid/741765783?profile=pass
+#EXTINF:-1,AL: Kino Family
+http://108.48.50.123:9981/stream/channelid/1954663207?profile=pass
+#EXTINF:-1,AL: Kino Premiere 1
+http://108.48.50.123:9981/stream/channelid/814078367?profile=pass
+#EXTINF:-1,AL: Kino Premiere 2
+http://108.48.50.123:9981/stream/channelid/57738410?profile=pass
+#EXTINF:-1,AL: Kino Premiere 3
+http://108.48.50.123:9981/stream/channelid/2068734615?profile=pass
+#EXTINF:-1,AL: Kino ROMANCE
+http://108.48.50.123:9981/stream/channelid/1053671391?profile=pass
+#EXTINF:-1,AL: Kino Scifi
+http://108.48.50.123:9981/stream/channelid/386567705?profile=pass
+#EXTINF:-1,AL: KLAN
+http://108.48.50.123:9981/stream/channelid/1213916953?profile=pass
+#EXTINF:-1,AL: KLAN Kosova
+http://108.48.50.123:9981/stream/channelid/1248085095?profile=pass
+#EXTINF:-1,AL: KTV
+http://108.48.50.123:9981/stream/channelid/969745799?profile=pass
+#EXTINF:-1,AL: Living
+http://108.48.50.123:9981/stream/channelid/1012516927?profile=pass
+#EXTINF:-1,AL: Plus
+http://108.48.50.123:9981/stream/channelid/487981818?profile=pass
+#EXTINF:-1,AL: RTSH Sport
+http://108.48.50.123:9981/stream/channelid/27910473?profile=pass
+#EXTINF:-1,AL: RTV 21 Mix
+http://108.48.50.123:9981/stream/channelid/1099737548?profile=pass
+#EXTINF:-1,AL: Super Sport 1
+http://108.48.50.123:9981/stream/channelid/661742018?profile=pass
+#EXTINF:-1,AL: Super Sport 2
+http://108.48.50.123:9981/stream/channelid/414317892?profile=pass
+#EXTINF:-1,AL: Super Sport 3
+http://108.48.50.123:9981/stream/channelid/569577434?profile=pass
+#EXTINF:-1,AL: Super Sport 4
+http://108.48.50.123:9981/stream/channelid/1011520098?profile=pass
+#EXTINF:-1,AL: Super Sport Kosovo 1
+http://108.48.50.123:9981/stream/channelid/1372801179?profile=pass
+#EXTINF:-1,AL: Super Sport Kosovo 2
+http://108.48.50.123:9981/stream/channelid/365679640?profile=pass
+#EXTINF:-1,AL: Top Channel
+http://108.48.50.123:9981/stream/channelid/2097736962?profile=pass
+#EXTINF:-1,AL: TRING SPORT 1
+http://108.48.50.123:9981/stream/channelid/415601705?profile=pass
+#EXTINF:-1,AL: Tring Sport 2
+http://108.48.50.123:9981/stream/channelid/221086090?profile=pass
+#EXTINF:-1,AL: Tring Sport 3
+http://108.48.50.123:9981/stream/channelid/793646179?profile=pass
+#EXTINF:-1,AL: TRING SPORT 4
+http://108.48.50.123:9981/stream/channelid/21931371?profile=pass
+#EXTINF:-1,AL: Vizion Plus
+http://108.48.50.123:9981/stream/channelid/542726384?profile=pass
+#EXTINF:-1,Arena Sport 1
+http://108.48.50.123:9981/stream/channelid/717878343?profile=pass
+#EXTINF:-1,Arena Sport 2
+http://108.48.50.123:9981/stream/channelid/86959543?profile=pass
+#EXTINF:-1,Arena Sport 4
+http://108.48.50.123:9981/stream/channelid/867159541?profile=pass
+#EXTINF:-1,Arena Sport 5
+http://108.48.50.123:9981/stream/channelid/1864032898?profile=pass
+#EXTINF:-1,ARG: A&E
+http://108.48.50.123:9981/stream/channelid/283124580?profile=pass
+#EXTINF:-1,ARG: AMC
+http://108.48.50.123:9981/stream/channelid/948724428?profile=pass
+#EXTINF:-1,ARG: AMERICA
+http://108.48.50.123:9981/stream/channelid/879489406?profile=pass
+#EXTINF:-1,ARG: AMERICA 24
+http://108.48.50.123:9981/stream/channelid/1693253798?profile=pass
+#EXTINF:-1,ARG: ARGENTINISIMA
+http://108.48.50.123:9981/stream/channelid/94237042?profile=pass
+#EXTINF:-1,ARG: AXN
+http://108.48.50.123:9981/stream/channelid/745704534?profile=pass
+#EXTINF:-1,ARG: BABY TV
+http://108.48.50.123:9981/stream/channelid/674128911?profile=pass
+#EXTINF:-1,ARG: BOOMERANG
+http://108.48.50.123:9981/stream/channelid/652828130?profile=pass
+#EXTINF:-1,ARG: CANAL 13
+http://108.48.50.123:9981/stream/channelid/1338720159?profile=pass
+#EXTINF:-1,ARG: CANAL 21
+http://108.48.50.123:9981/stream/channelid/441008621?profile=pass
+#EXTINF:-1,ARG: CANAL 26
+http://108.48.50.123:9981/stream/channelid/252171787?profile=pass
+#EXTINF:-1,ARG: CANAL 9
+http://108.48.50.123:9981/stream/channelid/980821720?profile=pass
+#EXTINF:-1,ARG: CARTOON NETWORK
+http://108.48.50.123:9981/stream/channelid/824319867?profile=pass
+#EXTINF:-1,ARG: CINECANAL
+http://108.48.50.123:9981/stream/channelid/1529750019?profile=pass
+#EXTINF:-1,ARG: CINEMAX
+http://108.48.50.123:9981/stream/channelid/1805230430?profile=pass
+#EXTINF:-1,ARG: CIUDAD MAGAZINE
+http://108.48.50.123:9981/stream/channelid/1764665260?profile=pass
+#EXTINF:-1,ARG: CNN
+http://108.48.50.123:9981/stream/channelid/1332263624?profile=pass
+#EXTINF:-1,ARG: COMEDY
+http://108.48.50.123:9981/stream/channelid/905714642?profile=pass
+#EXTINF:-1,ARG: CRONICA
+http://108.48.50.123:9981/stream/channelid/335621864?profile=pass
+#EXTINF:-1,ARG: DISNEY
+http://108.48.50.123:9981/stream/channelid/1816191744?profile=pass
+#EXTINF:-1,ARG: DISNEY JUNIOR
+http://108.48.50.123:9981/stream/channelid/350337303?profile=pass
+#EXTINF:-1,ARG: DISNEY XD
+http://108.48.50.123:9981/stream/channelid/49907600?profile=pass
+#EXTINF:-1,ARG: DW
+http://108.48.50.123:9981/stream/channelid/1455093499?profile=pass
+#EXTINF:-1,ARG: E!
+http://108.48.50.123:9981/stream/channelid/1509537460?profile=pass
+#EXTINF:-1,ARG: ENCUENTRO
+http://108.48.50.123:9981/stream/channelid/2034961575?profile=pass
+#EXTINF:-1,ARG: ESPN 2
+http://108.48.50.123:9981/stream/channelid/1206040751?profile=pass
+#EXTINF:-1,ARG: ESPN 3
+http://108.48.50.123:9981/stream/channelid/1353877686?profile=pass
+#EXTINF:-1,ARG: EUROPA
+http://108.48.50.123:9981/stream/channelid/1793754906?profile=pass
+#EXTINF:-1,ARG: FILM & ARTS
+http://108.48.50.123:9981/stream/channelid/1300031897?profile=pass
+#EXTINF:-1,ARG: FOX
+http://108.48.50.123:9981/stream/channelid/1955401793?profile=pass
+#EXTINF:-1,ARG: FOX LIFE
+http://108.48.50.123:9981/stream/channelid/1612196334?profile=pass
+#EXTINF:-1,ARG: FOX NEWS
+http://108.48.50.123:9981/stream/channelid/170144413?profile=pass
+#EXTINF:-1,ARG: FOX PREMIUM ACTION
+http://108.48.50.123:9981/stream/channelid/2005743742?profile=pass
+#EXTINF:-1,ARG: FOX PREMIUM CINEMA
+http://108.48.50.123:9981/stream/channelid/1756696933?profile=pass
+#EXTINF:-1,ARG: FOX PREMIUM CLASSICS
+http://108.48.50.123:9981/stream/channelid/1551456066?profile=pass
+#EXTINF:-1,ARG: FOX PREMIUM COMEDY
+http://108.48.50.123:9981/stream/channelid/1885765718?profile=pass
+#EXTINF:-1,ARG: FOX PREMIUM FAMILY
+http://108.48.50.123:9981/stream/channelid/756856220?profile=pass
+#EXTINF:-1,ARG: FOX PREMIUM FAMILY OESTE
+http://108.48.50.123:9981/stream/channelid/1161052396?profile=pass
+#EXTINF:-1,ARG: FOX PREMIUM MOVIES
+http://108.48.50.123:9981/stream/channelid/1466338714?profile=pass
+#EXTINF:-1,ARG: FOX PREMIUM SERIES
+http://108.48.50.123:9981/stream/channelid/1554574142?profile=pass
+#EXTINF:-1,ARG: FOX SPORTS
+http://108.48.50.123:9981/stream/channelid/1157358072?profile=pass
+#EXTINF:-1,ARG: FOX SPORTS 2
+http://108.48.50.123:9981/stream/channelid/1052165792?profile=pass
+#EXTINF:-1,ARG: FOX SPORTS 3
+http://108.48.50.123:9981/stream/channelid/1844673169?profile=pass
+#EXTINF:-1,ARG: FOX SPORTS PREMIUM
+http://108.48.50.123:9981/stream/channelid/1646760935?profile=pass
+#EXTINF:-1,ARG: FX
+http://108.48.50.123:9981/stream/channelid/70953747?profile=pass
+#EXTINF:-1,ARG: FXM
+http://108.48.50.123:9981/stream/channelid/277457910?profile=pass
+#EXTINF:-1,ARG: GOLF CHANNEL
+http://108.48.50.123:9981/stream/channelid/1722198304?profile=pass
+#EXTINF:-1,ARG: HISTORY
+http://108.48.50.123:9981/stream/channelid/1794037728?profile=pass
+#EXTINF:-1,ARG: MAS CHIC
+http://108.48.50.123:9981/stream/channelid/1626390736?profile=pass
+#EXTINF:-1,ARG: MAX
+http://108.48.50.123:9981/stream/channelid/859800243?profile=pass
+#EXTINF:-1,ARG: MTV
+http://108.48.50.123:9981/stream/channelid/1239717102?profile=pass
+#EXTINF:-1,ARG: NICKELODEON
+http://108.48.50.123:9981/stream/channelid/1379340697?profile=pass
+#EXTINF:-1,ARG: NICKELODEON JR
+http://108.48.50.123:9981/stream/channelid/180752046?profile=pass
+#EXTINF:-1,ARG: QUIERO MUSICA
+http://108.48.50.123:9981/stream/channelid/1229091471?profile=pass
+#EXTINF:-1,ARG: RURAL
+http://108.48.50.123:9981/stream/channelid/1674276805?profile=pass
+#EXTINF:-1,ARG: SPACE
+http://108.48.50.123:9981/stream/channelid/900305536?profile=pass
+#EXTINF:-1,ARG: TELEFE
+http://108.48.50.123:9981/stream/channelid/1419094276?profile=pass
+#EXTINF:-1,ARG: TELEMAX
+http://108.48.50.123:9981/stream/channelid/1960622970?profile=pass
+#EXTINF:-1,ARG: TN
+http://108.48.50.123:9981/stream/channelid/212858896?profile=pass
+#EXTINF:-1,ARG: TNT SPORTS
+http://108.48.50.123:9981/stream/channelid/1811272105?profile=pass
+#EXTINF:-1,ARG: TV PUBLICA
+http://108.48.50.123:9981/stream/channelid/713388874?profile=pass
+#EXTINF:-1,ARG: TV5
+http://108.48.50.123:9981/stream/channelid/1987026546?profile=pass
+#EXTINF:-1,ARG: TVE
+http://108.48.50.123:9981/stream/channelid/1767659847?profile=pass
+#EXTINF:-1,ARG: VH1
+http://108.48.50.123:9981/stream/channelid/890224998?profile=pass
+#EXTINF:-1,Astro Super Sport 1
+http://108.48.50.123:9981/stream/channelid/970050632?profile=pass
+#EXTINF:-1,Astro Super Sport 2
+http://108.48.50.123:9981/stream/channelid/315151055?profile=pass
+#EXTINF:-1,Astro Super Sport 3
+http://108.48.50.123:9981/stream/channelid/559469829?profile=pass
+#EXTINF:-1,Astro Super Sport 4
+http://108.48.50.123:9981/stream/channelid/2013348293?profile=pass
+#EXTINF:-1,BE: CANVAS
+http://108.48.50.123:9981/stream/channelid/717397057?profile=pass
+#EXTINF:-1,BE: RTL-TVI
+http://108.48.50.123:9981/stream/channelid/388991716?profile=pass
+#EXTINF:-1,BE: VIER
+http://108.48.50.123:9981/stream/channelid/1662435085?profile=pass
+#EXTINF:-1,BG: 24 Kitchen
+http://108.48.50.123:9981/stream/channelid/209568491?profile=pass
+#EXTINF:-1,BG: Animal Planet
+http://108.48.50.123:9981/stream/channelid/2058128660?profile=pass
+#EXTINF:-1,BG: Balkanika Music TV
+http://108.48.50.123:9981/stream/channelid/2097821208?profile=pass
+#EXTINF:-1,BG: bTV Action
+http://108.48.50.123:9981/stream/channelid/1642014107?profile=pass
+#EXTINF:-1,BG: CineMax 1
+http://108.48.50.123:9981/stream/channelid/1939390485?profile=pass
+#EXTINF:-1,BG: CineMax 2
+http://108.48.50.123:9981/stream/channelid/142323885?profile=pass
+#EXTINF:-1,BG: Diema Sport
+http://108.48.50.123:9981/stream/channelid/777545858?profile=pass
+#EXTINF:-1,BG: Discovery Science
+http://108.48.50.123:9981/stream/channelid/264820152?profile=pass
+#EXTINF:-1,BG: Disney
+http://108.48.50.123:9981/stream/channelid/1510179014?profile=pass
+#EXTINF:-1,BG: Eurosport 1
+http://108.48.50.123:9981/stream/channelid/324264861?profile=pass
+#EXTINF:-1,BG: Fen TV
+http://108.48.50.123:9981/stream/channelid/1183280578?profile=pass
+#EXTINF:-1,BG: Food Network
+http://108.48.50.123:9981/stream/channelid/1182999961?profile=pass
+#EXTINF:-1,BG: FOX
+http://108.48.50.123:9981/stream/channelid/980792631?profile=pass
+#EXTINF:-1,BG: Fox Crime
+http://108.48.50.123:9981/stream/channelid/1295513489?profile=pass
+#EXTINF:-1,BG: History Channel
+http://108.48.50.123:9981/stream/channelid/697359092?profile=pass
+#EXTINF:-1,BG: Hobby TV
+http://108.48.50.123:9981/stream/channelid/1908122909?profile=pass
+#EXTINF:-1,BG: iConcerts
+http://108.48.50.123:9981/stream/channelid/124830708?profile=pass
+#EXTINF:-1,BG: Insight
+http://108.48.50.123:9981/stream/channelid/1377450691?profile=pass
+#EXTINF:-1,BG: Max Sport 1
+http://108.48.50.123:9981/stream/channelid/401584793?profile=pass
+#EXTINF:-1,BG: Nat Geo Wild
+http://108.48.50.123:9981/stream/channelid/745357282?profile=pass
+#EXTINF:-1,BG: Nova Sport
+http://108.48.50.123:9981/stream/channelid/86425492?profile=pass
+#EXTINF:-1,BG: RING.BG
+http://108.48.50.123:9981/stream/channelid/2099103987?profile=pass
+#EXTINF:-1,BG: Trace Sport Stars
+http://108.48.50.123:9981/stream/channelid/1190725358?profile=pass
+#EXTINF:-1,BG: Travel
+http://108.48.50.123:9981/stream/channelid/1854078525?profile=pass
+#EXTINF:-1,BG: Travel TV
+http://108.48.50.123:9981/stream/channelid/1067684187?profile=pass
+#EXTINF:-1,BG: Vivacom Arena
+http://108.48.50.123:9981/stream/channelid/2024561834?profile=pass
+#EXTINF:-1,BG: Wild TV
+http://108.48.50.123:9981/stream/channelid/531253882?profile=pass
+#EXTINF:-1,BG: WnessTV
+http://108.48.50.123:9981/stream/channelid/1258172519?profile=pass
+#EXTINF:-1,C-SPAN
+http://108.48.50.123:9981/stream/channelid/1584478387?profile=pass
+#EXTINF:-1,C-SPAN 2
+http://108.48.50.123:9981/stream/channelid/498043773?profile=pass
+#EXTINF:-1,C-SPAN3
+http://108.48.50.123:9981/stream/channelid/163751095?profile=pass
+#EXTINF:-1,CA NBA TV
+http://108.48.50.123:9981/stream/channelid/1037522176?profile=pass
+#EXTINF:-1,CA NBA TV Canada
+http://108.48.50.123:9981/stream/channelid/1680309917?profile=pass
+#EXTINF:-1,CA NFL Network
+http://108.48.50.123:9981/stream/channelid/360232727?profile=pass
+#EXTINF:-1,CANADA: ABC BUFFALO
+http://108.48.50.123:9981/stream/channelid/996467741?profile=pass
+#EXTINF:-1,CANADA: ABC SPARK
+http://108.48.50.123:9981/stream/channelid/1634246275?profile=pass
+#EXTINF:-1,CANADA: ADULT SWIM
+http://108.48.50.123:9981/stream/channelid/1681151272?profile=pass
+#EXTINF:-1,CANADA: APTN
+http://108.48.50.123:9981/stream/channelid/455753541?profile=pass
+#EXTINF:-1,CANADA: CABLEPULSE 24
+http://108.48.50.123:9981/stream/channelid/1732657668?profile=pass
+#EXTINF:-1,CANADA: CTV MONTREAL
+http://108.48.50.123:9981/stream/channelid/772483603?profile=pass
+#EXTINF:-1,CANADA: DISCOVERY CHANNEL
+http://108.48.50.123:9981/stream/channelid/239699560?profile=pass
+#EXTINF:-1,CANADA: GOLF
+http://108.48.50.123:9981/stream/channelid/587066577?profile=pass
+#EXTINF:-1,CANADA: LOVE NATURE
+http://108.48.50.123:9981/stream/channelid/1945271856?profile=pass
+#EXTINF:-1,CANADA: PBS
+http://108.48.50.123:9981/stream/channelid/1647321143?profile=pass
+#EXTINF:-1,CANADA: SHOWCASE
+http://108.48.50.123:9981/stream/channelid/1695919252?profile=pass
+#EXTINF:-1,CRO: Sport KLUB 1
+http://108.48.50.123:9981/stream/channelid/357142174?profile=pass
+#EXTINF:-1,CRO: Sport KLUB 4
+http://108.48.50.123:9981/stream/channelid/1640403621?profile=pass
+#EXTINF:-1,CRO: Sport KLUB 5
+http://108.48.50.123:9981/stream/channelid/1124191518?profile=pass
+#EXTINF:-1,DE: 13TH STREET
+http://108.48.50.123:9981/stream/channelid/1580284165?profile=pass
+#EXTINF:-1,DE: ARD
+http://108.48.50.123:9981/stream/channelid/1955277436?profile=pass
+#EXTINF:-1,DE: DISNEY CINEMAGIC
+http://108.48.50.123:9981/stream/channelid/1306060492?profile=pass
+#EXTINF:-1,DE: DMAX
+http://108.48.50.123:9981/stream/channelid/951703733?profile=pass
+#EXTINF:-1,DE: Eurosport 2
+http://108.48.50.123:9981/stream/channelid/1191977176?profile=pass
+#EXTINF:-1,DE: Nat Geo Wild
+http://108.48.50.123:9981/stream/channelid/1826534154?profile=pass
+#EXTINF:-1,DE: Nickelodeon
+http://108.48.50.123:9981/stream/channelid/123625842?profile=pass
+#EXTINF:-1,DE: Phoenix
+http://108.48.50.123:9981/stream/channelid/1646960051?profile=pass
+#EXTINF:-1,DE: PRO 7 FUN
+http://108.48.50.123:9981/stream/channelid/2081230398?profile=pass
+#EXTINF:-1,DE: ProSieben
+http://108.48.50.123:9981/stream/channelid/2091037244?profile=pass
+#EXTINF:-1,DE: Rtl Passion
+http://108.48.50.123:9981/stream/channelid/2024396710?profile=pass
+#EXTINF:-1,DE: RTL2
+http://108.48.50.123:9981/stream/channelid/1903626276?profile=pass
+#EXTINF:-1,DE: Sky Atlantic
+http://108.48.50.123:9981/stream/channelid/580737415?profile=pass
+#EXTINF:-1,DE: Sky Cinema
+http://108.48.50.123:9981/stream/channelid/1124980968?profile=pass
+#EXTINF:-1,DE: Sky Family
+http://108.48.50.123:9981/stream/channelid/213191946?profile=pass
+#EXTINF:-1,DE: Sky Hits
+http://108.48.50.123:9981/stream/channelid/1842824852?profile=pass
+#EXTINF:-1,DE: SKY SELECT 1
+http://108.48.50.123:9981/stream/channelid/700179807?profile=pass
+#EXTINF:-1,DE: SKY SELECT 3
+http://108.48.50.123:9981/stream/channelid/598643355?profile=pass
+#EXTINF:-1,DE: SKY SELECT 5
+http://108.48.50.123:9981/stream/channelid/73213587?profile=pass
+#EXTINF:-1,DE: SKY SELECT 6
+http://108.48.50.123:9981/stream/channelid/2146444129?profile=pass
+#EXTINF:-1,DE: Sportdigital
+http://108.48.50.123:9981/stream/channelid/70445402?profile=pass
+#EXTINF:-1,DE: SR
+http://108.48.50.123:9981/stream/channelid/1885797543?profile=pass
+#EXTINF:-1,DE: Super RTL
+http://108.48.50.123:9981/stream/channelid/96701596?profile=pass
+#EXTINF:-1,DE: Syfy
+http://108.48.50.123:9981/stream/channelid/88746583?profile=pass
+#EXTINF:-1,DE: Tele 5
+http://108.48.50.123:9981/stream/channelid/928651907?profile=pass
+#EXTINF:-1,DE: TLC
+http://108.48.50.123:9981/stream/channelid/1142762258?profile=pass
+#EXTINF:-1,DE: TNT SERIE
+http://108.48.50.123:9981/stream/channelid/532651213?profile=pass
+#EXTINF:-1,DE: VOX
+http://108.48.50.123:9981/stream/channelid/354031170?profile=pass
+#EXTINF:-1,DE: WELT
+http://108.48.50.123:9981/stream/channelid/2145931038?profile=pass
+#EXTINF:-1,DE: ZDF
+http://108.48.50.123:9981/stream/channelid/646250938?profile=pass
+#EXTINF:-1,DE: Zee One
+http://108.48.50.123:9981/stream/channelid/359320455?profile=pass
+#EXTINF:-1,Disney XD
+http://108.48.50.123:9981/stream/channelid/1113818971?profile=pass
+#EXTINF:-1,DK: 6 Eren
+http://108.48.50.123:9981/stream/channelid/1535698005?profile=pass
+#EXTINF:-1,DK: DR Ramasjang
+http://108.48.50.123:9981/stream/channelid/411467765?profile=pass
+#EXTINF:-1,DK: H2
+http://108.48.50.123:9981/stream/channelid/308507402?profile=pass
+#EXTINF:-1,DK: History
+http://108.48.50.123:9981/stream/channelid/2134632544?profile=pass
+#EXTINF:-1,DK: Nickelodeon
+http://108.48.50.123:9981/stream/channelid/1633058948?profile=pass
+#EXTINF:-1,DK: TV Syd
+http://108.48.50.123:9981/stream/channelid/102736451?profile=pass
+#EXTINF:-1,DK: TV2 News
+http://108.48.50.123:9981/stream/channelid/375718392?profile=pass
+#EXTINF:-1,ES: #0
+http://108.48.50.123:9981/stream/channelid/332177936?profile=pass
+#EXTINF:-1,ES: ANTENA 3
+http://108.48.50.123:9981/stream/channelid/955685611?profile=pass
+#EXTINF:-1,ES: Canal LIGA
+http://108.48.50.123:9981/stream/channelid/154648444?profile=pass
+#EXTINF:-1,ES: Canal DCINE
+http://108.48.50.123:9981/stream/channelid/1318664951?profile=pass
+#EXTINF:-1,ES: DISNEY CHANNEL
+http://108.48.50.123:9981/stream/channelid/574282332?profile=pass
+#EXTINF:-1,ES: MEZZO LIVE
+http://108.48.50.123:9981/stream/channelid/1457264553?profile=pass
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+http://108.48.50.123:9981/stream/channelid/45463707?profile=pass
+#EXTINF:-1,ES: TELECINCO
+http://108.48.50.123:9981/stream/channelid/1226475454?profile=pass
+#EXTINF:-1,EX-YU: BHT 1
+http://108.48.50.123:9981/stream/channelid/727640823?profile=pass
+#EXTINF:-1,FOX 23 (Tulsa) |
+http://108.48.50.123:9981/stream/channelid/1452034118?profile=pass
+#EXTINF:-1,FR: BEIN SPORTS 3
+http://108.48.50.123:9981/stream/channelid/1604241053?profile=pass
+#EXTINF:-1,FR: CSTAR
+http://108.48.50.123:9981/stream/channelid/1395595327?profile=pass
+#EXTINF:-1,FR: France 4
+http://108.48.50.123:9981/stream/channelid/249211561?profile=pass
+#EXTINF:-1,FR: France 5
+http://108.48.50.123:9981/stream/channelid/1153257647?profile=pass
+#EXTINF:-1,FR: GULLI
+http://108.48.50.123:9981/stream/channelid/997770203?profile=pass
+#EXTINF:-1,FR: Nat Geo Wild
+http://108.48.50.123:9981/stream/channelid/1457242545?profile=pass
+#EXTINF:-1,FR: PLANETE
+http://108.48.50.123:9981/stream/channelid/1207856994?profile=pass
+#EXTINF:-1,FR: TF1
+http://108.48.50.123:9981/stream/channelid/223903826?profile=pass
+#EXTINF:-1,FR: TREK
+http://108.48.50.123:9981/stream/channelid/1850560232?profile=pass
+#EXTINF:-1,FR: TV BREIZH
+http://108.48.50.123:9981/stream/channelid/577860349?profile=pass
+#EXTINF:-1,FR: VOYAGE
+http://108.48.50.123:9981/stream/channelid/1379472629?profile=pass
+#EXTINF:-1,Golf Channel
+http://108.48.50.123:9981/stream/channelid/1687781560?profile=pass
+#EXTINF:-1,Honduras: TSI
+http://108.48.50.123:9981/stream/channelid/1018073632?profile=pass
+#EXTINF:-1,HTS
+http://108.48.50.123:9981/stream/channelid/816419952?profile=pass
+#EXTINF:-1,IN: &TV
+http://108.48.50.123:9981/stream/channelid/1268511535?profile=pass
+#EXTINF:-1,IN: ANGEL TV
+http://108.48.50.123:9981/stream/channelid/1285665944?profile=pass
+#EXTINF:-1,IN: Gemini |
+http://108.48.50.123:9981/stream/channelid/595449740?profile=pass
+#EXTINF:-1,IN: KTV
+http://108.48.50.123:9981/stream/channelid/418031916?profile=pass
+#EXTINF:-1,IN: RAJ NEWS (KANNADA) |
+http://108.48.50.123:9981/stream/channelid/781835821?profile=pass
+#EXTINF:-1,IN: RAJ NEWS (MALAYALAM) |
+http://108.48.50.123:9981/stream/channelid/2133250596?profile=pass
+#EXTINF:-1,IN: STAR MAA |
+http://108.48.50.123:9981/stream/channelid/875072100?profile=pass
+#EXTINF:-1,IN: STAR SPORTS 1
+http://108.48.50.123:9981/stream/channelid/2098161077?profile=pass
+#EXTINF:-1,IN: STAR SPORTS 2
+http://108.48.50.123:9981/stream/channelid/588478488?profile=pass
+#EXTINF:-1,IN: SUN LIFE |
+http://108.48.50.123:9981/stream/channelid/436865308?profile=pass
+#EXTINF:-1,IN: SUN MUSIC |
+http://108.48.50.123:9981/stream/channelid/483507027?profile=pass
+#EXTINF:-1,IN: SUN NEWS |
+http://108.48.50.123:9981/stream/channelid/990263668?profile=pass
+#EXTINF:-1,IN: Surya TV |
+http://108.48.50.123:9981/stream/channelid/52208262?profile=pass
+#EXTINF:-1,IN: TEN 1
+http://108.48.50.123:9981/stream/channelid/768742788?profile=pass
+#EXTINF:-1,IN: VIP SONY MAX
+http://108.48.50.123:9981/stream/channelid/553222749?profile=pass
+#EXTINF:-1,IN:VIP STAR GOLD
+http://108.48.50.123:9981/stream/channelid/1866062032?profile=pass
+#EXTINF:-1,IT: 20 Mediaset
+http://108.48.50.123:9981/stream/channelid/1669932889?profile=pass
+#EXTINF:-1,IT: Baby TV
+http://108.48.50.123:9981/stream/channelid/735288410?profile=pass
+#EXTINF:-1,IT: Calcio 3
+http://108.48.50.123:9981/stream/channelid/447297573?profile=pass
+#EXTINF:-1,IT: CI Ivestigation
+http://108.48.50.123:9981/stream/channelid/1810495018?profile=pass
+#EXTINF:-1,IT: Dazn Sport 1
+http://108.48.50.123:9981/stream/channelid/968829520?profile=pass
+#EXTINF:-1,IT: DMAX
+http://108.48.50.123:9981/stream/channelid/982770660?profile=pass
+#EXTINF:-1,IT: EUROSPORT 1
+http://108.48.50.123:9981/stream/channelid/1106290327?profile=pass
+#EXTINF:-1,IT: Eurosport 2
+http://108.48.50.123:9981/stream/channelid/2001585104?profile=pass
+#EXTINF:-1,IT: FOX
+http://108.48.50.123:9981/stream/channelid/1702845435?profile=pass
+#EXTINF:-1,IT: FOX CRIME
+http://108.48.50.123:9981/stream/channelid/2134750732?profile=pass
+#EXTINF:-1,IT: FOX FULL
+http://108.48.50.123:9981/stream/channelid/1499499875?profile=pass
+#EXTINF:-1,IT: FOX LIFE FULL
+http://108.48.50.123:9981/stream/channelid/1934966692?profile=pass
+#EXTINF:-1,IT: ITA - Disney XD
+http://108.48.50.123:9981/stream/channelid/1706076620?profile=pass
+#EXTINF:-1,IT: ITA - History
+http://108.48.50.123:9981/stream/channelid/695062509?profile=pass
+#EXTINF:-1,IT: ITA - National Geographic
+http://108.48.50.123:9981/stream/channelid/656778879?profile=pass
+#EXTINF:-1,IT: LA 7
+http://108.48.50.123:9981/stream/channelid/1636377098?profile=pass
+#EXTINF:-1,IT: NOVE FULL
+http://108.48.50.123:9981/stream/channelid/1813987600?profile=pass
+#EXTINF:-1,IT: Premium Action
+http://108.48.50.123:9981/stream/channelid/337833577?profile=pass
+#EXTINF:-1,IT: Premium Cinema
+http://108.48.50.123:9981/stream/channelid/177334557?profile=pass
+#EXTINF:-1,IT: Premium Comedy
+http://108.48.50.123:9981/stream/channelid/2051879184?profile=pass
+#EXTINF:-1,IT: Premium Crime
+http://108.48.50.123:9981/stream/channelid/619532542?profile=pass
+#EXTINF:-1,IT: Premium Emotion
+http://108.48.50.123:9981/stream/channelid/2047215870?profile=pass
+#EXTINF:-1,IT: Premium energy
+http://108.48.50.123:9981/stream/channelid/1392025245?profile=pass
+#EXTINF:-1,IT: Premium Stories
+http://108.48.50.123:9981/stream/channelid/710057439?profile=pass
+#EXTINF:-1,IT: Rai 1
+http://108.48.50.123:9981/stream/channelid/977984649?profile=pass
+#EXTINF:-1,IT: Real Time
+http://108.48.50.123:9981/stream/channelid/944215702?profile=pass
+#EXTINF:-1,IT: Rete 4
+http://108.48.50.123:9981/stream/channelid/1750993903?profile=pass
+#EXTINF:-1,IT: SKY ATLANTIC
+http://108.48.50.123:9981/stream/channelid/1481933056?profile=pass
+#EXTINF:-1,IT: SKY CALCIO 5
+http://108.48.50.123:9981/stream/channelid/1480387368?profile=pass
+#EXTINF:-1,IT: SKY CALCIO 6
+http://108.48.50.123:9981/stream/channelid/1765368377?profile=pass
+#EXTINF:-1,IT: SKY Cinema Action
+http://108.48.50.123:9981/stream/channelid/1678273337?profile=pass
+#EXTINF:-1,IT: SKY Cinema Action Full
+http://108.48.50.123:9981/stream/channelid/1021168302?profile=pass
+#EXTINF:-1,IT: SKY Cinema Comedy
+http://108.48.50.123:9981/stream/channelid/603520213?profile=pass
+#EXTINF:-1,IT: SKY Cinema Comedy Full
+http://108.48.50.123:9981/stream/channelid/1575527845?profile=pass
+#EXTINF:-1,IT: SKY Cinema Suspance Full
+http://108.48.50.123:9981/stream/channelid/1582026664?profile=pass
+#EXTINF:-1,IT: SKY Cinema Suspense
+http://108.48.50.123:9981/stream/channelid/327148412?profile=pass
+#EXTINF:-1,IT: SKY Cinema Uno 24
+http://108.48.50.123:9981/stream/channelid/855124849?profile=pass
+#EXTINF:-1,IT: SKY Cinema Uno Full
+http://108.48.50.123:9981/stream/channelid/1980483500?profile=pass
+#EXTINF:-1,IT: SKY Primafila 1 Full
+http://108.48.50.123:9981/stream/channelid/326937565?profile=pass
+#EXTINF:-1,IT: SKY Primafila 11 Full
+http://108.48.50.123:9981/stream/channelid/329915875?profile=pass
+#EXTINF:-1,IT: SKY Primafila 14 Full
+http://108.48.50.123:9981/stream/channelid/1878173124?profile=pass
+#EXTINF:-1,IT: SKY Primafila 17 Full
+http://108.48.50.123:9981/stream/channelid/862028469?profile=pass
+#EXTINF:-1,IT: SKY PrimaFila 2 Full
+http://108.48.50.123:9981/stream/channelid/1038681196?profile=pass
+#EXTINF:-1,IT: SKY Primafila 3 Full
+http://108.48.50.123:9981/stream/channelid/1342542555?profile=pass
+#EXTINF:-1,IT: SKY Primafila 7 Full
+http://108.48.50.123:9981/stream/channelid/1375073833?profile=pass
+#EXTINF:-1,IT: SKY Primafila 9 Full
+http://108.48.50.123:9981/stream/channelid/611827393?profile=pass
+#EXTINF:-1,IT: SKY Sport 251
+http://108.48.50.123:9981/stream/channelid/1810928202?profile=pass
+#EXTINF:-1,IT: SKY Sport 251 FULL
+http://108.48.50.123:9981/stream/channelid/1009502338?profile=pass
+#EXTINF:-1,IT: SKY SPORT COLLECTION FULL
+http://108.48.50.123:9981/stream/channelid/1330855045?profile=pass
+#EXTINF:-1,IT: SKY SPORT F1
+http://108.48.50.123:9981/stream/channelid/1925096003?profile=pass
+#EXTINF:-1,IT: SKY SPORT FOOTBALL
+http://108.48.50.123:9981/stream/channelid/359241027?profile=pass
+#EXTINF:-1,IT: SKY UNO
+http://108.48.50.123:9981/stream/channelid/1281540768?profile=pass
+#EXTINF:-1,IT: SKY UNO FULL
+http://108.48.50.123:9981/stream/channelid/752389340?profile=pass
+#EXTINF:-1,IT: TV8
+http://108.48.50.123:9981/stream/channelid/1948791655?profile=pass
+#EXTINF:-1,IT: Uniresat
+http://108.48.50.123:9981/stream/channelid/126195946?profile=pass
+#EXTINF:-1,LA: A&amp;amp;E
+http://108.48.50.123:9981/stream/channelid/1921666499?profile=pass
+#EXTINF:-1,LA: AXN
+http://108.48.50.123:9981/stream/channelid/322451282?profile=pass
+#EXTINF:-1,LA: Cinemax Action
+http://108.48.50.123:9981/stream/channelid/646505137?profile=pass
+#EXTINF:-1,LA: De Pelicula
+http://108.48.50.123:9981/stream/channelid/1969948141?profile=pass
+#EXTINF:-1,LA: Discovery Teather
+http://108.48.50.123:9981/stream/channelid/95561976?profile=pass
+#EXTINF:-1,LA: Fox
+http://108.48.50.123:9981/stream/channelid/1035276996?profile=pass
+#EXTINF:-1,LA: Fox Action
+http://108.48.50.123:9981/stream/channelid/157803429?profile=pass
+#EXTINF:-1,LA: Fox Cinema
+http://108.48.50.123:9981/stream/channelid/1062343188?profile=pass
+#EXTINF:-1,LA: FOX DEPORTES
+http://108.48.50.123:9981/stream/channelid/1105918535?profile=pass
+#EXTINF:-1,LA: Fox Movies
+http://108.48.50.123:9981/stream/channelid/1660137507?profile=pass
+#EXTINF:-1,LA: Fox Sports 2
+http://108.48.50.123:9981/stream/channelid/785191476?profile=pass
+#EXTINF:-1,LA: Golden
+http://108.48.50.123:9981/stream/channelid/913666827?profile=pass
+#EXTINF:-1,LA: HBO
+http://108.48.50.123:9981/stream/channelid/1506185011?profile=pass
+#EXTINF:-1,LA: History
+http://108.48.50.123:9981/stream/channelid/1853720943?profile=pass
+#EXTINF:-1,LA: MI MUSICA
+http://108.48.50.123:9981/stream/channelid/330877475?profile=pass
+#EXTINF:-1,LA: Showtime
+http://108.48.50.123:9981/stream/channelid/1108160469?profile=pass
+#EXTINF:-1,LA: Showtime East
+http://108.48.50.123:9981/stream/channelid/1290677712?profile=pass
+#EXTINF:-1,LA: Space
+http://108.48.50.123:9981/stream/channelid/2064357881?profile=pass
+#EXTINF:-1,LA: Starz Comedy
+http://108.48.50.123:9981/stream/channelid/65923606?profile=pass
+#EXTINF:-1,LA: Starz Family
+http://108.48.50.123:9981/stream/channelid/723481814?profile=pass
+#EXTINF:-1,LA: TDN
+http://108.48.50.123:9981/stream/channelid/1952650623?profile=pass
+#EXTINF:-1,LA: Telemundo Chicago
+http://108.48.50.123:9981/stream/channelid/78382833?profile=pass
+#EXTINF:-1,LA: Tru Tv
+http://108.48.50.123:9981/stream/channelid/1454588215?profile=pass
+#EXTINF:-1,LA: Unicable
+http://108.48.50.123:9981/stream/channelid/1561796600?profile=pass
+#EXTINF:-1,LA: UNIMAS
+http://108.48.50.123:9981/stream/channelid/749458026?profile=pass
+#EXTINF:-1,LA: Unimas Georgia
+http://108.48.50.123:9981/stream/channelid/32257043?profile=pass
+#EXTINF:-1,LA: Unimas New York
+http://108.48.50.123:9981/stream/channelid/1874205012?profile=pass
+#EXTINF:-1,LA: Universal
+http://108.48.50.123:9981/stream/channelid/931038644?profile=pass
+#EXTINF:-1,LA: UNIVISION
+http://108.48.50.123:9981/stream/channelid/559739311?profile=pass
+#EXTINF:-1,LA: Univision Dallas
+http://108.48.50.123:9981/stream/channelid/437981470?profile=pass
+#EXTINF:-1,LA: Univision Miami
+http://108.48.50.123:9981/stream/channelid/1511038410?profile=pass
+#EXTINF:-1,LA: Univision New York
+http://108.48.50.123:9981/stream/channelid/1563093932?profile=pass
+#EXTINF:-1,LA: UNIVISION TDN
+http://108.48.50.123:9981/stream/channelid/368350816?profile=pass
+#EXTINF:-1,LA: Univision Telenovelas
+http://108.48.50.123:9981/stream/channelid/1136982079?profile=pass
+#EXTINF:-1,LA: WIN SPORT
+http://108.48.50.123:9981/stream/channelid/1642264635?profile=pass
+#EXTINF:-1,Movie 24
+http://108.48.50.123:9981/stream/channelid/1823668275?profile=pass
+#EXTINF:-1,NBC 5 (West Palm Beach FL) |
+http://108.48.50.123:9981/stream/channelid/1945356171?profile=pass
+#EXTINF:-1,NBC Sports Bay Area
+http://108.48.50.123:9981/stream/channelid/1299964354?profile=pass
+#EXTINF:-1,NBC Sports Boston
+http://108.48.50.123:9981/stream/channelid/1047873515?profile=pass
+#EXTINF:-1,NBC Sports California
+http://108.48.50.123:9981/stream/channelid/727771668?profile=pass
+#EXTINF:-1,NBC Sports Chicago
+http://108.48.50.123:9981/stream/channelid/1469468623?profile=pass
+#EXTINF:-1,NBC Sports Network
+http://108.48.50.123:9981/stream/channelid/589644135?profile=pass
+#EXTINF:-1,NBC Sports Northwest
+http://108.48.50.123:9981/stream/channelid/251697299?profile=pass
+#EXTINF:-1,NBC Sports Philadelphia
+http://108.48.50.123:9981/stream/channelid/405902885?profile=pass
+#EXTINF:-1,NFL NETWORK
+http://108.48.50.123:9981/stream/channelid/1183191827?profile=pass
+#EXTINF:-1,NL: Eurosport 2
+http://108.48.50.123:9981/stream/channelid/367579044?profile=pass
+#EXTINF:-1,NL: FOX Sports 2
+http://108.48.50.123:9981/stream/channelid/1539373522?profile=pass
+#EXTINF:-1,NL: NPO 1
+http://108.48.50.123:9981/stream/channelid/1704935691?profile=pass
+#EXTINF:-1,NL: RTL 4
+http://108.48.50.123:9981/stream/channelid/1474256472?profile=pass
+#EXTINF:-1,NL: Ziggo Sport Select
+http://108.48.50.123:9981/stream/channelid/676094498?profile=pass
+#EXTINF:-1,NO: H2
+http://108.48.50.123:9981/stream/channelid/1505132125?profile=pass
+#EXTINF:-1,OSN Sports Cricket
+http://108.48.50.123:9981/stream/channelid/1443406001?profile=pass
+#EXTINF:-1,PAC 12 BAY AREA
+http://108.48.50.123:9981/stream/channelid/923132713?profile=pass
+#EXTINF:-1,PAC 12 LOS ANGELES
+http://108.48.50.123:9981/stream/channelid/2134848685?profile=pass
+#EXTINF:-1,PAC 12 MOUNTAIN
+http://108.48.50.123:9981/stream/channelid/1726420008?profile=pass
+#EXTINF:-1,PAC 12 NATIONAL
+http://108.48.50.123:9981/stream/channelid/1131628606?profile=pass
+#EXTINF:-1,PAC 12 OREGON
+http://108.48.50.123:9981/stream/channelid/849846645?profile=pass
+#EXTINF:-1,PAC 12 WASHINGTON
+http://108.48.50.123:9981/stream/channelid/413603198?profile=pass
+#EXTINF:-1,PL: ADVENTURE
+http://108.48.50.123:9981/stream/channelid/2013718262?profile=pass
+#EXTINF:-1,PL: ANIMAL PLANET
+http://108.48.50.123:9981/stream/channelid/526268671?profile=pass
+#EXTINF:-1,PL: AXN
+http://108.48.50.123:9981/stream/channelid/1676378167?profile=pass
+#EXTINF:-1,PL: Baby TV
+http://108.48.50.123:9981/stream/channelid/1417152025?profile=pass
+#EXTINF:-1,PL: CAFE
+http://108.48.50.123:9981/stream/channelid/1510195731?profile=pass
+#EXTINF:-1,PL: Canal
+http://108.48.50.123:9981/stream/channelid/678434064?profile=pass
+#EXTINF:-1,PL: CANAL+
+http://108.48.50.123:9981/stream/channelid/271961525?profile=pass
+#EXTINF:-1,PL: CANAL+ 1
+http://108.48.50.123:9981/stream/channelid/2123106229?profile=pass
+#EXTINF:-1,PL: CANAL+ DISCOVERY
+http://108.48.50.123:9981/stream/channelid/104390894?profile=pass
+#EXTINF:-1,PL: CANAL+ FAMILY
+http://108.48.50.123:9981/stream/channelid/1262705679?profile=pass
+#EXTINF:-1,PL: CANAL+ FILM
+http://108.48.50.123:9981/stream/channelid/1370043015?profile=pass
+#EXTINF:-1,PL: CANAL+ SPORT
+http://108.48.50.123:9981/stream/channelid/193944565?profile=pass
+#EXTINF:-1,PL: ELEVEN
+http://108.48.50.123:9981/stream/channelid/1006530768?profile=pass
+#EXTINF:-1,PL: Eleven Extra
+http://108.48.50.123:9981/stream/channelid/1071496657?profile=pass
+#EXTINF:-1,PL: ELEVEN SPORTS
+http://108.48.50.123:9981/stream/channelid/27774651?profile=pass
+#EXTINF:-1,PL: Eurosport 1
+http://108.48.50.123:9981/stream/channelid/2005530721?profile=pass
+#EXTINF:-1,PL: Fightbox
+http://108.48.50.123:9981/stream/channelid/1718057422?profile=pass
+#EXTINF:-1,PL: Golf Channel
+http://108.48.50.123:9981/stream/channelid/1344508277?profile=pass
+#EXTINF:-1,PL: Lifetime
+http://108.48.50.123:9981/stream/channelid/1136500395?profile=pass
+#EXTINF:-1,PL: MTV Dance
+http://108.48.50.123:9981/stream/channelid/403659303?profile=pass
+#EXTINF:-1,PL: MTV Polska
+http://108.48.50.123:9981/stream/channelid/1592933401?profile=pass
+#EXTINF:-1,PL: Nat Geo People
+http://108.48.50.123:9981/stream/channelid/1989499980?profile=pass
+#EXTINF:-1,PL: PLANETE
+http://108.48.50.123:9981/stream/channelid/1218163813?profile=pass
+#EXTINF:-1,PL: PLAY
+http://108.48.50.123:9981/stream/channelid/923477860?profile=pass
+#EXTINF:-1,PL: Polsat Doku
+http://108.48.50.123:9981/stream/channelid/1101295595?profile=pass
+#EXTINF:-1,PL: Polsat Music
+http://108.48.50.123:9981/stream/channelid/2126163808?profile=pass
+#EXTINF:-1,PL: Polsat Viasat History
+http://108.48.50.123:9981/stream/channelid/581682860?profile=pass
+#EXTINF:-1,PL: TV4
+http://108.48.50.123:9981/stream/channelid/94375466?profile=pass
+#EXTINF:-1,PL: TVN 7
+http://108.48.50.123:9981/stream/channelid/50437961?profile=pass
+#EXTINF:-1,PL: TVP
+http://108.48.50.123:9981/stream/channelid/1854475787?profile=pass
+#EXTINF:-1,PL: TVP SPORT
+http://108.48.50.123:9981/stream/channelid/1913459589?profile=pass
+#EXTINF:-1,PT: Canal 11
+http://108.48.50.123:9981/stream/channelid/1760310182?profile=pass
+#EXTINF:-1,PT: MOV
+http://108.48.50.123:9981/stream/channelid/1698389550?profile=pass
+#EXTINF:-1,PT: SPORT TV 2
+http://108.48.50.123:9981/stream/channelid/652759170?profile=pass
+#EXTINF:-1,PT: SPORT TV 5
+http://108.48.50.123:9981/stream/channelid/1134873273?profile=pass
+#EXTINF:-1,PT: TV CINE 1
+http://108.48.50.123:9981/stream/channelid/565391518?profile=pass
+#EXTINF:-1,PT: TVC
+http://108.48.50.123:9981/stream/channelid/799847741?profile=pass
+#EXTINF:-1,RSA SuperSport Variety 3 |
+http://108.48.50.123:9981/stream/channelid/913211461?profile=pass
+#EXTINF:-1,RUS: HTB
+http://108.48.50.123:9981/stream/channelid/1861030601?profile=pass
+#EXTINF:-1,SE: Barnmusik
+http://108.48.50.123:9981/stream/channelid/573845370?profile=pass
+#EXTINF:-1,SE: Discovery Channel
+http://108.48.50.123:9981/stream/channelid/643279492?profile=pass
+#EXTINF:-1,SE: Discovery Investigation
+http://108.48.50.123:9981/stream/channelid/95727010?profile=pass
+#EXTINF:-1,SE: Nat Geo Wild
+http://108.48.50.123:9981/stream/channelid/755293809?profile=pass
+#EXTINF:-1,SE: National Geographic
+http://108.48.50.123:9981/stream/channelid/115157129?profile=pass
+#EXTINF:-1,SE: Teleclub Sport 1
+http://108.48.50.123:9981/stream/channelid/816454343?profile=pass
+#EXTINF:-1,SETANTA Sports
+http://108.48.50.123:9981/stream/channelid/203344348?profile=pass
+#EXTINF:-1,SETANTA Sports Plus
+http://108.48.50.123:9981/stream/channelid/1409626977?profile=pass
+#EXTINF:-1,SPORTSNET 360
+http://108.48.50.123:9981/stream/channelid/1391171613?profile=pass
+#EXTINF:-1,SPORTSNET EAST
+http://108.48.50.123:9981/stream/channelid/263730967?profile=pass
+#EXTINF:-1,SPORTSNET N.Y
+http://108.48.50.123:9981/stream/channelid/242475469?profile=pass
+#EXTINF:-1,SPORTSNET ONE
+http://108.48.50.123:9981/stream/channelid/2008328573?profile=pass
+#EXTINF:-1,SPORTSNET ONTARIO
+http://108.48.50.123:9981/stream/channelid/1987791005?profile=pass
+#EXTINF:-1,SPORTSNET WEST
+http://108.48.50.123:9981/stream/channelid/758687290?profile=pass
+#EXTINF:-1,SPORTSNET WORLD
+http://108.48.50.123:9981/stream/channelid/793646085?profile=pass
+#EXTINF:-1,STAR SPORTS 2
+http://108.48.50.123:9981/stream/channelid/303710202?profile=pass
+#EXTINF:-1,SW: Teleclub Sport 2
+http://108.48.50.123:9981/stream/channelid/70998520?profile=pass
+#EXTINF:-1,TH: Thairath TV
+http://108.48.50.123:9981/stream/channelid/90966941?profile=pass
+#EXTINF:-1,TR: A SPOR
+http://108.48.50.123:9981/stream/channelid/748582580?profile=pass
+#EXTINF:-1,TR: ATV
+http://108.48.50.123:9981/stream/channelid/557097826?profile=pass
+#EXTINF:-1,TR: beIN IZ
+http://108.48.50.123:9981/stream/channelid/229984778?profile=pass
+#EXTINF:-1,TR: beIN Movies Stars
+http://108.48.50.123:9981/stream/channelid/762020844?profile=pass
+#EXTINF:-1,TR: BLOOMBERG
+http://108.48.50.123:9981/stream/channelid/1432617539?profile=pass
+#EXTINF:-1,TR: Discovery Science
+http://108.48.50.123:9981/stream/channelid/983485143?profile=pass
+#EXTINF:-1,TR: Discovery Showcase
+http://108.48.50.123:9981/stream/channelid/28453185?profile=pass
+#EXTINF:-1,TR: EUROSPORT
+http://108.48.50.123:9981/stream/channelid/1482721724?profile=pass
+#EXTINF:-1,TR: GSTV
+http://108.48.50.123:9981/stream/channelid/1418943669?profile=pass
+#EXTINF:-1,TR: KANAL D
+http://108.48.50.123:9981/stream/channelid/1345514298?profile=pass
+#EXTINF:-1,TR: MOVIEMAX TURK
+http://108.48.50.123:9981/stream/channelid/1077929956?profile=pass
+#EXTINF:-1,TR: NATIONAL GEOGRAPHIC
+http://108.48.50.123:9981/stream/channelid/101504222?profile=pass
+#EXTINF:-1,TR: POWER TURK
+http://108.48.50.123:9981/stream/channelid/861774195?profile=pass
+#EXTINF:-1,TR: SINEMA TV
+http://108.48.50.123:9981/stream/channelid/1426090854?profile=pass
+#EXTINF:-1,TR: SINEMA TV AKSIYON
+http://108.48.50.123:9981/stream/channelid/1222725867?profile=pass
+#EXTINF:-1,TR: SINETIVI
+http://108.48.50.123:9981/stream/channelid/510096442?profile=pass
+#EXTINF:-1,TR: STAR TV
+http://108.48.50.123:9981/stream/channelid/754032810?profile=pass
+#EXTINF:-1,TR: TIVIBU SPOR 3
+http://108.48.50.123:9981/stream/channelid/597482490?profile=pass
+#EXTINF:-1,TR: TRT 1
+http://108.48.50.123:9981/stream/channelid/985397030?profile=pass
+#EXTINF:-1,TR: TV8
+http://108.48.50.123:9981/stream/channelid/1585447435?profile=pass
+#EXTINF:-1,TR: TV8.5
+http://108.48.50.123:9981/stream/channelid/604071747?profile=pass
+#EXTINF:-1,US NFL Network
+http://108.48.50.123:9981/stream/channelid/448960922?profile=pass
+#EXTINF:-1,US TNT East
+http://108.48.50.123:9981/stream/channelid/1246453405?profile=pass
+#EXTINF:-1,US: FOX 30 (Jacksonville) |
+http://108.48.50.123:9981/stream/channelid/726086027?profile=pass
+#EXTINF:-1,US: NEWSMAX
+http://108.48.50.123:9981/stream/channelid/1590201358?profile=pass
+#EXTINF:-1,USA : MGM
+http://108.48.50.123:9981/stream/channelid/727328855?profile=pass
+#EXTINF:-1,USA: PIXL
+http://108.48.50.123:9981/stream/channelid/1256440036?profile=pass
+#EXTINF:-1,VIASAT Sport
+http://108.48.50.123:9981/stream/channelid/781516465?profile=pass
+#EXTINF:-1,VIP HD CTV
+http://108.48.50.123:9981/stream/channelid/131369794?profile=pass
+#EXTINF:-1,VIP HD ICI TELE
+http://108.48.50.123:9981/stream/channelid/1120673828?profile=pass
+#EXTINF:-1,VIP HD NBC
+http://108.48.50.123:9981/stream/channelid/2015875540?profile=pass
+#EXTINF:-1,VIP IN: & PICTURE
+http://108.48.50.123:9981/stream/channelid/706358424?profile=pass
+#EXTINF:-1,VIP IN: Hindi:NEWS X
+http://108.48.50.123:9981/stream/channelid/583082250?profile=pass
+#EXTINF:-1,VIP IN: Hindi:ZEE BOLLYWOOD
+http://108.48.50.123:9981/stream/channelid/1388450822?profile=pass
+#EXTINF:-1,VIP IN: Ktv
+http://108.48.50.123:9981/stream/channelid/2074715423?profile=pass
+#EXTINF:-1,VIP IN: M TUNES
+http://108.48.50.123:9981/stream/channelid/2112776635?profile=pass
+#EXTINF:-1,VIP IN: Tamil:JAYA TV
+http://108.48.50.123:9981/stream/channelid/57444073?profile=pass
+#EXTINF:-1,VIP IN: Tamil:Sun tv
+http://108.48.50.123:9981/stream/channelid/1846630616?profile=pass
+#EXTINF:-1,VIP IN: TEN 1
+http://108.48.50.123:9981/stream/channelid/1469408493?profile=pass
+#EXTINF:-1,VIP IN: TentKotta
+http://108.48.50.123:9981/stream/channelid/353964212?profile=pass
+#EXTINF:-1,VIP USA HD : FX
+http://108.48.50.123:9981/stream/channelid/1595419005?profile=pass
+#EXTINF:-1,|AD| Abu Dhabi Sports 2
+http://108.48.50.123:9981/stream/channelid/381100414?profile=pass
+#EXTINF:-1,|NEWS| Al Jazeera
+http://108.48.50.123:9981/stream/channelid/1962281120?profile=pass
+#EXTINF:-1 group-title="108.48",|SPORTS| KSA SPORTS 2
+http://108.48.50.123:9981/stream/channelid/952033286?profile=pass
 
 + + + + + movies + + + + + 
 
