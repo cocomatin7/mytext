@@ -4347,6 +4347,14 @@ http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
 
 + + + + http://3.239.35.218:9981/extjs.html + + + + + +
 
+http://3.239.35.218:9981/play/ticket/stream/mux/f712964927a545faf6b2dcd17e832b4c?title=MTV Hits Europe%20%2F%20iptv-org-music
+http://3.239.35.218:9981/play/ticket/stream/mux/693a27d96ea66a97b2ac56be92ae5c11?title=MIX 24/7 Top 100
+http://3.239.35.218:9981/play/ticket/stream/mux/7a115e6b520fcd004214cb1ac8f7e83a?title=ESPN (720p)
+http://3.239.35.218:9981/play/ticket/stream/mux/fe5a1500793a8d4fea7e0cd89b3073c2?title=ESPN 2 
+http://3.239.35.218:9981/play/ticket/stream/service/d55592d39cd47bd4a3c5dc2aecfa6c41?title=MTV Hits Europe
+http://3.239.35.218:9981/play/ticket/stream/service/db2a69f5fbefef40dcb04d6d1a648286?title=MIX 24/7 Baladas
+http://3.239.35.218:9981/play/ticket/stream/service/3fa6eb587ba84398cc6b7afbe0f34232?title=MIX 24/7 Top 100
+
 #EXTINF:-1 group-title="3.239", Diema Sport 2 HD
 http://3.239.35.218:9981/stream/mux/8d706fa19b968244cf3773bc458d7b07
 #EXTINF:-1, Diema Sport
@@ -4375,15 +4383,15 @@ http://3.239.35.218:9981/stream/mux/f2d13136dd0bbefd034b193151500574
 http://3.239.35.218:9981/stream/mux/e9c6059f41da3d2da6960583d89c70d0
 #EXTINF:-1, beIN SPORTS XTRA (720p)
 http://3.239.35.218:9981/stream/mux/ef2574e1bad59d6681ff4ed03d7181ba
-#EXTINF:-1, MIX 24 Baladas
+#EXTINF:-1, MIX 24/7 Baladas
 http://3.239.35.218:9981/stream/mux/b29d6203cbb7d33acff97dd45dc2e608
-#EXTINF:-1, MIX 24
+#EXTINF:-1, MIX 24/7
 http://3.239.35.218:9981/stream/mux/ebf1e71ac86a9c70dfee527a7c20b2bd
-#EXTINF:-1, MIX 24 Pop
+#EXTINF:-1, MIX 24/7 Pop
 http://3.239.35.218:9981/stream/mux/1d96796fe35b838ba82e17425134cdc2
-#EXTINF:-1, MIX 24 Conciertos Live
+#EXTINF:-1, MIX 24/7 Conciertos Live
 http://3.239.35.218:9981/stream/mux/9531e1de9f6d3929c2f544e0f9baa240
-#EXTINF:-1, MIX 24 Tropical
+#EXTINF:-1, MIX 24/7 Tropical
 http://3.239.35.218:9981/stream/mux/b93dcfd1a6815319dfaadc141d168c09
 
 #EXTINF:-1, Diema Sport 2 HD
