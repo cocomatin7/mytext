@@ -3082,7 +3082,7 @@ http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
 + + + + + http://116.204.181.238:9981/extjs.html + + + + +
 
-#EXTINF:-1 group-title="TH/116.204", Mola TV1
+#EXTINF:-1 group-title="116.204/TH", Mola TV1
 http://116.204.181.238:9981/stream/mux/f571561c8271e0a952dd1b2ee0c479c1
 #EXTINF:-1, Mola TV2
 http://116.204.181.238:9981/stream/mux/f8314ebdca89dcabbfe27d83ab9b1ad9
@@ -3109,7 +3109,7 @@ http://116.204.181.238:9981/stream/mux/f83efbe19ab4e6dcd97a0d20930e7217
 #EXTINF:-1, Fox Sport2 ML
 http://116.204.181.238:9981/stream/mux/8f157cda00ba6b17561c3e083bd88667
 
-#EXTINF:-1 group-title="TH/116.204", Vip3 HD 
+#EXTINF:-1 group-title="116.204/TH", Vip3 HD 
 http://116.204.181.238:9981/stream/mux/4493b52199801e8078254d8fb7088085
 #EXTINF:-1, Test Vip3HD
 http://116.204.181.238:9981/stream/mux/22c649b518c38732dedaf43df1baed85
@@ -3177,10 +3177,10 @@ http://116.204.181.238:9981/stream/service/bc3b819e01ee7efdf15a09771972f5f6
 http://116.204.181.238:9981/stream/service/43ffdc60b5c50afbe95f7f690dd04fed
 #EXTINF:-1, SKynet sport HD"
 http://116.204.181.238:9981/stream/channel/ab2e96925297c48537054172d7d887a1
-#EXTINF:-1 group-title="TH/116.204", Sport Klub HD"
+#EXTINF:-1 group-title="116.204/TH", Sport Klub HD"
 http://116.204.181.238:9981/stream/channel/f3ef5fea3cf8425665cacb7079fb3a9c
 
- group-title="TH/116.204", EPL 1 HD TH
+ group-title="116.204/TH", EPL 1 HD TH
 http://116.204.181.238:9981/stream/mux/83f4dd764e27d85c8cb857969e018554 
 , EPL 2 SD TH 
 http://116.204.181.238:9981/stream/mux/618c2dafec91816ab8bfcfec7fb56e94
@@ -3208,7 +3208,7 @@ http://116.204.181.238:9981/stream/channel/ab2e96925297c48537054172d7d887a1
 #EXTINF:-1, Sport Klub HD*
 http://116.204.181.238:9981/stream/channel/f3ef5fea3cf8425665cacb7079fb3a9c
 
-#EXTINF:-1 group-title="TH/116.204",SKynet sport HD*
+#EXTINF:-1 group-title="116.204/TH",SKynet sport HD*
 http://116.204.181.238:9981/stream/channelid/311832235?ticket=6AD798EA3CD11B080C8111F58F90E609B83C2285&profile=pass
 ,Sport Klub HD*
 http://116.204.181.238:9981/stream/channelid/1784672243?ticket=B7826B2AB96F36F631BA7227CA6A51195C495F81&profile=pass
@@ -3260,27 +3260,27 @@ http://116.204.181.238:9981/stream/service/e6884e84917c8da84b633ca174a2b8fe Live
 http://116.204.181.238:9981/stream/service/5b728d70f0e99ae20af92b17d87a06f5
 
 , TRUE Movies Hit HD
-, group-title="TH/116.204", Sport Klub HD
+, group-title="116.204/TH", Sport Klub HD
 http://116.204.181.238:9981/stream/mux/1a57b3b09292d5dff5021051eecbf353
 http://116.204.181.238:9981/stream/mux/4c2f3bf3ec9079ec7623646f5dabe518
 http://116.204.181.238:9981/stream/mux/f7b1c5c953258e9e5e78f61c4ac38c46
 http://116.204.181.238:9981/stream/mux/722c290e1dc2d89bc3b2f087a4f91f64
 http://116.204.181.238:9981/stream/mux/22a670110dc4ae60082f702464f042ce
-#EXTINF:-1, group-title="TH/116.204", EPL 1 HD TH
+#EXTINF:-1, group-title="116.204/TH", EPL 1 HD TH
 http://116.204.181.238:9981/stream/mux/83f4dd764e27d85c8cb857969e018554
 
 + + + + + + + + + +
 
 http://116.204.181.238:9981/stream/channelid/311832235?ticket=9F70532A1463CE100E923F394DEF83B210764F25&profile=pass
-#EXTINF:-1 tvg-id="ab2e96925297c48537054172d7d887a1" group-title="TH/116.204",SKynet sport HD*
+#EXTINF:-1 tvg-id="ab2e96925297c48537054172d7d887a1" group-title="116.204/TH",SKynet sport HD*
 http://116.204.181.238:9981/stream/channel/ab2e96925297c48537054172d7d887a1?title=SKynet%20sport%20HD
 
-#EXTINF:-1 group-title="TH/116.204",SKynet sport HD
+#EXTINF:-1 group-title="116.204/TH",SKynet sport HD
 http://116.204.181.238:9981/stream/service/bc3b819e01ee7efdf15a09771972f5f6?title=SKynet%20sport%20HD
 http://116.204.181.238:9981/stream/service/43ffdc60b5c50afbe95f7f690dd04fed?title=Sport%20Klub%20HD
 http://116.204.181.238:9981/stream/service/0ffaaed6204c6bd473cc3506385c680d?title=TEN%201%20HD
 http://116.204.181.238:9981/stream/service/2029935df48bf038f6f2d2b3cbedf789?title=TPE1-1
-#EXTINF:-1 group-title="TH/116.204",TRUE Movies Hit HD
+#EXTINF:-1 group-title="116.204/TH",TRUE Movies Hit HD
 http://116.204.181.238:9981/stream/service/9e409278d1aa9bce532ca6b8fd50d41f?title=TRUE%20Movies%20Hit%20HD
 
 http://116.204.181.238:9981/stream/mux/4404e2ae7e7f817ec5f681ced04d86cb?title=SKynet%20sport%20HD%20%2F%20encoder
