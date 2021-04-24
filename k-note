@@ -7793,9 +7793,9 @@ http://103.130.186.138:8800/oxygenplay/mtvchina/index.m3u8
  group-title="oxygenplay",nhk world |oxygen
 http://103.130.186.138:8800/oxygenplay/nhkworld/index.m3u8
 
-+ + + + + VN|203 + + + + +
++ + + + + 203/VN + + + + +
 
-#EXTINF:-1 group-title="VN|203",NHK |203
+#EXTINF:-1 group-title="203/VN",NHK |203
 http://203.162.235.41:16901
 http://203.162.235.41:16902
 http://203.162.235.41:16903
@@ -7820,18 +7820,18 @@ http://203.162.235.41:16914
 http://203.162.235.41:16915
 #EXTINF:-1,WOWOW |203
 http://203.162.235.41:16916
-#EXTINF:-1 group-title="VN|203",BBC World News |203
+#EXTINF:-1 group-title="203/VN",BBC World News |203
 http://203.162.235.41:16917
-#EXTINF:-1 group-title="VN|203",CNN |203
+#EXTINF:-1 group-title="203/VN",CNN |203
 http://203.162.235.41:16918
-#EXTINF:-1 group-title="VN|203",CNBC |203
+#EXTINF:-1 group-title="203/VN",CNBC |203
 http://203.162.235.41:16919
 offline
 http://203.162.235.41:16920
 
-+ + + + + VN|htv + + + + +
++ + + + + htv/VN + + + + +
 
- group-title="VN|htv",CNN HD |htv
+ group-title="htv/VN",CNN HD |htv
 http://520574.xyz/dl/htv.php?id=6
 ,HBO CN |htv
 http://520574.xyz/dl/htv.php?id=65
@@ -7853,7 +7853,7 @@ http://520574.xyz/dl/htv.php?id=220
 http://520574.xyz/dl/htv.php?id=221
 ,HBO Family (HD) CN |htv
 http://520574.xyz/dl/htv.php?id=222
- group-title="VN|htv",HBO Hits (HD) CN |htv
+ group-title="htv/VN",HBO Hits (HD) CN |htv
 http://520574.xyz/dl/htv.php?id=223
 
 + + + + + VN|ftp + + + + +
@@ -7927,7 +7927,7 @@ https://cloud-service.best/hplus.php?play&id=73426
 https://cloud-service.best/hplus.php?play&id=27081
  tvg-logo = "http://img.hplus.com.vn/355x200/poster/2018/06/05/140735-WarnerTV.png" group-title = "VN|H+", WarnerTV
 https://cloud-service.best/hplus.php?play&id=73423
-#EXTINF:-1 group-title="VN|htv",ASIAN FOOD NETWORK |htv
+#EXTINF:-1 group-title="htv/VN",ASIAN FOOD NETWORK |htv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 #EXTINF:-1,CHANNEL V |htv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
@@ -7936,7 +7936,7 @@ http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #EXTINF:-1,FOX MOVIES |htv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="VN|htv",PARAMOUNT CHANNEL |htv
+#EXTINF:-1 group-title="htv/VN",PARAMOUNT CHANNEL |htv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 + + + + + http://iptvhit.live/projectadrian/epg/MYTV/7xhDoCdOia + + + + +
