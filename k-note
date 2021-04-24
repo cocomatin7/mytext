@@ -2622,9 +2622,270 @@ https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1
  group-title="mptalive",Skynet Sport 6 MM
 https://mptalive6-a.akamaihd.net:443/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1602257857~exp=9007200856998848~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=404fff48c1b210f9ca2991e37dd89bd7131fb5063df82cc931208cfd64600051&post=-199830756_111&cc_key=
 
-+ + + + + TH/50.7 + + + + +
++ + + + + http://4digital.ddns.net:9981/extjs.html + + + + +
 
- group-title="MY",BEIN 1 HD [TRUEVIS]
+#EXTINF:-1 group-title="4digit/TH", VIP HD1
+http://4digital.ddns.net:9981/stream/mux/a7e489d8448265bf934cd25e59b5b669
+#EXTINF:-1, TS 1
+http://4digital.ddns.net:9981/stream/mux/5f8cbaad57615150f371cd9e52a00507
+#EXTINF:-1, TS 2
+http://4digital.ddns.net:9981/stream/mux/2baeef58a6f17891729d7b3b82544f1e
+#EXTINF:-1, TS 3
+http://4digital.ddns.net:9981/stream/mux/392f3b0c98a482b63991ad6bbece3201
+#EXTINF:-1, VIP2
+http://4digital.ddns.net:9981/stream/mux/7c4f1149ef1d43041266f5b13dfad63e
+#EXTINF:-1, HBO Asia
+http://4digital.ddns.net:9981/stream/mux/a75d109849e16ded2d2509a443b43624
+#EXTINF:-1, Fox Movies IDN
+http://4digital.ddns.net:9981/stream/mux/e89f60fab7601dd45f08f7413d506471
+#EXTINF:-1, Fox Action Movies IDN
+http://4digital.ddns.net:9981/stream/mux/130c25bf5aadd322ea475ce251f56092
+#EXTINF:-1, Mola TV1
+http://4digital.ddns.net:9981/stream/mux/c6b7a0047dd9d747a3ba7c33172758c0
+#EXTINF:-1, Mola Tv2
+http://4digital.ddns.net:9981/stream/mux/263bfd4e48f8ec562c6668693be221da
+#EXTINF:-1, CHAMPIONS TV1
+http://4digital.ddns.net:9981/stream/mux/32c488d836b34785d4e139f5fe95618e
+#EXTINF:-1, Champions TV 2
+http://4digital.ddns.net:9981/stream/mux/fdc3994da4cfed4148a37b888e840dfc
+#EXTINF:-1, Champions TV 3
+http://4digital.ddns.net:9981/stream/mux/0c7b522fe058969aba411e61aa7aaba4
+
+#EXTINF:-1, VIP HD1'
+http://4digital.ddns.net:9981/stream/service/91f3c53f4010cf6724485247d112839f
+#EXTINF:-1, TS 1'
+http://4digital.ddns.net:9981/stream/service/b8b62540e6eda7f5f93b02ca23d121ed
+#EXTINF:-1, TS 2'
+http://4digital.ddns.net:9981/stream/service/e9e90cd84a13e5580bbb8ecd0d907dcf
+#EXTINF:-1, TS 3'
+http://4digital.ddns.net:9981/stream/service/db5c54702d62a3f69a5c61d857dde3cb
+#EXTINF:-1, VIP2'
+http://4digital.ddns.net:9981/stream/service/0ce306a5da35cefee8db8298ee7d8258
+#EXTINF:-1, HBO Asia'
+http://4digital.ddns.net:9981/stream/service/88d806f78571a0ac9298f434d8973746
+#EXTINF:-1, Mola TV1
+http://4digital.ddns.net:9981/stream/service/96b6a0c7007dd26fb701476f571b2bdc
+#EXTINF:-1, Mola Tv2
+http://4digital.ddns.net:9981/stream/service/7f4e1b0e4b49371a9b66b1b684b4f453
+#EXTINF:-1, CHAMPIONS TV1
+http://4digital.ddns.net:9981/stream/service/a9408f8225444e2b28a7e266f67840fe
+#EXTINF:-1, Champions TV 2
+http://4digital.ddns.net:9981/stream/service/6e5902768d48f76cf15d453671378271
+#EXTINF:-1, Champions TV 3
+http://4digital.ddns.net:9981/stream/service/826441591439f801faf8244e3901e68e
+#EXTINF:-1, FOX Family Movies
+http://4digital.ddns.net:9981/stream/service/cae8d79225fee492198d50159dcc6961
+#EXTINF:-1, FOX Movies
+http://4digital.ddns.net:9981/stream/service/00827ea652a908d5566f1354421d1c79
+#EXTINF:-1, Fox Action
+http://4digital.ddns.net:9981/stream/service/392467d3c5d2aa7ba7cfb771098cb118
+#EXTINF:-1, Fox Action Movies IDN
+http://4digital.ddns.net:9981/stream/service/a99a12ac276f2b4c020e7a01a334231d
+#EXTINF:-1, Fox Movies IDN
+http://4digital.ddns.net:9981/stream/service/a17464769934778ef6f53db6a500fb82
+
+ group-title="4digit/TH", A Leag
+http://4digital.ddns.net:9981/stream/mux/915d4013605f154f014ae5c94208b529
+, EPL 1 HD TH
+http://4digital.ddns.net:9981/stream/mux/58267dc898a8b994b8fc8efae8cc4f0a
+, EPL 2 HD TH
+http://4digital.ddns.net:9981/stream/mux/c53a1cd7668d86080c2d91e8c411f342
+, Eurosport Asia
+http://4digital.ddns.net:9981/stream/mux/806a19ea5fe468373c03f5120cc1ba64
+, FOX Action Movies
+http://4digital.ddns.net:9981/stream/mux/495e184e0f870055d4f859461a9e80d8
+, FOX Family Movies
+http://4digital.ddns.net:9981/stream/mux/379e46234c7dce33396b09a49a68fd8a
+, FOX Movies 
+http://4digital.ddns.net:9981/stream/mux/7b07c13d399ca70d8fdb4ece52818b18
+, SKYnet1 
+http://4digital.ddns.net:9981/stream/mux/a23c658714b57ac21269d8e50ded8f51
+, SKYnet2 
+http://4digital.ddns.net:9981/stream/mux/a4c2ce3849eec7f3fe199c2fef912351
+, SKYnet3
+http://4digital.ddns.net:9981/stream/mux/5a08f24f5866efe924fbc194f459c287 
+, SKYnet4
+http://4digital.ddns.net:9981/stream/mux/0d97edf8113918906b865ae82e1b7db6 
+, SKYnet5 
+http://4digital.ddns.net:9981/stream/mux/397d6aed37a4306c01b64acd11867316
+, SKYnet6
+http://4digital.ddns.net:9981/stream/mux/92c30f6ea283762d80e5360cafd21033
+
+, WB TV LAo
+http://4digital.ddns.net:9981/stream/mux/8f06cb446f5b71529f363e77992ed9c8 
+, beIN SPORTS 1
+http://4digital.ddns.net:9981/stream/mux/fc8bb39ff804af7a19d6a504cc7e58e9 
+, beIN SPORTS 2
+http://4digital.ddns.net:9981/stream/mux/bc829eafc93da82a4e54194d7699baa7 
+
+ group-title="4digit/TH",AS
+http://4digital.ddns.net:9981/stream/mux/871cf710fd70befcbe630089ce196871
+,hbo hd
+http://4digital.ddns.net:9981/stream/mux/b1db76fb8d9fe33eb9ac7023d0168fcc
+
+,beIN SPORTS 1
+http://4digital.ddns.net:9981/stream/mux/fc8bb39ff804af7a19d6a504cc7e58e9
+
+,Cinemax
+http://4digital.ddns.net:9981/stream/mux/eb556a2e43611f10ba7caed40a2f9acd
+,beIN SPORTS 2
+http://4digital.ddns.net:9981/stream/mux/bc829eafc93da82a4e54194d7699baa7
+
+,Championship
+http://4digital.ddns.net:9981/stream/mux/e2ac2b3715d1481cb885ac26e1473c84
+,A BWF
+http://4digital.ddns.net:9981/stream/mux/76a1359ad713e0452770ff810d270e50
+,AS2
+http://4digital.ddns.net:9981/stream/mux/c0efa1b6ba3bc63a377fb23d0c2bb447
+
+http://4digital.ddns.net:9981/stream/service/adc7fb6d3b9f49d34a94656169ef82c6
+http://4digital.ddns.net:9981/stream/service/cdbc1bbb9a593bd8c3ea6101b7cb8253
+http://4digital.ddns.net:9981/stream/service/eb2234e40494bd7d794d78e6683212d3
+http://4digital.ddns.net:9981/stream/service/38d3c9236281bcd40829fde2744f78e4
+http://4digital.ddns.net:9981/stream/service/cae8d79225fee492198d50159dcc6961
+, FOX Movies
+http://4digital.ddns.net:9981/stream/service/00827ea652a908d5566f1354421d1c79
+, SKYnet1
+http://4digital.ddns.net:9981/stream/service/4ec77d89fc3f518cdd5b7929236248c2
+, SKYnet2
+http://4digital.ddns.net:9981/stream/service/0043afe0e77fdee77cb0e78e46b39ca0
+http://4digital.ddns.net:9981/stream/service/4e3d56dee481febbac6dd658dc8e37ba
+http://4digital.ddns.net:9981/stream/service/a893924c32f807f0daef92de3636a1d8
+, SKYnet5
+http://4digital.ddns.net:9981/stream/service/1d67d5aaeb678ad2b0a321d0a0245005
+http://4digital.ddns.net:9981/stream/service/8326c4332a930a19d70a25607252a1c6
+, VIP HD1
+http://4digital.ddns.net:9981/stream/service/99f88d9c4feac218e92515e726d04d13
+http://4digital.ddns.net:9981/stream/service/4d7237235f530a1d3a03fdac43073d8f
+http://4digital.ddns.net:9981/stream/service/7fc35a92848c47d9305c80a12c35f3ca
+
+#EXTINF:-1 group-title="4digit/TH",FOX MOVIES
+http://4digital.ddns.net:11222/ts/0
+#EXTINF:-1,11223 | SKYNET SP HD
+http://4digital.ddns.net:11223/ts/0
+#EXTINF:-1 group-title="4digit/TH",CINEMAX TH
+http://4digital.ddns.net:11224/ts/0
+
+-/-/-/- offline -/-/-/-/-
+
+http://4digital.ddns.net:9981/stream/service/0d1b94c02844e68a0bd30e1540f9301f NGC HD
+http://4digital.ddns.net:9981/stream/service/0df4ac932e8840a7c0d88c5583d9e540 Warner 
+http://4digital.ddns.net:9981/stream/service/1dbec728fd4c80b591761f1ff25a6277 hbo hit
+http://4digital.ddns.net:9981/stream/service/38d3c9236281bcd40829fde2744f78e4 FOX Action Movies
+http://4digital.ddns.net:9981/stream/service/4befaab62f451a88f937a72304277db2 foxMoive
+http://4digital.ddns.net:9981/stream/service/524c8ebc773cff38883b108e6ddb78b3 VIP HD1
+http://4digital.ddns.net:9981/stream/service/704686d970c7557d0b564ba2e208fe8f Animal Planet
+http://4digital.ddns.net:9981/stream/service/72f9cd112ecdfd3090a58fbe26514219 hbo hs
+http://4digital.ddns.net:9981/stream/service/77e7c1ece637c9f7bbf0adf69b6c8184 encoder2
+http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248 Cinemax 
+http://4digital.ddns.net:9981/stream/service/c8c79f93a336289531cfe3555174925e HBO Sig
+http://4digital.ddns.net:9981/stream/service/cae8d79225fee492198d50159dcc6961 FOX Family Movies
+http://4digital.ddns.net:9981/stream/service/f2ed7558641e7d795bc0f0902bbef7ae History HD
+http://4digital.ddns.net:9981/stream/service/f744298928a1d0b2831247b1a97e4912 VIP HD3
+http://4digital.ddns.net:9981/stream/service/47c84ee02762feb71ba59ba4f6ba4b7e FOX Life
+
+http://4digital.ddns.net:9981/stream/service/47c84ee02762feb71ba59ba4f6ba4b7e?ticket=7205E419157062EDF74D61753F445FD75EA395C0
+http://4digital.ddns.net:9981/stream/service/72f9cd112ecdfd3090a58fbe26514219?ticket=645732534EB5294AC86F05959CE70AEEF0C2532A
+http://4digital.ddns.net:9981/stream/service/1dbec728fd4c80b591761f1ff25a6277?ticket=B04DE750DD8114341E5D3D8A43AFBB79E26BCAA4
+http://4digital.ddns.net:9981/stream/service/c8c79f93a336289531cfe3555174925e?ticket=33A937844738DFCF9AC41EF2C2D9F127CFCF62E8
+
+http://4digital.ddns.net:9981/stream/mux/9fbd51d89a0d3a6ae4102571dc209cb9 asss
+http://4digital.ddns.net:9981/stream/channel/d8ce50a3bec5713d489a3934f4dabdfb TPE 3
+http://4digital.ddns.net:9981/play/stream/service/524c8ebc773cff38883b108e6ddb78b3 VIP HD1
+ group-title="4digit/TH", VIP HD1 / Star S Select |4digit
+http://4digital.ddns.net:9981/stream/service/524c8ebc773cff38883b108e6ddb78b3?ticket=21EF2F1848D2EC1476A7253805F9EDB8755D5B63
+
+http://4digital.ddns.net:9981/stream/mux/9cf0b005756711872510792c2700d4a6 VIP HD1
+http://4digital.ddns.net:9981/play/stream/mux/9cf0b005756711872510792c2700d4a6 VIP HD1
+http://4digital.ddns.net:9981/stream/mux/c72f620b931fc9f0ca14abf5a102f012 VIP HD1
+http://4digital.ddns.net:9981/play/stream/service/77e7c1ece637c9f7bbf0adf69b6c8184 encoder2
+
+ group-title="4digit/TH",NET SPORT HD' |4digit
+http://4digital.ddns.net:9981/stream/service/77e7c1ece637c9f7bbf0adf69b6c8184?ticket=0CC9A46FB55B326ABCD252E1C5623A8A652F5F26
+http://4digital.ddns.net:9981/stream/channel/a24dad82db99b7188168a9ab362a55a8 encoder2
+http://4digital.ddns.net:9981/play/stream/channel/a24dad82db99b7188168a9ab362a55a8 encoder2
+http://4digital.ddns.net:9981/stream/mux/e3d8ac1eaebee8540805b8453a9fd4c2 encoder2
+http://4digital.ddns.net:9981/play/stream/mux/e3d8ac1eaebee8540805b8453a9fd4c2 encoder2
+
+http://4digital.ddns.net:9981/play/stream/service/0ce306a5da35cefee8db8298ee7d8258 VIP2
+http://4digital.ddns.net:9981/stream/mux/7c4f1149ef1d43041266f5b13dfad63e VIP2
+
+http://4digital.ddns.net:9981/play/stream/service/f744298928a1d0b2831247b1a97e4912 VIP HD3
+ group-title="4digit/TH", VIP HD3 / VTV Cab16
+http://4digital.ddns.net:9981/stream/service/f744298928a1d0b2831247b1a97e4912?ticket=15DBCA8941EB0CCB8C238BE0F54402535AF78BFA
+VIP HD3 / TPF HD1 |4digit < offline
+http://4digital.ddns.net:9981/stream/service/d396adf06388c6a42aed5805744dd446
+http://4digital.ddns.net:9981/play/stream/service/d396adf06388c6a42aed5805744dd446 VIP HD3
+http://4digital.ddns.net:9981/stream/mux/93068dc3c24eef87391aff725056b679 VIP HD3
+http://4digital.ddns.net:9981/play/stream/mux/93068dc3c24eef87391aff725056b679 VIP HD3
+http://4digital.ddns.net:9981/stream/mux/cef1abd1366839784df3ed0bdd480dbd VIP HD3
+
+,Animal Planet |4digit
+http://4digital.ddns.net:9981/stream/mux/dbcd6e154bc899418914ef436e6ae4d9
+, animal planet* |4digit
+http://4digital.ddns.net:9981/stream/service/704686d970c7557d0b564ba2e208fe8f?ticket=CBD0496E4DB0B983B59689DA5AF803E8146AA2D2
+, Cinemax |4digit
+http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248
+, CINEMAX TH |4digit
+http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248?ticket=5B9770279444E202ACE0326CC6117979182DC0E1
+http://4digital.ddns.net:9981/stream/service/d396adf06388c6a42aed5805744dd446?ticket=238862B3A10D3E6057FE446BBE5BDCB13ACC66F3
+,FOX MOVIES |4digit
+http://4digital.ddns.net:9981/stream/service/9eaba2b89c25f13c00fe59a915659ea1?ticket=487511BF4EFB570E9E5273DE55EF1149410DA401
+http://4digital.ddns.net:9981/stream/mux/cd0886c1728b12540c5c9641f7f49e71 foxMoive
+http://4digital.ddns.net:9981/stream/mux/80b2bdad4a7fcc83a8890524a5bc2f7f FOXMP
+http://4digital.ddns.net:9981/stream/mux/495e184e0f870055d4f859461a9e80d8 FOX Action Movies
+http://4digital.ddns.net:9981/stream/mux/6a73119e4517c5813c99426c21caca6f Fox action HD
+http://4digital.ddns.net:9981/stream/mux/f883c3704883bb1dabc9061f8c5729bf FOXFFM
+,FOX Family MOVIES' |4digit
+http://4digital.ddns.net:9981/stream/service/cae8d79225fee492198d50159dcc6961?ticket=DFB973A683642A16FC30F9D14A6D66ACD20E4AF6
+http://4digital.ddns.net:9981/stream/mux/379e46234c7dce33396b09a49a68fd8a FOX Family Movies
+, HBO TH' |4digit
+http://4digital.ddns.net:9981/stream/service/8f5407f123860627f38c08d81839331f?ticket=536E8E79A8CEF11D80178CB3FC5615C40D174EE2
+http://4digital.ddns.net:9981/stream/mux/b1db76fb8d9fe33eb9ac7023d0168fcc hbo hd
+http://4digital.ddns.net:9981/stream/mux/8c45fd9a3112988877545c0205d404d8 HBO Hit
+http://4digital.ddns.net:9981/stream/mux/cde84d1bf18e2c838811fa1d920ca436 HBO Sig
+http://4digital.ddns.net:9981/stream/mux/f94b4ed13522317c0df4099579f1dd95 WBTV
+http://4digital.ddns.net:9981/play/stream/mux/f94b4ed13522317c0df4099579f1dd95 WBTV
+http://4digital.ddns.net:9981/stream/service/0df4ac932e8840a7c0d88c5583d9e540 Warner %2F TTT
+
+,Cinemax 
+http://4digital.ddns.net:9981/stream/channelid/1903152055?ticket=FCD88F0617587F86AD111443E24BB356C2A18BE9&profile=pass
+,encoder2
+http://4digital.ddns.net:9981/stream/channelid/550966044?ticket=38414A983E311E20A5204C043F6F7206A0B8F1EC&profile=pass
+,Fox action HD
+http://4digital.ddns.net:9981/stream/channelid/901145564?ticket=45955AEB4D3DF23921EEF8231CBA7EBBBDA67AEF&profile=pass
+,FOX Life
+http://4digital.ddns.net:9981/stream/channelid/2062249260?ticket=ADEB410200E9CDC71FA6CEAD7957C911DB85A642&profile=pass
+,FOXFFM
+http://4digital.ddns.net:9981/stream/channelid/1183357943?ticket=09575E7327F63DD5E105F256732C6B41F16DAF29&profile=pass
+,FOXMP
+http://4digital.ddns.net:9981/stream/channelid/2075309843?ticket=6C889A1FBF3C183CBDCFF6956D27BA1A044E1213&profile=pass
+,HBO TH
+http://4digital.ddns.net:9981/stream/channelid/1880867789?ticket=9D41B4E38C77AA8FC026CBE533E5EA4ED9AE506E&profile=pass
+,T Sport
+http://4digital.ddns.net:9981/stream/channelid/1786843959?ticket=09CAA320B2FF577EBD0B486B802B2B4B66A8CCB3&profile=pass
+,TPE 3
+http://4digital.ddns.net:9981/stream/channelid/592498392?ticket=B7D4F566B8F9ACB9DB44C5E998A27B053247E288&profile=pass
+http://4digital.ddns.net:9981/stream/channelid/930053569?ticket=8B989B09504A281DED09028B54D78F34FCAAE64F&profile=pass
+,VIP HD3
+http://4digital.ddns.net:9981/stream/channelid/1796436178?ticket=9B816BF4C6C4AAB872C8984FCF5D1F373027EB71&profile=pass
+,Warner
+http://4digital.ddns.net:9981/stream/channelid/1393593397?ticket=E9D73FFBCF1A0C1B33C0337DBA51EA593D1FB72A&profile=pass
+,Warner TV
+http://4digital.ddns.net:9981/stream/channelid/1064727464?ticket=5870A4BE6DF47ECA33A3EF420F8057D724F6D338&profile=pass
+#EXTINF:-1 group-title="4digit/TH",{name-not-set}
+http://4digital.ddns.net:9981/stream/channelid/411232734?ticket=F574B930DC93BA735CEA84E93CB701B6C7DE3E5B&profile=pass
+http://4digital.ddns.net:9981/stream/channelid/859783834?ticket=539175DDE1B0A9C2B5BE4F94A4DAF9AF64958CA4&profile=pass
+http://4digital.ddns.net:9981/stream/channelid/870352229?ticket=A7DF85C25F8173E05D6AC824DB929DD65A6E5684&profile=pass
+http://4digital.ddns.net:9981/stream/channelid/1020190210?ticket=85D6E8577123FCBB483372FE8DEF45F3A62F9E31&profile=pass
+http://4digital.ddns.net:9981/stream/channelid/1521223711?ticket=5262E50BC148499E25F0650D57E5E4A0A6CB8951&profile=pass
+http://4digital.ddns.net:9981/stream/channelid/1895766125?ticket=F78F4AABCCD15BC19E366A1EE0D5DC9D50F02B6C&profile=pass
+http://4digital.ddns.net:9981/stream/channelid/2096517380?ticket=EC6AEC5067EB5A07E3A26D2A80362196976F3B67&profile=pass
+http://4digital.ddns.net:9981/stream/channelid/2097246791?ticket=4068219972CE6994ED268AA9C9BAD5C252F15869&profile=pass
+
++ + + + + 50.7/TH + + + + +
+
+ group-title="50.7/TH",BEIN 1 HD [TRUEVIS]
 http://50.7.161.82:8278/bcoinone/playlist.m3u8?tid=13359783&tsum=6e81f685ac8b6b13e5e5ad9ff14285f9
 ,BEIN 2 HD [TRUEVIS]
 http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=18660802&tsum=16449d276a0a8179e9812bee9a057269
@@ -2785,7 +3046,7 @@ http://50.7.161.82:8278/Antv/playlist.m3u8?tid=13104999
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 ,TV1 HD
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 group-title="TH/50.7",TVN HD
+#EXTINF:-1 group-title="50.7/TH",TVN HD
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
 #EXTINF:-1,Tvnmovie |185
@@ -2839,269 +3100,8 @@ http://50.7.161.82:8278/streams/d/Cinemax/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Animalplanet/playlist.m3u8
 ,HGTV HD
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 group-title="TH/50.7",KBS HD
+#EXTINF:-1 group-title="50.7/TH",KBS HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-
-+ + + + + http://4digital.ddns.net:9981/extjs.html + + + + +
-
-#EXTINF:-1 group-title="TH/4digit", VIP HD1
-http://4digital.ddns.net:9981/stream/mux/a7e489d8448265bf934cd25e59b5b669
-#EXTINF:-1, TS 1
-http://4digital.ddns.net:9981/stream/mux/5f8cbaad57615150f371cd9e52a00507
-#EXTINF:-1, TS 2
-http://4digital.ddns.net:9981/stream/mux/2baeef58a6f17891729d7b3b82544f1e
-#EXTINF:-1, TS 3
-http://4digital.ddns.net:9981/stream/mux/392f3b0c98a482b63991ad6bbece3201
-#EXTINF:-1, VIP2
-http://4digital.ddns.net:9981/stream/mux/7c4f1149ef1d43041266f5b13dfad63e
-#EXTINF:-1, HBO Asia
-http://4digital.ddns.net:9981/stream/mux/a75d109849e16ded2d2509a443b43624
-#EXTINF:-1, Fox Movies IDN
-http://4digital.ddns.net:9981/stream/mux/e89f60fab7601dd45f08f7413d506471
-#EXTINF:-1, Fox Action Movies IDN
-http://4digital.ddns.net:9981/stream/mux/130c25bf5aadd322ea475ce251f56092
-#EXTINF:-1, Mola TV1
-http://4digital.ddns.net:9981/stream/mux/c6b7a0047dd9d747a3ba7c33172758c0
-#EXTINF:-1, Mola Tv2
-http://4digital.ddns.net:9981/stream/mux/263bfd4e48f8ec562c6668693be221da
-#EXTINF:-1, CHAMPIONS TV1
-http://4digital.ddns.net:9981/stream/mux/32c488d836b34785d4e139f5fe95618e
-#EXTINF:-1, Champions TV 2
-http://4digital.ddns.net:9981/stream/mux/fdc3994da4cfed4148a37b888e840dfc
-#EXTINF:-1, Champions TV 3
-http://4digital.ddns.net:9981/stream/mux/0c7b522fe058969aba411e61aa7aaba4
-
-#EXTINF:-1, VIP HD1'
-http://4digital.ddns.net:9981/stream/service/91f3c53f4010cf6724485247d112839f
-#EXTINF:-1, TS 1'
-http://4digital.ddns.net:9981/stream/service/b8b62540e6eda7f5f93b02ca23d121ed
-#EXTINF:-1, TS 2'
-http://4digital.ddns.net:9981/stream/service/e9e90cd84a13e5580bbb8ecd0d907dcf
-#EXTINF:-1, TS 3'
-http://4digital.ddns.net:9981/stream/service/db5c54702d62a3f69a5c61d857dde3cb
-#EXTINF:-1, VIP2'
-http://4digital.ddns.net:9981/stream/service/0ce306a5da35cefee8db8298ee7d8258
-#EXTINF:-1, HBO Asia'
-http://4digital.ddns.net:9981/stream/service/88d806f78571a0ac9298f434d8973746
-#EXTINF:-1, Mola TV1
-http://4digital.ddns.net:9981/stream/service/96b6a0c7007dd26fb701476f571b2bdc
-#EXTINF:-1, Mola Tv2
-http://4digital.ddns.net:9981/stream/service/7f4e1b0e4b49371a9b66b1b684b4f453
-#EXTINF:-1, CHAMPIONS TV1
-http://4digital.ddns.net:9981/stream/service/a9408f8225444e2b28a7e266f67840fe
-#EXTINF:-1, Champions TV 2
-http://4digital.ddns.net:9981/stream/service/6e5902768d48f76cf15d453671378271
-#EXTINF:-1, Champions TV 3
-http://4digital.ddns.net:9981/stream/service/826441591439f801faf8244e3901e68e
-#EXTINF:-1, FOX Family Movies
-http://4digital.ddns.net:9981/stream/service/cae8d79225fee492198d50159dcc6961
-#EXTINF:-1, FOX Movies
-http://4digital.ddns.net:9981/stream/service/00827ea652a908d5566f1354421d1c79
-#EXTINF:-1, Fox Action
-http://4digital.ddns.net:9981/stream/service/392467d3c5d2aa7ba7cfb771098cb118
-#EXTINF:-1, Fox Action Movies IDN
-http://4digital.ddns.net:9981/stream/service/a99a12ac276f2b4c020e7a01a334231d
-#EXTINF:-1, Fox Movies IDN
-http://4digital.ddns.net:9981/stream/service/a17464769934778ef6f53db6a500fb82
-
- group-title="TH/4digit", A Leag
-http://4digital.ddns.net:9981/stream/mux/915d4013605f154f014ae5c94208b529
-, EPL 1 HD TH
-http://4digital.ddns.net:9981/stream/mux/58267dc898a8b994b8fc8efae8cc4f0a
-, EPL 2 HD TH
-http://4digital.ddns.net:9981/stream/mux/c53a1cd7668d86080c2d91e8c411f342
-, Eurosport Asia
-http://4digital.ddns.net:9981/stream/mux/806a19ea5fe468373c03f5120cc1ba64
-, FOX Action Movies
-http://4digital.ddns.net:9981/stream/mux/495e184e0f870055d4f859461a9e80d8
-, FOX Family Movies
-http://4digital.ddns.net:9981/stream/mux/379e46234c7dce33396b09a49a68fd8a
-, FOX Movies 
-http://4digital.ddns.net:9981/stream/mux/7b07c13d399ca70d8fdb4ece52818b18
-, SKYnet1 
-http://4digital.ddns.net:9981/stream/mux/a23c658714b57ac21269d8e50ded8f51
-, SKYnet2 
-http://4digital.ddns.net:9981/stream/mux/a4c2ce3849eec7f3fe199c2fef912351
-, SKYnet3
-http://4digital.ddns.net:9981/stream/mux/5a08f24f5866efe924fbc194f459c287 
-, SKYnet4
-http://4digital.ddns.net:9981/stream/mux/0d97edf8113918906b865ae82e1b7db6 
-, SKYnet5 
-http://4digital.ddns.net:9981/stream/mux/397d6aed37a4306c01b64acd11867316
-, SKYnet6
-http://4digital.ddns.net:9981/stream/mux/92c30f6ea283762d80e5360cafd21033
-
-, WB TV LAo
-http://4digital.ddns.net:9981/stream/mux/8f06cb446f5b71529f363e77992ed9c8 
-, beIN SPORTS 1
-http://4digital.ddns.net:9981/stream/mux/fc8bb39ff804af7a19d6a504cc7e58e9 
-, beIN SPORTS 2
-http://4digital.ddns.net:9981/stream/mux/bc829eafc93da82a4e54194d7699baa7 
-
- group-title="TH/4digit",AS
-http://4digital.ddns.net:9981/stream/mux/871cf710fd70befcbe630089ce196871
-,hbo hd
-http://4digital.ddns.net:9981/stream/mux/b1db76fb8d9fe33eb9ac7023d0168fcc
-
-,beIN SPORTS 1
-http://4digital.ddns.net:9981/stream/mux/fc8bb39ff804af7a19d6a504cc7e58e9
-
-,Cinemax
-http://4digital.ddns.net:9981/stream/mux/eb556a2e43611f10ba7caed40a2f9acd
-,beIN SPORTS 2
-http://4digital.ddns.net:9981/stream/mux/bc829eafc93da82a4e54194d7699baa7
-
-,Championship
-http://4digital.ddns.net:9981/stream/mux/e2ac2b3715d1481cb885ac26e1473c84
-,A BWF
-http://4digital.ddns.net:9981/stream/mux/76a1359ad713e0452770ff810d270e50
-,AS2
-http://4digital.ddns.net:9981/stream/mux/c0efa1b6ba3bc63a377fb23d0c2bb447
-
-http://4digital.ddns.net:9981/stream/service/adc7fb6d3b9f49d34a94656169ef82c6
-http://4digital.ddns.net:9981/stream/service/cdbc1bbb9a593bd8c3ea6101b7cb8253
-http://4digital.ddns.net:9981/stream/service/eb2234e40494bd7d794d78e6683212d3
-http://4digital.ddns.net:9981/stream/service/38d3c9236281bcd40829fde2744f78e4
-http://4digital.ddns.net:9981/stream/service/cae8d79225fee492198d50159dcc6961
-, FOX Movies
-http://4digital.ddns.net:9981/stream/service/00827ea652a908d5566f1354421d1c79
-, SKYnet1
-http://4digital.ddns.net:9981/stream/service/4ec77d89fc3f518cdd5b7929236248c2
-, SKYnet2
-http://4digital.ddns.net:9981/stream/service/0043afe0e77fdee77cb0e78e46b39ca0
-http://4digital.ddns.net:9981/stream/service/4e3d56dee481febbac6dd658dc8e37ba
-http://4digital.ddns.net:9981/stream/service/a893924c32f807f0daef92de3636a1d8
-, SKYnet5
-http://4digital.ddns.net:9981/stream/service/1d67d5aaeb678ad2b0a321d0a0245005
-http://4digital.ddns.net:9981/stream/service/8326c4332a930a19d70a25607252a1c6
-, VIP HD1
-http://4digital.ddns.net:9981/stream/service/99f88d9c4feac218e92515e726d04d13
-http://4digital.ddns.net:9981/stream/service/4d7237235f530a1d3a03fdac43073d8f
-http://4digital.ddns.net:9981/stream/service/7fc35a92848c47d9305c80a12c35f3ca
-
-#EXTINF:-1 group-title="TH/4digit",FOX MOVIES
-http://4digital.ddns.net:11222/ts/0
-#EXTINF:-1,11223 | SKYNET SP HD
-http://4digital.ddns.net:11223/ts/0
-#EXTINF:-1 group-title="TH/4digit",CINEMAX TH
-http://4digital.ddns.net:11224/ts/0
-
--/-/-/- offline -/-/-/-/-
-
-http://4digital.ddns.net:9981/stream/service/0d1b94c02844e68a0bd30e1540f9301f NGC HD
-http://4digital.ddns.net:9981/stream/service/0df4ac932e8840a7c0d88c5583d9e540 Warner 
-http://4digital.ddns.net:9981/stream/service/1dbec728fd4c80b591761f1ff25a6277 hbo hit
-http://4digital.ddns.net:9981/stream/service/38d3c9236281bcd40829fde2744f78e4 FOX Action Movies
-http://4digital.ddns.net:9981/stream/service/4befaab62f451a88f937a72304277db2 foxMoive
-http://4digital.ddns.net:9981/stream/service/524c8ebc773cff38883b108e6ddb78b3 VIP HD1
-http://4digital.ddns.net:9981/stream/service/704686d970c7557d0b564ba2e208fe8f Animal Planet
-http://4digital.ddns.net:9981/stream/service/72f9cd112ecdfd3090a58fbe26514219 hbo hs
-http://4digital.ddns.net:9981/stream/service/77e7c1ece637c9f7bbf0adf69b6c8184 encoder2
-http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248 Cinemax 
-http://4digital.ddns.net:9981/stream/service/c8c79f93a336289531cfe3555174925e HBO Sig
-http://4digital.ddns.net:9981/stream/service/cae8d79225fee492198d50159dcc6961 FOX Family Movies
-http://4digital.ddns.net:9981/stream/service/f2ed7558641e7d795bc0f0902bbef7ae History HD
-http://4digital.ddns.net:9981/stream/service/f744298928a1d0b2831247b1a97e4912 VIP HD3
-http://4digital.ddns.net:9981/stream/service/47c84ee02762feb71ba59ba4f6ba4b7e FOX Life
-
-http://4digital.ddns.net:9981/stream/service/47c84ee02762feb71ba59ba4f6ba4b7e?ticket=7205E419157062EDF74D61753F445FD75EA395C0
-http://4digital.ddns.net:9981/stream/service/72f9cd112ecdfd3090a58fbe26514219?ticket=645732534EB5294AC86F05959CE70AEEF0C2532A
-http://4digital.ddns.net:9981/stream/service/1dbec728fd4c80b591761f1ff25a6277?ticket=B04DE750DD8114341E5D3D8A43AFBB79E26BCAA4
-http://4digital.ddns.net:9981/stream/service/c8c79f93a336289531cfe3555174925e?ticket=33A937844738DFCF9AC41EF2C2D9F127CFCF62E8
-
-http://4digital.ddns.net:9981/stream/mux/9fbd51d89a0d3a6ae4102571dc209cb9 asss
-http://4digital.ddns.net:9981/stream/channel/d8ce50a3bec5713d489a3934f4dabdfb TPE 3
-http://4digital.ddns.net:9981/play/stream/service/524c8ebc773cff38883b108e6ddb78b3 VIP HD1
- group-title="TH/4digit", VIP HD1 / Star S Select |4digit
-http://4digital.ddns.net:9981/stream/service/524c8ebc773cff38883b108e6ddb78b3?ticket=21EF2F1848D2EC1476A7253805F9EDB8755D5B63
-
-http://4digital.ddns.net:9981/stream/mux/9cf0b005756711872510792c2700d4a6 VIP HD1
-http://4digital.ddns.net:9981/play/stream/mux/9cf0b005756711872510792c2700d4a6 VIP HD1
-http://4digital.ddns.net:9981/stream/mux/c72f620b931fc9f0ca14abf5a102f012 VIP HD1
-http://4digital.ddns.net:9981/play/stream/service/77e7c1ece637c9f7bbf0adf69b6c8184 encoder2
-
- group-title="TH/4digit",NET SPORT HD' |4digit
-http://4digital.ddns.net:9981/stream/service/77e7c1ece637c9f7bbf0adf69b6c8184?ticket=0CC9A46FB55B326ABCD252E1C5623A8A652F5F26
-http://4digital.ddns.net:9981/stream/channel/a24dad82db99b7188168a9ab362a55a8 encoder2
-http://4digital.ddns.net:9981/play/stream/channel/a24dad82db99b7188168a9ab362a55a8 encoder2
-http://4digital.ddns.net:9981/stream/mux/e3d8ac1eaebee8540805b8453a9fd4c2 encoder2
-http://4digital.ddns.net:9981/play/stream/mux/e3d8ac1eaebee8540805b8453a9fd4c2 encoder2
-
-http://4digital.ddns.net:9981/play/stream/service/0ce306a5da35cefee8db8298ee7d8258 VIP2
-http://4digital.ddns.net:9981/stream/mux/7c4f1149ef1d43041266f5b13dfad63e VIP2
-
-http://4digital.ddns.net:9981/play/stream/service/f744298928a1d0b2831247b1a97e4912 VIP HD3
- group-title="TH/4digit", VIP HD3 / VTV Cab16
-http://4digital.ddns.net:9981/stream/service/f744298928a1d0b2831247b1a97e4912?ticket=15DBCA8941EB0CCB8C238BE0F54402535AF78BFA
-VIP HD3 / TPF HD1 |4digit < offline
-http://4digital.ddns.net:9981/stream/service/d396adf06388c6a42aed5805744dd446
-http://4digital.ddns.net:9981/play/stream/service/d396adf06388c6a42aed5805744dd446 VIP HD3
-http://4digital.ddns.net:9981/stream/mux/93068dc3c24eef87391aff725056b679 VIP HD3
-http://4digital.ddns.net:9981/play/stream/mux/93068dc3c24eef87391aff725056b679 VIP HD3
-http://4digital.ddns.net:9981/stream/mux/cef1abd1366839784df3ed0bdd480dbd VIP HD3
-
-,Animal Planet |4digit
-http://4digital.ddns.net:9981/stream/mux/dbcd6e154bc899418914ef436e6ae4d9
-, animal planet* |4digit
-http://4digital.ddns.net:9981/stream/service/704686d970c7557d0b564ba2e208fe8f?ticket=CBD0496E4DB0B983B59689DA5AF803E8146AA2D2
-, Cinemax |4digit
-http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248
-, CINEMAX TH |4digit
-http://4digital.ddns.net:9981/stream/service/9d577e58dadc6f23bd8c76d21be8e248?ticket=5B9770279444E202ACE0326CC6117979182DC0E1
-http://4digital.ddns.net:9981/stream/service/d396adf06388c6a42aed5805744dd446?ticket=238862B3A10D3E6057FE446BBE5BDCB13ACC66F3
-,FOX MOVIES |4digit
-http://4digital.ddns.net:9981/stream/service/9eaba2b89c25f13c00fe59a915659ea1?ticket=487511BF4EFB570E9E5273DE55EF1149410DA401
-http://4digital.ddns.net:9981/stream/mux/cd0886c1728b12540c5c9641f7f49e71 foxMoive
-http://4digital.ddns.net:9981/stream/mux/80b2bdad4a7fcc83a8890524a5bc2f7f FOXMP
-http://4digital.ddns.net:9981/stream/mux/495e184e0f870055d4f859461a9e80d8 FOX Action Movies
-http://4digital.ddns.net:9981/stream/mux/6a73119e4517c5813c99426c21caca6f Fox action HD
-http://4digital.ddns.net:9981/stream/mux/f883c3704883bb1dabc9061f8c5729bf FOXFFM
-,FOX Family MOVIES' |4digit
-http://4digital.ddns.net:9981/stream/service/cae8d79225fee492198d50159dcc6961?ticket=DFB973A683642A16FC30F9D14A6D66ACD20E4AF6
-http://4digital.ddns.net:9981/stream/mux/379e46234c7dce33396b09a49a68fd8a FOX Family Movies
-, HBO TH' |4digit
-http://4digital.ddns.net:9981/stream/service/8f5407f123860627f38c08d81839331f?ticket=536E8E79A8CEF11D80178CB3FC5615C40D174EE2
-http://4digital.ddns.net:9981/stream/mux/b1db76fb8d9fe33eb9ac7023d0168fcc hbo hd
-http://4digital.ddns.net:9981/stream/mux/8c45fd9a3112988877545c0205d404d8 HBO Hit
-http://4digital.ddns.net:9981/stream/mux/cde84d1bf18e2c838811fa1d920ca436 HBO Sig
-http://4digital.ddns.net:9981/stream/mux/f94b4ed13522317c0df4099579f1dd95 WBTV
-http://4digital.ddns.net:9981/play/stream/mux/f94b4ed13522317c0df4099579f1dd95 WBTV
-http://4digital.ddns.net:9981/stream/service/0df4ac932e8840a7c0d88c5583d9e540 Warner %2F TTT
-
-,Cinemax 
-http://4digital.ddns.net:9981/stream/channelid/1903152055?ticket=FCD88F0617587F86AD111443E24BB356C2A18BE9&profile=pass
-,encoder2
-http://4digital.ddns.net:9981/stream/channelid/550966044?ticket=38414A983E311E20A5204C043F6F7206A0B8F1EC&profile=pass
-,Fox action HD
-http://4digital.ddns.net:9981/stream/channelid/901145564?ticket=45955AEB4D3DF23921EEF8231CBA7EBBBDA67AEF&profile=pass
-,FOX Life
-http://4digital.ddns.net:9981/stream/channelid/2062249260?ticket=ADEB410200E9CDC71FA6CEAD7957C911DB85A642&profile=pass
-,FOXFFM
-http://4digital.ddns.net:9981/stream/channelid/1183357943?ticket=09575E7327F63DD5E105F256732C6B41F16DAF29&profile=pass
-,FOXMP
-http://4digital.ddns.net:9981/stream/channelid/2075309843?ticket=6C889A1FBF3C183CBDCFF6956D27BA1A044E1213&profile=pass
-,HBO TH
-http://4digital.ddns.net:9981/stream/channelid/1880867789?ticket=9D41B4E38C77AA8FC026CBE533E5EA4ED9AE506E&profile=pass
-,T Sport
-http://4digital.ddns.net:9981/stream/channelid/1786843959?ticket=09CAA320B2FF577EBD0B486B802B2B4B66A8CCB3&profile=pass
-,TPE 3
-http://4digital.ddns.net:9981/stream/channelid/592498392?ticket=B7D4F566B8F9ACB9DB44C5E998A27B053247E288&profile=pass
-http://4digital.ddns.net:9981/stream/channelid/930053569?ticket=8B989B09504A281DED09028B54D78F34FCAAE64F&profile=pass
-,VIP HD3
-http://4digital.ddns.net:9981/stream/channelid/1796436178?ticket=9B816BF4C6C4AAB872C8984FCF5D1F373027EB71&profile=pass
-,Warner
-http://4digital.ddns.net:9981/stream/channelid/1393593397?ticket=E9D73FFBCF1A0C1B33C0337DBA51EA593D1FB72A&profile=pass
-,Warner TV
-http://4digital.ddns.net:9981/stream/channelid/1064727464?ticket=5870A4BE6DF47ECA33A3EF420F8057D724F6D338&profile=pass
-#EXTINF:-1 group-title="TH/4digit",{name-not-set}
-http://4digital.ddns.net:9981/stream/channelid/411232734?ticket=F574B930DC93BA735CEA84E93CB701B6C7DE3E5B&profile=pass
-http://4digital.ddns.net:9981/stream/channelid/859783834?ticket=539175DDE1B0A9C2B5BE4F94A4DAF9AF64958CA4&profile=pass
-http://4digital.ddns.net:9981/stream/channelid/870352229?ticket=A7DF85C25F8173E05D6AC824DB929DD65A6E5684&profile=pass
-http://4digital.ddns.net:9981/stream/channelid/1020190210?ticket=85D6E8577123FCBB483372FE8DEF45F3A62F9E31&profile=pass
-http://4digital.ddns.net:9981/stream/channelid/1521223711?ticket=5262E50BC148499E25F0650D57E5E4A0A6CB8951&profile=pass
-http://4digital.ddns.net:9981/stream/channelid/1895766125?ticket=F78F4AABCCD15BC19E366A1EE0D5DC9D50F02B6C&profile=pass
-http://4digital.ddns.net:9981/stream/channelid/2096517380?ticket=EC6AEC5067EB5A07E3A26D2A80362196976F3B67&profile=pass
-http://4digital.ddns.net:9981/stream/channelid/2097246791?ticket=4068219972CE6994ED268AA9C9BAD5C252F15869&profile=pass
 
 + + + + + http://116.204.181.238:9981/extjs.html + + + + +
 
