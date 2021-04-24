@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=wD9NF_SlcmE
 #EXTINF:-1 group-title="DHAMMA", ပဋ္ဌာန်းပါဋိတော် - မင်းကွန်းဆရာတော်
 https://www.youtube.com/watch?v=Q-h7NHGDuGY
 
-+ + + + + 203.81.81.230:80 + + + + + Configuration/DVB Input/Services/All + + + + + 
++ + + + + mcsh.xyz:8080 + + + + + Configuration/DVB Input/Services/All + + + + + 
 
 #EXTINF:-1, Buddha'
 http://mcsh.xyz:8080/mcshTV/zCNiETzMzd/54375
@@ -494,46 +494,6 @@ https://glus-st.mthcdn.com/stream/video02/2017/12/17/1513487216/1513487216_720.m
 https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513413876/1513413876_480.mp4
 #EXTINF:-1 group-title="movies",Transformers 4 Age Of Extinction(2014)
 https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513434647/1513434647_480.mp4
-
-+ + + + + 203.81.81.230:80 + + + + +
-
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="203.81", MRTV |203
-http://203.81.81.230:80/mrtv.m3u8
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png"", MRTV ||203
-http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
-http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
-#EXTINF:-1, Waterfall
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png"", MRTV |203
-http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv1.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV' |203
-http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv2.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="203.81", MRTV" |203
-http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv3.m3u8
-
-+ + + + + rtmp://203.81.81.230:80 + + + + +
-
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="203.81", MRTV |rtmp
-rtmp://203.81.81.230:80/livepkgr/mrtv
-rtmp://203.81.81.230:80/live/NRCL
-#EXTINF:-1, MITV |rtmp
-rtmp://203.81.81.229:80/livepkgr/MITV
-#EXTINF:-1, MRTV HLUTTAW |rtmp
-rtmp://203.81.81.229:80/livepkgr/HTT
-#EXTINF:-1, MRTV NRC |rtmp
-rtmp://203.81.81.229:80/livepkgr/NRC
-#EXTINF:-1 group-title="203.81", MRTV farmer |rtmp
-rtmp://203.81.81.229:80/livepkgr/farmer
-
-+ + + + + 203.81.84.130/mwd + + + + + 
-
-http://203.81.84.130/hls/mwd/index.m3u8
-http://203.81.84.130/hls/mwd_document/index.m3u8
-http://203.81.84.130/hls/mwd_family/index.m3u8
-http://203.81.84.130/hls/mwd_movie/index.m3u8
-http://203.81.84.130/hls/mwd_serie/index.m3u8
-http://203.81.84.130/hls/mwd_shopping/index.m3u8
-http://203.81.84.130/hls/mwd_variety/index.m3u8
 
 + + + + + BamarTV/Sport + + + + +
 
@@ -4242,6 +4202,46 @@ http://116.204.181.238:9981/extjs.html
 http://newhostshare.ddns.net:9981/playlist/channels
 http://newhostshare.ddns.net:9981/extjs.html
 
++ + + + + 203.81.81.230:80 + + + + +
+
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="203.81", MRTV |203
+http://203.81.81.230:80/mrtv.m3u8
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png"", MRTV ||203
+http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
+http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
+#EXTINF:-1, Waterfall
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+ tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png"", MRTV |203
+http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv1.m3u8
+ tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png", MRTV' |203
+http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv2.m3u8
+ tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="203.81", MRTV" |203
+http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv3.m3u8
+
++ + + + + rtmp://203.81.81.230:80 + + + + +
+
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="203.81", MRTV |rtmp
+rtmp://203.81.81.230:80/livepkgr/mrtv
+rtmp://203.81.81.230:80/live/NRCL
+#EXTINF:-1, MITV |rtmp
+rtmp://203.81.81.229:80/livepkgr/MITV
+#EXTINF:-1, MRTV HLUTTAW |rtmp
+rtmp://203.81.81.229:80/livepkgr/HTT
+#EXTINF:-1, MRTV NRC |rtmp
+rtmp://203.81.81.229:80/livepkgr/NRC
+#EXTINF:-1 group-title="203.81", MRTV farmer |rtmp
+rtmp://203.81.81.229:80/livepkgr/farmer
+
++ + + + + 203.81.84.130/mwd + + + + + 
+
+http://203.81.84.130/hls/mwd/index.m3u8
+http://203.81.84.130/hls/mwd_document/index.m3u8
+http://203.81.84.130/hls/mwd_family/index.m3u8
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+
 + + + + + TH/203.154.177.124:8899 + + + + +
 
 http://203.154.177.124:8899/live/ch23/playlist.m3u8
@@ -7856,9 +7856,9 @@ http://520574.xyz/dl/htv.php?id=222
  group-title="htv/VN",HBO Hits (HD) CN |htv
 http://520574.xyz/dl/htv.php?id=223
 
-+ + + + + VN|ftp + + + + +
++ + + + + ftp/VN + + + + +
 
-#EXTINF:-1 group-title="VN|ftp",V HD |ftp
+#EXTINF:-1 group-title="ftp/VN",V HD |ftp
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="FOX Movies HD",Fox Movies |ftp
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
@@ -7895,7 +7895,7 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/world/afchd_hls.smil/index.m3u8
 #EXTINF:-1,NHK World Japan |ftp
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VN|ftp",CNA |ftp
+#EXTINF:-1 group-title="ftp/VN",CNA |ftp
 https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
  tvg-logo = "http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title = "VN|H+", FOX SPORT 1
 https://cloud-service.best/hplus.php?play&id=3681
