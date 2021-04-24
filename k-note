@@ -499,7 +499,12 @@ https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513413876/1513413876_480.m
 #EXTINF:-1 group-title="movies",Transformers 4 Age Of Extinction(2014)
 https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513434647/1513434647_480.mp4
 
-+ + + + + BamarTV/Sport + + + + +
++ + + + + Sport/Bamar + + + + +
+
+>>> ac526d4b58b8f9ce81384d721b35b89b75a198df:k-note1
+>>> http://www.totalsportek.tv/watch/sport-tv-5/ 
+<<<<<<< HEAD:k-note
+
 
 ,SUPERSPORT 1 |50
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
@@ -510,7 +515,7 @@ http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 ,SUPERSPORT 4 |50
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
-#EXTINF:-1 group-title="BamarTV/Sport",True Premiere Football HD1 |50
+#EXTINF:-1 group-title="Sport/Bamar",True Premiere Football HD1 |50
 http://50.7.222.130:8278/streams/d/truepre1_pat/playlist.m3u8
 #EXTINF:-1,True Premiere Football HD2 |50
 http://50.7.222.130:8278/streams/d/truepre2_pat/playlist.m3u8
@@ -565,7 +570,6 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=c_10005&key=84797b799ae18d1b
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10007&key=84797b799ae18d1b
 
 
-
 #EXTINF:-1,True Premiere Football HD1 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball1-hd.m3u8
 #EXTINF:-1,True Premiere Football HD2 |185
@@ -594,7 +598,7 @@ https://app.mb13.men/c/livedo/truepremierfootball2-hd.m3u8
 #EXTINF:-1,True Premiere Football HD3 |mb13
 https://app.mb13.men/c/livedo/truepremierfootball3-hd.m3u8
 
-<<<<<<< HEAD:k-note
+
 #EXTINF:-1,beIN 6| ferrarico
 http://ferrarico.referrari.com/live/60096_.m3u8
 #EXTINF:-1,beIN 1| ferrarico
@@ -614,7 +618,6 @@ http://ferrarico.referrari.com/live/60098_.m3u8
 #EXTINF:-1,beIN 4| ferrarico
 http://ferrarico.referrari.com/live/60099_.m3u8
 
-=======
 
 http://ferrarico.referrari.com/live/60080_.m3u8
 http://ferrarico.referrari.com/live/60081_.m3u8
@@ -657,7 +660,6 @@ http://ferrarico.referrari.com/live/60107_.m3u8
 http://ferrarico.referrari.com/live/60108_.m3u8
 http://ferrarico.referrari.com/live/60109_.m3u8
 
->>>>>>> ac526d4b58b8f9ce81384d721b35b89b75a198df:k-note1
 
 #EXTINF:-1,SUPERSPORT 1 |laos-tech
 https://laos-tech-live.b-cdn.net/my-asp1hd_720/index.m3u8
@@ -696,11 +698,13 @@ https://laos-tech-live.b-cdn.net/hd-foxsports1_720/index.m3u8
 https://laos-tech-live.b-cdn.net/sd-foxsports2_480/index.m3u8
 https://laos-tech-live.b-cdn.net/sd-foxsports3_480/index.m3u8
 
+
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
 http://live3.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1,CH4 [EFL]
 http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
+
 
 #EXTINF:-1,True Premiere Football HD1 |ldm
 https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
@@ -809,12 +813,10 @@ http://streamwat.ch/custom/player/#https://www.livedoomovies.com/03_skynetsporth
 http://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD2 |livedoo
 http://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="BamarTV/Sport",True Premiere Football HD3 |livedoo
+#EXTINF:-1 group-title="Sport/Bamar",True Premiere Football HD3 |livedoo
 http://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 
-+ + + + + http://www.totalsportek.tv/watch/sport-tv-5/ + + + + +
-
-#EXTINF:-1 group-title="BamarTV/Sport",beIN SP 1PR
+#EXTINF:-1 group-title="Sport/Bamar",beIN SP 1PR
 https://streamcdn.getloconow.com/DUIAV7E2ZF_c113a376-2e87-414d-89de-da8622074455/DUIAV7E2ZF_c113a376-2e87-414d-89de-da8622074455_hi/manifest.m3u8
 
 #EXTINF:-1,Free sports
@@ -835,9 +837,7 @@ http://93.157.62.180/Supersport4/index.m3u8
 #EXTINF:-1,Supersport5
 http://93.157.62.180/Supersport5/index.m3u8
 
-
 https://freesportslive.xyz/
-
 
 na http://ebqt.blogspot.com/p/a1.html
 na http://ebqt.blogspot.com/p/a2.html
@@ -896,19 +896,14 @@ https://rwyzjmd8vxbgug4d.ezcdn383.net:8443/hls/71dv0gylb.m3u8?s=P94rSIczkv0OXTBQ
 #EXTINF:-1,star-live
 http://uk4.zecast.com:1935/star-live/cloud2t/chunklist.m3u8
 
-
 OVO1 http://www.ovostreams.com/1.php
 http://pull-2002.5centscdn.com/hls/liveovo1.m3u8
-
 OVO2 http://www.ovostreams.com/2.php
 http://pull-2000.5centscdn.com/hls/liveovo2.m3u8
-
 OVO3 http://www.ovostreams.com/3.php
 http://77.247.109.116/hls/liveovo3.m3u8
-
 OVO4 http://www.ovostreams.com/4.php
 http://77.247.109.116/hls/liveovo4.m3u8
-
 OVO5 http://www.ovostreams.com/5.php < DOWN
 https://pol.ptvsportstv.com/ovo/streamsdemo.stream/playlist.m3u8
 
@@ -924,7 +919,6 @@ http://77.247.109.116/hls/ovostreams5.m3u8
 http://streamwat.ch/custom/player/#http://77.247.109.116/hls/liveovo1.m3u8
 http://streamwat.ch/custom/player/#https://you1sports.com/hls/ep1.m3u8
 http://streamwat.ch/custom/player/#http://4digital.ddns.net:11223/ts/0
-
 
 http://www.ovostreams.com/1.php
 
@@ -1030,7 +1024,7 @@ http://185.132.177.110:8080/COSMOTESport6HD/video.m3u8?token=test
 http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8?token=test
 #EXTINF:-1,COSMOTE SPORT8
 http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8?token=test
-#EXTINF:-1 group-title="BamarTV/Sport",COSMOTE SPORT9
+#EXTINF:-1 group-title="Sport/Bamar",COSMOTE SPORT9
 http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8?token=test
 
 + + + + + BamarTV + + + + +
@@ -10282,7 +10276,7 @@ http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:-1 group-title="BamarTV/Sport",True Premiere Football HD1 |160.119
+#EXTINF:-1,True Premiere Football HD1 |160.119
 http://160.119.77.117/iptv/epl-1.stream/chunks.m3u8
 #EXTINF:-1,True Premiere Football HD2 |160.119
 http://160.119.77.117/iptv/epl-2.stream/chunks.m3u8
