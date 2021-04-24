@@ -600,30 +600,7 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=c_10005&key=84797b799ae18d1b
 #EXTINF:-1,Mediacorp cna
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10007&key=84797b799ae18d1b
 
-#EXTINF:-1 group-title="BamarTV/Sport",True Premiere Football HD1 |160.119
-http://160.119.77.117/iptv/epl-1.stream/chunks.m3u8
-#EXTINF:-1,True Premiere Football HD2 |160.119
-http://160.119.77.117/iptv/epl-2.stream/chunks.m3u8
-#EXTINF:-1,True Premiere Football HD3 |160.119
-http://160.119.77.117/iptv/epl-3.stream/chunks.m3u8
-http://160.119.77.117/iptv/epl-4.stream/chunks.m3u8
-http://160.119.77.117/iptv/epl-5.stream/chunks.m3u8
 
-http://160.119.77.117/iptv/hd-bein2.stream/chunks.m3u8 << to check
-
-,True Premiere Football HD1 |160
-http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
-,True Premiere Football HD2 |160
-http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
-,True Premiere Football HD3 |160
-http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
-
-,True Premiere Football HD1 |160*
-http://160.119.77.116:8081/iptv/bsb-epl1.stream/playlist.m3u8
-,True Premiere Football HD2 |160*
-http://160.119.77.116:8081/iptv/bsb-epl2.stream/playlist.m3u8
-,True Premiere Football HD3 |160*
-http://160.119.77.116:8081/iptv/bsb-epl3.stream/playlist.m3u8
 
 #EXTINF:-1,True Premiere Football HD1 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball1-hd.m3u8
@@ -3938,7 +3915,6 @@ http://thaicable.myftp.org:8000/live/infosat/2020/3.m3u8
 
 ,CH 4 | EPL 1
 http://thaicable.myftp.org:8000/live/infosat/2020/4.m3u8
-http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 
 ,CH 5 | TSports
 http://thaicable.myftp.org:8000/live/infosat/2020/5.m3u8
@@ -3979,7 +3955,7 @@ http://thaicable.myftp.org:8000/live/infosat/2020/14.m3u8
 
 ,CH 15 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/15.m3u8
-http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
+
 ,CH 16 | FOX family MOVIES
 http://thaicable.myftp.org:8000/live/infosat/2020/16.m3u8
 ,CH 17 | FOXlife
@@ -4224,7 +4200,7 @@ http://thaicable.myftp.org:8000/live/infosat/2020/130.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/131.m3u8
 ,CH 132 | SCM TH
 http://thaicable.myftp.org:8000/live/infosat/2020/132.m3u8
-http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
+
 ,CH 133
 http://thaicable.myftp.org:8000/live/infosat/2020/133.m3u8
 ,CH 134
@@ -4346,101 +4322,6 @@ https://cdn1.cloud-streaming.live/live/astrosport3/playlist.m3u8
 https://cdn1.cloud-streaming.live/live/astrosport4/playlist.m3u8
 
 https://cdn1.cloud-streaming.live/live/sporttv1/playlist.m3u8
-
-
-http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
-http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
-http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
-http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
-
-+ + + + + http://160.119.77.117 + + + + +
-
-#EXTINF:-1, group-title="160.119",epl-1
-http://160.119.77.117/iptv/epl-1.stream/chunks.m3u8
-#EXTINF:-1,epl-2
-http://160.119.77.117/iptv/epl-2.stream/chunks.m3u8
-#EXTINF:-1,epl-3
-http://160.119.77.117/iptv/epl-3.stream/chunks.m3u8
-http://160.119.77.117/iptv/epl-4.stream/chunks.m3u8
-http://160.119.77.117/iptv/epl-5.stream/chunks.m3u8
-http://160.119.77.117/iptv/hd-asian.stream/chunks.m3u8
-http://160.119.77.117/iptv/hd-axn.stream/chunks.m3u8
-#EXTINF:-1,bein1
-http://160.119.77.117/iptv/hd-bein1.stream/chunks.m3u8
-#EXTINF:-1,bein2
-http://160.119.77.117/iptv/hd-bein2.stream/chunks.m3u8
-#EXTINF:-1,bein3
-http://160.119.77.117/iptv/hd-bein3.stream/chunks.m3u8
-http://160.119.77.117/iptv/hd-bein4.stream/chunks.m3u8
-http://160.119.77.117/iptv/hd-bein5.stream/chunks.m3u8
-http://160.119.77.117/iptv/hd-bein6.stream/chunks.m3u8
-#EXTINF:-1,cnn
-http://160.119.77.117/iptv/hd-cnn.stream/chunks.m3u8
-http://160.119.77.117/iptv/hd-discovery.stream/chunks.m3u8
-http://160.119.77.117/iptv/hd-foxaction.stream/chunks.m3u8
-#EXTINF:-1,foxsports1
-http://160.119.77.117/iptv/hd-foxsports1.stream/chunks.m3u8
-#EXTINF:-1,foxsports3
-http://160.119.77.117/iptv/hd-foxsports3.stream/chunks.m3u8
-http://160.119.77.117/iptv/hd-history.stream/chunks.m3u8
-http://160.119.77.117/iptv/hd-history2.stream/chunks.m3u8
-#EXTINF:-1,kbsworld
-http://160.119.77.117/iptv/hd-kbsworld.stream/chunks.m3u8
-http://160.119.77.117/iptv/hd-natgeo.stream/chunks.m3u8
-http://160.119.77.117/iptv/hd-nba.stream/chunks.m3u8
-http://160.119.77.117/iptv/hd-tennis.stream/chunks.m3u8
-http://160.119.77.117/iptv/hd-tsport1.stream/chunks.m3u8
-http://160.119.77.117/iptv/hd-tsport2.stream/chunks.m3u8
-http://160.119.77.117/iptv/hd-tsport3.stream/chunks.m3u8
-http://160.119.77.117/iptv/hd-xzyte.stream/chunks.m3u8
-http://160.119.77.117/iptv/ie-rte1.stream/chunks.m3u8
-http://160.119.77.117/iptv/sd-bbcearth.stream/chunks.m3u8
-http://160.119.77.117/iptv/sd-bbclifestyle.stream/chunks.m3u8
-#EXTINF:-1,bloomberg
-http://160.119.77.117/iptv/sd-bloomberg.stream/chunks.m3u8
-http://160.119.77.117/iptv/sd-celestial.stream/chunks.m3u8
-http://160.119.77.117/iptv/sd-explife.stream/chunks.m3u8
-http://160.119.77.117/iptv/sd-expsci.stream/chunks.m3u8
-http://160.119.77.117/iptv/sd-expwild.stream/chunks.m3u8
-http://160.119.77.117/iptv/sd-fox.stream/chunks.m3u8
-#EXTINF:-1,foxsports2
-http://160.119.77.117/iptv/sd-foxsports2.stream/chunks.m3u8
-http://160.119.77.117/iptv/sd-sparkjump.stream/chunks.m3u8
-http://160.119.77.117/iptv/sd-sparkplay.stream/chunks.m3u8
-http://160.119.77.117/iptv/sd-tsport2.stream/chunks.m3u8
-http://160.119.77.117/iptv/sd-tsport5.stream/chunks.m3u8
-http://160.119.77.117/iptv/sd-tsport6.stream/chunks.m3u8
-http://160.119.77.117/iptv/sd-tsport7.stream/chunks.m3u8
-http://160.119.77.117/iptv/sd-very.stream/chunks.m3u8
-#EXTINF:-1,bbcworldnews
-http://160.119.77.117/iptv/uk-bbcworldnews.stream/chunks.m3u8
-#EXTINF:-1,btsport1hd
-http://160.119.77.117/iptv/uk-btsport1hd.stream/chunks.m3u8
-#EXTINF:-1,btsport2hd
-http://160.119.77.117/iptv/uk-btsport2hd.stream/chunks.m3u8
-#EXTINF:-1,btsport3hd
-http://160.119.77.117/iptv/uk-btsport3hd.stream/chunks.m3u8
-http://160.119.77.117/iptv/uk-btsportextra2.stream/chunks.m3u8
-http://160.119.77.117/iptv/uk-chelseatv.stream/chunks.m3u8
-http://160.119.77.117/iptv/uk-espn.stream/chunks.m3u8
-http://160.119.77.117/iptv/uk-lfctv.stream/chunks.m3u8
-http://160.119.77.117/iptv/uk-mutv.stream/chunks.m3u8
-http://160.119.77.117/iptv/uk-skysports-action.stream/chunks.m3u8
-http://160.119.77.117/iptv/uk-skysports-arena.stream/chunks.m3u8
-http://160.119.77.117/iptv/uk-skysports-cricket.stream/chunks.m3u8
-#EXTINF:-1,epl
-http://160.119.77.117/iptv/uk-skysports-epl.stream/chunks.m3u8
-http://160.119.77.117/iptv/uk-skysports-f1.stream/chunks.m3u8
-#EXTINF:-1,football
-http://160.119.77.117/iptv/uk-skysports-football.stream/chunks.m3u8
-http://160.119.77.117/iptv/uk-skysports-golf.stream/chunks.m3u8
-#EXTINF:-1,mainevent
-http://160.119.77.117/iptv/uk-skysports-mainevent.stream/chunks.m3u8
-http://160.119.77.117/iptv/uk-skysports-mix.stream/chunks.m3u8
-#EXTINF:-1,skysports-news
-http://160.119.77.117/iptv/uk-skysports-news.stream/chunks.m3u8
-#EXTINF:-1, group-title="160.119",foxsports1
-http://160.119.77.117/iptv/us-foxsports1.stream/chunks.m3u8
 
 + + + + +
 
@@ -7889,8 +7770,6 @@ http://108.48.50.123:9981/stream/channelid/1962281120?profile=pass
 #EXTINF:-1 group-title="108.48",|SPORTS| KSA SPORTS 2
 http://108.48.50.123:9981/stream/channelid/952033286?profile=pass
 
-
-
 + + + + + ID / oxygenplay + + + + +
 
  group-title="oxygenplay",bloomberg |oxygen
@@ -10301,8 +10180,128 @@ http://160.119.77.116:8081/iptv/uk-usa.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 4", True Premiere Football HD4 |185
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 5", True Premiere Football HD5 |185
 
-+ + + + + 202.57.43.60:8443 + + + + +
++ + + + + http://160.119.77.117 + + + + +
 
+#EXTINF:-1, group-title="160.119",epl-1
+http://160.119.77.117/iptv/epl-1.stream/chunks.m3u8
+#EXTINF:-1,epl-2
+http://160.119.77.117/iptv/epl-2.stream/chunks.m3u8
+#EXTINF:-1,epl-3
+http://160.119.77.117/iptv/epl-3.stream/chunks.m3u8
+http://160.119.77.117/iptv/epl-4.stream/chunks.m3u8
+http://160.119.77.117/iptv/epl-5.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-asian.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-axn.stream/chunks.m3u8
+#EXTINF:-1,bein1
+http://160.119.77.117/iptv/hd-bein1.stream/chunks.m3u8
+#EXTINF:-1,bein2
+http://160.119.77.117/iptv/hd-bein2.stream/chunks.m3u8
+#EXTINF:-1,bein3
+http://160.119.77.117/iptv/hd-bein3.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-bein4.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-bein5.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-bein6.stream/chunks.m3u8
+#EXTINF:-1,cnn
+http://160.119.77.117/iptv/hd-cnn.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-discovery.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-foxaction.stream/chunks.m3u8
+#EXTINF:-1,foxsports1
+http://160.119.77.117/iptv/hd-foxsports1.stream/chunks.m3u8
+#EXTINF:-1,foxsports3
+http://160.119.77.117/iptv/hd-foxsports3.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-history.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-history2.stream/chunks.m3u8
+#EXTINF:-1,kbsworld
+http://160.119.77.117/iptv/hd-kbsworld.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-natgeo.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-nba.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-tennis.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-tsport1.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-tsport2.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-tsport3.stream/chunks.m3u8
+http://160.119.77.117/iptv/hd-xzyte.stream/chunks.m3u8
+http://160.119.77.117/iptv/ie-rte1.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-bbcearth.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-bbclifestyle.stream/chunks.m3u8
+#EXTINF:-1,bloomberg
+http://160.119.77.117/iptv/sd-bloomberg.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-celestial.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-explife.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-expsci.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-expwild.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-fox.stream/chunks.m3u8
+#EXTINF:-1,foxsports2
+http://160.119.77.117/iptv/sd-foxsports2.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-sparkjump.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-sparkplay.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-tsport2.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-tsport5.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-tsport6.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-tsport7.stream/chunks.m3u8
+http://160.119.77.117/iptv/sd-very.stream/chunks.m3u8
+#EXTINF:-1,bbcworldnews
+http://160.119.77.117/iptv/uk-bbcworldnews.stream/chunks.m3u8
+#EXTINF:-1,btsport1hd
+http://160.119.77.117/iptv/uk-btsport1hd.stream/chunks.m3u8
+#EXTINF:-1,btsport2hd
+http://160.119.77.117/iptv/uk-btsport2hd.stream/chunks.m3u8
+#EXTINF:-1,btsport3hd
+http://160.119.77.117/iptv/uk-btsport3hd.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-btsportextra2.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-chelseatv.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-espn.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-lfctv.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-mutv.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-skysports-action.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-skysports-arena.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-skysports-cricket.stream/chunks.m3u8
+#EXTINF:-1,epl
+http://160.119.77.117/iptv/uk-skysports-epl.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-skysports-f1.stream/chunks.m3u8
+#EXTINF:-1,football
+http://160.119.77.117/iptv/uk-skysports-football.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-skysports-golf.stream/chunks.m3u8
+#EXTINF:-1,mainevent
+http://160.119.77.117/iptv/uk-skysports-mainevent.stream/chunks.m3u8
+http://160.119.77.117/iptv/uk-skysports-mix.stream/chunks.m3u8
+#EXTINF:-1,skysports-news
+http://160.119.77.117/iptv/uk-skysports-news.stream/chunks.m3u8
+#EXTINF:-1, group-title="160.119",foxsports1
+http://160.119.77.117/iptv/us-foxsports1.stream/chunks.m3u8
+
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1 group-title="BamarTV/Sport",True Premiere Football HD1 |160.119
+http://160.119.77.117/iptv/epl-1.stream/chunks.m3u8
+#EXTINF:-1,True Premiere Football HD2 |160.119
+http://160.119.77.117/iptv/epl-2.stream/chunks.m3u8
+#EXTINF:-1,True Premiere Football HD3 |160.119
+http://160.119.77.117/iptv/epl-3.stream/chunks.m3u8
+http://160.119.77.117/iptv/epl-4.stream/chunks.m3u8
+http://160.119.77.117/iptv/epl-5.stream/chunks.m3u8
+
+http://160.119.77.117/iptv/hd-bein2.stream/chunks.m3u8 << to check
+
+,True Premiere Football HD1 |160
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+,True Premiere Football HD2 |160
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+,True Premiere Football HD3 |160
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+
+,True Premiere Football HD1 |160*
+http://160.119.77.116:8081/iptv/bsb-epl1.stream/playlist.m3u8
+,True Premiere Football HD2 |160*
+http://160.119.77.116:8081/iptv/bsb-epl2.stream/playlist.m3u8
+,True Premiere Football HD3 |160*
+http://160.119.77.116:8081/iptv/bsb-epl3.stream/playlist.m3u8
+
++ + + + + 202.57.43.60:8443 + + + + +
 
 na
 http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/100.m3u8
