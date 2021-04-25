@@ -13798,7 +13798,7 @@ http://54k.top:8000/live/to44j/oyvee/105.m3u8
 + + + + + 62.182.80.153:80 + + + + + Null + + + + +
 
 http://62.182.80.153:80/get.php?username=Livetv&password=master&type=m3u
-Real Url: 62.182.80.153:80     Status: Active    Created: 7/11/2020 2:59:04 AM     Expires: Null    Active Connections: 189     Maximum Connections: 0
+Real Url: 62.182.80.153:80     Status: Active    Created: 7/11/2020 2:59:04 AM     Expires: Null    Active Connections: 156     Maximum Connections: 0
 
 #EXTINF:-1 group-title="62.182",UK: SKY CINEMA PREMIERE
 http://62.182.80.153:80/live/Livetv/master/1.m3u8
@@ -13822,8 +13822,16 @@ http://62.182.80.153:80/live/Livetv/master/12.m3u8
 http://62.182.80.153:80/live/Livetv/master/13.m3u8
 #EXTINF:-1,UK: BT SPORT 3
 http://62.182.80.153:80/live/Livetv/master/52.m3u8
+#EXTINF:-1,UK: SKY SPORTS RACING
+http://62.182.80.153:80/live/Livetv/master/16.m3u8
 #EXTINF:-1,UK: SKY SPORTS NEWS
 http://62.182.80.153:80/live/Livetv/master/17.m3u8
+#EXTINF:-1,UK: SKY SPORTS GOLF
+http://62.182.80.153:80/live/Livetv/master/19.m3u8
+#EXTINF:-1,UK: SKY SPORTS F1
+http://62.182.80.153:80/live/Livetv/master/20.m3u8
+#EXTINF:-1,UK: SKY SPORTS CRICKET
+http://62.182.80.153:80/live/Livetv/master/21.m3u8
 #EXTINF:-1,UK: BEIN SPORT 11 (ENGLISH )
 http://62.182.80.153:80/live/Livetv/master/22.m3u8
 #EXTINF:-1,UK: BEIN SPORT 12 (ENGLISH)
@@ -13834,17 +13842,17 @@ http://62.182.80.153:80/live/Livetv/master/24.m3u8
 + + + + + 69.10.62.24:25461 + + + + + null + + + + + movies 
 
 http://69.10.62.24:25461/get.php?username=ufoDq8XnAO&password=kV3q1gkVRX&type=m3u
-Real Url: 69.10.62.24:25461     Status: Active    Created: 19/4/2021 1:01:49 AM     Expires: Null    Active Connections: 15     Maximum Connections: 200
+Real Url: 69.10.62.24:25461     Status: Active    Created: 19/4/2021 1:01:49 AM     Expires: Null    Active Connections: 0     Maximum Connections: 5 < few no sports
 
 + + + + + 75.119.151.44:25461 + + + + + beIN CH + + + + +
 
 http://75.119.151.44:25461/get.php?username=beinnnnnnnn&password=beinnnnnnnn&type=m3u
-Real Url: 75.119.151.44:25461     Status: Active    Created: 2/4/2021 11:11:17 AM     Expires: Null    Active Connections: 0     Maximum Connections: 1000
+Real Url: 75.119.151.44:25461     Status: Active    Created: 2/4/2021 11:11:17 AM     Expires: Null    Active Connections: 0     Maximum Connections: 1000 < N
 
 + + + + + 103.135.208.14:80 [IN] + + + + +
 
 http://79.106.72.90:25461/get.php?username=giga&password=net&type=m3u
-Real Url: 79.106.72.90:25461     Status: Active    Created: 10/3/2021 10:14:19 AM     Expires: Null    Active Connections: 96     Maximum Connections: 1000
+Real Url: 79.106.72.90:25461     Status: Active    Created: 10/3/2021 10:14:19 AM     Expires: Null    Active Connections: 96     Maximum Connections: 1000 < No Sports
 
 + + + + + 103.135.208.14:80 [IN] + + + + +
 
@@ -13858,67 +13866,7 @@ http://104.218.61.161:83/get.php?username=directline76598&password=35222AM020342
 
 http://176.98.26.37:8000/streaming/clients_live.php?extension=m3u8&username=tivi&password=best&stream=28&type=hls
 
-http://176.9.31.213:7080/get.php?username=live_channel&password=e71sq94uo8&type=m3u < to check
-
-
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/60.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/61.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/62.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/63.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/64.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/65.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/66.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/67.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/68.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/69.ts
-
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/60.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/61.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/62.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/63.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/64.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/65.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/66.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/67.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/68.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/69.ts
-
-na http://176.9.31.213:7080/live/live_channel/e71sq94uo8/70.ts
-na http://176.9.31.213:7080/live/live_channel/e71sq94uo8/71.ts
-na http://176.9.31.213:7080/live/live_channel/e71sq94uo8/72.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/73.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/74.ts
-na http://176.9.31.213:7080/live/live_channel/e71sq94uo8/75.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/76.ts
-na http://176.9.31.213:7080/live/live_channel/e71sq94uo8/77.ts
-na http://176.9.31.213:7080/live/live_channel/e71sq94uo8/78.ts
-na http://176.9.31.213:7080/live/live_channel/e71sq94uo8/79.ts
-
-na http://176.9.31.213:7080/live/live_channel/e71sq94uo8/80.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/81.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/82.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/83.ts
-na http://176.9.31.213:7080/live/live_channel/e71sq94uo8/84.ts
-na http://176.9.31.213:7080/live/live_channel/e71sq94uo8/85.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/86.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/87.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/88.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/89.ts
-
-na http://176.9.31.213:7080/live/live_channel/e71sq94uo8/90.ts
-na http://176.9.31.213:7080/live/live_channel/e71sq94uo8/91.ts
-na http://176.9.31.213:7080/live/live_channel/e71sq94uo8/92.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/93.ts
-skysport DE
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/94.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/95.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/96.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/97.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/98.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/99.ts
-
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/103.ts
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/105.ts
+http://176.9.31.213:7080/get.php?username=live_channel&password=e71sq94uo8&type=m3u < to check < N
 
 + + + + + 185.226.88.6:1026 + + + + +
 
@@ -13936,76 +13884,15 @@ http://188.40.76.108:25461/get.php?username=mytv01&password=uSIRzmks51&type=m3u 
 + + + + + 209.145.54.100:25461 + + + + + Null + + + + +
 
 http://209.145.54.100:25461/get.php?username=tm-114-live&password=tm4.xyz&type=m3u Expires: Null    Active Connections: 2     Maximum Connections: 3333 < N
-http://209.145.54.100:25461/get.php?username=tm0live2&password=tm4.xyz&type=m3u Expires: Null    Active Connections: 1     Maximum Connections: 5000
-
-#EXTINF:-1 group-title="209.145",beIN Sports 1 Premium SD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/11.m3u8
-#EXTINF:-1,beIN Sports 2 Premium SD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/12.m3u8
-#EXTINF:-1,beIN Sports 3 Premium SD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/13.m3u8
-#EXTINF:-1,beIN Sports 1 SD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/14.m3u8
-#EXTINF:-1,beIN Sports 2 SD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/15.m3u8
-#EXTINF:-1,beIN Sports 3 SD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/16.m3u8
-#EXTINF:-1,beIN Sports 4 SD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/17.m3u8
-#EXTINF:-1,beIN Sports 5 SD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/18.m3u8
-#EXTINF:-1,beIN Sports 6 SD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/19.m3u8
-#EXTINF:-1,beIN Sports 7 SD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/20.m3u8
-#EXTINF:-1,beIN Sports 1 Premium HD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/144.m3u8
-#EXTINF:-1,beIN Sports 2 Premium HD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/145.m3u8
-#EXTINF:-1,beIN Sports 3 Premium HD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/146.m3u8
-#EXTINF:-1,beIN Sports 1 HD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/147.m3u8
-#EXTINF:-1,beIN Sports 2 HD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/148.m3u8
-#EXTINF:-1,beIN Sports 3 HD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/149.m3u8
-#EXTINF:-1,beIN Sports 4 HD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/150.m3u8
-#EXTINF:-1,beIN Sports 5 HD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/151.m3u8
-#EXTINF:-1,beIN Sports 6 HD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/152.m3u8
-#EXTINF:-1,beIN Sports 7 HD
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/153.m3u8
-#EXTINF:-1,beIN Sports 1 Premium Low
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/21.m3u8
-#EXTINF:-1,beIN Sports 2 Premium Low
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/22.m3u8
-#EXTINF:-1,beIN Sports 3 Premium Low
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/23.m3u8
-#EXTINF:-1,beIN Sports 1 Low
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/24.m3u8
-#EXTINF:-1,beIN Sports 2 Low
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/25.m3u8
-#EXTINF:-1,beIN Sports 3 Low
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/26.m3u8
-#EXTINF:-1,beIN Sports 4 Low
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/27.m3u8
-#EXTINF:-1,beIN Sports 5 Low
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/28.m3u8
-#EXTINF:-1,beIN Sports 6 Low
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/29.m3u8
-#EXTINF:-1 group-title="209.145",beIN Sports 7 Low
-http://209.145.54.100:25461/live/tm0live2/tm4.xyz/30.m3u8
+http://209.145.54.100:25461/get.php?username=tm0live2&password=tm4.xyz&type=m3u Expires: Null    Active Connections: 1     Maximum Connections: 5000 < N
 
 + + + + + 209.222.101.100:25461 + + + + + 10/10/2021 / 5-5 + + + + +
 
 http://209.222.101.100:25461/get.php?username=tv&password=tv&type=m3u
 Real Url: 209.222.101.100:25461     Status: Active    Created: 10/10/2020 11:25:57 PM     Expires: 10/10/2021 11:25:57 PM    Active Connections: 5     Maximum Connections: 5
+
 http://supersonictv.live:25461/get.php?username=dalvin&password=dalvin&type=m3u
 Real Url: 209.222.101.100:25461     Status: Active    Created: 3/6/2020 3:34:15 AM     Expires: 13/12/2021 5:34:43 PM    Active Connections: 2     Maximum Connections: 2
-
 
 #EXTINF:-1 group-title="209.222",USA MTV Classic
 http://209.222.101.100:25461/live/tv/tv/13751.m3u8
@@ -14051,27 +13938,6 @@ http://209.222.101.100:25461/live/tv/tv/22196.m3u8
 #EXTINF:-1,USA Latin BEIN Sports Latin
 http://209.222.101.100:25461/live/tv/tv/22197.m3u8
 
-#EXTINF:-1,PL | Polsat Sport Extra FHD
-http://209.222.101.100:25461/live/tv/tv/74220.m3u8
-#EXTINF:-1,PL | Polsat Sport FHD
-http://209.222.101.100:25461/live/tv/tv/74221.m3u8
-#EXTINF:-1,PL | Polsat Sport Fight FHD
-http://209.222.101.100:25461/live/tv/tv/74222.m3u8
-#EXTINF:-1,PL | Polsat Sport Premium 1 FHD
-http://209.222.101.100:25461/live/tv/tv/74223.m3u8
-#EXTINF:-1,PL | Polsat Sport Premium 1 HD
-http://209.222.101.100:25461/live/tv/tv/74224.m3u8
-#EXTINF:-1,PL | Polsat Sport Premium 2 HD
-http://209.222.101.100:25461/live/tv/tv/74225.m3u8
-#EXTINF:-1,PL | Polsat Sport Premium 3 HD
-http://209.222.101.100:25461/live/tv/tv/74226.m3u8
-#EXTINF:-1,PL | Polsat Sport Premium 4 HD
-http://209.222.101.100:25461/live/tv/tv/74227.m3u8
-#EXTINF:-1,PL | Polsat Sport Premium 5 HD
-http://209.222.101.100:25461/live/tv/tv/74228.m3u8
-#EXTINF:-1,PL | Polsat Sport Premium 6 HD
-http://209.222.101.100:25461/live/tv/tv/74229.m3u8
-
 #EXTINF:-1 group-title="209.222",Soccer01 
 http://209.222.101.100:25461/live/tv/tv/77363.m3u8
 #EXTINF:-1,Soccer02 
@@ -14090,28 +13956,8 @@ http://209.222.101.100:25461/live/tv/tv/77369.m3u8
 http://209.222.101.100:25461/live/tv/tv/77370.m3u8
 #EXTINF:-1,Soccer09 
 http://209.222.101.100:25461/live/tv/tv/77371.m3u8
-#EXTINF:-1,Soccer10:
+#EXTINF:-1 group-title="209.222",Soccer10:
 http://209.222.101.100:25461/live/tv/tv/77372.m3u8
-#EXTINF:-1,Soccer11:  
-http://209.222.101.100:25461/live/tv/tv/77373.m3u8
-#EXTINF:-1,Soccer12:  
-http://209.222.101.100:25461/live/tv/tv/77374.m3u8
-#EXTINF:-1,Soccer13: 
-http://209.222.101.100:25461/live/tv/tv/77375.m3u8
-#EXTINF:-1,Soccer14: 
-http://209.222.101.100:25461/live/tv/tv/77376.m3u8
-#EXTINF:-1,Soccer15 
-http://209.222.101.100:25461/live/tv/tv/77377.m3u8
-#EXTINF:-1,Soccer16: 
-http://209.222.101.100:25461/live/tv/tv/77378.m3u8
-#EXTINF:-1,Soccer17: 
-http://209.222.101.100:25461/live/tv/tv/77379.m3u8
-#EXTINF:-1,Soccer18:
-http://209.222.101.100:25461/live/tv/tv/77380.m3u8
-#EXTINF:-1,Soccer19: 
-http://209.222.101.100:25461/live/tv/tv/77381.m3u8
-#EXTINF:-1 group-title="209.222",Soccer20:
-http://209.222.101.100:25461/live/tv/tv/77382.m3u8
 
 + + + + + 1sn.ns1.name:18800 + + + + +
 
