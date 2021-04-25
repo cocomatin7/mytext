@@ -15507,13 +15507,13 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20000.m3u8 tvu
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21100.m3u8 diy 
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21110.m3u8
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21110.m3u8 ctv 
- beIN Sports 11
+#EXTINF:-1 group-title="qqtv", beIN Sports 11
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30238.m3u8 
- beIN Sports 2PRE
+#EXTINF:-1, beIN Sports 2PRE
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30239.m3u8 
- beIN Sports 2FR 
+#EXTINF:-1, beIN Sports 2FR 
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30240.m3u8
- beIN Sports 7
+#EXTINF:-1 group-title="qqtv", beIN Sports 7
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30242.m3u8
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30248.m3u8
 
