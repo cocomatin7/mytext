@@ -13523,8 +13523,7 @@ Real Url: 2.56.215.148:25461     Status: Active    Created: 14/10/2020 8:45:02 P
 http://iptv.live-plus.me:25461/get.php?username=xQo77lvl79&password=U6m7QCkfxC&type=m3u
 Real Url: iptv.live-plus.me:25461     Status: Active    Created: 12/10/2020 11:14:27 AM     Expires: 19/1/2038 3:14:07 AM    Active Connections: 30     Maximum Connections: 1500 < AR
 
-http://portal.simiptv.co.uk:8080/get.php?username=alipajiuk&password=oRGQpcPAkZ&type=m3u
-Real Url: portal.simiptv.co.uk:8080     Status: Active    Created: 9/4/2020 8:08:39 PM     Expires: Null    Active Connections: 98     Maximum Connections: 100 < IND + Xx + 
+
 
 + + + + + 23.237.88.117:25461 + + + + +
 
@@ -15441,50 +15440,7 @@ http://pie.buzz:83/live/Peter.nyr1909/6547736256/386620.m3u8
 
 + + + + + portal.simiptv.co.uk:8080 + + + + +
 
-http://portal.simiptv.co.uk:8080/get.php?username=alipajiuk&password=oRGQpcPAkZ&type=m3u Expires: Null    Connections: 100-101
-
-#EXTINF:-1 group-title="simiptv",IND_& Flix HD
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/335.m3u8
-#EXTINF:-1,IND_& Pictures HD 
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/7.m3u8
-#EXTINF:-1,IND_& privé HD(eng) 
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/8.m3u8
-#EXTINF:-1,IND_& TV (UK)
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/325.m3u8
-#EXTINF:-1,IND_& TV FHD (IND) 
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/1008.m3u8
-#EXTINF:-1,IND_& Xplor HD
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/336.m3u8
-#EXTINF:-1,IND_9XM (Music)
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/12.m3u8
-#EXTINF:-1,IND_B4U Movies (IND)
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/39.m3u8
-#EXTINF:-1,IND_B4U Movies (uk)
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/721.m3u8
-#EXTINF:-1,IND_B4U Music HD
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/19.m3u8
-#EXTINF:-1,IND_BBO HD
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/1140.m3u8
-#EXTINF:-1,IND_Movies Now HD
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/275.m3u8
-#EXTINF:-1,IND_MTV_Beats HD (jio)
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/861.m3u8
-#EXTINF:-1,IND_MUSIC INDIA (Music)
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/57.m3u8
-#EXTINF:-1,IND_Sony_Ten_1_HD (VIP)
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/59.m3u8
-#EXTINF:-1,IND_sony_Ten_2_HD(vip)
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/60.m3u8
-#EXTINF:-1,IND_Sony_Ten_3 HD (JIO)
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/61.m3u8
-#EXTINF:-1,IND_ZEE CINEMA (USA)
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/80.m3u8
-#EXTINF:-1,IND_Zee Cinema FHD (VIP)
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/890.m3u8
-#EXTINF:-1,IND_Zee Cinema HD (UK-TIME)
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/79.m3u8
-#EXTINF:-1 group-title="simiptv",IND_ZEE Cinema SD (IND)
-http://portal.simiptv.co.uk:8080/live/alipajiuk/oRGQpcPAkZ/693.m3u8
+http://portal.simiptv.co.uk:8080/get.php?username=alipajiuk&password=oRGQpcPAkZ&type=m3u Expires: Null    Connections: 100-101 < DOWN
 
 + + + + + pro-panel01.club:8080 / premium-streamplay.club [SEA] + + + + +
 
