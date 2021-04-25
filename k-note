@@ -14120,6 +14120,9 @@ Real Url: 1sn.ns1.name:18800     Status: Active    Created: 14/12/2015 3:18:50 A
 
 + + + + + appstv.us:25461 + + + + +
 
+http://appstv.us:25461/get.php?username=1&password=2&type=m3u
+Real Url: 104.192.101.58:25461     Status: Active    Created: 29/12/2020 3:46:47 AM     Expires: Null    Active Connections: 0     Maximum Connections: 0
+
 #EXTINF:-1 group-title="appstv",NBCSN |appstv
 http://appstv.us:25461/live/1/2/1430.m3u8
 #EXTINF:-1,FOX SPORTS
