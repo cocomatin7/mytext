@@ -8048,59 +8048,59 @@ http://119.59.125.74/stream/totnew.php?channel_id=205930751d5743e2be719ed1dff897
 
 + + + + + 160.119.77.50 >> 160.119.77.116:8081 + + + + + 
 
-#EXTINF:-1 group-title="160.119", True Premiere Football HD1 |160
-#EXTINF:-1, True Premiere Football HD2 |160
-#EXTINF:-1, True Premiere Football HD3 |160
-#EXTINF:-1, True Premiere Football HD4 |160
-#EXTINF:-1, True Premiere Football HD5 |160
-#EXTINF:-1 group-title="160.119", beIN 1 |160
+ group-title="160.119", True Premiere Football HD1 |160
+, True Premiere Football HD2 |160
+, True Premiere Football HD3 |160
+, True Premiere Football HD4 |160
+, True Premiere Football HD5 |160
+ group-title="160.119", beIN 1 |160
 http://160.119.77.116:8081/iptv/hd-bein1.stream/playlist.m3u8
-#EXTINF:-1, beIN 2 |160
+, beIN 2 |160
 http://160.119.77.116:8081/iptv/hd-bein2.stream/playlist.m3u8
-#EXTINF:-1, UK BBC World News HD |160
+, UK BBC World News HD |160
 http://160.119.77.116:8081/iptv/hd-bbcworldnews.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CINEMAX (HD)", CINEMAX MM |160
+ tvg-id="CINEMAX (HD)", CINEMAX MM |160
 http://160.119.77.116:8081/iptv/hd-cinemax.stream/playlist.m3u8
-#EXTINF:-1, CNN HD |160
+, CNN HD |160
 http://160.119.77.116:8081/iptv/hd-cnn.stream/playlist.m3u8
-#EXTINF:-1, Discovery Asia HD ENG/MM |160
+, Discovery Asia HD ENG/MM |160
 http://160.119.77.116:8081/iptv/hd-discoveryeng.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox Action Movies HD", Fox Action Movies HD |160
-#EXTINF:-1 tvg-id="FOX Family Movies HD", Fox Family HD |160 *OFFLINE*
+ tvg-id="Fox Action Movies HD", Fox Action Movies HD |160
+ tvg-id="FOX Family Movies HD", Fox Family HD |160 *OFFLINE*
 http://160.119.77.116:8081/iptv/hd-foxfamily.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="FOX Movies HD", Fox Movies Premium HD |160
+ tvg-id="FOX Movies HD", Fox Movies Premium HD |160
 http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO HD", HBO MM |160
+ tvg-id="HBO HD", HBO MM |160
 http://160.119.77.116:8081/iptv/hd-hboeng.stream/playlist.m3u8
-#EXTINF:-1, History ENG/MM HD |160
+, History ENG/MM HD |160
 http://160.119.77.116:8081/iptv/hd-historyeng.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KBS World HD", KBS World HD |160
+ tvg-id="KBS World HD", KBS World HD |160
 http://160.119.77.116:8081/iptv/hd-kbsworld.stream/playlist.m3u8
-#EXTINF:-1, MTV Live HD |160
+, MTV Live HD |160
 http://160.119.77.116:8081/iptv/hd-mtvlive.stream/playlist.m3u8
-#EXTINF:-1, Natgeo Graphic ENG HD |160
+, Natgeo Graphic ENG HD |160
 http://160.119.77.116:8081/iptv/hd-natgeoeng.stream/playlist.m3u8
-#EXTINF:-1, Natgeo People ENG HD |160
+, Natgeo People ENG HD |160
 http://160.119.77.116:8081/iptv/hd-natgeopeopleeng.stream/playlist.m3u8
-#EXTINF:-1, Natgeo Wild ENG HD |160
+, Natgeo Wild ENG HD |160
 http://160.119.77.116:8081/iptv/hd-natgeowildeng.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SCM HD", Star Chinese Movies ENG/MM HD |160
-#EXTINF:-1, Arirang |160
+ tvg-id="SCM HD", Star Chinese Movies ENG/MM HD |160
+, Arirang |160
 http://160.119.77.116:8081/iptv/sd-arirang.stream/playlist.m3u8
-#EXTINF:-1, afn |160
+, afn |160
 http://160.119.77.116:8081/iptv/sd-asianfood.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/sd-boomerang.stream/playlist.m3u8
-#EXTINF:-1, Cartoon Network ENG |160
+, Cartoon Network ENG |160
 http://160.119.77.116:8081/iptv/sd-cartoonnetworkeng.stream/playlist.m3u8
-#EXTINF:-1, CCM |160
+, CCM |160
 http://160.119.77.116:8081/iptv/sd-celestial.stream/playlist.m3u8
-#EXTINF:-1, Channel News Asia |160
+, Channel News Asia |160
 http://160.119.77.116:8081/iptv/sd-channelnewsasia.stream/playlist.m3u8
-#EXTINF:-1, Channel V |160
+, Channel V |160
 http://160.119.77.116:8081/iptv/sd-chvinter.stream/playlist.m3u8
-#EXTINF:-1, CNBC |160
+, CNBC |160
 http://160.119.77.116:8081/iptv/sd-cnbc.stream/playlist.m3u8
-#EXTINF:-1, Discovery Science |160
+, Discovery Science |160
 http://160.119.77.116:8081/iptv/hd-discoveryscience.stream/playlist.m3u8
 , Skynet Sport 1 |160
 http://160.119.77.116:8081/iptv/sd-skynetsports1.stream/playlist.m3u8
@@ -8118,48 +8118,48 @@ http://160.119.77.116:8081/iptv/sd-skynetsports6.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/sd-skynetsportshd.stream/playlist.m3u8
 , Skynet Sport Plus |160
 http://160.119.77.116:8081/iptv/sd-skynetsportsplus.stream/playlist.m3u8
-#EXTINF:-1, UK CNN |160
+, UK CNN |160
 http://160.119.77.116:8081/iptv/uk-cnn.stream/playlist.m3u8
-#EXTINF:-1, uk-skysports-epl |160
-#EXTINF:-1, uk-skysports-mainevent |160
-#EXTINF:-1, uk-skysports-news |160
+, uk-skysports-epl |160
+, uk-skysports-mainevent |160
+, uk-skysports-news |160
 http://160.119.77.116:8081/iptv/uk-skysports-news.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport", asp1hd |160 |offline
+ tvg-id="Astro SuperSport", asp1hd |160 |offline
 http://160.119.77.116:8081/iptv/my-asp1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 2", asp2hd |160
+ tvg-id="Astro SuperSport 2", asp2hd |160
 http://160.119.77.116:8081/iptv/my-asp2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 3", asp3hd |160
+ tvg-id="Astro SuperSport 3", asp3hd |160
 http://160.119.77.116:8081/iptv/my-asp3hd.stream/playlist.m3u8
-#EXTINF:-1, us-foxsports1 |160
+, us-foxsports1 |160
 http://160.119.77.116:8081/iptv/us-foxsports1.stream/playlist.m3u8
-#EXTINF:-1, us-foxsports2 |160
+, us-foxsports2 |160
 http://160.119.77.116:8081/iptv/us-foxsports2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee Cinema", ZEE Cinema |160
+ tvg-id="Zee Cinema", ZEE Cinema |160
 http://160.119.77.116:8081/iptv/in-zeecinema.stream/playlist.m3u8
-#EXTINF:-1, zeetv hd |160
+, zeetv hd |160
 http://160.119.77.116:8081/iptv/in-zeetvhd.stream/playlist.m3u8
-#EXTINF:-1, afc |160
-#EXTINF:-1, movie hits eng |160
+, afc |160
+, movie hits eng |160
 http://160.119.77.116:8081/iptv/sd-moviehitseng.stream/playlist.m3u8
-#EXTINF:-1, mtv asia |160
+, mtv asia |160
 http://160.119.77.116:8081/iptv/sd-mtvasia.stream/playlist.m3u8
-#EXTINF:-1, mtv china |160
+, mtv china |160
 http://160.119.77.116:8081/iptv/sd-mtvchina.stream/playlist.m3u8
-#EXTINF:-1, bbc news hd |160
+, bbc news hd |160
 http://160.119.77.116:8081/iptv/uk-bbcnewshd.stream/playlist.m3u8
-#EXTINF:-1, bt sport 1hd |160
-#EXTINF:-1, bt sport 2hd |160
-#EXTINF:-1, bt sport 3hd |160
+, bt sport 1hd |160
+, bt sport 2hd |160
+, bt sport 3hd |160
 http://160.119.77.116:8081/iptv/hd-amarin.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-asian.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-axn.stream/playlist.m3u8
-#EXTINF:-1, beIN 3 |160 |UEFA
+, beIN 3 |160 |UEFA
 http://160.119.77.116:8081/iptv/hd-bein3.stream/playlist.m3u8
-#EXTINF:-1, beIN 4 |160
+, beIN 4 |160
 http://160.119.77.116:8081/iptv/hd-bein4.stream/playlist.m3u8
-#EXTINF:-1, beIN 5 |160
+, beIN 5 |160
 http://160.119.77.116:8081/iptv/hd-bein5.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="WarnerTV HD", warnertv |160
+ tvg-id="WarnerTV HD", warnertv |160
 http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/de-skybundesliga.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
@@ -8331,13 +8331,13 @@ http://160.119.77.116:8081/iptv/uk-itv3.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/uk-itv4.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/uk-more4.stream/playlist.m3u8
 http://160.119.77.116:8081:80/iptv/sd-gmmchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="160.119", usa
+ group-title="160.119", usa
 http://160.119.77.116:8081/iptv/uk-usa.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1", True Premiere Football HD1* |185
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2", True Premiere Football HD2 |185
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3", True Premiere Football HD3 |185
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 4", True Premiere Football HD4 |185
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 5", True Premiere Football HD5 |185
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1", True Premiere Football HD1* |185
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2", True Premiere Football HD2 |185
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3", True Premiere Football HD3 |185
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 4", True Premiere Football HD4 |185
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 5", True Premiere Football HD5 |185
 
 + + + + + http://160.119.77.117 + + + + +
 
