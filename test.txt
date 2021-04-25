@@ -1,0 +1,337 @@
+160. USA BeIN Sports 2 | 
+http://main.realiptv.to:25461/live/xtremrev-restream/VDrsW3XCY43KDSJHasd/5314.ts
+
+161. USA BeIN Sports 4 | 
+http://main.realiptv.to:25461/live/xtremrev-restream/VDrsW3XCY43KDSJHasd/5313.ts
+
+162. USA BeIN Sports 5 | 
+http://main.realiptv.to:25461/live/xtremrev-restream/VDrsW3XCY43KDSJHasd/5312.m3u8
+
+163. USA BeIN Sports 6 | 
+http://main.realiptv.to:25461/live/xtremrev-restream/VDrsW3XCY43KDSJHasd/5311.ts
+
+164. USA BeIN Sports 7 | 
+http://main.realiptv.to:25461/live/xtremrev-restream/VDrsW3XCY43KDSJHasd/5310.ts
+
+165. USA BeIN Sports 8 | 
+http://main.realiptv.to:25461/live/xtremrev-restream/VDrsW3XCY43KDSJHasd/5309.ts
+
+166. USA beIN SPORTS enEspanol LHD | 
+http://main.realiptv.to:25461/live/xtremrev-restream/VDrsW3XCY43KDSJHasd/3707.ts
+
+167. USA BeIN Sports LaLiga | 
+http://main.realiptv.to:25461/live/xtremrev-restream/VDrsW3XCY43KDSJHasd/5308.ts
+
+168. USA beIN Sports LHD | 
+http://main.realiptv.to:25461/live/xtremrev-restream/VDrsW3XCY43KDSJHasd/3706.ts
+
+169. USA Bein Sports N Espanol SD | 
+http://main.realiptv.to:25461/live/xtremrev-restream/VDrsW3XCY43KDSJHasd/21586.ts
+
+170. USA Bein Sports N Espanol UHD | 
+http://main.realiptv.to:25461/live/xtremrev-restream/VDrsW3XCY43KDSJHasd/3613.ts
+
+171. USA Bein Sports UHD | 
+http://main.realiptv.to:25461/live/xtremrev-restream/VDrsW3XCY43KDSJHasd/3612.ts
+
+
+= = = = =
+
+<video src=”url” width=”640px” height=”380px” autoplay/>
+
+= = = = =
+
+<video poster=”/path/to/poster.jpg” id=”player” playsinline controls>
+ <source src=”/path/to/video.mp4" type=”video/mp4">
+ <source src=”/path/to/video.webm” type=”video/webm”>
+ 
+ <! — Captions are optional ?
+ <track kind=”captions” label=”English captions” src=”/path/to/captions.vtt” srclang=”en” default>
+</video>
+
+= = = = =
+
+= = = = =
+
+!DOCTYPE html>
+<html>
+ <head>
+ <title>afterglow player</title>
+ <script type=”text/javascript” src=”//cdn.jsdelivr.net/afterglow/latest/afterglow.min.js”></script>
+ </head>
+ <body>
+ <video class=”afterglow” id=”myvideo” width=”1280" height=”720">
+ <source type=”video/mp4" src=”/path/to/myvideo.mp4" />
+ </video>
+ </body>
+<html>
+= = = = =
+
+<video
+ id=”my-player”
+ class=”video-js”
+ controls
+ preload=”auto”
+ poster=”//vjs.zencdn.net/v/oceans.png”
+ data-setup=’{}’>
+ <source src=”//vjs.zencdn.net/v/oceans.mp4" type=”video/mp4"></source>
+ <source src=”//vjs.zencdn.net/v/oceans.webm” type=”video/webm”></source>
+ <source src=”//vjs.zencdn.net/v/oceans.ogv” type=”video/ogg”></source>
+ <p class=”vjs-no-js”>
+ To view this video please enable JavaScript, and consider upgrading to a web browser that
+ <a href=”http://videojs.com/html5-video-support/” target=”_blank”>
+ supports HTML5 video
+ </a>
+ </p>
+</video>
+= = = = =
+
+<playercorefactory>
+        <players>
+                <player name="Video" type="ExternalPlayer" audio="false" video="true">
+                        <filename>com.mxtech.videoplayer.pro</filename>
+                        <hidexbmc>true</hidexbmc>
+                        <playcountminimumtime>120</playcountminimumtime>
+                </player>
+        </players>
+        <rules action="prepend">
+                <rule protocols="smb" name="Video"/>
+                <rule video="true" player="Video"/>
+        </rules>
+</playercorefactory>
+
+= = = = =
+
+<!DOCTYPE html> 
+<html> 
+<body> 
+
+<video width="400" controls>
+  <source src="mov_bbb.mp4" type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+  Your browser does not support HTML video.
+</video>
+
+<p>
+Video courtesy of 
+<a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.
+</p>
+
+</body> 
+</html>
+
+= = = = =
+
+
+<!DOCTYPE html>
+<body>
+
+<h1> MX Player ????????? </h1>
+<h1> MX Player ????????? </h1>
+
+<a href="http://internetowa.tv/?c=hlsPlay&channel=polsatsport&token=777d19935388d338b1a72d1910291783307cca89c3115aff81468556b818cd84d8733fd991fd7da8748890eacff6fceba3a898587b104d82873984fda403ecd7" target="com.mxtech.videoplayer.ad"><img src="https://www.skynetdth.com/images/channal_logo/Sport1.png" alt="" width="160" height="80" /></a>
+
+
+</body>
+</html>
+
+= = = = = 
+
+<!DOCTYPE html>
+<body>
+
+<h1> MX Player ????????? </h1>
+<h1> MX Player ????????? </h1>
+<a href="intent:http://internetowa.tv/?c=hlsPlay&channel=polsatsport&token=777d19935388d338b1a72d1910291783307cca89c3115aff81468556b818cd84d8733fd991fd7da8748890eacff6fceba3a898587b104d82873984fda403ecd7#Intent;package=com.mxtech.videoplayer.ad;S.title=New%20title;end"><img src="https://www.skynetdth.com/images/channal_logo/Sport1.png" alt="" width="160" height="80" />Launch through Intent scheme.</a>
+
+</body>
+</html>
+
+= = = = = 
+
+<script src="http://jwpsrv.com/library/myjwplayerkey.js"></script>
+<div id="myElement"></div>
+<script> 
+jwplayer("myElement").setup({ 
+file: "http://217.113.227.239/kuchnia/kuchnia.m3u8", 
+width: 640, 
+height: 360 
+}); 
+</script>
+
+
+= = = = = 
+
+RACING
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6122/index.m3u8
+1
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6123/index.m3u8
+3
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6124/index.m3u8
+beIN 4
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6125/index.m3u8
+6
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6127/index.m3u8
+7
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6128/index.m3u8
+8
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6129/index.m3u8
+
+&TV HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/47723199b2e2f44.m3u8
+http://159.89.3.81:1144/ind2020/andtvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyMCAxOjU3OjI4IFBNJmhhc2hfdmFsdWU9azM0RHo2UDVpeVFPZ2FyZEloUGpSUT09JnZhbGlkbWludXRlcz0y
+
+ZEE 5 THEATRE
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/2e8972c0015d6a5.m3u8
+http://174.138.2.194:8977/ind2020/cinematv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyMCAxOjU5OjIxIFBNJmhhc2hfdmFsdWU9SnlKME0zMW92NkFEaEt3YzNHRFl5QT09JnZhbGlkbWludXRlcz0y
+
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/1c15d6caf2afe5f.m3u8
+http://138.68.48.8:3564/ind2020/sonymaxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyMCAyOjAxOjMyIFBNJmhhc2hfdmFsdWU9enh0SFM1WkRKREJFUzFFbXIreFRRZz09JnZhbGlkbWludXRlcz0y
+sony max 2
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/b15bb7994e8fce8.m3u8
+http://46.101.128.207:3546/ind2020/sonymax2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyMCAyOjAwOjQ0IFBNJmhhc2hfdmFsdWU9NVlEVmFGNzRoTmVLMVNnbHBZMWpFQT09JnZhbGlkbWludXRlcz0y
+
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/4edd3ee799e02e4.m3u8
+http://159.89.3.81:1144/ind2020/stargoldselect/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyMCAyOjAxOjU2IFBNJmhhc2hfdmFsdWU9N0YzTVBuNFNhaTg4TXZDbkFhdTAwQT09JnZhbGlkbWludXRlcz0y
+
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/04d147f63203de3.m3u8
+http://159.65.202.177:5456/ind2020/stargoldhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyMCAyOjAyOjI4IFBNJmhhc2hfdmFsdWU9T05MZmpFY3c4K0E5WUxrLzBIdmY4QT09JnZhbGlkbWludXRlcz0y
+
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/286a6d93747f583.m3u8
+http://159.65.202.177:5456/ind2020/stargolduk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyMCAyOjAyOjQ4IFBNJmhhc2hfdmFsdWU9djJBRmtnYmFTQWxOZzd1RGNxQ24ydz09JnZhbGlkbWludXRlcz0y
+
+
+http://185.238.0.145:1313/c/ku/foxfamilymovies.m3u8
+
+
+
+http://internetowa.tv/?c=hlsPlay&channel=polsatsport&token=777d19935388d338b1a72d1910291783307cca89c3115aff81468556b818cd84d8733fd991fd7da8748890eacff6fceba3a898587b104d82873984fda403ecd7
+
+http://internetowa.tv/?c=hlsPlay&channel=polsatsport&token=aeb6c3d7b07d0db4eb1ebbbbcdaf330f2a0d68827994f2aa30ec682557ab9c43d1a8555f3165b3ee6f377e4867c4bb45d1798bf62dccc985093e90b653204b32 < N
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=aeb6c3d7b07d0db4eb1ebbbbcdaf330f2a0d68827994f2aa30ec682557ab9c43d1a8555f3165b3ee6f377e4867c4bb45d1798bf62dccc985093e90b653204b32 < N
+
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=175bb95416e9a447b6119c2a83efb9ead49b3276ec9c8d1a7b4f98098bdd53b27a6cd2d864f815548aff8bef704a18cbfa9f670965ff4f72387cf35b2f995b88 < N
+http://digitalxpress.gcdn.co/live1/polsatsport/index.m3u8 < N
+http://digitalxpress.gcdn.co/live1/polsatromans/index.m3u8 < N
+http://digitalxpress.gcdn.co/live1/polsatplay/index.m3u8 < N
+http://digitalxpress.gcdn.co/live1/polsat2/index.m3u8 < N
+http://digitalxpress.gcdn.co/live1/polsat/tracks-v1a1/mono.m3u8 < N
+http://digitalxpress.gcdn.co/live1/polsatsport/index.m3u8 < N
+
+http://207.110.52.46:8080/s/hls/6/9584/polsat_266/1/1/index.m3u8
+
+
+http://digitalxpress.gcdn.co/live1/polsatnews/index.m3u8 < N
+http://digitalxpress.gcdn.co/live1/polsat2/index.m3u8 < N
+http://digitalxpress.gcdn.co/live1/polsatsportpremium1/index.m3u8 < N
+
+http://digitalxpress.gcdn.co/live1/polsatsportpremium2/index.m3u8 < N
+
+POLSAT 2
+http://portal.ott.pink/watch/161/video.m3u8?token=1396DA817206EC05EE56FDF4375977A9 < N
+Polsat Sport Premium 4 PPV 
+http://ip1world.dyndns.tv:25461/live/mariuszpusz81@gmail.com/O14ET5PZJN/15888.m3u8 < N
+
+= = = = = 
+
+https://drive.google.com/file/d/1za91GBbf7yX3AEHesdAj1vt4QcuzefYE/view?usp=sharing
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The video element</h1>
+
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
+</body>
+</html>
+
+= = = = = = = = = = = 
+
+<!DOCTYPE html>
+<body>
+
+<h1> MX Player ????????? </h1>
+<h1> MX Player ????????? </h1>
+
+<a href="https://raw.githubusercontent.com/konanda-sg/mytext/master/N-1.m3u8" target=""><img src="https://www.skynetdth.com/images/channal_logo/Sport1.png" alt="" width="160" height="80" /></a>
+<a href="https://raw.githubusercontent.com/konanda-sg/mytext/master/N-2.m3u8" target=""><img src="https://www.skynetdth.com/images/channal_logo/sports2.png" alt="" width="160" height="80" /></a>
+<a href="https://raw.githubusercontent.com/konanda-sg/mytext/master/N-3.m3u8" target=""><img src="https://www.skynetdth.com/images/channal_logo/sports3.png" alt="" width="160" height="80" /></a>
+<a href="https://raw.githubusercontent.com/konanda-sg/mytext/master/N-4.m3u8" target=""><img src="https://www.skynetdth.com/images/channal_logo/Sport4.png" alt="" width="160" height="80" /></a>
+<a href="https://raw.githubusercontent.com/konanda-sg/mytext/master/N-5.m3u8" target=""><img src="https://www.skynetdth.com/images/channal_logo/Sport5.png" alt="" width="160" height="80" /></a>
+<a href="https://raw.githubusercontent.com/konanda-sg/mytext/master/N-6.m3u8" target="com.mxtech.videoplayer.ad"><img src="https://www.skynetdth.com/images/channal_logo/Sport6.png" alt="" width="160" height="80" /></a> 
+
+</body>
+</html>
+
+= = = = = = = = = = = 
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<a href="http://uk-de.plusx.tv/191/mpegts?token=dami423dami12342222" target="com.mxtech.videoplayer.ad"><img src="https://www.skynetdth.com/images/channal_logo/Sport6.png" alt="" width="160" height="80" 
+
+/></a> 
+
+</body>
+</html>
+
+http://uk-de.plusx.tv/191/playlist.m3u8?token=dami423dami12342222
+
+http://uk-de.plusx.tv/193/playlist.m3u8?token=dami423dami12342222
+
+<!DOCTYPE html>
+<head><title></title></head>
+<body>
+
+<h1> MX Player ????????? </h1>
+<h1> MX Player ????????? </h1>
+
+<a href="http://uk-de.plusx.tv/194/playlist.m3u8?token=dami423dami12342222" target=""><img src="https://raw.githubusercontent.com/konanda-sg/mytext/master/icon/POL%20FIGHT.png" alt="" width="160" height="80" /></a>
+
+</body>
+</html>
+
+
+SPORT FIGHT*
+http://uk-de.plusx.tv/194/mpegts?token=dami423dami12342222
+
+= = = = = = = = = = = 
+Intent intent = new Intent(Intent.ACTION_VIEW);
+Uri videoUri = Uri.parse("http://host:port/playlist.m3u8");
+intent.setDataAndType( videoUri, "application/x-mpegURL" );
+intent.setPackage( "com.mxtech.videoplayer.pro" );
+startActivity( intent );
+
+<a href="intent:http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8 #Intent;package=com.mxtech.videoplayer.ad;S.title=New%20title;end">Launch through Intent scheme.</a>
+
+
+
+<a href="intent:http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8#Intent;package=com.mxtech.videoplayer.ad;S.title=New%20title;end">Launch through Intent scheme.</a>
+
+= = = = = = = = = = = 
+
+Intent myIntent;
+    PackageManager pm = getPackageManager();
+    try {    myIntent = pm.getLaunchIntentForPackage(YourPackageName);
+        if (null != myIntent)
+            this.startActivity(myIntent);    } catch (ActivityNotFoundException e) {    }
+
+= = = = = = = = = = = 
+
+
+<h1> MX Player ????????? </h1>
+<h1> MX Player ????????? </h1>
+
+<a href="http://uk-de.plusx.tv/191/mpegts?token=dami423dami12342222" intent.setPackage( "com.mxtech.videoplayer.pro"><img src="https://raw.githubusercontent.com/konanda-sg/mytext/master/sport1.png" alt="" width="150" height="20" /></a>
+<a href="http://uk-de.plusx.tv/190/mpegts?token=dami423dami12342222" intent.setPackage( "com.mxtech.videoplayer.ad"><img src="https://raw.githubusercontent.com/konanda-sg/mytext/master/sport2.png" alt="" width="150" height="20" /></a>
+<a href="http://uk-de.plusx.tv/189/mpegts?token=dami423dami12342222" target="com.mxtech.videoplayer.ad"><img src="https://raw.githubusercontent.com/konanda-sg/mytext/master/sport3.png" alt="" width="150" height="20" /></a>
+<a href="http://uk-de.plusx.tv/188/mpegts?token=dami423dami12342222" target="com.mxtech.videoplayer.ad"><img src="https://raw.githubusercontent.com/konanda-sg/mytext/master/sport4.png" alt="" width="150" height="20" /></a>
+<a href="http://uk-de.plusx.tv/187/mpegts?token=dami423dami12342222" target="com.mxtech.videoplayer.ad"><img src="https://raw.githubusercontent.com/konanda-sg/mytext/master/sport5.png" alt="" width="150" height="20" /></a>
+<a href="http://uk-de.plusx.tv/186/mpegts?token=dami423dami12342222" target="com.mxtech.videoplayer.ad"><img src="https://raw.githubusercontent.com/konanda-sg/mytext/master/sport6.png" alt="" width="150" height="20" /></a> 
