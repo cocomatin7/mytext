@@ -3544,7 +3544,7 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 group-title="50.7/TH",KBS HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
-+ + + + http://73.85.95.69:9981/extjs.html + + + + no playlist + + + + +
++ + + + http://73.85.95.69:9981/extjs.html + + + + no playlist + + + + + to check again
 
 #EXTINF:-1 group-title="73.85", US Premier League TV |73.85
 http://73.85.95.69:9981/stream/mux/8dcaf051a1c98d6b00a8f1278a5586fc
@@ -3580,22 +3580,34 @@ http://73.85.95.69:9981/stream/mux/cc21170c48ce264ca8fec6cb1d8ad4e2  Babes HD <
 
 #EXTINF:-1, US Premier League TV ||73.85
 http://73.85.95.69:9981/stream/service/9826ce7e962d871bd6215f6bf3c80295
-
-http://73.85.95.69:9981/play/stream/service/cdcf0bd9dd45c54395414c2f9fbc84a6?title=SuperSport Football
-http://73.85.95.69:9981/play/stream/service/0d5fdb157dc945ca0340a741b3763da9?title=SuperSport Variety 2
-http://73.85.95.69:9981/play/stream/service/c9c3c07a2b6ff8c770c7736af8a5e5b5?title=Astro SuperSports 3
-http://73.85.95.69:9981/play/stream/service/35d13ecf8ef23d1da849530fc74184c9?title=Bein Sports- Premium HD2 EN
-http://73.85.95.69:9981/play/stream/service/a769ec15f3a804a15fac1496260c08a0?title=EPL1: 
-http://73.85.95.69:9981/play/stream/service/d5b4ae9dbbd7b97b0f70cc1a1fe6aae4?title=EPL10:
-http://73.85.95.69:9981/play/stream/service/443e33d9601fc40fd9c92754e061e6b1?title=EPL4:
-http://73.85.95.69:9981/play/stream/service/e7ae28748a78e107620028a41431833e?title=EPL: DAZN 3
-http://73.85.95.69:9981/play/stream/service/062007c01c93baec1a56227487dca863?title=EPL: DAZN 4
-http://73.85.95.69:9981/play/stream/service/bd2fee968e6cf9938d0da9926938bfae?title=LaLiga TV
-http://73.85.95.69:9981/play/stream/service/1691255e3513a6756e48a835a78a144c?title=LaLiga TV FHD
-
-
-
-
+#EXTINF:-1, SuperSport Football
+http://73.85.95.69:9981/stream/service/cdcf0bd9dd45c54395414c2f9fbc84a6
+#EXTINF:-1, SuperSport Variety 2
+http://73.85.95.69:9981/stream/service/0d5fdb157dc945ca0340a741b3763da9
+#EXTINF:-1, SuperSport Blitz
+http://73.85.95.69:9981/stream/service/5ddb46c50175d30a7306adfe166ab6f5
+#EXTINF:-1, Astro SuperSports 3
+http://73.85.95.69:9981/stream/service/c9c3c07a2b6ff8c770c7736af8a5e5b5
+#EXTINF:-1, Bein Sports- Premium HD2 EN
+http://73.85.95.69:9981/stream/service/35d13ecf8ef23d1da849530fc74184c9
+#EXTINF:-1, EPL1: 
+http://73.85.95.69:9981/stream/service/a769ec15f3a804a15fac1496260c08a0
+#EXTINF:-1, EPL10:
+http://73.85.95.69:9981/stream/service/d5b4ae9dbbd7b97b0f70cc1a1fe6aae4
+#EXTINF:-1, EPL4:
+http://73.85.95.69:9981/stream/service/443e33d9601fc40fd9c92754e061e6b1
+#EXTINF:-1, EPL: DAZN 3
+http://73.85.95.69:9981/stream/service/e7ae28748a78e107620028a41431833e
+#EXTINF:-1, EPL: DAZN 4
+http://73.85.95.69:9981/stream/service/062007c01c93baec1a56227487dca863
+#EXTINF:-1, LaLiga TV
+http://73.85.95.69:9981/stream/service/bd2fee968e6cf9938d0da9926938bfae
+#EXTINF:-1, LaLiga TV FHD
+http://73.85.95.69:9981/stream/service/1691255e3513a6756e48a835a78a144c
+#EXTINF:-1,
+http://73.85.95.69:9981/stream/service/b379d5edf5079c4f3c991965e54104d8 MTV Classic
+#EXTINF:-1, sky Movies Great FHD
+http://73.85.95.69:9981/stream/service/cbaeecc62cca41e46d7b0f1cf08b8a9c
 
 #EXTINF:-1, Event Only 1 ||73.85
 http://73.85.95.69:9981/stream/service/c6675ec159e8684721d75c380039974f
