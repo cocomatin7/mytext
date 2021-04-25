@@ -9694,16 +9694,16 @@ https://laos-tech-live.b-cdn.net/al-supersports3_480/index.m3u8
 https://laos-tech-live.b-cdn.net/al-supersports4_480/index.m3u8
 https://laos-tech-live.b-cdn.net/al-supersports5_480/index.m3u8
 
-#EXTINF:-1 group-title="doofree88", EPL beIN 1 |df88
+ group-title="doofree88", EPL beIN 1 |df88
 https://laos-tech-live.b-cdn.net/epl-bein1_720/index.m3u8
-#EXTINF:-1, EPL beIN 2 |df88
+, EPL beIN 2 |df88
 https://laos-tech-live.b-cdn.net/epl-bein2_720/index.m3u8
 
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1", True Premiere Football HD1 |df88
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1", True Premiere Football HD1 |df88
 https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2", True Premiere Football HD2 |df88
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2", True Premiere Football HD2 |df88
 https://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3", True Premiere Football HD3 |df88
+ tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3", True Premiere Football HD3 |df88
 https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
 https://laos-tech-live.b-cdn.net/epl-x4_720/index.m3u8
 https://laos-tech-live.b-cdn.net/epl-x5_720/index.m3u8
@@ -9766,13 +9766,13 @@ https://laos-tech-live.b-cdn.net/hd-tvn_480/index.m3u8
 https://laos-tech-live.b-cdn.net/hd-warnertv_720/index.m3u8
 https://laos-tech-live.b-cdn.net/hd-workpoint_480/index.m3u8
 https://laos-tech-live.b-cdn.net/hd-xzyte_720/index.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport", ASTRO SPORTS |df88
+ tvg-id="Astro SuperSport", ASTRO SPORTS |df88
 https://laos-tech-live.b-cdn.net/my-asp1hd_720/index.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 2", ASTRO SPORTS 2 |df88
+ tvg-id="Astro SuperSport 2", ASTRO SPORTS 2 |df88
 https://laos-tech-live.b-cdn.net/my-asp2hd_720/index.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 3", ASTRO SPORTS 3 |df88
+ tvg-id="Astro SuperSport 3", ASTRO SPORTS 3 |df88
 https://laos-tech-live.b-cdn.net/my-asp3hd_720/index.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 4", ASTRO SPORTS 4 |df88
+ tvg-id="Astro SuperSport 4", ASTRO SPORTS 4 |df88
 https://laos-tech-live.b-cdn.net/my-asp4_720/index.m3u8
 https://laos-tech-live.b-cdn.net/rs-arena1_480/index.m3u8
 https://laos-tech-live.b-cdn.net/rs-arena2_480/index.m3u8
@@ -9857,27 +9857,27 @@ https://laos-tech-live.b-cdn.net/sd-tsport7_480/index.m3u8
 https://laos-tech-live.b-cdn.net/sd-tsports_480/index.m3u8
 https://laos-tech-live.b-cdn.net/sd-wish_480/index.m3u8
 https://laos-tech-live.b-cdn.net/sd-znung_480/index.m3u8
-#EXTINF:-1, uk-btsport 1hd |df88
+, uk-btsport 1hd |df88
 https://laos-tech-live.b-cdn.net/uk-btsport1hd_720/index.m3u8
-#EXTINF:-1, uk-btsport 2hd |df88
+, uk-btsport 2hd |df88
 https://laos-tech-live.b-cdn.net/uk-btsport2hd_720/index.m3u8
 , CNN |df88
 https://laos-tech-live.b-cdn.net/uk-cnn_480/index.m3u8
 https://laos-tech-live.b-cdn.net/uk-eurosport2_480/index.m3u8
 https://laos-tech-live.b-cdn.net/uk-eurosport_480/index.m3u8
 https://laos-tech-live.b-cdn.net/uk-lfctv_480/index.m3u8
-#EXTINF:-1, MUTV
+, MUTV
 https://laos-tech-live.b-cdn.net/uk-mutv_480/index.m3u8
 https://laos-tech-live.b-cdn.net/uk-skynews_480/index.m3u8
 https://laos-tech-live.b-cdn.net/uk-skysports-action_720/index.m3u8
 https://laos-tech-live.b-cdn.net/uk-skysports-arena_720/index.m3u8
 https://laos-tech-live.b-cdn.net/uk-skysports-cricket_720/index.m3u8
-#EXTINF:-1, uk-skysports-epl |df88
+, uk-skysports-epl |df88
 https://laos-tech-live.b-cdn.net/uk-skysports-epl_720/index.m3u8
 https://laos-tech-live.b-cdn.net/uk-skysports-f1_720/index.m3u8
 https://laos-tech-live.b-cdn.net/uk-skysports-football_720/index.m3u8
 https://laos-tech-live.b-cdn.net/uk-skysports-golf_720/index.m3u8
-#EXTINF:-1, uk-skysports-mainevent |df88
+, uk-skysports-mainevent |df88
 https://laos-tech-live.b-cdn.net/uk-skysports-mainevent_720/index.m3u8
  group-title="doofree88", uk-skysports-mix |df88
 https://laos-tech-live.b-cdn.net/uk-skysports-mix_480/index.m3u8
