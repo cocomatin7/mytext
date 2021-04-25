@@ -13464,38 +13464,11 @@ http://182.176.93.225:8000/playlist.m3u8 < N
 
 + + + + + 0cvt7o9ka933roqvtma4b7g.caja.live + + + + +
 
-,|UK| SKY SPORTS PREMIER LEAGUE
+ SKY SPORTS PREMIER LEAGUE
 http://0cvt7o9ka933roqvtma4b7g.caja.live/live/dash.php?z=111&u=ppBsJMEKj3&s=1758909919&id=49387&t=live&f=ts
 
 + + + + + TVHeadend / offline + + + + +
 
-http://103.115.164.120:9981/playlist/channels
-http://103.215.177.194:9981/playlist/channels
-http://103.42.253.114:9981/playlist/channels
-http://103.77.107.181:9981/playlist/channels
-http://103.93.55.116:8080/playlist/channels
-http://112.119.119.160:9981/playlist/channels
-http://113.169.200.11:9981/playlist/channels
-http://113.174.121.131:9981/playlist/channels
-http://115.133.209.51:9981/playlist/channels 
-http://118.70.82.76:9981/playlist/channels
-http://123.28.17.23:9981/playlist/channels
-http://14.252.107.249:9981/playlist/channels
-http://178.159.14.234:8000/playlist.m3u8
-http://178.159.5.210:1000/playlist.m3u8
-http://193.83.29.140:9981/playlist/channels
-http://195.166.151.233:9981/playlist/channels
-http://203.176.176.90:9981/playlist/channels
-http://212.159.23.3:9981/playlist/channels
-http://23.237.86.2:8000/playlist.m3u8
-http://36.90.138.160:9981/playlist/channels
-http://42.98.239.149:9981/playlist/channels 
-http://42.98.239.67:9981/playlist/channels
-http://70.179.74.254:9981/playlist/channels
-http://78.110.169.226:8000/playlist.m3u8
-http://82.43.135.48:9981/playlist/channels
-http://82.46.29.80:9981/playlist/channels
-http://84.9.6.188:9981/playlist/channels
 http://95.145.54.106:9981/playlist/channels
 
 + + + + + 85.203.33.88:80 / clientportal + + + + +
@@ -13514,16 +13487,12 @@ http://103.136.43.127:8080/get.php?username=12997&password=b5093454&type=m3u < N
 
 + + + + + 185.8.176.227:25461 [IN] + + + + +
 
-http://185.226.88.3:1036/get.php?username=backup&password=backup&type=m3u < 10.14.16.36:1036 < null < 1-0 
-http://37.26.83.98:1036/get.php?username=speednet&password=netspeed&type=m3u < 10.14.16.36:1036 < null < 1000-10
+http://185.226.88.3:1036/get.php?username=backup&password=backup&type=m3u < 10.14.16.36:1036 < null < 1-0 < no porpular sports
+http://37.26.83.98:1036/get.php?username=speednet&password=netspeed&type=m3u < 10.14.16.36:1036 < null < 1000-10 < no sports
 
-http://2.56.215.148:25461/get.php?username=test&password=test&type=m3u
-Real Url: 2.56.215.148:25461     Status: Active    Created: 14/10/2020 8:45:02 PM     Expires: Null    Active Connections: 0     Maximum Connections: 0 < AR
+http://2.56.215.148:25461/get.php?username=test&password=test&type=m3u Expires: Null    Active Connections: 0     Maximum Connections: 0 < AR < not play
 
-http://iptv.live-plus.me:25461/get.php?username=xQo77lvl79&password=U6m7QCkfxC&type=m3u
-Real Url: iptv.live-plus.me:25461     Status: Active    Created: 12/10/2020 11:14:27 AM     Expires: 19/1/2038 3:14:07 AM    Active Connections: 30     Maximum Connections: 1500 < AR
-
-
+http://iptv.live-plus.me:25461/get.php?username=xQo77lvl79&password=U6m7QCkfxC&type=m3u Expires: 19/1/2038 3:14:07 AM    Active Connections: 30     Maximum Connections: 1500 < AR < N
 
 + + + + + 23.237.88.117:25461 + + + + +
 
