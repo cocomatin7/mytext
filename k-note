@@ -827,14 +827,34 @@ http://77.247.109.94/hls/k8.m3u8
 http://77.247.109.94/hls/k9.m3u8
 http://77.247.109.94/hls/k10.m3u8
 
+https://v3.sportzonline.to/channels/pt/sporttv1.php
+https://v3.sportzonline.to/channels/pt/sporttv2.php
+https://v3.sportzonline.to/channels/pt/sporttv3.php
+https://v3.sportzonline.to/channels/pt/sporttv4.php
+https://v3.sportzonline.to/channels/pt/sporttv5.php
+https://v3.sportzonline.to/channels/pt/tvireality.php
+
 https://v6.sportzonline.to/channels/pt/sporttv1.php
 https://v6.sportzonline.to/channels/pt/sporttv2.php
 https://v6.sportzonline.to/channels/pt/sporttv3.php
 https://v6.sportzonline.to/channels/pt/sporttv4.php
 https://v6.sportzonline.to/channels/pt/sporttv5.php
 
-Live HD1
+https://v7.sportzonline.to/channels/pt/sporttv1.php
+https://v7.sportzonline.to/channels/pt/sporttv2.php
+https://v7.sportzonline.to/channels/pt/sporttv3.php
+https://v7.sportzonline.to/channels/pt/sporttv4.php
+https://v7.sportzonline.to/channels/pt/sporttv5.php
+
 https://sportzonline.to/channels/hd/hd1.php
+https://sportzonline.to/channels/hd/hd2.php
+https://sportzonline.to/channels/hd/hd3.php
+https://sportzonline.to/channels/hd/hd4.php
+https://sportzonline.to/channels/hd/hd5.php
+https://sportzonline.to/channels/hd/hd6.php
+https://sportzonline.to/channels/hd/hd7.php
+https://sportzonline.to/channels/hd/hd8.php
+
 https://v1.sportzonline.to/channels/hd/hd1.php
 https://v2.sportzonline.to/channels/hd/hd1.php
 https://v3.sportzonline.to/channels/hd/hd1.php
@@ -849,7 +869,21 @@ https://v6.sportzonline.to/channels/hd/hd5.php
 https://v6.sportzonline.to/channels/hd/hd6.php
 https://v6.sportzonline.to/channels/hd/hd7.php
 https://v6.sportzonline.to/channels/hd/hd8.php
-https://sportzonline.to/channels/hd/hd8.php
+
+https://v7.sportzonline.to/channels/hd/hd1.php
+https://v7.sportzonline.to/channels/hd/hd2.php
+https://v7.sportzonline.to/channels/hd/hd3.php
+https://v7.sportzonline.to/channels/hd/hd4.php
+https://v7.sportzonline.to/channels/hd/hd5.php
+https://v7.sportzonline.to/channels/hd/hd6.php
+https://v7.sportzonline.to/channels/hd/hd7.php
+https://v7.sportzonline.to/channels/hd/hd8.php
+
+https://v7.sportzonline.to/channels/bra/br1.php
+https://v7.sportzonline.to/channels/bra/br2.php
+https://v7.sportzonline.to/channels/bra/br3.php
+https://v7.sportzonline.to/channels/bra/br4.php
+https://v7.sportzonline.to/channels/cricket/cr1.php
 
 #EXTINF:-1, sportz HD1
 https://rwyzjmd8vxbgug4d.ezcdn383.net:8443/hls/c2kxuno.m3u8?s=kAzkUwFT5GqlqXewDKz5mg&e=1617475871
@@ -861,7 +895,8 @@ https://rwyzjmd8vxbgug4d.ezcdn383.net:8443/hls/71dv0gylb.m3u8?s=P94rSIczkv0OXTBQ
 #EXTINF:-1,star-live
 http://uk4.zecast.com:1935/star-live/cloud2t/chunklist.m3u8
 
-OVO1 http://www.ovostreams.com/1.php
+OVO1 http://www.ovostreams.com/1.php << 
+http://161.35.216.7/live/channelovo1/chunks.m3u8
 http://pull-2002.5centscdn.com/hls/liveovo1.m3u8
 OVO2 http://www.ovostreams.com/2.php
 http://pull-2000.5centscdn.com/hls/liveovo2.m3u8
@@ -885,7 +920,22 @@ http://streamwat.ch/custom/player/#http://77.247.109.116/hls/liveovo1.m3u8
 http://streamwat.ch/custom/player/#https://you1sports.com/hls/ep1.m3u8
 http://streamwat.ch/custom/player/#http://4digital.ddns.net:11223/ts/0
 
-http://www.ovostreams.com/1.php
+https://glivestreaming.com/live/livetv.php?apiuser=bettopfive&ch=66&group=bettopfive&uid=608564e2adfd9&d=&token=f68092d6a2fe7e53482e927567961aa5&ip=218.212.77.147&compact
+#EXTINF:-1, H10A
+https://ftlive.s.llnwi.net/hls/H10A/chunks.m3u8?p=31&cf=1619355204&group=bettopfive&d=d41d8cd98f00b204e9800998ecf8427e&ip=218.212.77.147&e=1619380214&h=2d0395329af144cbc19c7bdab8056e4e
+
+https://glivestreaming.com/live/livetv.php?apiuser=bettopfive&ch=147&group=bettopfive&uid=608566090a4fc&d=&token=d6742f9eec3927d3d3b6de10e065ed3b&ip=218.212.77.147&compact
+#EXTINF:-1, H147A
+https://ftlive.s.llnwi.net/hls/H147A/chunks.m3u8?p=31&cf=1619355359&group=bettopfive&d=d41d8cd98f00b204e9800998ecf8427e&ip=218.212.77.147&e=1619380369&h=85e73ecc6e0aeaf6a60a4d2907b692e6
+
+https://glivestreaming.com/live/livetv.php?apiuser=bettopfive&ch=148&group=bettopfive&uid=608565e08ecf3&d=&token=b310dac9ace2219915358f4e0e2efd7d&ip=218.212.77.147&compact
+#EXTINF:-1, H148A
+https://ftlive.s.llnwi.net/hls/H148A/chunks.m3u8?p=31&cf=1619355439&group=bettopfive&d=d41d8cd98f00b204e9800998ecf8427e&ip=218.212.77.147&e=1619380449&h=f1c7964c0496ce925f43974bdd72e0ab
+
+#EXTINF:-1, S PremierLeague
+https://rwyzjmd8vxbgug4d.ezcdn383.net:8443/hls/s7c9en.m3u8?s=HloYZeSOwu4KDmXZTZ-Bcw&e=1619377204
+
+
 
 #EXTINF:-1,OVO L1 |offline
 http://pull-2000.5centscdn.com/hls/liveovo1.m3u8
@@ -12084,7 +12134,8 @@ http://globaltv.life:8880/get.php?username=sfast@trial&password=oIb3fTcCuJ&type=
 
 + + + + + goiptv.co:8080 [SEA] + + + + +
 
-http://goiptv.life:8080/get.php?username=MALIZIA&password=Nicetry8888&type=m3u
+http://goiptv.co:8080/get.php?username=avatar&password=fVkKAhhBlr&type=m3u
+Real Url: goiptv.co:8080     Status: Active    Created: 29/12/2020 8:26:19 PM     Expires: 23/5/2021 12:00:00 AM    Active Connections: 691     Maximum Connections: 1000
 
 + + + + + ip.tv4all.top:12345 + + + + +
 
@@ -12477,7 +12528,7 @@ https://jo.sarhantv.com:443/get.php?username=sarhanapp&password=wwe5151&type=m3u
 Real Url: jo.sarhantv.com:8880     Status: Active    Created: 25/1/2021 3:50:38 PM     Expires: Null    Active Connections: 2     Maximum Connections: 0
 
 
-+ + + + + kstream.club:8080 + + + + +
++ + + + + maxx-iptv10.ddns.net:8080 + + + + +
 
 http://kstv.us:8080/get.php?username=maxx015&password=7857585044&type=m3u < maxx-iptv10.ddns.net:8080 < null < 5-1 
 
@@ -12792,8 +12843,7 @@ http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/40747.m3u8
 
 + + + + + meti-tv.xyz:25461 + + + + +
 
-http://meti-tv.xyz:25461/get.php?username=MetiTVakanalet&password=svOVWvluBT&type=m3u
-Real Url: meti-tv.xyz:25461     Status: Active    Created: 3/2/2021 2:05:03 PM     Expires: Null    Active Connections: 37     Maximum Connections: 200
+http://meti-tv.xyz:25461/get.php?username=MetiTVakanalet&password=svOVWvluBT&type=m3u Expires: Null Connections: 200-37
 
 #EXTINF:-1 group-title="meti-tv",Super sport 1 HD
 http://meti-tv.xyz:25461/live/MetiTVakanalet/svOVWvluBT/149.m3u8
@@ -12824,8 +12874,7 @@ https://nonton.site:8443/get.php?username=global12&password=mgt&type=m3u < Exp
 
 + + + + + ozentv.pro:80 + + + + + 19/1/2038 + + + + +
 
-http://kingdiablo-iptv.com/get.php?username=live:tolgax1x&password=Kca35kdDCc&type=m3u
-Real Url: ozentv.pro:80     Status: Active    Created: 7/4/2021 5:30:50 PM     Expires: 19/1/2038 3:14:07 AM    Active Connections: 15     Maximum Connections: 100
+http://kingdiablo-iptv.com/get.php?username=live:tolgax1x&password=Kca35kdDCc&type=m3u Real Url: ozentv.pro:80 Expires: 19/1/2038 Connections: 100-15
 
 + + + + + ottplanet.live:7788 + + + + + Null + + + + +
 
@@ -13486,6 +13535,10 @@ http://tv.wakds.xyz:8080/get.php?username=tangyuan&password=12345678&type=m3u < 
 
 http://tv.zero2.site:8080/get.php?username=zero&password=zero&type=m3u
 Real Url: tv.zero2.site:8080     Status: Active    Created: 17/3/2021 7:51:53 PM     Expires: 19/1/2038 3:14:07 AM    Active Connections: 18     Maximum Connections: 100000 < few TR Channels
+
++ + + + + tv4k.be:8888 + + + + +
+
+http://tv4k.be:8888/get.php?username=8kzNAoJ66T&password=6jrMJgVwhL&type=m3u < 2-1
 
 + + + + + uk.redhatiptv.com:25461 + + + + +
 
