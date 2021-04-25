@@ -5228,27 +5228,7 @@ http://116.204.181.238:9981/stream/channel/f3ef5fea3cf8425665cacb7079fb3a9c?titl
 
 + + + + + http://116.255.19.58:9981/extjs.html + + + + +
 
-#EXTINF:-1 group-title="116.255",A&E HD
-http://116.255.19.58:9981/stream/channelid/897292951?profile=pass
-#EXTINF:-1,A&E | UHD ◉
-http://116.255.19.58:9981/stream/channelid/1049231479?profile=pass
-#EXTINF:-1,ABC NEWS LIVE EAST | HD
-http://116.255.19.58:9981/stream/channelid/19104807?profile=pass
-#EXTINF:-1,ABC | HD ◉
-http://116.255.19.58:9981/stream/channelid/1834595027?profile=pass
-#EXTINF:-1,ALIBI
-http://116.255.19.58:9981/stream/channelid/693055840?profile=pass
-#EXTINF:-1,ALIBI HD
-http://116.255.19.58:9981/stream/channelid/1799965162?profile=pass
-#EXTINF:-1,AMC PRESENTS
-http://116.255.19.58:9981/stream/channelid/2014555121?profile=pass
-#EXTINF:-1,AMC | HD
-http://116.255.19.58:9981/stream/channelid/780440083?profile=pass
-#EXTINF:-1,AMC+
-http://116.255.19.58:9981/stream/channelid/798424968?profile=pass
-#EXTINF:-1,AMERICAN HEROES CHANNEL | UHD
-http://116.255.19.58:9981/stream/channelid/1445558208?profile=pass
-#EXTINF:-1,AND PRIVE HD
+#EXTINF:-1 group-title="116.255",AND PRIVE HD
 http://116.255.19.58:9981/stream/channelid/401687299?profile=pass
 #EXTINF:-1,ANIMAL PLANET WORLD HD
 http://116.255.19.58:9981/stream/channelid/1914208299?profile=pass
