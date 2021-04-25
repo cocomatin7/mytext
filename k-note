@@ -3548,6 +3548,8 @@ http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
 #EXTINF:-1 group-title="73.85", US Premier League TV |73.85
 http://73.85.95.69:9981/stream/mux/8dcaf051a1c98d6b00a8f1278a5586fc
+#EXTINF:-1, Bein Sports- Premium HD2 EN
+http://73.85.95.69:9981/stream/mux/1995ee57731e0a1cfa58d2fef3314260
 
 #EXTINF:-1, Events Only 1 |73.85
 http://73.85.95.69:9981/stream/mux/f60b04f33300dfa70742bb58fdb53d51
