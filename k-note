@@ -4900,7 +4900,7 @@ http://86.28.196.144:9981/stream/channelid/1630464768?ticket=71C0D3B33C32D4FDF32
 #EXTINF:-1,CNN HD
 http://86.28.196.144:9981/stream/channelid/426538703?ticket=B1B191A96A7E68CAB68C17772B48FA2B264549FD&profile=pass
 
-#EXTINF:-1,SkySp Mix
+#EXTINF:-1 group-title="86.28",SkySp Mix
 http://86.28.196.144:9981/stream/channelid/2010367936?ticket=F11CC72E830ACB1A2ACDEF06F6853D82A39598A9&profile=pass
 
 ,Television X
@@ -4927,9 +4927,6 @@ http://86.28.196.144:9981/stream/channelid/563707969?ticket=E58288022395932FC2AA
 http://86.28.196.144:9981/stream/channelid/736234756?ticket=2984E18EDF8E593D47F509CB380FC7C8F1341693&profile=pass
 ,XXX Mums
 http://86.28.196.144:9981/stream/channelid/921338469?ticket=08C385E39AF16F246DB6999B21938C5614F343F3&profile=pass
-
-#EXTINF:-1 group-title="86.28",c4 l
-http://86.28.196.144:9981/stream/channelid/1697530255?ticket=12D9FC75107C37CCCB3808C039E0AEB93AFD4224&profile=pass
 
 + + + + http://108.48.50.123:9981/extjs.html + + + + * | * + + + + + jayel | samsung7 + + + + + default | default$27 | PSe0WeZ4DuTCJAFY3b2g0uErXVYo
 
