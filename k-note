@@ -5488,40 +5488,10 @@ http://116.255.19.58:9981/stream/channelid/1925225697?profile=pass
 http://116.255.19.58:9981/stream/channelid/186890598?profile=pass
 #EXTINF:-1,TRAVEL XP HD
 http://116.255.19.58:9981/stream/channelid/1023159033?profile=pass
-#EXTINF:-1,TRU TV EAST | UHD
-http://116.255.19.58:9981/stream/channelid/2114127772?profile=pass
-#EXTINF:-1,TRU TV WEST | HD
-http://116.255.19.58:9981/stream/channelid/1109615808?profile=pass
-#EXTINF:-1,TV ONE | HD
-http://116.255.19.58:9981/stream/channelid/1486024578?profile=pass
-#EXTINF:-1,UNIVERSAL KIDS WEST | HD
-http://116.255.19.58:9981/stream/channelid/1637679358?profile=pass
-#EXTINF:-1,UNIVERSAL KIDS | HD
-http://116.255.19.58:9981/stream/channelid/576573185?profile=pass
-#EXTINF:-1,USA NETWORK WEST | HD
-http://116.255.19.58:9981/stream/channelid/798226225?profile=pass
-#EXTINF:-1,USA NETWORK | HD
-http://116.255.19.58:9981/stream/channelid/2018439920?profile=pass
-#EXTINF:-1,USTAV GOLD
-http://116.255.19.58:9981/stream/channelid/23624709?profile=pass
-#EXTINF:-1,USTAV GOLD HD
-http://116.255.19.58:9981/stream/channelid/1798195391?profile=pass
-#EXTINF:-1,UTSAV PLUS
-http://116.255.19.58:9981/stream/channelid/232993204?profile=pass
-#EXTINF:-1,UTSAV PLUS HD
-http://116.255.19.58:9981/stream/channelid/1309594780?profile=pass
-#EXTINF:-1,UTV ACTION
-http://116.255.19.58:9981/stream/channelid/1337108922?profile=pass
-#EXTINF:-1,UTV HD
-http://116.255.19.58:9981/stream/channelid/177203285?profile=pass
-#EXTINF:-1,VELOCITY | HD
-http://116.255.19.58:9981/stream/channelid/985692714?profile=pass
-#EXTINF:-1,VENUS
-http://116.255.19.58:9981/stream/channelid/262213044?profile=pass
+
 #EXTINF:-1,VH1 HD
 http://116.255.19.58:9981/stream/channelid/1350946800?profile=pass
-#EXTINF:-1,VICELAND | UHD
-http://116.255.19.58:9981/stream/channelid/815244085?profile=pass
+
 #EXTINF:-1,WOW CINEMA
 http://116.255.19.58:9981/stream/channelid/750311866?profile=pass
 #EXTINF:-1,WWE NETWORK | HD
@@ -5540,10 +5510,8 @@ http://116.255.19.58:9981/stream/channelid/1991996443?profile=pass
 http://116.255.19.58:9981/stream/channelid/809557795?profile=pass
 #EXTINF:-1,ZEE TV HD ◉
 http://116.255.19.58:9981/stream/channelid/2081627602?profile=pass
-#EXTINF:-1,ZING
+#EXTINF:-1 group-title="116.255",ZING
 http://116.255.19.58:9981/stream/channelid/129924788?profile=pass
-#EXTINF:-1 group-title="116.255",ZOOM TV HD
-http://116.255.19.58:9981/stream/channelid/1036048527?profile=pass
 
 + + + + + http://171.4.161.216:9981/extjs.html + + + + +
 
