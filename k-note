@@ -505,25 +505,6 @@ https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513434647/1513434647_480.m
 >>> http://www.totalsportek.tv/watch/sport-tv-5/ 
 <<<<<<< HEAD:k-note
 
-
-,SUPERSPORT 1 |50
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-,SUPERSPORT 2 |50
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-,SUPERSPORT 3 |50
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-,SUPERSPORT 4 |50
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport/Bamar",True Premiere Football HD1 |50
-http://50.7.222.130:8278/streams/d/truepre1_pat/playlist.m3u8
-#EXTINF:-1,True Premiere Football HD2 |50
-http://50.7.222.130:8278/streams/d/truepre2_pat/playlist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |50
-http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
-#EXTINF:-1,True Premiere Football HD4 |50
-http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
-
 #EXTINF:-1,True Premiere Football HD1 |77
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD2 |77
@@ -569,7 +550,6 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=c_10005&key=84797b799ae18d1b
 #EXTINF:-1,Mediacorp cna
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10007&key=84797b799ae18d1b
 
-
 #EXTINF:-1,True Premiere Football HD1 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball1-hd.m3u8
 #EXTINF:-1,True Premiere Football HD2 |185
@@ -577,27 +557,12 @@ http://185.238.0.145:1313/c/livedo/truepremierfootball2-hd.m3u8
 #EXTINF:-1,True Premiere Football HD3 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball3-hd.m3u8
 
-#EXTINF:-1,ASSP 1 |198
-http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1,ASSP 2 |198
-http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1,ASSP 3 |198
-http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1,ASSP 4 |198
-http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
-
-http://198.16.106.58:8278/supersports/playlist.m3u8
-http://198.16.106.58:8278/supersports2/playlist.m3u8
-http://198.16.106.58:8278/supersports3/playlist.m3u8
-http://198.16.106.58:8278/supersports4/playlist.m3u8
-
 #EXTINF:-1,True Premiere Football HD1 |mb13
 https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
 #EXTINF:-1,True Premiere Football HD2 |mb13
 https://app.mb13.men/c/livedo/truepremierfootball2-hd.m3u8
 #EXTINF:-1,True Premiere Football HD3 |mb13
 https://app.mb13.men/c/livedo/truepremierfootball3-hd.m3u8
-
 
 #EXTINF:-1,beIN 6| ferrarico
 http://ferrarico.referrari.com/live/60096_.m3u8
@@ -3483,6 +3448,27 @@ http://50.7.161.82:8278/ChannelU/playlist.m3u8?tid=m02000000000015904186&ct=1807
 http://50.7.161.82:8278/Wlt/playlist.m3u8?tid=m02000000000016043749
 ,Antv
 http://50.7.161.82:8278/Antv/playlist.m3u8?tid=13104999
+
++ + + + + 50.7.222.130:8278/streams/d + + + + +
+
+,SUPERSPORT 1 |50
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+,SUPERSPORT 2 |50
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+,SUPERSPORT 3 |50
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+,SUPERSPORT 4 |50
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+
+  group-title="Sport/Bamar",True Premiere Football HD1 |50
+http://50.7.222.130:8278/streams/d/truepre1_pat/playlist.m3u8
+ ,True Premiere Football HD2 |50
+http://50.7.222.130:8278/streams/d/truepre2_pat/playlist.m3u8
+ ,True Premiere Football HD3 |50
+http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
+ ,True Premiere Football HD4 |50
+http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
+
 ,Arena HD
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 ,TV1 HD
@@ -3490,48 +3476,20 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 group-title="50.7/TH",TVN HD
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
-#EXTINF:-1,Tvnmovie |185
-http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
-#EXTINF:-1,Assp1 |185
-http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1,Assp2 |185
-http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1,Assp3 |185
-http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1,Assp4 |185
-http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
-
-#EXTINF:-1,Bein1hd
-http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
-#EXTINF:-1,Bein2hd
-http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
-
-http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-
 ,Prima HD
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 ,TV2 HD
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 ,TV3 HD
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1,Fox action hd
+ ,Fox action hd
 http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1,Fox family
+ ,Fox family
 http://50.7.161.82:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:-1,Fox Movie
+ ,Fox Movie
 http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
 
-#EXTINF:-1,Foxfamily'
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:-1,Foxactionhd'
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1,Foxmovie'
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-
-#EXTINF:-1,,HBO MY
+ ,,HBO MY
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hbohd/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hbofamily/playlist.m3u8
@@ -7451,7 +7409,52 @@ http://116.255.19.58:9981/stream/channelid/1036048527?profile=pass
 
 + + + + + http://171.4.161.216:9981/extjs.html + + + + +
 
++ + + + + 185.180.221.194:8278/streams/d + + + + +
+
+#EXTINF:-1 group-title="185.180",Tvnmovie |185
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+#EXTINF:-1,Assp1 |185
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1,Assp2 |185
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1,Assp3 |185
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1,Assp4 |185
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+
+#EXTINF:-1,Bein1hd |185
+http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
+#EXTINF:-1,Bein2hd |185
+http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
+
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+#EXTINF:-1,Foxfamily |185
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:-1,Foxactionhd |185
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1 group-title="185.180",Foxmovie |185
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+
 + + + + + http://196.53.249.42:9981/extjs.html / https://rebrand.ly/sn-hd-196 + + + + +
+
++ + + + + 198.16.106.58:8278/streams/d + + + + +
+
+ ASSP 1 |198
+http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
+ ASSP 2 |198
+http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
+ ASSP 3 |198
+http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
+ ASSP 4 |198
+http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
+
+http://198.16.106.58:8278/supersports/playlist.m3u8
+http://198.16.106.58:8278/supersports2/playlist.m3u8
+http://198.16.106.58:8278/supersports3/playlist.m3u8
+http://198.16.106.58:8278/supersports4/playlist.m3u8
 
 + + + + + TV Headend + + + + +
 
