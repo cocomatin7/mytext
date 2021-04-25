@@ -13534,29 +13534,29 @@ http://23.237.88.117:25461/load/cancun/cancun1/31270.mpegts
 
 + + + + + 31.220.40.123:80 / us1-external-sources.iptvserver.tv + + + + +
 
-http://31.220.40.123:80/get.php?username=kkkrkDp2a9KNwAwGzpb&password=QT94uK5NNQw4r4Qs&type=m3u
+http://31.220.40.123:80/get.php?username=kkkrkDp2a9KNwAwGzpb&password=QT94uK5NNQw4r4Qs&type=m3u < null < DOWN
 
-#EXTINF:-1 group-title="31.220",CNBC HD (ENG)
+ group-title="31.220",CNBC HD (ENG)
 http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501.m3u8
-#EXTINF:-1,CNBC US
+,CNBC US
 http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/502.m3u8
-#EXTINF:-1,NBCSN  HD (ENG)
+,NBCSN  HD (ENG)
 http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606.m3u8
-#EXTINF:-1,FS1
+,FS1
 http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549.m3u8
-#EXTINF:-1,FS2
+,FS2
 http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550.m3u8
-#EXTINF:-1,BEIN SPORTS ENG HD
+,BEIN SPORTS ENG HD
 http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488.m3u8
-#EXTINF:-1,ELEVEN SPORTS
+,ELEVEN SPORTS
 http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517.m3u8
-#EXTINF:-1,BEIN ESPANIOL HD
+,BEIN ESPANIOL HD
 http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487.m3u8
-#EXTINF:-1,Bloomberg
+,Bloomberg
 http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/767.m3u8
-#EXTINF:-1,FIGHT NETWORK
+,FIGHT NETWORK
 http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526.m3u8
-#EXTINF:-1 group-title="31.220",UFC USA
+ group-title="31.220",UFC USA
 http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122.m3u8
 
 + + + + + 34.70.48.178:25461 + + + + +
