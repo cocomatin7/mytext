@@ -13571,16 +13571,16 @@ http://51.15.1.11:25461/get.php?username=MEGA-TV&password=TELEGRAM&type=m3u < DO
 
 + + + + + 51.195.216.247:55055 + + + + +
 
-#EXTINF:-1 group-title="51.195",DAZN 1
+ group-title="51.195",DAZN 1
 http://51.195.216.247:55055/live/vmp343streams/850256/101474
-#EXTINF:-1 group-title="51.195",DAZN 2
+ group-title="51.195",DAZN 2
 http://51.195.216.247:55055/live/vmp343streams/850256/101475
 
 http://51.195.216.247:55055/live/vmp343streams/850256/101480
 
 + + + + + 54k.top:8000 + + + + + null + + + + 10000-13
 
-http://54k.top:8000/get.php?username=to44j&password=oyvee&type=m3u
+http://54k.top:8000/get.php?username=to44j&password=oyvee&type=m3u&output=hls < null < 10000-11
 
 #EXTINF:-1 group-title="54k",VIP AR: Bein Sport HD9
 http://54k.top:8000/live/to44j/oyvee/47.m3u8
