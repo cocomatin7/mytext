@@ -8559,52 +8559,52 @@ http://203.150.107.30:8081/freethaitv/623d009180394c528880c14e2254452a.m3u8?s=d5
 
 + + + + + 203.154.177.124:8899 + + + + +
 
-#EXTINF:-1 group-title="203.154",COMEDY CENTRAL
-#EXTINF:-1,MTV Live HD
-#EXTINF:-1,Paramount Channel
-#EXTINF:-1,MTV now
-#EXTINF:-1,MTV now'
+ group-title="203.154",COMEDY CENTRAL
+,MTV Live HD
+,Paramount Channel
+,MTV now
+,MTV now'
 http://203.154.177.124:8080/live/ch4/playlist.m3u8
-#EXTINF:-1,Animax
+,Animax
 http://203.154.177.124:8899/live/ch6/playlist.m3u8
-#EXTINF:-1,ACTION HOLLYWOOD MOVIES
-#EXTINF:-1,ABC Australia
-#EXTINF:-1,Pet Club TV
-#EXTINF:-1,ch10
+,ACTION HOLLYWOOD MOVIES
+,ABC Australia
+,Pet Club TV
+,ch10
 http://203.154.177.124:8899/live/ch11/playlist.m3u8
-#EXTINF:-1 tvg-id="WarnerTV HD",WB TV |203.154
+ tvg-id="WarnerTV HD",WB TV |203.154
 http://203.154.177.124:8899/live/ch13/playlist.m3u8
 http://203.154.177.124:8899/live/ch14/playlist.m3u8
-#EXTINF:-1,ch15
+,ch15
 http://203.154.177.124:8899/live/ch15/playlist.m3u8
 http://203.154.177.124:8899/live/ch17/playlist.m3u8
-#EXTINF:-1,ch18
+,ch18
 http://203.154.177.124:8899/live/ch19/playlist.m3u8
-#EXTINF:-1,MIAO MI
-#EXTINF:-1,thrill
-#EXTINF:-1,ch22
-#EXTINF:-1 group-title="203.154",CI
-#EXTINF:-1 group-title="203.154",HGTV'
+,MIAO MI
+,thrill
+,ch22
+ group-title="203.154",CI
+ group-title="203.154",HGTV'
 http://203.154.177.124:8080/live/ch1/index.m3u8
-#EXTINF:-1,MTV Live HD' |203.154
+,MTV Live HD' |203.154
 http://203.154.177.124:8080/live/ch2/index.m3u8
-#EXTINF:-1,Paramount Channel' |203.154
+,Paramount Channel' |203.154
 http://203.154.177.124:8080/live/ch3/index.m3u8
-#EXTINF:-1,MTV now' |203.154
+,MTV now' |203.154
 http://203.154.177.124:8080/live/ch4/index.m3u8
-#EXTINF:-1,Animax'
+,Animax'
 http://203.154.177.124:8080/live/ch5/index.m3u8
 http://203.154.177.124:8080/live/ch6/index.m3u8
-#EXTINF:-1,ACTION HOLLYWOOD MOVIES' |203.154
+,ACTION HOLLYWOOD MOVIES' |203.154
 http://203.154.177.124:8080/live/ch7/index.m3u8
-#EXTINF:-1,ch8'
+,ch8'
 http://203.154.177.124:8080/live/ch8/index.m3u8
-#EXTINF:-1,ch9'
+,ch9'
 http://203.154.177.124:8080/live/ch9/index.m3u8
-#EXTINF:-1,trace'
+,trace'
 http://203.154.177.124:8080/live/ch10/index.m3u8
 http://203.154.177.124:8080/live/ch11/index.m3u8
-#EXTINF:-1 tvg-id="WarnerTV HD",WB TV' |203.154
+ tvg-id="WarnerTV HD",WB TV' |203.154
 http://203.154.177.124:8080/live/ch12/index.m3u8
 http://203.154.177.124:8080/live/ch13/index.m3u8
 http://203.154.177.124:8080/live/ch14/index.m3u8
@@ -8612,16 +8612,16 @@ GinX'
 http://203.154.177.124:8080/live/ch15/index.m3u8
 http://203.154.177.124:8080/live/ch16/index.m3u8
 http://203.154.177.124:8080/live/ch17/index.m3u8
-#EXTINF:-1,ch18'
+,ch18'
 http://203.154.177.124:8080/live/ch18/index.m3u8
 http://203.154.177.124:8080/live/ch19/index.m3u8
-#EXTINF:-1,MIAO MI'
+,MIAO MI'
 http://203.154.177.124:8080/live/ch20/index.m3u8
-#EXTINF:-1,thrill'
+,thrill'
 http://203.154.177.124:8080/live/ch21/index.m3u8
-#EXTINF:-1,BOX'
+,BOX'
 http://203.154.177.124:8080/live/ch22/index.m3u8
-#EXTINF:-1 group-title="203.154",CI'
+ group-title="203.154",CI'
 http://203.154.177.124:8080/live/ch23/index.m3u8
 
 + + + + + 203.154.243.31:8081 + + + + +
