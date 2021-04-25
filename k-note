@@ -14121,7 +14121,7 @@ Real Url: 1sn.ns1.name:18800     Status: Active    Created: 14/12/2015 3:18:50 A
 + + + + + appstv.us:25461 + + + + +
 
 http://appstv.us:25461/get.php?username=1&password=2&type=m3u
-Real Url: 104.192.101.58:25461     Status: Active    Created: 29/12/2020 3:46:47 AM     Expires: Null    Active Connections: 0     Maximum Connections: 0
+Real Url: 104.192.101.58:25461     Status: Active    Created: 29/12/2020 3:46:47 AM     Expires: Null    Active Connections: 0     Maximum Connections: 0 <xxx + 
 
 #EXTINF:-1 group-title="appstv",NBCSN |appstv
 http://appstv.us:25461/live/1/2/1430.m3u8
@@ -14135,31 +14135,6 @@ http://appstv.us:25461/live/1/2/79.m3u8
 http://appstv.us:25461/live/1/2/29.m3u8
 #EXTINF:-1,BEIN SPORTS Ñ
 http://appstv.us:25461/live/1/2/28.m3u8
-
-#EXTINF:-1,CANADA | Sportsnet 360
-http://appstv.us:25461/live/1/2/332.m3u8
-#EXTINF:-1,CANADA | Sportsnet EAST
-http://appstv.us:25461/live/1/2/333.m3u8
-#EXTINF:-1,CANADA | Sportsnet One
-http://appstv.us:25461/live/1/2/334.m3u8
-#EXTINF:-1,CANADA | Sportsnet World
-http://appstv.us:25461/live/1/2/335.m3u8
-#EXTINF:-1,CANADA | Sportsnet Ontario
-http://appstv.us:25461/live/1/2/336.m3u8
-#EXTINF:-1,CANADA | Sportsnet Pacific
-http://appstv.us:25461/live/1/2/337.m3u8
-#EXTINF:-1,CANADA | SPORTSNET WEST
-http://appstv.us:25461/live/1/2/338.m3u8
-#EXTINF:-1,CANADA | TSN 1
-http://appstv.us:25461/live/1/2/339.m3u8
-#EXTINF:-1,CANADA | TSN 2
-http://appstv.us:25461/live/1/2/340.m3u8
-#EXTINF:-1,CANADA | TSN 3
-http://appstv.us:25461/live/1/2/341.m3u8
-#EXTINF:-1,CANADA | TSN 4
-http://appstv.us:25461/live/1/2/342.m3u8
-#EXTINF:-1,CANADA | TSN 5
-http://appstv.us:25461/live/1/2/343.m3u8
 
 #EXTINF:-1,FS1
 http://appstv.us:25461/live/1/2/1303.m3u8
