@@ -105,7 +105,6 @@ https://www.dropbox.com/s/r5rt9qbl0cfya8s/hhit-mm.m3u8?dl=1
 #EXTINF:-1 tvg-id="RED BY HBO (HD)", RED BY HBO |mm
 https://raw.githubusercontent.com/konanda-sg/mytext/master/hred-mm.m3u8
 #EXTINF:-1 tvg-id="RED BY HBO (HD)", RED BY HBO* |mm
-https://ucee91ba34e600428df6a0c4a377.dl.dropboxusercontent.com/cd/0/get/BJwLUuS3vUeXEAcFjohvXxHQqn_feE7WnTr9txAfrNk185dwGqlIvvP0yem_C7ASvycDC5FUcQAdISjUuDndaVH3MxrCbvN1q8CKsaK4SWEUvc1IVIctbzDSNAfKYUtxjXc/file?dl=1
 https://www.dropbox.com/s/73se9a5k528pnir/hred-mm.m3u8?dl=1
 
 #EXTINF:-1 tvg-id="HBO Signature (HD)", HBO SIGNATURE |mm
@@ -125,13 +124,15 @@ https://rebrand.ly/H-hi-cf
 https://rebrand.ly/H-re-cf
  EXTINF:-1 tvg-id="HBO Signature (HD)" group-title="movies", HBO SIGNATURE |CF
 https://rebrand.ly/H-si-cf
- EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |SE1
+
+#EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |SE1
 https://rebrand.ly/H-re-se1
- EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |SE2*
+#EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |SE2*
 https://rebrand.ly/H-re-se2
+
  EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |SE3*
 https://rebrand.ly/H-re-se3
- EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |IP*
+#EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |IP*
 https://rebrand.ly/H-re-ip
 
 #EXTINF:-1 tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX ||org
@@ -187,7 +188,6 @@ https://www.dropbox.com/s/dl/6wm74beyzd0w9xo/mkctv_hbohit.m3u8
 https://www.dropbox.com/s/dl/fvu91fvkr31yngd/mkctv_hbosig.m3u8
 #EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |mkc
 https://www.dropbox.com/s/dl/q09u7xcrpjwi2e4/mkctv_red.m3u8
-
 
 #EXTINF:-1,HBO
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/85
@@ -15944,7 +15944,7 @@ http://104.218.60.227:83/live/promo/promo/386046.m3u8
 + + + + + sonyiptv.net:8080 + + + + + 6/12/2021
 
 http://sonyiptv.net:8080/get.php?username=gift2021&password=54321&type=m3u
-Real Url: sonyiptv.net:8080     Status: Active    Created: 7/1/2021 9:28:10 AM     Expires: 6/12/2021 7:00:00 PM    Active Connections: 1     Maximum Connections: 100
+Real Url: sonyiptv.net:8080     Status: Active    Created: 7/1/2021 9:28:10 AM     Expires: 6/12/2021 7:00:00 PM    Active Connections: 1     Maximum Connections: 100 < few CH
 
 + + + + + speccy.pw:8008 + + + + +
 
@@ -15957,16 +15957,16 @@ http://streamx.link:8080/get.php?username=NvxBXobrQj&password=fRPdh3UVHc&type=m3
 
 + + + + + supertexasiptv.ddns.net:8000 + + + + +
 
-http://supertexasiptv.ddns.net:8000/get.php?username=bktv.xyz&password=qLqJNcj9rd&type=m3u
+http://supertexasiptv.ddns.net:8000/get.php?username=bktv.xyz&password=qLqJNcj9rd&type=m3u < N
 
 + + + + + tv.wakds.xyz:8080 + + + + +
 
-http://tv.wakds.xyz:8080/tangyuan/12345678/94
+http://tv.wakds.xyz:8080/get.php?username=tangyuan&password=12345678&type=m3u < DOWN
 
 + + + + + tv.zero2.site:8080 + + + + + 19/1/2038
 
 http://tv.zero2.site:8080/get.php?username=zero&password=zero&type=m3u
-Real Url: tv.zero2.site:8080 /zero2.site:8080     Status: Active    Created: 17/3/2021 7:51:53 PM     Expires: 19/1/2038 3:14:07 AM    Active Connections: 19     Maximum Connections: 100000
+Real Url: tv.zero2.site:8080     Status: Active    Created: 17/3/2021 7:51:53 PM     Expires: 19/1/2038 3:14:07 AM    Active Connections: 18     Maximum Connections: 100000 < few TR Channels
 
 + + + + + uk.redhatiptv.com:25461 + + + + +
 
