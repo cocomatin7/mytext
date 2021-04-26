@@ -2998,6 +2998,54 @@ http://103.47.132.164/PLTV/88888888/224/3221227171/1.m3u8
 #EXTINF:-1 group-title="GB",BBC World News |103.102
 http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
 
+
++ + + + http://2.205.20.59:9981/extjs.html + + + + + +
+
+#EXTINF:-1 group-title="2.205",Sky Sport 1 HD
+http://2.205.20.59:9981/stream/channelid/773969130
+#EXTINF:-1,Sky Sport 2 HD
+http://2.205.20.59:9981/stream/channelid/1269485833
+#EXTINF:-1,Sky Sport 3 HD
+http://2.205.20.59:9981/stream/channelid/1558470595
+#EXTINF:-1,Sky Sport 4 HD
+http://2.205.20.59:9981/stream/channelid/585601803
+#EXTINF:-1,Sky Sport 5 HD
+http://2.205.20.59:9981/stream/channelid/1727420827
+#EXTINF:-1,Sky Sport 6 HD
+http://2.205.20.59:9981/stream/channelid/686375604
+#EXTINF:-1,Sky Sport 7 HD
+http://2.205.20.59:9981/stream/channelid/1957550365
+#EXTINF:-1,Sky Sport 8 HD
+http://2.205.20.59:9981/stream/channelid/380850556
+#EXTINF:-1,Sky Sport 9 HD
+http://2.205.20.59:9981/stream/channelid/116110884
+#EXTINF:-1,Sky Sport 10 HD
+http://2.205.20.59:9981/stream/channelid/410207493
+#EXTINF:-1,Sky Sport 11 HD
+http://2.205.20.59:9981/stream/channelid/1053789401
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://2.205.20.59:9981/stream/channelid/1293752874
+#EXTINF:-1,Sky Sport Bundesliga 2 HD
+http://2.205.20.59:9981/stream/channelid/1850739727
+#EXTINF:-1,Sky Sport Bundesliga 3 HD
+http://2.205.20.59:9981/stream/channelid/545719192
+#EXTINF:-1,Sky Sport Bundesliga 4 HD
+http://2.205.20.59:9981/stream/channelid/1988001100
+#EXTINF:-1,Sky Sport Bundesliga 5 HD
+http://2.205.20.59:9981/stream/channelid/25829682
+#EXTINF:-1,Sky Sport Bundesliga 6 HD
+http://2.205.20.59:9981/stream/channelid/2032362732
+#EXTINF:-1,Sky Sport Bundesliga 7 HD
+http://2.205.20.59:9981/stream/channelid/768442160
+#EXTINF:-1,Sky Sport Bundesliga 8 HD
+http://2.205.20.59:9981/stream/channelid/767277764
+#EXTINF:-1,Sky Sport Bundesliga 9 HD
+http://2.205.20.59:9981/stream/channelid/416440984
+#EXTINF:-1,Sky Sport Bundesliga 10 HD
+http://2.205.20.59:9981/stream/channelid/125720799
+#EXTINF:-1 group-title="2.205",Sky Sport Bundesliga UHD
+http://2.205.20.59:9981/stream/channelid/1909615147
+
 + + + + http://3.239.35.218:9981/extjs.html + + + + + +
 
 http://3.239.35.218:9981/play/ticket/stream/mux/f712964927a545faf6b2dcd17e832b4c?title=MTV Hits Europe%20%2F%20iptv-org-music
@@ -3805,6 +3853,33 @@ http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
 http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="77.83",SKYNET SPORTS HD |77.83'
 http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
+
++ + + + + http://79.119.170.90:9981/extjs.html + + + + +
+
+#EXTINF:-1 group-title="79.119",CNN
+http://79.119.170.90:9981/stream/channelid/1897106830
+#EXTINF:-1,DIGI Sport 1
+http://79.119.170.90:9981/stream/channelid/737895853
+#EXTINF:-1,DIGI Sport 1 HD
+http://79.119.170.90:9981/stream/channelid/230400994
+#EXTINF:-1,DIGI Sport 2
+http://79.119.170.90:9981/stream/channelid/1203050154
+#EXTINF:-1,DIGI Sport 2 HD
+http://79.119.170.90:9981/stream/channelid/378702304
+#EXTINF:-1,DIGI Sport 3
+http://79.119.170.90:9981/stream/channelid/1307574094
+#EXTINF:-1,DIGI Sport 3 HD
+http://79.119.170.90:9981/stream/channelid/350957948
+#EXTINF:-1,DIGI Sport 4
+http://79.119.170.90:9981/stream/channelid/2036426629
+#EXTINF:-1,DIGI Sport 4 HD
+http://79.119.170.90:9981/stream/channelid/958507566
+#EXTINF:-1,MTV Europe
+http://79.119.170.90:9981/stream/channelid/796127889
+#EXTINF:-1,Music Channel
+http://79.119.170.90:9981/stream/channelid/1047887503
+#EXTINF:-1 group-title="79.119",Music Channel Ro
+http://79.119.170.90:9981/stream/channelid/2113351877
 
 + + + + + http://82.45.49.11:9981/extjs.html + + + + + locked
 
