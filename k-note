@@ -3775,15 +3775,15 @@ http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
 
 SantosSingh|SantosSingh94eEt / connor|str94eEt / lewis|LewGay1 / Santos|SantosSantalini / Matthew|Lawyer123 
 
- group-title="82.45", 01:
+#EXTINF:-1 group-title="82.45", 01:
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/4f334f1d21370b6606a617fe051f3b58
-, 01: Bayern vs Union%2FStuttgart vs Dortmund 14:30%2F17:00
+#EXTINF:-1, 01: Bayern vs Union%2FStuttgart vs Dortmund 14:30%2F17:00
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/42d176589c811e3cc87498ce64b30958
-, 02:
+#EXTINF:-1, 02:
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/738795fd94f008c2f9a9435ec2556363
-, 02. Bellator 256 Bader vs Machida II Prelims 6PM ET:
+#EXTINF:-1, 02. Bellator 256 Bader vs Machida II Prelims 6PM ET:
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/a72db995b75a443578822041f36d65ff
-, 02: Strasbourg vs PSG 16:00
+#EXTINF:-1, 02: Strasbourg vs PSG 16:00
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/ff303a80fcad6152fa95de9820e94ce0
 , 03:
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/7dfe6912ac9bca67c4df8c8f6f2da231
@@ -3855,15 +3855,15 @@ http://connor:str94eEt@82.45.49.11:9981/stream/mux/faf44d906fa4bfa9b4cdc9a40f24b
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/6604783d82cff686538701112c00aa46
 , 20.
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/c820a631220cd083c0bdcabe7c3d311f
-, VIP Sky Hits FHD
+#EXTINF:-1, VIP Sky Hits FHD
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/6413c56aaf0f0f6e14935965cc8cb557
-, VIP Sky Greats FHD
+#EXTINF:-1, VIP Sky Greats FHD
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/9847a4dd0983c13d66d51323a92b2d30
-, EPL: Spark Sports 1
+#EXTINF:-1, EPL: Spark Sports 1
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/f0df86eb3d4c66ffed61772742138816
-, Now Sports 1
+#EXTINF:-1, Now Sports 1
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/246835ed35451e2071caa772a67c01fd
-, Sky Cinema Select HD
+#EXTINF:-1, Sky Cinema Select HD
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/d73a7837509aa053d1c4d2e1fdf0346f
 , VIP Sky Thriller FHD
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/dee7a89ab8e08deaf113760f38954f94
