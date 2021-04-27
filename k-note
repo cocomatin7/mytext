@@ -3983,31 +3983,31 @@ http://connor:str94eEt@82.45.49.11:9981/stream/mux/a7b9a8f5431d7282f235deaf074cf
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/38ea3290c248a80f716d5a344885e965
 #EXTINF:-1, EPL: Optus Sport 1
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/f4957076877674f285c1151875d10d6d
-, SuperSport Variety 4 (FHD)
+#EXTINF:-1, SuperSport Variety 4 (FHD)
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/19d445ae2421b5e2691b70d7d45c0a54
-, EPL: NOW SPORTS 2
+#EXTINF:-1, EPL: NOW SPORTS 2
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/9dc4fb280ecc39eacc3b3f0265dd9373
-, SuperSport Events
+#EXTINF:-1, SuperSport Events
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/6688ab0c040a9216f83e4866d25ea5ae
-, 03: Parma vs AC Milan 17:00
+#EXTINF:-1, 03: Parma vs AC Milan 17:00
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/eb7715e68281750ba8655960ceb495a7
-, EPL: Optus Sport 2
+#EXTINF:-1, EPL: Optus Sport 2
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/4fc3b2de44122d368af9b440fcc674eb
-, Now Sports 2
+#EXTINF:-1, Now Sports 2
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/513d8a7a02c32184608da0af776d2a4c
-, VIP Astro SuperSport 4
+#EXTINF:-1, VIP Astro SuperSport 4
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/dff9389b2f48a0ce99ee1ee59d3abb11
-, BT Sport 1 HD
+#EXTINF:-1, BT Sport 1 HD
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/c80ae59e5bab8e93736626e986ca1d98
-, Bein Sport 3 English
+#EXTINF:-1, Bein Sport 3 English
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/aecbf85d4326532debd864a693e85f8b
-, VIP Astro SuperSport 1
+#EXTINF:-1, VIP Astro SuperSport 1
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/b6d96aabcac24bae2cd1df4791429298
-, Bein Sport 1 French
+#EXTINF:-1, Bein Sport 1 French
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/567d1e59259c945ac195efc65ce31536
-, Sky Cinema Hits HD
+#EXTINF:-1, Sky Cinema Hits HD
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/93044eee371fa1f45d1f1fb9c4a0ef90
- group-title="82.45", Sky Cinema Premiere HD
+#EXTINF:-1 group-title="82.45", Sky Cinema Premiere HD
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/c353e4bca16dcf7a6a74a784dff72ce2
 
 , 01:
