@@ -587,10 +587,21 @@ http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6119/index.m3u8
 
 #EXTINF:-1,beIN SPORT 1
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6123/index.m3u8
-beIN SPORT 3
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6124/index.m3u8
-beIN SPORT 9
+#EXTINF:-1,beIN SPORT 3
+http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6124/index.m3u8
+#EXTINF:-1,beIN SPORT 4
+http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6125/index.m3u8
+#EXTINF:-1,beIN SPORT 5
+http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6126/index.m3u8
+ER
+http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6127/index.m3u8
+#EXTINF:-1,beIN SPORT 7
+http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6128/index.m3u8
+#EXTINF:-1,beIN SPORT 5
+http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6129/index.m3u8
+#EXTINF:-1,beIN SPORT 9
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6130/index.m3u8
+#EXTINF:-1,beIN SPORT 3 PRE
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6131/index.m3u8
 #EXTINF:-1,beIN SPORT 1EN
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6132/index.m3u8
@@ -609,72 +620,36 @@ beIN Series HD1
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6138/index.m3u8
 Outdoor
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6139/index.m3u8
+
+http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6144/index.m3u8
 FOX MOVIES
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6145/index.m3u8
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6144/index.m3u8
-
 
 
 #EXTINF:-1,beIN 6| ferrarico
-http://ferrarico.referrari.com/live/60096_.m3u8
-#EXTINF:-1,beIN 1| ferrarico
+http://ferrarico.referrari.com/live/60090_.m3u8
+#EXTINF:-1,beIN 1 PRE| ferrarico
 http://ferrarico.referrari.com/live/60091_.m3u8
-#EXTINF:-1,beIN 2| ferrarico
+#EXTINF:-1,beIN 2 PRE| ferrarico
 http://ferrarico.referrari.com/live/60092_.m3u8
-#EXTINF:-1,beIN 3| ferrarico
+#EXTINF:-1,beIN 3 PRE| ferrarico
 http://ferrarico.referrari.com/live/60093_.m3u8
-http://ferrarico.referrari.com/live/60094_.m3u8
-http://ferrarico.referrari.com/live/60095_.m3u8
-#EXTINF:-1,beIN 1| ferrarico
+N.A http://ferrarico.referrari.com/live/60094_.m3u8
+N.A http://ferrarico.referrari.com/live/60095_.m3u8
+#EXTINF:-1,beIN 1 PRE| ferrarico
 http://ferrarico.referrari.com/live/60096_.m3u8
-#EXTINF:-1,beIN 1| ferrarico
+#EXTINF:-1,beIN 2| ferrarico
 http://ferrarico.referrari.com/live/60097_.m3u8
-offline
+#EXTINF:-1,beIN 3| ferrarico
 http://ferrarico.referrari.com/live/60098_.m3u8
 #EXTINF:-1,beIN 4| ferrarico
 http://ferrarico.referrari.com/live/60099_.m3u8
-
-
-http://ferrarico.referrari.com/live/60080_.m3u8
-http://ferrarico.referrari.com/live/60081_.m3u8
-http://ferrarico.referrari.com/live/60082_.m3u8
-http://ferrarico.referrari.com/live/60083_.m3u8
-http://ferrarico.referrari.com/live/60084_.m3u8
-http://ferrarico.referrari.com/live/60085_.m3u8
-http://ferrarico.referrari.com/live/60086_.m3u8
-http://ferrarico.referrari.com/live/60087_.m3u8
-http://ferrarico.referrari.com/live/60088_.m3u8
-http://ferrarico.referrari.com/live/60089_.m3u8
-#EXTINF:-1,beIN 6
-http://ferrarico.referrari.com/live/60090_.m3u8
-#EXTINF:-1,beIN 1 PRE
-http://ferrarico.referrari.com/live/60091_.m3u8
-#EXTINF:-1,beIN 2 PRE
-http://ferrarico.referrari.com/live/60092_.m3u8
-#EXTINF:-1,beIN 3 PRE
-http://ferrarico.referrari.com/live/60093_.m3u8
-n.a http://ferrarico.referrari.com/live/60094_.m3u8
-n.a http://ferrarico.referrari.com/live/60095_.m3u8
-#EXTINF:-1,beIN 1 PRE
-http://ferrarico.referrari.com/live/60096_.m3u8
-n.a. http://ferrarico.referrari.com/live/60097_.m3u8
-#EXTINF:-1,beIN 6
-http://ferrarico.referrari.com/live/60098_.m3u8
-#EXTINF:-1,beIN 4
-http://ferrarico.referrari.com/live/60099_.m3u8
-#EXTINF:-1,beIN 5
+#EXTINF:-1,beIN 5| ferrarico
 http://ferrarico.referrari.com/live/60100_.m3u8
-#EXTINF:-1,beIN 6
+#EXTINF:-1,beIN 6| ferrarico
 http://ferrarico.referrari.com/live/60101_.m3u8
-#EXTINF:-1,beIN 7
+#EXTINF:-1,beIN OLYMPIC| ferrarico
 http://ferrarico.referrari.com/live/60102_.m3u8
-http://ferrarico.referrari.com/live/60103_.m3u8
-http://ferrarico.referrari.com/live/60104_.m3u8
-http://ferrarico.referrari.com/live/60105_.m3u8
-http://ferrarico.referrari.com/live/60106_.m3u8
-http://ferrarico.referrari.com/live/60107_.m3u8
-http://ferrarico.referrari.com/live/60108_.m3u8
-http://ferrarico.referrari.com/live/60109_.m3u8
 
 
 #EXTINF:-1,SUPERSPORT 1 |laos-tech
