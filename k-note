@@ -6551,10 +6551,7 @@ http://119.59.125.74/stream/totnew.php?channel_id=205930751d5743e2be719ed1dff897
 + + + + + 160.119.77.50 >> 160.119.77.116:8081 + + + + + 
 
  group-title="160.119", True Premiere Football HD1 |160
-, True Premiere Football HD2 |160
-, True Premiere Football HD3 |160
-, True Premiere Football HD4 |160
-, True Premiere Football HD5 |160
+
  group-title="160.119", beIN 1 |160
 http://160.119.77.116:8081/iptv/hd-bein1.stream/playlist.m3u8
 , beIN 2 |160
@@ -6622,8 +6619,7 @@ http://160.119.77.116:8081/iptv/sd-skynetsportshd.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/sd-skynetsportsplus.stream/playlist.m3u8
 , UK CNN |160
 http://160.119.77.116:8081/iptv/uk-cnn.stream/playlist.m3u8
-, uk-skysports-epl |160
-, uk-skysports-mainevent |160
+
 , uk-skysports-news |160
 http://160.119.77.116:8081/iptv/uk-skysports-news.stream/playlist.m3u8
  tvg-id="Astro SuperSport", asp1hd |160 |offline
@@ -6649,8 +6645,7 @@ http://160.119.77.116:8081/iptv/sd-mtvasia.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/sd-mtvchina.stream/playlist.m3u8
 , bbc news hd |160
 http://160.119.77.116:8081/iptv/uk-bbcnewshd.stream/playlist.m3u8
-, bt sport 1hd |160
-, bt sport 2hd |160
+
 , bt sport 3hd |160
 http://160.119.77.116:8081/iptv/hd-amarin.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-asian.stream/playlist.m3u8
@@ -6835,11 +6830,6 @@ http://160.119.77.116:8081/iptv/uk-more4.stream/playlist.m3u8
 http://160.119.77.116:8081:80/iptv/sd-gmmchannel.stream/playlist.m3u8
  group-title="160.119", usa
 http://160.119.77.116:8081/iptv/uk-usa.stream/playlist.m3u8
- tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1", True Premiere Football HD1* |185
- tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2", True Premiere Football HD2 |185
- tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3", True Premiere Football HD3 |185
- tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 4", True Premiere Football HD4 |185
- tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 5", True Premiere Football HD5 |185
 
 + + + + + http://160.119.77.117 + + + + +
 
@@ -6962,46 +6952,6 @@ http://160.119.77.116:8081/iptv/bsb-epl2.stream/playlist.m3u8
 ,True Premiere Football HD3 |160*
 http://160.119.77.116:8081/iptv/bsb-epl3.stream/playlist.m3u8
 
-+ + + + + 202.57.43.60:8443 + + + + +
-
-na
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/100.m3u8
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/101.m3u8
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/102.m3u8
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/103.m3u8
-na
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/104.m3u8
-na
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/105.m3u8
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/106.m3u8
-na
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/107.m3u8
-na
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/108.m3u8
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/109.m3u8
-
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/110.m3u8
-CINEMAX
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/111.m3u8
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/112.m3u8
-HBO
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/113.m3u8
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/114.m3u8
-n.a
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/115.m3u8
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/116.m3u8
-FOX SPORT 2
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/117.m3u8
-BOXING
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/118.m3u8
-n.a
-http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/119.m3u8
-
-Animax
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
-NAT GEO
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/128.m3u8
-
 + + + + + 203.150.107.30:8081 + + + + +
 
  group-title="203.150", PPTV 36
@@ -7062,17 +7012,12 @@ http://203.150.107.30:8081/freethaitv/623d009180394c528880c14e2254452a.m3u8?s=d5
 + + + + + 203.154.177.124:8899 + + + + +
 
  group-title="203.154",COMEDY CENTRAL
-,MTV Live HD
-,Paramount Channel
-,MTV now
+
 ,MTV now'
 http://203.154.177.124:8080/live/ch4/playlist.m3u8
 ,Animax
 http://203.154.177.124:8899/live/ch6/playlist.m3u8
-,ACTION HOLLYWOOD MOVIES
-,ABC Australia
-,Pet Club TV
-,ch10
+
 http://203.154.177.124:8899/live/ch11/playlist.m3u8
  tvg-id="WarnerTV HD",WB TV |203.154
 http://203.154.177.124:8899/live/ch13/playlist.m3u8
@@ -7082,10 +7027,7 @@ http://203.154.177.124:8899/live/ch15/playlist.m3u8
 http://203.154.177.124:8899/live/ch17/playlist.m3u8
 ,ch18
 http://203.154.177.124:8899/live/ch19/playlist.m3u8
-,MIAO MI
-,thrill
-,ch22
- group-title="203.154",CI
+
  group-title="203.154",HGTV'
 http://203.154.177.124:8080/live/ch1/index.m3u8
 ,MTV Live HD' |203.154
@@ -8443,40 +8385,6 @@ http://live.streaming-fast.com/live001/btsport2/playlist.m3u8
 http://live.streaming-fast.com/live001/btsport3/playlist.m3u8
  group-title="streaming-fast",Tv3 Max
 http://live.streaming-fast.com/live001/tv3max/playlist.m3u8
-
-+ + + + + https://edge-n1.worldwidetv.club + + + + +
-
-https://edge-n1.worldwidetv.club/5ufVAQFe2Dshrg-YHW5oUA/1599509366/livesport-abr/af-supersport9/livesport/af-supersport9_480/chunks.m3u8
-https://edge-n1.worldwidetv.club/6T_D8EU79CExgEpcIgzXOw/1599509890/livesport-abr/uk-btsport1hd/livesport/uk-btsport1hd_720/chunks.m3u8
-https://edge-n1.worldwidetv.club/pHXkIsCRZMkRPA1Fih5G_w/1599509134/livesport-abr/af-supersport1/livesport/af-supersport1_480/chunks.m3u8
-https://edge-n1.worldwidetv.club/ULNh-bU-FE_zqG0mq9RZtg/1599509377/livesport-abr/af-supersport10/livesport/af-supersport10_480/chunks.m3u8
-https://edge-n1.worldwidetv.club/yBEuwMb15hTiNPTJbQ3XYQ/1599510811/livesport-abr/uk-skysports-f1/livesport/uk-skysports-f1_720/chunks.m3u8
-https://edge-n2.worldwidetv.club/2W_4pGMLdI5YTU6OxS4Tig/1599509181/livesport-abr/af-supersport2/livesport/af-supersport2_480/chunks.m3u8
-https://edge-n2.worldwidetv.club/_eDlFZd7gBbWang19vFtgQ/1599509608/livesport-abr/hd-tennis/livesport/hd-tennis_720/chunks.m3u8
-https://edge-n2.worldwidetv.club/Hz72E5xZ3MZM1keXAmip5w/1599509336/livesport-abr/af-supersport7/livesport/af-supersport7_480/chunks.m3u8
-https://edge-n2.worldwidetv.club/IbkVRekzxPTBTbP_88zmMA/1599503489/livesport-abr/hd-natgeo/livesport/hd-natgeo_1080/chunks.m3u8
-https://edge-n2.worldwidetv.club/MylXicVmRKGUrk3i9MBAEw/1599509669/livesport-abr/ca-tsn1/livesport/ca-tsn1_480/chunks.m3u8
-https://edge-n2.worldwidetv.club/Np1wqVgMYLJ-cP7VdZMQYQ/1599509398/livesport-abr/af-supersport11/livesport/af-supersport11_480/chunks.m3u8
-https://edge-n2.worldwidetv.club/Q67j4LaUHrDnLp6ZUaALBw/1599499589/livesport-abr/hd-tfilm/livesport/hd-tfilm_1080/chunks.m3u8
-https://edge-n2.worldwidetv.club/YA8pOtPdp3WMoU59xVgBCg/1599509704/livesport-abr/ca-tsn2/livesport/ca-tsn2_480/chunks.m3u8
-https://edge-n2.worldwidetv.club/ZO6Ys67JcT67e3chn3HicA/1599509733/livesport-abr/ca-tsn4/livesport/ca-tsn4_480/chunks.m3u8
-https://edge-n3.worldwidetv.club/CooyhL2U1DH_0JHC58I5cw/1599511100/livesport-abr/de-sportdigital/livesport/de-sportdigital_480/chunks.m3u8
-https://edge-n3.worldwidetv.club/CqoEjs7usCZvOV0mrO-GmQ/1599509002/livesport-abr/hd-foxsports1/livesport/hd-foxsports1_720/chunks.m3u8
-https://edge-n3.worldwidetv.club/CWLNV0GbQRLNk474iHx7aw/1599509750/livesport-abr/ca-tsn5/livesport/ca-tsn5_480/chunks.m3u8
-https://edge-n3.worldwidetv.club/eG6YquX-EF1VcuIwWLhhUA/1599510544/livesport-abr/de-bblsport3/livesport/de-bblsport3_480/chunks.m3u8
-https://edge-n3.worldwidetv.club/IAu1u25KVsDtn-Ib79x5wA/1599509355/livesport-abr/af-supersport8/livesport/af-supersport8_480/chunks.m3u8
-https://edge-n3.worldwidetv.club/IIvHL0Zqir_kAR3mKK32YA/1599510696/livesport-abr/de-skysport2/livesport/de-skysport2_480/chunks.m3u8
-https://edge-n3.worldwidetv.club/Zrty3BUno5578rO-SplRXw/1599509313/livesport-abr/af-supersport5/livesport/af-supersport5_480/chunks.m3u8
-https://edge-n4.worldwidetv.club/_T29pF0BFsMmDcB_ZNu5Ag/1599509718/livesport-abr/ca-tsn3/livesport/ca-tsn3_480/chunks.m3u8
-https://edge-n4.worldwidetv.club/CZx6E3xpKfkwX1esFKDUSw/1599510579/livesport-abr/de-bblsport5/livesport/de-bblsport5_480/chunks.m3u8
-https://edge-n4.worldwidetv.club/FYImu5GeDFEq0EaZsuEl2w/1599510720/livesport-abr/de-sport1plus/livesport/de-sport1plus_480/chunks.m3u8
-https://edge-n4.worldwidetv.club/HIFFKde-nwVqHHTeFNvlXQ/1599510566/livesport-abr/de-bblsport4/livesport/de-bblsport4_480/chunks.m3u8
-https://edge-n4.worldwidetv.club/juZZIZI2FqBDfrxemUS3fQ/1599499652/livesport-abr/hd-tfilm2/livesport/hd-tfilm2_1080/chunks.m3u8
-https://edge-n4.worldwidetv.club/K04N6kL94ruh5UDD6APBRw/1599509789/livesport-abr/us-espn1/livesport/us-espn1_480/chunks.m3u8
-https://edge-n4.worldwidetv.club/n21rs5ga8qKeLrCY5p-DCg/1599503530/livesport-abr/hd-natgeowild/livesport/hd-natgeowild_1080/chunks.m3u8
-https://edge-n4.worldwidetv.club/O_u7WNC7xbUvzA0C59O6MA/1599510531/livesport-abr/de-bblsport2/livesport/de-bblsport2_480/chunks.m3u8
-https://edge-n4.worldwidetv.club/TXV047A6AlUrhcgDoXA_hQ/1599500307/livesport-abr/hd-axn/livesport/hd-axn_1080/chunks.m3u8
-https://edge-n4.worldwidetv.club/uDFheZBw6b6KfPrqcgw3Mg/1599509294/livesport-abr/af-supersport4/livesport/af-supersport4_480/chunks.m3u8
 
 + + + + + https://itpolly.iptv.digijadoo.net + + + + +
 
@@ -10015,15 +9923,6 @@ https://delivery.ghanacloud.ga/get.php?username=oSC7QXUAgM&password=XI6uWOiWRG&t
 
 http://51.15.1.11:25461/get.php?username=MEGA-TV&password=TELEGRAM&type=m3u < DOWN
 
-+ + + + + 51.195.216.247:55055 + + + + +
-
- group-title="51.195",DAZN 1
-http://51.195.216.247:55055/live/vmp343streams/850256/101474
- group-title="51.195",DAZN 2
-http://51.195.216.247:55055/live/vmp343streams/850256/101475
-
-http://51.195.216.247:55055/live/vmp343streams/850256/101480
-
 + + + + + 54k.top:8000 + + + + + null + + + + 10000-13
 
 http://54k.top:8000/get.php?username=to44j&password=oyvee&type=m3u&output=hls < null < 10000-11
@@ -10406,8 +10305,7 @@ http://209.222.101.100:25461/live/tv/tv/77372.m3u8
 
 + + + + + 1sn.ns1.name:18800 + + + + +
 
-http://1sn.ns1.name:18800/get.php?username=fadilh66SkypeExYuVeryGood2017Started&password=ggdg1414hfdgdfhfdh24525hfhfhfhfh&type=m3u
-Real Url: 1sn.ns1.name:18800     Status: Active    Created: 14/12/2015 3:18:50 AM     Expires: Null    Active Connections: 48     Maximum Connections: 60
+http://1sn.ns1.name:18800/get.php?username=fadilh66SkypeExYuVeryGood2017Started&password=ggdg1414hfdgdfhfdh24525hfhfhfhfh&type=m3u Expires: Null Connections: 60-58
 
 + + + + + appstv.us:25461 + + + + +
 
@@ -10523,8 +10421,7 @@ http://appstv.us:25461/live/1/2/286.m3u8
 
 + + + + + b1g.ca:80 + + + + + null + + + + +
 
-http://b1g.me:80/get.php?username=devin&password=devin&type=m3u
-Real Url: b1g.ca:80     Status: Active    Created: 23/10/2019 10:07:18 AM     Expires: Null    Active Connections: 0     Maximum Connections: 1 
+http://b1g.me:80/get.php?username=devin&password=devin&type=m3u Expires: Null Connections: 1-1 < not play
 
 + + + + + iptvportuguese.live:8010 / bigserver.theworkpc.com:8010 + + + + + 300-238 + + + + +
 
