@@ -6244,8 +6244,6 @@ http://54.37.82.205:8081/liveorigin/epl-bein1_480/chunks.m3u8
 http://54.37.82.205:8081/liveorigin/epl-bein2_480/chunks.m3u8
 http://54.37.82.205:8081/liveorigin/sd-tsports_480/chunks.m3u8
 
-
-
 + + + + + 103.22.182.242:8081 + + + + + 
 
 http://103.22.182.242:8081/app/amarintv/chunks.m3u8
@@ -6348,65 +6346,65 @@ http://103.253.72.107:9997/Premier4/index.m3u8
  tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 5" group-title="103.253", True Premiere Football HD5* |103
 http://103.253.72.107:9997/Premier5/index.m3u8
 
-+ + + + + 139.99.84.196:8822 + + + + +
++ + + + + 139.99.84.196:8822 + + + + + DOWN
 
-#EXTINF:-1 group-title="139.99",beIN 1
+ group-title="139.99",beIN 1
 http://139.99.84.196:8822/stream/channel/b416158cee1e9a2fe2a1c47fd8e7b182?title=29%20%3A%20BEIN%2001
-#EXTINF:-1,beIN 2
+,beIN 2
 http://139.99.84.196:8822/stream/channel/1e6df35737e68acd83740640093c7d6e?title=30%20%3A%20BEIN%2002
-#EXTINF:-1,beIN 1HD
+,beIN 1HD
 http://139.99.84.196:8822/stream/channel/6536f825f1b2daaf2fc1eeef6d9925a3?title=31%20%3A%20BEIN%2001%20HD
-#EXTINF:-1,beIN 2HD
+,beIN 2HD
 http://139.99.84.196:8822/stream/channel/767b318b9f1de576e13c5d4f1262174c?title=32%20%3A%20BEIN%2002%20HD
-#EXTINF:-1,FOX ACTION MOVIES
+,FOX ACTION MOVIES
 http://139.99.84.196:8822/stream/channel/9df07a0022ce69da92c20eefec65ad72?title=62%20%3A%20FOX%20ACTION%20MOVIES%20
-#EXTINF:-1,FOX ACTION MOVIES HD
+,FOX ACTION MOVIES HD
 http://139.99.84.196:8822/stream/channel/55368575133651d146656cc9c7040b16?title=63%20%3A%20FOX%20ACTION%20MOVIES%20HD
-#EXTINF:-1,FOX FAMILY
+,FOX FAMILY
 http://139.99.84.196:8822/stream/channel/fcc9e55d14f296d9d1d0f9c315d21ece?title=66%20%3A%20FOX%20FAMILY
-#EXTINF:-1,FOX FAMILY HD
+,FOX FAMILY HD
 http://139.99.84.196:8822/stream/channel/bc42e8132f6b57b51c358c8ab5610d76?title=67%20%3A%20FOX%20FAMILY%20HD
-#EXTINF:-1,FOX MOVIES PREMIUM
+,FOX MOVIES PREMIUM
 http://139.99.84.196:8822/stream/channel/877b314304885e9e775d0eea36afb7ed?title=70%20%3A%20FOX%20MOVIES%20PREMIUM%20
-#EXTINF:-1,FOX MOVIES PREMIUM HD
+,FOX MOVIES PREMIUM HD
 http://139.99.84.196:8822/stream/channel/aa1b14f6adc0882ab71f5694dd4f45e3?title=71%20%3A%20FOX%20MOVIES%20PREMIUM%20%20HD
 
 http://139.99.84.196:8822/stream/channel/c9fd2f971c3fd83971248b3e2559c888?title=72%20%3A%20HBO
-#EXTINF:-1,HBO HD
+,HBO HD
 http://139.99.84.196:8822/stream/channel/5c913a8ebd57332df29fd12d4d2e294d?title=73%20%3A%20HBO%20HD
 http://139.99.84.196:8822/stream/channel/8b53e417fd63e7572bfc36355954c771?title=74%20%3A%20HBO%20FAMILY
-#EXTINF:-1,HBO FAMILY HD
+,HBO FAMILY HD
 http://139.99.84.196:8822/stream/channel/b86ef77c7147122f5b49d67350f237d2?title=75%20%3A%20HBO%20FAMILY%20HD
 http://139.99.84.196:8822/stream/channel/2a8729f599520435d08734652db4ea45?title=76%20%3A%20HBO%20HITS%20
-#EXTINF:-1,HBO HITS HD
+,HBO HITS HD
 http://139.99.84.196:8822/stream/channel/8b49eaa01871281c67395e94ac7b160a?title=77%20%3A%20HBO%20HITS%20HD
 http://139.99.84.196:8822/stream/channel/da529a11160865256b1375519a890450?title=78%20%3A%20HBO%20SIGNATURE%20
-#EXTINF:-1,HBO SIGNATURE HD
+,HBO SIGNATURE HD
 http://139.99.84.196:8822/stream/channel/d0a034b871a3ef2f462ba997d38c9766?title=79%20%3A%20HBO%20SIGNATURE%20HD
-#EXTINF:-1,RED BY HBO
+,RED BY HBO
 http://139.99.84.196:8822/stream/channel/52ef95fc6d58f485829d34a34478b15c?title=84%20%3A%20RED%20BY%20HBO
-#EXTINF:-1,RED BY HBO (HD)
+,RED BY HBO (HD)
 http://139.99.84.196:8822/stream/channel/52ef95fc6d58f485829d34a34478b15c?title=84%20%3A%20RED%20BY%20HBO
-#EXTINF:-1,WARNER
+,WARNER
 http://139.99.84.196:8822/stream/channel/f6dcc7b5c7071f46c9da1c1b4ba17beb?title=86%20%3A%20WARNER
 http://139.99.84.196:8822/stream/channel/ba6ff7d4643fd03482d402b1d2242169?title=90%20%3A%20CINEMAX
-#EXTINF:-1,CINEMAX HD
+,CINEMAX HD
 http://139.99.84.196:8822/stream/channel/f06f586988cf9a9edcefe1abe44c8cc1?title=91%20%3A%20CINEMAX%20HD
 http://139.99.84.196:8822/stream/channel/de98fc1e3e70066d52d8f625280c50db?title=96%20%3A%20CNN
 http://139.99.84.196:8822/stream/channel/e4c7b085a2adb1499b4955d20769e61b?title=101%20%3A%20TVN
-#EXTINF:-1,TVN HD
+,TVN HD
 http://139.99.84.196:8822/stream/channel/20ecec442a4a57d5504d0b529977d046?title=102%20%3A%20TVN%20HD
-#EXTINF:-1,TVNMOVIES
+,TVNMOVIES
 http://139.99.84.196:8822/stream/channel/4f9d0c5180e0ff59b2ef0d85a8d3219f?title=103%20%3A%20TVNMOVIES
-#EXTINF:-1,S ONE
+,S ONE
 http://139.99.84.196:8822/stream/channel/9826ca67ac9b9bd190b3199632c458b4?title=104%20%3A%20S%20ONE
 http://139.99.84.196:8822/stream/channel/efe5e185e4702875f7710f472dc85d48?title=106%20%3A%20KBS%20WORLD
-#EXTINF:-1,KBS WORLD HD
+,KBS WORLD HD
 http://139.99.84.196:8822/stream/channel/cdc69eda5356369a23c5e28c39e525cf?title=107%20%3A%20KBS%20WORLD%20HD
 http://139.99.84.196:8822/stream/channel/29826622561a9324d12fdb437207451a?title=108%20%3A%20K%20PLUS
-#EXTINF:-1,PLUS HD
+,PLUS HD
 http://139.99.84.196:8822/stream/channel/97d0d0efef3d5b902506295899da7b87?title=109%20%3A%20K%20PLUS%20HD
-#EXTINF:-1 group-title="139.99",BLOOMBERG
+ group-title="139.99",BLOOMBERG
 http://139.99.84.196:8822/stream/channel/85af4801b0559f15dacb1db0b27b3237?title=112%20%3A%20BLOOMBERG
 
 + + + + + 156.146.43.241:2200/EX + + + + +
@@ -6509,107 +6507,6 @@ http://156.146.43.241:2200/R-EX/TAMIL_VIJAY_SUPER-in/tracks-v1a1/mono.m3u8?token
 http://156.146.43.241:2200/R-EX/TAMIL_ZEE_THIRAI-in/tracks-v1a1/mono.m3u8?token=
 
 + + + + + 185.238.0.145:1313/c/livedo/ + + + + +
-
-+ + + + + 185.246.210.55:2200/EX + + + + +
-
- group-title="185.246",BT Sport 1 |185.246
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.55:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,BT Sport 2 |185.246
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.55:2200/EX/BT_Sport_2_HD-uk/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,BT Sport 3 |185.246
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.55:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,Sky Sports Main Event |185.246
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.55:2200/EX/Sky_Sports_Main_Event_HD-uk/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-,beIN 1HD |185.246
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.55:2200/EX/bein1hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,beIN 2HD |185.246
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.55:2200/EX/bein2hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,beIN 3HD |185.246
-http://185.246.210.55:2200/EX/bein3hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,beIN 4HD |185.246
-http://185.246.210.55:2200/EX/bein4hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,beIN 5HD |185.246
-http://185.246.210.55:2200/EX/bein5hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,beIN 6HD |185.246
-http://185.246.210.55:2200/EX/bein6hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,beIN 7HD |185.246
-http://185.246.210.55:2200/EX/bein7hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,beIN 8HD |185.246
-http://185.246.210.55:2200/EX/bein8hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,beIN 9HD |185.246
-http://185.246.210.55:2200/EX/bein9hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,beIN 10HD |185.246
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.55:2200/EX/bein10hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,beIN 11HD |185.246
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.55:2200/EX/bein11hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,beIN 12HD |185.246
-http://185.246.210.55:2200/EX/bein12hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,beinsports1hd-tr |185.246
-http://185.246.210.55:2200/EX/beinsports1hd-tr/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-http://185.246.210.55:2200/EX/beinsports2hd-tr/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 < offline
-,beinsports3hd-tr |185.246
-http://185.246.210.55:2200/EX/beinsports3hd-tr/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-,beinsports4hd-tr |185.246
-http://185.246.210.55:2200/EX/beinsports4hd-tr/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-,beinsports1uhd-tr |185.246
-http://185.246.210.55:2200/EX/beinsports1uhd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,beinsports2uhd-tr |185.246
-http://185.246.210.55:2200/EX/beinsports2uhd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,beinsports3uhd-tr |185.246
-http://185.246.210.55:2200/EX/beinsports3uhd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,beinsports4uhd-tr |185.246
-http://185.246.210.55:2200/EX/beinsports4uhd-tr/index.m3u8?token=123zzzaaaxxaazzzxxx987
-,STAR SPORTS SELECT 1HD |185.246
-http://185.246.210.55:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-,STAR SPORTS SELECT 2HD |185.246
-http://185.246.210.55:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-,OPTUS 1 |185.246
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.55:2200/EX/Optus_Sports_1_HD_-uk/index.m3u8?token=123zzzaaaxxaazzzxxx987
- group-title="185.246",OPTUS 2 |185.246
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.55:2200/EX/Optus_Sports_2_HD_-uk/index.m3u8?token=123zzzaaaxxaazzzxxx987
-, S Action |185.246
-http://185.246.210.55:2200/AFR-EX/SuperSport_Action_FHD-dstv/index.m3u8?token=123zzzaaaxxaazzzxxx987
-, S Cricket |185.246
-http://185.246.210.55:2200/AFR-EX/SuperSport_Cricket_FHD-dstv/index.m3u8?token=123zzzaaaxxaazzzxxx987
-, S Football |185.246
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.55:2200/AFR-EX/SuperSport_Football_FHD-dstv/index.m3u8?token=123zzzaaaxxaazzzxxx987
-, S Grandstand |185.246
-http://185.246.210.55:2200/AFR-EX/SuperSport_Grandstand_FHD-dstv/index.m3u8?token=123zzzaaaxxaazzzxxx987
-, S LaLiga |185.246
-http://185.246.210.55:2200/AFR-EX/SuperSport_LaLiga_FHD-dstv/index.m3u8?token=123zzzaaaxxaazzzxxx987
-, S Premier League |185.246
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.55:2200/AFR-EX/SuperSport_Premier_League_FHD-dstv/index.m3u8?token=123zzzaaaxxaazzzxxx987
-, S PSL |185.246
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.55:2200/AFR-EX/SuperSport_PSL_FHD-dstv/index.m3u8?token=123zzzaaaxxaazzzxxx987
-, S Rugby |185.246
-http://185.246.210.55:2200/AFR-EX/SuperSport_Rugby_FHD-dstv/index.m3u8?token=123zzzaaaxxaazzzxxx987
-, S Tennis |185.246
-http://185.246.210.55:2200/AFR-EX/SuperSport_Tennis_FHD-dstv/index.m3u8?token=123zzzaaaxxaazzzxxx987
-, S Variety 1 |185.246
-http://185.246.210.55:2200/AFR-EX/SuperSport_Variety_1_FHD-dstv/index.m3u8?token=123zzzaaaxxaazzzxxx987
-, S Variety 2 |185.246
-http://185.246.210.55:2200/AFR-EX/SuperSport_Variety_2_FHD-dstv/index.m3u8?token=123zzzaaaxxaazzzxxx987
-, S Variety 4 |185.246
-http://185.246.210.55:2200/AFR-EX/SuperSport_Variety_4_FHD-dstv/index.m3u8?token=123zzzaaaxxaazzzxxx987
-, S WWE |185.246
-http://185.246.210.55:2200/AFR-EX/SuperSport_WWE_FHD-dstv/index.m3u8?token=123zzzaaaxxaazzzxxx987
- group-title="185.246",&flix |185.246
-http://185.246.210.55:2200/R-EX/HINDI_AND_FLIX_HD-in/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-
- -/-/-/-/- OFFLINE -/-/-/-/-
-
-http://185.246.210.55:2200/EX/privatehd/index.m3u8?token=xrstalker
-http://185.246.210.55:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=xrstalker
-http://185.246.210.55:2200/EX/BT_Sport_2_HD-uk/index.m3u8?token=xrstalker
-http://185.246.210.55:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=xrstalker
-http://185.246.210.55:2200/EX/beinsports1hd-tr/tracks-v1a1/mono.m3u8?token=xrstalker
-http://185.246.210.55:2200/EX/beinsports2hd-tr/tracks-v1a1/mono.m3u8?token=xrstalker < offline
-http://185.246.210.55:2200/EX/beinsports3hd-tr/tracks-v1a1/mono.m3u8?token=xrstalker
-http://185.246.210.55:2200/EX/beinsports4hd-tr/tracks-v1a1/mono.m3u8?token=xrstalker
-http://185.246.210.55:2200/EX/beinsports1uhd-tr/index.m3u8?token=xrstalker
-http://185.246.210.55:2200/EX/beinsports2uhd-tr/index.m3u8?token=xrstalker
-http://185.246.210.55:2200/EX/beinsports3uhd-tr/index.m3u8?token=xrstalker
-http://185.246.210.55:2200/EX/beinsports4uhd-tr/index.m3u8?token=xrstalker
 
 + + + + + 119.59.125.74 + + + + +
 
