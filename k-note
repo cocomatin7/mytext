@@ -911,27 +911,6 @@ https://v7.sportzonline.to/channels/bra/br3.php
 https://v7.sportzonline.to/channels/bra/br4.php
 https://v7.sportzonline.to/channels/cricket/cr1.php
 
-#EXTINF:-1, sportz HD1
-https://rwyzjmd8vxbgug4d.ezcdn383.net:8443/hls/c2kxuno.m3u8?s=kAzkUwFT5GqlqXewDKz5mg&e=1617475871
-#EXTINF:-1, sportz HD2
-https://rwyzjmd8vxbgug4d.ezcdn383.net:8443/hls/oaa446jqf0418.m3u8?s=C0E9JJRJIYv_eIThDMXWTA&e=1617476162
-#EXTINF:-1, sportz HD3
-https://rwyzjmd8vxbgug4d.ezcdn383.net:8443/hls/71dv0gylb.m3u8?s=P94rSIczkv0OXTBQ5enb-g&e=1617476430
-
-#EXTINF:-1,star-live
-http://uk4.zecast.com:1935/star-live/cloud2t/chunklist.m3u8
-
-OVO1 http://www.ovostreams.com/1.php << 
-http://161.35.216.7/live/channelovo1/chunks.m3u8
-http://pull-2002.5centscdn.com/hls/liveovo1.m3u8
-OVO2 http://www.ovostreams.com/2.php
-http://pull-2000.5centscdn.com/hls/liveovo2.m3u8
-OVO3 http://www.ovostreams.com/3.php
-http://77.247.109.116/hls/liveovo3.m3u8
-OVO4 http://www.ovostreams.com/4.php
-http://77.247.109.116/hls/liveovo4.m3u8
-OVO5 http://www.ovostreams.com/5.php < DOWN
-https://pol.ptvsportstv.com/ovo/streamsdemo.stream/playlist.m3u8
 
 view-source:http://www.ovostreams.com/1.php
 view-source:http://www.ovostreams.com/2.php
@@ -961,7 +940,17 @@ https://ftlive.s.llnwi.net/hls/H148A/chunks.m3u8?p=31&cf=1619355439&group=bettop
 #EXTINF:-1, S PremierLeague
 https://rwyzjmd8vxbgug4d.ezcdn383.net:8443/hls/s7c9en.m3u8?s=HloYZeSOwu4KDmXZTZ-Bcw&e=1619377204
 
-
+OVO1 http://www.ovostreams.com/1.php << 
+http://161.35.216.7/live/channelovo1/chunks.m3u8
+http://pull-2002.5centscdn.com/hls/liveovo1.m3u8
+OVO2 http://www.ovostreams.com/2.php
+http://pull-2000.5centscdn.com/hls/liveovo2.m3u8
+OVO3 http://www.ovostreams.com/3.php
+http://77.247.109.116/hls/liveovo3.m3u8
+OVO4 http://www.ovostreams.com/4.php
+http://77.247.109.116/hls/liveovo4.m3u8
+OVO5 http://www.ovostreams.com/5.php < DOWN
+https://pol.ptvsportstv.com/ovo/streamsdemo.stream/playlist.m3u8
 
 #EXTINF:-1,OVO L1 |offline
 http://pull-2000.5centscdn.com/hls/liveovo1.m3u8
@@ -982,6 +971,14 @@ http://192.166.246.122/hls/ovostreamss1.m3u8
 
 http://192.166.246.122/hls/ovostreams5.m3u8
 http://192.166.246.122/hls/ovostreams12.m3u8
+
+#EXTINF:-1,CANAL + SPT |207
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,eleven_sports_1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,eleven_sports_2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+
 
 liveovo1
 http://streamwat.ch/custom/player/#http://ocdncdno.xyz/hls/liveovo1.m3u8
@@ -1053,18 +1050,39 @@ http://streamwat.ch/custom/player/#https://www.livedoomovies.com/02_BTSPORTHD_1_
 http://streamwat.ch/custom/player/#https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 http://streamwat.ch/custom/player/#https://www.livedoomovies.com/02_BTSPORTHD_3_720p/chunklist.m3u8
 
-s
+
 http://streamwat.ch/custom/player/#http://77.247.109.116/hls/sportek1.m3u8
-#EXTINF:-1,sportek1
+,sportek1
 http://77.247.109.116/hls/sportek1.m3u8
-#EXTINF:-1,sportek2
+,sportek2
 http://77.247.109.116/hls/sportek2.m3u8
-#EXTINF:-1,sportek3
+,sportek3
 http://77.247.109.116/hls/sportek3.m3u8
-#EXTINF:-1,sportek4
+,sportek4
 http://77.247.109.116/hls/sportek4.m3u8
-#EXTINF:-1,sportek5
+,sportek5
 http://77.247.109.116/hls/sportek5.m3u8
+
+#EXTINF:-1,beIN 1
+http://v1.oldboz44.com/beinsport1/index.m3u8
+#EXTINF:-1,beIN 2
+http://v1.oldboz44.com/beinsport2/index.m3u8
+#EXTINF:-1,beIN 3
+http://v1.oldboz44.com/beinsport3/index.m3u8
+#EXTINF:-1,beIN 4
+http://v1.oldboz44.com/beinsport4/index.m3u8
+http://v1.oldboz44.com/beinsport5/index.m3u8
+http://v1.oldboz44.com/beinsport6/index.m3u8
+http://v1.oldboz44.com/beinsport7/index.m3u8
+http://v1.oldboz44.com/beinsport8/index.m3u8
+http://v1.oldboz44.com/beinsport9/index.m3u8
+#EXTINF:-1,beIN 10
+http://v1.oldboz44.com/beinsport10/index.m3u8
+#EXTINF:-1,beIN 11
+http://v1.oldboz44.com/beinsport11/index.m3u8
+#EXTINF:-1,beIN 12
+http://v1.oldboz44.com/beinsport12/index.m3u8
+
 
 , BT SPORT 3 LIVE *
 https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/f2s41vu1evpyi2.m3u8?s=BFnbvI6UjrXV2t-rnwyxTg&e=1612724082
@@ -1133,76 +1151,6 @@ https://crackle-plex.amagi.tv/playlist720p.m3u8
 https://rush-redbox.amagi.tv/playlist720p.m3u8
 
 
-#EXTINF:-1,Paramount Channel HD
-http://ua1.iptv.monster/play/383/26E9D4A46612DC5/video.m3u8
-
-Русская Ночь < bamar tv
-http://ua1.iptv.monster/play/132/26E9D4A46612DC5/video.m3u8
-Blue Hustler TV
-http://ua1.iptv.monster/play/107/D165FE5B556D149/video.m3u8
-Playboy
-http://ua1.iptv.monster/play/242/26E9D4A46612DC5/video.m3u8
-Hustler HD Europe
-http://ua1.iptv.monster/play/592/26E9D4A46612DC5/video.m3u8
-Passion XXX
-http://ua1.iptv.monster/play/596/26E9D4A46612DC5/video.m3u8
-Satisfaction HD
-http://ua1.iptv.monster/play/598/26E9D4A46612DC5/video.m3u8
-Brazzers TV Europe
-http://ua1.iptv.monster/play/76/26E9D4A46612DC5/video.m3u8
-Barely Legal
-http://ua1.iptv.monster/play/4012/26E9D4A46612DC5/video.m3u8
-Redlight HD
-http://ua1.iptv.monster/play/594/26E9D4A46612DC5/video.m3u8
-French Lover
-http://ua1.iptv.monster/play/1490/26E9D4A46612DC5/video.m3u8
-Penthouse HD
-http://ua1.iptv.monster/play/1497/26E9D4A46612DC5/video.m3u8
-Penthouse Gold HD
-http://ua1.iptv.monster/play/8848/26E9D4A46612DC5/video.m3u8
-
-#EXTINF:-1,BBC
-http://152.228.154.144:80/stream/BRAU6ZDR72/85.m3u8
-#EXTINF:-1,CNN |stream
-http://152.228.154.144:80/stream/BRAU6ZDR72/84.m3u8
-#EXTINF:-1,MTV |stream
-http://152.228.154.144:80/stream/BRAU6ZDR72/89.m3u8
-#EXTINF:-1,MTV 80s |stream
-http://152.228.154.144:80/stream/BRAU6ZDR72/87.m3u8
-#EXTINF:-1,MTV 90s |stream
-http://152.228.154.144:80/stream/BRAU6ZDR72/88.m3u8
-#EXTINF:-1,MTV Club |stream
-http://152.228.154.144:80/stream/BRAU6ZDR72/147.m3u8
-
-Barely Legal TV (18+)
-http://152.228.154.144:80/stream/BRAU6ZDR72/289.m3u8
-Brazzers TV Europe (18+)
-http://152.228.154.144:80/stream/BRAU6ZDR72/53.m3u8
-Candy HD (18+)
-http://152.228.154.144:80/stream/BRAU6ZDR72/57.m3u8
-Erox (18+)
-http://152.228.154.144:80/stream/BRAU6ZDR72/281.m3u8
-Hustler HD (18+)
-http://152.228.154.144:80/stream/BRAU6ZDR72/52.m3u8
-Nuart (18+) < 
-http://152.228.154.144:80/stream/BRAU6ZDR72/55.m3u8
-O-la-la (18+)
-http://152.228.154.144:80/stream/BRAU6ZDR72/334.m3u8
-Playboy (18+)
-http://152.228.154.144:80/stream/BRAU6ZDR72/56.m3u8
-Redlight HD (18+)
-http://152.228.154.144:80/stream/BRAU6ZDR72/51.m3u8
-Vivid Red HD (18+)
-http://152.228.154.144:80/stream/BRAU6ZDR72/284.m3u8
-XXL (18+)
-http://152.228.154.144:80/stream/BRAU6ZDR72/290.m3u8
-Русская Ночь (18+) < 
-http://152.228.154.144:80/stream/BRAU6ZDR72/54.m3u8
-
-http://152.228.154.144:80/stream/PD2219LVSV/54.m3u8 < Exp
-http://152.228.154.144:80/stream/LRVE26JR5X/54.m3u8 < Exp
-
-
 ,AsianCrush
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 ,Crackle
@@ -1251,15 +1199,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
  group-title="BamarTV",Party Tyme Karaoke
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-
-#EXTINF:-1 group-title="BamarTV", MizzimaTV
-https://www.youtube.com/watch?v=u9-jHk_5Nxs
-#EXTINF:-1 group-title="BamarTV", MizzimaTV*
-http://www.youtube.com/embed/u9-jHk_5Nxs
-https://youtu.be/u9-jHk_5Nxs
-
-#EXTINF:-1,Channel [V]
-rtmp://58.200.131.2:1935/livetv/channelv
 
 
 #EXTINF:-1,Mix 24-7
