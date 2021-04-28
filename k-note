@@ -2927,6 +2927,12 @@ http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
 
 + + + + + http://82.45.49.11:9981/extjs.html + + + + + connor:str94eEt@
 
+http://connor:str94eEt@82.45.49.11:9981/playlist
+http://SantosSingh:SantosSingh94eEt@82.45.49.11:9981/playlist < forbidden
+http://lewis:LewGay1@82.45.49.11:9981/playlist < forbidden
+http://Santos:SantosSantalini@82.45.49.11:9981/playlist < forbidden
+http://Matthew:Lawyer123@82.45.49.11:9981/playlist < forbidden
+
 SantosSingh|SantosSingh94eEt / connor|str94eEt / lewis|LewGay1 / Santos|SantosSantalini / Matthew|Lawyer123 
 
 #EXTINF:-1 group-title="82.45", 01:
@@ -3164,6 +3170,8 @@ http://connor:str94eEt@82.45.49.11:9981/stream/mux/93044eee371fa1f45d1f1fb9c4a0e
 #EXTINF:-1 group-title="82.45", Sky Cinema Premiere HD
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/c353e4bca16dcf7a6a74a784dff72ce2
 
++ + + + + 
+
 #EXTINF:-1 group-title="82.45", 01:
 http://connor:str94eEt@82.45.49.11:9981/stream/service/fc6c80ea82555b42d0ab451d4799ac51
 #EXTINF:-1, Service01
@@ -3384,7 +3392,9 @@ http://connor:str94eEt@82.45.49.11:9981/stream/service/b364f3ec4d0fcc7181d973579
 #EXTINF:-1 group-title="82.45", SuperSport WWE Channel
 http://connor:str94eEt@82.45.49.11:9981/stream/service/b4507daa512ebc25a0eb44131335c5da
 
-#EXTINF:-1, 01:
++ + + + + 
+
+#EXTINF:-1 group-title="82.45", 01:
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/a8fd5762d5dd8f88d96ac82bb6875d61
 #EXTINF:-1, 02:
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/2a53a5061d18fc772e923338c44e91d5
@@ -3475,7 +3485,7 @@ http://connor:str94eEt@82.45.49.11:9981/stream/channel/051f63c95eff10f3d14b9b256
 #EXTINF:-1 group-title="82.45", VIP Astro SuperSport 3
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/6ec84d7214ed3154b17e300d5b999259
 
-SantosSingh|SantosSingh94eEt / connor|str94eEt / lewis|LewGay1 / Santos|SantosSantalini / Matthew|Lawyer123 
++ + + + + SantosSingh|SantosSingh94eEt / connor|str94eEt / lewis|LewGay1 / Santos|SantosSantalini / Matthew|Lawyer123 
 
 #EXTINF:-1, group-title="82.45",01.  7PM ET (3500k 60fps)
 http://connor:str94eEt@82.45.49.11:9981/stream/channelid/975062207?profile=pass
@@ -3576,6 +3586,39 @@ http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1894030183?profile=pass
 #EXTINF:-1,20.
 http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1008725814?profile=pass
 
+#EXTINF:-1,AF ZA SuperSport Action
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1441455595?profile=pass
+#EXTINF:-1,AF ZA SuperSport Blitz
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/346435222?profile=pass
+#EXTINF:-1,AF ZA SuperSport Cricket (FHD)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1605864382?profile=pass
+#EXTINF:-1,AF ZA SuperSport Football
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/70487264?profile=pass
+#EXTINF:-1,AF ZA SuperSport Golf (FHD)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1050066847?profile=pass
+#EXTINF:-1,AF ZA SuperSport Grandstand (FHD)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/691729917?profile=pass
+#EXTINF:-1,AF ZA SuperSport La Liga (FHD)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/220078662?profile=pass
+#EXTINF:-1,AF ZA SuperSport Play 1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1588029981?profile=pass
+#EXTINF:-1,AF ZA SuperSport Play 2
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/537814311?profile=pass
+#EXTINF:-1,AF ZA SuperSport Play 5
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1986509854?profile=pass
+#EXTINF:-1,AF ZA SuperSport Premier League (FHD)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/419967597?profile=pass
+#EXTINF:-1,AF ZA SuperSport PSL (FHD)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/725619804?profile=pass
+#EXTINF:-1,AF ZA SuperSport Rugby (FHD)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/509857413?profile=pass
+#EXTINF:-1,AF ZA SuperSport Tennis (FHD)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1934753730?profile=pass
+#EXTINF:-1,AF ZA SuperSport Variety 1 (FHD)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/113842146?profile=pass
+#EXTINF:-1,AF ZA SuperSport Variety 2 (FHD)
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/360330245?profile=pass
+
 #EXTINF:-1,Bein Sport 1
 http://connor:str94eEt@82.45.49.11:9981/stream/channelid/282964178?profile=pass
 #EXTINF:-1,Bein Sport 1 English
@@ -3635,6 +3678,38 @@ http://connor:str94eEt@82.45.49.11:9981/stream/channelid/756566103?profile=pass
 http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1984407065?profile=pass
 #EXTINF:-1,DAZN 5 HD
 http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2128236757?profile=pass
+
+#EXTINF:-1,EPL: DAZN 1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1354269045?profile=pass
+#EXTINF:-1,EPL: DAZN 2
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1811625626?profile=pass
+#EXTINF:-1,EPL: DAZN 3
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1183586424?profile=pass
+#EXTINF:-1,EPL: DAZN 4
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1086154203?profile=pass
+#EXTINF:-1,EPL: DAZN 5
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1454108381?profile=pass
+#EXTINF:-1,EPL: DAZN 6
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1365766302?profile=pass
+#EXTINF:-1,EPL: DAZN 7
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1705122972?profile=pass
+#EXTINF:-1,EPL: DAZN 8
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/669838576?profile=pass
+#EXTINF:-1,EPL: DAZN 9
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/568037113?profile=pass
+#EXTINF:-1,EPL: DAZN 10
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1595992346?profile=pass
+
+#EXTINF:-1,EPL: NOW SPORTS 1
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1012263265?profile=pass
+#EXTINF:-1,EPL: NOW SPORTS 2
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1559029737?profile=pass
+#EXTINF:-1,EPL: NOW SPORTS 3
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/407574363?profile=pass
+#EXTINF:-1,EPL: NOW SPORTS 4
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/359690288?profile=pass
+#EXTINF:-1,EPL: NOW SPORTS 5
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/465975912?profile=pass
 
 #EXTINF:-1,EPL: NOW SPORTS 1
 http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2108261613?profile=pass
@@ -3732,6 +3807,19 @@ http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1422921425?profile=pass
 http://connor:str94eEt@82.45.49.11:9981/stream/channelid/138971671?profile=pass
 #EXTINF:-1,Sky Sports Racing
 http://connor:str94eEt@82.45.49.11:9981/stream/channelid/90396058?profile=pass
+
+#EXTINF:-1,Sky Store 1 - 
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1416118284?profile=pass
+#EXTINF:-1,Sky Store 2 - 
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/370092241?profile=pass
+#EXTINF:-1,Sky Store 3 - 
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1447449757?profile=pass
+#EXTINF:-1,Sky Store 4 - 
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1254873590?profile=pass
+#EXTINF:-1,Sky Store 5 - 
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1213470065?profile=pass
+#EXTINF:-1,Sky Store 6 - 
+http://connor:str94eEt@82.45.49.11:9981/stream/channelid/672469244?profile=pass
 
 #EXTINF:-1,SuperSport Action (FHD)
 http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1682888504?profile=pass
