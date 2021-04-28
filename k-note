@@ -3384,6 +3384,38 @@ http://connor:str94eEt@82.45.49.11:9981/stream/service/b364f3ec4d0fcc7181d973579
 #EXTINF:-1 group-title="82.45", SuperSport WWE Channel
 http://connor:str94eEt@82.45.49.11:9981/stream/service/b4507daa512ebc25a0eb44131335c5da
 
+#EXTINF:-1, 06:
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/742df846b939632bf2fc64189868b575
+#EXTINF:-1, 03:
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/5a15f41dfeb562b3829e36c86e28bacd
+#EXTINF:-1, 11:  20:00
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/3397aa5b26b0dd55c0063e4b72bff02d
+#EXTINF:-1, 05:
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/9778e61677381f41dd5987d09f6fcc28
+#EXTINF:-1, 07:  13:30
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/9857177d5243ff74d48428c00e056c5f
+#EXTINF:-1, 08:  13:30
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/57e07190a018dec29a65922b6a06f567
+#EXTINF:-1, 01:
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/a8fd5762d5dd8f88d96ac82bb6875d61
+#EXTINF:-1, 14:
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/003672b70e47506c32cce2a3802e56c8
+#EXTINF:-1, 15.
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/1988d3b76ca262d35ee51c2405856a23
+#EXTINF:-1, 02:
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/2a53a5061d18fc772e923338c44e91d5
+#EXTINF:-1, 13:
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/6b09f5044444036f09604af8e7cd60b9
+#EXTINF:-1, 12:  20:00
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/3cca2f844ae25eb891f704cba15605bd
+#EXTINF:-1, 04:
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/2eff8e3302b148d28d8dbd971623c296
+#EXTINF:-1, 10:  16:00
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/04dbc5cae3748f640bb794fde415eb74
+#EXTINF:-1, 09  16:00
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/c1ea47a41c8de61a1be14554296ceae0
+#EXTINF:-1, 16:
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/fdf31322a770dea73a3bf1c4e829c9f5
 #EXTINF:-1, Bein Sport 1 English
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/eab6878696306c0a7eb719b6ba66957b
 #EXTINF:-1, Bein Sport 2 English
@@ -3434,44 +3466,13 @@ http://connor:str94eEt@82.45.49.11:9981/stream/channel/572d7aef0fc320af200b94d94
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/ed84a9fd0e11637f3a92dd47b1e08f13
 #EXTINF:-1, EPL: NOW SPORTS 2
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/57816c50d8c83072e6b6865c4afcd68d
-#EXTINF:-1, 06:
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/742df846b939632bf2fc64189868b575
-#EXTINF:-1, 03:
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/5a15f41dfeb562b3829e36c86e28bacd
-#EXTINF:-1, 11: Leeds vs Liverpool 20:00
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/3397aa5b26b0dd55c0063e4b72bff02d
-#EXTINF:-1, 05:
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/9778e61677381f41dd5987d09f6fcc28
-#EXTINF:-1, 07: Arsenal vs Fulham 13:30
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/9857177d5243ff74d48428c00e056c5f
-#EXTINF:-1, VIP Astro SuperSport 3
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/6ec84d7214ed3154b17e300d5b999259
-#EXTINF:-1, 08:  13:30
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/57e07190a018dec29a65922b6a06f567
-#EXTINF:-1, 01:
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/a8fd5762d5dd8f88d96ac82bb6875d61
-#EXTINF:-1, 14:
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/003672b70e47506c32cce2a3802e56c8
-#EXTINF:-1, 15.
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/1988d3b76ca262d35ee51c2405856a23
-#EXTINF:-1, 02:
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/2a53a5061d18fc772e923338c44e91d5
-#EXTINF:-1, 13:
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/6b09f5044444036f09604af8e7cd60b9
+
 #EXTINF:-1, VIP Astro SuperSport 1
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/bef08c8415512a06ae71eeb3e00913d0
-#EXTINF:-1, 12:  20:00
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/3cca2f844ae25eb891f704cba15605bd
-#EXTINF:-1, 04:
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/2eff8e3302b148d28d8dbd971623c296
 #EXTINF:-1, VIP Astro SuperSport 2
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/051f63c95eff10f3d14b9b2560c9e011
-#EXTINF:-1, 10:  16:00
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/04dbc5cae3748f640bb794fde415eb74
-#EXTINF:-1, 09  16:00
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/c1ea47a41c8de61a1be14554296ceae0
-#EXTINF:-1 group-title="82.45", 16:
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/fdf31322a770dea73a3bf1c4e829c9f5
+#EXTINF:-1 group-title="82.45", VIP Astro SuperSport 3
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/6ec84d7214ed3154b17e300d5b999259
 
 SantosSingh|SantosSingh94eEt / connor|str94eEt / lewis|LewGay1 / Santos|SantosSantalini / Matthew|Lawyer123 
 
