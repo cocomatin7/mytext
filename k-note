@@ -1246,6 +1246,27 @@ http://159.69.56.148:25461/M3UMix247/89ph5uifoi/7
 #EXTINF:-1,PuroRock24-7
 http://159.69.56.148:25461/M3UMix247/89ph5uifoi/25
 
+http://159.69.56.148:25461/get.php?username=Mix247Web&password=5g5gfd5sy5sd&type=m3u
+Real Url: 159.69.56.148:25461     Status: Active    Created: 9/3/2021 4:39:08 PM     Expires: Null    Active Connections: 75     Maximum Connections: 0
+
+#EXTINF:-1,Mix 24-7
+http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/1.m3u8
+#EXTINF:-1,Mix 24-7 Top 100
+http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/2.m3u8
+#EXTINF:-1,Mix 24-7 Tropical
+http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/3.m3u8
+#EXTINF:-1,Mix 24-7 Retro
+http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/4.m3u8
+#EXTINF:-1,Mix 24-7 Pop
+http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/5.m3u8
+#EXTINF:-1,Mix 24-7 Vintage
+http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/6.m3u8
+#EXTINF:-1,ConciertosLive
+http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/7.m3u8
+#EXTINF:-1,PuroRock24-7
+http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/25.m3u8
+
+
 #EXTINF:-1 group-title="BamarTV", 80s Party |loop 
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
 
@@ -2063,6 +2084,10 @@ http://104.218.60.68:83/a0w10NwSwz/35222020350823475658352020/4
 https://usb.bozztv.com/ssh101/cnnus/cnnus/playlist.m3u8
 #EXTINF:-1 group-title="GB",CNN
 https://df7lqp0btxdx2.cloudfront.net/11227.m3u8
+#EXTINF:-1,cnn int
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,cnn int.
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
 #EXTINF:-1,CNN News Source
 https://cnnnewsource-i.akamaihd.net/hls/live/258562/CNNNewsource2/master.m3u8
 #EXTINF:-1,CNN News Source'
@@ -9904,16 +9929,49 @@ http://y5w8j4a9.ssl.hwcdn.net:80/cinemauk/index.m3u8
 http://y5w8j4a9.ssl.hwcdn.net:80/cinemausa/index.m3u8
 http://y5w8j4a9.ssl.hwcdn.net:80/classic/index.m3u8
 http://y5w8j4a9.ssl.hwcdn.net:80/magic/index.m3u8
-#EXTINF:-1,ZEE Mundo
+#EXTINF:-1 group-title="IN/y5",ZEE Mundo
 http://y5w8j4a9.ssl.hwcdn.net:80/mundohd/index.m3u8
 http://y5w8j4a9.ssl.hwcdn.net:80/russia/index.m3u8
 http://y5w8j4a9.ssl.hwcdn.net:80/wion/index.m3u8
 http://y5w8j4a9.ssl.hwcdn.net:80/zcinemahd/index.m3u8
-#EXTINF:-1 group-title="IN/y5",ZEE Cafe
 http://y5w8j4a9.ssl.hwcdn.net:80/zeecafehd/index.m3u8
 http://y5w8j4a9.ssl.hwcdn.net:80/zing/index.m3u8
 http://y5w8j4a9.ssl.hwcdn.net:80/zlivingusa_r_prod/index.m3u8
 http://y5w8j4a9.ssl.hwcdn.net:80/ztvhdusa/index.m3u8
+
+http://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/bigganga/tracks-v1a1/playlist.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/playlist.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/magic/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/russia/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/wion/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/bigganga/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/magic/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/mundohd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/russia/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/wion/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zeecafehd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/index.m3u8
 
 + + + + + http://z5amshls.akamaized.net + + + + +
 
@@ -10327,6 +10385,21 @@ http://103.135.208.14/get.php?username=ibox&password=bd&type=m3u < N
 + + + + + 104.218.61.161:83 + + + + +
 
 http://104.218.61.161:83/get.php?username=directline76598&password=35222AM0203424421468352020&type=m3u
+
++ + + + + 173.198.198.102:25461 + + + + +
+
+http://173.198.198.102:25461/get.php?username=shahidandroid&password=FeyxFIpoYz&type=m3u Expires: Null    Active Connections: 9     Maximum Connections: 4000     Formats: "ts"
+
+#EXTINF:-1 group-title="173.198",Bein pre 1 fire
+http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/1
+#EXTINF:-1,Bein 2 pre fire 
+http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/2
+#EXTINF:-1,Bein1
+http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/3
+#EXTINF:-1,Bein3
+http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/5
+#EXTINF:-1 group-title="173.198",Hbv
+http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/6
 
 + + + + + 176.98.26.37:8000 + + + + +
 
@@ -11618,7 +11691,7 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/91111
 + + + + + rico.besttvps.com:8080 + + + + +
 
 https://rico.besttvps.com:443/get.php?username=Ricotvv&password=Ricotvv&type=m3u
-Real Url: rico.besttvps.com:8080     Status: Active    Created: 5/4/2021 10:02:35 PM     Expires: Null    Active Connections: 66     Maximum Connections: 30000
+Real Url: rico.besttvps.com:8080     Status: Active    Created: 5/4/2021 10:02:35 PM     Expires: Null    Active Connections: 67     Maximum Connections: 30000
 
 #EXTINF:-1 group-title="rico",BEIN SPORT 1 HD PREMIUM
 https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3350.m3u8
