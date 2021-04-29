@@ -2960,7 +2960,7 @@ http://Matthew:Lawyer123@82.45.49.11:9981/playlist < forbidden
 
 SantosSingh|SantosSingh94eEt / connor|str94eEt / lewis|LewGay1 / Santos|SantosSantalini / Matthew|Lawyer123 
 
-#EXTINF:-1 group-title="82.45", 01:
+#EXTINF:-1 group-title="*82.45*", 01:
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/4f334f1d21370b6606a617fe051f3b58
 #EXTINF:-1, 01:  17:00
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/42d176589c811e3cc87498ce64b30958
@@ -3192,12 +3192,12 @@ http://connor:str94eEt@82.45.49.11:9981/stream/mux/b6d96aabcac24bae2cd1df4791429
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/567d1e59259c945ac195efc65ce31536
 #EXTINF:-1, Sky Cinema Hits HD
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/93044eee371fa1f45d1f1fb9c4a0ef90
-#EXTINF:-1 group-title="82.45", Sky Cinema Premiere HD
+#EXTINF:-1 group-title="*82.45*", Sky Cinema Premiere HD
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/c353e4bca16dcf7a6a74a784dff72ce2
 
 + + + + + 
 
-#EXTINF:-1 group-title="82.45", 01:
+#EXTINF:-1 group-title="*82.45*", 01:
 http://connor:str94eEt@82.45.49.11:9981/stream/service/fc6c80ea82555b42d0ab451d4799ac51
 #EXTINF:-1, Service01
 http://connor:str94eEt@82.45.49.11:9981/stream/service/9605da392808d74604c3320ff6d7914d
@@ -3414,12 +3414,12 @@ http://connor:str94eEt@82.45.49.11:9981/stream/service/7b10827b39805a0e767cecdd2
 http://connor:str94eEt@82.45.49.11:9981/stream/service/ed54a68d13a2314b34be5b6c5c6419c3
 #EXTINF:-1, SuperSport Variety 4 (FHD)
 http://connor:str94eEt@82.45.49.11:9981/stream/service/b364f3ec4d0fcc7181d973579efbbca1
-#EXTINF:-1 group-title="82.45", SuperSport WWE Channel
+#EXTINF:-1 group-title="*82.45*", SuperSport WWE Channel
 http://connor:str94eEt@82.45.49.11:9981/stream/service/b4507daa512ebc25a0eb44131335c5da
 
 + + + + + 
 
-#EXTINF:-1 group-title="82.45", 01:
+#EXTINF:-1 group-title="*82.45*", 01:
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/a8fd5762d5dd8f88d96ac82bb6875d61
 #EXTINF:-1, 02:
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/2a53a5061d18fc772e923338c44e91d5
@@ -3507,12 +3507,12 @@ http://connor:str94eEt@82.45.49.11:9981/stream/channel/57816c50d8c83072e6b6865c4
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/bef08c8415512a06ae71eeb3e00913d0
 #EXTINF:-1, VIP Astro SuperSport 2
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/051f63c95eff10f3d14b9b2560c9e011
-#EXTINF:-1 group-title="82.45", VIP Astro SuperSport 3
+#EXTINF:-1 group-title="*82.45*", VIP Astro SuperSport 3
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/6ec84d7214ed3154b17e300d5b999259
 
 + + + + + SantosSingh|SantosSingh94eEt / connor|str94eEt / lewis|LewGay1 / Santos|SantosSantalini / Matthew|Lawyer123 
 
-#EXTINF:-1, group-title="82.45",01.  7PM ET (3500k 60fps)
+#EXTINF:-1, group-title="*82.45*",01.  7PM ET (3500k 60fps)
 http://connor:str94eEt@82.45.49.11:9981/stream/channelid/975062207?profile=pass
 #EXTINF:-1,01:
 http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1649933736?profile=pass
@@ -3950,7 +3950,7 @@ http://connor:str94eEt@82.45.49.11:9981/stream/channelid/66995018?profile=pass
 http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1719465567?profile=pass
 #EXTINF:-1,VIP UK: BT Sport 2 FHD
 http://connor:str94eEt@82.45.49.11:9981/stream/channelid/950969635?profile=pass
-#EXTINF:-1 group-title="82.45",VIP UK: BT Sport 3 FHD
+#EXTINF:-1 group-title="*82.45*",VIP UK: BT Sport 3 FHD
 http://connor:str94eEt@82.45.49.11:9981/stream/channelid/586227666?profile=pass
 
 + + + + http://86.28.196.144:9981/extjs.html + + + + 
