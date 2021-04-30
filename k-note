@@ -821,25 +821,25 @@ http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
 http://31.220.41.87:8081/live/it-dazn2.stream/chunks.m3u8
 #EXTINF:-1,beIN LaLiga
 http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
-#EXTINF:-1,beIN 1
+#EXTINF:-1,beIN 1SD
 http://31.220.41.87:8081/live/bein1.stream/playlist.m3u8
-#EXTINF:-1,beIN 2
+#EXTINF:-1,beIN 2SD
 http://31.220.41.87:8081/live/bein2.stream/playlist.m3u8
-#EXTINF:-1,beIN 3
+#EXTINF:-1,beIN 3SD
 http://31.220.41.87:8081/live/bein3.stream/playlist.m3u8
-#EXTINF:-1,beIN 4
+#EXTINF:-1,beIN 4SD
 http://31.220.41.87:8081/live/bein4.stream/playlist.m3u8
-#EXTINF:-1,beIN 5
+#EXTINF:-1,beIN 5SD
 http://31.220.41.87:8081/live/bein5.stream/playlist.m3u8
-#EXTINF:-1,beIN 6
+#EXTINF:-1,beIN 6SD
 http://31.220.41.87:8081/live/bein6.stream/playlist.m3u8
-#EXTINF:-1,beIN 7
+#EXTINF:-1,beIN 7SD
 http://31.220.41.87:8081/live/bein7.stream/playlist.m3u8
-#EXTINF:-1,beIN 8
+#EXTINF:-1,beIN 8SD
 http://31.220.41.87:8081/live/bein8.stream/playlist.m3u8
-#EXTINF:-1,beIN 9
+#EXTINF:-1,beIN 9SD
 http://31.220.41.87:8081/live/bein9.stream/playlist.m3u8
-#EXTINF:-1,beIN 10
+#EXTINF:-1,beIN 10SD
 http://31.220.41.87:8081/live/bein10.stream/playlist.m3u8
 
 
@@ -1096,24 +1096,24 @@ http://77.247.109.116/hls/sportek4.m3u8
 ,sportek5
 http://77.247.109.116/hls/sportek5.m3u8
 
-#EXTINF:-1,beIN 1
+#EXTINF:-1,beIN 1 |offline
 http://v1.oldboz44.com/beinsport1/index.m3u8
-#EXTINF:-1,beIN 2
+#EXTINF:-1,beIN 2 |offline
 http://v1.oldboz44.com/beinsport2/index.m3u8
-#EXTINF:-1,beIN 3
+#EXTINF:-1,beIN 3 |offline
 http://v1.oldboz44.com/beinsport3/index.m3u8
-#EXTINF:-1,beIN 4
+#EXTINF:-1,beIN 4 |offline
 http://v1.oldboz44.com/beinsport4/index.m3u8
 http://v1.oldboz44.com/beinsport5/index.m3u8
 http://v1.oldboz44.com/beinsport6/index.m3u8
 http://v1.oldboz44.com/beinsport7/index.m3u8
 http://v1.oldboz44.com/beinsport8/index.m3u8
 http://v1.oldboz44.com/beinsport9/index.m3u8
-#EXTINF:-1,beIN 10
+#EXTINF:-1,beIN 10 |offline
 http://v1.oldboz44.com/beinsport10/index.m3u8
-#EXTINF:-1,beIN 11
+#EXTINF:-1,beIN 11 |offline
 http://v1.oldboz44.com/beinsport11/index.m3u8
-#EXTINF:-1,beIN 12
+#EXTINF:-1,beIN 12 |offline
 http://v1.oldboz44.com/beinsport12/index.m3u8
 
 
@@ -8504,7 +8504,7 @@ https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 2", BEIN SPORT HD 2 |doomovie'
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
-https://www.www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 
 https://www.livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
