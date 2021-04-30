@@ -3168,185 +3168,64 @@ http://connor:str94eEt@82.45.49.11:9981/stream/mux/b8d24699c16142e29b988cdbf055a
 
 + + + + + 
 
-#EXTINF:-1 group-title="*82.45*", AF ZA ESPN2 HD'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/ed4ddb20788f66bf74a4020db658be8d
+#EXTINF:-1, AF ZA SuperSport Action'
+http://82.45.49.11:9981/play/ticket/stream/service/4cbeb49f266de768d395d9ac989bb403?title=Service01%20%2F%20FFmpeg
 #EXTINF:-1, AF ZA SuperSport Blitz'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/836b74e2e406de81b7a55161bffd3745
+http://82.45.49.11:9981/play/ticket/stream/service/836b74e2e406de81b7a55161bffd3745?title=Service01%20%2F%20FFmpeg
 #EXTINF:-1, AF ZA SuperSport Cricket (FHD)'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/6e3ba0b251dedc9fd8d6406cffe70179
+http://82.45.49.11:9981/play/ticket/stream/service/6e3ba0b251dedc9fd8d6406cffe70179?title=Service01%20%2F%20FFmpeg
 #EXTINF:-1, AF ZA SuperSport Football'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/171a46d72218c7e2e5ac3264202317c1
-#EXTINF:-1, AF ZA SuperSport Football Plus (FHD)'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/48892baae6607e64fa7b1a400e05b3e4
+http://82.45.49.11:9981/play/ticket/stream/service/171a46d72218c7e2e5ac3264202317c1?title=Service01%20%2F%20FFmpeg
+#EXTINF:-1, AF ZA SuperSport Football Plus (FHD)
+http://connor:str94eEt@82.45.49.11:9981/stream/mux/cc73b9ce101811f47003f85b2af887c8
 #EXTINF:-1, AF ZA SuperSport Golf (FHD)'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/9cd01ba3de08d6cd1bdf5af46b7b7461
+http://82.45.49.11:9981/play/ticket/stream/service/03d6abae5d86bab94824b59d0b8068fd?title=Service01%20%2F%20FFmpeg
+#EXTINF:-1, AF ZA SuperSport Grandstand (FHD)'
+http://82.45.49.11:9981/play/ticket/stream/service/9cd01ba3de08d6cd1bdf5af46b7b7461?title=Service01%20%2F%20FFmpeg
 #EXTINF:-1, AF ZA SuperSport La Liga (FHD)'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/f0a27543878176360989a065171f62f9
-#EXTINF:-1, AF ZA SuperSport MaXimo 1'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/f1b54722fea2dc9f157ddb1ef704f672
+http://82.45.49.11:9981/play/ticket/stream/service/f0a27543878176360989a065171f62f9?title=Service01%20%2F%20FFmpeg
+#EXTINF:-1, AF ZA SuperSport MaXimo 1
+http://connor:str94eEt@82.45.49.11:9981/stream/mux/4e42af75af388327cf65f0b6d8659cef
 #EXTINF:-1, AF ZA SuperSport PSL (FHD)'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/e887574113b7af343a01dc35134c1615
+http://82.45.49.11:9981/play/ticket/stream/service/e887574113b7af343a01dc35134c1615?title=Service01%20%2F%20FFmpeg
 #EXTINF:-1, AF ZA SuperSport Play 1'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/33c007fdb314bc042a78b9929b9adfcb
+http://82.45.49.11:9981/play/ticket/stream/service/33c007fdb314bc042a78b9929b9adfcb?title=Service01%20%2F%20FFmpeg
+#EXTINF:-1, AF ZA SuperSport Play 2'
+http://82.45.49.11:9981/play/ticket/stream/service/ece750cb68e1dbe360b188c2c9fa6eea?title=Service01%20%2F%20FFmpeg
 #EXTINF:-1, AF ZA SuperSport Play 5'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/17dda310cda4895312fd2f19d7f2daea
+http://82.45.49.11:9981/play/ticket/stream/service/17dda310cda4895312fd2f19d7f2daea?title=AF%20ZA%20SuperSport%20Play%205
+#EXTINF:-1, AF ZA SuperSport Premier League (FHD)'
+http://82.45.49.11:9981/play/ticket/stream/service/98f974a803ebf0797465e6a8abb16e70?title=Service01%20%2F%20FFmpeg
 #EXTINF:-1, AF ZA SuperSport Rugby (FHD)'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/a9b6418061fd0ffa07cb788c87fb1593
+http://82.45.49.11:9981/play/ticket/stream/service/a9b6418061fd0ffa07cb788c87fb1593?title=AF%20ZA%20SuperSport%20Rugby%20(FHD)
 #EXTINF:-1, AF ZA SuperSport Tennis (FHD)'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/7191ea5c141ac58ef4f9d887b0be3d3f
+http://82.45.49.11:9981/play/ticket/stream/service/7191ea5c141ac58ef4f9d887b0be3d3f?title=AF%20ZA%20SuperSport%20Tennis%20(FHD)
 #EXTINF:-1, AF ZA SuperSport Variety 1 (FHD)'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/3d4a4e9e0d9a5b093e2688154dc99bf4
-#EXTINF:-1, AF ZA SuperSport Variety 3 (FHD)'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/468f0d9ec425717c857bb16bb3cc611e
-#EXTINF:-1, AF ZW SuperSport Motorsport (HD)'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/8ddb336b430fb937c486c6efbfa559a8
-#EXTINF:-1, AF ZA SuperSport Variety 4 (FHD)'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/68b690eacee1322adeb709621dd18fdb
-#EXTINF:-1, Bein Sport 3 French'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/f161a7e32c076b9c3ed4f1291ddd663d
-#EXTINF:-1, Bein Sport 3 4K'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/7bf7cfc1b87dead7b3f68f9e3cac9d37
-#EXTINF:-1, Bein Sport 3 English'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/ba47e13053c516c7f94f12520f7ae530
-#EXTINF:-1, EPL: DAZN 1'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/010776f5b8863577897668de74ce2a35
-#EXTINF:-1, EPL: DAZN 2'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/9a5d9e3bd1477d31189f99f95ed4c07e
-#EXTINF:-1, EPL: DAZN 3'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/752ea0ebbc67ff579b5491909c11552a
-#EXTINF:-1, EPL: DAZN 4'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/3eb8c78c1ab0c9fb44be60c94cbe4fa9
-#EXTINF:-1, EPL: DAZN 5'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/0f4f487cdf8ea552656653853b9325ab
-#EXTINF:-1, EPL: OPTUS GOAL RUSH'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/090a4be57879f74f67ceb464c362f412
-#EXTINF:-1, EPL: NOW SPORTS 2'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/743668cc328ed86a205fd6099bedb530
-#EXTINF:-1, EPL: NOW SPORTS 3'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/1dfbde9cf2ec38b24da97d131a90b660
-#EXTINF:-1, EPL: NOW SPORTS 4'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/242da332f2ca67d8026f2afd5151f02a
-#EXTINF:-1, EPL: NOW SPORTS 5'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/36ddc77aa7ff8ab9a39055f4888b35bf
-#EXTINF:-1, EPL: Optus Sport 5'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/41faa5071ae01f77ba857adb153e5976
-#EXTINF:-1, Now Sports 3'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/df738f4f73ca3cde7d7fb73018fbd502
-#EXTINF:-1, Now Sports 4'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/3c9b147c71e4c6b6a2356bbb6dd91043
-#EXTINF:-1, Now Sports 5'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/894d3d71a3d0d05bad745724a29987d7
+http://82.45.49.11:9981/play/ticket/stream/service/3d4a4e9e0d9a5b093e2688154dc99bf4?title=AF%20ZA%20SuperSport%20Variety%201%20(FHD)
+#EXTINF:-1, AF ZA SuperSport Variety 2 (FHD)'
+http://82.45.49.11:9981/play/ticket/stream/service/c5e3e57d06d1b10f6f32aa52547bb5db?title=Service01%20%2F%20FFmpeg
+#EXTINF:-1, AF ZA SuperSport Variety 3 (FHD)
+http://connor:str94eEt@82.45.49.11:9981/stream/mux/6e9c2e566056a73bd2dd51f8ebdc4c0d
+#EXTINF:-1, AF ZW SuperSport Motorsport (HD)
+http://connor:str94eEt@82.45.49.11:9981/stream/mux/e3e77f2485b54b65509e17a8f217b622
+#EXTINF:-1, AF ZW SuperSport Variety 4 (HD)
+http://connor:str94eEt@82.45.49.11:9981/stream/mux/8145195103cf1cdde0ae363656efeb0f
 
-#EXTINF:-1 group-title="*82.45*", BR Event 2: MUTV
-http://connor:str94eEt@82.45.49.11:9981/stream/service/bd7fcf7b4b1775567af6036f8af4f577
+#EXTINF:-1, BT Sport 1 50FPS
+http://82.45.49.11:9981/play/ticket/stream/service/b68f79efcc908e42b5405414032dc92e?title=Service01%20%2F%20FFmpeg
+#EXTINF:-1, BT Sport 1 HD
+http://82.45.49.11:9981/play/ticket/stream/service/0215761a84710b88ac0170971f25b211?title=Service01%20%2F%20FFmpeg
+#EXTINF:-1, BT Sport 2 50FPS
+http://82.45.49.11:9981/play/ticket/stream/service/c37306eafa982a5b16c4fabffe45b12b?title=Service01%20%2F%20FFmpeg
 #EXTINF:-1, BT Sport 2 HD
-http://connor:str94eEt@82.45.49.11:9981/stream/service/16c78bc5721dcdfc8c9aa5e8702ae5e7
-#EXTINF:-1, Bein Sport 4
-http://connor:str94eEt@82.45.49.11:9981/stream/service/e4bcb95f531e116011a9ccf435b1d471
-#EXTINF:-1, Bein Sport 5
-http://connor:str94eEt@82.45.49.11:9981/stream/service/21403d53053fa5467f62b7c6f333fadc
-#EXTINF:-1, Bein Sport 7
-http://connor:str94eEt@82.45.49.11:9981/stream/service/779fb3dd8de1231fb39a36fefe55157b
-http://connor:str94eEt@82.45.49.11:9981/stream/service/e92f492c3751d28288e01f5bef588e0a
-http://connor:str94eEt@82.45.49.11:9981/stream/service/29cec357720b6341d1c7a275f47e5f7e
-http://connor:str94eEt@82.45.49.11:9981/stream/service/6441ed5d9d1198b010f5ab90d5cd707e
-#EXTINF:-1, BT SPORT 3HD
-http://connor:str94eEt@82.45.49.11:9981/stream/service/297675a23e41d41d6c535cdffed5a845
-#EXTINF:-1, SS Football
-http://connor:str94eEt@82.45.49.11:9981/stream/service/5e24e00c3b3d3c7b6ec23ed4c0fa229c
-#EXTINF:-1, BT SPORT 1HD
-http://connor:str94eEt@82.45.49.11:9981/stream/service/7b9c85e44075d52b3b575874fa8d6d61
-#EXTINF:-1, BT SPORT 3HD'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/faf403d01f7f54c26bbd0ab98e779000
-http://connor:str94eEt@82.45.49.11:9981/stream/service/b859e5d07e2f02c482642f25d4f3bf1d
-#EXTINF:-1, sky cinema 
-http://connor:str94eEt@82.45.49.11:9981/stream/service/7cf39c6ee8d4c87f1fca1e561421612f
-#EXTINF:-1, BT SPORT 1HD'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/b68f79efcc908e42b5405414032dc92e
-#EXTINF:-1, beIN 4K
-http://connor:str94eEt@82.45.49.11:9981/stream/service/8a10404e6effaf6611f33177118b7389
-#EXTINF:-1, BT SPORT 2HD
-http://connor:str94eEt@82.45.49.11:9981/stream/service/c37306eafa982a5b16c4fabffe45b12b
-#EXTINF:-1, SS Premier League
-http://connor:str94eEt@82.45.49.11:9981/stream/service/2893ce1914979e9a21a49f162fe9753f
-http://connor:str94eEt@82.45.49.11:9981/stream/service/15370e24511d0aa18711071b303c7355
-#EXTINF:-1, beIN SPORTS 1 4k
-http://connor:str94eEt@82.45.49.11:9981/stream/service/c48f13c4fead24b6189aeea8d0fec921
-#EXTINF:-1, sky sports football '
-http://connor:str94eEt@82.45.49.11:9981/stream/service/90b5fdbbf3c07cbef752d31f3a8f151c
-#EXTINF:-1, SS Action
-http://connor:str94eEt@82.45.49.11:9981/stream/service/99e20563f1635968215105ea95e92ba9
-#EXTINF:-1, sky cinema
-http://connor:str94eEt@82.45.49.11:9981/stream/service/3d197bddec3de3b730d17c5b5a075c1e
-#EXTINF:-1, S Variety
-http://connor:str94eEt@82.45.49.11:9981/stream/service/a6ab83a8a3119e0736e738fe06353869
-http://connor:str94eEt@82.45.49.11:9981/stream/service/0215761a84710b88ac0170971f25b211
-#EXTINF:-1, sky sport mainevent
-http://connor:str94eEt@82.45.49.11:9981/stream/service/97873bac5cd871d634999fdb6f347855
-http://connor:str94eEt@82.45.49.11:9981/stream/service/8d77df56ef773f988aa6e6a38c2e3849
-#EXTINF:-1, astro SUPERSPORT 3
-http://connor:str94eEt@82.45.49.11:9981/stream/service/0db478fa57a48b87c460bcc39b65b032
-http://connor:str94eEt@82.45.49.11:9981/stream/service/dc14c7c648cac24baf97cdc8902cec40
-http://connor:str94eEt@82.45.49.11:9981/stream/service/fb767ab80552489b339dcfa13927fa4f
-#EXTINF:-1, NBCSN
-http://connor:str94eEt@82.45.49.11:9981/stream/service/faf48dad7345970f8b040178b4f31e55
+http://82.45.49.11:9981/play/ticket/stream/service/16c78bc5721dcdfc8c9aa5e8702ae5e7?title=Service01%20%2F%20FFmpeg
+#EXTINF:-1, BT Sport 3 50FPS
+http://82.45.49.11:9981/play/ticket/stream/service/dc14c7c648cac24baf97cdc8902cec40?title=Service01%20%2F%20FFmpeg
+#EXTINF:-1, BT Sport 3 HD
+http://82.45.49.11:9981/play/ticket/stream/service/faf403d01f7f54c26bbd0ab98e779000?title=Service01%20%2F%20FFmpeg
 
-#EXTINF:-1, Peacock Premier League
-http://connor:str94eEt@82.45.49.11:9981/stream/service/0a51b6a08e1c29af2a397736e46b4637
 
-http://connor:str94eEt@82.45.49.11:9981/stream/service/f63cab8fcfe9146dd6fca20c992b61f0
-http://connor:str94eEt@82.45.49.11:9981/stream/service/d632c150c99e84bda72f5d0f94489fb2
-#EXTINF:-1, astro supersports 1
-http://connor:str94eEt@82.45.49.11:9981/stream/service/d401c34f1240df2f1d93d791f4be378b
-http://connor:str94eEt@82.45.49.11:9981/stream/service/72d1fee3eb5f0a5f95dcb517ce0f50f6
-http://connor:str94eEt@82.45.49.11:9981/stream/service/f5ce6b1796fe99521e79d2158cb56a7f
-#EXTINF:-1, Optus 1
-http://connor:str94eEt@82.45.49.11:9981/stream/service/144e9bc68b8b895d177937bf1091d376
-#EXTINF:-1, Optus 2
-http://connor:str94eEt@82.45.49.11:9981/stream/service/136ad4a4518092cafe29c29663e77cb3
-#EXTINF:-1, beIN Sport 1EN
-http://connor:str94eEt@82.45.49.11:9981/stream/service/d4a7dfa6f8b93d011055a3c46309ec34
-#EXTINF:-1, beIN Sport 2EN
-http://connor:str94eEt@82.45.49.11:9981/stream/service/90dcc783efdf2b431964b762ce2e1978
-#EXTINF:-1, SS Variety 1
-http://connor:str94eEt@82.45.49.11:9981/stream/service/3c92a64b298981f4767db0986b8fb45a
-#EXTINF:-1, Sky S Premier League
-http://connor:str94eEt@82.45.49.11:9981/stream/service/a041c48e82bd1cecd101e00e7ed5bea5
-http://connor:str94eEt@82.45.49.11:9981/stream/service/b70f7418558c5b9fb9c8da62a140bc76
-http://connor:str94eEt@82.45.49.11:9981/stream/service/bc027e052e8e40a6d88a28429cc0582d
-http://connor:str94eEt@82.45.49.11:9981/stream/service/cf51569b3b5ac8ee8641e2f4cd9c8d89
-#EXTINF:-1, SuperSport ESPN
-http://connor:str94eEt@82.45.49.11:9981/stream/service/ee7615a4fc823fafcbadfce94be33f8b
-#EXTINF:-1, SuperSport ESPN 2
-http://connor:str94eEt@82.45.49.11:9981/stream/service/bd356148ddb7a34920a3cefa79741d54
-#EXTINF:-1, SuperSport Events
-http://connor:str94eEt@82.45.49.11:9981/stream/service/fd1db31c0713f0444bf433d6d29cdeb7
-#EXTINF:-1, SuperSport Football Plus (FHD)
-http://connor:str94eEt@82.45.49.11:9981/stream/service/68ba9aef6269fdb917c8d216db5d39b4
-#EXTINF:-1, SuperSport Golf (FHD)
-http://connor:str94eEt@82.45.49.11:9981/stream/service/229db0da664609ce63963cc5a7caec1b
-#EXTINF:-1, SuperSport Grandstand (FHD)
-http://connor:str94eEt@82.45.49.11:9981/stream/service/ef141632e7ab36598379e962f28f75be
-#EXTINF:-1, SuperSport La Liga (FHD)
-http://connor:str94eEt@82.45.49.11:9981/stream/service/36f7bda76a09927c112ab5513586c429
-#EXTINF:-1, SuperSport MaXimo 1 (SD)
-http://connor:str94eEt@82.45.49.11:9981/stream/service/0e39a078d40c04354e4b86339358dd68
-#EXTINF:-1, SuperSport Motorsport (FHD)
-http://connor:str94eEt@82.45.49.11:9981/stream/service/bf8b6e5c6cb17bf968990263ff164293
-#EXTINF:-1, SuperSport PSL (FHD)
-http://connor:str94eEt@82.45.49.11:9981/stream/service/dc13372bb892d7fb6de6f54e9c08e379
-#EXTINF:-1, SuperSport Rugby (FHD)
-http://connor:str94eEt@82.45.49.11:9981/stream/service/5a72ba61aea97125c12d3d4038f18093
-#EXTINF:-1, SuperSport TellyTrack
-http://connor:str94eEt@82.45.49.11:9981/stream/service/1b50f0263e5e47e47632c168915d1592
-#EXTINF:-1, SuperSport Variety 2
-http://connor:str94eEt@82.45.49.11:9981/stream/service/7b10827b39805a0e767cecdd22cd7acf
-#EXTINF:-1, SuperSport Variety 3 (FHD)
-http://connor:str94eEt@82.45.49.11:9981/stream/service/ed54a68d13a2314b34be5b6c5c6419c3
-#EXTINF:-1, SuperSport Variety 4 (FHD)
-http://connor:str94eEt@82.45.49.11:9981/stream/service/b364f3ec4d0fcc7181d973579efbbca1
-#EXTINF:-1 group-title="*82.45*", SuperSport WWE Channel
-http://connor:str94eEt@82.45.49.11:9981/stream/service/b4507daa512ebc25a0eb44131335c5da
+
 
 + + + + + +
 
