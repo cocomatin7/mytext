@@ -3341,16 +3341,26 @@ http://connor:str94eEt@82.45.49.11:9981/play/ticket/stream/service/297675a23e41d
 
 + + + + + +
 
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/ebddead5713cacec4c26722921317fd0#EXTINF:-1,AF ZA SuperSport Action
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/962ea694a06fcbcd2e3ff25fdb7b2082#EXTINF:-1,AF ZA SuperSport Blitz
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/be8bb75ff4819e569f756ebf3f017520#EXTINF:-1,AF ZA SuperSport Cricket (FHD)
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/e08c3384fb0fe6aa1f62466b24bc7ab9#EXTINF:-1,AF ZA SuperSport Football
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/9fbf963ed3540bffc1c49d30aa96cc2e#EXTINF:-1,AF ZA SuperSport Golf (FHD)
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/fdf53aa993ba2a1bbe8a84de459d6494#EXTINF:-1,AF ZA SuperSport Grandstand (FHD)
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/46221e0d196bb4486b0df5f127082120#EXTINF:-1,AF ZA SuperSport La Liga (FHD)
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/5c14402b83eef9eb15e3cb646f67fc42#EXTINF:-1,AF ZA SuperSport PSL (FHD)
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/1d6aa75eb58dda1f4b2d12d5009531f0#EXTINF:-1,AF ZA SuperSport Play 1
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/27650ea0ae0418201bd89e26aefe368e#EXTINF:-1,AF ZA SuperSport Play 2
+#EXTINF:-1 group-title="*82.45*",AF ZA SuperSport Action
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/ebddead5713cacec4c26722921317fd0
+#EXTINF:-1,AF ZA SuperSport Blitz
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/962ea694a06fcbcd2e3ff25fdb7b2082
+#EXTINF:-1,AF ZA SuperSport Cricket (FHD)
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/be8bb75ff4819e569f756ebf3f017520
+#EXTINF:-1,AF ZA SuperSport Football
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/e08c3384fb0fe6aa1f62466b24bc7ab9
+#EXTINF:-1,AF ZA SuperSport Golf (FHD)
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/9fbf963ed3540bffc1c49d30aa96cc2e
+#EXTINF:-1,AF ZA SuperSport Grandstand (FHD)
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/fdf53aa993ba2a1bbe8a84de459d6494
+#EXTINF:-1,AF ZA SuperSport La Liga (FHD)
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/46221e0d196bb4486b0df5f127082120
+#EXTINF:-1,AF ZA SuperSport PSL (FHD)
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/5c14402b83eef9eb15e3cb646f67fc42
+#EXTINF:-1,AF ZA SuperSport Play 1
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/1d6aa75eb58dda1f4b2d12d5009531f0
+#EXTINF:-1,AF ZA SuperSport Play 2
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/27650ea0ae0418201bd89e26aefe368e
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/1ebc67f6888d6761d4f9eaf1d73a726e#EXTINF:-1,AF ZA SuperSport Play 5
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/6d32081926d4486af40c8efdb92a2748#EXTINF:-1,AF ZA SuperSport Premier League (FHD)
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/85ce631e2aa0d55721b406de780dc02b#EXTINF:-1,AF ZA SuperSport Rugby (FHD)
