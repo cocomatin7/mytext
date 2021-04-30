@@ -10553,7 +10553,7 @@ Real Url: goiptv.co:8080     Status: Active    Created: 29/12/2020 8:26:19 PM   
 http://test.satlok.club/get.php?username=Amigo&password=do92Rd6x8yr3&type=m3u
 Real Url: ip.newboss.site:80     Status: Active    Created: 3/11/2019 5:58:44 PM     Expires: Null    Active Connections: 205     Maximum Connections: 200
 
-#EXTINF:-1,|PT| SPORT TV+
+#EXTINF:-1 group-title="ip.newboss",|PT| SPORT TV+
 http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/4495.m3u8
 #EXTINF:-1,|PT| SPORT TV 1
 http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/34070.m3u8
@@ -10586,6 +10586,38 @@ http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/9291.m3u8
 #EXTINF:-1,|PT| ELEVEN SPORT 6 HD
 http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/9292.m3u8
 
+#EXTINF:-1,|DSTV AFRICA|  SuperSport 1
+http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55828.m3u8
+#EXTINF:-1,|DSTV AFRICA|  SuperSport 2
+http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55829.m3u8
+#EXTINF:-1,|DSTV AFRICA| SuperSport 3
+http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55830.m3u8
+#EXTINF:-1,|DSTV AFRICA| SuperSport 4
+http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55831.m3u8
+#EXTINF:-1,|DSTV AFRICA| SuperSport 5
+http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55832.m3u8
+#EXTINF:-1,|DSTV AFRICA| SuperSport 6
+http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55833.m3u8
+#EXTINF:-1,|DSTV AFRICA| SuperSport 7
+http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55834.m3u8
+#EXTINF:-1,|DSTV AFRICA| SuperSport 8
+http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55835.m3u8
+#EXTINF:-1,|DSTV AFRICA| SuperSport 9
+http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55836.m3u8
+#EXTINF:-1,|DSTV AFRICA| SuperSport 10
+http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55837.m3u8
+#EXTINF:-1,|DSTV AFRICA| SuperSport 11
+http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55838.m3u8
+#EXTINF:-1,|DSTV AFRICA| SuperSport 12
+http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55839.m3u8
+#EXTINF:-1,|DSTV AFRICA| SUPERSPORT BLITZ
+http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55841.m3u8
+#EXTINF:-1,|DSTV AFRICA| SUPERSPORT MAXIMO
+http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55840.m3u8
+#EXTINF:-1,HINDI | STAR SPORTS SELECT 1 HD
+http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/27083.m3u8
+#EXTINF:-1 group-title="ip.newboss",HINDI | STAR SPORTS SELECT 2 HD
+http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/27084.m3u8
 
 + + + + + ip.tv4all.top:12345 + + + + +
 
@@ -11610,16 +11642,6 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15207
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15219
 #EXTINF:-1,PL: CANAL+ SPORT 3 HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15213
-#EXTINF:-1,PL: POLSAT SPORT HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15170
-#EXTINF:-1,PL: POLSAT SPORT EXTRA HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15169
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM 01 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/330386
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM 02 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15226
-#EXTINF:-1,PL: POLSAT SPORT PREMIUM 03 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15222
 
 #EXTINF:-1,RO: DIGI SPORTS 1
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/14910
