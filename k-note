@@ -2241,16 +2241,26 @@ http://4digital.ddns.net:9981/stream/mux/a75d109849e16ded2d2509a443b43624
 http://4digital.ddns.net:9981/stream/mux/e89f60fab7601dd45f08f7413d506471
 #EXTINF:-1, Fox Action Movies IDN
 http://4digital.ddns.net:9981/stream/mux/130c25bf5aadd322ea475ce251f56092
-#EXTINF:-1, Mola TV1
-http://4digital.ddns.net:9981/stream/mux/c6b7a0047dd9d747a3ba7c33172758c0
-#EXTINF:-1, Mola Tv2
-http://4digital.ddns.net:9981/stream/mux/263bfd4e48f8ec562c6668693be221da
+
+#EXTINF:-1, FoxSport1 ML
+http://4digital.ddns.net:9981/stream/mux/a6d5f6418611eb17ab0634864d86b85c
+#EXTINF:-1, Fox Sport2 ML
+http://4digital.ddns.net:9981/stream/mux/8a15c4a3c895c65bfa385a72893f2ef1
+#EXTINF:-1, Fox Sport 3 ML
+http://4digital.ddns.net:9981/stream/mux/5e599dfc201dc2c65cb03cc8ca1eaf1d
+#EXTINF:-1, MOla TV1
+http://4digital.ddns.net:9981/stream/mux/7bf1536cbaad7fb8f3d38ab97e9d0938
+#EXTINF:-1, MOla TV2
+http://4digital.ddns.net:9981/stream/mux/2a256269d4886f5eb8d980826f32b7c8
+
 #EXTINF:-1, CHAMPIONS TV1
 http://4digital.ddns.net:9981/stream/mux/32c488d836b34785d4e139f5fe95618e
 #EXTINF:-1, Champions TV 2
 http://4digital.ddns.net:9981/stream/mux/fdc3994da4cfed4148a37b888e840dfc
 #EXTINF:-1, Champions TV 3
 http://4digital.ddns.net:9981/stream/mux/0c7b522fe058969aba411e61aa7aaba4
+
++ + + + +
 
 #EXTINF:-1, VIP HD1'
 http://4digital.ddns.net:9981/stream/service/91f3c53f4010cf6724485247d112839f
@@ -2262,28 +2272,30 @@ http://4digital.ddns.net:9981/stream/service/e9e90cd84a13e5580bbb8ecd0d907dcf
 http://4digital.ddns.net:9981/stream/service/db5c54702d62a3f69a5c61d857dde3cb
 #EXTINF:-1, VIP2'
 http://4digital.ddns.net:9981/stream/service/0ce306a5da35cefee8db8298ee7d8258
-#EXTINF:-1, HBO Asia'
-http://4digital.ddns.net:9981/stream/service/88d806f78571a0ac9298f434d8973746
-#EXTINF:-1, Mola TV1
-http://4digital.ddns.net:9981/stream/service/96b6a0c7007dd26fb701476f571b2bdc
-#EXTINF:-1, Mola Tv2
-http://4digital.ddns.net:9981/stream/service/7f4e1b0e4b49371a9b66b1b684b4f453
-#EXTINF:-1, CHAMPIONS TV1
+
+#EXTINF:-1, MOla TV1'
+http://4digital.ddns.net:9981/stream/service/d9251584204521cb3123942bb1366327
+#EXTINF:-1, MOla TV2'
+http://4digital.ddns.net:9981/stream/service/ea9b08a8817620081bcdb3e771fc9706
+
+#EXTINF:-1, CHAMPIONS TV1'
 http://4digital.ddns.net:9981/stream/service/a9408f8225444e2b28a7e266f67840fe
-#EXTINF:-1, Champions TV 2
+#EXTINF:-1, Champions TV 2'
 http://4digital.ddns.net:9981/stream/service/6e5902768d48f76cf15d453671378271
-#EXTINF:-1, Champions TV 3
+#EXTINF:-1, Champions TV 3'
 http://4digital.ddns.net:9981/stream/service/826441591439f801faf8244e3901e68e
-#EXTINF:-1, FOX Family Movies
+#EXTINF:-1, FOX Family Movies'
 http://4digital.ddns.net:9981/stream/service/cae8d79225fee492198d50159dcc6961
-#EXTINF:-1, FOX Movies
+#EXTINF:-1, FOX Movies'
 http://4digital.ddns.net:9981/stream/service/00827ea652a908d5566f1354421d1c79
-#EXTINF:-1, Fox Action
+#EXTINF:-1, Fox Action'
 http://4digital.ddns.net:9981/stream/service/392467d3c5d2aa7ba7cfb771098cb118
-#EXTINF:-1, Fox Action Movies IDN
+#EXTINF:-1, Fox Action Movies IDN'
 http://4digital.ddns.net:9981/stream/service/a99a12ac276f2b4c020e7a01a334231d
-#EXTINF:-1, Fox Movies IDN
+#EXTINF:-1 group-title="4digit/TH", Fox Movies IDN'
 http://4digital.ddns.net:9981/stream/service/a17464769934778ef6f53db6a500fb82
+
+-/-/-/-/-
 
  group-title="4digit/TH", A Leag
 http://4digital.ddns.net:9981/stream/mux/915d4013605f154f014ae5c94208b529
@@ -2343,9 +2355,7 @@ http://4digital.ddns.net:9981/stream/service/adc7fb6d3b9f49d34a94656169ef82c6
 http://4digital.ddns.net:9981/stream/service/cdbc1bbb9a593bd8c3ea6101b7cb8253
 http://4digital.ddns.net:9981/stream/service/eb2234e40494bd7d794d78e6683212d3
 http://4digital.ddns.net:9981/stream/service/38d3c9236281bcd40829fde2744f78e4
-http://4digital.ddns.net:9981/stream/service/cae8d79225fee492198d50159dcc6961
 , FOX Movies
-http://4digital.ddns.net:9981/stream/service/00827ea652a908d5566f1354421d1c79
 , SKYnet1
 http://4digital.ddns.net:9981/stream/service/4ec77d89fc3f518cdd5b7929236248c2
 , SKYnet2
@@ -2369,6 +2379,10 @@ http://4digital.ddns.net:11224/ts/0
 
 -/-/-/- offline -/-/-/-/-
 
+http://4digital.ddns.net:9981/stream/mux/c6b7a0047dd9d747a3ba7c33172758c0
+http://4digital.ddns.net:9981/stream/mux/263bfd4e48f8ec562c6668693be221da
+http://4digital.ddns.net:9981/stream/service/96b6a0c7007dd26fb701476f571b2bdc
+http://4digital.ddns.net:9981/stream/service/7f4e1b0e4b49371a9b66b1b684b4f453
 http://4digital.ddns.net:9981/stream/service/0d1b94c02844e68a0bd30e1540f9301f NGC HD
 http://4digital.ddns.net:9981/stream/service/0df4ac932e8840a7c0d88c5583d9e540 Warner 
 http://4digital.ddns.net:9981/stream/service/1dbec728fd4c80b591761f1ff25a6277 hbo hit
