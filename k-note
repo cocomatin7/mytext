@@ -3103,21 +3103,36 @@ http://73.85.95.69:9981/stream/mux/d3e19de73273b7570567b8c2dac7266d
 http://73.85.95.69:9981/stream/mux/d74caa4a0015632d4b61a753f236bfba
 #EXTINF:-1, BS | beIN SPORT-10 4K
 http://73.85.95.69:9981/stream/mux/41c41518d244ff6f5b2d5332a3917bcd
-http://73.85.95.69:9981/stream/mux/ccdead3662d640ace7df11c6382eb102#EXTINF:-1, BS | beIN SPORT-2 4K
-http://73.85.95.69:9981/stream/mux/57ead4c15a82c3a585aab1899e9e76ef#EXTINF:-1, BS | beIN SPORT-1 4K
-http://73.85.95.69:9981/stream/mux/d9bc2199c552b67d89b1d231ccfd7280#EXTINF:-1, BS | beIN SPORT-10 HD
-http://73.85.95.69:9981/stream/mux/b49076ce66eccf76a58e4f9c9912629f#EXTINF:-1, BS | beIN SPORT-2 HD
-http://73.85.95.69:9981/stream/mux/6fd9e5f99d7607775ab4a2437a52950b#EXTINF:-1, BS | beIN SPORT-1 HD
-http://73.85.95.69:9981/stream/mux/553ce382cef4df0d1bbc18a38074fe14#EXTINF:-1, BS | beIN SPORT-10 720
-http://73.85.95.69:9981/stream/mux/63e03af9df0f4a4be7cbd6c03b67bd94#EXTINF:-1, BS | beIN SPORT-2 720
-http://73.85.95.69:9981/stream/mux/cd1b2f25d2cad95be1eccd5d03333051#EXTINF:-1, BS | beIN SPORT-1 720
-http://73.85.95.69:9981/stream/mux/376f32aed35bbae75397a235debbe122#EXTINF:-1, BS | bein-Sport10 HD
-http://73.85.95.69:9981/stream/mux/702e8b3beb89d354b65ef76b1955b2c3#EXTINF:-1, BS | beIN Sport2 HD%2B
-http://73.85.95.69:9981/stream/mux/c1fb6b246b2d2b43e7d647a3c9127394#EXTINF:-1, BS | beIN Sport2 HD
-http://73.85.95.69:9981/stream/mux/ef40eb76d0d7fa5c59eef67835b5e3cf#EXTINF:-1, BS | beIN Sport1 HD%2B
-http://73.85.95.69:9981/stream/mux/4acf87eb63ee62344d6ac19b573ef30d#EXTINF:-1, CA | CNN INTERNATIONAL
-http://73.85.95.69:9981/stream/mux/e8a0e499056d3c71873d151e28cacf9e#EXTINF:-1, NBC GOLD FHD 2
-http://73.85.95.69:9981/stream/mux/4b322993817b20971b6f985eec0f43be#EXTINF:-1, UK | CNN International
+#EXTINF:-1, BS | beIN SPORT-2 4K
+http://73.85.95.69:9981/stream/mux/ccdead3662d640ace7df11c6382eb102
+#EXTINF:-1, BS | beIN SPORT-1 4K
+http://73.85.95.69:9981/stream/mux/57ead4c15a82c3a585aab1899e9e76ef
+#EXTINF:-1, BS | beIN SPORT-10 HD
+http://73.85.95.69:9981/stream/mux/d9bc2199c552b67d89b1d231ccfd7280
+#EXTINF:-1, BS | beIN SPORT-2 HD
+http://73.85.95.69:9981/stream/mux/b49076ce66eccf76a58e4f9c9912629f
+#EXTINF:-1, BS | beIN SPORT-1 HD
+http://73.85.95.69:9981/stream/mux/6fd9e5f99d7607775ab4a2437a52950b
+#EXTINF:-1, BS | beIN SPORT-10 720
+http://73.85.95.69:9981/stream/mux/553ce382cef4df0d1bbc18a38074fe14
+#EXTINF:-1, BS | beIN SPORT-2 720
+http://73.85.95.69:9981/stream/mux/63e03af9df0f4a4be7cbd6c03b67bd94
+#EXTINF:-1, BS | beIN SPORT-1 720
+http://73.85.95.69:9981/stream/mux/cd1b2f25d2cad95be1eccd5d03333051
+#EXTINF:-1, BS | bein-Sport10 HD
+http://73.85.95.69:9981/stream/mux/376f32aed35bbae75397a235debbe122
+#EXTINF:-1, BS | beIN Sport2 HD%2B
+http://73.85.95.69:9981/stream/mux/702e8b3beb89d354b65ef76b1955b2c3
+#EXTINF:-1, BS | beIN Sport2 HD
+http://73.85.95.69:9981/stream/mux/c1fb6b246b2d2b43e7d647a3c9127394
+#EXTINF:-1, BS | beIN Sport1 HD%2B
+http://73.85.95.69:9981/stream/mux/ef40eb76d0d7fa5c59eef67835b5e3cf
+#EXTINF:-1, CA | CNN INTERNATIONAL
+http://73.85.95.69:9981/stream/mux/4acf87eb63ee62344d6ac19b573ef30d
+#EXTINF:-1, NBC GOLD FHD 2
+http://73.85.95.69:9981/stream/mux/e8a0e499056d3c71873d151e28cacf9e
+#EXTINF:-1, UK | CNN International
+http://73.85.95.69:9981/stream/mux/4b322993817b20971b6f985eec0f43be
 #EXTINF:-1 group-title="*73.85*", UK | MTV Base
 http://73.85.95.69:9981/stream/mux/98524cff53ada8ff5dc0ae6944d08a9f
 
@@ -3186,7 +3201,7 @@ http://73.85.95.69:9981/stream/service/cbaeecc62cca41e46d7b0f1cf08b8a9c
 
 + + + + + + +
 
-#EXTINF:-1 group-title="*73.85*",Events Only 1
+#EXTINF:-1 group-title="*73.85*",Events Only 1 |73.85
 http://73.85.95.69:9981/stream/channelid/1930286431?ticket=F54B49085F5596860A3F76DCD130C509D7EC54DA&profile=pass
 #EXTINF:-1,Events Only 2
 http://73.85.95.69:9981/stream/channelid/416393410?ticket=4A23610F2EAE74F2C302BDEFABA1DFD346E8CB09&profile=pass
