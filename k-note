@@ -5241,20 +5241,22 @@ http://212.8.253.172:2052/SuperSport-Variety-4/index.m3u8?username=FernanSisayan
 http://212.8.253.172:2052/FLOWSPORTS24-7FHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=796443
 #EXTINF:-1, EPL 24/7
 http://212.8.253.172:2052/EPL-247/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=796772
-#EXTINF:-1, 
+#EXTINF:-1, PremierSports 1
 http://212.8.253.172:2052/PremierSports1/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=300847
-#EXTINF:-1, 
+#EXTINF:-1, PremierSports 2
 http://212.8.253.172:2052/PremierSports2/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=300106
-#EXTINF:-1, 
+#EXTINF:-1, BT 1HD
 http://212.8.253.172:2052/BT-1HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=437216
-#EXTINF:-1, 
+#EXTINF:-1, BT 2HD
 http://212.8.253.172:2052/BT-2HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=437217
-#EXTINF:-1, 
+#EXTINF:-1, BT 3HD
 http://212.8.253.172:2052/BT-3HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=437218
-#EXTINF:-1, 
+#EXTINF:-1, BT ESPN HD
 http://212.8.253.172:2052/BT-ESPNHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=437219
-#EXTINF:-1, 
+#EXTINF:-1, SS PL HD
 http://212.8.253.172:2052/SS-PLHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793874
+#EXTINF:-1, SS-PLSD
+http://212.8.253.172:2052/SS-PLSD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796
 #EXTINF:-1, SS Football HD
 http://212.8.253.172:2052/SS-FootballHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793871
 #EXTINF:-1, SS Cricket HD
