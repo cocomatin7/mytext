@@ -4197,81 +4197,95 @@ http://116.204.181.238:9981/stream/mux/f753475ce21c80892fe3dce88723d6b1
 http://116.204.181.238:9981/stream/mux/4404e2ae7e7f817ec5f681ced04d86cb
 #EXTINF:-1, Sport Klub HD
 http://116.204.181.238:9981/stream/mux/bd39212b66f44e31392d1459f25ffcb1
+#EXTINF:-1, Fox Action Movies IDN
+http://116.204.181.238:9981/stream/mux/e569cbac8c9769fefb6ce0e1d60707ed
+#EXTINF:-1, Fox Movies IDN
+http://116.204.181.238:9981/stream/mux/a1faa4941181115956abc6cfd89365d9
 #EXTINF:-1, FoxSport1 ML
 http://116.204.181.238:9981/stream/mux/f83efbe19ab4e6dcd97a0d20930e7217
 #EXTINF:-1, Fox Sport2 ML
 http://116.204.181.238:9981/stream/mux/8f157cda00ba6b17561c3e083bd88667
+#EXTINF:-1 group-title="116.204/TH", Fox Sport 3 ML
+http://116.204.181.238:9981/stream/mux/94e4610ee4d2ebb8c7ae1bdedfc1764f
 
-#EXTINF:-1 group-title="116.204/TH", Vip3 HD 
-http://116.204.181.238:9981/stream/mux/4493b52199801e8078254d8fb7088085
-#EXTINF:-1, Test Vip3HD
-http://116.204.181.238:9981/stream/mux/22c649b518c38732dedaf43df1baed85
-#EXTINF:-1, Test Vip1HD
-http://116.204.181.238:9981/stream/mux/cd9b5535c24c54ad5d6a8b5e8b905ed2
-#EXTINF:-1, TRUE EPL HD
-http://116.204.181.238:9981/stream/mux/f753475ce21c80892fe3dce88723d6b1
-#EXTINF:-1, SKynet sport HD
-http://116.204.181.238:9981/stream/mux/4404e2ae7e7f817ec5f681ced04d86cb
-#EXTINF:-1, Sport Klub HD
-http://116.204.181.238:9981/stream/mux/bd39212b66f44e31392d1459f25ffcb1
 
-#EXTINF:-1, Fox Sport2 ML'
-http://116.204.181.238:9981/stream/service/2416c348884ac99f8dfe046f4ce56ae1
+#EXTINF:-1, Champions TV 1'
+http://116.204.181.238:9981/stream/service/b9bc915cce59239284b2c39d113017f8
 #EXTINF:-1, Champions TV 2'
 http://116.204.181.238:9981/stream/service/24fff901be1d0fe1219b2edfd3f474e8
+#EXTINF:-1, Champions TV 3'
+http://116.204.181.238:9981/stream/service/87dd09d71aaa4763d0db93a82f897d98
 #EXTINF:-1, FoxSport1 ML'
 http://116.204.181.238:9981/stream/service/d7d9de2052856c30c00d74f3add283db
+#EXTINF:-1, Fox Sport2 ML'
+http://116.204.181.238:9981/stream/service/2416c348884ac99f8dfe046f4ce56ae1
+#EXTINF:-1, Fox Sport 3 ML'
+http://116.204.181.238:9981/stream/service/5842cea48812ee94e6ced8ca0928095a
 #EXTINF:-1, Mola TV1'
 http://116.204.181.238:9981/stream/service/c383cb5234bee64b2b081848f85baba3
 #EXTINF:-1, Mola TV2'
 http://116.204.181.238:9981/stream/service/7a0504c48f4f9f82dd9a2fba8cadbd81
-#EXTINF:-1, Champions TV 3'
-http://116.204.181.238:9981/stream/service/87dd09d71aaa4763d0db93a82f897d98
-#EXTINF:-1, Champions TV 1'
-http://116.204.181.238:9981/stream/service/b9bc915cce59239284b2c39d113017f8
-#EXTINF:-1, Fox Sport 3 ML'
-http://116.204.181.238:9981/stream/service/5842cea48812ee94e6ced8ca0928095a
+
 #EXTINF:-1, TEN 1 HD'
 http://116.204.181.238:9981/stream/service/0ffaaed6204c6bd473cc3506385c680d
-#EXTINF:-1, beIN SPORTS 2'
-http://116.204.181.238:9981/stream/service/5fc468558fadb4e50534f98f95e2a44a
-#EXTINF:-1, Test Vip3HD'
-http://116.204.181.238:9981/stream/service/1051f053dae3b981d40e71eb68049e8d
-#EXTINF:-1, beIN SPORTS1'
-http://116.204.181.238:9981/stream/service/933447845cac9efad8ba12328c3a5957
-#EXTINF:-1, EPL 2 SD TH'
-http://116.204.181.238:9981/stream/service/8f96bfeb4ae57b11f7511c6bacd814c5
-#EXTINF:-1, FOX Sports3'
-http://116.204.181.238:9981/stream/service/049bbea725a4c8affc18a7b1b7dbdbb1
-#EXTINF:-1, FOX Sports HD'
-http://116.204.181.238:9981/stream/service/038195a5385f113bb84ac94bd06166e4
 #EXTINF:-1, TPE1-1'
 http://116.204.181.238:9981/stream/service/2029935df48bf038f6f2d2b3cbedf789
 #EXTINF:-1, Test Vip1HD'
 http://116.204.181.238:9981/stream/service/b13dd38d5d77b851432acb908a760c74
-#EXTINF:-1, FOX Sports2'
-http://116.204.181.238:9981/stream/service/5c492d29940c9f7fe618217a7d2e553f
-#EXTINF:-1, SKynet sport HD'
-http://116.204.181.238:9981/stream/service/bc3b819e01ee7efdf15a09771972f5f6
+#EXTINF:-1, Test Vip3HD'
+http://116.204.181.238:9981/stream/service/1051f053dae3b981d40e71eb68049e8d
+
+#EXTINF:-1, beIN SPORTS1'
+http://116.204.181.238:9981/stream/service/933447845cac9efad8ba12328c3a5957
+#EXTINF:-1, beIN SPORTS 2'
+http://116.204.181.238:9981/stream/service/5fc468558fadb4e50534f98f95e2a44a
+
 #EXTINF:-1, EPL 1 HD TH'
 http://116.204.181.238:9981/stream/service/38f99812ed8d5ffbeade04db34fba547
-#EXTINF:-1, Sport Klub HD'
-http://116.204.181.238:9981/stream/service/43ffdc60b5c50afbe95f7f690dd04fed
-#EXTINF:-1, PPTV HD TV5'
-http://116.204.181.238:9981/stream/service/ba7365ddca0181a3c4d5e2a77fe90779
+#EXTINF:-1, EPL 2 SD TH'
+http://116.204.181.238:9981/stream/service/8f96bfeb4ae57b11f7511c6bacd814c5
 
-#EXTINF:-1, TEN 1 HD'
-http://116.204.181.238:9981/stream/service/0ffaaed6204c6bd473cc3506385c680d
-#EXTINF:-1, TRUE Movies Hit HD'
-http://116.204.181.238:9981/stream/service/9e409278d1aa9bce532ca6b8fd50d41f
+#EXTINF:-1, FOX Action Movies
+http://116.204.181.238:9981/stream/service/d23b392e6c07590d22b445a0f826b1ed
+#EXTINF:-1, FOX Family Movies
+http://116.204.181.238:9981/stream/service/b24c6c09613fd8f3d43db9454e07c43c
+#EXTINF:-1, FOX Movies HD1
+http://116.204.181.238:9981/stream/service/448831177261e20b1a6c544a1780d605
+#EXTINF:-1, Fox Action Movies IDN
+http://116.204.181.238:9981/stream/service/f313f1063930d9373727771bf52eb20a
+#EXTINF:-1, Fox Movies IDN
+http://116.204.181.238:9981/stream/service/56616bd89965d7c6641815011b9e4aa5
+#EXTINF:-1, Fox Sport 3 ML
+http://116.204.181.238:9981/stream/service/5842cea48812ee94e6ced8ca0928095a
+#EXTINF:-1, Fox Sport2 ML
+http://116.204.181.238:9981/stream/service/2416c348884ac99f8dfe046f4ce56ae1
+#EXTINF:-1, FoxSport1 ML
+http://116.204.181.238:9981/stream/service/d7d9de2052856c30c00d74f3add283db
+
+#EXTINF:-1, FOX Sports HD'
+http://116.204.181.238:9981/stream/service/038195a5385f113bb84ac94bd06166e4
+#EXTINF:-1, FOX Sports2'
+http://116.204.181.238:9981/stream/service/5c492d29940c9f7fe618217a7d2e553f
+#EXTINF:-1, FOX Sports3'
+http://116.204.181.238:9981/stream/service/049bbea725a4c8affc18a7b1b7dbdbb1
+
 #EXTINF:-1, SKynet sport HD'
 http://116.204.181.238:9981/stream/service/bc3b819e01ee7efdf15a09771972f5f6
 #EXTINF:-1, Sport Klub HD'
 http://116.204.181.238:9981/stream/service/43ffdc60b5c50afbe95f7f690dd04fed
+
+#EXTINF:-1, TRUE Movies Hit HD'
+http://116.204.181.238:9981/stream/service/9e409278d1aa9bce532ca6b8fd50d41f
+
 #EXTINF:-1, SKynet sport HD"
 http://116.204.181.238:9981/stream/channel/ab2e96925297c48537054172d7d887a1
 #EXTINF:-1 group-title="116.204/TH", Sport Klub HD"
 http://116.204.181.238:9981/stream/channel/f3ef5fea3cf8425665cacb7079fb3a9c
+
+#EXTINF:-1,SKynet sport HD
+http://116.204.181.238:9981/stream/channelid/311832235?ticket=52BA6361821EE4546C41245A6A76E09DED7F3879&profile=pass
+#EXTINF:-1 group-title="116.204/TH",Sport Klub HD
+http://116.204.181.238:9981/stream/channelid/1784672243?ticket=9527F7265A4E366D475AC9ABAD9BA431FD747B3A&profile=pass
 
  group-title="116.204/TH", EPL 1 HD TH
 http://116.204.181.238:9981/stream/mux/83f4dd764e27d85c8cb857969e018554 
