@@ -2928,7 +2928,8 @@ http://73.85.95.69:9981/stream/mux/a33d25c06213a806f5536c83f8216941#EXTINF:-1, U
 http://73.85.95.69:9981/stream/mux/fe11797efe5472d085ab228bba09b9eb#EXTINF:-1, UK | MTV Hits
 http://73.85.95.69:9981/stream/mux/c1c17cb7c0776fbbf35a7b0412fdc004#EXTINF:-1, UK | MTV Club
 http://73.85.95.69:9981/stream/mux/5341173da06a5016a00baf4a397f2910#EXTINF:-1, UK | MTV Classic
-http://73.85.95.69:9981/stream/mux/98524cff53ada8ff5dc0ae6944d08a9f#EXTINF:-1, UK | MTV Base
+#EXTINF:-1 group-title="73.85", UK | MTV Base
+http://73.85.95.69:9981/stream/mux/98524cff53ada8ff5dc0ae6944d08a9f
 
 
 http://73.85.95.69:9981/stream/mux/6564bc70b9eaa0d1f35892bc9f78ddbb Bratty Sis < 
@@ -2955,7 +2956,7 @@ http://73.85.95.69:9981/stream/mux/cc21170c48ce264ca8fec6cb1d8ad4e2  Babes HD <
 
 + + + + +
 
-#EXTINF:-1, US Premier League TV ||73.85
+#EXTINF:-1 group-title="73.85", US Premier League TV ||73.85
 http://73.85.95.69:9981/stream/service/9826ce7e962d871bd6215f6bf3c80295
 #EXTINF:-1, SuperSport Football
 http://73.85.95.69:9981/stream/service/cdcf0bd9dd45c54395414c2f9fbc84a6
