@@ -2836,14 +2836,22 @@ http://73.85.95.69:9981/stream/mux/1633e7b91bd099495c47a082b367d7e4#EXTINF:-1, U
 http://73.85.95.69:9981/stream/mux/40e5ac45dc7eb83d66308f6d1ce2b506#EXTINF:-1, USA | BBC World News
 http://73.85.95.69:9981/stream/mux/35f51ac5eb53186510ca8d377c132150#EXTINF:-1, USA SPORTS | FOX SPORTS 2
 http://73.85.95.69:9981/stream/mux/b7bdd5562a45f630da5e9e61e2600ea8#EXTINF:-1, USA SPORTS | FOX SPORTS 1
-http://73.85.95.69:9981/stream/mux/21ff21539e0f197d1d505c90335bdb8c#EXTINF:-1, US SPORTS | NBC GOLD 6 UHD
-http://73.85.95.69:9981/stream/mux/4a2df3ed7edff2456efd915db45fd3ce#EXTINF:-1, US REGIONALS | NBCSN HD
-http://73.85.95.69:9981/stream/mux/021965c45a8123fc948caa1f94afe3ae#EXTINF:-1, US Premier League TV
-http://73.85.95.69:9981/stream/mux/8dcaf051a1c98d6b00a8f1278a5586fc#EXTINF:-1, US Premier League TV
-http://73.85.95.69:9981/stream/mux/105ab5c68f15a8228de3226c5f8449f6#EXTINF:-1, US NBC Sports Network-Alt (S)
-http://73.85.95.69:9981/stream/mux/83ab347ab20b8e0b76de806a8eb0ddc5#EXTINF:-1, US NBC Sports Network-Alt (S)
-http://73.85.95.69:9981/stream/mux/4a86063c2f6a497e7e9ed77f950a4276#EXTINF:-1, US NBC Sports Network (Y)
-http://73.85.95.69:9981/stream/mux/514f5c2695b5e61a761f923864142d67#EXTINF:-1, US NBC Sports Network (Y)
+#EXTINF:-1, US SPORTS | NBC GOLD 6 UHD
+http://73.85.95.69:9981/stream/mux/21ff21539e0f197d1d505c90335bdb8c
+#EXTINF:-1, US REGIONALS | NBCSN HD
+http://73.85.95.69:9981/stream/mux/4a2df3ed7edff2456efd915db45fd3ce
+#EXTINF:-1, US Premier League TV
+http://73.85.95.69:9981/stream/mux/021965c45a8123fc948caa1f94afe3ae
+#EXTINF:-1, US Premier League TV
+http://73.85.95.69:9981/stream/mux/8dcaf051a1c98d6b00a8f1278a5586fc
+#EXTINF:-1, US NBC Sports Network-Alt (S)
+http://73.85.95.69:9981/stream/mux/105ab5c68f15a8228de3226c5f8449f6
+#EXTINF:-1, US NBC Sports Network-Alt (S)
+http://73.85.95.69:9981/stream/mux/83ab347ab20b8e0b76de806a8eb0ddc5
+#EXTINF:-1, US NBC Sports Network (Y)
+http://73.85.95.69:9981/stream/mux/4a86063c2f6a497e7e9ed77f950a4276
+#EXTINF:-1, US NBC Sports Network (Y)
+http://73.85.95.69:9981/stream/mux/514f5c2695b5e61a761f923864142d67
 http://73.85.95.69:9981/stream/mux/7518632d10eec4af7eeb102ecc7c5be7#EXTINF:-1, US NBC Sports Network (S)
 http://73.85.95.69:9981/stream/mux/6b52e9a7da517de017e4b9dd1e139d33#EXTINF:-1, US NBC Sports Network (S)
 http://73.85.95.69:9981/stream/mux/7552748154368e63c4b6732486f7d3a7#EXTINF:-1, US NBC Sports Network (FHD) (A)
