@@ -563,37 +563,37 @@ http://185.238.0.145:1313/c/livedo/truepremierfootball2-hd.m3u8
 http://185.238.0.145:1313/c/livedo/truepremierfootball3-hd.m3u8
 
 
-S Variety 1
+#EXTINF:-1,S Variety 1
 http://212.8.253.172:2052/SuperSport-Variety-1/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-S Variety 2
+#EXTINF:-1,S Variety 2
 http://212.8.253.172:2052/SuperSport-Variety-2/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-S Variety 3
+#EXTINF:-1,S Variety 3
 http://212.8.253.172:2052/SuperSport-Variety-3/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-S Variety 4
+#EXTINF:-1,S Variety 4
 http://212.8.253.172:2052/SuperSport-Variety-4/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-S Blitz
+#EXTINF:-1,S Blitz
 http://212.8.253.172:2052/SuperSportBlitz/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793886
-S Premier League
+#EXTINF:-1,S Premier League
 http://212.8.253.172:2052/SuperSport-PremierLeague/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-S PSL
+#EXTINF:-1,S PSL
 http://212.8.253.172:2052/SuperSport-PSL/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-S Grandstand
+#EXTINF:-1,S Grandstand
 http://212.8.253.172:2052/SuperSport-Grandstand/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-S Football
+#EXTINF:-1,S Football
 http://212.8.253.172:2052/SuperSport-Football/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-S LaLiga
+#EXTINF:-1,S LaLiga
 http://212.8.253.172:2052/SuperSport-LaLiga/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-S Action
+#EXTINF:-1,S Action
 http://212.8.253.172:2052/SuperSport-Action/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-S Rugby
+#EXTINF:-1,S Rugby
 http://212.8.253.172:2052/SuperSport-Rugby/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-S Cricket
+#EXTINF:-1,S Cricket
 http://212.8.253.172:2052/SuperSport-Cricket/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-S Golf
+#EXTINF:-1,S Golf
 http://212.8.253.172:2052/SuperSport-Golf/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-S Tennis
+#EXTINF:-1,S Tennis
 http://212.8.253.172:2052/SuperSport-Tennis/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-S Motorsport
+#EXTINF:-1,S Motorsport
 http://212.8.253.172:2052/SuperSport-Motorsport/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
 
 
@@ -691,6 +691,36 @@ http://ferrarico.referrari.com/live/60101_.m3u8
 #EXTINF:-1,beIN OLYMPIC| ferrarico
 http://ferrarico.referrari.com/live/60102_.m3u8
 
+afn
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=afc
+bein 1
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=bein1
+bein 2
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=bein2
+CinemaWorld
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=cinemaworld
+
+Champions TV 1
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_720p/index.m3u8
+Champions TV 2
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.m3u8
+Champions TV 3
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.m3u8
+
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=foxsport1
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=foxsport2
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=foxsport3
+celestial movie ID
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=celestialmovie
+tvn ID
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=tvn
+Warner TV
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=warner
+
+
+
+http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 
 #EXTINF:-1,SUPERSPORT 1 |laos-tech
 https://laos-tech-live.b-cdn.net/my-asp1hd_720/index.m3u8
