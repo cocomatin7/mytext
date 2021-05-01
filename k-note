@@ -985,8 +985,10 @@ https://v7.sportzonline.to/channels/bra/br3.php
 https://v7.sportzonline.to/channels/bra/br4.php
 https://v7.sportzonline.to/channels/cricket/cr1.php
 
-
+#EXTINF:-1, ovo 1
+http://157.230.179.236/live/streamsovo1/chunks.m3u8
 view-source:http://www.ovostreams.com/1.php
+
 view-source:http://www.ovostreams.com/2.php
 view-source:http://www.ovostreams.com/3.php
 http://d1qag1ur6to329.cloudfront.net/hls/live1.m3u8
@@ -5150,7 +5152,7 @@ http://203.154.177.124:8899/live/ch29/playlist.m3u8
 
 + + + + + 212.8.253.172:2052 + + + + +
 
-#EXTINF:-1 group-title="212.8", AstroSport1
+#EXTINF:-1 group-title="*212.8*", AstroSport1
 http://212.8.253.172:2052/AstroSupersports1HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795036
 #EXTINF:-1, AstroSport1*
 http://212.8.253.172:2052/AstroSupersports1HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796
@@ -5278,7 +5280,7 @@ http://212.8.253.172:2052/SS-ArenaHD/index.m3u8?username=FernanSisayan&password=
 http://212.8.253.172:2052/SS-MainHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796
 #EXTINF:-1, SS Main SD
 http://212.8.253.172:2052/SS-MainSD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=300012
-#EXTINF:-1 group-title="212.8", SS Racing HD
+#EXTINF:-1 group-title="*212.8*", SS Racing HD
 http://212.8.253.172:2052/SS-RacingHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793875
 
 + + + + + 61.19.242.134 / https://cdn6.goprimetime.info + + + + +
@@ -11203,6 +11205,72 @@ http://iptv8.premium-stv.com:2052/get.php?username=SPORTPORTpro1&password=vgadJT
 + + + + + iptvlink.ga:8888 + + + + + null / 100000-3
 
 http://iptvlink.ga:8888/get.php?username=join&password=@iptvfreenet&type=m3u < N
+http://iptvlink.ga:8888/get.php?username=foruservpn&password=premiumonly&type=m3u < null < 0-0 < not play
+
+#EXTINF:-1 group-title="iptvlink",supersport
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/753.m3u8
+#EXTINF:-1,supersport 2
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/756.m3u8
+#EXTINF:-1,supersport 3
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/757.m3u8
+#EXTINF:-1,supersport 4
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/758.m3u8
+#EXTINF:-1,BEINSPORT2
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/788.m3u8
+#EXTINF:-1,BEINSPORT 1
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/787.m3u8
+#EXTINF:-1,foxsports1
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/765.m3u8
+#EXTINF:-1,foxsports2
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/766.m3u8
+#EXTINF:-1,foxsports3
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/767.m3u8
+#EXTINF:-1,BT SPORT1
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/781.m3u8
+#EXTINF:-1,BT SPORT2
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/782.m3u8
+#EXTINF:-1,trusport1
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/774.m3u8
+#EXTINF:-1,truesport2
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/775.m3u8
+#EXTINF:-1,truesport3
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/776.m3u8
+#EXTINF:-1,truesport4
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/777.m3u8
+#EXTINF:-1,truesport5
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/780.m3u8
+#EXTINF:-1,truesport6
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/778.m3u8
+#EXTINF:-1,truesport7
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/779.m3u8
+#EXTINF:-1,Tennis Channel
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/773.m3u8
+#EXTINF:-1,SPORTTV1
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/768.m3u8
+#EXTINF:-1,SPORTTV2
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/769.m3u8
+#EXTINF:-1,SPORTTV3
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/770.m3u8
+#EXTINF:-1,SPORTTV4
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/771.m3u8
+#EXTINF:-1,SPORTTV5
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/772.m3u8
+#EXTINF:-1,ufc
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/750.m3u8
+#EXTINF:-1,Setanta
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/707.m3u8
+#EXTINF:-1,HBO
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/674.m3u8
+#EXTINF:-1,FoxMovies
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/711.m3u8
+#EXTINF:-1,FOX FAMILY HD
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/682.m3u8
+#EXTINF:-1,CelestiaMovie
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/673.m3u8
+#EXTINF:-1,CCM
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/672.m3u8
+#EXTINF:-1 group-title="iptvlink",andflix
+http://iptvlink.ga:8888/live/foruservpn/premiumonly/725.m3u8
 
 + + + + + iptvlogin + + + + +
 
@@ -11211,6 +11279,8 @@ http://links.iptvlogin.com:80/get.php?username=tomaslineexchange&password=H69dbc
 + + + + + iptvtree.net:8080 [SEA] + + + + +
 
 http://iptvtree.net:8080/live/13354/27c12697/162530.m3u8 < N
+
+http://iptvtree.net:8080/get.php?username=44444&password=4506fd18&type=m3u << to check
 
 http://hotiptv.site:8080/get.php?username=zkby2013&password=1d469e6d9e42&type=m3u
 Real Url: iptvtree.net:8080     Status: Active    Created: 10/2/2020 7:58:43 PM     Expires: 12/5/2021 9:01:02 AM    Active Connections: 122     Maximum Connections: 125
