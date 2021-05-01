@@ -808,7 +808,10 @@ https://smart-tv.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1,beIN SPORTS 2EN'
 https://smart-tv.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
-https://smart-tv.livedoomovie.com/02_epl3_720p_UK/chunklist.m3u8 N.A?
+#EXTINF:-1,beIN SPORTS 1EN"
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1,beIN SPORTS 2EN"
+https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
 https://smart-tv.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
@@ -10449,6 +10452,11 @@ https://delivery.ghanacloud.ga/get.php?username=oSC7QXUAgM&password=XI6uWOiWRG&t
 
 http://51.15.1.11:25461/get.php?username=MEGA-TV&password=TELEGRAM&type=m3u < DOWN
 
++ + + + + 51.91.73.99:25461 + + + + + null + + + +
+
+http://51.91.73.99:25461/get.php?username=usachannel&password=ngZnG8PD5i&type=m3u
+Real Url: 51.91.73.99:25461     Status: Active    Created: 30/5/2020 8:38:00 AM     Expires: Null    Active Connections: 35     Maximum Connections: 100
+
 + + + + + 54k.top:8000 + + + + + null + + + + 10000-13
 
 http://54k.top:8000/get.php?username=to44j&password=oyvee&type=m3u&output=hls < null < 10000-11
@@ -11040,6 +11048,9 @@ http://goiptv.co:8080/get.php?username=avatar&password=fVkKAhhBlr&type=m3u
 Real Url: goiptv.co:8080     Status: Active    Created: 29/12/2020 8:26:19 PM     Expires: 23/5/2021 12:00:00 AM    Active Connections: 691     Maximum Connections: 1000
 
 + + + + + ip.newboss.site:80 + + + + + Null 
+
+http://ip.trboss.net:80/get.php?username=dindin&password=sdfsjfujskrez&type=m3u
+Real Url: ip.newboss.site:80     Status: Active    Created: 24/1/2021 12:42:20 PM     Expires: Null    Active Connections: 119     Maximum Connections: 60 
 
 http://test.satlok.club/get.php?username=Amigo&password=do92Rd6x8yr3&type=m3u
 Real Url: ip.newboss.site:80     Status: Active    Created: 3/11/2019 5:58:44 PM     Expires: Null    Active Connections: 205     Maximum Connections: 200
@@ -11882,6 +11893,11 @@ http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/40747.m3u8
 1295. PORNSTERS 10 | http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/47314.m3u8
 1296. EXTASY 4K XXX | http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/47315.m3u8
 
++ + + + + main.malidows.com:2082 + + + + +
+
+https://main.malidows.com:2083/get.php?username=popkanale&password=iptv&type=m3u
+Real Url: main.malidows.com:2082     Status: Active    Created: 28/4/2021 2:34:39 PM     Expires: Null    Active Connections: 106     Maximum Connections: 1000 
+
 + + + + + meti-tv.xyz:25461 + + + + +
 
 http://meti-tv.xyz:25461/get.php?username=MetiTVakanalet&password=svOVWvluBT&type=m3u Expires: Null Connections: 200-37
@@ -11908,6 +11924,14 @@ http://mhiptv.com:8888/live/ka5/ka5/3652.m3u8
 + + + + + muttsnutts.from-mi.com:8090 + + + + +
 
 http://catenamode.cf:8090/get.php?username=muttsnuts&password=PzreCs7oYP&type=m3u < N
+
++ + + + + new-pro.tv:8080 + + + + + null
+
+http://new-pro.tv:8080/get.php?username=live:diplomatmobstar&password=restream494862&type=m3u
+Real Url: new-pro.tv:8080     Status: Active    Created: 30/3/2020 12:23:37 AM     Expires: Null    Active Connections: 323     Maximum Connections: 400
+
+
+
 
 + + + + + nonton.site:8443 + + + + + 23/04/2021 + + + + +
 
@@ -12924,6 +12948,9 @@ http://tv.wakds.xyz:8080/get.php?username=tangyuan&password=12345678&type=m3u < 
 
 http://tv.zero2.site:8080/get.php?username=zero&password=zero&type=m3u
 Real Url: tv.zero2.site:8080     Status: Active    Created: 17/3/2021 7:51:53 PM     Expires: 19/1/2038 3:14:07 AM    Active Connections: 18     Maximum Connections: 100000 < few TR Channels
+
+http://oostv.site:8080/get.php?username=iptv&password=iptv&type=m3u
+Real Url: tv.zero2.site:8080     Status: Active    Created: 17/3/2021 7:54:03 PM     Expires: 1/3/2025 7:53:00 PM    Active Connections: 25     Maximum Connections: 100
 
 + + + + + tv4k.be:8888 + + + + +
 
