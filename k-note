@@ -2855,10 +2855,14 @@ http://73.85.95.69:9981/stream/mux/6f172f2fcbca3b1565b1c60333e4ca6b
 http://73.85.95.69:9981/stream/mux/772bbf2b8638971da00246caf7066f06
 #EXTINF:-1, SuperSport Play
 http://73.85.95.69:9981/stream/mux/9ced9da31a5305f16b479b5d356327de
-http://73.85.95.69:9981/stream/mux/9d5e8e91d625388b00a0a078ce01023c#EXTINF:-1, SuperSport Play
-http://73.85.95.69:9981/stream/mux/906b400669c00a074735dba538dc3496#EXTINF:-1, SuperSport PSL
-http://73.85.95.69:9981/stream/mux/ed33c46ca73ea9aa2ec1c806c798ec4f#EXTINF:-1, SuperSport PSL
-http://73.85.95.69:9981/stream/mux/d4d09d26e4324498ba420815d338d92b#EXTINF:-1, SuperSport MA1Ximo 1
+#EXTINF:-1, SuperSport Play
+http://73.85.95.69:9981/stream/mux/9d5e8e91d625388b00a0a078ce01023c
+#EXTINF:-1, SuperSport PSL
+http://73.85.95.69:9981/stream/mux/906b400669c00a074735dba538dc3496
+#EXTINF:-1, SuperSport PSL
+http://73.85.95.69:9981/stream/mux/ed33c46ca73ea9aa2ec1c806c798ec4f
+#EXTINF:-1, SuperSport MA1Ximo 1
+http://73.85.95.69:9981/stream/mux/d4d09d26e4324498ba420815d338d92b
 http://73.85.95.69:9981/stream/mux/1c2b7db797b4d7656b6f75e3ce83bf2a#EXTINF:-1, SuperSport MA1Ximo 1
 http://73.85.95.69:9981/stream/mux/0bdbe29aa3e7c155797ed7267f8c0491#EXTINF:-1, SuperSport LaLiga
 http://73.85.95.69:9981/stream/mux/e5ca5e29dea4a9949be7643736a983a4#EXTINF:-1, SuperSport LaLiga
