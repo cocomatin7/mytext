@@ -5204,14 +5204,18 @@ http://212.8.253.172:2052/SuperSport-LaLiga/index.m3u8?username=FernanSisayan&pa
 http://212.8.253.172:2052/SuperSport-LaLiga/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793898
 
 #EXTINF:-1, S Premier League
-http://212.8.253.172:2052/SuperSport-PremierLeague/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
+http://212.8.253.172:2052/SuperSport-PremierLeague/tracks-v1a1/mono.m3u8?token=4cf664d53451318603085725c43a5796
 #EXTINF:-1, S Premier League*
 http://212.8.253.172:2052/SuperSport-PremierLeague/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, SS Premier League
+#EXTINF:-1, S Premier League'
+http://212.8.253.172:2052/SuperSport-PremierLeague/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
+#EXTINF:-1, SS Premier League"
 http://212.8.253.172:2052/SuperSport-PremierLeague/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793896
 #EXTINF:-1, S PSL
+http://212.8.253.172:2052/SuperSport-PSL/tracks-v1a1/mono.m3u8?token=4cf664d53451318603085725c43a5796
+#EXTINF:-1, S PSL'
 http://212.8.253.172:2052/SuperSport-PSL/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, SS PSL
+#EXTINF:-1, SS PSL"
 http://212.8.253.172:2052/SuperSport-PSL/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793897
 
 #EXTINF:-1, S Rugby
