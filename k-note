@@ -562,6 +562,14 @@ http://185.238.0.145:1313/c/livedo/truepremierfootball2-hd.m3u8
 #EXTINF:-1,True Premiere Football HD3 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball3-hd.m3u8
 
+#EXTINF:-1, AstroSport1
+http://212.8.253.172:2052/AstroSupersports1HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795036
+#EXTINF:-1, AstroSport2
+http://212.8.253.172:2052/AstroSupersports2HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795037
+#EXTINF:-1, AstroSport3
+http://212.8.253.172:2052/AstroSuperSports3HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795038
+#EXTINF:-1, AstroSport4
+http://212.8.253.172:2052/AstroSuperSports4HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795039
 
 #EXTINF:-1, S Variety 1
 http://212.8.253.172:2052/SuperSport-Variety-1/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
@@ -710,10 +718,14 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.
 https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=foxsport1
 https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=foxsport2
 https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=foxsport3
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=kbsworld
 #EXTINF:-1,celestial movie ID
 https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=celestialmovie
 #EXTINF:-1,tvn ID
 https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=tvn
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=tvnmovies
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=useesport
+https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=useesports2
 #EXTINF:-1,Warner TV
 https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=warner
 
@@ -1501,6 +1513,10 @@ http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidl
 https://rebrand.ly/ck-ad-1
 #EXTINF:-1 tvg-logo="https://rebrand.ly/cc-png", Asia Drama* |cookie
 https://rebrand.ly/ck-ad-2
+
+#EXTINF:-1 tvg-logo="https://rebrand.ly/cc-png", Cookie Asia |cookie
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/CN.png" group-title="cookie", Cartoon Network |cookie 
 http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-playlist.m3u8
