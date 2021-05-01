@@ -565,27 +565,22 @@ http://185.238.0.145:1313/c/livedo/truepremierfootball3-hd.m3u8
 
 #EXTINF:-1, AstroSport1
 http://212.8.253.172:2052/AstroSupersports1HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795036
+#EXTINF:-1, AstroSport1*
+http://212.8.253.172:2052/AstroSupersports1HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796
 #EXTINF:-1, AstroSport2
 http://212.8.253.172:2052/AstroSupersports2HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795037
+#EXTINF:-1, AstroSport2*
+http://212.8.253.172:2052/AstroSupersports2HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796
 #EXTINF:-1, AstroSport3
 http://212.8.253.172:2052/AstroSuperSports3HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795038
+#EXTINF:-1, AstroSport3*
+http://212.8.253.172:2052/AstroSuperSports3HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796
 #EXTINF:-1, AstroSport4
 http://212.8.253.172:2052/AstroSuperSports4HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795039
+#EXTINF:-1, AstroSport4*
+http://212.8.253.172:2052/AstroSuperSports4HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796
 
-#EXTINF:-1, S Variety 1
-http://212.8.253.172:2052/SuperSport-Variety-1/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, S Variety 2
-http://212.8.253.172:2052/SuperSport-Variety-2/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, SS Variety 2
-http://212.8.253.172:2052/SuperSport-Variety-2/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793894
-#EXTINF:-1, S Variety 3
-http://212.8.253.172:2052/SuperSport-Variety-3/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, SS Variety 3
-http://212.8.253.172:2052/SuperSport-Variety-3/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793889
-#EXTINF:-1, S Variety 4
-http://212.8.253.172:2052/SuperSport-Variety-4/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, SS Variety 4
-http://212.8.253.172:2052/SuperSport-Variety-4/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793890
+
 #EXTINF:-1, S Blitz
 http://212.8.253.172:2052/SuperSportBlitz/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793886
 #EXTINF:-1, S Premier League
@@ -632,6 +627,20 @@ http://212.8.253.172:2052/SuperSport-Tennis/index.m3u8?username=FernanSisayan&pa
 http://212.8.253.172:2052/SuperSport-Motorsport/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
 #EXTINF:-1, SS Motorsport
 http://212.8.253.172:2052/SuperSport-Motorsport/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=796174
+#EXTINF:-1, S Variety 1
+http://212.8.253.172:2052/SuperSport-Variety-1/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
+#EXTINF:-1, S Variety 2
+http://212.8.253.172:2052/SuperSport-Variety-2/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
+#EXTINF:-1, SS Variety 2
+http://212.8.253.172:2052/SuperSport-Variety-2/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793894
+#EXTINF:-1, S Variety 3
+http://212.8.253.172:2052/SuperSport-Variety-3/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
+#EXTINF:-1, SS Variety 3
+http://212.8.253.172:2052/SuperSport-Variety-3/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793889
+#EXTINF:-1, S Variety 4
+http://212.8.253.172:2052/SuperSport-Variety-4/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
+#EXTINF:-1, SS Variety 4
+http://212.8.253.172:2052/SuperSport-Variety-4/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793890
 
 
 #EXTINF:-1,True Premiere Football HD1 |mb13
