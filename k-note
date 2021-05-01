@@ -2713,7 +2713,7 @@ http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
 + + + + http://73.85.95.69:9981/extjs.html + + + + tv:tv + + + + + to check again
 
-#EXTINF:-1 group-title="73.85", US Premier League TV |73.85
+#EXTINF:-1 group-title="*73.85*", US Premier League TV |73.85
 http://73.85.95.69:9981/stream/mux/8dcaf051a1c98d6b00a8f1278a5586fc
 #EXTINF:-1, Bein Sports- Premium HD2 EN
 http://73.85.95.69:9981/stream/mux/1995ee57731e0a1cfa58d2fef3314260
@@ -2731,13 +2731,18 @@ http://73.85.95.69:9981/stream/mux/018ffeaee36bc7df011375a1c824f3b2
 http://73.85.95.69:9981/stream/mux/1d1cd5f9c8e169c01f91742c0d4505d9
 #EXTINF:-1, UK | Sky Sports News HD
 http://73.85.95.69:9981/stream/mux/088a243b1071038619f13e62120065a1
-
-http://73.85.95.69:9981/stream/mux/6db6137b955f2fc309f5be25a05e69c9#EXTINF:-1, |US| NBCSN HD
-http://73.85.95.69:9981/stream/mux/21696b3174021b8539a46f835ecbc25b#EXTINF:-1, |US| NBCSN HD
-http://73.85.95.69:9981/stream/mux/99c367f60e033e105f8752356388bcae#EXTINF:-1, |US| FOX SPORTS 2
-http://73.85.95.69:9981/stream/mux/4a648e029a56ca2d04cc251f42f75831#EXTINF:-1, |US| FOX SPORTS 1
-http://73.85.95.69:9981/stream/mux/0c3bc535d09265282dec97fa80694fb0#EXTINF:-1, |US| CNN HD
-http://73.85.95.69:9981/stream/mux/a66049dedbb3cee7f1d92a217347e038#EXTINF:-1, |US| CNN HD
+#EXTINF:-1, |US| NBCSN HD
+http://73.85.95.69:9981/stream/mux/6db6137b955f2fc309f5be25a05e69c9
+#EXTINF:-1, |US| NBCSN HD
+http://73.85.95.69:9981/stream/mux/21696b3174021b8539a46f835ecbc25b
+#EXTINF:-1, |US| FOX SPORTS 2
+http://73.85.95.69:9981/stream/mux/99c367f60e033e105f8752356388bcae
+#EXTINF:-1, |US| FOX SPORTS 1
+http://73.85.95.69:9981/stream/mux/4a648e029a56ca2d04cc251f42f75831
+#EXTINF:-1, |US| CNN HD
+http://73.85.95.69:9981/stream/mux/0c3bc535d09265282dec97fa80694fb0
+#EXTINF:-1, |US| CNN HD
+http://73.85.95.69:9981/stream/mux/a66049dedbb3cee7f1d92a217347e038
 http://73.85.95.69:9981/stream/mux/7c83a5442633d87ed5315a23b912db56#EXTINF:-1, |US| BeIN SPORTS HD
 http://73.85.95.69:9981/stream/mux/d3eafbc4c34ebde3b4e84e67432d79ac#EXTINF:-1, |US| BeIN SPORTS HD
 http://73.85.95.69:9981/stream/mux/cf7e3ba9314c1a05231edb888a647a5e#EXTINF:-1, |UK| Zee cinema
@@ -2911,7 +2916,7 @@ http://73.85.95.69:9981/stream/mux/ef40eb76d0d7fa5c59eef67835b5e3cf#EXTINF:-1, B
 http://73.85.95.69:9981/stream/mux/4acf87eb63ee62344d6ac19b573ef30d#EXTINF:-1, CA | CNN INTERNATIONAL
 http://73.85.95.69:9981/stream/mux/e8a0e499056d3c71873d151e28cacf9e#EXTINF:-1, NBC GOLD FHD 2
 http://73.85.95.69:9981/stream/mux/4b322993817b20971b6f985eec0f43be#EXTINF:-1, UK | CNN International
-#EXTINF:-1 group-title="73.85", UK | MTV Base
+#EXTINF:-1 group-title="*73.85*", UK | MTV Base
 http://73.85.95.69:9981/stream/mux/98524cff53ada8ff5dc0ae6944d08a9f
 
 
@@ -2939,7 +2944,7 @@ http://73.85.95.69:9981/stream/mux/cc21170c48ce264ca8fec6cb1d8ad4e2  Babes HD <
 
 + + + + +
 
-#EXTINF:-1 group-title="73.85", US Premier League TV ||73.85
+#EXTINF:-1 group-title="*73.85*", US Premier League TV ||73.85
 http://73.85.95.69:9981/stream/service/9826ce7e962d871bd6215f6bf3c80295
 #EXTINF:-1, SuperSport Football
 http://73.85.95.69:9981/stream/service/cdcf0bd9dd45c54395414c2f9fbc84a6
@@ -2974,12 +2979,12 @@ http://73.85.95.69:9981/stream/service/cbaeecc62cca41e46d7b0f1cf08b8a9c
 http://73.85.95.69:9981/stream/service/c6675ec159e8684721d75c380039974f
 #EXTINF:-1, Event Only 2 ||73.85
 http://73.85.95.69:9981/stream/service/140529e76e5e612b75b3d06c102d3872
-#EXTINF:-1 group-title="73.85", Sky Movies Great ||73.85
+#EXTINF:-1 group-title="*73.85*", Sky Movies Great ||73.85
 http://73.85.95.69:9981/stream/service/cbaeecc62cca41e46d7b0f1cf08b8a9c
 
 + + + + + + +
 
-#EXTINF:-1 group-title="73.85",Events Only 1
+#EXTINF:-1 group-title="*73.85*",Events Only 1
 http://73.85.95.69:9981/stream/channelid/1930286431?ticket=F54B49085F5596860A3F76DCD130C509D7EC54DA&profile=pass
 #EXTINF:-1,Events Only 2
 http://73.85.95.69:9981/stream/channelid/416393410?ticket=4A23610F2EAE74F2C302BDEFABA1DFD346E8CB09&profile=pass
@@ -3804,105 +3809,7 @@ http://connor:str94eEt@82.45.49.11:9981/stream/channel/d21ff12295ca36a0f1b2c48ae
 
 + + + SantosSingh|SantosSingh94eEt / connor|str94eEt / lewis|LewGay1 / Santos|SantosSantalini / Matthew|Lawyer123 + + +
 
-#EXTINF:-1 group-title="*82.45*",01.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/975062207?profile=pass
-#EXTINF:-1,01: Bremen vs RB Leipzig 19:30
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/593051064?profile=pass
-#EXTINF:-1,01: Southamton vs Leicester 20:00
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1649933736?profile=pass
-#EXTINF:-1,02.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2119665656?profile=pass
-#EXTINF:-1,02: Raith vs Hearts 19:45
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/805953895?profile=pass
-#EXTINF:-1,02: Southamton vs Leicester 20:00
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/111498026?profile=pass
-#EXTINF:-1,03.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1978491179?profile=pass
-#EXTINF:-1,03: Crystal Palace vs Man City 12:30
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/502535514?profile=pass
-#EXTINF:-1,03: Marseille vs Strasbourg 20:00
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1169329699?profile=pass
-#EXTINF:-1,04.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1866693891?profile=pass
-#EXTINF:-1,04: Celta vs Levante 20:00
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/276943651?profile=pass
-#EXTINF:-1,04: Crystal Palace vs Man City 12:30
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/865009454?profile=pass
-#EXTINF:-1,05.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1362036309?profile=pass
-#EXTINF:-1,05:
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/590676499?profile=pass
-#EXTINF:-1,05: Brighton vs Leeds 15:00
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/384202903?profile=pass
-#EXTINF:-1,06.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/421731417?profile=pass
-#EXTINF:-1,06:
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1104099348?profile=pass
-#EXTINF:-1,06: Brighton vs Leeds 15:00
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1190669684?profile=pass
-#EXTINF:-1,07.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/699049082?profile=pass
-#EXTINF:-1,07:
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/920547101?profile=pass
-#EXTINF:-1,07: Chelsea vs Fulham 17:30
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2098681752?profile=pass
-#EXTINF:-1,08.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/381050641?profile=pass
-#EXTINF:-1,08:
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/2047122044?profile=pass
-#EXTINF:-1,08: Chelsea vs Fulham 17:30
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/275898455?profile=pass
-#EXTINF:-1,09 Everton vs Aston Villa 20:00
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/608692929?profile=pass
-#EXTINF:-1,09.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1678030507?profile=pass
-#EXTINF:-1,09:
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1641141048?profile=pass
-#EXTINF:-1,10.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/707592968?profile=pass
-#EXTINF:-1,10:
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/607978987?profile=pass
-#EXTINF:-1,10: Everton vs Aston Villa 20:00
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1254480644?profile=pass
-#EXTINF:-1,11.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/257152072?profile=pass
-#EXTINF:-1,11:
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/125683039?profile=pass
-#EXTINF:-1,11: Newcastle vs Arsenal 14:00
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1537906483?profile=pass
-#EXTINF:-1,12.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/29297123?profile=pass
-#EXTINF:-1,12:
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/221760451?profile=pass
-#EXTINF:-1,12: Newcastle vs Arsenal 14:00
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/70240828?profile=pass
-#EXTINF:-1,13.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/464101405?profile=pass
-#EXTINF:-1,13:
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1008588281?profile=pass
-#EXTINF:-1,13: Man Utd Liverpool 16:30
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/83167595?profile=pass
-#EXTINF:-1,14.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/279567186?profile=pass
-#EXTINF:-1,14: Man Utd Liverpool 16:30
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/930231808?profile=pass
-#EXTINF:-1,15.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1741055234?profile=pass
-#EXTINF:-1,15. Spurs vs Sheff Utd 19:15
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/936609817?profile=pass
-#EXTINF:-1,16.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/665454963?profile=pass
-#EXTINF:-1,16: Spurs vs Sheff Utd 19:15
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/571732989?profile=pass
-#EXTINF:-1,17.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/945130090?profile=pass
-#EXTINF:-1,18.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1345080102?profile=pass
-#EXTINF:-1,19.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1894030183?profile=pass
-#EXTINF:-1,20.
-http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1008725814?profile=pass
-#EXTINF:-1,AF ZA SuperSport Action
+#EXTINF:-1 group-title="*82.45*",AF ZA SuperSport Action
 http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1441455595?profile=pass
 #EXTINF:-1,AF ZA SuperSport Blitz
 http://connor:str94eEt@82.45.49.11:9981/stream/channelid/346435222?profile=pass
