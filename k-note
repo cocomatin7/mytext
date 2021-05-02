@@ -4371,25 +4371,44 @@ http://connor:str94eEt@82.45.49.11:9981/stream/channel/fb0d6361ed2e6debf6f5070bf
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/c055fbf40a52fdf6e01b917f70721574
 #EXTINF:-1,Peacock Premier League TV
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/9f1cc5d907f42131be1a79f6795ad4ba
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/aff7ebeead920a42d25f8d39b341f800#EXTINF:-1,Sky Animation HD
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/4987baadf0ed9e0b42764132edf788a4#EXTINF:-1,Sky Cinema Action HD
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/c207ca46a5c0f14d0a64d0f995f326c1#EXTINF:-1,Sky Cinema Comedy HD
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/7a1413e927e19bd08bfb13a7e7bbce81#EXTINF:-1,Sky Cinema Drama HD
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/9398c94c17da37bdfc48c159f0522965#EXTINF:-1,Sky Cinema Family HD
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/e13628da26e3dbf0d7a8275e7d92cec2#EXTINF:-1,Sky Cinema Greats HD
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/905c293c31221b3fe4032f750ee81534#EXTINF:-1,Sky Cinema Hits HD
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/0da0a729d303274e3550e55187b35ecb#EXTINF:-1,Sky Cinema Premiere HD
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/68679740c59006adc5cb9f4c8ed4429e#EXTINF:-1,Sky Cinema SciFi %2F Horror HD
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/95951f6733be22c5f61c556d4ca55c24#EXTINF:-1,Sky Cinema Select HD
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/bedaba6aa10d3fbc7cc64f252e7a345c#EXTINF:-1,Sky Cinema Thriller HD
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/a67968d4f0e8ae78f713066318061398#EXTINF:-1,Sky Sports Football
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/be21007f99c41b63800588b095c3387a#EXTINF:-1,Sky Sports Football HD
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/88734ea656e2c70614bf3a09abf482a3#EXTINF:-1,Sky Sports Main Event
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/cdfe9f4298e4be0224d40e50a8fde021#EXTINF:-1,Sky Sports Main Event HD
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/a1ddc5599b76f829767c40fd76523cff#EXTINF:-1,Sky Sports News
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/12302ffe6fd24bf83d425fdb3c26eebb#EXTINF:-1,Sky Sports News HD
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/d10ed0d4bad8ce052fff9ea0bbef4002#EXTINF:-1,Sky Sports Premier League
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/178a4808dd59f5fc0e8c64c5fcd95609#EXTINF:-1,Sky Sports Premier League HD
+#EXTINF:-1,Sky Animation HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/aff7ebeead920a42d25f8d39b341f800
+#EXTINF:-1,Sky Cinema Action HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/4987baadf0ed9e0b42764132edf788a4
+#EXTINF:-1,Sky Cinema Comedy HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/c207ca46a5c0f14d0a64d0f995f326c1
+#EXTINF:-1,Sky Cinema Drama HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/7a1413e927e19bd08bfb13a7e7bbce81
+#EXTINF:-1,Sky Cinema Family HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/9398c94c17da37bdfc48c159f0522965
+#EXTINF:-1,Sky Cinema Greats HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/e13628da26e3dbf0d7a8275e7d92cec2
+#EXTINF:-1,Sky Cinema Hits HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/905c293c31221b3fe4032f750ee81534
+#EXTINF:-1,Sky Cinema Premiere HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/0da0a729d303274e3550e55187b35ecb
+#EXTINF:-1,Sky Cinema SciFi / Horror HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/68679740c59006adc5cb9f4c8ed4429e
+#EXTINF:-1,Sky Cinema Select HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/95951f6733be22c5f61c556d4ca55c24
+#EXTINF:-1,Sky Cinema Thriller HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/bedaba6aa10d3fbc7cc64f252e7a345c
+#EXTINF:-1,Sky Sports Football
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/a67968d4f0e8ae78f713066318061398
+#EXTINF:-1,Sky Sports Football HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/be21007f99c41b63800588b095c3387a
+#EXTINF:-1,Sky Sports Main Event
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/88734ea656e2c70614bf3a09abf482a3
+#EXTINF:-1,Sky Sports Main Event HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/cdfe9f4298e4be0224d40e50a8fde021
+#EXTINF:-1,Sky Sports News
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/a1ddc5599b76f829767c40fd76523cff
+#EXTINF:-1,Sky Sports News HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/12302ffe6fd24bf83d425fdb3c26eebb
+#EXTINF:-1,Sky Sports Premier League
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/d10ed0d4bad8ce052fff9ea0bbef4002
+#EXTINF:-1,Sky Sports Premier League HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/178a4808dd59f5fc0e8c64c5fcd95609
 #EXTINF:-1,VIP Astro SuperSport 1
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/bef08c8415512a06ae71eeb3e00913d0
 #EXTINF:-1,VIP Astro SuperSport 2
@@ -4958,7 +4977,7 @@ http://108.48.50.123:9981/stream/channelid/1844673169?profile=pass
 http://108.48.50.123:9981/stream/channelid/1646760935?profile=pass
 
 #EXTINF:-1,Astro Super Sport 1
-http://108.48.50.123:9981/stream/channelid/970050632?profile=pass
+http://jayel:samsung7@108.48.50.123:9981/stream/channelid/970050632?profile=pass
 #EXTINF:-1,Astro Super Sport 2
 http://108.48.50.123:9981/stream/channelid/315151055?profile=pass
 #EXTINF:-1,Astro Super Sport 3
@@ -5238,289 +5257,289 @@ http://116.204.181.238:9981/stream/channel/f3ef5fea3cf8425665cacb7079fb3a9c?titl
 
 + + + + + http://116.255.19.58:9981/extjs.html + + + + +
 
-#EXTINF:-1 group-title="116.255",AND PRIVE HD
+ group-title="116.255",AND PRIVE HD
 http://116.255.19.58:9981/stream/channelid/401687299?profile=pass
-#EXTINF:-1,ANIMAL PLANET WORLD HD
+,ANIMAL PLANET WORLD HD
 http://116.255.19.58:9981/stream/channelid/1914208299?profile=pass
-#EXTINF:-1,ANIMAL PLANET | HD
+,ANIMAL PLANET | HD
 http://116.255.19.58:9981/stream/channelid/1112094828?profile=pass
 
-#EXTINF:-1,B-FLIX MOVIES
+,B-FLIX MOVIES
 http://116.255.19.58:9981/stream/channelid/2025506144?profile=pass
-#EXTINF:-1,B4U MOVIES
+,B4U MOVIES
 http://116.255.19.58:9981/stream/channelid/498588440?profile=pass
-#EXTINF:-1,B4U MUSIC
+,B4U MUSIC
 http://116.255.19.58:9981/stream/channelid/1877557293?profile=pass
 
-#EXTINF:-1,BBC NEWS HD ◉
+,BBC NEWS HD ◉
 http://116.255.19.58:9981/stream/channelid/1066862483?profile=pass
-#EXTINF:-1,BBC WORLD NEWS
+,BBC WORLD NEWS
 http://116.255.19.58:9981/stream/channelid/86137363?profile=pass
-#EXTINF:-1,BBC WORLD NEWS | UHD
+,BBC WORLD NEWS | UHD
 http://116.255.19.58:9981/stream/channelid/1542950214?profile=pass
 
-#EXTINF:-1,BeIN SPORTS | HD
+,BeIN SPORTS | HD
 http://116.255.19.58:9981/stream/channelid/307405528?profile=pass
 
-#EXTINF:-1,BLOOMBERG TV EUROPE | HD
+,BLOOMBERG TV EUROPE | HD
 http://116.255.19.58:9981/stream/channelid/1162806721?profile=pass
-#EXTINF:-1,BLOOMBERG | HD
+,BLOOMBERG | HD
 http://116.255.19.58:9981/stream/channelid/255492231?profile=pass
-#EXTINF:-1,BOOMERANG | HD
+,BOOMERANG | HD
 http://116.255.19.58:9981/stream/channelid/1093490667?profile=pass
 
-#EXTINF:-1,CA - ANIMAL PLANET HD
+,CA - ANIMAL PLANET HD
 http://116.255.19.58:9981/stream/channelid/332820047?profile=pass
-#EXTINF:-1,CA - BBC WORLD NEWS HD
+,CA - BBC WORLD NEWS HD
 http://116.255.19.58:9981/stream/channelid/576882870?profile=pass
 
-#EXTINF:-1,CA - DISCOVERY ID HD
+,CA - DISCOVERY ID HD
 http://116.255.19.58:9981/stream/channelid/1491182052?profile=pass
-#EXTINF:-1,CA - DISCOVERY SCIENCE CANADA HD
+,CA - DISCOVERY SCIENCE CANADA HD
 http://116.255.19.58:9981/stream/channelid/1541497448?profile=pass
-#EXTINF:-1,CA - DOCUMENTARY HD
+,CA - DOCUMENTARY HD
 http://116.255.19.58:9981/stream/channelid/1203485713?profile=pass
-#EXTINF:-1,CA - FOOD NETWORK HD
+,CA - FOOD NETWORK HD
 http://116.255.19.58:9981/stream/channelid/1398221781?profile=pass
 
-#EXTINF:-1,CA - HISTORY HD
+,CA - HISTORY HD
 http://116.255.19.58:9981/stream/channelid/1682998910?profile=pass
 
-#EXTINF:-1,CA - NAT GEO HD
+,CA - NAT GEO HD
 http://116.255.19.58:9981/stream/channelid/590102788?profile=pass
 
-#EXTINF:-1,CA - TRAVEL + ESCAPE HD
+,CA - TRAVEL + ESCAPE HD
 http://116.255.19.58:9981/stream/channelid/1153443077?profile=pass
-#EXTINF:-1,CA - VIP FOOD NETWORK HD
+,CA - VIP FOOD NETWORK HD
 http://116.255.19.58:9981/stream/channelid/1386702522?profile=pass
 
-#EXTINF:-1,CARTOON NETWORK
+,CARTOON NETWORK
 http://116.255.19.58:9981/stream/channelid/1020274494?profile=pass
-#EXTINF:-1,CARTOON NETWORK EAST | HD
+,CARTOON NETWORK EAST | HD
 http://116.255.19.58:9981/stream/channelid/499504100?profile=pass
-#EXTINF:-1,CARTOON NETWORK EAST | UHD
+,CARTOON NETWORK EAST | UHD
 http://116.255.19.58:9981/stream/channelid/1675860648?profile=pass
-#EXTINF:-1,CARTOON NETWORK WEST | HD
+,CARTOON NETWORK WEST | HD
 http://116.255.19.58:9981/stream/channelid/571199370?profile=pass
 
-#EXTINF:-1,CBS SPORTS NETWORK | HD
+,CBS SPORTS NETWORK | HD
 http://116.255.19.58:9981/stream/channelid/200055899?profile=pass
 
-#EXTINF:-1,CNBC
+,CNBC
 http://116.255.19.58:9981/stream/channelid/1367661057?profile=pass
-#EXTINF:-1,CNBC TV18 PRIME NEWS HD
+,CNBC TV18 PRIME NEWS HD
 http://116.255.19.58:9981/stream/channelid/22787913?profile=pass
-#EXTINF:-1,CNBC WORLD | HD
+,CNBC WORLD | HD
 http://116.255.19.58:9981/stream/channelid/2122205336?profile=pass
-#EXTINF:-1,CNBC | HD ◉
+,CNBC | HD ◉
 http://116.255.19.58:9981/stream/channelid/94457006?profile=pass
-#EXTINF:-1,CNN HD
+,CNN HD
 http://116.255.19.58:9981/stream/channelid/362991228?profile=pass
-#EXTINF:-1,CNN INTERNATIONAL | HD
+,CNN INTERNATIONAL | HD
 http://116.255.19.58:9981/stream/channelid/1590920639?profile=pass
-#EXTINF:-1,CNN | HD ◉
+,CNN | HD ◉
 http://116.255.19.58:9981/stream/channelid/1520088425?profile=pass
-#EXTINF:-1,CNN | UHD ◉
+,CNN | UHD ◉
 http://116.255.19.58:9981/stream/channelid/539528648?profile=pass
-#EXTINF:-1,CNN | UHD+ ◉
+,CNN | UHD+ ◉
 http://116.255.19.58:9981/stream/channelid/1606230330?profile=pass
 
-#EXTINF:-1,DISCOVERY CANADA
+,DISCOVERY CANADA
 http://116.255.19.58:9981/stream/channelid/1460538696?profile=pass
-#EXTINF:-1,DISCOVERY CHANNEL | HD
+,DISCOVERY CHANNEL | HD
 http://116.255.19.58:9981/stream/channelid/1491206646?profile=pass
-#EXTINF:-1,DISCOVERY FAMILY | HD
+,DISCOVERY FAMILY | HD
 http://116.255.19.58:9981/stream/channelid/1791599521?profile=pass
-#EXTINF:-1,DISCOVERY HD
+,DISCOVERY HD
 http://116.255.19.58:9981/stream/channelid/187593480?profile=pass
-#EXTINF:-1,DISCOVERY HISTORY
+,DISCOVERY HISTORY
 http://116.255.19.58:9981/stream/channelid/173449464?profile=pass
-#EXTINF:-1,DISCOVERY LIFE | HD
+,DISCOVERY LIFE | HD
 http://116.255.19.58:9981/stream/channelid/417083639?profile=pass
-#EXTINF:-1,DISCOVERY SCIENCE
+,DISCOVERY SCIENCE
 http://116.255.19.58:9981/stream/channelid/1952559390?profile=pass
-#EXTINF:-1,DISCOVERY SCIENCE | HD
+,DISCOVERY SCIENCE | HD
 http://116.255.19.58:9981/stream/channelid/885369588?profile=pass
-#EXTINF:-1,DISCOVERY TURBO
+,DISCOVERY TURBO
 http://116.255.19.58:9981/stream/channelid/132977808?profile=pass
-#EXTINF:-1,DISCOVERY VELOCITY | HD
+,DISCOVERY VELOCITY | HD
 http://116.255.19.58:9981/stream/channelid/1077906928?profile=pass
 
-#EXTINF:-1,ESPN 1 | UHD (AU)
+,ESPN 1 | UHD (AU)
 http://116.255.19.58:9981/stream/channelid/1943252097?profile=pass
-#EXTINF:-1,ESPN 2 | HD
+,ESPN 2 | HD
 http://116.255.19.58:9981/stream/channelid/1506802071?profile=pass
-#EXTINF:-1,ESPN 2 | UHD (AU)
+,ESPN 2 | UHD (AU)
 http://116.255.19.58:9981/stream/channelid/784340447?profile=pass
-#EXTINF:-1,ESPN U | HD
+,ESPN U | HD
 http://116.255.19.58:9981/stream/channelid/2065835142?profile=pass
-#EXTINF:-1,ESPN | HD
+,ESPN | HD
 http://116.255.19.58:9981/stream/channelid/1398199228?profile=pass
-#EXTINF:-1,ESPN | HD (AU)
+,ESPN | HD (AU)
 http://116.255.19.58:9981/stream/channelid/2076750768?profile=pass
 
-#EXTINF:-1,FOOD FOOD HD
+,FOOD FOOD HD
 http://116.255.19.58:9981/stream/channelid/1001623216?profile=pass
-#EXTINF:-1,FOOD NETWORK
+,FOOD NETWORK
 http://116.255.19.58:9981/stream/channelid/1930626515?profile=pass
-#EXTINF:-1,FOOD NETWORK | HD
+,FOOD NETWORK | HD
 http://116.255.19.58:9981/stream/channelid/1259879597?profile=pass
 
-#EXTINF:-1,FOX SPORTS 1 | UHD
+,FOX SPORTS 1 | UHD
 http://116.255.19.58:9981/stream/channelid/2089604660?profile=pass
-#EXTINF:-1,FOX SPORTS 2 | UHD
+,FOX SPORTS 2 | UHD
 http://116.255.19.58:9981/stream/channelid/339967020?profile=pass
-#EXTINF:-1,FOX SPORTS 503 | UHD (AU)
+,FOX SPORTS 503 | UHD (AU)
 http://116.255.19.58:9981/stream/channelid/268353445?profile=pass
-#EXTINF:-1,FOX SPORTS 505 | UHD (AU)
+,FOX SPORTS 505 | UHD (AU)
 http://116.255.19.58:9981/stream/channelid/298373545?profile=pass
-#EXTINF:-1,FOX SPORTS 506 | UHD (AU)
+,FOX SPORTS 506 | UHD (AU)
 http://116.255.19.58:9981/stream/channelid/1554667698?profile=pass
 
-#EXTINF:-1,HBO INDIA HD
+,HBO INDIA HD
 http://116.255.19.58:9981/stream/channelid/966391717?profile=pass
-#EXTINF:-1,HISTORY 2 HD
+,HISTORY 2 HD
 http://116.255.19.58:9981/stream/channelid/890275670?profile=pass
-#EXTINF:-1,HISTORY CHANNEL | HD
+,HISTORY CHANNEL | HD
 http://116.255.19.58:9981/stream/channelid/1309412434?profile=pass
-#EXTINF:-1,HISTORY CHANNEL | UHD
+,HISTORY CHANNEL | UHD
 http://116.255.19.58:9981/stream/channelid/387718193?profile=pass
-#EXTINF:-1,HISTORY HD
+,HISTORY HD
 http://116.255.19.58:9981/stream/channelid/603881604?profile=pass
-#EXTINF:-1,HISTORY TV18 HD
+,HISTORY TV18 HD
 http://116.255.19.58:9981/stream/channelid/108550568?profile=pass
 
-#EXTINF:-1,LOVE NATURE
+,LOVE NATURE
 http://116.255.19.58:9981/stream/channelid/74649661?profile=pass
-#EXTINF:-1,MN PLUS HD
+,MN PLUS HD
 http://116.255.19.58:9981/stream/channelid/297928107?profile=pass
-#EXTINF:-1,MNX HD
+,MNX HD
 http://116.255.19.58:9981/stream/channelid/210582917?profile=pass
-#EXTINF:-1,MOVIES NOW HD
+,MOVIES NOW HD
 http://116.255.19.58:9981/stream/channelid/538379765?profile=pass
-#EXTINF:-1,MSNBC | HD
+,MSNBC | HD
 http://116.255.19.58:9981/stream/channelid/2010820037?profile=pass
-#EXTINF:-1,MTV BEATS HD
+,MTV BEATS HD
 http://116.255.19.58:9981/stream/channelid/308901347?profile=pass
-#EXTINF:-1,MTV PLUS HD
+,MTV PLUS HD
 http://116.255.19.58:9981/stream/channelid/547221352?profile=pass
-#EXTINF:-1,MUSIC INDIA
+,MUSIC INDIA
 http://116.255.19.58:9981/stream/channelid/910272269?profile=pass
-#EXTINF:-1,NAT GEO HD
+,NAT GEO HD
 http://116.255.19.58:9981/stream/channelid/1460513297?profile=pass
-#EXTINF:-1,NAT GEO USA
+,NAT GEO USA
 http://116.255.19.58:9981/stream/channelid/256253778?profile=pass
-#EXTINF:-1,NAT GEO WILD
+,NAT GEO WILD
 http://116.255.19.58:9981/stream/channelid/1493705597?profile=pass
-#EXTINF:-1,NAT GEO WILD EAST | HD
+,NAT GEO WILD EAST | HD
 http://116.255.19.58:9981/stream/channelid/646739338?profile=pass
-#EXTINF:-1,NAT GEO WILD FHD
+,NAT GEO WILD FHD
 http://116.255.19.58:9981/stream/channelid/2002396212?profile=pass
-#EXTINF:-1,NAT GEO WILD HD
+,NAT GEO WILD HD
 http://116.255.19.58:9981/stream/channelid/1865373900?profile=pass
-#EXTINF:-1,NAT GEO WILD HD US
+,NAT GEO WILD HD US
 http://116.255.19.58:9981/stream/channelid/350575026?profile=pass
-#EXTINF:-1,NATIONAL GEOGRAPHIC EAST | HD
+,NATIONAL GEOGRAPHIC EAST | HD
 http://116.255.19.58:9981/stream/channelid/1138287014?profile=pass
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+,NATIONAL GEOGRAPHIC HD
 http://116.255.19.58:9981/stream/channelid/651918483?profile=pass
 
-#EXTINF:-1,NBC | HD ◉
+,NBC | HD ◉
 http://116.255.19.58:9981/stream/channelid/1853382497?profile=pass
 
-#EXTINF:-1,NICK MUSIC | HD
+,NICK MUSIC | HD
 http://116.255.19.58:9981/stream/channelid/2014566087?profile=pass
-#EXTINF:-1,NICK TOONS | UHD
+,NICK TOONS | UHD
 http://116.255.19.58:9981/stream/channelid/1380922038?profile=pass
-#EXTINF:-1,NICK | HD
+,NICK | HD
 http://116.255.19.58:9981/stream/channelid/283515831?profile=pass
-#EXTINF:-1,NICKELODEON | HD
+,NICKELODEON | HD
 http://116.255.19.58:9981/stream/channelid/963909581?profile=pass
 
-#EXTINF:-1,POP | HD
+,POP | HD
 http://116.255.19.58:9981/stream/channelid/1205625923?profile=pass
 
-#EXTINF:-1,SKY CINEMA DRAMA & ROMANCE FHD
+,SKY CINEMA DRAMA & ROMANCE FHD
 http://116.255.19.58:9981/stream/channelid/947557895?profile=pass
-#EXTINF:-1,SKY SPORTS ARENA FHD
+,SKY SPORTS ARENA FHD
 http://116.255.19.58:9981/stream/channelid/1611782331?profile=pass
-#EXTINF:-1,SKY SPORTS F1 FHD
+,SKY SPORTS F1 FHD
 http://116.255.19.58:9981/stream/channelid/2141482903?profile=pass
-#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
+,SKY SPORTS MAIN EVENT FHD
 http://116.255.19.58:9981/stream/channelid/1743273349?profile=pass
-#EXTINF:-1,SKY SPORTS MIX FHD
+,SKY SPORTS MIX FHD
 http://116.255.19.58:9981/stream/channelid/69272011?profile=pass
 
-#EXTINF:-1,SONY ASIA
+,SONY ASIA
 http://116.255.19.58:9981/stream/channelid/1997280201?profile=pass
-#EXTINF:-1,SONY ASIA HD
+,SONY ASIA HD
 http://116.255.19.58:9981/stream/channelid/496445432?profile=pass
-#EXTINF:-1,SONY BBC EARTH ENGLISH HD
+,SONY BBC EARTH ENGLISH HD
 http://116.255.19.58:9981/stream/channelid/1118107379?profile=pass
-#EXTINF:-1,SONY CHANNEL
+,SONY CHANNEL
 http://116.255.19.58:9981/stream/channelid/1702688229?profile=pass
-#EXTINF:-1,SONY HD ◉
+,SONY HD ◉
 http://116.255.19.58:9981/stream/channelid/1841661732?profile=pass
-#EXTINF:-1,SONY MAX
+,SONY MAX
 http://116.255.19.58:9981/stream/channelid/202068055?profile=pass
-#EXTINF:-1,SONY MAX 2
+,SONY MAX 2
 http://116.255.19.58:9981/stream/channelid/126874317?profile=pass
-#EXTINF:-1,SONY MAX HD
+,SONY MAX HD
 http://116.255.19.58:9981/stream/channelid/1991010554?profile=pass
-#EXTINF:-1,SONY MAX HD (UK)
+,SONY MAX HD (UK)
 http://116.255.19.58:9981/stream/channelid/1125418416?profile=pass
-#EXTINF:-1,SONY PIX HD
+,SONY PIX HD
 http://116.255.19.58:9981/stream/channelid/447654891?profile=pass
-#EXTINF:-1,SONY SAB
+,SONY SAB
 http://116.255.19.58:9981/stream/channelid/181801914?profile=pass
-#EXTINF:-1,SONY SAB HD ◉
+,SONY SAB HD ◉
 http://116.255.19.58:9981/stream/channelid/1626041615?profile=pass
-#EXTINF:-1,STAR GOLD HD
+,STAR GOLD HD
 http://116.255.19.58:9981/stream/channelid/1595614559?profile=pass
-#EXTINF:-1,STAR GOLD SELECT HD
+,STAR GOLD SELECT HD
 http://116.255.19.58:9981/stream/channelid/652882337?profile=pass
-#EXTINF:-1,STAR MOVIES HD
+,STAR MOVIES HD
 http://116.255.19.58:9981/stream/channelid/1785834514?profile=pass
-#EXTINF:-1,STAR MOVIES SELECT HD
+,STAR MOVIES SELECT HD
 http://116.255.19.58:9981/stream/channelid/139885225?profile=pass
-#EXTINF:-1,STAR PLUS HD (UK)
+,STAR PLUS HD (UK)
 http://116.255.19.58:9981/stream/channelid/885963075?profile=pass
-#EXTINF:-1,STAR PLUS HD ◉
+,STAR PLUS HD ◉
 http://116.255.19.58:9981/stream/channelid/1718552354?profile=pass
-#EXTINF:-1,STAR WORLD HD
+,STAR WORLD HD
 http://116.255.19.58:9981/stream/channelid/262883876?profile=pass
-#EXTINF:-1,STAR WORLD PREMIER HD
+,STAR WORLD PREMIER HD
 http://116.255.19.58:9981/stream/channelid/17798793?profile=pass
 
-#EXTINF:-1,TRAVEL CHANNEL
+,TRAVEL CHANNEL
 http://116.255.19.58:9981/stream/channelid/1925225697?profile=pass
-#EXTINF:-1,TRAVEL CHANNEL | HD
+,TRAVEL CHANNEL | HD
 http://116.255.19.58:9981/stream/channelid/186890598?profile=pass
-#EXTINF:-1,TRAVEL XP HD
+,TRAVEL XP HD
 http://116.255.19.58:9981/stream/channelid/1023159033?profile=pass
 
-#EXTINF:-1,VH1 HD
+,VH1 HD
 http://116.255.19.58:9981/stream/channelid/1350946800?profile=pass
 
-#EXTINF:-1,WOW CINEMA
+,WOW CINEMA
 http://116.255.19.58:9981/stream/channelid/750311866?profile=pass
-#EXTINF:-1,WWE NETWORK | HD
+,WWE NETWORK | HD
 http://116.255.19.58:9981/stream/channelid/1117897821?profile=pass
-#EXTINF:-1,ZEE ANMOL CINEMA
+,ZEE ANMOL CINEMA
 http://116.255.19.58:9981/stream/channelid/1450878081?profile=pass
-#EXTINF:-1,ZEE CAFE HD
+,ZEE CAFE HD
 http://116.255.19.58:9981/stream/channelid/1558666983?profile=pass
-#EXTINF:-1,ZEE CINEMA
+,ZEE CINEMA
 http://116.255.19.58:9981/stream/channelid/1950450199?profile=pass
-#EXTINF:-1,ZEE CINEMA HD
+,ZEE CINEMA HD
 http://116.255.19.58:9981/stream/channelid/834747814?profile=pass
-#EXTINF:-1,ZEE TV
+,ZEE TV
 http://116.255.19.58:9981/stream/channelid/1991996443?profile=pass
-#EXTINF:-1,ZEE TV HD
+,ZEE TV HD
 http://116.255.19.58:9981/stream/channelid/809557795?profile=pass
-#EXTINF:-1,ZEE TV HD ◉
+,ZEE TV HD ◉
 http://116.255.19.58:9981/stream/channelid/2081627602?profile=pass
-#EXTINF:-1 group-title="116.255",ZING
+ group-title="116.255",ZING
 http://116.255.19.58:9981/stream/channelid/129924788?profile=pass
 
 + + + + + http://171.4.161.216:9981/extjs.html + + + + + DOWN
@@ -5596,12 +5615,12 @@ http://newhostshare.ddns.net:9981/extjs.html
 
 + + + + + 203.81.81.230:80 + + + + +
 
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="203.81", MRTV |203
+ tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="203.81", MRTV |203
 http://203.81.81.230:80/mrtv.m3u8
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png"", MRTV ||203
+ tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png"", MRTV ||203
 http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
 http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
-#EXTINF:-1, Waterfall
+, Waterfall
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
  tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png"", MRTV |203
 http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv1.m3u8
@@ -5612,16 +5631,16 @@ http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv3.m3u8
 
 + + + + + rtmp://203.81.81.230:80 + + + + +
 
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="203.81", MRTV |rtmp
+ tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="203.81", MRTV |rtmp
 rtmp://203.81.81.230:80/livepkgr/mrtv
 rtmp://203.81.81.230:80/live/NRCL
-#EXTINF:-1, MITV |rtmp
+, MITV |rtmp
 rtmp://203.81.81.229:80/livepkgr/MITV
-#EXTINF:-1, MRTV HLUTTAW |rtmp
+, MRTV HLUTTAW |rtmp
 rtmp://203.81.81.229:80/livepkgr/HTT
-#EXTINF:-1, MRTV NRC |rtmp
+, MRTV NRC |rtmp
 rtmp://203.81.81.229:80/livepkgr/NRC
-#EXTINF:-1 group-title="203.81", MRTV farmer |rtmp
+ group-title="203.81", MRTV farmer |rtmp
 rtmp://203.81.81.229:80/livepkgr/farmer
 
 + + + + + 203.81.84.130/mwd + + + + + 
@@ -5640,7 +5659,7 @@ http://203.154.177.124:8899/live/ch23/playlist.m3u8
 http://203.154.177.124:8899/live/ch1/playlist.m3u8
 http://203.154.177.124:8899/live/ch2/playlist.m3u8
 http://203.154.177.124:8899/live/ch3/playlist.m3u8
-#EXTINF:-1 group-title="203.154",FIGHTBOX
+ group-title="203.154",FIGHTBOX
 http://203.154.177.124:8899/live/ch4/playlist.m3u8
 ANIMAX
 http://203.154.177.124:8899/live/ch5/playlist.m3u8
@@ -5650,7 +5669,7 @@ http://203.154.177.124:8899/live/ch8/playlist.m3u8
 http://203.154.177.124:8899/live/ch9/playlist.m3u8
 http://203.154.177.124:8899/live/ch10/playlist.m3u8
 NA http://203.154.177.124:8899/live/ch11/playlist.m3u8
-#EXTINF:-1 group-title="203.154",WB TV
+ group-title="203.154",WB TV
 http://203.154.177.124:8899/live/ch12/playlist.m3u8
 NA http://203.154.177.124:8899/live/ch13/playlist.m3u8
 NA http://203.154.177.124:8899/live/ch14/playlist.m3u8
@@ -5662,7 +5681,7 @@ NA http://203.154.177.124:8899/live/ch19/playlist.m3u8
 MIAO MI
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
 http://203.154.177.124:8899/live/ch21/playlist.m3u8
-#EXTINF:-1 group-title="203.154",FIGHT
+ group-title="203.154",FIGHT
 http://203.154.177.124:8899/live/ch22/playlist.m3u8
 http://203.154.177.124:8899/live/ch24/playlist.m3u8
 http://203.154.177.124:8899/live/ch25/playlist.m3u8
@@ -6177,21 +6196,21 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 ,CH 139
 http://thaicable.myftp.org:8000/live/infosat/2020/139.m3u8
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-,,CH 140
+,CH 140
 http://thaicable.myftp.org:8000/live/infosat/2020/140.m3u8
 https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
-,,CH 141
+,CH 141
 http://thaicable.myftp.org:8000/live/infosat/2020/141.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-,,CH 142
+,CH 142
 http://thaicable.myftp.org:8000/live/infosat/2020/142.m3u8
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-,,CH 143 | REDBULL TV
+,CH 143 | REDBULL TV
 http://thaicable.myftp.org:8000/live/infosat/2020/143.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-,,CH 144
+,CH 144
 http://thaicable.myftp.org:8000/live/infosat/2020/144.m3u8
-,,CH 145
+,CH 145
 http://thaicable.myftp.org:8000/live/infosat/2020/145.m3u8
 ,CH 146
 http://thaicable.myftp.org:8000/live/infosat/2020/146.m3u8
@@ -8358,37 +8377,7 @@ https://cdn221.cloud-streaming.com/wrapfootball_t5/hd-hbo-thai/chunks.m3u8?nimbl
 
 + + + + + https://www.ballsoi8.com / 103.253.74.3:443 + + + + +
 
- group-title="TH/ballsoi8",trueepl3
-https://cdn227.cloud-streaming.com/ballsod_y1/trueepl3_480p/chunks.m3u8?nimblesessionid=4240400&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgMzoyMDoxNCBBTSZoYXNoX3ZhbHVlPUlReW5lQWRTcCtIQ21xNVJubkJsalE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0xMTgxNTQ=
- group-title="TH/ballsoi8",trueepl4
-https://cdn227.cloud-streaming.com/ballsod_y1/trueepl4_480p/chunks.m3u8?nimblesessionid=4240401&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgMzoyMDo1MSBBTSZoYXNoX3ZhbHVlPUlMUW5MTnJYVGVucExQZmdvODBDa3c9PSZ2YWxpZG1pbnV0ZXM9MSZpZD03ODcxNzQ=
- group-title="TH/ballsoi8",trueepl5
-https://cdn227.cloud-streaming.com/ballsod_y1/trueepl5_480p/chunks.m3u8?nimblesessionid=4240403&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgMzoyMTozMCBBTSZoYXNoX3ZhbHVlPTR4L1dXVDZsMDVJblVXU3lmQXl6SVE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0zMTcxOTU=
- group-title="TH/ballsoi8",bein 1'
-https://cdn227.cloud-streaming.com/ballsod_y1/beinsport1_480p/chunks.m3u8?nimblesessionid=4240333&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgMzowODowNyBBTSZoYXNoX3ZhbHVlPW0wVDVpZTlKTTQ0NU5DMDYrYTVXZHc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD01MTczODI=
- group-title="TH/ballsoi8",bein 2'
-https://cdn227.cloud-streaming.com/ballsod_y1/beinsporthd2_480p/chunks.m3u8?nimblesessionid=4240346&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgMzowOTozMiBBTSZoYXNoX3ZhbHVlPXVrSkUyK050UlhPMi8zQW04NnJGRFE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD05MTM1MDI=
-,trueepl5
-https://cdn227.cloud-streaming.com/ballsoi8_r1/trueepl5_480p/chunks.m3u8?nimblesessionid=
-,skynethd
-https://cdn227.cloud-streaming.com/ballsoi8_r3/skynethd/chunks.m3u8?nimblesessionid=
-,skynet1
-https://cdn227.cloud-streaming.com/ballsoi8_r3/skynet1/chunks.m3u8?nimblesessionid=
-,skynet2
-https://cdn227.cloud-streaming.com/ballsoi8_r3/skynet2/chunks.m3u8?nimblesessionid=
-,skynet3
-https://cdn227.cloud-streaming.com/ballsoi8_r3/skynet3/chunks.m3u8?nimblesessionid=
-,skynet5
-https://cdn227.cloud-streaming.com/ballsoi8_r3/skynet5/chunks.m3u8?nimblesessionid=
- group-title="TH/ballsoi8",skynet6
-https://cdn227.cloud-streaming.com/ballsoi8_r3/skynet6/chunks.m3u8?nimblesessionid=
-hd-hbo-thai
-https://cdn227.cloud-streaming.com/ballsoi8_r5/hd-hbo-thai/chunks.m3u8?nimblesessionid=
-
 + + + + + https://www.liveballsod.com/ + + + + +
-
- bein 1
-https://cdn235.cloud-streaming.com/fifa55u_x1/beinsport1_480p/chunks.m3u8
 
 + + + + + totiptv.com + + + + + +
 
