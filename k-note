@@ -3271,13 +3271,20 @@ http://73.85.95.69:9981/stream/service/b379d5edf5079c4f3c991965e54104d8#EXTINF:-
 http://73.85.95.69:9981/stream/service/4569a12a6e2f97544fddfa7ab26d65ef#EXTINF:-1, Service01
 http://73.85.95.69:9981/stream/service/b9deee5b37a98254b564d4f365f53b45#EXTINF:-1, Service01
 http://73.85.95.69:9981/stream/service/0eebaea5743436593ced19ce60f9fc62#EXTINF:-1, Service01
-http://73.85.95.69:9981/stream/service/13b7e037de895fdefc8327c9182e0b3b#EXTINF:-1, Service01
-http://73.85.95.69:9981/stream/service/5a68b2ff6d9dc69d25b89356ed3d5f17#EXTINF:-1, Service01
-http://73.85.95.69:9981/stream/service/0522ad2063e97e53f03b0d561a58de2a#EXTINF:-1, Service01
-http://73.85.95.69:9981/stream/service/0eda5f2dca289ffabb2aecdd36b81678#EXTINF:-1, Service01
-http://73.85.95.69:9981/stream/service/e161921d448c1c575839a58fe1acd5ea#EXTINF:-1, Service01
-http://73.85.95.69:9981/stream/service/94c9bd6300555855fb7cbe56ab75170c#EXTINF:-1, Service01
-http://73.85.95.69:9981/stream/service/5a660f0d5da98d5c6bb85544c79eb450#EXTINF:-1, Service01
+#EXTINF:-1, Service01
+http://73.85.95.69:9981/stream/service/13b7e037de895fdefc8327c9182e0b3b
+#EXTINF:-1, Service01
+http://73.85.95.69:9981/stream/service/5a68b2ff6d9dc69d25b89356ed3d5f17
+#EXTINF:-1, Service01
+http://73.85.95.69:9981/stream/service/0522ad2063e97e53f03b0d561a58de2a
+#EXTINF:-1, Service01
+http://73.85.95.69:9981/stream/service/0eda5f2dca289ffabb2aecdd36b81678
+#EXTINF:-1, Service01
+http://73.85.95.69:9981/stream/service/e161921d448c1c575839a58fe1acd5ea
+#EXTINF:-1, Service01
+http://73.85.95.69:9981/stream/service/94c9bd6300555855fb7cbe56ab75170c
+#EXTINF:-1, Service01
+http://73.85.95.69:9981/stream/service/5a660f0d5da98d5c6bb85544c79eb450
 #EXTINF:-1, MTV Classic
 http://73.85.95.69:9981/stream/service/8ba16149be1e5a0c085843f44d4f1479
 #EXTINF:-1, US NBC Sports Network (F)
@@ -3300,8 +3307,10 @@ http://73.85.95.69:9981/stream/service/b61b33b6f1746b6019b6b4e630f3d686
 http://73.85.95.69:9981/stream/service/748fb86e7b7dc926ccb04e529149058c
 #EXTINF:-1, beIN Sports EN 1 FHD'
 http://73.85.95.69:9981/stream/service/c6ffeeeff6bea2e0b5198ac13b54da64
-http://73.85.95.69:9981/stream/service/3c8c3e245bca57963d699fca4d8cd3b3#EXTINF:-1, beIN Sports EN 2 FHD
-http://73.85.95.69:9981/stream/service/68f82bb5907f99ff8dd22e19352a0062#EXTINF:-1, beIN Sports EN 2 FHD'
+#EXTINF:-1, beIN Sports EN 2 FHD
+http://73.85.95.69:9981/stream/service/3c8c3e245bca57963d699fca4d8cd3b3
+#EXTINF:-1, beIN Sports EN 2 FHD'
+http://73.85.95.69:9981/stream/service/68f82bb5907f99ff8dd22e19352a0062
 #EXTINF:-1, |US| NBCSN HD
 http://73.85.95.69:9981/stream/service/d02db8227a552676aba7371a8d728f77
 #EXTINF:-1 group-title="*73.85*", |US| NBCSN HD'
