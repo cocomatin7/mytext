@@ -2216,7 +2216,7 @@ http://3.239.35.218:9981/stream/service/dd7df1c9834f48b130a3c1b70926a251
 #EXTINF:-1 group-title="3.239", MIX 24 Conciertos Live
 http://3.239.35.218:9981/stream/service/4b7a2579d61c5f86590a2c8eae6c105e
 
-+ + + + + http://4digital.ddns.net:9981/extjs.html + + + + +
++ + + + + http://4digital.ddns.net:9981/extjs.html + + + + + locked 
 
 #EXTINF:-1 group-title="4digit/TH", VIP HD1
 http://4digital.ddns.net:9981/stream/mux/a7e489d8448265bf934cd25e59b5b669
@@ -2419,7 +2419,7 @@ http://4digital.ddns.net:9981/play/stream/service/0ce306a5da35cefee8db8298ee7d82
 http://4digital.ddns.net:9981/stream/mux/7c4f1149ef1d43041266f5b13dfad63e VIP2
 
 http://4digital.ddns.net:9981/play/stream/service/f744298928a1d0b2831247b1a97e4912 VIP HD3
- group-title="4digit/TH", VIP HD3 / VTV Cab16
+VIP HD3 / VTV Cab16
 http://4digital.ddns.net:9981/stream/service/f744298928a1d0b2831247b1a97e4912?ticket=15DBCA8941EB0CCB8C238BE0F54402535AF78BFA
 VIP HD3 / TPF HD1 |4digit < offline
 http://4digital.ddns.net:9981/stream/service/d396adf06388c6a42aed5805744dd446
@@ -3234,7 +3234,7 @@ http://73.85.95.69:9981/stream/service/cbaeecc62cca41e46d7b0f1cf08b8a9c
 
 #EXTINF:-1 group-title="*73.85*", beIN SPORTS 1
 http://73.85.95.69:9981/stream/service/f7d9ca569bd18943e1b4981a2cf6f04f
-#EXTINF:-1, Service01
+#EXTINF:-1, BT SPORT 2HD
 http://73.85.95.69:9981/stream/service/0ced5a0aa63d8774cf64422f93bbee20
 #EXTINF:-1, Service01
 http://73.85.95.69:9981/stream/service/44af5b69d34e45a6e7cc4fda2adf2716
@@ -3244,9 +3244,9 @@ http://73.85.95.69:9981/stream/service/2dc07abe6cbe42717a9815d8491e76c8
 http://73.85.95.69:9981/stream/service/7a1b8687237bc507aa363638585febb8
 #EXTINF:-1, STAR SPORTS SELECT 2HD'
 http://73.85.95.69:9981/stream/service/581392d4b54b2b19942db5d8827a8077
-#EXTINF:-1, Service01
+#EXTINF:-1, MTV BASE
 http://73.85.95.69:9981/stream/service/8444333e6dce32fb057869a5e9fe9ceb
-#EXTINF:-1, Service01
+#EXTINF:-1, MTV CLASSIC
 http://73.85.95.69:9981/stream/service/b379d5edf5079c4f3c991965e54104d8
 #EXTINF:-1, Service01
 http://73.85.95.69:9981/stream/service/4569a12a6e2f97544fddfa7ab26d65ef
