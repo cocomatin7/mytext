@@ -2653,16 +2653,16 @@ http://50.7.161.82:8278/Antv/playlist.m3u8?tid=13104999
 
 + + + + + 50.7.222.130:8278/streams/d + + + + +
 
-,SUPERSPORT 1 |50
+ ,SUPERSPORT 1 |50
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-,SUPERSPORT 2 |50
+ ,SUPERSPORT 2 |50
 http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-,SUPERSPORT 3 |50
+ ,SUPERSPORT 3 |50
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-,SUPERSPORT 4 |50
+ ,SUPERSPORT 4 |50
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
-  group-title="Sport/Bamar",True Premiere Football HD1 |50
+ ,True Premiere Football HD1 |50
 http://50.7.222.130:8278/streams/d/truepre1_pat/playlist.m3u8
  ,True Premiere Football HD2 |50
 http://50.7.222.130:8278/streams/d/truepre2_pat/playlist.m3u8
@@ -2675,7 +2675,7 @@ http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 ,TV1 HD
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 group-title="50.7/TH",TVN HD
+#EXTINF:-1,TVN HD
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
 ,Prima HD
@@ -2684,14 +2684,14 @@ http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 ,TV3 HD
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
- ,Fox action hd
+,Fox action hd
 http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
- ,Fox family
+,Fox family
 http://50.7.161.82:8278/streams/d/Foxfamily/playlist.m3u8
- ,Fox Movie
+,Fox Movie
 http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
 
- ,,HBO MY
+,HBO MY
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hbohd/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hbofamily/playlist.m3u8
@@ -2701,20 +2701,14 @@ http://50.7.161.82:8278/streams/d/Cinemax/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Animalplanet/playlist.m3u8
 ,HGTV HD
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 group-title="50.7/TH",KBS HD
+,KBS HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
 + + + + http://73.85.95.69:9981/extjs.html + + + + tv:tv + + + + + to check again
 
 #EXTINF:-1 group-title="*73.85*", US Premier League TV |73.85
 http://73.85.95.69:9981/stream/mux/8dcaf051a1c98d6b00a8f1278a5586fc
-#EXTINF:-1, Bein Sports- Premium HD2 EN
-http://73.85.95.69:9981/stream/mux/1995ee57731e0a1cfa58d2fef3314260
 
-#EXTINF:-1, Events Only 1 |73.85
-http://73.85.95.69:9981/stream/mux/f60b04f33300dfa70742bb58fdb53d51
-#EXTINF:-1, Events Only 2 |73.85
-http://73.85.95.69:9981/stream/mux/4fb9a5ab2fbe786b1737dee4324be415
 #EXTINF:-1, IN | Star Sports Select 2 HD
 http://73.85.95.69:9981/stream/mux/1a4fcc334f795bcccf6b5242a3cfc578
 #EXTINF:-1, UK | Sky Sports News HD
@@ -3002,36 +2996,62 @@ http://73.85.95.69:9981/stream/mux/5341173da06a5016a00baf4a397f2910
 http://73.85.95.69:9981/stream/mux/fe11797efe5472d085ab228bba09b9eb
 #EXTINF:-1,UK | CNN International
 http://73.85.95.69:9981/stream/mux/4b322993817b20971b6f985eec0f43be
-http://73.85.95.69:9981/stream/mux/5323a923339ec2afbc00c7b28f3b991c#EXTINF:-1,UK | Sky Cinema Select FHD
-http://73.85.95.69:9981/stream/mux/5db1af303c5b8ce78da6f414a16ea2fa#EXTINF:-1,UK | Sky Cinema Thriller HD
-http://73.85.95.69:9981/stream/mux/470fcc988eed42c56565bc0c2c85f46d#EXTINF:-1,UK | Sky Cinema Comedy FHD
-http://73.85.95.69:9981/stream/mux/5354b467483d50896af4cfbba97acce9#EXTINF:-1,UK | Sky Cinema Action And Adventure FHD
-http://73.85.95.69:9981/stream/mux/68a57ccc4719d82f20eacbae58f6ed3b#EXTINF:-1,UK | Sky Cinema Greats FHD
-http://73.85.95.69:9981/stream/mux/7a2cd44d7cb0f5243e1112baf918c3aa#EXTINF:-1,UK | Sky Cinema Drama and Romance FHD
-http://73.85.95.69:9981/stream/mux/4ba206e53e7c3bf473f71095d96503b1#EXTINF:-1,UK | Sky Cinema Premier FHD
-http://73.85.95.69:9981/stream/mux/79937f2bc91e06553e68df58679f9161#EXTINF:-1,UK | Sky Cinema Family FHD
-http://73.85.95.69:9981/stream/mux/ef241da77a0c6566cdbee1476f9f5edf#EXTINF:-1,UK | Sky Cinema Sci Fi and Horror FHD
-http://73.85.95.69:9981/stream/mux/8060e5f8d1804de6c9db6688ca92b58b#EXTINF:-1,UK | Sky Sports Football FHD
-http://73.85.95.69:9981/stream/mux/2f45c281e8c0654877be6c655fcf4f62#EXTINF:-1,UK | Sky Sports Football HD
-http://73.85.95.69:9981/stream/mux/e3f08df4eb3a7642e3081fe5057efdab#EXTINF:-1,UK | Sky Sports Main Event FHD
-http://73.85.95.69:9981/stream/mux/33fee647ffee7ca52ca954c65e8aae80#EXTINF:-1,UK | Sky Sports Main Event HD
-http://73.85.95.69:9981/stream/mux/f42d97fbdd94330ead8e7e7b565d0365#EXTINF:-1,UK | Sky Sports News FHD
-http://73.85.95.69:9981/stream/mux/088a243b1071038619f13e62120065a1#EXTINF:-1,UK | Sky Sports News HD
-http://73.85.95.69:9981/stream/mux/553cc7d2df3a27e497c0237f2a5a21a2#EXTINF:-1,UK | Sky Sports Premier League FHD
-http://73.85.95.69:9981/stream/mux/883e46942889bfeafe1f6bfa192b075c#EXTINF:-1,UK | Sky Sports Premier League HD
-http://73.85.95.69:9981/stream/mux/aced69319a315f376e2f4b1f5da23cce#EXTINF:-1,UK | BT Sport 1 FHD
-http://73.85.95.69:9981/stream/mux/0c4fb3e6923a79f9d63683e887574629#EXTINF:-1,UK | BT Sport 2 FHD
-http://73.85.95.69:9981/stream/mux/edc4e83cafcce0a5bac9fd9da3c4ef50#EXTINF:-1,UK | BT Sport 3 FHD
-http://73.85.95.69:9981/stream/mux/54979278cbdeff330fd2124a595094ad#EXTINF:-1,UK | BT Sport 1 HD
-http://73.85.95.69:9981/stream/mux/94afea6de653ee04623bab86a6b60116#EXTINF:-1,UK | BT Sport 3 HD
+#EXTINF:-1,UK | Sky Cinema Select FHD
+http://73.85.95.69:9981/stream/mux/5323a923339ec2afbc00c7b28f3b991c
+#EXTINF:-1,UK | Sky Cinema Thriller HD
+http://73.85.95.69:9981/stream/mux/5db1af303c5b8ce78da6f414a16ea2fa
+#EXTINF:-1,UK | Sky Cinema Comedy FHD
+http://73.85.95.69:9981/stream/mux/470fcc988eed42c56565bc0c2c85f46d
+#EXTINF:-1,UK | Sky Cinema Action And Adventure FHD
+http://73.85.95.69:9981/stream/mux/5354b467483d50896af4cfbba97acce9
+#EXTINF:-1,UK | Sky Cinema Greats FHD
+http://73.85.95.69:9981/stream/mux/68a57ccc4719d82f20eacbae58f6ed3b
+#EXTINF:-1,UK | Sky Cinema Drama and Romance FHD
+http://73.85.95.69:9981/stream/mux/7a2cd44d7cb0f5243e1112baf918c3aa
+#EXTINF:-1,UK | Sky Cinema Premier FHD
+http://73.85.95.69:9981/stream/mux/4ba206e53e7c3bf473f71095d96503b1
+#EXTINF:-1,UK | Sky Cinema Family FHD
+http://73.85.95.69:9981/stream/mux/79937f2bc91e06553e68df58679f9161
+#EXTINF:-1,UK | Sky Cinema Sci Fi and Horror FHD
+http://73.85.95.69:9981/stream/mux/ef241da77a0c6566cdbee1476f9f5edf
+#EXTINF:-1,UK | Sky Sports Football FHD
+http://73.85.95.69:9981/stream/mux/8060e5f8d1804de6c9db6688ca92b58b
+#EXTINF:-1,UK | Sky Sports Football HD
+http://73.85.95.69:9981/stream/mux/2f45c281e8c0654877be6c655fcf4f62
+#EXTINF:-1,UK | Sky Sports Main Event FHD
+http://73.85.95.69:9981/stream/mux/e3f08df4eb3a7642e3081fe5057efdab
+#EXTINF:-1,UK | Sky Sports Main Event HD
+http://73.85.95.69:9981/stream/mux/33fee647ffee7ca52ca954c65e8aae80
+#EXTINF:-1,UK | Sky Sports News FHD
+http://73.85.95.69:9981/stream/mux/f42d97fbdd94330ead8e7e7b565d0365
+#EXTINF:-1,UK | Sky Sports News HD
+http://73.85.95.69:9981/stream/mux/088a243b1071038619f13e62120065a1
+#EXTINF:-1,UK | Sky Sports Premier League FHD
+http://73.85.95.69:9981/stream/mux/553cc7d2df3a27e497c0237f2a5a21a2
+#EXTINF:-1,UK | Sky Sports Premier League HD
+http://73.85.95.69:9981/stream/mux/883e46942889bfeafe1f6bfa192b075c
+#EXTINF:-1,UK | BT Sport 1 FHD
+http://73.85.95.69:9981/stream/mux/aced69319a315f376e2f4b1f5da23cce
+#EXTINF:-1,UK | BT Sport 2 FHD
+http://73.85.95.69:9981/stream/mux/0c4fb3e6923a79f9d63683e887574629
+#EXTINF:-1,UK | BT Sport 3 FHD
+http://73.85.95.69:9981/stream/mux/edc4e83cafcce0a5bac9fd9da3c4ef50
+#EXTINF:-1,UK | BT Sport 1 HD
+http://73.85.95.69:9981/stream/mux/54979278cbdeff330fd2124a595094ad
+#EXTINF:-1,UK | BT Sport 3 HD
+http://73.85.95.69:9981/stream/mux/94afea6de653ee04623bab86a6b60116
 #EXTINF:-1,UK INDIA | B4U Movies
 http://73.85.95.69:9981/stream/mux/b38aa4bf00e3f55534df1c81d8ab4b1c
 #EXTINF:-1,UK INDIA | Zee Cinema
 http://73.85.95.69:9981/stream/mux/8c1a75761b8d19d8deede889d5dedcc7
-http://73.85.95.69:9981/stream/mux/a42da3167224c29635311a2f7769469f#EXTINF:-1,USA | MTV CLASSIC
-http://73.85.95.69:9981/stream/mux/19ab460a626b4d7c4af111fbc9f46150#EXTINF:-1,USA | MTV LIVE
-http://73.85.95.69:9981/stream/mux/40e5ac45dc7eb83d66308f6d1ce2b506#EXTINF:-1,USA | BBC World News
-http://73.85.95.69:9981/stream/mux/1633e7b91bd099495c47a082b367d7e4#EXTINF:-1,USA | Bloomberg TV HD
+#EXTINF:-1,USA | MTV CLASSIC
+http://73.85.95.69:9981/stream/mux/a42da3167224c29635311a2f7769469f
+#EXTINF:-1,USA | MTV LIVE
+http://73.85.95.69:9981/stream/mux/19ab460a626b4d7c4af111fbc9f46150
+#EXTINF:-1,USA | BBC World News
+http://73.85.95.69:9981/stream/mux/40e5ac45dc7eb83d66308f6d1ce2b506
+#EXTINF:-1,USA | Bloomberg TV HD
+http://73.85.95.69:9981/stream/mux/1633e7b91bd099495c47a082b367d7e4
 #EXTINF:-1,USA | CNN HD
 http://73.85.95.69:9981/stream/mux/f5587dd8c2fc5afbd450d9908e151830
 #EXTINF:-1,USA | CNN INTERNATIONAL HD
