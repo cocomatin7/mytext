@@ -9128,21 +9128,6 @@ https://rebrand.ly/2020/Skynetsport6-playlist_m3u8
 
 + + + + + iptv-wow.my.id / https://www.livedoomovies.com  + + + + +
 
- group-title="iptv-wow", true1
-http://iptv-wow.my.id/jupuk/data/true1.m3u8
-, true2
-http://iptv-wow.my.id/jupuk/data/true2.m3u8
-, true3
-http://iptv-wow.my.id/jupuk/data/true3.m3u8
-, true4
-http://iptv-wow.my.id/jupuk/data/true4.m3u8
-http://iptv-wow.my.id/jupuk/data/ts1.m3u8
-http://iptv-wow.my.id/jupuk/data/ts2.m3u8
-http://iptv-wow.my.id/jupuk/data/ts3.m3u8
-http://iptv-wow.my.id/jupuk/data/ts6.m3u8
- group-title="iptv-wow", ts7
-http://iptv-wow.my.id/jupuk/data/ts7.m3u8
-
 + + + + + * www.doofree88.com * + + + + +
 
 + + + + + https://laos-tech-live.b-cdn.net / cdn-laos.workpoint.news / 104.248.152.125 + + + + +
@@ -9463,23 +9448,6 @@ http://keykingiptv.ddns.net/keyking/bein2_keyking/chunks.m3u8
 
 + + + + + https://live.5gbet.live /TH + + + + +
 
- tvg-logo="https://www.skynetdth.com/images/sports-.png" group-title="TH/5gbet5gbet", SKYNET SPORTS HD |5gbet
-https://live.5gbet.live/edge_app/skynethd/playlist.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/Sport1.png", SKYNET SPORTS 1 |5gbet
-https://live.5gbet.live/edge_app/skynet1/playlist.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/sports2.png", SKYNET SPORTS 2 |5gbet
-https://live.5gbet.live/edge_app/skynet2/playlist.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/sports3.png", SKYNET SPORTS 3 |5gbet
-https://live.5gbet.live/edge_app/skynet3/playlist.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/Sport4.png", SKYNET SPORTS 4 |5gbet
-https://live.5gbet.live/edge_app/skynet4/playlist.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/Sport5.png", SKYNET SPORTS 5 |5gbet
-https://live.5gbet.live/edge_app/skynet5/playlist.m3u8
- tvg-logo="https://www.skynetdth.com/images/channal_logo/Sport6.png" group-title="TH/5gbet5gbet", SKYNET SPORTS 6 |5gbet
-https://live.5gbet.live/edge_app/skynet6/playlist.m3u8
-https://live.5gbet.live/edge/ch17/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAzOjU0OjE4IEFNJmhhc2hfdmFsdWU9ZnhpL0t6My9meVNoQ2Zab3l0ZG1yZz09JnZhbGlkbWludXRlcz0x
-https://live.5gbet.live/edge/ch18/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAzOjU1OjE0IEFNJmhhc2hfdmFsdWU9RlY2emRHNDFPR0pkMThTaW1FaVp3QT09JnZhbGlkbWludXRlcz0x
-
 + + + + + https://www.andaman888th.com/ TH + + + + +
 
 + + + + + http://doo2you.com / we-play + + + + +
@@ -9731,42 +9699,42 @@ https://lnwlomtoe.atvlb.com/lnwlomtoe/ch68/playlist.m3u8
 https://mediasv.online/live/trueepl1/playlist.m3u8
 #EXTINF:-1,true EPL 2
 https://mediasv.online/live/trueepl2/playlist.m3u8
-#EXTINF:-1,true EPL 3
+,true EPL 3
 https://mediasv.online/live/trueepl3/playlist.m3u8
-#EXTINF:-1,beIN 1TH
+,beIN 1TH
 https://mediasv.online/live/bein1/playlist.m3u8
-#EXTINF:-1,beIN 2TH
+,beIN 2TH
 https://mediasv.online/live/bein2/playlist.m3u8
 https://mediasv.online/live/golfchannel/playlist.m3u8
-#EXTINF:-1 group-title="mediasv",warner
+ group-title="mediasv",warner
 https://mediasv.online/live/warner/playlist.m3u8
-#EXTINF:-1,cartoonnetwork
+,cartoonnetwork
 https://mediasv.online/tvchannel_x1/cartoonnetwork/playlist.m3u8
-#EXTINF:-1,discovery-asia
+,discovery-asia
 https://mediasv.online/tvchannel_x1/discovery-asia/playlist.m3u8
-#EXTINF:-1,fox-family
+,fox-family
 https://mediasv.online/tvchannel_x1/fox-family/playlist.m3u8
-#EXTINF:-1,foxactionmovie
+,foxactionmovie
 https://mediasv.online/tvchannel_x1/foxactionmovie/playlist.m3u8
-#EXTINF:-1,hbo-family
+,hbo-family
 https://mediasv.online/tvchannel_x1/hbo-family/playlist.m3u8
 https://mediasv.online/tvchannel_x1/hd-animalplanet/playlist.m3u8
 https://mediasv.online/tvchannel_x1/hd-axn/playlist.m3u8
 https://mediasv.online/tvchannel_x1/hd-bbcearth/playlist.m3u8
 https://mediasv.online/tvchannel_x1/hd-discovery/playlist.m3u8
-#EXTINF:-1,hd-foxpremium
+,hd-foxpremium
 https://mediasv.online/tvchannel_x1/hd-foxpremium/playlist.m3u8
-#EXTINF:-1,hd-hbo-hit
+,hd-hbo-hit
 https://mediasv.online/tvchannel_x1/hd-hbo-hit/playlist.m3u8
-#EXTINF:-1,hd-hbo-signature
+,hd-hbo-signature
 https://mediasv.online/tvchannel_x1/hd-hbo-signature/playlist.m3u8
-#EXTINF:-1,hd-hbo-thai
+,hd-hbo-thai
 https://mediasv.online/tvchannel_x1/hd-hbo-thai/playlist.m3u8
 https://mediasv.online/tvchannel_x1/hd-history/playlist.m3u8
 https://mediasv.online/tvchannel_x1/hd-history2/playlist.m3u8
-#EXTINF:-1,hits
+,hits
 https://mediasv.online/tvchannel_x1/hits/playlist.m3u8
-#EXTINF:-1,moviehits
+,moviehits
 https://mediasv.online/tvchannel_x1/moviehits/playlist.m3u8
 https://mediasv.online/tvchannel_x2/aniplus/playlist.m3u8
 https://mediasv.online/live7f/truepl1Fallback/playlist.m3u8
