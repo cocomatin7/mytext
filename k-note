@@ -3147,28 +3147,41 @@ http://73.85.95.69:9981/stream/mux/b439a8dba92704ff857cc3d01157f316
 #EXTINF:-1,SAF | SuperSport Psl
 http://73.85.95.69:9981/stream/mux/31b85d4fe70ed439bf2c2724eacffcff
 
-#EXTINF:-1,24/7 | Best Christmas Movies 5
-http://73.85.95.69:9981/stream/mux/906be1cfdc6a201a014d82445e8f3b01
-http://73.85.95.69:9981/stream/mux/26331c23ee32bbceb314194e4da74981#EXTINF:-1,24/7 | Tom Hanks Collection
-http://73.85.95.69:9981/stream/mux/e0f6bea2ad5cc000af96b7499db8b1b7#EXTINF:-1,24/7 | Tom and Jerry Collection
-http://73.85.95.69:9981/stream/mux/a9c425e7ee61a37e566a619cb954fbec#EXTINF:-1,24/7 | Rush Hour Collection
-http://73.85.95.69:9981/stream/mux/8b91a7f45a34f2c23ba202f701fa3a84#EXTINF:-1,24/7 | Mission Impossible Collection
-http://73.85.95.69:9981/stream/mux/76002a3db5a59fdfe223cd5135000095#EXTINF:-1,24/7 | Jumanji Collection
-http://73.85.95.69:9981/stream/mux/493665aa308a84fc054a8abea9197430#EXTINF:-1,24/7 | Jackie Chan Adventures Collection
-#EXTINF:-1,24/7 | Fast & Furious Collection
-http://73.85.95.69:9981/stream/mux/7bb26d6b3d67ef002f6d831da67b516c
-http://73.85.95.69:9981/stream/mux/63a9e8f6fcc1fde8a4ad52cde050efd9#EXTINF:-1,24/7 | Bourne Collection
-http://73.85.95.69:9981/stream/mux/67984978c57640f86a5f5bd7cfd7a830#EXTINF:-1,24/7 | Band of Brothers Collection
-#EXTINF:-1,24/7 MOVIES | TOM HANKS
-http://73.85.95.69:9981/stream/mux/ca42b609bdd650f29606bbc9d30a3e9b
 #EXTINF:-1,UK | Sky Cinema Disney FHD
 http://73.85.95.69:9981/stream/mux/94c4144c5286560a0df75a8a6798f0d2
-http://73.85.95.69:9981/stream/mux/d56cf69dbd97b067dff14b81fdec1435#EXTINF:-1,UK | BT Sport 2 HD
-http://73.85.95.69:9981/stream/mux/b7c87d18555762189ff02a28583c0372#EXTINF:-1,BS | beIN SPORT10 HD
-http://73.85.95.69:9981/stream/mux/cf58e2d2217010e1b2ec422643149f1c#EXTINF:-1,HU | MTV DANCE
-http://73.85.95.69:9981/stream/mux/ad1f59dcb0d80d6758e152aa0d3937ef#EXTINF:-1,IN | Star Sports Select 1 HD
-#EXTINF:-1 group-title="*73.85*",IN | Zee Cinema HD
+#EXTINF:-1,UK | BT Sport 2 HD
+http://73.85.95.69:9981/stream/mux/d56cf69dbd97b067dff14b81fdec1435
+#EXTINF:-1,BS | beIN SPORT10 HD
+http://73.85.95.69:9981/stream/mux/b7c87d18555762189ff02a28583c0372
+#EXTINF:-1,HU | MTV DANCE
+http://73.85.95.69:9981/stream/mux/cf58e2d2217010e1b2ec422643149f1c
+#EXTINF:-1,IN | Star Sports Select 1 HD
+http://73.85.95.69:9981/stream/mux/ad1f59dcb0d80d6758e152aa0d3937ef
+#EXTINF:-1,IN | Zee Cinema HD
 http://73.85.95.69:9981/stream/mux/bfcee3934e8f816e3b69c4589f0ddee7
+
+#EXTINF:-1,24/7 | Best Christmas Movies 5
+http://73.85.95.69:9981/stream/mux/906be1cfdc6a201a014d82445e8f3b01
+#EXTINF:-1,24/7 | Tom Hanks Collection
+http://73.85.95.69:9981/stream/mux/26331c23ee32bbceb314194e4da74981
+#EXTINF:-1,24/7 | Tom and Jerry Collection
+http://73.85.95.69:9981/stream/mux/e0f6bea2ad5cc000af96b7499db8b1b7
+#EXTINF:-1,24/7 | Rush Hour Collection
+http://73.85.95.69:9981/stream/mux/a9c425e7ee61a37e566a619cb954fbec
+#EXTINF:-1,24/7 | Mission Impossible Collection
+http://73.85.95.69:9981/stream/mux/8b91a7f45a34f2c23ba202f701fa3a84
+#EXTINF:-1,24/7 | Jumanji Collection
+http://73.85.95.69:9981/stream/mux/76002a3db5a59fdfe223cd5135000095
+#EXTINF:-1,24/7 | Jackie Chan Adventures Collection
+http://73.85.95.69:9981/stream/mux/493665aa308a84fc054a8abea9197430
+#EXTINF:-1,24/7 | Fast & Furious Collection
+http://73.85.95.69:9981/stream/mux/7bb26d6b3d67ef002f6d831da67b516c
+#EXTINF:-1,24/7 | Bourne Collection
+http://73.85.95.69:9981/stream/mux/63a9e8f6fcc1fde8a4ad52cde050efd9
+#EXTINF:-1,24/7 | Band of Brothers Collection
+http://73.85.95.69:9981/stream/mux/67984978c57640f86a5f5bd7cfd7a830
+#EXTINF:-1 group-title="*73.85*",24/7 MOVIES | TOM HANKS
+http://73.85.95.69:9981/stream/mux/ca42b609bdd650f29606bbc9d30a3e9b
 
 + + + + + + +
 
