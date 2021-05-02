@@ -3032,6 +3032,7 @@ http://73.85.95.69:9981/stream/mux/97b40bf96732e55066e15c9526410058
 http://73.85.95.69:9981/stream/mux/f30babb0108df0b546eeee2211cb083e
 #EXTINF:-1, 24/7 | Classic 2000's Vol 1 Collection
 http://73.85.95.69:9981/stream/mux/babe9e6f943ce4473b21b36afad406bb
+
 #EXTINF:-1, MY | Warner TV
 http://73.85.95.69:9981/stream/mux/6bec9e29291c207e253e074bee2d926b
 #EXTINF:-1, MY | tvN Movies
@@ -3114,21 +3115,18 @@ http://73.85.95.69:9981/stream/mux/63e03af9df0f4a4be7cbd6c03b67bd94
 http://73.85.95.69:9981/stream/mux/cd1b2f25d2cad95be1eccd5d03333051
 #EXTINF:-1, BS | bein-Sport10 HD
 http://73.85.95.69:9981/stream/mux/376f32aed35bbae75397a235debbe122
-#EXTINF:-1, BS | beIN Sport2 HD%2B
-http://73.85.95.69:9981/stream/mux/702e8b3beb89d354b65ef76b1955b2c3
 #EXTINF:-1, BS | beIN Sport2 HD
+http://73.85.95.69:9981/stream/mux/702e8b3beb89d354b65ef76b1955b2c3
+#EXTINF:-1, BS | beIN Sport2 HD'
 http://73.85.95.69:9981/stream/mux/c1fb6b246b2d2b43e7d647a3c9127394
-#EXTINF:-1, BS | beIN Sport1 HD%2B
+#EXTINF:-1, BS | beIN Sport1 HD
 http://73.85.95.69:9981/stream/mux/ef40eb76d0d7fa5c59eef67835b5e3cf
 #EXTINF:-1, CA | CNN INTERNATIONAL
 http://73.85.95.69:9981/stream/mux/4acf87eb63ee62344d6ac19b573ef30d
-#EXTINF:-1, NBC GOLD FHD 2
-http://73.85.95.69:9981/stream/mux/e8a0e499056d3c71873d151e28cacf9e
 #EXTINF:-1, UK | CNN International
 http://73.85.95.69:9981/stream/mux/4b322993817b20971b6f985eec0f43be
 #EXTINF:-1 group-title="*73.85*", UK | MTV Base
 http://73.85.95.69:9981/stream/mux/98524cff53ada8ff5dc0ae6944d08a9f
-
 
 http://73.85.95.69:9981/stream/mux/6564bc70b9eaa0d1f35892bc9f78ddbb Bratty Sis < 
 http://73.85.95.69:9981/stream/mux/81325079c0dd25f86cf2d487edfd2244 Brand New Amateurs < 
@@ -3166,25 +3164,8 @@ http://73.85.95.69:9981/stream/service/5ddb46c50175d30a7306adfe166ab6f5
 http://73.85.95.69:9981/stream/service/c9c3c07a2b6ff8c770c7736af8a5e5b5
 #EXTINF:-1, Bein Sports- Premium HD2 EN
 http://73.85.95.69:9981/stream/service/35d13ecf8ef23d1da849530fc74184c9
-#EXTINF:-1, EPL1: 
-http://73.85.95.69:9981/stream/service/a769ec15f3a804a15fac1496260c08a0
-#EXTINF:-1, EPL10:
-http://73.85.95.69:9981/stream/service/d5b4ae9dbbd7b97b0f70cc1a1fe6aae4
-#EXTINF:-1, EPL4:
-http://73.85.95.69:9981/stream/service/443e33d9601fc40fd9c92754e061e6b1
-#EXTINF:-1, EPL: DAZN 3
-http://73.85.95.69:9981/stream/service/e7ae28748a78e107620028a41431833e
-#EXTINF:-1, EPL: DAZN 4
-http://73.85.95.69:9981/stream/service/062007c01c93baec1a56227487dca863
-#EXTINF:-1, LaLiga TV
-http://73.85.95.69:9981/stream/service/bd2fee968e6cf9938d0da9926938bfae
-#EXTINF:-1, LaLiga TV FHD
-http://73.85.95.69:9981/stream/service/1691255e3513a6756e48a835a78a144c
 #EXTINF:-1, MTV Classic
 http://73.85.95.69:9981/stream/service/b379d5edf5079c4f3c991965e54104d8
-#EXTINF:-1, sky Movies Great FHD
-http://73.85.95.69:9981/stream/service/cbaeecc62cca41e46d7b0f1cf08b8a9c
-
 #EXTINF:-1, Event Only 1 ||73.85
 http://73.85.95.69:9981/stream/service/c6675ec159e8684721d75c380039974f
 #EXTINF:-1, Event Only 2 ||73.85
