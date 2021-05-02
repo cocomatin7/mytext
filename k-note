@@ -2704,6 +2704,17 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 ,KBS HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
++ + + + + 73.68.128.14:9981/playlist + + + + + 24/7 movie IT
+
+#EXTINF:-1 group-title="73.68",Private film 007
+http://73.68.128.14:9981/stream/channelid/1238865341?profile=pass
+#EXTINF:-1,Private film 2019
+http://73.68.128.14:9981/stream/channelid/2137007038?profile=pass
+#EXTINF:-1,Private film 2020
+http://73.68.128.14:9981/stream/channelid/1523232900?profile=pass
+#EXTINF:-1 group-title="73.68",Tom And Jerry
+http://73.68.128.14:9981/dvrfile/59f47ea93f2284f6238a572a81ab5772
+
 + + + + http://73.85.95.69:9981/extjs.html + + + + tv:tv + + + + + to check again
 
 #EXTINF:-1 group-title="*73.85*", US Premier League TV |73.85
@@ -3663,12 +3674,6 @@ XXX:XY Max HD (18+)
 http://73.85.95.69:9981/stream/channelid/1577577096?ticket=DF8AB506EB367EA3403CAAD3AAAC640156FC985C&profile=pass
 XXX:XY Plus HD (18+)
 http://73.85.95.69:9981/stream/channelid/210052098?ticket=292CCD8AFC09BA003FC436BE2F2544738A6F975B&profile=pass
-
-+ + + + + 73.68.128.14:9981/playlist + + + + + 24/7 movie IT
-
-#EXTINF:-1 group-title="73.68",Tom And Jerry
-http://73.68.128.14:9981/dvrfile/59f47ea93f2284f6238a572a81ab5772
-
 
 + + + + + 77.83.117.60:8888 [https://www.livedoomovie.com] + + + + +
 
