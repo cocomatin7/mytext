@@ -5663,7 +5663,9 @@ http://212.8.253.172:2052/AstroSuperSports4HD/index.m3u8?username=FernanSisayan&
 http://212.8.253.172:2052/SuperSport-Action/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
 #EXTINF:-1, SS Action
 http://212.8.253.172:2052/SuperSport-Action/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793892
-#EXTINF:-1, S Blitz
+#EXTINF:-1, S Blitz | sky sports news
+http://212.8.253.172:2052/SuperSportBlitz/tracks-v1a1/mono.m3u8?token=4cf664d53451318603085725c43a5796
+#EXTINF:-1, S Blitz | sky sports news'
 http://212.8.253.172:2052/SuperSportBlitz/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793886
 
 #EXTINF:-1, S Cricket
@@ -12621,7 +12623,7 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7995
 #EXTINF:-1,...RSA SUPERSPORTS TENNIS HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/311866
 #EXTINF:-1,...RSA SUPERSPORTS VARITY 01 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/311868
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/311868.m3u8
 #EXTINF:-1,...RSA SUPERSPORTS VARITY 02 HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30957
 #EXTINF:-1,...RSA SUPERSPORTS VARITY 03 HD
@@ -12631,7 +12633,8 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/397213
 #EXTINF:-1,...RSA SUPERSPORTS RUGBY HD AF
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/395599
 #EXTINF:-1,...RSA SUPERSPORTS PREMIER LEAGUE HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/269696
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/269696.m3u8
+http://38.143.137.110:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/269696.m3u8
 #EXTINF:-1,WC. RSA SUPERSPORT CRICKET HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/393845
 
