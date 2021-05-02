@@ -4139,15 +4139,15 @@ http://connor:str94eEt@82.45.49.11:9981/stream/service/752ea0ebbc67ff579b5491909
 http://connor:str94eEt@82.45.49.11:9981/stream/service/3eb8c78c1ab0c9fb44be60c94cbe4fa9
 #EXTINF:-1, EPL: DAZN 5'
 http://connor:str94eEt@82.45.49.11:9981/stream/service/0f4f487cdf8ea552656653853b9325ab
-#EXTINF:-1, EPL: NOW SPORTS 1
+#EXTINF:-1, EPL: NOW SPORTS 1'
 http://connor:str94eEt@82.45.49.11:9981/stream/service/0dc6abf79e8a024d1291f24496cd1a6e
-#EXTINF:-1, EPL: NOW SPORTS 2
+#EXTINF:-1, EPL: NOW SPORTS 2'
 http://connor:str94eEt@82.45.49.11:9981/stream/service/743668cc328ed86a205fd6099bedb530
-#EXTINF:-1, EPL: NOW SPORTS 3
+#EXTINF:-1, EPL: NOW SPORTS 3'
 http://connor:str94eEt@82.45.49.11:9981/stream/service/1dfbde9cf2ec38b24da97d131a90b660
-#EXTINF:-1, EPL: NOW SPORTS 4
+#EXTINF:-1, EPL: NOW SPORTS 4'
 http://connor:str94eEt@82.45.49.11:9981/stream/service/242da332f2ca67d8026f2afd5151f02a
-#EXTINF:-1, EPL: NOW SPORTS 5
+#EXTINF:-1, EPL: NOW SPORTS 5'
 http://connor:str94eEt@82.45.49.11:9981/stream/service/36ddc77aa7ff8ab9a39055f4888b35bf
 #EXTINF:-1, EPL: OPTUS GOAL RUSH'
 http://connor:str94eEt@82.45.49.11:9981/stream/service/090a4be57879f74f67ceb464c362f412
@@ -4160,7 +4160,7 @@ http://connor:str94eEt@82.45.49.11:9981/stream/service/0e1ba622258edd4606ae239b8
 #EXTINF:-1, EPL: Optus Sport 4'
 http://connor:str94eEt@82.45.49.11:9981/stream/service/ec3ae7dd1e2638be28a84f1de74c0ca7
 #EXTINF:-1, EPL: Optus Sport 5'
-http://connor:str94eEt@82.45.49.11:9981/stream/service/41faa5071ae01f77ba857adb153e5976 EPL: Optus Sport 5
+http://connor:str94eEt@82.45.49.11:9981/stream/service/41faa5071ae01f77ba857adb153e5976
 #EXTINF:-1, Now Sports 1'
 http://connor:str94eEt@82.45.49.11:9981/stream/service/d632c150c99e84bda72f5d0f94489fb2
 #EXTINF:-1, Now Sports 2'
@@ -4190,7 +4190,7 @@ http://connor:str94eEt@82.45.49.11:9981/stream/service/4dc3bf070dcccb161238a3da9
 http://connor:str94eEt@82.45.49.11:9981/stream/service/f407dec7d0d7b6df0ee61d902fdc8a1f
 #EXTINF:-1, Sky Cinema Premiere HD'
 http://connor:str94eEt@82.45.49.11:9981/stream/service/83fb6adb797fcca2f01c12d72875e6b5
-#EXTINF:-1, Sky Cinema SciFi %2F Horror HD'
+#EXTINF:-1, Sky Cinema SciFi / Horror HD'
 http://connor:str94eEt@82.45.49.11:9981/stream/service/b70e1ad3921b4f50995fa9a9c0749ca2
 #EXTINF:-1, Sky Cinema Select HD'
 http://connor:str94eEt@82.45.49.11:9981/stream/service/ca060e3fa588ce90b9bf59ad3200664c
@@ -4303,47 +4303,72 @@ http://connor:str94eEt@82.45.49.11:9981/stream/channel/4bde1c2586bdba8d3246d114d
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/d2b0dd1011e530e28a997acaffc7c626
 #EXTINF:-1,Bein Sport 1 English
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/eab6878696306c0a7eb719b6ba66957b
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/84d69600eab7048727b8918248fc0f48#EXTINF:-1,Bein Sport 1 French
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/77bdaa9c9a59cf21276a1131a40d9bd0#EXTINF:-1,Bein Sport 2
+#EXTINF:-1,Bein Sport 1 French
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/84d69600eab7048727b8918248fc0f48
+#EXTINF:-1,Bein Sport 2
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/77bdaa9c9a59cf21276a1131a40d9bd0
 #EXTINF:-1,Bein Sport 2 English
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/83187eb56eaf0cb41d8560c611b44c32
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/2edaecf0cbe43774ec9fd5d75c23daff#EXTINF:-1,Bein Sport 2 French
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/866479e0554ee0162d617ca31d6d74dc#EXTINF:-1,Bein Sport 3
+#EXTINF:-1,Bein Sport 2 French
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/2edaecf0cbe43774ec9fd5d75c23daff
+#EXTINF:-1,Bein Sport 3
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/866479e0554ee0162d617ca31d6d74dc
 #EXTINF:-1,Bein Sport 3 English
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/ea58769c9825eaf486aa289fd213219e
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/7581b8d06394a4b3ab7ed5eb832ad064#EXTINF:-1,EPL: DAZN 1
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/9a36fbeb6b51fc3645e1421cb562a0ff#EXTINF:-1,EPL: DAZN 2
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/78188c460cd728b06314d27d9e877b72#EXTINF:-1,EPL: DAZN 3
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/db65bdc0688ebbdd85f7ccfebc298a31#EXTINF:-1,EPL: DAZN 4
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/ddeeab5602324c8598c75f70af91c826#EXTINF:-1,EPL: DAZN 5
+#EXTINF:-1,EPL: DAZN 1
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/7581b8d06394a4b3ab7ed5eb832ad064
+#EXTINF:-1,EPL: DAZN 2
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/9a36fbeb6b51fc3645e1421cb562a0ff
+#EXTINF:-1,EPL: DAZN 3
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/78188c460cd728b06314d27d9e877b72
+#EXTINF:-1,EPL: DAZN 4
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/db65bdc0688ebbdd85f7ccfebc298a31
+#EXTINF:-1,EPL: DAZN 5
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/ddeeab5602324c8598c75f70af91c826
 #EXTINF:-1,EPL: NOW SPORTS 1
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/61e955bc1454fef3675f5e481bb0dde2
 #EXTINF:-1,EPL: NOW SPORTS 2
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/e9e7ec5c35b27520e48f496f5ef1d4ac
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/5b174b18b16ab185eff8258dc762c1a7#EXTINF:-1,EPL: NOW SPORTS 3
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/30707015623bc8108b2b3eab35c13a5f#EXTINF:-1,EPL: NOW SPORTS 4
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/683ac61b2167ac5f4c726dc80a0947f2#EXTINF:-1,EPL: NOW SPORTS 5
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/a804da252eccd779c3f8550118bdf123#EXTINF:-1,EPL: NOW SPORTS 6
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/82036ed5324aa5ce3b70518491ce08ff#EXTINF:-1,EPL: NOW SPORTS 7
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/1e10d4de8dfc8ab6b45f3c65741b9941#EXTINF:-1,EPL: NOW SPORTS 8
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/560051cf77f2a9381b95f22a92498929#EXTINF:-1,EPL: NOW SPORTS 9
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/c36a337fdd788b532a9c55a30a54d65b#EXTINF:-1,EPL: NOW SPORTS 10
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/05fb048b15dfa1e889a0612ac238eede#EXTINF:-1,EPL: OPTUS GOAL RUSH
+#EXTINF:-1,EPL: NOW SPORTS 3
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/5b174b18b16ab185eff8258dc762c1a7
+#EXTINF:-1,EPL: NOW SPORTS 4
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/30707015623bc8108b2b3eab35c13a5f
+#EXTINF:-1,EPL: NOW SPORTS 5
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/683ac61b2167ac5f4c726dc80a0947f2
+#EXTINF:-1,EPL: NOW SPORTS 6
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/a804da252eccd779c3f8550118bdf123
+#EXTINF:-1,EPL: NOW SPORTS 7
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/82036ed5324aa5ce3b70518491ce08ff
+#EXTINF:-1,EPL: NOW SPORTS 8
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/1e10d4de8dfc8ab6b45f3c65741b9941
+#EXTINF:-1,EPL: NOW SPORTS 9
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/560051cf77f2a9381b95f22a92498929
+#EXTINF:-1,EPL: NOW SPORTS 10
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/c36a337fdd788b532a9c55a30a54d65b
+#EXTINF:-1,EPL: OPTUS GOAL RUSH
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/05fb048b15dfa1e889a0612ac238eede
 #EXTINF:-1,EPL: Optus Sport 1
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/d3f54ffcd4c203c99125f0790ca6c51b
 #EXTINF:-1,EPL: Optus Sport 2
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/150042c256a1bf5012ffe817a7667d23
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/689fc9f7dec8c790856d98f3f9a10819#EXTINF:-1,EPL: Optus Sport 3
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/dcc43f9666c14f27966a05067a339380#EXTINF:-1,EPL: Optus Sport 4
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/ed92834b53f783a6ffa95f7e55372edc#EXTINF:-1,EPL: Optus Sport 5
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/8154a90856b22641ab1e3942fefec82c#EXTINF:-1,MUTV HD
+#EXTINF:-1,EPL: Optus Sport 3
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/689fc9f7dec8c790856d98f3f9a10819
+#EXTINF:-1,EPL: Optus Sport 4
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/dcc43f9666c14f27966a05067a339380
+#EXTINF:-1,EPL: Optus Sport 5
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/ed92834b53f783a6ffa95f7e55372edc
+#EXTINF:-1,MUTV HD
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/8154a90856b22641ab1e3942fefec82c
 #EXTINF:-1,Now Sports 1
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/d66011f4298a84425ff086818b6df817
 #EXTINF:-1,Now Sports 2
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/572d7aef0fc320af200b94d94014f6c0
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/4cbb3c7470d9f4cc6f519f4d19a441d5#EXTINF:-1,Now Sports 3
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/fb0d6361ed2e6debf6f5070bf688b52b#EXTINF:-1,Now Sports 4
-http://connor:str94eEt@82.45.49.11:9981/stream/channel/c055fbf40a52fdf6e01b917f70721574#EXTINF:-1,Now Sports 5
+#EXTINF:-1,Now Sports 3
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/4cbb3c7470d9f4cc6f519f4d19a441d5
+#EXTINF:-1,Now Sports 4
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/fb0d6361ed2e6debf6f5070bf688b52b
+#EXTINF:-1,Now Sports 5
+http://connor:str94eEt@82.45.49.11:9981/stream/channel/c055fbf40a52fdf6e01b917f70721574
 #EXTINF:-1,Peacock Premier League TV
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/9f1cc5d907f42131be1a79f6795ad4ba
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/aff7ebeead920a42d25f8d39b341f800#EXTINF:-1,Sky Animation HD
