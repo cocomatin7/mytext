@@ -12199,22 +12199,7 @@ http://media.haxed.net/get.php?username=jim&password=h4VttD7txVdacPn&type=m3u
 
 + + + + + meti-tv.xyz:25461 + + + + +
 
-http://meti-tv.xyz:25461/get.php?username=MetiTVakanalet&password=svOVWvluBT&type=m3u Expires: Null Connections: 200-37
-
-#EXTINF:-1 group-title="meti-tv",Super sport 1 HD
-http://meti-tv.xyz:25461/live/MetiTVakanalet/svOVWvluBT/149.m3u8
-#EXTINF:-1,Super sport 2 HD
-http://meti-tv.xyz:25461/live/MetiTVakanalet/svOVWvluBT/5.m3u8
-#EXTINF:-1,Super sport 3 HD
-http://meti-tv.xyz:25461/live/MetiTVakanalet/svOVWvluBT/6.m3u8
-#EXTINF:-1,Tring sport 1 FHD
-http://meti-tv.xyz:25461/live/MetiTVakanalet/svOVWvluBT/78.m3u8
-#EXTINF:-1,Sport klub 1 HD
-http://meti-tv.xyz:25461/live/MetiTVakanalet/svOVWvluBT/88.m3u8
-#EXTINF:-1,Sport klub 2 HD
-http://meti-tv.xyz:25461/live/MetiTVakanalet/svOVWvluBT/107.m3u8
-#EXTINF:-1 group-title="meti-tv",Arena sport 1 HD
-http://meti-tv.xyz:25461/live/MetiTVakanalet/svOVWvluBT/108.m3u8
+http://meti-tv.xyz:25461/get.php?username=MetiTVakanalet&password=svOVWvluBT&type=m3u Expires: Null Connections: 200-37 < DOWN
 
 + + + + + mhiptv.com:8888 [beIN] + + + + +
 
@@ -12228,9 +12213,6 @@ http://catenamode.cf:8090/get.php?username=muttsnuts&password=PzreCs7oYP&type=m3
 
 http://new-pro.tv:8080/get.php?username=live:diplomatmobstar&password=restream494862&type=m3u
 Real Url: new-pro.tv:8080     Status: Active    Created: 30/3/2020 12:23:37 AM     Expires: Null    Active Connections: 323     Maximum Connections: 400
-
-
-
 
 + + + + + nonton.site:8443 + + + + + 23/04/2021 + + + + +
 
@@ -12251,10 +12233,8 @@ Real Url: ottplanet.live:7788     Status: Active    Created: 24/11/2020 6:18:09 
 
 + + + + + pie.buzz:83 + + + + + 28/4/2021 + + + + +
 
-
 http://pie.buzz:83/get.php?username=Peter.nyr1909&password=6547736256&type=m3u
 Real Url: securepoint.io:83     Status: Active    Created: 29/3/2018 12:09:38 PM     Expires: 28/5/2021 4:00:00 AM     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
-
 
 #EXTINF:-1 group-title="pie",UK SD : MTV Base  
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/20973.m3u8
@@ -12880,6 +12860,7 @@ https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3422.m3u8
 https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3423.m3u8
 
 + + + + + starshare.live:8080 [MY+MM] + + + + +
+
 + + + + + s1.showplustv.com:1997 [TH+MM] + + + + +
 
 + + + + + securepoint.io:83 + + + + + 25/2/2022
@@ -12892,8 +12873,7 @@ Real Url: securepoint.io:83 / 104.218.60.227:83     Status: Active    Created: 3
 
 http://securepoint.io:83/get.php?username=86753099&password=86753099&type=m3u securepoint.io:83 Expires: 27/12/2021 Connections: 2-1 < DOWN
 
-http://tv.rebeliptv.com:83/get.php?username=82936722&password=29038858&type=m3u
-Real Url: securepoint.io:83 / 104.218.60.227:83 Expires: 12/5/2021 Connections: 2-1 
+http://tv.rebeliptv.com:83/get.php?username=82936722&password=29038858&type=m3u Real Url: securepoint.io:83 / 104.218.60.227:83 Expires: 12/5/2021 Connections: 2-1 
 
 #EXTINF:-1 group-title="securepoint",DStv | SuperSport Action
 http://104.218.60.227:83/live/promo/promo/387256.m3u8
@@ -13224,8 +13204,7 @@ http://104.218.60.227:83/live/promo/promo/386046.m3u8
 
 + + + + + sonyiptv.net:8080 + + + + + 6/12/2021
 
-http://sonyiptv.net:8080/get.php?username=gift2021&password=54321&type=m3u
-Real Url: sonyiptv.net:8080     Status: Active    Created: 7/1/2021 9:28:10 AM     Expires: 6/12/2021 7:00:00 PM    Active Connections: 1     Maximum Connections: 100 < few CH
+http://sonyiptv.net:8080/get.php?username=gift2021&password=54321&type=m3u Real Url: sonyiptv.net:8080 Expires: 6/12/2021 7:00:00 PM    Active Connections: 1     Maximum Connections: 100 < few CH
 
 + + + + + speccy.pw:8008 + + + + +
 
@@ -13279,46 +13258,45 @@ https://www.aloka-iptv.xyz:443/get.php?username=MEGA-TV19&password=TELEGRAM&type
 
 + + + + + xtream-ui03.feel-tv.com:25461-null + + + + +
 
-http://xtream-ui03.feel-tv.com:25461/get.php?username=stalker&password=qmGbZacuLw&type=m3u
-Real Url: xtream-ui03.feel-tv.com:25461     Status: Active    Created: 27/8/2020 12:49:38 PM     Expires: Null    Active Connections: 216     Maximum Connections: 10000
+http://xtream-ui03.feel-tv.com:25461/get.php?username=stalker&password=qmGbZacuLw&type=m3u Real Url: xtream-ui03.feel-tv.com:25461 Expires: Null    Active Connections: 216     Maximum Connections: 10000 < DOWN
 
-#EXTINF:-1 group-title="ytv",UK: Sky Movies Action and Adventure (call)
+ group-title="ytv",UK: Sky Movies Action and Adventure (call)
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/493.m3u8
-#EXTINF:-1,UK: Sky Movies Crime and Thriller (call)
+,UK: Sky Movies Crime and Thriller (call)
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/494.m3u8
-#EXTINF:-1,UK: Sky Movies Drama and Romance (call)
+,UK: Sky Movies Drama and Romance (call)
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/495.m3u8
-#EXTINF:-1,UK: Sky Movies Sci-Fi and Horror (call)
+,UK: Sky Movies Sci-Fi and Horror (call)
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/496.m3u8
-#EXTINF:-1,UK: Sky Movies Select (call)
+,UK: Sky Movies Select (call)
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/497.m3u8
-#EXTINF:-1,Sky Cinema Disney HD UK
+,Sky Cinema Disney HD UK
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/511.m3u8
-#EXTINF:-1,UK: SKY MOVIES FAMILY
+,UK: SKY MOVIES FAMILY
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/540.m3u8
-#EXTINF:-1,USA: HBO HD
+,USA: HBO HD
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/513.m3u8
-#EXTINF:-1,USA: HBO Comedy HD
+,USA: HBO Comedy HD
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/514.m3u8
-#EXTINF:-1,UK: SKY SPORTS FOOTBALL HD
+,UK: SKY SPORTS FOOTBALL HD
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/699.m3u8
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
+,UK: SKY SPORTS MAIN EVENT HD
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/700.m3u8
-#EXTINF:-1,UK: SKY SPORTS MIX HD
+,UK: SKY SPORTS MIX HD
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/701.m3u8
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD
+,UK: SKY SPORTS PREMIER LEAGUE HD
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/702.m3u8
-#EXTINF:-1,sportchannel1
+,sportchannel1
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/555.m3u8
-#EXTINF:-1,sport channel 1
+,sport channel 1
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/695.m3u8
-#EXTINF:-1,sportchannel2
+,sportchannel2
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/556.m3u8
-#EXTINF:-1,Sport channel 3
+,Sport channel 3
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/645.m3u8
-#EXTINF:-1,sport channel 4
+,sport channel 4
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/646.m3u8
-#EXTINF:-1 group-title="ytv",sport channel 5
+ group-title="ytv",sport channel 5
 http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/641.m3u8
 
 + + + + + ytv.plus:25461-null + + + + +
@@ -13336,7 +13314,6 @@ http://ytv.plus:25461/diegotv/1234/3618
 http://ytv.plus:25461/live/diegotv/1234/3618.m3u8
 
 + + + + + outdated + + + + 
-
 
 , 5 Plus
 http://Admin:9assw0rd743@206.189.83.114:9981/stream/service/9da8b8e4125828ebb775cd9b2ef7ed43?ticket=AC9B8A97FDE9F4427AEDF521E2B41A66A2B7B4ED
