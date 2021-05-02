@@ -2140,20 +2140,6 @@ https://cnnnewsource-i.akamaihd.net/hls/live/258562/CNNNewsource2/master.m3u8
 http://cnnnewsource-i.akamaihd.net/hls/live/258565/CNNNewsource5/master.m3u8
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1, NOW 80s
-http://81.110.215.150:9981/stream/service/7f3caf5ded3fd491be2114da602ea902
-#EXTINF:-1, Channel 4 HD
-http://81.110.215.150:9981/stream/channel/a1d607e66eb3da7600488ac9bc92558d
-#EXTINF:-1, NOW 80s
-http://81.110.215.150:9981/play/stream/channel/7923b9b76a73bf931ffac25f5adb120d
-
-#EXTINF:-1,NOW 80s
-http://150.143.114.89:9981/stream/service/f8b307b35e57a45f3c98d5cb8551bdf6
-#EXTINF:-1,Sony Movies
-http://150.143.114.89:9981/stream/channelid/754852574
-#EXTINF:-1,Sony Movies Action
-http://150.143.114.89:9981/stream/channelid/1537503575
-
 
 #EXTINF:-1,CNN |cdn77*
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
@@ -2180,19 +2166,7 @@ http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
 
 + + + + http://3.239.35.218:9981/extjs.html + + + + + +
 
-#EXTINF:-1 group-title="3.239", Diema Sport 2 HD
-http://3.239.35.218:9981/stream/mux/8d706fa19b968244cf3773bc458d7b07
-#EXTINF:-1, Diema Sport
-http://3.239.35.218:9981/stream/mux/b753e87db6291aa3a2b9ba32b9fdad3f
-#EXTINF:-1, Sports TV Plus
-http://3.239.35.218:9981/stream/mux/287f868cd35bc7c0957f41e07fc304ab
-#EXTINF:-1, beIN SPORTS XTRA
-http://3.239.35.218:9981/stream/mux/d67061e2e78fb31bbe1f044bc2cdcb8b
-#EXTINF:-1, Fox Sports pluto (720p)
-http://3.239.35.218:9981/stream/mux/ef41524b71c39bccbb15ea45df1dae9e
-#EXTINF:-1, Win Sports+
-http://3.239.35.218:9981/stream/mux/be3b398f9a6f72c267373ae8c1750d86
-#EXTINF:-1, VEVO R&B (US)
+#EXTINF:-1 group-title="3.239", VEVO R&B (US)
 http://3.239.35.218:9981/stream/mux/708dd3af355cffb91920939669d0ec62
 #EXTINF:-1, VEVO Hip Hop (US)
 http://3.239.35.218:9981/stream/mux/88ade14d1693cb59fed47c06b0a58797
@@ -2202,12 +2176,6 @@ http://3.239.35.218:9981/stream/mux/4da9c4b48681d46a9ce0e424e4ba6a26
 http://3.239.35.218:9981/stream/mux/3831f7bcda60b32d8c7ba49fe5178ac4
 #EXTINF:-1, VEVO 2K (US)
 http://3.239.35.218:9981/stream/mux/a3c2d83a378466ea137db317f7360e85
-#EXTINF:-1, beIN SPORTS XTRA
-http://3.239.35.218:9981/stream/mux/f2d13136dd0bbefd034b193151500574
-#EXTINF:-1, Win Sports+
-http://3.239.35.218:9981/stream/mux/e9c6059f41da3d2da6960583d89c70d0
-#EXTINF:-1, beIN SPORTS XTRA (720p)
-http://3.239.35.218:9981/stream/mux/ef2574e1bad59d6681ff4ed03d7181ba
 #EXTINF:-1, MIX 24/7 Baladas
 http://3.239.35.218:9981/stream/mux/b29d6203cbb7d33acff97dd45dc2e608
 #EXTINF:-1, MIX 24/7
@@ -2222,10 +2190,7 @@ http://3.239.35.218:9981/stream/mux/b93dcfd1a6815319dfaadc141d168c09
 http://3.239.35.218:9981/stream/mux/f712964927a545faf6b2dcd17e832b4c
 #EXTINF:-1, MIX 24/7 Top 100
 http://3.239.35.218:9981/stream/mux/693a27d96ea66a97b2ac56be92ae5c11
-#EXTINF:-1, ESPN (720p)
-http://3.239.35.218:9981/stream/mux/7a115e6b520fcd004214cb1ac8f7e83a
-#EXTINF:-1, ESPN 2 
-http://3.239.35.218:9981/stream/mux/fe5a1500793a8d4fea7e0cd89b3073c2
+
 #EXTINF:-1, MTV Hits Europe
 http://3.239.35.218:9981/stream/service/d55592d39cd47bd4a3c5dc2aecfa6c41
 #EXTINF:-1, MIX 24/7 Baladas
@@ -2233,14 +2198,6 @@ http://3.239.35.218:9981/stream/service/db2a69f5fbefef40dcb04d6d1a648286
 #EXTINF:-1, MIX 24/7 Top 100
 http://3.239.35.218:9981/stream/service/3fa6eb587ba84398cc6b7afbe0f34232
 
-#EXTINF:-1, Diema Sport 2 HD
-http://3.239.35.218:9981/stream/service/da03b514735e256b02e96df5a811c2f9
-#EXTINF:-1, Diema Sport
-http://3.239.35.218:9981/stream/service/00efc487e8ed40325a84484a36b41312
-#EXTINF:-1, beIN SPORTS XTRA
-http://3.239.35.218:9981/stream/service/e19647e6ff532a621b23b59a3b8e4520
-#EXTINF:-1, Win Sports+
-http://3.239.35.218:9981/stream/service/9c50f327c4cc2d920eefe41097416928
 #EXTINF:-1, VEVO R&B (US)
 http://3.239.35.218:9981/stream/service/f7a546bab698db8de87ac3496873d0ac
 #EXTINF:-1, VEVO Hip Hop (US)
@@ -2251,12 +2208,7 @@ http://3.239.35.218:9981/stream/service/703f8cdac1bd458f4420e02a52fc1dfa
 http://3.239.35.218:9981/stream/service/b08323eba0739c983c471433c6e1f4c8
 #EXTINF:-1, VEVO 2K (US)
 http://3.239.35.218:9981/stream/service/a03f80b547d7e24fbd21cca97a7d04c7
-#EXTINF:-1, beIN SPORTS XTRA
-http://3.239.35.218:9981/stream/service/23abeb3b11321c03f77872267e2f5344
-#EXTINF:-1, Win Sports+
-http://3.239.35.218:9981/stream/service/2a2c2fb883bbf3ce7abb2740a743b737
-#EXTINF:-1, beIN SPORTS XTRA (720p)
-http://3.239.35.218:9981/stream/service/391a4895525914cbe10c271a6da6f13a
+
 #EXTINF:-1, MIX 24 Baladas
 http://3.239.35.218:9981/stream/service/db2a69f5fbefef40dcb04d6d1a648286
 #EXTINF:-1, MIX 24
