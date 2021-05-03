@@ -5138,6 +5138,15 @@ http://116.204.181.238:9981/stream/channel/ab2e96925297c48537054172d7d887a1
 #EXTINF:-1 group-title="116.204/TH", Sport Klub HD"
 http://116.204.181.238:9981/stream/channel/f3ef5fea3cf8425665cacb7079fb3a9c
 
+#EXTINF:-1 tvg-id="ab2e96925297c48537054172d7d887a1",SKynet sport HD
+
+http://116.204.181.238:9981/stream/channelid/311832235?ticket=43CAADB103A740BC49BFF0F10342D25D13B15999&profile=pass
+
+#EXTINF:-1 tvg-id="f3ef5fea3cf8425665cacb7079fb3a9c",{name-not-set}
+
+http://116.204.181.238:9981/stream/channelid/1784672243?ticket=F78607E2329E5B88881FCDC8358EA4A3F2BD9B30&profile=pass
+
+
 #EXTINF:-1,SKynet sport HD
 http://116.204.181.238:9981/stream/channelid/311832235?ticket=52BA6361821EE4546C41245A6A76E09DED7F3879&profile=pass
 #EXTINF:-1 group-title="116.204/TH",Sport Klub HD
