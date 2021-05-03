@@ -2067,30 +2067,18 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master.m3u8
 https://d2ko4czujk9652.cloudfront.net/hls/clr4ctv_cnas/master.m3u8
 https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
 
-#EXTINF:-1 tvg-id="70ad54a5f0bdfe84cf5345bd99c8c4dc",CNA
-
+#EXTINF:-1,CNA
 http://101.127.128.44:9981/stream/channelid/626306416?ticket=80A7312FC579AC3176CE07D0A400E309F8EFD55A&profile=pass
-
-#EXTINF:-1 tvg-id="074b5b58caa4032fb3cea403eef32c99",Channel 5
-
+#EXTINF:-1,Channel 5
 http://101.127.128.44:9981/stream/channelid/1482377991?ticket=B42AF944A522EAED1E4E522B8C18D8393FE7EB6E&profile=pass
-
-#EXTINF:-1 tvg-id="b7042ce20ba00bc2320afacd4b43c099",Channel 8
-
+#EXTINF:-1,Channel 8
 http://101.127.128.44:9981/stream/channelid/1647051959?ticket=FFF3DE625D0C98EC22A4E0AE31BEBB61C188D657&profile=pass
-
-#EXTINF:-1 tvg-id="3c05f8e399abe076a13ff1bb17714840",Channel U
-
+#EXTINF:-1,Channel U
 http://101.127.128.44:9981/stream/channelid/1677198652?ticket=5662DDBD243E9F47B210A6821DFC941BCCF8BD3D&profile=pass
-
-#EXTINF:-1 tvg-id="42fa646afc2f8482f73977d2461d1d01",Suria
-
+#EXTINF:-1,Suria
 http://101.127.128.44:9981/stream/channelid/1785002562?ticket=17CA53CD53505137E23D86146C5EFF907860CB4B&profile=pass
-
-#EXTINF:-1 tvg-id="8dab81d59b6a48fee9d83f82813ae61a",Vasantham
-
+#EXTINF:-1,Vasantham
 http://101.127.128.44:9981/stream/channelid/1434561421?ticket=571F978805B7C65F1F0EBBEB6F2E1F3289DD83C8&profile=pass
-
 
 
 #EXTINF:-1 group-title="SG",8新闻台
@@ -2320,14 +2308,10 @@ http://4digital.ddns.net:9981/stream/service/a17464769934778ef6f53db6a500fb82
 
 -/-/-/-/-
 
-#EXTINF:-1 tvg-id="ab2e96925297c48537054172d7d887a1",{name-not-set}
-
+#EXTINF:-1,{name-not-set}
 http://4digital.ddns.net:9981/stream/channelid/311832235?ticket=1841D5B2436922B56F12C62B6CA85023F0BA2323&profile=pass
-
-#EXTINF:-1 tvg-id="f3ef5fea3cf8425665cacb7079fb3a9c",{name-not-set}
-
+#EXTINF:-1,{name-not-set}
 http://4digital.ddns.net:9981/stream/channelid/1784672243?ticket=1C067225347D7C07AAC832BBE8B0301C1DAC626D&profile=pass
-
 
 -/-/-/-/-
 
@@ -2758,10 +2742,7 @@ http://73.68.128.14:9981/dvrfile/59f47ea93f2284f6238a572a81ab5772
 
 + + + + http://73.85.95.69:9981/extjs.html + + + + tv:tv + + + + + to check again
 
-#EXTINF:-1 group-title="*73.85*", US Premier League TV |73.85
-http://73.85.95.69:9981/stream/mux/8dcaf051a1c98d6b00a8f1278a5586fc
-
-#EXTINF:-1, IN | Star Sports Select 2 HD
+#EXTINF:-1 group-title="*73.85*", IN | Star Sports Select 2 HD
 http://73.85.95.69:9981/stream/mux/1a4fcc334f795bcccf6b5242a3cfc578
 #EXTINF:-1, UK | Sky Sports News HD
 http://73.85.95.69:9981/stream/mux/088a243b1071038619f13e62120065a1
@@ -3288,8 +3269,6 @@ http://73.85.95.69:9981/stream/service/cbaeecc62cca41e46d7b0f1cf08b8a9c
 http://73.85.95.69:9981/stream/service/f7d9ca569bd18943e1b4981a2cf6f04f
 #EXTINF:-1, BT SPORT 2HD
 http://73.85.95.69:9981/stream/service/0ced5a0aa63d8774cf64422f93bbee20
-#EXTINF:-1, Service01
-http://73.85.95.69:9981/stream/service/44af5b69d34e45a6e7cc4fda2adf2716
 #EXTINF:-1, STAR SPORTS 1HD
 http://73.85.95.69:9981/stream/service/2dc07abe6cbe42717a9815d8491e76c8
 #EXTINF:-1, STAR SPORTS SELECT 2HD
@@ -3300,8 +3279,6 @@ http://73.85.95.69:9981/stream/service/581392d4b54b2b19942db5d8827a8077
 http://73.85.95.69:9981/stream/service/8444333e6dce32fb057869a5e9fe9ceb
 #EXTINF:-1, MTV CLASSIC
 http://73.85.95.69:9981/stream/service/b379d5edf5079c4f3c991965e54104d8
-#EXTINF:-1, Service01
-http://73.85.95.69:9981/stream/service/4569a12a6e2f97544fddfa7ab26d65ef
 #EXTINF:-1, afn
 http://73.85.95.69:9981/stream/service/b9deee5b37a98254b564d4f365f53b45
 #EXTINF:-1, astro SUPERSPORT
@@ -3728,7 +3705,6 @@ http://77.83.117.60:8888/02_5HD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_7HD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_8HD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_AMARINHD_720p/chunklist.m3u8
-#EXTINF:-1,&TV |77.83'
 http://77.83.117.60:8888/02_AND_TV_720p/chunklist.m3u8
 #EXTINF:-1,ANIMAL PLANET |77.83'
 http://77.83.117.60:8888/02_AnimalPlanet/chunklist.m3u8
@@ -3745,9 +3721,7 @@ http://77.83.117.60:8888/02_CartoonNetwork_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_CCM_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_CH3FAMILY_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_CH3SD_480p/chunklist.m3u8
-#EXTINF:-1,Channel V |77.83'
 http://77.83.117.60:8888/02_Channel_V_720p/chunklist.m3u8
-#EXTINF:-1,CNN |77.83'
 http://77.83.117.60:8888/02_CNN_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_Comedy_HD_720p/chunklist.m3u8
 ,Discovery Channel |77.83'
