@@ -12368,79 +12368,111 @@ Real Url: ottplanet.live:7788     Status: Active    Created: 24/11/2020 6:18:09 
 http://pie.buzz:83/get.php?username=Peter.nyr1909&password=6547736256&type=m3u
 Real Url: securepoint.io:83     Status: Active    Created: 29/3/2018 12:09:38 PM     Expires: 28/5/2021 4:00:00 AM     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
 
-#EXTINF:-1 group-title="pie",UK SD : MTV Base  
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/20973.m3u8
+#EXTINF:-1 group-title="pie",UK HD :  MTV Rocks
+http://pie.buzz:83/Peter.nyr1909/6547736256/309837.m3u8
+#EXTINF:-1,UK SD : MTV Base
+http://pie.buzz:83/Peter.nyr1909/6547736256/20973.m3u8
 #EXTINF:-1,UK SD : MTV Classic
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/20975.m3u8
+http://pie.buzz:83/Peter.nyr1909/6547736256/20975.m3u8
 #EXTINF:-1,UK SD : MTV Hits
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/20977.m3u8
+http://pie.buzz:83/Peter.nyr1909/6547736256/20977.m3u8
 #EXTINF:-1,UK HD : MTV
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/221667.m3u8
+http://pie.buzz:83/Peter.nyr1909/6547736256/221667.m3u8
 #EXTINF:-1,UK SD : MTV Club
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/381387.m3u8
+http://pie.buzz:83/Peter.nyr1909/6547736256/381387.m3u8
 #EXTINF:-1,UK HD : MTV Live
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/381386.m3u8
+http://pie.buzz:83/Peter.nyr1909/6547736256/381386.m3u8
 #EXTINF:-1,UK SD : MTV Music
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/381385.m3u8
+http://pie.buzz:83/Peter.nyr1909/6547736256/381385.m3u8
 #EXTINF:-1,UK SD : MTV OMG
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/381389.m3u8
-#EXTINF:-1,UK HD :  MTV Rocks
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/309837.m3u8
+http://pie.buzz:83/Peter.nyr1909/6547736256/381389.m3u8
 #EXTINF:-1,UK SD : Now 90s
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/381392.m3u8
+http://pie.buzz:83/Peter.nyr1909/6547736256/381392.m3u8
+#EXTINF:-1,UK SD : VH1 Classic
+http://pie.buzz:83/Peter.nyr1909/6547736256/327538.m3u8
 
-#EXTINF:-1,NBC Sports Network HD
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/353545.m3u8
+#EXTINF:-1,UK SD : BBC World News
+http://pie.buzz:83/Peter.nyr1909/6547736256/168366.m3u8
+#EXTINF:-1,UK SD : Bloomberg
+http://pie.buzz:83/Peter.nyr1909/6547736256/327753.m3u8
+#EXTINF:-1,UK SD :  CNN
+http://pie.buzz:83/Peter.nyr1909/6547736256/358247.m3u8
 
-#EXTINF:-1,FOOT 01: 
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386037.m3u8
-#EXTINF:-1,FOOT 02:
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386038.m3u8
-#EXTINF:-1,FOOT 03: 
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386039.m3u8
-#EXTINF:-1,FOOT 04: 
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386040.m3u8
-#EXTINF:-1,FOOT 05: 
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386041.m3u8
-#EXTINF:-1,FOOT 06: 
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386042.m3u8
-#EXTINF:-1,FOOT 07:
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386043.m3u8
-#EXTINF:-1,FOOT 08:
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386044.m3u8
-#EXTINF:-1,FOOT 09: 
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386045.m3u8
-#EXTINF:-1,FOOT 10: 
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386046.m3u8
+#EXTINF:-1,UK FHD :  Sky Cinema Action
+http://pie.buzz:83/Peter.nyr1909/6547736256/378441.m3u8
+#EXTINF:-1,UK FHD : Sky Cinema Disney
+http://pie.buzz:83/Peter.nyr1909/6547736256/378448.m3u8
+#EXTINF:-1,UK FHD : Sky Cinema Drama
+http://pie.buzz:83/Peter.nyr1909/6547736256/378452.m3u8
+#EXTINF:-1,UK FHD : Sky Cinema  Family
+http://pie.buzz:83/Peter.nyr1909/6547736256/378455.m3u8
+#EXTINF:-1,UK FHD : Sky Cinema Hits
+http://pie.buzz:83/Peter.nyr1909/6547736256/378461.m3u8
+#EXTINF:-1,UK FHD :  Sky Cinema Greats
+http://pie.buzz:83/Peter.nyr1909/6547736256/378458.m3u8
+#EXTINF:-1,UK FHD : Sky Cinema Premier
+http://pie.buzz:83/Peter.nyr1909/6547736256/378464.m3u8
+#EXTINF:-1,UK. FHD :  Sky Cinema SciFi Horror
+http://pie.buzz:83/Peter.nyr1909/6547736256/378467.m3u8
+#EXTINF:-1,UK FHD :  Sky Cinema Thriller
+http://pie.buzz:83/Peter.nyr1909/6547736256/378470.m3u8
+#EXTINF:-1,UK HD :  Sky Cinema Action
+http://pie.buzz:83/Peter.nyr1909/6547736256/378442.m3u8
+#EXTINF:-1,UK HD. : Sky Cinema Disney
+http://pie.buzz:83/Peter.nyr1909/6547736256/378450.m3u8
+#EXTINF:-1,UK HD : Sky Cinema Drama
+http://pie.buzz:83/Peter.nyr1909/6547736256/378453.m3u8
+#EXTINF:-1,UK HD : Sky Cinema Family
+http://pie.buzz:83/Peter.nyr1909/6547736256/378456.m3u8
+#EXTINF:-1,UK HD :  Sky Cinema Hits
+http://pie.buzz:83/Peter.nyr1909/6547736256/378463.m3u8
+#EXTINF:-1,UK HD : Sky Cinema Greats
+http://pie.buzz:83/Peter.nyr1909/6547736256/378459.m3u8
+#EXTINF:-1,UK HD :  Sky Cinema Premier
+http://pie.buzz:83/Peter.nyr1909/6547736256/378465.m3u8
+#EXTINF:-1,UK HD :  Sky Cinema SciFi Horror
+http://pie.buzz:83/Peter.nyr1909/6547736256/378468.m3u8
+#EXTINF:-1,UK HD : Sky Cinema Thriller
+http://pie.buzz:83/Peter.nyr1909/6547736256/378471.m3u8
+#EXTINF:-1,UK SD : Sky Cinema Action
+http://pie.buzz:83/Peter.nyr1909/6547736256/378443.m3u8
+#EXTINF:-1,UK SD : Sky Cinema Comedy
+http://pie.buzz:83/Peter.nyr1909/6547736256/378445.m3u8
+#EXTINF:-1,UK SD : Sky Cinema Disney
+http://pie.buzz:83/Peter.nyr1909/6547736256/378451.m3u8
+#EXTINF:-1,UK SD : Sky Cinema Drama
+http://pie.buzz:83/Peter.nyr1909/6547736256/378454.m3u8
+#EXTINF:-1,UK SD :  Sky Cinema Hits
+http://pie.buzz:83/Peter.nyr1909/6547736256/378462.m3u8
+#EXTINF:-1,UK SD : Sky Cinema Family
+http://pie.buzz:83/Peter.nyr1909/6547736256/378457.m3u8
+#EXTINF:-1,UK SD : Sky Cinema Greats
+http://pie.buzz:83/Peter.nyr1909/6547736256/378460.m3u8
+#EXTINF:-1,UK SD : Sky Cinema Premier
+http://pie.buzz:83/Peter.nyr1909/6547736256/378466.m3u8
+#EXTINF:-1,UK SD :  Sky Cinema SciFi Horror
+http://pie.buzz:83/Peter.nyr1909/6547736256/378469.m3u8
+#EXTINF:-1,UK SD : Sky Cinema Thriller
+http://pie.buzz:83/Peter.nyr1909/6547736256/378472.m3u8
+#EXTINF:-1,UK HD : Sky Cinema Select
+http://pie.buzz:83/Peter.nyr1909/6547736256/383106.m3u8
+#EXTINF:-1,UK FHD : Sky Cinema Animation
+http://pie.buzz:83/Peter.nyr1909/6547736256/383607.m3u8
 
-#EXTINF:-1,BeinSports HD1 720p
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/385863.m3u8
-#EXTINF:-1,BeinSports HD2 720p
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/385864.m3u8
-#EXTINF:-1,BeinSports HD3 720p
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/385865.m3u8
-#EXTINF:-1,BeinSports HD4 720p
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/385866.m3u8
-#EXTINF:-1,BeinSports HD5 720p
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/385867.m3u8
-#EXTINF:-1,BeinSports HD6 720p
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/385868.m3u8
-#EXTINF:-1,BeinSports HD07 720p
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/385869.m3u8
-
+#EXTINF:-1,beIN-SPORTS HD 01 EN FULL HD
+http://pie.buzz:83/Peter.nyr1909/6547736256/385859.m3u8
+#EXTINF:-1,beIN-SPORTS HD 02 EN FULL HD
+http://pie.buzz:83/Peter.nyr1909/6547736256/385860.m3u8
+#EXTINF:-1,beIN-SPORTS HD 03 EN FULL HD
+http://pie.buzz:83/Peter.nyr1909/6547736256/385861.m3u8
 #EXTINF:-1,Astro Super Sport 1 HD
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/364352.m3u8
+http://pie.buzz:83/Peter.nyr1909/6547736256/364352.m3u8
 #EXTINF:-1,Astro Super Sport 2HD
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/364351.m3u8
+http://pie.buzz:83/Peter.nyr1909/6547736256/364351.m3u8
 #EXTINF:-1,Astro Super Sport 3HD
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/364350.m3u8
-#EXTINF:-1,Astro Super Sport 4HD
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/364349.m3u8
-
-#EXTINF:-1,IN: Star Sports Select 1 (TEST)
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386619.m3u8
-#EXTINF:-1 group-title="pie",IN: Star Sports Select 2 (TEST)
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386620.m3u8
+http://pie.buzz:83/Peter.nyr1909/6547736256/364350.m3u8
+#EXTINF:-1 group-title="pie",Astro Super Sport 4HD
+http://pie.buzz:83/Peter.nyr1909/6547736256/364349.m3u8
 
 + + + + + portal.simiptv.co.uk:8080 + + + + +
 
