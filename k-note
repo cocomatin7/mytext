@@ -5566,6 +5566,56 @@ http://116.255.19.58:9981/stream/channelid/2081627602?profile=pass
  group-title="116.255",ZING
 http://116.255.19.58:9981/stream/channelid/129924788?profile=pass
 
++ + + + + http://167.172.33.223:9981/extjs.html + + + + + Viasat/ Canal+/ RMC
+
+#EXTINF:-1 group-title="167.172",VIP FI: V Sport Premium HD
+http://167.172.33.223:9981/stream/mux/ff3bc45a76b2a04922aea25412364244
+#EXTINF:-1,VIP FI: V Sport HD
+http://167.172.33.223:9981/stream/mux/78b02596458add1bbeaa9b3e9c8c65fb
+#EXTINF:-1,FR: VIP RMC SPORT 1 HEVC
+http://167.172.33.223:9981/stream/mux/abeb9596e673035e8e8625a65f92e7a3
+#EXTINF:-1,FR: VIP RMC SPORT 2 HEVC
+http://167.172.33.223:9981/stream/mux/55bc44a5688e8dd6773db738a4fba1b2
+#EXTINF:-1,FR: VIP RMC SPORT 3 HEVC
+http://167.172.33.223:9981/stream/mux/f9b2a4df9c5e5e8eef5f40bbdea1aabc
+#EXTINF:-1,FR: VIP RMC SPORT 4 HEVC
+http://167.172.33.223:9981/stream/mux/8ca634fef4c275a6ab3906b5cfd7917d
+#EXTINF:-1,FR: RMC SPORT ACCESS 1 HD
+http://167.172.33.223:9981/stream/mux/8c12b72f44d996069da99fabf68c9bf4
+#EXTINF:-1,FR: RMC ACCESS  2 FHD
+http://167.172.33.223:9981/stream/mux/f4502eb31470462a5301f241bb6ad1f8
+#EXTINF:-1,FR: RMC ACCESS 3 FHD
+http://167.172.33.223:9981/stream/mux/000abe45431958029eba9e1252b406ee
+#EXTINF:-1,FR: RMC SPORT 1 HD
+http://167.172.33.223:9981/stream/mux/16d2fb67a75796739cab97ed615879a3
+#EXTINF:-1,FR: RMC SPORT 1 FHD 1080
+http://167.172.33.223:9981/stream/mux/5082496eb4db18b6b843c39d6a1bcb52
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://167.172.33.223:9981/stream/mux/222d781cb86daee980d0cb32744fa025
+#EXTINF:-1,FR: RMC SPORT  2  HD 1080P
+http://167.172.33.223:9981/stream/mux/fdf8a26d681fd2a5e7e53c1d01079190
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://167.172.33.223:9981/stream/mux/eb29dece94ab9337569a9911bc43ffeb
+#EXTINF:-1,FR: RMC SPORT 3 FHD
+http://167.172.33.223:9981/stream/mux/ccc14f5a9429bb1aa91900dc06b7f669
+#EXTINF:-1,FR: RMC SPORT 4 HD
+http://167.172.33.223:9981/stream/mux/f53acf1fc0986ec2124a8619cd6a35f9
+#EXTINF:-1,FR: RMC SPORT  4 FHD
+http://167.172.33.223:9981/stream/mux/23f5274def042b7bcdbd3c98846d5b55
+#EXTINF:-1,FR: RMC SPORT 5 HD
+http://167.172.33.223:9981/stream/mux/06dbb610c7c2fe008d26695fff82b602
+#EXTINF:-1,FR: VIP CANAL+ SPORT HEVC
+http://167.172.33.223:9981/stream/mux/52e66a6e44c9b45871e6e5d3388d8d99
+#EXTINF:-1,FR: VIP MTV HITS HEVC
+http://167.172.33.223:9981/stream/mux/2883b7e0e50547fb11a203d4c63500c5
+#EXTINF:-1,FR: CANAL+ SPORT HD
+http://167.172.33.223:9981/stream/mux/e996642c59d0ccf4a68c9aa1d908c243
+#EXTINF:-1,FR: CANAL+  SPORT HD 1080P
+http://167.172.33.223:9981/stream/mux/20de5b4a47c626ee50494f7520b80ff8
+#EXTINF:-1 group-title="167.172",FR: CANAL+ LIGUE 1 HD
+http://167.172.33.223:9981/stream/mux/61fc46cec5e0a28d9bcf3d312713395f
+
+
 + + + + + http://171.4.161.216:9981/extjs.html + + + + + DOWN
 
 + + + + + 185.180.221.194:8278/streams/d + + + + +
@@ -5716,6 +5766,7 @@ http://203.154.177.124:8899/live/ch29/playlist.m3u8
 
 
 + + + + + 212.8.253.172:2052 + + + + +
+
 
 #EXTINF:-1 group-title="*212.8*", AstroSport1
 http://212.8.253.172:2052/AstroSupersports1HD/tracks-v1a1/mono.m3u8?token=4cf664d53451318603085725c43a5796
