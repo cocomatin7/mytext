@@ -2290,6 +2290,17 @@ http://4digital.ddns.net:9981/stream/service/a17464769934778ef6f53db6a500fb82
 
 -/-/-/-/-
 
+#EXTINF:-1 tvg-id="ab2e96925297c48537054172d7d887a1",{name-not-set}
+
+http://4digital.ddns.net:9981/stream/channelid/311832235?ticket=1841D5B2436922B56F12C62B6CA85023F0BA2323&profile=pass
+
+#EXTINF:-1 tvg-id="f3ef5fea3cf8425665cacb7079fb3a9c",{name-not-set}
+
+http://4digital.ddns.net:9981/stream/channelid/1784672243?ticket=1C067225347D7C07AAC832BBE8B0301C1DAC626D&profile=pass
+
+
+-/-/-/-/-
+
  group-title="4digit/TH", A Leag
 http://4digital.ddns.net:9981/stream/mux/915d4013605f154f014ae5c94208b529
 , EPL 1 HD TH
