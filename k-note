@@ -11920,7 +11920,7 @@ http://hotiptv.site:8080/get.php?username=zkby2013&password=1d469e6d9e42&type=m3
 Real Url: iptvtree.net:8080     Status: Active    Created: 10/2/2020 7:58:43 PM     Expires: 12/5/2021 9:01:02 AM    Active Connections: 122     Maximum Connections: 125
 
 http://iptvtree.net:8080/get.php?username=outputofflinechecker&password=9kyZXqC7MwVbkMnJmf&type=m3u
-Real Url: iptvtree.net:8080     Status: Active    Created: 15/10/2019 12:49:06 AM     Expires: Null    Active Connections: 373     Maximum Connections: 2000 
+Real Url: iptvtree.net:8080     Status: Active    Created: 15/10/2019 12:49:06 AM     Expires: Null    Active Connections: 488     Maximum Connections: 2000  << 
 
 #EXTINF:-1 group-title="iptvtree",UK: beIN Sports 11 HD
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/192635.m3u8
@@ -12361,6 +12361,8 @@ Real Url: nonton.site:8888     Status: Active    Created: 14/10/2020 5:00:00 PM 
 
 http://ottiptv.us:25461/get.php?username=iptvtree.com&password=90X312b737L26&type=m3u
 Real Url: ottiptv.us:2095     Status: Active    Created: 5/11/2020 10:08:35 PM     Expires: Null    Active Connections: 117     Maximum Connections: 200
+http://ottiptv.us:2095/get.php?username=iptvtree.com&password=90X312b737L26&type=m3u
+Real Url: ottiptv.us:2095     Status: Active    Created: 5/11/2020 10:08:35 PM     Expires: Null    Active Connections: 125     Maximum Connections: 200
 
 #EXTINF:-1 group-title="ottiptv",|SAF| SuperSport 1
 http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24228.m3u8
@@ -12582,7 +12584,7 @@ http://portal.simiptv.co.uk:8080/get.php?username=alipajiuk&password=oRGQpcPAkZ&
 + + + + + prime-tivu.com:25461 + + + + + null
 
 http://viptv-pro.com:25461/get.php?username=elitiptv&password=4h1EGiYx&type=m3u
-Real Url: prime-tivu.com:25461     Status: Active    Created: Null     Expires: Null    Active Connections: 30     Maximum Connections: 100 < to check
+Real Url: prime-tivu.com:25461     Status: Active    Created: Null     Expires: Null    Active Connections: 30     Maximum Connections: 100 < to check < some sports 
 
 + + + + + pro-panel01.club:8080 / premium-streamplay.club [SEA] + + + + +
 
