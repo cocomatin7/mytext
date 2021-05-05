@@ -2067,30 +2067,18 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master.m3u8
 https://d2ko4czujk9652.cloudfront.net/hls/clr4ctv_cnas/master.m3u8
 https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
 
-#EXTINF:-1 tvg-id="70ad54a5f0bdfe84cf5345bd99c8c4dc",CNA
-
+#EXTINF:-1,CNA
 http://101.127.128.44:9981/stream/channelid/626306416?ticket=80A7312FC579AC3176CE07D0A400E309F8EFD55A&profile=pass
-
-#EXTINF:-1 tvg-id="074b5b58caa4032fb3cea403eef32c99",Channel 5
-
+#EXTINF:-1,Channel 5
 http://101.127.128.44:9981/stream/channelid/1482377991?ticket=B42AF944A522EAED1E4E522B8C18D8393FE7EB6E&profile=pass
-
-#EXTINF:-1 tvg-id="b7042ce20ba00bc2320afacd4b43c099",Channel 8
-
+#EXTINF:-1,Channel 8
 http://101.127.128.44:9981/stream/channelid/1647051959?ticket=FFF3DE625D0C98EC22A4E0AE31BEBB61C188D657&profile=pass
-
-#EXTINF:-1 tvg-id="3c05f8e399abe076a13ff1bb17714840",Channel U
-
+#EXTINF:-1,Channel U
 http://101.127.128.44:9981/stream/channelid/1677198652?ticket=5662DDBD243E9F47B210A6821DFC941BCCF8BD3D&profile=pass
-
-#EXTINF:-1 tvg-id="42fa646afc2f8482f73977d2461d1d01",Suria
-
+#EXTINF:-1,Suria
 http://101.127.128.44:9981/stream/channelid/1785002562?ticket=17CA53CD53505137E23D86146C5EFF907860CB4B&profile=pass
-
-#EXTINF:-1 tvg-id="8dab81d59b6a48fee9d83f82813ae61a",Vasantham
-
+#EXTINF:-1,Vasantham
 http://101.127.128.44:9981/stream/channelid/1434561421?ticket=571F978805B7C65F1F0EBBEB6F2E1F3289DD83C8&profile=pass
-
 
 
 #EXTINF:-1 group-title="SG",8新闻台
@@ -2320,14 +2308,10 @@ http://4digital.ddns.net:9981/stream/service/a17464769934778ef6f53db6a500fb82
 
 -/-/-/-/-
 
-#EXTINF:-1 tvg-id="ab2e96925297c48537054172d7d887a1",{name-not-set}
-
+#EXTINF:-1,{name-not-set}
 http://4digital.ddns.net:9981/stream/channelid/311832235?ticket=1841D5B2436922B56F12C62B6CA85023F0BA2323&profile=pass
-
-#EXTINF:-1 tvg-id="f3ef5fea3cf8425665cacb7079fb3a9c",{name-not-set}
-
+#EXTINF:-1,{name-not-set}
 http://4digital.ddns.net:9981/stream/channelid/1784672243?ticket=1C067225347D7C07AAC832BBE8B0301C1DAC626D&profile=pass
-
 
 -/-/-/-/-
 
@@ -2758,10 +2742,7 @@ http://73.68.128.14:9981/dvrfile/59f47ea93f2284f6238a572a81ab5772
 
 + + + + http://73.85.95.69:9981/extjs.html + + + + tv:tv + + + + + to check again
 
-#EXTINF:-1 group-title="*73.85*", US Premier League TV |73.85
-http://73.85.95.69:9981/stream/mux/8dcaf051a1c98d6b00a8f1278a5586fc
-
-#EXTINF:-1, IN | Star Sports Select 2 HD
+#EXTINF:-1 group-title="*73.85*", IN | Star Sports Select 2 HD
 http://73.85.95.69:9981/stream/mux/1a4fcc334f795bcccf6b5242a3cfc578
 #EXTINF:-1, UK | Sky Sports News HD
 http://73.85.95.69:9981/stream/mux/088a243b1071038619f13e62120065a1
@@ -3288,8 +3269,6 @@ http://73.85.95.69:9981/stream/service/cbaeecc62cca41e46d7b0f1cf08b8a9c
 http://73.85.95.69:9981/stream/service/f7d9ca569bd18943e1b4981a2cf6f04f
 #EXTINF:-1, BT SPORT 2HD
 http://73.85.95.69:9981/stream/service/0ced5a0aa63d8774cf64422f93bbee20
-#EXTINF:-1, Service01
-http://73.85.95.69:9981/stream/service/44af5b69d34e45a6e7cc4fda2adf2716
 #EXTINF:-1, STAR SPORTS 1HD
 http://73.85.95.69:9981/stream/service/2dc07abe6cbe42717a9815d8491e76c8
 #EXTINF:-1, STAR SPORTS SELECT 2HD
@@ -3300,8 +3279,6 @@ http://73.85.95.69:9981/stream/service/581392d4b54b2b19942db5d8827a8077
 http://73.85.95.69:9981/stream/service/8444333e6dce32fb057869a5e9fe9ceb
 #EXTINF:-1, MTV CLASSIC
 http://73.85.95.69:9981/stream/service/b379d5edf5079c4f3c991965e54104d8
-#EXTINF:-1, Service01
-http://73.85.95.69:9981/stream/service/4569a12a6e2f97544fddfa7ab26d65ef
 #EXTINF:-1, afn
 http://73.85.95.69:9981/stream/service/b9deee5b37a98254b564d4f365f53b45
 #EXTINF:-1, astro SUPERSPORT
@@ -3728,7 +3705,6 @@ http://77.83.117.60:8888/02_5HD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_7HD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_8HD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_AMARINHD_720p/chunklist.m3u8
-#EXTINF:-1,&TV |77.83'
 http://77.83.117.60:8888/02_AND_TV_720p/chunklist.m3u8
 #EXTINF:-1,ANIMAL PLANET |77.83'
 http://77.83.117.60:8888/02_AnimalPlanet/chunklist.m3u8
@@ -3745,9 +3721,7 @@ http://77.83.117.60:8888/02_CartoonNetwork_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_CCM_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_CH3FAMILY_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_CH3SD_480p/chunklist.m3u8
-#EXTINF:-1,Channel V |77.83'
 http://77.83.117.60:8888/02_Channel_V_720p/chunklist.m3u8
-#EXTINF:-1,CNN |77.83'
 http://77.83.117.60:8888/02_CNN_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_Comedy_HD_720p/chunklist.m3u8
 ,Discovery Channel |77.83'
@@ -5592,6 +5566,100 @@ http://116.255.19.58:9981/stream/channelid/2081627602?profile=pass
  group-title="116.255",ZING
 http://116.255.19.58:9981/stream/channelid/129924788?profile=pass
 
++ + + + + http://167.172.33.223:9981/extjs.html + + + + + Viasat/ Canal+/ RMC
+
+#EXTINF:-1 group-title="167.172",VIP FI: V Sport Premium HD
+http://167.172.33.223:9981/stream/mux/ff3bc45a76b2a04922aea25412364244
+#EXTINF:-1,VIP FI: V Sport HD
+http://167.172.33.223:9981/stream/mux/78b02596458add1bbeaa9b3e9c8c65fb
+#EXTINF:-1,FR: VIP RMC SPORT 1 HEVC
+http://167.172.33.223:9981/stream/mux/abeb9596e673035e8e8625a65f92e7a3
+#EXTINF:-1,FR: VIP RMC SPORT 2 HEVC
+http://167.172.33.223:9981/stream/mux/55bc44a5688e8dd6773db738a4fba1b2
+#EXTINF:-1,FR: VIP RMC SPORT 3 HEVC
+http://167.172.33.223:9981/stream/mux/f9b2a4df9c5e5e8eef5f40bbdea1aabc
+#EXTINF:-1,FR: VIP RMC SPORT 4 HEVC
+http://167.172.33.223:9981/stream/mux/8ca634fef4c275a6ab3906b5cfd7917d
+#EXTINF:-1,FR: RMC SPORT ACCESS 1 HD
+http://167.172.33.223:9981/stream/mux/8c12b72f44d996069da99fabf68c9bf4
+#EXTINF:-1,FR: RMC ACCESS  2 FHD
+http://167.172.33.223:9981/stream/mux/f4502eb31470462a5301f241bb6ad1f8
+#EXTINF:-1,FR: RMC ACCESS 3 FHD
+http://167.172.33.223:9981/stream/mux/000abe45431958029eba9e1252b406ee
+#EXTINF:-1,FR: RMC SPORT 1 HD
+http://167.172.33.223:9981/stream/mux/16d2fb67a75796739cab97ed615879a3
+#EXTINF:-1,FR: RMC SPORT 1 FHD 1080
+http://167.172.33.223:9981/stream/mux/5082496eb4db18b6b843c39d6a1bcb52
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://167.172.33.223:9981/stream/mux/222d781cb86daee980d0cb32744fa025
+#EXTINF:-1,FR: RMC SPORT  2  HD 1080P
+http://167.172.33.223:9981/stream/mux/fdf8a26d681fd2a5e7e53c1d01079190
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://167.172.33.223:9981/stream/mux/eb29dece94ab9337569a9911bc43ffeb
+#EXTINF:-1,FR: RMC SPORT 3 FHD
+http://167.172.33.223:9981/stream/mux/ccc14f5a9429bb1aa91900dc06b7f669
+#EXTINF:-1,FR: RMC SPORT 4 HD
+http://167.172.33.223:9981/stream/mux/f53acf1fc0986ec2124a8619cd6a35f9
+#EXTINF:-1,FR: RMC SPORT  4 FHD
+http://167.172.33.223:9981/stream/mux/23f5274def042b7bcdbd3c98846d5b55
+#EXTINF:-1,FR: RMC SPORT 5 HD
+http://167.172.33.223:9981/stream/mux/06dbb610c7c2fe008d26695fff82b602
+#EXTINF:-1,FR: VIP CANAL+ SPORT HEVC
+http://167.172.33.223:9981/stream/mux/52e66a6e44c9b45871e6e5d3388d8d99
+#EXTINF:-1,FR: VIP MTV HITS HEVC
+http://167.172.33.223:9981/stream/mux/2883b7e0e50547fb11a203d4c63500c5
+#EXTINF:-1,FR: CANAL+ SPORT HD
+http://167.172.33.223:9981/stream/mux/e996642c59d0ccf4a68c9aa1d908c243
+#EXTINF:-1,FR: CANAL+  SPORT HD 1080P
+http://167.172.33.223:9981/stream/mux/20de5b4a47c626ee50494f7520b80ff8
+#EXTINF:-1 group-title="167.172",FR: CANAL+ LIGUE 1 HD
+http://167.172.33.223:9981/stream/mux/61fc46cec5e0a28d9bcf3d312713395f
+
+#EXTINF:-1 group-title="167.172",FR: CANAL+ SPORT HD 1080P
+http://167.172.33.223:9981/stream/channelid/224013409
+#EXTINF:-1,FR: CANAL+ LIGUE 1 HD
+http://167.172.33.223:9981/stream/channelid/219639167
+#EXTINF:-1,FR: CANAL+ SPORT HD
+http://167.172.33.223:9981/stream/channelid/384024586
+#EXTINF:-1,FR: RMC SPORT ACCESS 1 HD/FHD
+http://167.172.33.223:9981/stream/channelid/1326035097
+#EXTINF:-1,FR: RMC ACCESS 2 FHD
+http://167.172.33.223:9981/stream/channelid/1569110905
+#EXTINF:-1,FR: RMC ACCESS 3 FHD
+http://167.172.33.223:9981/stream/channelid/1623617433
+#EXTINF:-1,FR: RMC SPORT 2 HD 1080P
+http://167.172.33.223:9981/stream/channelid/1578622147
+#EXTINF:-1,FR: RMC SPORT 4 FHD
+http://167.172.33.223:9981/stream/channelid/1931403243
+#EXTINF:-1,FR: RMC SPORT 1 FHD 1080
+http://167.172.33.223:9981/stream/channelid/2005109327
+#EXTINF:-1,FR: RMC SPORT 1 HD
+http://167.172.33.223:9981/stream/channelid/1731547528
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://167.172.33.223:9981/stream/channelid/1282531902
+#EXTINF:-1,FR: RMC SPORT 3 FHD
+http://167.172.33.223:9981/stream/channelid/2080406527
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://167.172.33.223:9981/stream/channelid/1901468197
+#EXTINF:-1,FR: RMC SPORT 4 HD
+http://167.172.33.223:9981/stream/channelid/494176669
+#EXTINF:-1,FR: RMC SPORT 5 HD
+http://167.172.33.223:9981/stream/channelid/2114837451
+#EXTINF:-1,FR: VIP beIN SPORTS 1 FR HEVC
+http://167.172.33.223:9981/stream/channelid/197243682
+#EXTINF:-1,FR: VIP beIN SPORTS 2 FR HEVC
+http://167.172.33.223:9981/stream/channelid/602922486
+#EXTINF:-1,FR: VIP beIN SPORTS 3 FR HEVC
+http://167.172.33.223:9981/stream/channelid/1831704037
+#EXTINF:-1,FR: VIP RMC SPORT 1 HEVC
+http://167.172.33.223:9981/stream/channelid/1221251515
+#EXTINF:-1,FR: VIP RMC SPORT 2 HEVC
+http://167.172.33.223:9981/stream/channelid/1189053094
+#EXTINF:-1,FR: VIP RMC SPORT 3 HEVC
+http://167.172.33.223:9981/stream/channelid/773089215
+#EXTINF:-1 group-title="167.172",FR: VIP RMC SPORT 4 HEVC
+http://167.172.33.223:9981/stream/channelid/702304439
+
 + + + + + http://171.4.161.216:9981/extjs.html + + + + + DOWN
 
 + + + + + 185.180.221.194:8278/streams/d + + + + +
@@ -5742,6 +5810,7 @@ http://203.154.177.124:8899/live/ch29/playlist.m3u8
 
 
 + + + + + 212.8.253.172:2052 + + + + +
+
 
 #EXTINF:-1 group-title="*212.8*", AstroSport1
 http://212.8.253.172:2052/AstroSupersports1HD/tracks-v1a1/mono.m3u8?token=4cf664d53451318603085725c43a5796
@@ -9645,10 +9714,15 @@ https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_sport5_480p/chunklist .m3u8
 https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1,SPORTTV 1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV 2
 https://www.livedoomovie.com/02_SPORTTV_2_720p /chunklist.m3u8
+#EXTINF:-1,SPORTTV 3
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV 4
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV 5
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_Star_Gold_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
@@ -11303,6 +11377,10 @@ http://176.98.26.37:8000/streaming/clients_live.php?extension=m3u8&username=tivi
 
 http://176.9.31.213:7080/get.php?username=live_channel&password=e71sq94uo8&type=m3u < to check < N
 
++ + + + + 185.38.151.41:15001 + + + + +
+
+http://185.38.151.41:15001/get.php?username=5D4FZBLept&password=gnJ1X4dXDi&type=m3u < null < 300-14 < few sports
+
 + + + + + 185.226.88.6:1026 + + + + +
 
 http://185.226.88.6:1026/get.php?username=SMYYKzbS0z&password=HRj5TKnrRx&type=m3u < null < 1000-276
@@ -11584,10 +11662,10 @@ http://globaltv.life:8880/get.php?username=sfast@trial&password=oIb3fTcCuJ&type=
 http://goiptv.co:8080/get.php?username=avatar&password=fVkKAhhBlr&type=m3u
 Real Url: goiptv.co:8080     Status: Active    Created: 29/12/2020 8:26:19 PM     Expires: 23/5/2021 12:00:00 AM    Active Connections: 691     Maximum Connections: 1000
 
-+ + + + + ip.newboss.site:80 + + + + + Null 
++ + + + + ip.newboss.site:80 + + + + + Null + UK: SUPERSPORT + DSTV AFRICA| SuperSport 1 + + +
 
 http://ip.trboss.net:80/get.php?username=dindin&password=sdfsjfujskrez&type=m3u
-Real Url: ip.newboss.site:80     Status: Active    Created: 24/1/2021 12:42:20 PM     Expires: Null    Active Connections: 119     Maximum Connections: 60 
+Real Url: ip.newboss.site:80     Status: Active    Created: 24/1/2021 12:42:20 PM     Expires: Null    Active Connections: 119     Maximum Connections: 60 < 
 
 http://test.satlok.club/get.php?username=Amigo&password=do92Rd6x8yr3&type=m3u
 Real Url: ip.newboss.site:80     Status: Active    Created: 3/11/2019 5:58:44 PM     Expires: Null    Active Connections: 205     Maximum Connections: 200
@@ -11842,7 +11920,7 @@ http://hotiptv.site:8080/get.php?username=zkby2013&password=1d469e6d9e42&type=m3
 Real Url: iptvtree.net:8080     Status: Active    Created: 10/2/2020 7:58:43 PM     Expires: 12/5/2021 9:01:02 AM    Active Connections: 122     Maximum Connections: 125
 
 http://iptvtree.net:8080/get.php?username=outputofflinechecker&password=9kyZXqC7MwVbkMnJmf&type=m3u
-Real Url: iptvtree.net:8080     Status: Active    Created: 15/10/2019 12:49:06 AM     Expires: Null    Active Connections: 373     Maximum Connections: 2000 
+Real Url: iptvtree.net:8080     Status: Active    Created: 15/10/2019 12:49:06 AM     Expires: Null    Active Connections: 488     Maximum Connections: 2000  << 
 
 #EXTINF:-1 group-title="iptvtree",UK: beIN Sports 11 HD
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/192635.m3u8
@@ -12279,6 +12357,105 @@ https://nonton.site:8443/get.php?username=global12&password=mgt&type=m3u < Exp
 https://nonton.site:8443/get.php?username=6894864475&password=7163819284&type=m3u
 Real Url: nonton.site:8888     Status: Active    Created: 14/10/2020 5:00:00 PM     Expires: 21/5/2021 5:00:00 PM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
++ + + + + ottiptv.us:2095 + + + + + Null + + + + +
+
+http://ottiptv.us:25461/get.php?username=iptvtree.com&password=90X312b737L26&type=m3u
+Real Url: ottiptv.us:2095     Status: Active    Created: 5/11/2020 10:08:35 PM     Expires: Null    Active Connections: 117     Maximum Connections: 200
+http://ottiptv.us:2095/get.php?username=iptvtree.com&password=90X312b737L26&type=m3u
+Real Url: ottiptv.us:2095     Status: Active    Created: 5/11/2020 10:08:35 PM     Expires: Null    Active Connections: 125     Maximum Connections: 200
+
+#EXTINF:-1 group-title="ottiptv",|SAF| SuperSport 1
+http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24228.m3u8
+#EXTINF:-1,|SAF| SuperSport 2
+http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24229.m3u8
+#EXTINF:-1,|SAF| SuperSport 3
+http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24230.m3u8
+#EXTINF:-1,|SAF| SuperSport 4
+http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24231.m3u8
+#EXTINF:-1,|SAF| SuperSport 5
+http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24232.m3u8
+#EXTINF:-1,|SAF| SuperSport 6
+http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24233.m3u8
+#EXTINF:-1,|SAF| SuperSport 7
+http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24234.m3u8
+#EXTINF:-1,|SAF| SuperSport 8
+http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24235.m3u8
+#EXTINF:-1,|SAF| SuperSport 9
+http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24236.m3u8
+#EXTINF:-1,|SAF| SuperSport 10
+http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24237.m3u8
+#EXTINF:-1,|SAF| SuperSport 11
+http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24238.m3u8
+#EXTINF:-1,|SAF| SuperSport 12
+http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24239.m3u8
+#EXTINF:-1,|SAF| SUPERSPORT BLITZ
+http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24240.m3u8
+#EXTINF:-1 group-title="ottiptv",|SAF| SUPERSPORT MAXIMO
+http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24241.m3u8
+
+#EXTINF:-1,|SKY-UK| MTV Classic
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/29011
+#EXTINF:-1,|SKY-UK| MTV Dance
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/29012
+#EXTINF:-1,|SKY-UK| MTV HD
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/29013
+#EXTINF:-1,|SKY-UK| MTV Hits
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/29014
+#EXTINF:-1,|SKY-UK| MTV Hits SD
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/29015
+#EXTINF:-1,|SKY-UK| MTV Rocks HD
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/29016
+#EXTINF:-1,|SKY-UK| MTV Base
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/29017
+#EXTINF:-1,|SKY-UK| VH1 Classic HD
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/29018
+#EXTINF:-1,|SKY-UK| VH1 HD
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/29019
+
+#EXTINF:-1,|USA| NBCSN
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/33086
+
+#EXTINF:-1,ENGLISH STAR MOVIES HD
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/35906
+#EXTINF:-1,ENGLISH STAR WORLD PREMIER HD
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/35907
+#EXTINF:-1,ENGLISH STAR MOVIES SELECT HD
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/35908
+#EXTINF:-1,b4umovie
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/36199
+#EXTINF:-1,b4umusic
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/36185
+#EXTINF:-1,andpictureshd
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/36200
+#EXTINF:-1,HINDI MOVIES NOW HD
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/35859
+#EXTINF:-1,HINDI MN PLUS HD
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/35862
+#EXTINF:-1,zeecinema
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/36189
+#EXTINF:-1,SPORTS STAR SPORTS SELECT 1 HD
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/36214
+#EXTINF:-1,SPORTS STAR SPORTS SELECT 2 HD
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/36215
+
+#EXTINF:-1,|FR| BEINSPORT 1
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/696
+#EXTINF:-1,|FR| BEINSPORT 2
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/697
+#EXTINF:-1,|FR| BEINSPORT 3
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/698
+#EXTINF:-1,|FR| BEINSPORT 4
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/699
+#EXTINF:-1,|FR| BEINSPORT 5
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/700
+#EXTINF:-1,|FR| BEINSPORT 6
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/701
+#EXTINF:-1,|FR| BEINSPORT 7
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/702
+#EXTINF:-1,|FR| BEINSPORT 8
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/703
+#EXTINF:-1 group-title="ottiptv",|FR| BEINSPORT 9
+http://ottiptv.us:25461/iptvtree.com/90X312b737L26/704
 
 + + + + + ozentv.pro:80 + + + + + 19/1/2038 + + + + +
 
@@ -12289,84 +12466,116 @@ http://kingdiablo-iptv.com/get.php?username=live:tolgax1x&password=Kca35kdDCc&ty
 http://ottplanet.live:7788/get.php?username=2iptvma.live&password=TFuYwZukUY&type=m3u
 Real Url: ottplanet.live:7788     Status: Active    Created: 24/11/2020 6:18:09 PM     Expires: Null    Active Connections: 98     Maximum Connections: 200 < DOWN
 
-+ + + + + pie.buzz:83 + + + + + 28/4/2021 + + + + +
++ + + + + pie.buzz:83 + + + + + 28/5/2021 + + + + +
 
 http://pie.buzz:83/get.php?username=Peter.nyr1909&password=6547736256&type=m3u
 Real Url: securepoint.io:83     Status: Active    Created: 29/3/2018 12:09:38 PM     Expires: 28/5/2021 4:00:00 AM     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
 
-#EXTINF:-1 group-title="pie",UK SD : MTV Base  
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/20973.m3u8
-#EXTINF:-1,UK SD : MTV Classic
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/20975.m3u8
-#EXTINF:-1,UK SD : MTV Hits
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/20977.m3u8
-#EXTINF:-1,UK HD : MTV
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/221667.m3u8
-#EXTINF:-1,UK SD : MTV Club
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/381387.m3u8
-#EXTINF:-1,UK HD : MTV Live
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/381386.m3u8
-#EXTINF:-1,UK SD : MTV Music
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/381385.m3u8
-#EXTINF:-1,UK SD : MTV OMG
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/381389.m3u8
-#EXTINF:-1,UK HD :  MTV Rocks
+#EXTINF:-1 group-title="pie",UK HD :  MTV Rocks
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/309837.m3u8
+#EXTINF:-1,UK SD : MTV Base
+http://pie.buzz:83/Peter.nyr1909/6547736256/20973.m3u8
+#EXTINF:-1,UK SD : MTV Classic
+http://pie.buzz:83/Peter.nyr1909/6547736256/20975.m3u8
+#EXTINF:-1,UK SD : MTV Hits
+http://pie.buzz:83/Peter.nyr1909/6547736256/20977.m3u8
+#EXTINF:-1,UK HD : MTV
+http://pie.buzz:83/Peter.nyr1909/6547736256/221667.m3u8
+#EXTINF:-1,UK SD : MTV Club
+http://pie.buzz:83/Peter.nyr1909/6547736256/381387.m3u8
+#EXTINF:-1,UK HD : MTV Live
+http://pie.buzz:83/Peter.nyr1909/6547736256/381386.m3u8
+#EXTINF:-1,UK SD : MTV Music
+http://pie.buzz:83/Peter.nyr1909/6547736256/381385.m3u8
+#EXTINF:-1,UK SD : MTV OMG
+http://pie.buzz:83/Peter.nyr1909/6547736256/381389.m3u8
 #EXTINF:-1,UK SD : Now 90s
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/381392.m3u8
+http://pie.buzz:83/Peter.nyr1909/6547736256/381392.m3u8
+#EXTINF:-1,UK SD : VH1 Classic
+http://pie.buzz:83/Peter.nyr1909/6547736256/327538.m3u8
 
-#EXTINF:-1,NBC Sports Network HD
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/353545.m3u8
+#EXTINF:-1,UK SD : BBC World News
+http://pie.buzz:83/Peter.nyr1909/6547736256/168366.m3u8
+#EXTINF:-1,UK SD : Bloomberg
+http://pie.buzz:83/Peter.nyr1909/6547736256/327753.m3u8
+#EXTINF:-1,UK SD :  CNN
+http://pie.buzz:83/Peter.nyr1909/6547736256/358247.m3u8
 
-#EXTINF:-1,FOOT 01: 
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386037.m3u8
-#EXTINF:-1,FOOT 02:
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386038.m3u8
-#EXTINF:-1,FOOT 03: 
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386039.m3u8
-#EXTINF:-1,FOOT 04: 
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386040.m3u8
-#EXTINF:-1,FOOT 05: 
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386041.m3u8
-#EXTINF:-1,FOOT 06: 
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386042.m3u8
-#EXTINF:-1,FOOT 07:
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386043.m3u8
-#EXTINF:-1,FOOT 08:
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386044.m3u8
-#EXTINF:-1,FOOT 09: 
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386045.m3u8
-#EXTINF:-1,FOOT 10: 
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386046.m3u8
+#EXTINF:-1,UK FHD :  Sky Cinema Action
+http://pie.buzz:83/Peter.nyr1909/6547736256/378441.m3u8
+#EXTINF:-1,UK FHD : Sky Cinema Disney
+http://pie.buzz:83/Peter.nyr1909/6547736256/378448.m3u8
+#EXTINF:-1,UK FHD : Sky Cinema Drama
+http://pie.buzz:83/Peter.nyr1909/6547736256/378452.m3u8
+#EXTINF:-1,UK FHD : Sky Cinema  Family
+http://pie.buzz:83/Peter.nyr1909/6547736256/378455.m3u8
+#EXTINF:-1,UK FHD : Sky Cinema Hits
+http://pie.buzz:83/Peter.nyr1909/6547736256/378461.m3u8
+#EXTINF:-1,UK FHD :  Sky Cinema Greats
+http://pie.buzz:83/Peter.nyr1909/6547736256/378458.m3u8
+#EXTINF:-1,UK FHD : Sky Cinema Premier
+http://pie.buzz:83/Peter.nyr1909/6547736256/378464.m3u8
+#EXTINF:-1,UK. FHD :  Sky Cinema SciFi Horror
+http://pie.buzz:83/Peter.nyr1909/6547736256/378467.m3u8
+#EXTINF:-1,UK FHD :  Sky Cinema Thriller
+http://pie.buzz:83/Peter.nyr1909/6547736256/378470.m3u8
+#EXTINF:-1,UK HD :  Sky Cinema Action
+http://pie.buzz:83/Peter.nyr1909/6547736256/378442.m3u8
+#EXTINF:-1,UK HD. : Sky Cinema Disney
+http://pie.buzz:83/Peter.nyr1909/6547736256/378450.m3u8
+#EXTINF:-1,UK HD : Sky Cinema Drama
+http://pie.buzz:83/Peter.nyr1909/6547736256/378453.m3u8
+#EXTINF:-1,UK HD : Sky Cinema Family
+http://pie.buzz:83/Peter.nyr1909/6547736256/378456.m3u8
+#EXTINF:-1,UK HD :  Sky Cinema Hits
+http://pie.buzz:83/Peter.nyr1909/6547736256/378463.m3u8
+#EXTINF:-1,UK HD : Sky Cinema Greats
+http://pie.buzz:83/Peter.nyr1909/6547736256/378459.m3u8
+#EXTINF:-1,UK HD :  Sky Cinema Premier
+http://pie.buzz:83/Peter.nyr1909/6547736256/378465.m3u8
+#EXTINF:-1,UK HD :  Sky Cinema SciFi Horror
+http://pie.buzz:83/Peter.nyr1909/6547736256/378468.m3u8
+#EXTINF:-1,UK HD : Sky Cinema Thriller
+http://pie.buzz:83/Peter.nyr1909/6547736256/378471.m3u8
+#EXTINF:-1,UK SD : Sky Cinema Action
+http://pie.buzz:83/Peter.nyr1909/6547736256/378443.m3u8
+#EXTINF:-1,UK SD : Sky Cinema Comedy
+http://pie.buzz:83/Peter.nyr1909/6547736256/378445.m3u8
+#EXTINF:-1,UK SD : Sky Cinema Disney
+http://pie.buzz:83/Peter.nyr1909/6547736256/378451.m3u8
+#EXTINF:-1,UK SD : Sky Cinema Drama
+http://pie.buzz:83/Peter.nyr1909/6547736256/378454.m3u8
+#EXTINF:-1,UK SD :  Sky Cinema Hits
+http://pie.buzz:83/Peter.nyr1909/6547736256/378462.m3u8
+#EXTINF:-1,UK SD : Sky Cinema Family
+http://pie.buzz:83/Peter.nyr1909/6547736256/378457.m3u8
+#EXTINF:-1,UK SD : Sky Cinema Greats
+http://pie.buzz:83/Peter.nyr1909/6547736256/378460.m3u8
+#EXTINF:-1,UK SD : Sky Cinema Premier
+http://pie.buzz:83/Peter.nyr1909/6547736256/378466.m3u8
+#EXTINF:-1,UK SD :  Sky Cinema SciFi Horror
+http://pie.buzz:83/Peter.nyr1909/6547736256/378469.m3u8
+#EXTINF:-1,UK SD : Sky Cinema Thriller
+http://pie.buzz:83/Peter.nyr1909/6547736256/378472.m3u8
+#EXTINF:-1,UK HD : Sky Cinema Select
+http://pie.buzz:83/Peter.nyr1909/6547736256/383106.m3u8
+#EXTINF:-1,UK FHD : Sky Cinema Animation
+http://pie.buzz:83/Peter.nyr1909/6547736256/383607.m3u8
 
-#EXTINF:-1,BeinSports HD1 720p
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/385863.m3u8
-#EXTINF:-1,BeinSports HD2 720p
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/385864.m3u8
-#EXTINF:-1,BeinSports HD3 720p
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/385865.m3u8
-#EXTINF:-1,BeinSports HD4 720p
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/385866.m3u8
-#EXTINF:-1,BeinSports HD5 720p
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/385867.m3u8
-#EXTINF:-1,BeinSports HD6 720p
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/385868.m3u8
-#EXTINF:-1,BeinSports HD07 720p
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/385869.m3u8
-
+#EXTINF:-1,beIN-SPORTS HD 01 EN FULL HD
+http://pie.buzz:83/Peter.nyr1909/6547736256/385859.m3u8
+#EXTINF:-1,beIN-SPORTS HD 02 EN FULL HD
+http://pie.buzz:83/Peter.nyr1909/6547736256/385860.m3u8
+#EXTINF:-1,beIN-SPORTS HD 03 EN FULL HD
+http://pie.buzz:83/Peter.nyr1909/6547736256/385861.m3u8
 #EXTINF:-1,Astro Super Sport 1 HD
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/364352.m3u8
+http://pie.buzz:83/Peter.nyr1909/6547736256/364352.m3u8
 #EXTINF:-1,Astro Super Sport 2HD
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/364351.m3u8
+http://pie.buzz:83/Peter.nyr1909/6547736256/364351.m3u8
 #EXTINF:-1,Astro Super Sport 3HD
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/364350.m3u8
-#EXTINF:-1,Astro Super Sport 4HD
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/364349.m3u8
-
-#EXTINF:-1,IN: Star Sports Select 1 (TEST)
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386619.m3u8
-#EXTINF:-1 group-title="pie",IN: Star Sports Select 2 (TEST)
-http://pie.buzz:83/live/Peter.nyr1909/6547736256/386620.m3u8
+http://pie.buzz:83/Peter.nyr1909/6547736256/364350.m3u8
+#EXTINF:-1 group-title="pie",Astro Super Sport 4HD
+http://pie.buzz:83/Peter.nyr1909/6547736256/364349.m3u8
 
 + + + + + portal.simiptv.co.uk:8080 + + + + +
 
@@ -12375,7 +12584,7 @@ http://portal.simiptv.co.uk:8080/get.php?username=alipajiuk&password=oRGQpcPAkZ&
 + + + + + prime-tivu.com:25461 + + + + + null
 
 http://viptv-pro.com:25461/get.php?username=elitiptv&password=4h1EGiYx&type=m3u
-Real Url: prime-tivu.com:25461     Status: Active    Created: Null     Expires: Null    Active Connections: 30     Maximum Connections: 100 < to check
+Real Url: prime-tivu.com:25461     Status: Active    Created: Null     Expires: Null    Active Connections: 30     Maximum Connections: 100 < to check < some sports 
 
 + + + + + pro-panel01.club:8080 / premium-streamplay.club [SEA] + + + + +
 
@@ -12453,13 +12662,13 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7995
 
 #EXTINF:-1,...RSA SUPERSPORTS TENNIS HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/311866
-#EXTINF:-1,...RSA SUPERSPORTS VARITY 01 HD
+#EXTINF:-1,...RSA SUPERSPORTS VARITY 1 HD
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/311868.m3u8
-#EXTINF:-1,...RSA SUPERSPORTS VARITY 02 HD
+#EXTINF:-1,...RSA SUPERSPORTS VARITY 2 HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30957
-#EXTINF:-1,...RSA SUPERSPORTS VARITY 03 HD
+#EXTINF:-1,...RSA SUPERSPORTS VARITY 3 HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30330
-#EXTINF:-1,...RSA SUPERSPORTS VARITY 04 HD
+#EXTINF:-1,...RSA SUPERSPORTS VARITY 4 HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/397213
 #EXTINF:-1,...RSA SUPERSPORTS RUGBY HD AF
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/395599
