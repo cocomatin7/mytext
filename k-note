@@ -2059,13 +2059,16 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png", CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png", CNA HD*
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
  tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png",Channel News Asia
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/channel_news_asia.png",Channel News Asia
 https://d2ko4czujk9652.cloudfront.net/hls/clr4ctv_cnas/master.m3u8
 https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
+
 
 #EXTINF:-1,CNA
 http://101.127.128.44:9981/stream/channelid/626306416?ticket=80A7312FC579AC3176CE07D0A400E309F8EFD55A&profile=pass
