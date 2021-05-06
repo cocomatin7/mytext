@@ -538,26 +538,26 @@ http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist.m3u8
 #EXTINF:-1,StarSportsSelect1FHD |87
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/chunklist.m3u8
 
-#EXTINF:-1,ASSP 1 |96
+ASSP 1 |96
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
-#EXTINF:-1,ASSP 2 |96
+ASSP 2 |96
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
-#EXTINF:-1,ASSP 3 |96
+ASSP 3 |96
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
-#EXTINF:-1,ASSP 4 |96
+ASSP 4 |96
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
 
-#EXTINF:-1,Mediacorp 5
+Mediacorp 5
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10001&key=84797b799ae18d1b
-#EXTINF:-1,Mediacorp 8
+Mediacorp 8
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10002&key=84797b799ae18d1b
-#EXTINF:-1,Mediacorp U
+Mediacorp U
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10003&key=84797b799ae18d1b
-#EXTINF:-1,Mediacorp S
+Mediacorp S
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10004&key=84797b799ae18d1b
-#EXTINF:-1,Mediacorp Vasanatham
+Mediacorp Vasanatham
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10005&key=84797b799ae18d1b
-#EXTINF:-1,Mediacorp cna
+Mediacorp cna
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10007&key=84797b799ae18d1b
 
 #EXTINF:-1,True Premiere Football HD1 |185
@@ -574,67 +574,6 @@ https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
 https://app.mb13.men/c/livedo/truepremierfootball2-hd.m3u8
 #EXTINF:-1,True Premiere Football HD3 |mb13
 https://app.mb13.men/c/livedo/truepremierfootball3-hd.m3u8
-
-TNT
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6110/index.m3u8
-
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6111/index.m3u8
-
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6112/index.m3u8
-sky SPORT 2
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6113/index.m3u8
-sky news
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6114/index.m3u8
-sky news extra
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6115/index.m3u8
-sky news extra
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6116/index.m3u8
-sky news extra
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6117/index.m3u8
-
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6118/index.m3u8
-FOX Sports
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6119/index.m3u8
-
-#EXTINF:-1,beIN SPORT 1
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6123/index.m3u8
-#EXTINF:-1,beIN SPORT 3
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6124/index.m3u8
-#EXTINF:-1,beIN SPORT 4
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6125/index.m3u8
-#EXTINF:-1,beIN SPORT 5
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6126/index.m3u8
-ER
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6127/index.m3u8
-#EXTINF:-1,beIN SPORT 7
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6128/index.m3u8
-#EXTINF:-1,beIN SPORT 5
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6129/index.m3u8
-#EXTINF:-1,beIN SPORT 9
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6130/index.m3u8
-#EXTINF:-1,beIN SPORT 3 PRE
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6131/index.m3u8
-#EXTINF:-1,beIN SPORT 1EN
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6132/index.m3u8
-#EXTINF:-1,beIN SPORT 2EN
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6133/index.m3u8
-
-beIN Movies 2 Action
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6134/index.m3u8
-beIN Movies 3 Drama
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6135/index.m3u8
-beIN Movies 4 Family
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6136/index.m3u8
-beIN Connect
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6137/index.m3u8
-beIN Series HD1
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6138/index.m3u8
-Outdoor
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6139/index.m3u8
-
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6144/index.m3u8
-FOX MOVIES
-http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6145/index.m3u8
 
 
 #EXTINF:-1,beIN 6| ferrarico
@@ -695,37 +634,37 @@ https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=warner
 http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 
-#EXTINF:-1,SUPERSPORT 1 |laos-tech
+SUPERSPORT 1 |laos-tech
 https://laos-tech-live.b-cdn.net/my-asp1hd_720/index.m3u8
-#EXTINF:-1,SUPERSPORT 1 |laos-tech*
+SUPERSPORT 1 |laos-tech*
 http://laos-tech-live.b-cdn.net/my-asp1hd_720/index.m3u8
 
-#EXTINF:-1,SUPERSPORT 2 |laos-tech
+SUPERSPORT 2 |laos-tech
 https://laos-tech-live.b-cdn.net/my-asp2hd_720/index.m3u8
-#EXTINF:-1,SUPERSPORT 2 |laos-tech*
+SUPERSPORT 2 |laos-tech*
 http://laos-tech-live.b-cdn.net/my-asp2hd_720/index.m3u8
 
-#EXTINF:-1,SUPERSPORT 3 |laos-tech
+SUPERSPORT 3 |laos-tech
 https://laos-tech-live.b-cdn.net/my-asp3hd_720/index.m3u8
-#EXTINF:-1,SUPERSPORT 3 |laos-tech*
+SUPERSPORT 3 |laos-tech*
 http://laos-tech-live.b-cdn.net/my-asp3hd_720/index.m3u8
 
-#EXTINF:-1,SUPERSPORT 4 |laos-tech
+SUPERSPORT 4 |laos-tech
 https://laos-tech-live.b-cdn.net/my-asp4hd_720/index.m3u8
-#EXTINF:-1,SUPERSPORT 4 |laos-tech*
+SUPERSPORT 4 |laos-tech*
 https://laos-tech-live.b-cdn.net/my-asp4hd_720/index.m3u8
 
-#EXTINF:-1,True Premiere Football HD1 |laos-tech
+True Premiere Football HD1 |laos-tech
 https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
-#EXTINF:-1,True Premiere Football HD1 |laos-tech*
+True Premiere Football HD1 |laos-tech*
 http://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
-#EXTINF:-1,True Premiere Football HD2 |laos-tech
+True Premiere Football HD2 |laos-tech
 https://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
-#EXTINF:-1,True Premiere Football HD2 |laos-tech*
+True Premiere Football HD2 |laos-tech*
 http://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
-#EXTINF:-1,True Premiere Football HD3 |laos-tech
+True Premiere Football HD3 |laos-tech
 https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
-#EXTINF:-1,True Premiere Football HD3 |laos-tech*
+True Premiere Football HD3 |laos-tech*
 http://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
 
 https://laos-tech-live.b-cdn.net/hd-foxsports1_720/index.m3u8
