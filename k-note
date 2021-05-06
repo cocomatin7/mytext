@@ -11418,6 +11418,11 @@ http://209.222.101.100:25461/live/tv/tv/77372.m3u8
 
 http://1sn.ns1.name:18800/get.php?username=fadilh66SkypeExYuVeryGood2017Started&password=ggdg1414hfdgdfhfdh24525hfhfhfhfh&type=m3u Expires: Null Connections: 60-58
 
++ + + + + albiptv.org:8000 + + + + +
+
+http://albiptv.org:8000/get.php?username=Fuat11&password=Fuat11&type=m3u
+Real Url: albiptv.org:8000     Status: Active    Created: 6/9/2015 3:17:24 PM     Expires: Null    Active Connections: 4     Maximum Connections: 4
+
 + + + + + appstv.us:25461 + + + + +
 
 http://appstv.us:25461/get.php?username=1&password=2&type=m3u
@@ -11606,77 +11611,84 @@ Real Url: goiptv.co:8080     Status: Active    Created: 29/12/2020 8:26:19 PM   
 
 + + + + + ip.newboss.site:80 + + + + + Null + UK: SUPERSPORT + DSTV AFRICA| SuperSport 1 + + +
 
-http://ip.trboss.net:80/get.php?username=dindin&password=sdfsjfujskrez&type=m3u
-Real Url: ip.newboss.site:80     Status: Active    Created: 24/1/2021 12:42:20 PM     Expires: Null    Active Connections: 119     Maximum Connections: 60 < 
+http://ip.trboss.net/get.php?username=dindin&password=sdfsjfujskrez&type=m3u
+Real Url: ip.newboss.site:80     Status: Active    Created: 24/1/2021 12:42:20 PM     Expires: Null    Active Connections: 61     Maximum Connections: 60
 
-http://test.satlok.club/get.php?username=Amigo&password=do92Rd6x8yr3&type=m3u
-Real Url: ip.newboss.site:80     Status: Active    Created: 3/11/2019 5:58:44 PM     Expires: Null    Active Connections: 205     Maximum Connections: 200
+http://test.satlok.club/get.php?username=Amigo&password=do92Rd6x8yr3&type=m3u Real Url: ip.newboss.site:80 Expires: Null Connections: 200-200 < DOWN
 
-#EXTINF:-1 group-title="ip.newboss",|PT| SPORT TV+
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/4495.m3u8
-#EXTINF:-1,|PT| SPORT TV 1
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/34070.m3u8
-#EXTINF:-1,|PT| SPORT TV 1 FHD
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/4494.m3u8
-#EXTINF:-1,|PT| SPORT TV 2
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/34071.m3u8
-#EXTINF:-1,|PT| SPORT TV 2 FHD
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/4493.m3u8
-#EXTINF:-1,|PT| SPORT TV 3
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/34072.m3u8
-#EXTINF:-1,|PT| SPORT TV 3 FHD
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/4492.m3u8
-#EXTINF:-1,|PT| SPORT TV 4
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/34073.m3u8
-#EXTINF:-1,|PT| SPORT TV 4 FHD
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/4491.m3u8
-#EXTINF:-1,|PT| SPORT TV 5 FHD
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/4490.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORT 1 HD
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/9287.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORT 2 HD
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/9288.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORT 3 HD
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/9289.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORT 4 HD
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/9290.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORT 5 HD
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/9291.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORT 6 HD
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/9292.m3u8
 
-#EXTINF:-1,|DSTV AFRICA|  SuperSport 1
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55828.m3u8
+#EXTINF:-1 group-title="ip.newboss",UK: SUPERSPORT 1
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/44689.m3u8
+#EXTINF:-1,UK: SUPERSPORT 2
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/45190.m3u8
+#EXTINF:-1,UK: SUPERSPORT 3
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/45191.m3u8
+#EXTINF:-1,UK: SUPERSPORT 4
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/45192.m3u8
+#EXTINF:-1,UK: SUPERSPORT 5
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/45193.m3u8
+#EXTINF:-1 group-title="ip.newboss",|DSTV AFRICA|  SuperSport 1
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/55828.m3u8
 #EXTINF:-1,|DSTV AFRICA|  SuperSport 2
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55829.m3u8
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/55829.m3u8
 #EXTINF:-1,|DSTV AFRICA| SuperSport 3
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55830.m3u8
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/55830.m3u8
 #EXTINF:-1,|DSTV AFRICA| SuperSport 4
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55831.m3u8
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/55831.m3u8
 #EXTINF:-1,|DSTV AFRICA| SuperSport 5
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55832.m3u8
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/55832.m3u8
 #EXTINF:-1,|DSTV AFRICA| SuperSport 6
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55833.m3u8
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/55833.m3u8
 #EXTINF:-1,|DSTV AFRICA| SuperSport 7
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55834.m3u8
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/55834.m3u8
 #EXTINF:-1,|DSTV AFRICA| SuperSport 8
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55835.m3u8
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/55835.m3u8
 #EXTINF:-1,|DSTV AFRICA| SuperSport 9
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55836.m3u8
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/55836.m3u8
 #EXTINF:-1,|DSTV AFRICA| SuperSport 10
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55837.m3u8
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/55837.m3u8
 #EXTINF:-1,|DSTV AFRICA| SuperSport 11
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55838.m3u8
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/55838.m3u8
 #EXTINF:-1,|DSTV AFRICA| SuperSport 12
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55839.m3u8
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/55839.m3u8
 #EXTINF:-1,|DSTV AFRICA| SUPERSPORT BLITZ
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55841.m3u8
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/55841.m3u8
 #EXTINF:-1,|DSTV AFRICA| SUPERSPORT MAXIMO
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/55840.m3u8
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/55840.m3u8
+
+#EXTINF:-1,UK: VH 1 CLASSIC
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/8706.m3u8
+#EXTINF:-1,UK: MTV
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/56548.m3u8
+#EXTINF:-1,UK: MTV BASE
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/56549.m3u8
+#EXTINF:-1,UK: MTV CLASSIC
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/56550.m3u8
+#EXTINF:-1,UK: MTV HD
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/56547.m3u8
+#EXTINF:-1,UK: MTV HITS
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/56552.m3u8
+#EXTINF:-1,UK: MTV LIVE FHD
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/56546.m3u8
+#EXTINF:-1,UK: MTV MUSIC
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/56555.m3u8
+#EXTINF:-1,UK: MTV OMG
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/56554.m3u8
+#EXTINF:-1,UK: MTV ROCKS
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/56556.m3u8
+#EXTINF:-1,UK: NOW 90S
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/56561.m3u8
+#EXTINF:-1,UK: 4MUSIC
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/56517.m3u8
+#EXTINF:-1,UK: BOX HITS
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/56527.m3u8
+#EXTINF:-1,UK: VH1 CLASSIC
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/56598.m3u8
+
 #EXTINF:-1,HINDI | STAR SPORTS SELECT 1 HD
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/27083.m3u8
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/27083.m3u8
 #EXTINF:-1 group-title="ip.newboss",HINDI | STAR SPORTS SELECT 2 HD
-http://ip.newboss.site:80/live/Amigo/do92Rd6x8yr3/27084.m3u8
+http://ip.newboss.site:80/live/dindin/sdfsjfujskrez/27084.m3u8
 
 + + + + + ip.tv4all.top:12345 + + + + +
 
