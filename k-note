@@ -11374,7 +11374,7 @@ http://103.135.208.14/get.php?username=ibox&password=bd&type=m3u < N
 
 + + + + + 104.218.61.161:83 + + + + +
 
-http://104.218.61.161:83/get.php?username=directline76598&password=35222AM0203424421468352020&type=m3u
+http://104.218.61.161:83/get.php?username=directline76598&password=35222AM0203424421468352020&type=m3u < N
 
 + + + + + 148.251.129.207:2083 + + + + +
 
@@ -11382,7 +11382,7 @@ https://xc.gt-app.tk:2083/get.php?username=GThn&password=qLzpvNzf04JgYjTwKgHrMgR
 
 + + + + + 173.198.198.102:25461 + + + + +
 
-http://173.198.198.102:25461/get.php?username=shahidandroid&password=FeyxFIpoYz&type=m3u Expires: Null    Active Connections: 9     Maximum Connections: 4000     Formats: "ts"
+http://173.198.198.102:25461/get.php?username=shahidandroid&password=FeyxFIpoYz&type=m3u Expires: Null Connections: 4000-9     Formats: "ts"
 
 #EXTINF:-1 group-title="173.198",Bein pre 1 fire
 http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/1
@@ -11390,10 +11390,8 @@ http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/1
 http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/2
 #EXTINF:-1,Bein1
 http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/3
-#EXTINF:-1,Bein3
+#EXTINF:-1 group-title="173.198",Bein3
 http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/5
-#EXTINF:-1 group-title="173.198",Hbv
-http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/6
 
 + + + + + 176.98.26.37:8000 + + + + +
 
@@ -11408,6 +11406,10 @@ http://185.38.151.41:15001/get.php?username=5D4FZBLept&password=gnJ1X4dXDi&type=
 + + + + + 185.226.88.6:1026 + + + + +
 
 http://185.226.88.6:1026/get.php?username=SMYYKzbS0z&password=HRj5TKnrRx&type=m3u < null < 1000-276
+
+ Desire http://185.226.88.6:1026/live/SMYYKzbS0z/HRj5TKnrRx/7.m3u8
+ Bunga Bunga http://185.226.88.6:1026/live/SMYYKzbS0z/HRj5TKnrRx/8.m3u8
+ Bizarre http://185.226.88.6:1026/live/SMYYKzbS0z/HRj5TKnrRx/9.m3u8
 
 + + + + + 185.134.22.131:8080 + + + + + 28/9/2021
 
