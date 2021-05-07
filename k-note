@@ -11683,6 +11683,9 @@ Real Url: goiptv.co:8080     Status: Active    Created: 29/12/2020 8:26:19 PM   
 
 + + + + + ip.newboss.site:80 + + + + + Null + UK: SUPERSPORT + DSTV AFRICA| SuperSport 1 + + +
 
+http://ip.bosszx.net:80/get.php?username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&type=m3u
+Real Url: ip.newboss.site:80     Status: Active    Created: 25/4/2019 2:30:18 AM     Expires: Null    Active Connections: 114     Maximum Connections: 200
+
 http://ip.trboss.net/get.php?username=dindin&password=sdfsjfujskrez&type=m3u
 Real Url: ip.newboss.site:80     Status: Active    Created: 24/1/2021 12:42:20 PM     Expires: Null    Active Connections: 61     Maximum Connections: 60
 
@@ -12551,10 +12554,436 @@ http://premium-streamplay.club:8080/live/mama/123456/8130.m3u8
 
 + + + + + pulselive.uk:8080 + + + + +
 
+http://pulselive.uk:8080/get.php?username=t1&password=t1&type=m3u < 2-1 < 16/02/2023 
+http://pulselive.uk:8080/Bs0LcSY6QD/Ss2TmKAWG4 < 20/09/21
+http://pulselive.uk:8080/Tiff123/Tiff123 < 07/03/2022
+http://pulselive.uk:8080/tracey/tracey < 26/12/21
+http://pulselive.uk:8080/freddie123/freddie123 < 26/09/21
+http://pulselive.uk:8080/Gerry/123456 < 28/03/2022
+
+
 http://pulselive.uk:8080/get.php?username=g&password=g&type=m3u
 Real Url: pulselive.uk:8080     Status: Active    Created: 25/2/2021 8:11:16 PM     Expires: 25/2/2022 8:11:16 PM    Active Connections: 2     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
 http://pulselive.uk:8080/get.php?username=freddie123&password=freddie123&type=m3u << 
 
+#EXTINF:-1 group-title="pulselive",Sky Cinema Premiere UHD
+http://pulselive.uk:8080/live/t1/t1/222580.m3u8
+#EXTINF:-1,Sky Cinema Premiere FHD
+http://pulselive.uk:8080/live/t1/t1/222593.m3u8
+#EXTINF:-1,Sky Cinema Action UHD
+http://pulselive.uk:8080/live/t1/t1/222575.m3u8
+#EXTINF:-1,Sky Cinema Action FHD
+http://pulselive.uk:8080/live/t1/t1/222586.m3u8
+#EXTINF:-1,Sky Cinema Animation UHD
+http://pulselive.uk:8080/live/t1/t1/222574.m3u8
+#EXTINF:-1,Sky Cinema Animation FHD
+http://pulselive.uk:8080/live/t1/t1/222587.m3u8
+#EXTINF:-1,Sky Cinema Comedy UHD
+http://pulselive.uk:8080/live/t1/t1/222576.m3u8
+#EXTINF:-1,Sky Cinema Comedy FHD
+http://pulselive.uk:8080/live/t1/t1/222588.m3u8
+#EXTINF:-1,Sky Cinema Drama UHD
+http://pulselive.uk:8080/live/t1/t1/222584.m3u8
+#EXTINF:-1,Sky Cinema Drama FHD
+http://pulselive.uk:8080/live/t1/t1/222589.m3u8
+#EXTINF:-1,Sky Cinema Family UHD
+http://pulselive.uk:8080/live/t1/t1/222578.m3u8
+#EXTINF:-1,Sky Cinema Family FHD
+http://pulselive.uk:8080/live/t1/t1/222590.m3u8
+#EXTINF:-1,Sky Cinema Greats UHD
+http://pulselive.uk:8080/live/t1/t1/222579.m3u8
+#EXTINF:-1,Sky Cinema Greats FHD
+http://pulselive.uk:8080/live/t1/t1/222591.m3u8
+#EXTINF:-1,Sky Cinema Hits UHD
+http://pulselive.uk:8080/live/t1/t1/222585.m3u8
+#EXTINF:-1,Sky Cinema Hits FHD
+http://pulselive.uk:8080/live/t1/t1/222592.m3u8
+#EXTINF:-1,Sky Cinema ScFi/Horror UHD
+http://pulselive.uk:8080/live/t1/t1/222581.m3u8
+#EXTINF:-1,Sky Cinema ScFi/Horror FHD
+http://pulselive.uk:8080/live/t1/t1/222594.m3u8
+#EXTINF:-1,Sky Cinema Select UHD
+http://pulselive.uk:8080/live/t1/t1/222577.m3u8
+#EXTINF:-1,Sky Cinema Select FHD
+http://pulselive.uk:8080/live/t1/t1/222595.m3u8
+#EXTINF:-1,Sky Cinema Thriller UHD
+http://pulselive.uk:8080/live/t1/t1/222583.m3u8
+#EXTINF:-1,Sky Cinema Thriller FHD
+http://pulselive.uk:8080/live/t1/t1/222596.m3u8
+
+#EXTINF:-1,UK : MTV BASE
+http://pulselive.uk:8080/live/t1/t1/223344.m3u8
+#EXTINF:-1,UK : MTV CLASSIC
+http://pulselive.uk:8080/live/t1/t1/223345.m3u8
+#EXTINF:-1,UK : MTV HITS
+http://pulselive.uk:8080/live/t1/t1/223346.m3u8
+#EXTINF:-1,UK : MTV MUSIC
+http://pulselive.uk:8080/live/t1/t1/223347.m3u8
+#EXTINF:-1,UK : MTV LIVE
+http://pulselive.uk:8080/live/t1/t1/223348.m3u8
+#EXTINF:-1,UK : VOX AFRICA
+http://pulselive.uk:8080/live/t1/t1/223349.m3u8
+#EXTINF:-1,UK : NOW XMAS
+http://pulselive.uk:8080/live/t1/t1/223350.m3u8
+#EXTINF:-1,UK : NOW 90s
+http://pulselive.uk:8080/live/t1/t1/223351.m3u8
+#EXTINF:-1,UK : NOW 70's
+http://pulselive.uk:8080/live/t1/t1/223352.m3u8
+#EXTINF:-1,UK : TRACE HITS
+http://pulselive.uk:8080/live/t1/t1/223353.m3u8
+#EXTINF:-1,Box Hits 
+http://pulselive.uk:8080/live/t1/t1/223354.m3u8
+#EXTINF:-1,NOW 80s
+http://pulselive.uk:8080/live/t1/t1/223355.m3u8
+#EXTINF:-1,CLUBLAND TV
+http://pulselive.uk:8080/live/t1/t1/223356.m3u8
+#EXTINF:-1,THE BOX
+http://pulselive.uk:8080/live/t1/t1/223357.m3u8
+#EXTINF:-1,Music Choice | Holiday Yule Logs
+http://pulselive.uk:8080/live/t1/t1/223365.m3u8
+#EXTINF:-1,Music Choice | Hit List
+http://pulselive.uk:8080/live/t1/t1/223366.m3u8
+#EXTINF:-1,Music Choice | Hip-Hop and R&B
+http://pulselive.uk:8080/live/t1/t1/223367.m3u8
+#EXTINF:-1,Music Choice | Teen Beats
+http://pulselive.uk:8080/live/t1/t1/223368.m3u8
+#EXTINF:-1,Music Choice | Today's Country: CMA Awards
+http://pulselive.uk:8080/live/t1/t1/223369.m3u8
+#EXTINF:-1,Music Choice | Pop Hits
+http://pulselive.uk:8080/live/t1/t1/223370.m3u8
+#EXTINF:-1,Music Choice | Pop & Country
+http://pulselive.uk:8080/live/t1/t1/223371.m3u8
+#EXTINF:-1,Music Choice | 90's
+http://pulselive.uk:8080/live/t1/t1/223372.m3u8
+#EXTINF:-1,Music Choice | R&B Soul
+http://pulselive.uk:8080/live/t1/t1/223373.m3u8
+#EXTINF:-1,Music Choice | Rock
+http://pulselive.uk:8080/live/t1/t1/223374.m3u8
+#EXTINF:-1,Music Choice | R&B Soul
+http://pulselive.uk:8080/live/t1/t1/223375.m3u8
+#EXTINF:-1,Music Choice | Music Choice Max
+http://pulselive.uk:8080/live/t1/t1/223376.m3u8
+#EXTINF:-1,Music Choice | Dance / EDM
+http://pulselive.uk:8080/live/t1/t1/223377.m3u8
+#EXTINF:-1,Music Choice | Y2K
+http://pulselive.uk:8080/live/t1/t1/223378.m3u8
+#EXTINF:-1,Music Choice | Brits + Hits
+http://pulselive.uk:8080/live/t1/t1/223379.m3u8
+#EXTINF:-1,Music Choice | Pop Latino
+http://pulselive.uk:8080/live/t1/t1/223380.m3u8
+#EXTINF:-1,Music Choice | Rap
+http://pulselive.uk:8080/live/t1/t1/223381.m3u8
+#EXTINF:-1,Music Choice | Throwback Jamz
+http://pulselive.uk:8080/live/t1/t1/223382.m3u8
+#EXTINF:-1,Music Choice | Rap 2K
+http://pulselive.uk:8080/live/t1/t1/223383.m3u8
+#EXTINF:-1,Music Choice | Musica Urbana
+http://pulselive.uk:8080/live/t1/t1/223384.m3u8
+#EXTINF:-1,Music Choice | Tropicales
+http://pulselive.uk:8080/live/t1/t1/223385.m3u8
+#EXTINF:-1,Music Choice | Mexicana
+http://pulselive.uk:8080/live/t1/t1/223386.m3u8
+#EXTINF:-1,Music Choice | Metal
+http://pulselive.uk:8080/live/t1/t1/223387.m3u8
+#EXTINF:-1,Music Choice | Alternative
+http://pulselive.uk:8080/live/t1/t1/223388.m3u8
+#EXTINF:-1,Music Choice | Indie
+http://pulselive.uk:8080/live/t1/t1/223389.m3u8
+#EXTINF:-1,Music Choice | Kidz Only!
+http://pulselive.uk:8080/live/t1/t1/223390.m3u8
+#EXTINF:-1,Music Choice | Kidz Bop
+http://pulselive.uk:8080/live/t1/t1/223391.m3u8
+#EXTINF:-1,Music Choice | Toddler Tunes
+http://pulselive.uk:8080/live/t1/t1/223392.m3u8
+
+#EXTINF:-1,Sky Sports News UHD
+http://pulselive.uk:8080/live/t1/t1/222609.m3u8
+#EXTINF:-1,Sky Sports News FHD
+http://pulselive.uk:8080/live/t1/t1/222625.m3u8
+#EXTINF:-1,Sky Sports Main Event UHD
+http://pulselive.uk:8080/live/t1/t1/222616.m3u8
+#EXTINF:-1,Sky Sports Main Event FHD
+http://pulselive.uk:8080/live/t1/t1/222623.m3u8
+#EXTINF:-1,Sky Sports Premier League UHD
+http://pulselive.uk:8080/live/t1/t1/222617.m3u8
+#EXTINF:-1,Sky Sports Premier League FHD
+http://pulselive.uk:8080/live/t1/t1/222627.m3u8
+#EXTINF:-1,Sky Sports Football UHD
+http://pulselive.uk:8080/live/t1/t1/222614.m3u8
+#EXTINF:-1,Sky Sports Football FHD
+http://pulselive.uk:8080/live/t1/t1/222621.m3u8
+#EXTINF:-1,BT Sport 1 (50 FPS)
+http://pulselive.uk:8080/live/t1/t1/222645.m3u8
+#EXTINF:-1,BT Sport 1 UHD
+http://pulselive.uk:8080/live/t1/t1/222630.m3u8
+#EXTINF:-1,BT Sport 1 FHD
+http://pulselive.uk:8080/live/t1/t1/222641.m3u8
+#EXTINF:-1,BT Sport 2 (50 FPS)
+http://pulselive.uk:8080/live/t1/t1/222646.m3u8
+#EXTINF:-1,BT Sport 2 UHD
+http://pulselive.uk:8080/live/t1/t1/222631.m3u8
+#EXTINF:-1,BT Sport 2 FHD
+http://pulselive.uk:8080/live/t1/t1/222642.m3u8
+#EXTINF:-1,BT Sport 3 (50 FPS)
+http://pulselive.uk:8080/live/t1/t1/222647.m3u8
+#EXTINF:-1,BT Sport 3 UHD
+http://pulselive.uk:8080/live/t1/t1/222632.m3u8
+#EXTINF:-1,BT Sport 3 FHD
+http://pulselive.uk:8080/live/t1/t1/222643.m3u8
+
+#EXTINF:-1,& FLIX SD
+http://pulselive.uk:8080/live/t1/t1/224091.m3u8
+#EXTINF:-1,& Tv
+http://pulselive.uk:8080/live/t1/t1/224120.m3u8
+#EXTINF:-1,B4u Movies
+http://pulselive.uk:8080/live/t1/t1/224126.m3u8
+#EXTINF:-1,B4U MOVIES
+http://pulselive.uk:8080/live/t1/t1/224048.m3u8
+#EXTINF:-1,B4u Music
+http://pulselive.uk:8080/live/t1/t1/224129.m3u8
+#EXTINF:-1,B4U MUSIC
+http://pulselive.uk:8080/live/t1/t1/224049.m3u8
+#EXTINF:-1,Zee Cinema
+http://pulselive.uk:8080/live/t1/t1/224124.m3u8
+#EXTINF:-1,Zee Cinema SD
+http://pulselive.uk:8080/live/t1/t1/224104.m3u8
+#EXTINF:-1,&pictures HD
+http://pulselive.uk:8080/live/t1/t1/272847.m3u8
+#EXTINF:-1,MN+ HD
+http://pulselive.uk:8080/live/t1/t1/273042.m3u8
+#EXTINF:-1,MNX HD
+http://pulselive.uk:8080/live/t1/t1/273043.m3u8
+#EXTINF:-1,Romedy Now HD
+http://pulselive.uk:8080/live/t1/t1/273044.m3u8
+
+#EXTINF:-1,VH1
+http://pulselive.uk:8080/live/t1/t1/250494.m3u8
+#EXTINF:-1,NOW MUSIC
+http://pulselive.uk:8080/live/t1/t1/250716.m3u8
+#EXTINF:-1,|VUK| MTV CLUB
+http://pulselive.uk:8080/live/t1/t1/250718.m3u8
+#EXTINF:-1,|VUK| MTV MUSIC
+http://pulselive.uk:8080/live/t1/t1/250719.m3u8
+#EXTINF:-1,|VUK| MTV OMG
+http://pulselive.uk:8080/live/t1/t1/250720.m3u8
+#EXTINF:-1,|VUK| MTV ROCKS
+http://pulselive.uk:8080/live/t1/t1/250721.m3u8
+
+#EXTINF:-1,AF : SUPER SPORTS CRICKET HD
+http://pulselive.uk:8080/live/t1/t1/241131.m3u8
+#EXTINF:-1,AF : SUPER SPORTS RUGBY HD
+http://pulselive.uk:8080/live/t1/t1/241132.m3u8
+#EXTINF:-1,AF : SUPER SPORTS TENNIS HD
+http://pulselive.uk:8080/live/t1/t1/241133.m3u8
+#EXTINF:-1,AF : SUPER SPORTS GOLF HD
+http://pulselive.uk:8080/live/t1/t1/241134.m3u8
+#EXTINF:-1,AF : SUPER SPORTS FOOTBALL HD
+http://pulselive.uk:8080/live/t1/t1/241135.m3u8
+#EXTINF:-1,AF : SUPER SPORTS ACTION HD
+http://pulselive.uk:8080/live/t1/t1/241136.m3u8
+#EXTINF:-1,AF : SUPER SPORTS VARIETY 1 HD
+http://pulselive.uk:8080/live/t1/t1/241137.m3u8
+#EXTINF:-1,AF : SUPER SPORTS VARIETY 2 HD
+http://pulselive.uk:8080/live/t1/t1/241138.m3u8
+#EXTINF:-1,AF : SUPER SPORTS GRNDSTAND HD
+http://pulselive.uk:8080/live/t1/t1/241139.m3u8
+#EXTINF:-1,AF : SUPER SPORTS PREMIER LEAGUE HD
+http://pulselive.uk:8080/live/t1/t1/241140.m3u8
+#EXTINF:-1,AF : SUPER SPORTS PSL HD
+http://pulselive.uk:8080/live/t1/t1/241141.m3u8
+#EXTINF:-1,AF : SUPER SPORTS LALIGA HD
+http://pulselive.uk:8080/live/t1/t1/241142.m3u8
+#EXTINF:-1,AF : SUPER SPORTS MAXIMO HD
+http://pulselive.uk:8080/live/t1/t1/241143.m3u8
+#EXTINF:-1,AF : SUPER SPORTS BLITZ HD
+http://pulselive.uk:8080/live/t1/t1/241144.m3u8
+#EXTINF:-1,AF : SUPER SPORTS EVENTS 1 HD
+http://pulselive.uk:8080/live/t1/t1/241145.m3u8
+#EXTINF:-1,AF : SUPER SPORTS EVENTS 2 HD
+http://pulselive.uk:8080/live/t1/t1/241146.m3u8
+#EXTINF:-1,AF : SUPER SPORTS MOTORSPORT HD
+http://pulselive.uk:8080/live/t1/t1/241147.m3u8
+#EXTINF:-1,AF : SUPER SPORTS PLAY HD
+http://pulselive.uk:8080/live/t1/t1/241148.m3u8
+#EXTINF:-1,AF : SUPER SPORTS VARIETY 3 HD
+http://pulselive.uk:8080/live/t1/t1/241149.m3u8
+#EXTINF:-1,South Africa SuperSport Action
+http://pulselive.uk:8080/live/t1/t1/241150.m3u8
+#EXTINF:-1,South Africa Supersport Blitz
+http://pulselive.uk:8080/live/t1/t1/241151.m3u8
+#EXTINF:-1,South Africa SuperSport Cricket
+http://pulselive.uk:8080/live/t1/t1/241152.m3u8
+#EXTINF:-1,South Africa SuperSport Football
+http://pulselive.uk:8080/live/t1/t1/241153.m3u8
+#EXTINF:-1,South Africa SuperSport Golf
+http://pulselive.uk:8080/live/t1/t1/241154.m3u8
+#EXTINF:-1,South Africa Supersport Grandstand
+http://pulselive.uk:8080/live/t1/t1/241155.m3u8
+#EXTINF:-1,South Africa SuperSport Motorsport
+http://pulselive.uk:8080/live/t1/t1/241156.m3u8
+#EXTINF:-1,South Africa SuperSport MáXimo
+http://pulselive.uk:8080/live/t1/t1/241157.m3u8
+#EXTINF:-1,South Africa Supersport Play 1
+http://pulselive.uk:8080/live/t1/t1/241158.m3u8
+#EXTINF:-1,South Africa SuperSport PSL
+http://pulselive.uk:8080/live/t1/t1/241159.m3u8
+#EXTINF:-1,South Africa SuperSport Rugby
+http://pulselive.uk:8080/live/t1/t1/241160.m3u8
+#EXTINF:-1,South Africa Supersport Tennis
+http://pulselive.uk:8080/live/t1/t1/241161.m3u8
+#EXTINF:-1,South Africa SuperSport Variety 2
+http://pulselive.uk:8080/live/t1/t1/241162.m3u8
+#EXTINF:-1,South Africa SuperSport Variety 3
+http://pulselive.uk:8080/live/t1/t1/241163.m3u8
+
+#EXTINF:-1,SuperSport Football SD
+http://pulselive.uk:8080/live/t1/t1/276615.m3u8
+#EXTINF:-1,SuperSport Premier League SD
+http://pulselive.uk:8080/live/t1/t1/276616.m3u8
+#EXTINF:-1,SuperSport La Liga SD
+http://pulselive.uk:8080/live/t1/t1/276617.m3u8
+#EXTINF:-1,SuperSport PSL SD
+http://pulselive.uk:8080/live/t1/t1/276618.m3u8
+#EXTINF:-1,SuperSport Granstand SD
+http://pulselive.uk:8080/live/t1/t1/276619.m3u8
+#EXTINF:-1,SuperSport Action SD
+http://pulselive.uk:8080/live/t1/t1/276620.m3u8
+#EXTINF:-1,SuperSport Variety 1 SD
+http://pulselive.uk:8080/live/t1/t1/276621.m3u8
+#EXTINF:-1,SuperSport Variety 2 SD
+http://pulselive.uk:8080/live/t1/t1/276622.m3u8
+#EXTINF:-1,SuperSport Variety 3
+http://pulselive.uk:8080/live/t1/t1/276623.m3u8
+
+#EXTINF:-1,MY Astro SuperSport
+http://pulselive.uk:8080/live/t1/t1/241164.m3u8
+#EXTINF:-1,MY Astro SuperSport 2
+http://pulselive.uk:8080/live/t1/t1/241165.m3u8
+#EXTINF:-1,MY Astro SuperSport 4
+http://pulselive.uk:8080/live/t1/t1/241166.m3u8
+
+#EXTINF:-1,SPORTS : BEIN 1 ENGLISH FHD
+http://pulselive.uk:8080/live/t1/t1/251226.m3u8
+#EXTINF:-1,SPORTS : BEIN 2 ENGLISH FHD
+http://pulselive.uk:8080/live/t1/t1/251227.m3u8
+#EXTINF:-1,SPORTS : BEIN 3 ENGLISH FHD
+http://pulselive.uk:8080/live/t1/t1/251228.m3u8
+
+#EXTINF:-1,beIN Sports English 1
+http://pulselive.uk:8080/live/t1/t1/251238.m3u8
+#EXTINF:-1,beIN Sports English 2
+http://pulselive.uk:8080/live/t1/t1/251239.m3u8
+
+#EXTINF:-1,Now HK Premier Sports 1
+http://pulselive.uk:8080/live/t1/t1/251261.m3u8
+#EXTINF:-1,Now HK Premier Sports 2
+http://pulselive.uk:8080/live/t1/t1/251260.m3u8
+#EXTINF:-1,Now HK Premier Sports 3
+http://pulselive.uk:8080/live/t1/t1/251259.m3u8
+#EXTINF:-1,Now HK Premier Sports 4
+http://pulselive.uk:8080/live/t1/t1/251258.m3u8
+#EXTINF:-1,Now HK Premier Sports 5
+http://pulselive.uk:8080/live/t1/t1/251257.m3u8
+
+#EXTINF:-1,EPL1. West Brom v Wolves 6.00pm
+http://pulselive.uk:8080/live/t1/t1/222629.m3u8
+#EXTINF:-1,EPL2. West Brom v Wolves 6.00pm
+http://pulselive.uk:8080/live/t1/t1/222655.m3u8
+#EXTINF:-1,EPL3. SD West Brom v Wolves 6.00pm
+http://pulselive.uk:8080/live/t1/t1/222691.m3u8
+#EXTINF:-1,EPL4. Burnley v West Ham 8.15pm
+http://pulselive.uk:8080/live/t1/t1/223622.m3u8
+#EXTINF:-1,EPL5. Burnley v West Ham 8.15pm
+http://pulselive.uk:8080/live/t1/t1/223623.m3u8
+#EXTINF:-1,EPL6. SD Burnley v West Ham 8.15pm
+http://pulselive.uk:8080/live/t1/t1/223624.m3u8
+#EXTINF:-1,EPL 7.
+http://pulselive.uk:8080/live/t1/t1/252027.m3u8
+#EXTINF:-1,EPL 8. 
+http://pulselive.uk:8080/live/t1/t1/252028.m3u8
+#EXTINF:-1,EPL 9. 
+http://pulselive.uk:8080/live/t1/t1/252029.m3u8
+
+#EXTINF:-1,Optus 1 HD
+http://pulselive.uk:8080/live/t1/t1/223543.m3u8
+#EXTINF:-1,Optus 2 HD
+http://pulselive.uk:8080/live/t1/t1/223302.m3u8
+#EXTINF:-1,Optus 3 HD
+http://pulselive.uk:8080/live/t1/t1/223303.m3u8
+#EXTINF:-1,Optus 4  HD
+http://pulselive.uk:8080/live/t1/t1/223304.m3u8
+#EXTINF:-1,Optus 5  HD
+http://pulselive.uk:8080/live/t1/t1/223305.m3u8
+
+#EXTINF:-1,Live | DAZN 01 HD
+http://pulselive.uk:8080/live/t1/t1/223315.m3u8
+#EXTINF:-1,Live | DAZN 02 HD
+http://pulselive.uk:8080/live/t1/t1/223316.m3u8
+#EXTINF:-1,Live | DAZN 03 HD
+http://pulselive.uk:8080/live/t1/t1/223317.m3u8
+#EXTINF:-1,Live | DAZN 04 HD
+http://pulselive.uk:8080/live/t1/t1/223318.m3u8
+#EXTINF:-1,Live | DAZN 05 HD
+http://pulselive.uk:8080/live/t1/t1/223319.m3u8
+
+#EXTINF:-1,CA DAZN 01
+http://pulselive.uk:8080/live/t1/t1/222906.m3u8
+#EXTINF:-1,CA Dazn 02
+http://pulselive.uk:8080/live/t1/t1/222907.m3u8
+#EXTINF:-1,CA Dazn 03
+http://pulselive.uk:8080/live/t1/t1/222908.m3u8
+#EXTINF:-1,CA Dazn 04
+http://pulselive.uk:8080/live/t1/t1/222909.m3u8
+#EXTINF:-1,CA Dazn 05
+http://pulselive.uk:8080/live/t1/t1/222910.m3u8
+#EXTINF:-1,CA Dazn 06
+http://pulselive.uk:8080/live/t1/t1/222911.m3u8
+#EXTINF:-1,CA Dazn 07
+http://pulselive.uk:8080/live/t1/t1/222912.m3u8
+#EXTINF:-1,CA Dazn 08
+http://pulselive.uk:8080/live/t1/t1/222913.m3u8
+#EXTINF:-1,CA Dazn 09
+http://pulselive.uk:8080/live/t1/t1/222914.m3u8
+#EXTINF:-1,CA Dazn 10
+http://pulselive.uk:8080/live/t1/t1/222915.m3u8
+
+#EXTINF:-1,USA NBC Sports Network UHD
+http://pulselive.uk:8080/live/t1/t1/249712.m3u8
+#EXTINF:-1,USA NBC Sports Network LHD
+http://pulselive.uk:8080/live/t1/t1/249713.m3u8
+
+#EXTINF:-1,AR- BeIN Sports FHD 11 EN
+http://pulselive.uk:8080/live/t1/t1/251921.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 12 EN
+http://pulselive.uk:8080/live/t1/t1/251922.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 13 EN
+http://pulselive.uk:8080/live/t1/t1/251923.m3u8
+#EXTINF:-1,AR- BeIN Sports SD 11 EN
+http://pulselive.uk:8080/live/t1/t1/251947.m3u8
+#EXTINF:-1,AR- BeIN Sports SD 12 EN
+http://pulselive.uk:8080/live/t1/t1/251948.m3u8
+#EXTINF:-1,AR- BeIN Sports SD 13 EN
+http://pulselive.uk:8080/live/t1/t1/251949.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 1
+http://pulselive.uk:8080/live/t1/t1/251919.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 2
+http://pulselive.uk:8080/live/t1/t1/251927.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 3
+http://pulselive.uk:8080/live/t1/t1/251928.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 4
+http://pulselive.uk:8080/live/t1/t1/251929.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 5
+http://pulselive.uk:8080/live/t1/t1/251930.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 6
+http://pulselive.uk:8080/live/t1/t1/251931.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 7
+http://pulselive.uk:8080/live/t1/t1/251932.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 8
+http://pulselive.uk:8080/live/t1/t1/251933.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 9
+http://pulselive.uk:8080/live/t1/t1/251934.m3u8
+#EXTINF:-1 group-title="pulselive",AR- BeIN Sports FHD 10
+http://pulselive.uk:8080/live/t1/t1/251920.m3u8
 
 + + + + + pulsestreams.ddns.me:8080 + + + + +
 
