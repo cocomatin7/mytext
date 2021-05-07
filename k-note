@@ -11413,8 +11413,7 @@ http://185.226.88.6:1026/get.php?username=SMYYKzbS0z&password=HRj5TKnrRx&type=m3
 
 + + + + + 185.134.22.131:8080 + + + + + 28/9/2021
 
-http://web24.live:8080/get.php?username=6657847853&password=UecFX5R79a&type=m3u
-Real Url: 185.134.22.131:8080     Status: Active    Created: 14/9/2019 12:00:00 AM     Expires: 28/9/2021 11:00:00 PM    Active Connections: 10     Maximum Connections: 11
+http://web24.live:8080/get.php?username=6657847853&password=UecFX5R79a&type=m3u Real Url: 185.134.22.131:8080     Status: Active Expires: 28/9/2021 Connections: 11-11
 
 + + + + + 188.40.76.108:25461 /mytv01 + + + + +
 
@@ -11427,8 +11426,7 @@ http://209.145.54.100:25461/get.php?username=tm0live2&password=tm4.xyz&type=m3u 
 
 + + + + + 209.145.58.109:25461 + + + + + Null + + + + +
 
-http://209.145.58.109:25461/get.php?username=0SmzsfBiue&password=bD5ry59Og9&type=m3u
-Real Url: 209.145.58.109:25461     Status: Active    Created: 18/4/2021 6:26:25 PM     Expires: Null    Active Connections: 5     Maximum Connections: 1000  
+http://209.145.58.109:25461/get.php?username=0SmzsfBiue&password=bD5ry59Og9&type=m3u Expires: Null    Active Connections: 5     Maximum Connections: 1000  
 
 #EXTINF:-1 group-title="209.145",Fox Action 
 http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/9.m3u8
@@ -11537,38 +11535,16 @@ http://209.222.101.100:25461/live/tv/tv/22193.m3u8
 http://209.222.101.100:25461/live/tv/tv/22195.m3u8
 #EXTINF:-1,USA BeIN Sports LaLiga
 http://209.222.101.100:25461/live/tv/tv/22196.m3u8
-#EXTINF:-1,USA Latin BEIN Sports Latin
+#EXTINF:-1 group-title="209.222",USA Latin BEIN Sports Latin
 http://209.222.101.100:25461/live/tv/tv/22197.m3u8
-
-#EXTINF:-1 group-title="209.222",Soccer01 
-http://209.222.101.100:25461/live/tv/tv/77363.m3u8
-#EXTINF:-1,Soccer02 
-http://209.222.101.100:25461/live/tv/tv/77364.m3u8
-#EXTINF:-1,Soccer03 
-http://209.222.101.100:25461/live/tv/tv/77365.m3u8
-#EXTINF:-1,Soccer04 
-http://209.222.101.100:25461/live/tv/tv/77366.m3u8
-#EXTINF:-1,Soccer05 
-http://209.222.101.100:25461/live/tv/tv/77367.m3u8
-#EXTINF:-1,Soccer06 
-http://209.222.101.100:25461/live/tv/tv/77368.m3u8
-#EXTINF:-1, Soccer07 
-http://209.222.101.100:25461/live/tv/tv/77369.m3u8
-#EXTINF:-1,Soccer08 
-http://209.222.101.100:25461/live/tv/tv/77370.m3u8
-#EXTINF:-1,Soccer09 
-http://209.222.101.100:25461/live/tv/tv/77371.m3u8
-#EXTINF:-1 group-title="209.222",Soccer10:
-http://209.222.101.100:25461/live/tv/tv/77372.m3u8
 
 + + + + + 1sn.ns1.name:18800 + + + + +
 
-http://1sn.ns1.name:18800/get.php?username=fadilh66SkypeExYuVeryGood2017Started&password=ggdg1414hfdgdfhfdh24525hfhfhfhfh&type=m3u Expires: Null Connections: 60-58
+http://1sn.ns1.name:18800/get.php?username=fadilh66SkypeExYuVeryGood2017Started&password=ggdg1414hfdgdfhfdh24525hfhfhfhfh&type=m3u Expires: Null Connections: 60-58 < N
 
 + + + + + albiptv.org:8000 + + + + +
 
-http://albiptv.org:8000/get.php?username=Fuat11&password=Fuat11&type=m3u
-Real Url: albiptv.org:8000     Status: Active    Created: 6/9/2015 3:17:24 PM     Expires: Null    Active Connections: 4     Maximum Connections: 4
+http://albiptv.org:8000/get.php?username=Fuat11&password=Fuat11&type=m3u Expires: Null Connections: 4-7
 
 + + + + + appstv.us:25461 + + + + +
 
@@ -11681,6 +11657,28 @@ http://appstv.us:25461/live/1/2/284.m3u8
 http://appstv.us:25461/live/1/2/285.m3u8
 #EXTINF:-1 group-title="appstv",TUDN EXTRA 5 |appstv
 http://appstv.us:25461/live/1/2/286.m3u8
+
+Brazzers http://appstv.us:25461/live/1/2/181.m3u8
+Dusk http://appstv.us:25461/live/1/2/182.m3u8
+Hustler http://appstv.us:25461/live/1/2/183.m3u8
+Playboy http://appstv.us:25461/live/1/2/184.m3u8
+Venus http://appstv.us:25461/live/1/2/185.m3u8
+VIVID Red http://appstv.us:25461/live/1/2/186.m3u8
+Redlight http://appstv.us:25461/live/1/2/187.m3u8
+Prıvate TV http://appstv.us:25461/live/1/2/188.m3u8
+Penthouse Quickies  http://appstv.us:25461/live/1/2/189.m3u8
+Penthouse Gold http://appstv.us:25461/live/1/2/190.m3u8
+Dorcel XXX http://appstv.us:25461/live/1/2/191.m3u8
+ADULTOS 1 http://appstv.us:25461/live/1/2/192.m3u8
+ADULTOS 2 http://appstv.us:25461/live/1/2/193.m3u8
+ADULTOS 3 http://appstv.us:25461/live/1/2/194.m3u8
+JASMIN TV http://appstv.us:25461/live/1/2/195.m3u8
+18+ http://appstv.us:25461/live/1/2/196.m3u8
+INT: GANGBANG http://appstv.us:25461/live/1/2/3959.m3u8
+INT: HUSTLER HD http://appstv.us:25461/live/1/2/3960.m3u8
+INT: HUSTLER TV http://appstv.us:25461/live/1/2/3961.m3u8
+INT: SEX http://appstv.us:25461/live/1/2/3962.m3u8
+INT: sex http://appstv.us:25461/live/1/2/3963.m3u8
 
 + + + + + b1g.ca:80 + + + + + null + + + + +
 
