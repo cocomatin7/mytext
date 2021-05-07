@@ -12118,13 +12118,60 @@ http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165073.m3u
 
 + + + + + jo.sarhantv.com:8880 + + + + + beIN CH + + + + +
 
-https://jo.sarhantv.com:443/get.php?username=sarhanapp&password=wwe5151&type=m3u
-Real Url: jo.sarhantv.com:8880     Status: Active    Created: 25/1/2021 3:50:38 PM     Expires: Null    Active Connections: 2     Maximum Connections: 0
+https://jo.sarhantv.com:443/get.php?username=sarhanapp&password=wwe5151&type=m3u Real Url: jo.sarhantv.com:8880 Expires: Null    Active Connections: 2     Maximum Connections: 0 < N
 
 + + + + + live.fauconteam.com:8080 + + + + + null 
 
-http://live.fauconteam.com:8080/get.php?username=Amigotv_online&password=gNCQEXF40sC2&type=m3u
-Real Url: live.fauconteam.com:8080     Status: Active    Created: 12/12/2019 4:13:22 PM     Expires: Null    Active Connections: 385     Maximum Connections: 1000 < to check
+http://live.fauconteam.com:8080/get.php?username=Amigotv_online&password=gNCQEXF40sC2&type=m3u Expires: Null    Active Connections: 385     Maximum Connections: 1000 < to check
+
+#EXTINF:-1 group-title="fauconteam",[IN] & FLIX HD IN
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/9070.m3u8
+#EXTINF:-1,[IN] & PICTURES HD IN
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/9071.m3u8
+#EXTINF:-1,[IN] & PRIVE HD IN
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/9072.m3u8
+#EXTINF:-1,[IN] & TV HD IN
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/9073.m3u8
+#EXTINF:-1,[IN] &TV SD IN
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/9116.m3u8
+#EXTINF:-1,[IN] B4u Movies IN
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/9081.m3u8
+#EXTINF:-1,[IN] B4U Music
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/8923.m3u8
+#EXTINF:-1,[IN] B4u Music IN
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/9083.m3u8
+#EXTINF:-1,[IN] B4U Plus
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/8924.m3u8
+#EXTINF:-1,[IN] Star Sports Select 1 HD IN
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/9149.m3u8
+#EXTINF:-1,[IN] Star Sports Select 2 HD IN
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/9150.m3u8
+#EXTINF:-1,[UK] B4U Movies
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/4302.m3u8
+#EXTINF:-1,[UK] B4U MOVIES (Indian)
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/12507.m3u8
+#EXTINF:-1,[UK] B4U Music (Indian)
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/4301.m3u8
+#EXTINF:-1,[UK] B4U PLUS (Indian)
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/4300.m3u8
+#EXTINF:-1,[UK] MTV
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/4214.m3u8
+#EXTINF:-1,[UK] MTV Base
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/4215.m3u8
+#EXTINF:-1,[UK] MTV Classic
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/4216.m3u8
+#EXTINF:-1,[UK] MTV Dance
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/4219.m3u8
+#EXTINF:-1,[UK] MTV HD
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/4213.m3u8
+#EXTINF:-1,[UK] MTV Hits
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/4218.m3u8
+#EXTINF:-1,[UK] MTV Music
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/4221.m3u8
+#EXTINF:-1,[UK] MTV OMG
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/4220.m3u8
+#EXTINF:-1 group-title="fauconteam",[UK] MTV Rocks
+http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/4222.m3u8
 
 + + + + + maxx-iptv10.ddns.net:8080 + + + + +
 
