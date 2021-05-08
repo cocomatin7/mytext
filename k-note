@@ -5529,8 +5529,16 @@ http://116.255.19.58:9981/stream/channelid/129924788?profile=pass
 
 + + + + + 152.228.154.144:80/stream + + + + + 
 
-
-
+#EXTINF:-1 group-title="152.228",MTV
+http://152.228.154.144:80/stream/DGXCSHBFHAQ/89.m3u8
+#EXTINF:-1,MTV 80s
+http://152.228.154.144:80/stream/DGXCSHBFHAQ/87.m3u8
+#EXTINF:-1,MTV 90s
+http://152.228.154.144:80/stream/DGXCSHBFHAQ/88.m3u8
+#EXTINF:-1,MTV Club
+http://152.228.154.144:80/stream/DGXCSHBFHAQ/147.m3u8
+#EXTINF:-1 group-title="152.228",VH-1
+http://152.228.154.144:80/stream/DGXCSHBFHAQ/165.m3u8
 
 
 + + + + + http://167.172.33.223:9981/extjs.html + + + + + Viasat/ Canal+/ RMC
