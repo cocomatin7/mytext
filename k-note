@@ -569,6 +569,11 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=c_10005&key=84797b799ae18d1b
 Mediacorp cna
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10007&key=84797b799ae18d1b
 
+
+#EXTINF:-1,firstchannel1
+http://144.126.210.162/live/firstchannel1/chunks.m3u8?nimblesessionid=374538
+
+
 #EXTINF:-1,True Premiere Football HD1 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball1-hd.m3u8
 #EXTINF:-1,True Premiere Football HD2 |185
