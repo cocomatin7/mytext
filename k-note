@@ -575,6 +575,14 @@ view-source:http://www.ovostreams.com/1.php
 http://144.126.210.162/live/firstchannel1/playlist.m3u8
 #EXTINF:-1,firstchannel1'
 http://144.126.210.162/live/firstchannel1/chunks.m3u8?nimblesessionid=374538
+#EXTINF:-1,firstchannel2
+http://143.198.62.49/hls/firstchannel2/playlist.m3u8
+#EXTINF:-1,firstchannel3
+http://143.198.62.49/hls/firstchannel3/playlist.m3u8
+#EXTINF:-1,firstchannel4
+http://143.198.62.49/hls/firstchannel4/playlist.m3u8
+#EXTINF:-1,streamsdemo
+https://pol.ptvsportstv.com/ovo/streamsdemo.stream/playlist.m3u8
 
 
 #EXTINF:-1,True Premiere Football HD1 |185
