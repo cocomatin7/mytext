@@ -571,15 +571,15 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=c_10007&key=84797b799ae18d1b
 
 
 view-source:http://www.ovostreams.com/1.php
-#EXTINF:-1,firstchannel1
+#EXTINF:-1,1st CH1
 http://144.126.210.162/live/firstchannel1/playlist.m3u8
-#EXTINF:-1,firstchannel1'
+#EXTINF:-1,1st CH1'
 http://144.126.210.162/live/firstchannel1/chunks.m3u8?nimblesessionid=374538
-#EXTINF:-1,firstchannel2
+#EXTINF:-1,1st CH2
 http://143.198.62.49/hls/firstchannel2/playlist.m3u8
-#EXTINF:-1,firstchannel3
+#EXTINF:-1,1st CH3
 http://143.198.62.49/hls/firstchannel3/playlist.m3u8
-#EXTINF:-1,firstchannel4
+#EXTINF:-1,1st CH4
 http://143.198.62.49/hls/firstchannel4/playlist.m3u8
 #EXTINF:-1,streamsdemo
 https://pol.ptvsportstv.com/ovo/streamsdemo.stream/playlist.m3u8
