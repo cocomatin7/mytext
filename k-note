@@ -12213,33 +12213,33 @@ http://ottiptv.us:2095/get.php?username=iptvtree.com&password=90X312b737L26&type
 Real Url: ottiptv.us:2095     Status: Active    Created: 5/11/2020 10:08:35 PM     Expires: Null    Active Connections: 125     Maximum Connections: 200
 
 #EXTINF:-1 group-title="ottiptv",|SAF| SuperSport 1
-http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24228.m3u8
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/24228.m3u8
 #EXTINF:-1,|SAF| SuperSport 2
-http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24229.m3u8
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/24229.m3u8
 #EXTINF:-1,|SAF| SuperSport 3
-http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24230.m3u8
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/24230.m3u8
 #EXTINF:-1,|SAF| SuperSport 4
-http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24231.m3u8
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/24231.m3u8
 #EXTINF:-1,|SAF| SuperSport 5
-http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24232.m3u8
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/24232.m3u8
 #EXTINF:-1,|SAF| SuperSport 6
-http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24233.m3u8
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/24233.m3u8
 #EXTINF:-1,|SAF| SuperSport 7
-http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24234.m3u8
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/24234.m3u8
 #EXTINF:-1,|SAF| SuperSport 8
-http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24235.m3u8
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/24235.m3u8
 #EXTINF:-1,|SAF| SuperSport 9
-http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24236.m3u8
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/24236.m3u8
 #EXTINF:-1,|SAF| SuperSport 10
-http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24237.m3u8
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/24237.m3u8
 #EXTINF:-1,|SAF| SuperSport 11
-http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24238.m3u8
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/24238.m3u8
 #EXTINF:-1,|SAF| SuperSport 12
-http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24239.m3u8
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/24239.m3u8
 #EXTINF:-1,|SAF| SUPERSPORT BLITZ
-http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24240.m3u8
-#EXTINF:-1 group-title="ottiptv",|SAF| SUPERSPORT MAXIMO
-http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24241.m3u8
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/24240.m3u8
+#EXTINF:-1,|SAF| SUPERSPORT MAXIMO
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/24241.m3u8
 
 #EXTINF:-1,|SKY-UK| Sky Sports News HQ HD
 http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/28905.m3u8
@@ -12289,8 +12289,12 @@ http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/29019.m3u8
 #EXTINF:-1,|SKY-UK| 4Music
 http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/29020.m3u8
 
+#EXTINF:-1,|USA| CNN HD
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/33056.m3u8
 #EXTINF:-1,|USA| NBCSN
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/33086
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/33086.m3u8
+#EXTINF:-1,|USA| NBC SPORT Network
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/33048.m3u8
 
 #EXTINF:-1,ENGLISH STAR MOVIES HD
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/35906
@@ -12298,41 +12302,25 @@ http://ottiptv.us:25461/iptvtree.com/90X312b737L26/35906
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/35907
 #EXTINF:-1,ENGLISH STAR MOVIES SELECT HD
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/35908
-#EXTINF:-1,b4umovie
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/36199
-#EXTINF:-1,b4umusic
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/36185
-#EXTINF:-1,andpictureshd
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/36200
-#EXTINF:-1,HINDI MOVIES NOW HD
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/35859
-#EXTINF:-1,HINDI MN PLUS HD
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/35862
-#EXTINF:-1,zeecinema
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/36189
-#EXTINF:-1,SPORTS STAR SPORTS SELECT 1 HD
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/36214
-#EXTINF:-1,SPORTS STAR SPORTS SELECT 2 HD
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/36215
 
-#EXTINF:-1,|FR| BEINSPORT 1
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/696
-#EXTINF:-1,|FR| BEINSPORT 2
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/697
-#EXTINF:-1,|FR| BEINSPORT 3
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/698
-#EXTINF:-1,|FR| BEINSPORT 4
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/699
-#EXTINF:-1,|FR| BEINSPORT 5
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/700
-#EXTINF:-1,|FR| BEINSPORT 6
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/701
-#EXTINF:-1,|FR| BEINSPORT 7
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/702
-#EXTINF:-1,|FR| BEINSPORT 8
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/703
-#EXTINF:-1 group-title="ottiptv",|FR| BEINSPORT 9
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/704
+#EXTINF:-1,b4umovie
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/36199.m3u8
+#EXTINF:-1,b4umusic
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/36185.m3u8
+#EXTINF:-1,andpictureshd
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/36200.m3u8
+#EXTINF:-1,HINDI MOVIES NOW HD
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/35859.m3u8
+#EXTINF:-1,HINDI MN PLUS HD
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/35862.m3u8
+#EXTINF:-1,zeecinema
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/36189.m3u8
+#EXTINF:-1,SPORTS STAR SPORTS SELECT 1 HD
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/36214.m3u8
+#EXTINF:-1 group-title="ottiptv",SPORTS STAR SPORTS SELECT 2 HD
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/36215.m3u8
+
+
 
 + + + + + ozentv.pro:80 + + + + + 19/1/2038 + + + + +
 
