@@ -11438,48 +11438,48 @@ Real Url: 209.222.101.100:25461     Status: Active    Created: 10/10/2020 11:25:
 http://supersonictv.live:25461/get.php?username=dalvin&password=dalvin&type=m3u
 Real Url: 209.222.101.100:25461     Status: Active    Created: 3/6/2020 3:34:15 AM     Expires: 13/12/2021 5:34:43 PM    Active Connections: 2     Maximum Connections: 2
 
-#EXTINF:-1 group-title="209.222",USA MTV Classic
+ group-title="209.222",USA MTV Classic
 http://209.222.101.100:25461/live/tv/tv/13751.m3u8
-#EXTINF:-1,USA MTV Live
+,USA MTV Live
 http://209.222.101.100:25461/live/tv/tv/13752.m3u8
-#EXTINF:-1,USA MTV U
+,USA MTV U
 http://209.222.101.100:25461/live/tv/tv/13753.m3u8
-#EXTINF:-1,UK MTV
+,UK MTV
 http://209.222.101.100:25461/live/tv/tv/13754.m3u8
-#EXTINF:-1,UK MTV Base
+,UK MTV Base
 http://209.222.101.100:25461/live/tv/tv/13755.m3u8
-#EXTINF:-1,UK MTV Classic
+,UK MTV Classic
 http://209.222.101.100:25461/live/tv/tv/13756.m3u8
-#EXTINF:-1,UK MTV Dance
+,UK MTV Dance
 http://209.222.101.100:25461/live/tv/tv/13757.m3u8
-#EXTINF:-1,UK MTV HD
+,UK MTV HD
 http://209.222.101.100:25461/live/tv/tv/13758.m3u8
-#EXTINF:-1,UK MTV Hits
+,UK MTV Hits
 http://209.222.101.100:25461/live/tv/tv/13759.m3u8
-#EXTINF:-1,UK MTV Music
+,UK MTV Music
 http://209.222.101.100:25461/live/tv/tv/13760.m3u8
-#EXTINF:-1,UK MTV OMG
+,UK MTV OMG
 http://209.222.101.100:25461/live/tv/tv/13761.m3u8
-#EXTINF:-1,UK MTV Rocks
+,UK MTV Rocks
 http://209.222.101.100:25461/live/tv/tv/13762.m3u8
 
-#EXTINF:-1,USA Bein Sports UHD
+,USA Bein Sports UHD
 http://209.222.101.100:25461/live/tv/tv/22187.m3u8
-#EXTINF:-1,USA BeIN Sports 2
+,USA BeIN Sports 2
 http://209.222.101.100:25461/live/tv/tv/22189.m3u8
-#EXTINF:-1,USA BeIN Sports 4
+,USA BeIN Sports 4
 http://209.222.101.100:25461/live/tv/tv/22190.m3u8
-#EXTINF:-1,USA BeIN Sports 5
+,USA BeIN Sports 5
 http://209.222.101.100:25461/live/tv/tv/22191.m3u8
-#EXTINF:-1,USA BeIN Sports 6
+,USA BeIN Sports 6
 http://209.222.101.100:25461/live/tv/tv/22192.m3u8
-#EXTINF:-1,USA BeIN Sports 7
+,USA BeIN Sports 7
 http://209.222.101.100:25461/live/tv/tv/22193.m3u8
-#EXTINF:-1,USA Bein Sports N Espanol UHD
+,USA Bein Sports N Espanol UHD
 http://209.222.101.100:25461/live/tv/tv/22195.m3u8
-#EXTINF:-1,USA BeIN Sports LaLiga
+,USA BeIN Sports LaLiga
 http://209.222.101.100:25461/live/tv/tv/22196.m3u8
-#EXTINF:-1 group-title="209.222",USA Latin BEIN Sports Latin
+ group-title="209.222",USA Latin BEIN Sports Latin
 http://209.222.101.100:25461/live/tv/tv/22197.m3u8
 
 + + + + + 1sn.ns1.name:18800 + + + + +
@@ -11493,7 +11493,7 @@ http://albiptv.org:8000/get.php?username=Fuat11&password=Fuat11&type=m3u Expires
 + + + + + appstv.us:25461 + + + + +
 
 http://appstv.us:25461/get.php?username=1&password=2&type=m3u
-Real Url: 104.192.101.58:25461     Status: Active    Created: 29/12/2020 3:46:47 AM     Expires: Null    Active Connections: 0     Maximum Connections: 0 <xxx + 
+Real Url: 104.192.101.58:25461     Status: Active    Created: 29/12/2020 3:46:47 AM     Expires: Null Connections: 0-0 <xxx + 
 
 #EXTINF:-1 group-title="appstv",NBCSN |appstv
 http://appstv.us:25461/live/1/2/1430.m3u8
