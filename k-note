@@ -12164,24 +12164,7 @@ http://main.ipboxhd.com:8080/get.php?username=italiauserstalker1&password=RvQER8
 
 + + + + + mantul.biz.id:8888 [SEA] + + + + +
 
-http://maxx-iptv10.ddns.net:8080/get.php?username=maxx015&password=7857585044&type=m3u&output=hls < null < 5-2
-
-#EXTINF:-1 group-title="maxx",MTV HITS
-http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/23287.m3u8
-#EXTINF:-1,NBC Sports (Network) HD
-http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/28740.m3u8
-#EXTINF:-1,NBC Sports Network
-http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/22499.m3u8
-#EXTINF:-1,NBC Sports Network HD
-http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/15942.m3u8
-#EXTINF:-1 group-title="maxx",NBCSN
-http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/10054.m3u8
-#EXTINF:-1,BBC WORLD NEWS
-http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/40770.m3u8
-#EXTINF:-1,CNN
-http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/40748.m3u8
-#EXTINF:-1 group-title="maxx",CNN INTERNATIONAL
-http://maxx-iptv10.ddns.net:8080/live/maxx015/7857585044/40747.m3u8
+http://maxx-iptv10.ddns.net:8080/get.php?username=maxx015&password=7857585044&type=m3u&output=hls < null < 5-2 < N
 
 + + + + + main.malidows.com:2082 + + + + +
 
@@ -12225,7 +12208,7 @@ Real Url: nonton.site:8888     Status: Active    Created: 14/10/2020 5:00:00 PM 
 + + + + + ottiptv.us:2095 + + + + + Null + + + + +
 
 http://ottiptv.us:25461/get.php?username=iptvtree.com&password=90X312b737L26&type=m3u
-Real Url: ottiptv.us:2095     Status: Active    Created: 5/11/2020 10:08:35 PM     Expires: Null    Active Connections: 117     Maximum Connections: 200
+Real Url: ottiptv.us:2095     Status: Active    Created: 5/11/2020 10:08:35 PM     Expires: Null Connections: 200-117
 http://ottiptv.us:2095/get.php?username=iptvtree.com&password=90X312b737L26&type=m3u
 Real Url: ottiptv.us:2095     Status: Active    Created: 5/11/2020 10:08:35 PM     Expires: Null    Active Connections: 125     Maximum Connections: 200
 
@@ -12258,24 +12241,53 @@ http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24240.m3u8
 #EXTINF:-1 group-title="ottiptv",|SAF| SUPERSPORT MAXIMO
 http://ottiptv.us:25461/live/iptvtree.com/90X312b737L26/24241.m3u8
 
+#EXTINF:-1,|SKY-UK| Sky Sports News HQ HD
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/28905.m3u8
+#EXTINF:-1,|SKY-UK| Sky Sports News HQ
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/28906.m3u8
+#EXTINF:-1,|SKY-UK| Sky Sports Football HD
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/28907.m3u8
+#EXTINF:-1,|SKY-UK| Sky Sports Main Events HD
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/28908.m3u8
+#EXTINF:-1,|SKY-UK| Sky Sports Mix HD
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/28909.m3u8
+#EXTINF:-1,|SKY-UK| Sky Sports Premier League HD
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/28910.m3u8
+#EXTINF:-1,|SKY-UK| BT Sports 1 HD
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/28921.m3u8
+#EXTINF:-1,|SKY-UK| BT Sports 1
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/28922.m3u8
+#EXTINF:-1,|SKY-UK| BT Sports 2 HD
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/28923.m3u8
+#EXTINF:-1,|SKY-UK| BT Sports 2
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/28924.m3u8
+#EXTINF:-1,|SKY-UK| BT Sports 3 HD
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/28925.m3u8
+#EXTINF:-1,|SKY-UK| BT Sports 3
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/28926.m3u8
+
+#EXTINF:-1,|SKY-UK| CNN International
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/28999.m3u8
 #EXTINF:-1,|SKY-UK| MTV Classic
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/29011
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/29011.m3u8
 #EXTINF:-1,|SKY-UK| MTV Dance
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/29012
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/29012.m3u8
 #EXTINF:-1,|SKY-UK| MTV HD
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/29013
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/29013.m3u8
 #EXTINF:-1,|SKY-UK| MTV Hits
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/29014
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/29014.m3u8
 #EXTINF:-1,|SKY-UK| MTV Hits SD
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/29015
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/29015.m3u8
 #EXTINF:-1,|SKY-UK| MTV Rocks HD
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/29016
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/29016.m3u8
 #EXTINF:-1,|SKY-UK| MTV Base
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/29017
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/29017.m3u8
 #EXTINF:-1,|SKY-UK| VH1 Classic HD
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/29018
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/29018.m3u8
 #EXTINF:-1,|SKY-UK| VH1 HD
-http://ottiptv.us:25461/iptvtree.com/90X312b737L26/29019
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/29019.m3u8
+#EXTINF:-1,|SKY-UK| 4Music
+http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/29020.m3u8
 
 #EXTINF:-1,|USA| NBCSN
 http://ottiptv.us:25461/iptvtree.com/90X312b737L26/33086
