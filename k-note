@@ -11675,6 +11675,86 @@ http://globaltv.life:8880/get.php?username=sfast@trial&password=oIb3fTcCuJ&type=
 
 http://goiptv.co:8080/get.php?username=avatar&password=fVkKAhhBlr&type=m3u Expires: 23/5/2021 12:00:00 AM    Active Connections: 691     Maximum Connections: 1000
 
++ + + + + gooserace.xyz:2052 + + + + + 2/9/2021
+
+http://gooserace.xyz:2052/get.php?username=vander&password=vander&type=m3u
+Real Url: gooserace.xyz:2052     Status: Active    Created: 13/2/2020 1:03:45 AM     Expires: 2/9/2021 2:23:01 AM    Active Connections: 1     Maximum Connections: 4     Formats: "m3u8","ts","rtmp"
+
+http://gooserace.xyz:2052/get.php?username=thomas&password=thomas123&type=m3u
+Real Url: gooserace.xyz:2052     Status: Active    Created: 20/10/2020 11:09:38 PM     Expires: 23/7/2021 12:47:59 AM    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="gooserace",DSTV: SuperSport Grandstand
+http://gooserace.xyz:2052/live/vander/vander/2107266.m3u8
+#EXTINF:-1,DSTV: SuperSport PSL
+http://gooserace.xyz:2052/live/vander/vander/2107267.m3u8
+#EXTINF:-1,DSTV: SuperSport Premier League
+http://gooserace.xyz:2052/live/vander/vander/2107268.m3u8
+#EXTINF:-1,DSTV: SuperSport 4
+http://gooserace.xyz:2052/live/vander/vander/2107269.m3u8
+#EXTINF:-1,DSTV: SuperSport Football
+http://gooserace.xyz:2052/live/vander/vander/2107270.m3u8
+#EXTINF:-1,DSTV: SuperSport Variety 1
+http://gooserace.xyz:2052/live/vander/vander/2107271.m3u8
+#EXTINF:-1,DSTV: SuperSport Variety 2
+http://gooserace.xyz:2052/live/vander/vander/2107272.m3u8
+#EXTINF:-1,DSTV: SuperSport Variety 3
+http://gooserace.xyz:2052/live/vander/vander/2107273.m3u8
+#EXTINF:-1,DSTV: SuperSport Variety 4
+http://gooserace.xyz:2052/live/vander/vander/2107274.m3u8
+#EXTINF:-1,DSTV: SuperSport Action
+http://gooserace.xyz:2052/live/vander/vander/2107275.m3u8
+#EXTINF:-1,DSTV: SuperSport Rugby
+http://gooserace.xyz:2052/live/vander/vander/2107276.m3u8
+#EXTINF:-1,DSTV: SuperSport Cricket
+http://gooserace.xyz:2052/live/vander/vander/2107277.m3u8
+#EXTINF:-1,DSTV: Supersport Blitz
+http://gooserace.xyz:2052/live/vander/vander/2107278.m3u8
+#EXTINF:-1,DSTV: SuperSport Tennis
+http://gooserace.xyz:2052/live/vander/vander/2107279.m3u8
+#EXTINF:-1,DSTV: SuperSport Motorsport
+http://gooserace.xyz:2052/live/vander/vander/2107280.m3u8
+#EXTINF:-1,DSTV: SuperSport La Liga
+http://gooserace.xyz:2052/live/vander/vander/2107281.m3u8
+#EXTINF:-1,DSTV: SuperSport Golf
+http://gooserace.xyz:2052/live/vander/vander/2107282.m3u8
+#EXTINF:-1,DSTV: SuperSport MaXimo 1
+http://gooserace.xyz:2052/live/vander/vander/2107283.m3u8
+#EXTINF:-1,DSTV: SuperSport Play
+http://gooserace.xyz:2052/live/vander/vander/2107284.m3u8
+
+#EXTINF:-1,USA: MTV Classic
+http://gooserace.xyz:2052/live/vander/vander/1524398.m3u8
+#EXTINF:-1,MTV Base
+http://gooserace.xyz:2052/live/vander/vander/2484986.m3u8
+#EXTINF:-1,MTV Classic
+http://gooserace.xyz:2052/live/vander/vander/2484987.m3u8
+#EXTINF:-1,MTV Hits
+http://gooserace.xyz:2052/live/vander/vander/2484988.m3u8
+#EXTINF:-1,MTV Music
+http://gooserace.xyz:2052/live/vander/vander/2484989.m3u8
+
+#EXTINF:-1,MY: ASTRO ASSP4 HD
+http://gooserace.xyz:2052/live/vander/vander/2599212.m3u8
+#EXTINF:-1,MY: ASTRO ASSP3 HD
+http://gooserace.xyz:2052/live/vander/vander/2599211.m3u8
+#EXTINF:-1,MY: ASTRO ASSP2 HD
+http://gooserace.xyz:2052/live/vander/vander/2599210.m3u8
+#EXTINF:-1,MY: ASTRO ASSP Plus HD
+http://gooserace.xyz:2052/live/vander/vander/2599209.m3u8
+#EXTINF:-1,MY: ASTRO ASSP HD
+http://gooserace.xyz:2052/live/vander/vander/2599208.m3u8
+#EXTINF:-1,MY: Astro Supersports Plus 3
+http://gooserace.xyz:2052/live/vander/vander/2599377.m3u8
+#EXTINF:-1,MY: Astro Supersports Plus 2
+http://gooserace.xyz:2052/live/vander/vander/2599376.m3u8
+#EXTINF:-1,MY: Astro SuperSports Plus 1
+http://gooserace.xyz:2052/live/vander/vander/2599375.m3u8
+#EXTINF:-1,Bein sports 2
+http://gooserace.xyz:2052/live/vander/vander/2599179.m3u8
+#EXTINF:-1 group-title="gooserace",Bein sports 1
+http://gooserace.xyz:2052/live/vander/vander/2599178.m3u8
+
+
 + + + + + ip.newboss.site:80 + + + + + Null + UK: SUPERSPORT + DSTV AFRICA| SuperSport 1 + + +
 
 http://ip.bosszx.net:80/get.php?username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&type=m3u Real Url: ip.newboss.site:80 Expires: Null Connections: 200-125
