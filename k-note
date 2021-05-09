@@ -11987,7 +11987,7 @@ https://jo.sarhantv.com:443/get.php?username=sarhanapp&password=wwe5151&type=m3u
 
 + + + + + live.fauconteam.com:8080 + + + + + null 
 
-http://live.fauconteam.com:8080/get.php?username=Amigotv_online&password=gNCQEXF40sC2&type=m3u Expires: Null    Active Connections: 385     Maximum Connections: 1000 < to check
+http://live.fauconteam.com:8080/get.php?username=Amigotv_online&password=gNCQEXF40sC2&type=m3u Expires: Null Connections: 1000-821 < to check
 
 #EXTINF:-1 group-title="fauconteam",[IN] & FLIX HD IN
 http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/9070.m3u8
@@ -12040,28 +12040,7 @@ http://live.fauconteam.com:8080/live/Amigotv_online/gNCQEXF40sC2/4222.m3u8
 
 + + + + + maxx-iptv10.ddns.net:8080 + + + + +
 
-http://kstv.us:8080/get.php?username=maxx015&password=7857585044&type=m3u < maxx-iptv10.ddns.net:8080 < null < 5-1 
-
-#EXTINF:-1 group-title="kstv",NBC Sports (Network) HD
-http://kstv.us:8080/live/maxx015/7857585044/28740.ts
-#EXTINF:-1,NBC Sports Network
-http://kstv.us:8080/live/maxx015/7857585044/22499.ts
-#EXTINF:-1,NBC Sports Network HD
-http://kstv.us:8080/live/maxx015/7857585044/15942.ts
-#EXTINF:-1,NBCSN
-http://kstv.us:8080/live/maxx015/7857585044/10054.ts
-#EXTINF:-1,ELEVEN SPORTS 1
-http://kstv.us:8080/live/maxx015/7857585044/47341.ts
-#EXTINF:-1,ELEVEN SPORTS 2
-http://kstv.us:8080/live/maxx015/7857585044/47342.ts
-#EXTINF:-1,ELEVEN SPORTS 3
-http://kstv.us:8080/live/maxx015/7857585044/47343.ts
-#EXTINF:-1,ELEVEN SPORTS 4
-http://kstv.us:8080/live/maxx015/7857585044/47344.ts
-#EXTINF:-1,ELEVEN SPORTS 5
-http://kstv.us:8080/live/maxx015/7857585044/47345.ts
-#EXTINF:-1 group-title="kstv",ELEVEN SPORTS 6
-http://kstv.us:8080/live/maxx015/7857585044/47346.ts
+http://kstv.us:8080/get.php?username=maxx015&password=7857585044&type=m3u < maxx-iptv10.ddns.net:8080 < null < 5-1 < N
 
 + + + + + kmx.kolpax.de:80 + + + + +
 
