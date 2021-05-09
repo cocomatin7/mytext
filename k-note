@@ -11328,13 +11328,13 @@ https://xc.gt-app.tk:2083/get.php?username=GThn&password=qLzpvNzf04JgYjTwKgHrMgR
 
 http://173.198.198.102:25461/get.php?username=shahidandroid&password=FeyxFIpoYz&type=m3u Expires: Null Connections: 4000-9     Formats: "ts"
 
-#EXTINF:-1 group-title="173.198",Bein pre 1 fire
+ group-title="173.198",Bein pre 1 fire
 http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/1
-#EXTINF:-1,Bein 2 pre fire 
+,Bein 2 pre fire 
 http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/2
-#EXTINF:-1,Bein1
+,Bein1
 http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/3
-#EXTINF:-1 group-title="173.198",Bein3
+ group-title="173.198",Bein3
 http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/5
 
 + + + + + 176.98.26.37:8000 + + + + +
