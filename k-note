@@ -660,8 +660,8 @@ https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=useesports2
 #EXTINF:-1,Warner TV
 https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=warner
 
-http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+
+
 
 SUPERSPORT 1 |laos-tech
 https://laos-tech-live.b-cdn.net/my-asp1hd_720/index.m3u8
@@ -5599,6 +5599,11 @@ http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 
+http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
+http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
 
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 #EXTINF:-1,Foxfamily |185
