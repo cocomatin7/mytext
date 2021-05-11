@@ -483,6 +483,20 @@ http://125.209.89.83:5555/play/a03t/index.m3u8
 #EXTINF:-1,MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
+
+#EXTINF:-1,HBO
+http://51.222.105.5:8081/tecno/HBO.Tecnobyte/chunks.m3u8
+#EXTINF:-1,HBO Plus
+http://51.222.105.5:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
+#EXTINF:-1,HBO 2
+http://51.222.105.5:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
+#EXTINF:-1,HBO Family
+http://51.222.105.5:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
+#EXTINF:-1,HBO Signature
+http://51.222.105.5:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
+#EXTINF:-1,TCM
+http://51.222.105.5:8081/tecno/TCM.Tecnobyte/chunks.m3u8
+
 #EXTINF:-1,HBO
 http://balancer1.ottmex.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
 #EXTINF:-1,HBO 2
@@ -1198,6 +1212,66 @@ https://dreamtv.livebox.co.in/bflixouthls/live.m3u8?Live-TV™
 https://crackle-plex.amagi.tv/playlist720p.m3u8
 #EXTINF:-1,REDBOX
 https://rush-redbox.amagi.tv/playlist720p.m3u8
+
+
+Reality Kings TV
+http://iptv.xprime.one/177/mono.m3u8
+XY Max HD
+http://iptv.xprime.one/174/mono.m3u8
+Eromania 4K
+http://iptv.xprime.one/168/mono.m3u8
+HotClub 4K
+http://iptv.xprime.one/178/mono.m3u8
+Penthouse HD
+http://iptv.xprime.one/160/mono.m3u8
+O-La-La
+http://iptv.xprime.one/155/mono.m3u8
+Private TV HD
+http://iptv.xprime.one/162/mono.m3u8
+Fake Taxi HD
+http://iptv.xprime.one/171/mono.m3u8
+ALBA XXX 3
+http://iptv.xprime.one/181/mono.m3u8
+Barely Legal
+http://iptv.xprime.one/157/mono.m3u8
+Playboy
+http://iptv.xprime.one/152/mono.m3u8
+Blue Hustler TV
+http://iptv.xprime.one/151/mono.m3u8
+XY Plus HD
+http://iptv.xprime.one/176/mono.m3u8
+XXX RED
+http://iptv.xprime.one/172/mono.m3u8
+Brazzers TV Europe
+http://iptv.xprime.one/156/mono.m3u8
+Erox HD
+http://iptv.xprime.one/165/mono.m3u8
+Hustler HD Europe
+http://iptv.xprime.one/153/mono.m3u8
+Penthouse Quickers HD
+http://iptv.xprime.one/169/mono.m3u8
+Penthouse Gold HD
+http://iptv.xprime.one/161/mono.m3u8
+XY Mix HD
+http://iptv.xprime.one/175/mono.m3u8
+Русская Ночь
+http://iptv.xprime.one/150/mono.m3u8
+Redlight HD
+http://iptv.xprime.one/158/mono.m3u8
+XXL
+http://iptv.xprime.one/166/mono.m3u8
+ALBA XXX 2
+http://iptv.xprime.one/180/mono.m3u8
+Super One HD
+http://iptv.xprime.one/173/mono.m3u8
+Dorcel TV HD
+http://iptv.xprime.one/164/mono.m3u8
+ALBA XXX 1
+http://iptv.xprime.one/179/mono.m3u8
+Vivid Red HD
+http://iptv.xprime.one/163/mono.m3u8
+Extasy 4K
+http://iptv.xprime.one/167/mono.m3u8
 
 
 ,AsianCrush
@@ -11414,6 +11488,8 @@ http://103.135.208.14/get.php?username=ibox&password=bd&type=m3u < N
 
 http://104.218.61.161:83/get.php?username=directline76598&password=35222AM0203424421468352020&type=m3u < N
 
+
+
 + + + + + 148.251.129.207:2083 + + + + +
 
 https://xc.gt-app.tk:2083/get.php?username=GThn&password=qLzpvNzf04JgYjTwKgHrMgRfLgXfWn&type=m3u < 148.251.129.207:2083 < null < 0-320 < Albdroid TV few CH
@@ -11878,11 +11954,23 @@ http://bornw1ld.cyou:8080/get.php?username=OVOmainoneWgTkI&password=468TGE75ffji
 + + + + + client-premiumzone.in:8080 / premium-streamplay.club:8080 + + + + +
 + + + + + clientportal.link:80 / tv.iptvstack.net:80 / 85.203.33.42:80 / 85.203.33.7:80 + + + + +
 
++ + + + + clientportal-worldiptv.club:8080 + + + + +
+
+http://clientportal-worldiptv.club:8080/get.php?username=thomas&password=thomas&type=m3u
+Real Url: clientportal-worldiptv.club:8080     Status: Active    Created: 26/1/2021 12:32:39 AM     Expires: 26/1/2022 12:32:39 AM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+
 + + + + + dillutv.dillu.ltd:7651 + + + + +
 
 http://dillutv.dillu.ltd:7651/get.php?username=virusezrestreamptpanel&password=A9D3iv0A8o&type=m3u Expires: Null Connections: 100-0 < DOWN
 
 + + + + + dragoniptv / livegopanel + + + + +
+
++ + + + + edge.multiplay.cl:25461 + + + + +
+
+http://138.117.71.80:25461/get.php?username=test&password=test&type=m3u
+Real Url: edge.multiplay.cl:25461     Status: Active    Created: 21/11/2019 6:10:31 PM     Expires: Null    Active Connections: 53     Maximum Connections: 0 
+
 + + + + + endoftheworldisnigh.sytes.net:8989 [MTV] + + + + +
 + + + + + flowfhd.xyz:25461 [SEA] + + + + +
 
