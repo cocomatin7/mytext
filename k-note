@@ -102,6 +102,10 @@ https://yamcode.com/raw/signature-hbogo
  tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO' |Yam
 https://yamcode.com/raw/red-hbogo
 
+
+#EXTINF:-1 tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX |mm
+https://rebrand.ly/cmax-mm
+
 #EXTINF:-1 tvg-id="HBO HD", HBO |mm
 https://raw.githubusercontent.com/konanda-sg/mytext/master/hhbo-mm.m3u8
 #EXTINF:-1 tvg-id="HBO HD", HBO* |mm
