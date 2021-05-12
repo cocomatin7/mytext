@@ -13047,6 +13047,7 @@ http://premium-streamplay.club:8080/live/mama/123456/8130.m3u8
 
 http://pulselive.uk:8080/get.php?username=t1&password=t1&type=m3u < 2-1 < 16/02/2023 < DOWN
 http://pulselive.uk:8080/Bs0LcSY6QD/Ss2TmKAWG4 < 20/09/21
+http://pulselive.uk:8080/caca/caca < 15/02/2022
 http://pulselive.uk:8080/Tiff123/Tiff123 < 07/03/2022
 http://pulselive.uk:8080/tracey/tracey < 26/12/21
 http://pulselive.uk:8080/freddie123/freddie123 < 26/09/21
@@ -14240,6 +14241,41 @@ http://104.218.60.227:83/live/91595487/07862755/385281.m3u8
 http://104.218.60.227:83/live/91595487/07862755/385282.m3u8
 #EXTINF:-1 group-title="securepoint",EPL 10: 
 http://104.218.60.227:83/live/91595487/07862755/385283.m3u8
+
++ + + + + sl.masterstv.net:1997 + + + + + null
+
+http://sl.masterstv.net:1997/get.php?username=Rku0iA0DXO&password=s9Bp800MfN&type=m3u Expires: Null    Active Connections: 100     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="masterstv",|UK| SKY SPORTS PREMIER LEAGUE HD
+http://sl.masterstv.net:1997/live/Rku0iA0DXO/s9Bp800MfN/9487.m3u8
+#EXTINF:-1,|UK| SKY SPORTS MAIN EVENT HD
+http://sl.masterstv.net:1997/live/Rku0iA0DXO/s9Bp800MfN/9489.m3u8
+#EXTINF:-1,|UK| MTV HITS HD
+http://sl.masterstv.net:1997/live/Rku0iA0DXO/s9Bp800MfN/9502.m3u8
+#EXTINF:-1,|UK| MTV ROCKS HD
+http://sl.masterstv.net:1997/live/Rku0iA0DXO/s9Bp800MfN/9504.m3u8
+#EXTINF:-1,|UK| MTV DANCE HD
+http://sl.masterstv.net:1997/live/Rku0iA0DXO/s9Bp800MfN/9507.m3u8
+#EXTINF:-1,|UK| MTV HD
+http://sl.masterstv.net:1997/live/Rku0iA0DXO/s9Bp800MfN/9508.m3u8
+#EXTINF:-1,|UK| BT SPORT 3 HD
+http://sl.masterstv.net:1997/live/Rku0iA0DXO/s9Bp800MfN/9545.m3u8
+#EXTINF:-1,|UK| BT SPORT 2 HD
+http://sl.masterstv.net:1997/live/Rku0iA0DXO/s9Bp800MfN/9546.m3u8
+#EXTINF:-1,|UK| BT SPORT 1 HD
+http://sl.masterstv.net:1997/live/Rku0iA0DXO/s9Bp800MfN/9547.m3u8
+#EXTINF:-1,|UK| CNN INTERNAIONAL HD
+http://sl.masterstv.net:1997/live/Rku0iA0DXO/s9Bp800MfN/17604.m3u8
+#EXTINF:-1,|UK| & Tv
+http://sl.masterstv.net:1997/live/Rku0iA0DXO/s9Bp800MfN/64980.m3u8
+#EXTINF:-1,|UK| B4u Movies
+http://sl.masterstv.net:1997/live/Rku0iA0DXO/s9Bp800MfN/64986.m3u8
+#EXTINF:-1,|UK| B4u Music
+http://sl.masterstv.net:1997/live/Rku0iA0DXO/s9Bp800MfN/64989.m3u8
+#EXTINF:-1 group-title="masterstv",|IN| ZEE CINEMA HD
+http://sl.masterstv.net:1997/live/Rku0iA0DXO/s9Bp800MfN/60030.m3u8
+
+
 
 + + + + + sonyiptv.net:8080 + + + + + 6/12/2021
 
