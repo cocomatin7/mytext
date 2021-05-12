@@ -14022,344 +14022,300 @@ https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3423.m3u8
 
 + + + + + securepoint.io:83 + + + + + 25/2/2022
 
-http://104.218.60.227:83/get.php?username=promo&password=promo&type=m3u&output=hls
-Real Url: securepoint.io:83 / 104.218.60.227:83 Expires: 25/2/2022 Connections: 5-5
-http://104.218.60.227:83/get.php?username=promo&password=promo&type=m3u
-Real Url: securepoint.io:83     Status: Active    Created: 19/1/2021 3:44:28 AM     Expires: 25/2/2022 3:44:00 AM     Maximum Connections: 5
+http://104.218.60.227:83/get.php?username=promo&password=promo&type=m3u&output=hls Real Url: securepoint.io:83 / 104.218.60.227:83 Expires: 25/2/2022 Connections: 5-5 < DOWN
 
 http://tv.rebeliptv.com:83/get.php?username=91595487&password=07862755&type=m3u
-Real Url: securepoint.io:83 / 104.218.60.227:83     Status: Active    Created: 30/12/2018 7:39:13 PM     Expires: 26/5/2021 6:39:00 PM    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+Real Url: securepoint.io:83     Status: Active    Created: 30/12/2018 7:39:13 PM     Expires: 26/6/2021 4:44:00 AM     Maximum Connections: 2
 
 http://securepoint.io:83/get.php?username=86753099&password=86753099&type=m3u securepoint.io:83 Expires: 27/12/2021 Connections: 2-1 < DOWN
-
-http://tv.rebeliptv.com:83/get.php?username=82936722&password=29038858&type=m3u Real Url: securepoint.io:83 / 104.218.60.227:83 Expires: 12/5/2021 Connections: 2-1 
+http://tv.rebeliptv.com:83/get.php?username=82936722&password=29038858&type=m3u Real Url: securepoint.io:83 / 104.218.60.227:83 Expires: 12/5/2021 Connections: 2-1 < DOWN
 
 #EXTINF:-1 group-title="securepoint",DStv | SuperSport Action
-http://104.218.60.227:83/live/promo/promo/387256.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387256.m3u8
 #EXTINF:-1,DStv | SuperSport Blitz
-http://104.218.60.227:83/live/promo/promo/387257.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387257.m3u8
 #EXTINF:-1,DStv | SuperSport Cricket
-http://104.218.60.227:83/live/promo/promo/387258.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387258.m3u8
 #EXTINF:-1,DStv | SuperSport ESPN
-http://104.218.60.227:83/live/promo/promo/387259.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387259.m3u8
 #EXTINF:-1,DStv | SuperSport ESPN2
-http://104.218.60.227:83/live/promo/promo/387260.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387260.m3u8
 #EXTINF:-1,DStv | SuperSport Football
-http://104.218.60.227:83/live/promo/promo/387261.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387261.m3u8
 #EXTINF:-1,DStv | SuperSport Golf
-http://104.218.60.227:83/live/promo/promo/387262.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387262.m3u8
 #EXTINF:-1,DStv | SuperSport Grandstand
-http://104.218.60.227:83/live/promo/promo/387263.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387263.m3u8
 #EXTINF:-1,DStv | SuperSport LaLiga
-http://104.218.60.227:83/live/promo/promo/387264.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387264.m3u8
 #EXTINF:-1,DStv | SuperSport Maximo
-http://104.218.60.227:83/live/promo/promo/387265.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387265.m3u8
 #EXTINF:-1,DStv | SuperSport Motorsport
-http://104.218.60.227:83/live/promo/promo/387266.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387266.m3u8
 #EXTINF:-1,DStv | SuperSport Play
-http://104.218.60.227:83/live/promo/promo/387267.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387267.m3u8
 #EXTINF:-1,DStv | SuperSport Premier League
-http://104.218.60.227:83/live/promo/promo/387268.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387268.m3u8
 #EXTINF:-1,DStv | SuperSport PSL
-http://104.218.60.227:83/live/promo/promo/387269.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387269.m3u8
 #EXTINF:-1,DStv | SuperSport Rugby
-http://104.218.60.227:83/live/promo/promo/387270.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387270.m3u8
 #EXTINF:-1,DStv | SuperSport Tennis
-http://104.218.60.227:83/live/promo/promo/387271.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387271.m3u8
 #EXTINF:-1,DStv | SuperSport Variety 1
-http://104.218.60.227:83/live/promo/promo/387272.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387272.m3u8
 #EXTINF:-1,DStv | SuperSport Variety 2
-http://104.218.60.227:83/live/promo/promo/387273.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387273.m3u8
 #EXTINF:-1,DStv | SuperSport Variety 3
-http://104.218.60.227:83/live/promo/promo/387274.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387274.m3u8
 #EXTINF:-1,DStv | SuperSport Variety 4
-http://104.218.60.227:83/live/promo/promo/387275.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387275.m3u8
 #EXTINF:-1,DStv | SuperSport WWE
-http://104.218.60.227:83/live/promo/promo/387276.m3u8
+http://104.218.60.227:83/live/91595487/07862755/387276.m3u8
 
 #EXTINF:-1,beIN-SPORTS HD 01 EN FULL HD
-http://104.218.60.227:83/live/promo/promo/385859.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385859.m3u8
 #EXTINF:-1,beIN-SPORTS HD 02 EN FULL HD
-http://104.218.60.227:83/live/promo/promo/385860.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385860.m3u8
 #EXTINF:-1,beIN-SPORTS HD 03 EN FULL HD
-http://104.218.60.227:83/live/promo/promo/385861.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385861.m3u8
 
 #EXTINF:-1,Optus 1
-http://104.218.60.227:83/live/promo/promo/385813.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385813.m3u8
 #EXTINF:-1,Optus 2
-http://104.218.60.227:83/live/promo/promo/385814.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385814.m3u8
 #EXTINF:-1,Optus 3
-http://104.218.60.227:83/live/promo/promo/385815.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385815.m3u8
 #EXTINF:-1,Optus 4
-http://104.218.60.227:83/live/promo/promo/385816.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385816.m3u8
 #EXTINF:-1,Optus 5
-http://104.218.60.227:83/live/promo/promo/385817.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385817.m3u8
 
 #EXTINF:-1,BeinSports HD1 720p
-http://104.218.60.227:83/live/promo/promo/385863.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385863.m3u8
 #EXTINF:-1,BeinSports HD2 720p
-http://104.218.60.227:83/live/promo/promo/385864.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385864.m3u8
 #EXTINF:-1,BeinSports HD3 720p
-http://104.218.60.227:83/live/promo/promo/385865.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385865.m3u8
 #EXTINF:-1,BeinSports HD4 720p
-http://104.218.60.227:83/live/promo/promo/385866.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385866.m3u8
 #EXTINF:-1,BeinSports HD5 720p
-http://104.218.60.227:83/live/promo/promo/385867.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385867.m3u8
 #EXTINF:-1,BeinSports HD6 720p
-http://104.218.60.227:83/live/promo/promo/385868.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385868.m3u8
 #EXTINF:-1,BeinSports HD07 720p
-http://104.218.60.227:83/live/promo/promo/385869.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385869.m3u8
 
 #EXTINF:-1,NOW Sports 1 HD
-http://104.218.60.227:83/live/promo/promo/386726.m3u8
+http://104.218.60.227:83/live/91595487/07862755/386726.m3u8
 #EXTINF:-1,NOW Sports 2 HD
-http://104.218.60.227:83/live/promo/promo/386727.m3u8
+http://104.218.60.227:83/live/91595487/07862755/386727.m3u8
 #EXTINF:-1,NOW Sports 3 HD
-http://104.218.60.227:83/live/promo/promo/386728.m3u8
+http://104.218.60.227:83/live/91595487/07862755/386728.m3u8
 #EXTINF:-1,NOW Sports 4 HD
-http://104.218.60.227:83/live/promo/promo/386729.m3u8
+http://104.218.60.227:83/live/91595487/07862755/386729.m3u8
 #EXTINF:-1,NOW Sports 5 HD
-http://104.218.60.227:83/live/promo/promo/386730.m3u8
+http://104.218.60.227:83/live/91595487/07862755/386730.m3u8
 
 #EXTINF:-1,VIP FHD : Sky Cinema Action & Adventure
-http://104.218.60.227:83/live/promo/promo/303841.m3u8
+http://104.218.60.227:83/live/91595487/07862755/303841.m3u8
 #EXTINF:-1,VIP FHD : Sky Cinema Comedy
-http://104.218.60.227:83/live/promo/promo/303839.m3u8
+http://104.218.60.227:83/live/91595487/07862755/303839.m3u8
 #EXTINF:-1,VIP FHD : Sky Cinema Disney
-http://104.218.60.227:83/live/promo/promo/303837.m3u8
+http://104.218.60.227:83/live/91595487/07862755/303837.m3u8
 #EXTINF:-1,VIP FHD : Sky Cinema Drama
-http://104.218.60.227:83/live/promo/promo/303840.m3u8
+http://104.218.60.227:83/live/91595487/07862755/303840.m3u8
 #EXTINF:-1,VIP FHD : Sky Cinema Family
-http://104.218.60.227:83/live/promo/promo/303836.m3u8
+http://104.218.60.227:83/live/91595487/07862755/303836.m3u8
 #EXTINF:-1,VIP FHD : Sky Cinema Hits 
-http://104.218.60.227:83/live/promo/promo/303834.m3u8
+http://104.218.60.227:83/live/91595487/07862755/303834.m3u8
 #EXTINF:-1,VIP FHD : Sky Cinema Premier
-http://104.218.60.227:83/live/promo/promo/303833.m3u8
+http://104.218.60.227:83/live/91595487/07862755/303833.m3u8
 #EXTINF:-1,VIP FHD : Sky Cinema SciFi and Horror
-http://104.218.60.227:83/live/promo/promo/303832.m3u8
+http://104.218.60.227:83/live/91595487/07862755/303832.m3u8
 #EXTINF:-1,VIP FHD : Sky Cinema Select
-http://104.218.60.227:83/live/promo/promo/303831.m3u8
+http://104.218.60.227:83/live/91595487/07862755/303831.m3u8
 #EXTINF:-1,VIP FHD : Sky Cinema Thriller
-http://104.218.60.227:83/live/promo/promo/303838.m3u8
+http://104.218.60.227:83/live/91595487/07862755/303838.m3u8
 
 #EXTINF:-1,UK FHD :  BT SPORTS 1
-http://104.218.60.227:83/live/promo/promo/309255.m3u8
+http://104.218.60.227:83/live/91595487/07862755/309255.m3u8
 #EXTINF:-1,UK HD : BT SPORTS 1
-http://104.218.60.227:83/live/promo/promo/309257.m3u8
+http://104.218.60.227:83/live/91595487/07862755/309257.m3u8
 #EXTINF:-1,UK FHD : BT SPORTS 2
-http://104.218.60.227:83/live/promo/promo/382158.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382158.m3u8
 #EXTINF:-1,UK HD : BT SPORT 2
-http://104.218.60.227:83/live/promo/promo/382159.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382159.m3u8
 #EXTINF:-1,UK SD : BT SPORTS 2
-http://104.218.60.227:83/live/promo/promo/382155.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382155.m3u8
 #EXTINF:-1,UK HD : BT SPORTS 3
-http://104.218.60.227:83/live/promo/promo/309256.m3u8
+http://104.218.60.227:83/live/91595487/07862755/309256.m3u8
 #EXTINF:-1,UK SD : BT SPORTS 3
-http://104.218.60.227:83/live/promo/promo/309254.m3u8
+http://104.218.60.227:83/live/91595487/07862755/309254.m3u8
 #EXTINF:-1,UK FHD : Sky Sports Football
-http://104.218.60.227:83/live/promo/promo/366920.m3u8
+http://104.218.60.227:83/live/91595487/07862755/366920.m3u8
 #EXTINF:-1,UK SD : Sky Sports Football
-http://104.218.60.227:83/live/promo/promo/366650.m3u8
+http://104.218.60.227:83/live/91595487/07862755/366650.m3u8
 #EXTINF:-1,UK FHD : Sky Sports Main Events
-http://104.218.60.227:83/live/promo/promo/366918.m3u8
+http://104.218.60.227:83/live/91595487/07862755/366918.m3u8
 #EXTINF:-1,UK SD : Sky Sports Main Event
-http://104.218.60.227:83/live/promo/promo/366652.m3u8
+http://104.218.60.227:83/live/91595487/07862755/366652.m3u8
 #EXTINF:-1,UK FHD : Sky Sports News
-http://104.218.60.227:83/live/promo/promo/366916.m3u8
+http://104.218.60.227:83/live/91595487/07862755/366916.m3u8
 #EXTINF:-1,UK FHD : Sky Sports Premier League
-http://104.218.60.227:83/live/promo/promo/366915.m3u8
+http://104.218.60.227:83/live/91595487/07862755/366915.m3u8
 #EXTINF:-1,UK SD : Sky Sports Premier League
-http://104.218.60.227:83/live/promo/promo/366651.m3u8
+http://104.218.60.227:83/live/91595487/07862755/366651.m3u8
 #EXTINF:-1,UK SD : MTV Base  
-http://104.218.60.227:83/live/promo/promo/20973.m3u8
+http://104.218.60.227:83/live/91595487/07862755/20973.m3u8
 #EXTINF:-1,UK SD : MTV Classic
-http://104.218.60.227:83/live/promo/promo/20975.m3u8
+http://104.218.60.227:83/live/91595487/07862755/20975.m3u8
 #EXTINF:-1,UK SD : MTV Hits
-http://104.218.60.227:83/live/promo/promo/20977.m3u8
+http://104.218.60.227:83/live/91595487/07862755/20977.m3u8
 #EXTINF:-1,UK SD : Now 90s
-http://104.218.60.227:83/live/promo/promo/381392.m3u8
+http://104.218.60.227:83/live/91595487/07862755/381392.m3u8
 #EXTINF:-1,VIP HD NBC SPORTS NETWORK
-http://104.218.60.227:83/live/promo/promo/308834.m3u8
+http://104.218.60.227:83/live/91595487/07862755/308834.m3u8
 #EXTINF:-1,Astro Super Sport 1 HD
-http://104.218.60.227:83/live/promo/promo/364352.m3u8
+http://104.218.60.227:83/live/91595487/07862755/364352.m3u8
 #EXTINF:-1,Astro Super Sport 2HD
-http://104.218.60.227:83/live/promo/promo/364351.m3u8
+http://104.218.60.227:83/live/91595487/07862755/364351.m3u8
 #EXTINF:-1,Astro Super Sport 3HD
-http://104.218.60.227:83/live/promo/promo/364350.m3u8
+http://104.218.60.227:83/live/91595487/07862755/364350.m3u8
 #EXTINF:-1,Astro Super Sport 4HD
-http://104.218.60.227:83/live/promo/promo/364349.m3u8
+http://104.218.60.227:83/live/91595487/07862755/364349.m3u8
 #EXTINF:-1,VIP FHD : BT Sports 1 
-http://104.218.60.227:83/live/promo/promo/382173.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382173.m3u8
 #EXTINF:-1,VIP FHD : BT Sports 2
-http://104.218.60.227:83/live/promo/promo/382157.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382157.m3u8
 #EXTINF:-1,VIP FHD : BT Sports 3 
-http://104.218.60.227:83/live/promo/promo/382161.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382161.m3u8
 #EXTINF:-1,VIP FHD : Sky Sports Football
-http://104.218.60.227:83/live/promo/promo/382165.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382165.m3u8
 #EXTINF:-1,VIP FHD Sky Sports Main Event
-http://104.218.60.227:83/live/promo/promo/309260.m3u8
+http://104.218.60.227:83/live/91595487/07862755/309260.m3u8
 #EXTINF:-1,VIP FHD : Sky Sports Mix
-http://104.218.60.227:83/live/promo/promo/382171.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382171.m3u8
 #EXTINF:-1,VIP FHD : Sky Sports News
-http://104.218.60.227:83/live/promo/promo/382170.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382170.m3u8
 #EXTINF:-1,VIP FHD : Sky Sports Premier League
-http://104.218.60.227:83/live/promo/promo/382163.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382163.m3u8
 #EXTINF:-1,VIP HD : BT Sports 1 
-http://104.218.60.227:83/live/promo/promo/382160.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382160.m3u8
 #EXTINF:-1,VIP HD : BT Sports 2
-http://104.218.60.227:83/live/promo/promo/382156.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382156.m3u8
 #EXTINF:-1,VIP HD : BT Sports 3 
-http://104.218.60.227:83/live/promo/promo/382162.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382162.m3u8
 #EXTINF:-1,VIP HD : Sky Sports Football
-http://104.218.60.227:83/live/promo/promo/382176.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382176.m3u8
 #EXTINF:-1,VIP HD : Sky Sports Main Event
-http://104.218.60.227:83/live/promo/promo/309259.m3u8
+http://104.218.60.227:83/live/91595487/07862755/309259.m3u8
 #EXTINF:-1,VIP HD :  Sky Sports Mix
-http://104.218.60.227:83/live/promo/promo/382172.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382172.m3u8
 #EXTINF:-1,VIP HD : Sky Sports Premier League
-http://104.218.60.227:83/live/promo/promo/382174.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382174.m3u8
 #EXTINF:-1,VIP FHD : New BT Sports 3
-http://104.218.60.227:83/live/promo/promo/382924.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382924.m3u8
 #EXTINF:-1,VIP HD : New BT Sports 3 
-http://104.218.60.227:83/live/promo/promo/382925.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382925.m3u8
 #EXTINF:-1,VIP HD : New BT Sports 2 
-http://104.218.60.227:83/live/promo/promo/382927.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382927.m3u8
 #EXTINF:-1,VIP FHD : New BT Sports 2
-http://104.218.60.227:83/live/promo/promo/382928.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382928.m3u8
 #EXTINF:-1,VIP HD : New BT Sports 1 
-http://104.218.60.227:83/live/promo/promo/382930.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382930.m3u8
 #EXTINF:-1,VIP FHD : New BT Sports 1 
-http://104.218.60.227:83/live/promo/promo/382931.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382931.m3u8
 #EXTINF:-1,VIP FHD : New Sky Sports News
-http://104.218.60.227:83/live/promo/promo/382934.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382934.m3u8
 #EXTINF:-1,VIP HD : New Sky Sports Football
-http://104.218.60.227:83/live/promo/promo/382957.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382957.m3u8
 #EXTINF:-1,VIP FHD : New Sky Sports Football
-http://104.218.60.227:83/live/promo/promo/382958.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382958.m3u8
 #EXTINF:-1,VIP HD : New Sky Sports Premier League
-http://104.218.60.227:83/live/promo/promo/382960.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382960.m3u8
 #EXTINF:-1,VIP FHD : New Sky Sports Premier League
-http://104.218.60.227:83/live/promo/promo/382961.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382961.m3u8
 #EXTINF:-1,VIP HD : New Sky Sports Main Event
-http://104.218.60.227:83/live/promo/promo/382963.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382963.m3u8
 #EXTINF:-1,VIP FHD : New Sky Sports Main Event
-http://104.218.60.227:83/live/promo/promo/382964.m3u8
+http://104.218.60.227:83/live/91595487/07862755/382964.m3u8
 #EXTINF:-1,UK FHD :  Sky Cinema Action
-http://104.218.60.227:83/live/promo/promo/378441.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378441.m3u8
 #EXTINF:-1,UK FHD : Sky Cinema Disney 
-http://104.218.60.227:83/live/promo/promo/378448.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378448.m3u8
 #EXTINF:-1, UK FHD : Sky Cinema Drama
-http://104.218.60.227:83/live/promo/promo/378452.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378452.m3u8
 #EXTINF:-1,UK FHD : Sky Cinema  Family 
-http://104.218.60.227:83/live/promo/promo/378455.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378455.m3u8
 #EXTINF:-1,UK FHD : Sky Cinema Hits 
-http://104.218.60.227:83/live/promo/promo/378461.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378461.m3u8
 #EXTINF:-1,UK FHD :  Sky Cinema Greats
-http://104.218.60.227:83/live/promo/promo/378458.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378458.m3u8
 #EXTINF:-1,UK FHD : Sky Cinema Premier
-http://104.218.60.227:83/live/promo/promo/378464.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378464.m3u8
 #EXTINF:-1,UK. FHD :  Sky Cinema SciFi Horror 
-http://104.218.60.227:83/live/promo/promo/378467.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378467.m3u8
 #EXTINF:-1,UK FHD :  Sky Cinema Thriller 
-http://104.218.60.227:83/live/promo/promo/378470.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378470.m3u8
 #EXTINF:-1,UK HD :  Sky Cinema Action
-http://104.218.60.227:83/live/promo/promo/378442.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378442.m3u8
 #EXTINF:-1,UK HD. : Sky Cinema Disney
-http://104.218.60.227:83/live/promo/promo/378450.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378450.m3u8
 #EXTINF:-1,UK HD : Sky Cinema Drama
-http://104.218.60.227:83/live/promo/promo/378453.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378453.m3u8
 #EXTINF:-1,UK HD : Sky Cinema Family
-http://104.218.60.227:83/live/promo/promo/378456.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378456.m3u8
 #EXTINF:-1,UK HD :  Sky Cinema Hits 
-http://104.218.60.227:83/live/promo/promo/378463.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378463.m3u8
 #EXTINF:-1,UK HD : Sky Cinema Greats
-http://104.218.60.227:83/live/promo/promo/378459.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378459.m3u8
 #EXTINF:-1,UK HD :  Sky Cinema Premier
-http://104.218.60.227:83/live/promo/promo/378465.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378465.m3u8
 #EXTINF:-1,UK HD :  Sky Cinema SciFi Horror
-http://104.218.60.227:83/live/promo/promo/378468.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378468.m3u8
 #EXTINF:-1,UK HD : Sky Cinema Thriller 
-http://104.218.60.227:83/live/promo/promo/378471.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378471.m3u8
 #EXTINF:-1,UK SD : Sky Cinema Action 
-http://104.218.60.227:83/live/promo/promo/378443.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378443.m3u8
 #EXTINF:-1,UK SD : Sky Cinema Comedy
-http://104.218.60.227:83/live/promo/promo/378445.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378445.m3u8
 #EXTINF:-1,UK SD : Sky Cinema Disney
-http://104.218.60.227:83/live/promo/promo/378451.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378451.m3u8
 #EXTINF:-1,UK SD : Sky Cinema Drama
-http://104.218.60.227:83/live/promo/promo/378454.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378454.m3u8
 #EXTINF:-1,UK SD :  Sky Cinema Hits
-http://104.218.60.227:83/live/promo/promo/378462.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378462.m3u8
 #EXTINF:-1,UK SD : Sky Cinema Family
-http://104.218.60.227:83/live/promo/promo/378457.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378457.m3u8
 #EXTINF:-1,UK SD : Sky Cinema Greats 
-http://104.218.60.227:83/live/promo/promo/378460.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378460.m3u8
 #EXTINF:-1,UK SD : Sky Cinema Premier
-http://104.218.60.227:83/live/promo/promo/378466.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378466.m3u8
 #EXTINF:-1,UK SD :  Sky Cinema SciFi Horror 
-http://104.218.60.227:83/live/promo/promo/378469.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378469.m3u8
 #EXTINF:-1,UK SD : Sky Cinema Thriller
-http://104.218.60.227:83/live/promo/promo/378472.m3u8
+http://104.218.60.227:83/live/91595487/07862755/378472.m3u8
 #EXTINF:-1,EPL 01: 
-http://104.218.60.227:83/live/promo/promo/385274.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385274.m3u8
 #EXTINF:-1,EPL 02: 
-http://104.218.60.227:83/live/promo/promo/385275.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385275.m3u8
 #EXTINF:-1,EPL 03:
-http://104.218.60.227:83/live/promo/promo/385276.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385276.m3u8
 #EXTINF:-1,EPL 04: 
-http://104.218.60.227:83/live/promo/promo/385277.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385277.m3u8
 #EXTINF:-1,EPL 05: 
-http://104.218.60.227:83/live/promo/promo/385278.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385278.m3u8
 #EXTINF:-1,EPL 06: 
-http://104.218.60.227:83/live/promo/promo/385279.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385279.m3u8
 #EXTINF:-1,EPL 07: 
-http://104.218.60.227:83/live/promo/promo/385280.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385280.m3u8
 #EXTINF:-1,EPL 08: 
-http://104.218.60.227:83/live/promo/promo/385281.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385281.m3u8
 #EXTINF:-1,EPL 09: 
-http://104.218.60.227:83/live/promo/promo/385282.m3u8
-#EXTINF:-1,EPL 10: 
-http://104.218.60.227:83/live/promo/promo/385283.m3u8
-#EXTINF:-1,Event DAZN CA 1 HD
-http://104.218.60.227:83/live/promo/promo/385778.m3u8
-#EXTINF:-1,Event DAZN CA 2 HD
-http://104.218.60.227:83/live/promo/promo/385779.m3u8
-#EXTINF:-1,Event DAZN CA 3 HD
-http://104.218.60.227:83/live/promo/promo/385780.m3u8
-#EXTINF:-1,Event DAZN CA 4 HD
-http://104.218.60.227:83/live/promo/promo/385781.m3u8
-#EXTINF:-1,Event DAZN CA 5 HD
-http://104.218.60.227:83/live/promo/promo/385782.m3u8
-#EXTINF:-1,Event DAZN CA 6 HD
-http://104.218.60.227:83/live/promo/promo/385783.m3u8
-#EXTINF:-1,Event DAZN CA 7 HD
-http://104.218.60.227:83/live/promo/promo/385784.m3u8
-#EXTINF:-1,Event DAZN CA 8 HD
-http://104.218.60.227:83/live/promo/promo/385785.m3u8
-#EXTINF:-1,Event DAZN CA 9 HD
-http://104.218.60.227:83/live/promo/promo/385786.m3u8
-#EXTINF:-1,Event DAZN CA 10 HD
-http://104.218.60.227:83/live/promo/promo/385787.m3u8
-#EXTINF:-1,FOOT 01: 
-http://104.218.60.227:83/live/promo/promo/386037.m3u8
-#EXTINF:-1,FOOT 02: 
-http://104.218.60.227:83/live/promo/promo/386038.m3u8
-#EXTINF:-1,FOOT 03: 
-http://104.218.60.227:83/live/promo/promo/386039.m3u8
-#EXTINF:-1,FOOT 04: 
-http://104.218.60.227:83/live/promo/promo/386040.m3u8
-#EXTINF:-1,FOOT 05: 
-http://104.218.60.227:83/live/promo/promo/386041.m3u8
-#EXTINF:-1,FOOT 06: 
-http://104.218.60.227:83/live/promo/promo/386042.m3u8
-#EXTINF:-1,FOOT 07:
-http://104.218.60.227:83/live/promo/promo/386043.m3u8
-#EXTINF:-1,FOOT 08:
-http://104.218.60.227:83/live/promo/promo/386044.m3u8
-#EXTINF:-1,FOOT 09: 
-http://104.218.60.227:83/live/promo/promo/386045.m3u8
-#EXTINF:-1 group-title="securepoint",FOOT 10: 
-http://104.218.60.227:83/live/promo/promo/386046.m3u8
+http://104.218.60.227:83/live/91595487/07862755/385282.m3u8
+#EXTINF:-1 group-title="securepoint",EPL 10: 
+http://104.218.60.227:83/live/91595487/07862755/385283.m3u8
 
 + + + + + sonyiptv.net:8080 + + + + + 6/12/2021
 
@@ -14370,6 +14326,12 @@ http://sonyiptv.net:8080/get.php?username=gift2021&password=54321&type=m3u Real 
 http://speccy.pw:8008/d/d/17048
 
 + + + + + srv.cybergroup.top:14170 + + + + +
+
++ + + + + starshare.live:8080 + + + + +
+
+https://media.haxed.net/get.php?username=Tay&password=Tay&type=m3u
+Real Url: starshare.live:8080     Status: Active    Created: 29/7/2020 7:23:35 AM     Expires: 1/7/2021 12:38:36 PM    Active Connections: 4     Maximum Connections: 3
+
 + + + + + streamx.link:8080 + + + + +
 
 http://streamx.link:8080/get.php?username=NvxBXobrQj&password=fRPdh3UVHc&type=m3u | 9/12/2020 < N
