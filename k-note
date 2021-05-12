@@ -131,6 +131,15 @@ https://raw.githubusercontent.com/konanda-sg/mytext/master/hsig-mm.m3u8
 #EXTINF:-1 tvg-id="HBO Signature (HD)", HBO SIGNATURE* |mm
 https://www.dropbox.com/s/dl/rm5mkuoi4bkq4m7/hsig-mm.m3u8
 
+
+#EXTINF:-1,Red By HBO HD |103
+http://103.145.252.78/red/index.m3u8
+#EXTINF:-1,CINEMAX HD |103
+http://103.145.252.78/cinemax/index.m3u8
+#EXTINF:-1,HBO HD |103
+http://103.145.252.78/hbo/index.m3u8
+
+
  EXTINF:-1 tvg-id="HBO HD" group-title="movies", HBO |CF
 https://rebrand.ly/H-bo-cf
  EXTINF:-1 tvg-id="CINEMAX (HD)", CINEMAX |CF
