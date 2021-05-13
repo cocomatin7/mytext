@@ -1838,7 +1838,7 @@ https://mptalive6-a.akamaihd.net:443/83c48cc94de947f392b2d08dc1eb694c/ap-southea
 
 + + + + + OneTV/KH + + + + + 
 
-#EXTINF:-1 group-title="OneTV",oneNEWS KH
+ group-title="OneTV",oneNEWS KH
 http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-002/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-003/playlist.m3u8
@@ -1869,19 +1869,19 @@ http://36.37.252.114:888/Apple/OneTV-026/playlist.m3u8
 soccer ru1
 http://36.37.252.114:888/Apple/OneTV-027/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-028/playlist.m3u8
-#EXTINF:-1 group-title="OneTV",cinemax |OneTV
+ group-title="OneTV",cinemax |OneTV
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
-#EXTINF:-1 group-title="OneTV",HBO |OneTV
+ group-title="OneTV",HBO |OneTV
 http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
-#EXTINF:-1 group-title="OneTV",HBO Hits |OneTV
+ group-title="OneTV",HBO Hits |OneTV
 http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
-#EXTINF:-1 group-title="OneTV",HBO Signature |OneTV
+ group-title="OneTV",HBO Signature |OneTV
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
-#EXTINF:-1 group-title="OneTV",HBO Family |OneTV
+ group-title="OneTV",HBO Family |OneTV
 http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 true sports HD2
 http://36.37.252.114:888/Apple/OneTV-034/playlist.m3u8
-#EXTINF:-1,astro SUPERSPORT |OneTV
+,astro SUPERSPORT |OneTV
 http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
 3HD
 http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
@@ -1889,17 +1889,17 @@ http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
 HiT TV
 http://36.37.252.114:888/Apple/OneTV-038/playlist.m3u8
-#EXTINF:-1,ariang |OneTV
+,ariang |OneTV
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
-#EXTINF:-1 group-title="OneTV",KBS WORLD |OneTV
+ group-title="OneTV",KBS WORLD |OneTV
 http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 CH 1
 http://36.37.252.114:888/Apple/OneTV-041/playlist.m3u8
 truesport HD3
 http://36.37.252.114:888/Apple/OneTV-042/playlist.m3u8
-#EXTINF:-1 group-title="OneTV",astro SUPERSPORT2 |OneTV
+ group-title="OneTV",astro SUPERSPORT2 |OneTV
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 group-title="OneTV",astro SUPERSPORT3 |OneTV
+ group-title="OneTV",astro SUPERSPORT3 |OneTV
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 FRANCE 24
 http://36.37.252.114:888/Apple/OneTV-045/playlist.m3u8
@@ -1920,7 +1920,7 @@ http://36.37.252.114:888/Apple/OneTV-052/playlist.m3u8
 DW
 http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-054/playlist.m3u8
-#EXTINF:-1,astro SUPERSPORT* |OneTV
+,astro SUPERSPORT* |OneTV
 http://36.37.252.114:888/Apple/OneTV-055/playlist.m3u8
 REDBULL 
 http://36.37.252.114:888/Apple/OneTV-056/playlist.m3u8
@@ -1928,9 +1928,9 @@ RT
 http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8
 truesport HD4
 http://36.37.252.114:888/Apple/OneTV-058/playlist.m3u8
-#EXTINF:-1 group-title="OneTV",FTV |OneTV
+ group-title="OneTV",FTV |OneTV
 http://36.37.252.114:888/Apple/OneTV-059/playlist.m3u8
-#EXTINF:-1,eu music |OneTV
+,eu music |OneTV
 http://36.37.252.114:888/Apple/OneTV-060/playlist.m3u8
 CCTV1
 http://36.37.252.114:888/Apple/OneTV-061/playlist.m3u8
@@ -1986,15 +1986,15 @@ http://36.37.252.114:888/Apple/OneTV-085/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-086/playlist.m3u8
 offline
 http://36.37.252.114:888/Apple/OneTV-087/playlist.m3u8
-#EXTINF:-1 group-title="OneTV",CNN
+ group-title="OneTV",CNN
 http://36.37.252.114:888/Apple/OneTV-088/playlist.m3u8
 offline
 http://36.37.252.114:888/Apple/OneTV-089/playlist.m3u8
-#EXTINF:-1,CN |OneTV
+,CN |OneTV
 http://36.37.252.114:888/Apple/OneTV-090/playlist.m3u8
 -/-/-/-offline-/-/-/-
 http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
-#EXTINF:-1 group-title="OneTV",WB TV
+ group-title="OneTV",WB TV
 http://36.37.252.114:888/Apple/OneTV-101/playlist.m3u8
 offline
 http://36.37.252.114:888/Apple/OneTV-102/playlist.m3u8
