@@ -547,7 +547,7 @@ https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513434647/1513434647_480.m
 >>> http://www.totalsportek.tv/watch/sport-tv-5/ 
 <<<<<<< HEAD:k-note
 
-#EXTINF:-1,Canal+ Sport
+#EXTINF:-1 group-title="Sport/Bamar",Canal+ Sport
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_==gUGBCdy9GcTByc1xGUgwWYuF2Q
 #EXTINF:-1,Canal+
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_==gUGByc1xGUgwWYuF2Q
@@ -571,12 +571,11 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_jl2czFGbDBSZul2Q
 #EXTINF:-1,Cine+ Premier
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SZEIEhEIyVWatVmcQBSZul2Q
-#EXTINF:-1,Cine+ Frissons
+#EXTINF:-1 group-title="Sport/Bamar",Cine+ Frissons
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SZEIu92czlmcGBSZul2Q
 
 Babestation24 xxx
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-
 
 
 #EXTINF:-1 group-title="Sport/Bamar",True Premiere Football HD1 |77
@@ -719,9 +718,6 @@ https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=useesport
 https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=useesports2
 #EXTINF:-1,Warner TV
 https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=warner
-
-
-
 
 SUPERSPORT 1 |laos-tech
 https://laos-tech-live.b-cdn.net/my-asp1hd_720/index.m3u8
@@ -889,7 +885,7 @@ http://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sport/Bamar",beIN SP 1PR
 https://streamcdn.getloconow.com/DUIAV7E2ZF_c113a376-2e87-414d-89de-da8622074455/DUIAV7E2ZF_c113a376-2e87-414d-89de-da8622074455_hi/manifest.m3u8
 
-#EXTINF:-1,DAZN 1IT
+#EXTINF:-1 group-title="Sport/Bamar",DAZN 1IT
 http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
 #EXTINF:-1,DAZN 2IT
 http://31.220.41.87:8081/live/it-dazn2.stream/chunks.m3u8
@@ -1223,29 +1219,6 @@ http://31.210.208.168:8080/vh1/tracks-v1a1/mono.m3u8
 VH1 IT
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
-http://103.105.213.251:8443/live/17c48a5e57f0ea637f07d6a5f6c81406/8.m3u8
-WB TV
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/21.m3u8
-BBC WORLD NEWS
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/40.m3u8
-Livetime
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/55.m3u8
-Blueant
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/56.m3u8
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/57.m3u8
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/58.m3u8
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/59.m3u8
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/60.m3u8
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/61.m3u8
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/62.m3u8
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/63.m3u8
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/64.m3u8
-KBS World
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/65.m3u8
-http://103.105.213.251:8443/live/0e52ebaa170912ecc549f41faf8b172e/66.m3u8
-http://79.137.41.99/DisneyChannel/index.m3u8
-
-
 #EXTINF:-1 group-title="BamarTV",AVJ
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
 
@@ -1261,19 +1234,27 @@ https://rush-redbox.amagi.tv/playlist720p.m3u8
 
 
 https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,movies central 2gb
 https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,bloomberg asia-event
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1,bloombergtv 1de
 https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-
+#EXTINF:-1,cnn international gb
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
 http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,newmovies 1
 https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
-rakuten-family
+#EXTINF:-1,actionmovies 2eu
+https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,actionmovies 3eu
+https://rakuten-actionmovies-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,rakuten family
 https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,stingray karaoke 1
 https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
 
 
 Reality Kings TV
