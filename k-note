@@ -13915,8 +13915,7 @@ https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3423.m3u8
 
 + + + + + securepoint.io:83/pie.buzz:83 + + + + + 28/5/2021 + + + + +
 
-http://securepoint.io:83/get.php?username=Peter.nyr1909&password=6547736256&type=m3u
-Real Url: pie.buzz:83     Status: Active    Created: 29/3/2018 12:09:38 PM     Expires: 28/5/2021 4:00:00 AM     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
+http://securepoint.io:83/get.php?username=Peter.nyr1909&password=6547736256&type=m3u Real Url: pie.buzz:83 Expires: 28/5/2021 Connections: 100-0 < not play
 
 http://104.218.60.227:83/get.php?username=promo&password=promo&type=m3u&output=hls Real Url: securepoint.io:83 / 104.218.60.227:83 Expires: 25/2/2022 Connections: 5-5 < DOWN
 
@@ -14002,9 +14001,9 @@ http://104.218.60.227:83/live/91595487/07862755/385868.m3u8
 #EXTINF:-1,BeinSports HD07 720p
 http://104.218.60.227:83/live/91595487/07862755/385869.m3u8
 
-#EXTINF:-1,NOW Sports 1 HD
+#EXTINF:-1,NOW Sports 1 HD'
 http://104.218.60.227:83/live/91595487/07862755/386726.m3u8
-#EXTINF:-1,NOW Sports 2 HD
+#EXTINF:-1,NOW Sports 2 HD'
 http://104.218.60.227:83/live/91595487/07862755/386727.m3u8
 #EXTINF:-1,NOW Sports 3 HD
 http://104.218.60.227:83/live/91595487/07862755/386728.m3u8
@@ -14041,24 +14040,26 @@ http://104.218.60.227:83/live/91595487/07862755/366916.m3u8
 http://104.218.60.227:83/live/91595487/07862755/366915.m3u8
 #EXTINF:-1,UK SD : Sky Sports Premier League
 http://104.218.60.227:83/live/91595487/07862755/366651.m3u8
-#EXTINF:-1,UK SD : MTV Base  
+#EXTINF:-1,UK SD : MTV Base'  
 http://104.218.60.227:83/live/91595487/07862755/20973.m3u8
-#EXTINF:-1,UK SD : MTV Classic
+#EXTINF:-1,UK SD : MTV Classic'
 http://104.218.60.227:83/live/91595487/07862755/20975.m3u8
-#EXTINF:-1,UK SD : MTV Hits
+#EXTINF:-1,UK SD : MTV Hits'
 http://104.218.60.227:83/live/91595487/07862755/20977.m3u8
-#EXTINF:-1,UK SD : Now 90s
+#EXTINF:-1,UK SD : Now 90s'
 http://104.218.60.227:83/live/91595487/07862755/381392.m3u8
 #EXTINF:-1,VIP HD NBC SPORTS NETWORK
 http://104.218.60.227:83/live/91595487/07862755/308834.m3u8
-#EXTINF:-1,Astro Super Sport 1 HD
+
+#EXTINF:-1,Astro Super Sport 1 HD'
 http://104.218.60.227:83/live/91595487/07862755/364352.m3u8
-#EXTINF:-1,Astro Super Sport 2HD
+#EXTINF:-1,Astro Super Sport 2HD'
 http://104.218.60.227:83/live/91595487/07862755/364351.m3u8
-#EXTINF:-1,Astro Super Sport 3HD
+#EXTINF:-1,Astro Super Sport 3HD'
 http://104.218.60.227:83/live/91595487/07862755/364350.m3u8
-#EXTINF:-1,Astro Super Sport 4HD
+#EXTINF:-1,Astro Super Sport 4HD'
 http://104.218.60.227:83/live/91595487/07862755/364349.m3u8
+
 #EXTINF:-1,VIP FHD : BT Sports 1 
 http://104.218.60.227:83/live/91595487/07862755/382173.m3u8
 #EXTINF:-1,VIP FHD : BT Sports 2
