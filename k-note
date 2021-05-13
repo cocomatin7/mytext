@@ -521,7 +521,7 @@ http://balancer1.ottmex.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
 http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
 #EXTINF:-1,HBO FAMILY
 http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
-#EXTINF:-1,FOX Action
+#EXTINF:-1,STAR Action
 http://balancer1.ottmex.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
 #EXTINF:-1,FOX SERIES
 http://balancer1.ottmex.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
@@ -574,34 +574,12 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 #EXTINF:-1 group-title="Sport/Bamar",Cine+ Frissons
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SZEIu92czlmcGBSZul2Q
 
+
 Babestation24 xxx
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 
 
-#EXTINF:-1 group-title="Sport/Bamar",True Premiere Football HD1 |77
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD2 |77
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |77
-http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
-
-#EXTINF:-1,beIN SPORTS 1EN
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1,beIN SPORTS 2EN
-http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-
-#EXTINF:-1,SPORTTV1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV3
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV4
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV5
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-
-#EXTINF:-1,StarSportsSelect1FHD |87
+#EXTINF:-1 group-title="Sport/Bamar",StarSportsSelect1FHD |87
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist.m3u8
 #EXTINF:-1,StarSportsSelect1FHD |87
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/chunklist.m3u8
@@ -2334,11 +2312,11 @@ http://4digital.ddns.net:9981/stream/mux/2baeef58a6f17891729d7b3b82544f1e
 http://4digital.ddns.net:9981/stream/mux/392f3b0c98a482b63991ad6bbece3201
 #EXTINF:-1, VIP2
 http://4digital.ddns.net:9981/stream/mux/7c4f1149ef1d43041266f5b13dfad63e
-#EXTINF:-1, HBO Asia
+ HBO Asia
 http://4digital.ddns.net:9981/stream/mux/a75d109849e16ded2d2509a443b43624
-#EXTINF:-1, Fox Movies IDN
+ Fox Movies IDN
 http://4digital.ddns.net:9981/stream/mux/e89f60fab7601dd45f08f7413d506471
-#EXTINF:-1, Fox Action Movies IDN
+ Fox Action Movies IDN
 http://4digital.ddns.net:9981/stream/mux/130c25bf5aadd322ea475ce251f56092
 
 #EXTINF:-1, FoxSport1 ML
@@ -2387,9 +2365,9 @@ http://4digital.ddns.net:9981/stream/service/826441591439f801faf8244e3901e68e
 http://4digital.ddns.net:9981/stream/service/cae8d79225fee492198d50159dcc6961
 #EXTINF:-1, FOX Movies'
 http://4digital.ddns.net:9981/stream/service/00827ea652a908d5566f1354421d1c79
-#EXTINF:-1, Fox Action'
+ Fox Action'
 http://4digital.ddns.net:9981/stream/service/392467d3c5d2aa7ba7cfb771098cb118
-#EXTINF:-1, Fox Action Movies IDN'
+ Fox Action Movies IDN'
 http://4digital.ddns.net:9981/stream/service/a99a12ac276f2b4c020e7a01a334231d
 #EXTINF:-1 group-title="4digit/TH", Fox Movies IDN'
 http://4digital.ddns.net:9981/stream/service/a17464769934778ef6f53db6a500fb82
@@ -2817,6 +2795,8 @@ http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
  ,SUPERSPORT 4 |50
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+
+http://50.7.222.130:8278/streams/d/Foxactionhd/playlist.m3u8
 
  ,True Premiere Football HD1 |50
 http://50.7.222.130:8278/streams/d/truepre1_pat/playlist.m3u8
@@ -3865,8 +3845,9 @@ http://73.85.95.69:9981/stream/channelid/210052098?ticket=292CCD8AFC09BA003FC436
 
 + + + + + 77.83.117.60:8888 [https://www.livedoomovie.com] + + + + +
 
-#EXTINF:-1 group-title="77.83",truesports HD 1 |77.83'
+#EXTINF:-1 group-title="77.83/TH",truesports HD 1 |77.83'
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+
 https://www.live77.83s.com/02_2sporthd2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
@@ -3876,57 +3857,56 @@ http://77.83.117.60:8888/02_7HD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_8HD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_AMARINHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_AND_TV_720p/chunklist.m3u8
-#EXTINF:-1,ANIMAL PLANET |77.83'
 http://77.83.117.60:8888/02_AnimalPlanet/chunklist.m3u8
 http://77.83.117.60:8888/02_AXNHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_Baby_TV_HD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_BBCEARTH_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_Boomerang_720p/chunklist.m3u8
+
 #EXTINF:-1,BT SPORT HD 1 |77.83'
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1,BT SPORT HD 2 |77.83'
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+
 http://77.83.117.60:8888/02_CartoonNetwork_720p/chunklist.m3u8
-,CCM |77.83'
 http://77.83.117.60:8888/02_CCM_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_CH3FAMILY_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_CH3SD_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_Channel_V_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_CNN_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_Comedy_HD_720p/chunklist.m3u8
-,Discovery Channel |77.83'
 http://77.83.117.60:8888/02_DiscoveryChannel/chunklist.m3u8
-,Discovery HD World |77.83'
 http://77.83.117.60:8888/02_DiscoveryHDWorld/chunklist.m3u8
-,Discovery Science |77.83'
 http://77.83.117.60:8888/02_DiscoveryScience/chunklist.m3u8
 http://77.83.117.60:8888/02_DisneyXD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 1", BEIN SPORT HD 1 |77.83'
+
+#EXTINF:-1 tvg-id="beIN Sports 1", beIN SPORTS 1EN |77.83'
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 http://77.83.117.60:8888/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 2", BEIN SPORT HD 2 |77.83'
+
+#EXTINF:-1 tvg-id="beIN Sports 2", beIN SPORTS 2EN |77.83'
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 http://77.83.117.60:8888/02_epl2_720p/chunklist.m3u8
+
 http://77.83.117.60:8888/02_FANMUSICHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FOX_Life_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FOX_Life_HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="Fox Action Movies HD",Fox Action Movies HD |77.83'
 http://77.83.117.60:8888/02_FoxActionHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxActionHD_TH_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxCrimeHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxCrimeHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="FOX Family Movies HD",Fox Family Movies HD MM |77.83'
 http://77.83.117.60:8888/02_FoxFamilyHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxFamilyHD_TH_720p/Chunklist.m3u8
-#EXTINF:-1 tvg-id="FOX Movies HD",Fox Movies HD MM |77.83'
 http://77.83.117.60:8888/02_FoxMoviesHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxMoviesTH_720p/chunklist.m3u8
-FOX SPORTS 2
-http://77.83.117.60:8888/02_FoxSport2_TH_720p/chunklist.m3u8
-FOX SPORTS 3
-http://77.83.117.60:8888/02_FoxSport3_TH_720p/chunklist.m3u8
-FOX SPORTS
+
+#EXTINF:-1 tvg-id="beIN Sports 1",FOX SPORTS
 http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 1",FOX SPORTS 2
+http://77.83.117.60:8888/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 1",FOX SPORTS 3
+http://77.83.117.60:8888/02_FoxSport3_TH_720p/chunklist.m3u8
+
 http://77.83.117.60:8888/02_FoxThai_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxThai_TH_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FXThailand_720p/chunklist.m3u8
@@ -3934,13 +3914,9 @@ http://77.83.117.60:8888/02_GMM_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_GMMONE_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_golfhd_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_H2HD_720p/chunklist.m3u8
-HBO Family |77.83'
 http://77.83.117.60:8888/02_HBOFamily_720p/chunklist.m3u8
-HBO |77.83'
 http://77.83.117.60:8888/02_HBOHD_720p/chunklist.m3u8
-HBO Hit |77.83'
 http://77.83.117.60:8888/02_HBOHit_720p/chunklist.m3u8
-HBO Signature |77.83'
 http://77.83.117.60:8888/02_HBOSignature_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_HISTORYHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_KIX_Thailand_720p/chunklist.m3u8
@@ -3951,11 +3927,8 @@ http://77.83.117.60:8888/02_MCOTHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_Miao_Mi_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_MONO_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_MONO_Plus_720p/chunklist.m3u8
-#EXTINF:-1,MTV Asia |77.83'
 http://77.83.117.60:8888/02_MTV_Asia_720p/Chunklist.m3u8
-#EXTINF:-1,MTV China |77.83'
 http://77.83.117.60:8888/02_MTV_China_720p/chunklist.m3u8
-#EXTINF:-1,MTV Live HD |77.83'
 http://77.83.117.60:8888/02_MTV_Live_HD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_MYSCIHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_NatGeoHD_720p/chunklist.m3u8
@@ -3969,40 +3942,46 @@ http://77.83.117.60:8888/02_NBTSD_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_NEW_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_NFLNetwork_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_NHANG_DUNK_720p/chunklist.m3u8
-,NHK WORLD TV |77.83'
 http://77.83.117.60:8888/02_NHK_WORLD_TV_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_Nick_Jr_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |77.83'
+
+#EXTINF:-1,True Premiere Football HD1 |77
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_PremierHD1_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2",True Premiere Football HD2 |77.83'
+#EXTINF:-1,True Premiere Football HD2 |77
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3",True Premiere Football HD3 |77.83'
+#EXTINF:-1,True Premiere Football HD3 |77
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere Football HD1 |77.83'
+http://77.83.117.60:8888/02_PremierHD1_480p/chunklist.m3u8
+#EXTINF:-1,True Premiere Football HD2 |77.83'
+http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8
+#EXTINF:-1,True Premiere Football HD3 |77.83'
+http://77.83.117.60:8888/02_PremierHD3_480p/chunklist.m3u8
+
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD5_720p/Chunklist.m3u8
-Red by HBO |77.83'
-http://77.83.117.60:8888/02_RedbyHBO_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_SabaideeTV_720p/chunklist.m3u8
-Star chinese Movies |77.83' /ER
-http://77.83.117.60:8888/02_SCM_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_SMM_TV_480p/chunklist.m3u8
-http://77.83.117.60:8888/02_sport2_480p/chunklist.m3u8
-http://77.83.117.60:8888/02_sport5_480p/chunklist .m3u8
-http://77.83.117.60:8888/02_sport6_480p/chunklist.m3u8
-http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8
+
 #EXTINF:-1,SPORTTV1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1,SPORTTV2
-http://77.83.117.60:8888/02_SPORTTV_2_720p /chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1,SPORTTV3
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1,SPORTTV4
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1,SPORTTV5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+
+http://77.83.117.60:8888/02_RedbyHBO_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SabaideeTV_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SCM_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SMM_TV_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_sport2_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_sport5_480p/chunklist .m3u8
+http://77.83.117.60:8888/02_sport6_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_2_720p /chunklist.m3u8
 http://77.83.117.60:8888/02_Star_Gold_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_T_Sports_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_TennisHD_720p/chunklist.m3u8
@@ -4014,8 +3993,12 @@ http://77.83.117.60:8888/02_TRUE4U_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_TrueFilmHD1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_TrueFilmHD2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_VOICE_480p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="WarnerTV HD",WarnerTV HD |77.83'
 http://77.83.117.60:8888/02_WarnerTVHD_720p/chunklist.m3u8
+
+http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8 < OFFLINE
+
 http://77.83.117.60:8888/02_Wish_Channel_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_WORKPOINT_720p/chunklist.m3u8
 ZEE Cinema |77.83' 
@@ -4037,7 +4020,7 @@ http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
 http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1,SKYNET SPORTS 6 |77.83'
 http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="77.83",SKYNET SPORTS HD |77.83'
+#EXTINF:-1 group-title="77.83/TH",SKYNET SPORTS HD |77.83'
 http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
 
 + + + + + http://82.45.49.11:9981/extjs.html + + + + + connor:str94eEt@
@@ -6172,15 +6155,12 @@ http://61.19.242.134/feed/LC1/tracks-v1a1/mono.m3u8
 
 ,CH 14 | FOX MOVIES
 http://thaicable.myftp.org:8000/live/infosat/2020/14.m3u8
-
 ,CH 15 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/15.m3u8
-
 ,CH 16 | FOX family MOVIES
 http://thaicable.myftp.org:8000/live/infosat/2020/16.m3u8
 ,CH 17 | FOXlife
 http://thaicable.myftp.org:8000/live/infosat/2020/17.m3u8
-
 ,CH 18 | WBTV
 http://thaicable.myftp.org:8000/live/infosat/2020/18.m3u8
 https://laos-tech-live.b-cdn.net/hd-warnertv_720/index.m3u8
@@ -6189,7 +6169,6 @@ http://thaicable.myftp.org:8000/live/infosat/2020/19.m3u8
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 ,CH 20 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/20.m3u8
-
 ,CH 21 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/21.m3u8
 ,CH 22 | true FILM HD2
@@ -6200,9 +6179,6 @@ http://thaicable.myftp.org:8000/live/infosat/2020/23.m3u8
 http://thaicable.myftp.org:8000/live/infosat/2020/24.m3u8
 ,CH 25 | HBO TH
 http://thaicable.myftp.org:8000/live/infosat/2020/25.m3u8
-
-https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
-
 ,CH 26 | ER
 http://thaicable.myftp.org:8000/live/infosat/2020/26.m3u8
 ,CH 27 | ER
@@ -6730,6 +6706,7 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/91
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 ,FOX ACTION
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/92
+http://185.238.0.145:1313/c/ku/foxactionmovies.m3u8
 ,FOX FAMILY
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/93
 http://185.238.0.145:1313/c/ku/man/foxfamilymovies.m3u8
@@ -6759,7 +6736,6 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/109
 https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
 ,ASSP1
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/54
-
 
 http://vp2p2s.my6868.cc/20414/index.m3u8
 ,ASSP2
@@ -7861,7 +7837,6 @@ http://160.119.77.116:8081/iptv/hd-cinemax.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-cnn.stream/playlist.m3u8
 , Discovery Asia HD ENG/MM |160
 http://160.119.77.116:8081/iptv/hd-discoveryeng.stream/playlist.m3u8
- tvg-id="Fox Action Movies HD", Fox Action Movies HD |160
  tvg-id="FOX Family Movies HD", Fox Family HD |160 *OFFLINE*
 http://160.119.77.116:8081/iptv/hd-foxfamily.stream/playlist.m3u8
  tvg-id="FOX Movies HD", Fox Movies Premium HD |160
@@ -9757,9 +9732,9 @@ https://www.livedoomovie.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
  tvg-id="FOX Family Movies HD",Fox Family Movies HD MM |doomovie'
 https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/Chunklist.m3u8
- tvg-id="FOX Movies HD",Fox Movies HD MM |doomovie'
+#EXTINF:-1 tvg-id="FOX Movies HD",Fox Movies HD |doomovie'
 https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
- tvg-id="FOX Movies HD",Fox Movies HD TH |doomovie'
+#EXTINF:-1 tvg-id="FOX Movies HD",Fox Movies HD TH |doomovie'
 https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
@@ -9771,13 +9746,9 @@ https://www.livedoomovie.com/02_GMM_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_GMMONE_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
-,HBO Family |doomovie'
 https://www.livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
-,HBO |doomovie'
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-,HBO Hit |doomovie'
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
-,HBO Signature |doomovie'
 https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_KIX_Thailand_720p/chunklist.m3u8
@@ -9850,6 +9821,7 @@ https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1,SPORTTV 5
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_Star_Gold_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
