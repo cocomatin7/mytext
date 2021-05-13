@@ -11380,9 +11380,6 @@ http://188.40.76.108:25461/get.php?username=mytv01&password=uSIRzmks51&type=m3u 
 http://207.244.239.77:25461/get.php?username=free&password=free&type=m3u
 Real Url: 207.244.239.77:25461     Status: Active    Created: 17/4/2021 3:20:54 PM     Expires: Null    Active Connections: 10     Maximum Connections: 99999
 
-#EXTINF:-1 group-title="207.244",Astro First 2021
-http://207.244.239.77:25461/live/free/free/7825.m3u8
-
 + + + + + 209.145.54.100:25461 + + + + + Null + + + + +
 
 http://209.145.54.100:25461/get.php?username=tm-114-live&password=tm4.xyz&type=m3u Expires: Null    Active Connections: 2     Maximum Connections: 3333 < N
