@@ -5485,10 +5485,7 @@ http://167.172.33.223:9981/stream/channelid/702304439
 
 + + + + + 185.180.221.194:8278/streams/d + + + + +
 
-#EXTINF:-1 group-title="185.180",Tvnmovie |185
-http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
-
-#EXTINF:-1,Assp1 |185
+#EXTINF:-1 group-title="185.180",Assp1 |185
 http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1,Assp2 |185
 http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
@@ -5503,27 +5500,30 @@ http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
 
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
+http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Discovery/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
-http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+
 #EXTINF:-1,FOX family MOVIES |185
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF:-1,FOX ACTION MOVIES |185
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:-1,FOX MOVIES |185
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
-#EXTINF:-1 group-title="185.180",Natgeowild
+#EXTINF:-1,Natgeowild
 http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 group-title="185.180",Tvnmovie |185
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 
 + + + + + http://196.53.249.42:9981/extjs.html / https://rebrand.ly/sn-hd-196 + + + + + DOWN
 
