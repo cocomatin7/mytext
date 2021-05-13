@@ -13531,11 +13531,9 @@ Real Url: rico.besttvps.com:8080     Status: Active    Created: 5/4/2021 10:02:3
 + + + + + securepoint.io:83/pie.buzz:83 + + + + + 28/5/2021 + + + + +
 
 http://securepoint.io:83/get.php?username=Peter.nyr1909&password=6547736256&type=m3u Real Url: pie.buzz:83 Expires: 28/5/2021 Connections: 100-0 < not play
-
 http://104.218.60.227:83/get.php?username=promo&password=promo&type=m3u&output=hls Real Url: securepoint.io:83 / 104.218.60.227:83 Expires: 25/2/2022 Connections: 5-5 < DOWN
 
-http://tv.rebeliptv.com:83/get.php?username=91595487&password=07862755&type=m3u
-Real Url: securepoint.io:83     Status: Active    Created: 30/12/2018 7:39:13 PM     Expires: 26/6/2021 4:44:00 AM     Maximum Connections: 2
+http://tv.rebeliptv.com:83/get.php?username=91595487&password=07862755&type=m3u Real Url: securepoint.io:83     Status: Active Expires: 26/6/2021 4:44:00 AM     Maximum Connections: 2 <<
 
 http://securepoint.io:83/get.php?username=86753099&password=86753099&type=m3u securepoint.io:83 Expires: 27/12/2021 Connections: 2-1 < DOWN
 http://tv.rebeliptv.com:83/get.php?username=82936722&password=29038858&type=m3u Real Url: securepoint.io:83 / 104.218.60.227:83 Expires: 12/5/2021 Connections: 2-1 < DOWN
@@ -13921,46 +13919,43 @@ https://www.aloka-iptv.xyz:443/get.php?username=MEGA-TV19&password=TELEGRAM&type
 
 http://xtream-ui03.feel-tv.com:25461/get.php?username=stalker&password=qmGbZacuLw&type=m3u Real Url: xtream-ui03.feel-tv.com:25461 Expires: Null    Active Connections: 216     Maximum Connections: 10000 < DOWN
 
- group-title="ytv",UK: Sky Movies Action and Adventure (call)
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/493.m3u8
-,UK: Sky Movies Crime and Thriller (call)
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/494.m3u8
-,UK: Sky Movies Drama and Romance (call)
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/495.m3u8
-,UK: Sky Movies Sci-Fi and Horror (call)
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/496.m3u8
-,UK: Sky Movies Select (call)
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/497.m3u8
-,Sky Cinema Disney HD UK
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/511.m3u8
-,UK: SKY MOVIES FAMILY
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/540.m3u8
-,USA: HBO HD
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/513.m3u8
-,USA: HBO Comedy HD
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/514.m3u8
-,UK: SKY SPORTS FOOTBALL HD
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/699.m3u8
-,UK: SKY SPORTS MAIN EVENT HD
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/700.m3u8
-,UK: SKY SPORTS MIX HD
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/701.m3u8
-,UK: SKY SPORTS PREMIER LEAGUE HD
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/702.m3u8
-,sportchannel1
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/555.m3u8
-,sport channel 1
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/695.m3u8
-,sportchannel2
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/556.m3u8
-,Sport channel 3
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/645.m3u8
-,sport channel 4
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/646.m3u8
- group-title="ytv",sport channel 5
-http://xtream-ui03.feel-tv.com:25461/live/stalker/qmGbZacuLw/641.m3u8
-
 + + + + + ytv.plus:25461-null + + + + +
+
+http://ytv.plus:25461/get.php?username=diegotv&password=1234&type=m3u Expires: Null    Active Connections: 16     Maximum Connections: 0
+
+#EXTINF:-1 group-title="ytv",SHOWTIME 2 USA
+http://ytv.plus:25461/live/diegotv/1234/380.m3u8
+#EXTINF:-1,CINEMAX EAST
+http://ytv.plus:25461/live/diegotv/1234/381.m3u8
+#EXTINF:-1,SHOWTIME WEST
+http://ytv.plus:25461/live/diegotv/1234/386.m3u8
+#EXTINF:-1,SHOWTIME EAST
+http://ytv.plus:25461/live/diegotv/1234/387.m3u8
+#EXTINF:-1,SHOWTIME SHOWCASE
+http://ytv.plus:25461/live/diegotv/1234/388.m3u8
+#EXTINF:-1,SHOWTIME NEXT
+http://ytv.plus:25461/live/diegotv/1234/389.m3u8
+#EXTINF:-1,STARZ EDGE
+http://ytv.plus:25461/live/diegotv/1234/392.m3u8
+#EXTINF:-1,STARZ EAST
+http://ytv.plus:25461/live/diegotv/1234/391.m3u8
+#EXTINF:-1,SHOWTIME XTREME
+http://ytv.plus:25461/live/diegotv/1234/390.m3u8
+#EXTINF:-1,STARZ ENCORE WESTERN
+http://ytv.plus:25461/live/diegotv/1234/397.m3u8
+#EXTINF:-1,STARZ ENCORE ACTION
+http://ytv.plus:25461/live/diegotv/1234/395.m3u8
+#EXTINF:-1,STARZ COMEDY
+http://ytv.plus:25461/live/diegotv/1234/393.m3u8
+#EXTINF:-1,STARZ CINEMA
+http://ytv.plus:25461/live/diegotv/1234/394.m3u8
+
+#EXTINF:-1,FOX Sports 1
+http://ytv.plus:25461/live/diegotv/1234/130.m3u8
+#EXTINF:-1,FOX Sports 2
+http://ytv.plus:25461/live/diegotv/1234/131.m3u8
+#EXTINF:-1,FOX Soccer Plus
+http://ytv.plus:25461/live/diegotv/1234/129.m3u8
 
 #EXTINF:-1 group-title="ytv",CNN
 http://ytv.plus:25461/diegotv/1234/80
