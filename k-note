@@ -5487,7 +5487,6 @@ http://167.172.33.223:9981/stream/channelid/702304439
 
 #EXTINF:-1 group-title="185.180",Tvnmovie |185
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 
 #EXTINF:-1,Assp1 |185
 http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
@@ -5503,6 +5502,7 @@ http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
 #EXTINF:-1,Bein2hd |185
 http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
 
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Discovery/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
