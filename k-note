@@ -2717,13 +2717,7 @@ http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
 http://50.7.161.82:8278/streams/d/Animalplanet/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Axn/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Bein1hd/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Bein2hd/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Channel5/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Channel8/playlist.m3u8
 http://50.7.161.82:8278/streams/d/ChannelU/playlist.m3u8
@@ -2741,14 +2735,11 @@ http://50.7.161.82:8278/streams/d/Hbohd/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hbohits/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hbosignature/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hits/playlist.m3u8
-http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Natgeo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Tvnmovie/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Warna/playlist.m3u8
 http://50.7.161.82:8278/streams/d/truepre1_pat/playlist.m3u8
@@ -2756,10 +2747,6 @@ http://50.7.161.82:8278/streams/d/truepre2_pat/playlist.m3u8
 http://50.7.161.82:8278/streams/d/truepre3_pat/playlist.m3u8
 http://50.7.161.82:8278/streams/d/truepre4_pat/playlist.m3u8
 http://50.7.161.82:8278/streams/d/truepre5_pat/playlist.m3u8
-http://50.7.161.82:8278/supersports/playlist.m3u8
-http://50.7.161.82:8278/supersports2/playlist.m3u8
-http://50.7.161.82:8278/supersports3/playlist.m3u8
-http://50.7.161.82:8278/supersports4/playlist.m3u8
 
 + + + + + 50.7.222.130:8278/streams/d + + + + + offline + + + + +
 
@@ -5567,21 +5554,6 @@ http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
 #EXTINF:-1,Bein2hd |185
 http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
 
-http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
-http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Discovery/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-
 #EXTINF:-1,FOX family MOVIES |185
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF:-1,FOX ACTION MOVIES |185
@@ -5593,15 +5565,82 @@ http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 group-title="185.180",Tvnmovie |185
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 
+http://185.180.221.194:8278/streams/d/Animalplanet/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
+http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Cinemax/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Discovery/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hbofamily/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hbohd/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
+http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+http://185.180.221.194:8278/streams/d/truepre1_pat/playlist.m3u8
+http://185.180.221.194:8278/streams/d/truepre2_pat/playlist.m3u8
+http://185.180.221.194:8278/streams/d/truepre3_pat/playlist.m3u8
+http://185.180.221.194:8278/streams/d/truepre4_pat/playlist.m3u8
+http://185.180.221.194:8278/streams/d/truepre5_pat/playlist.m3u8
+
 + + + + + http://196.53.249.42:9981/extjs.html / https://rebrand.ly/sn-hd-196 + + + + + DOWN
 
 + + + + + 198.16.106.58:8278/streams/d + + + + + offline + + + + +
 
+http://198.16.106.58:8278/streams/d/Animalplanet/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Arena/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
-
+http://198.16.106.58:8278/streams/d/Axn/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Bein1hd/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Bein2hd/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Channel5/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Channel8/playlist.m3u8
+http://198.16.106.58:8278/streams/d/ChannelU/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Cinemax/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Discovery/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Foxactionhd/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Foxfamily/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Foxmovie/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Foxsports/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Foxsports3/playlist.m3u8
+http://198.16.106.58:8278/streams/d/HGTV/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Hbo/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Hbofamily/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Hbohd/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Hbohits/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Hbosignature/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Hits/playlist.m3u8
+http://198.16.106.58:8278/streams/d/KBS/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Natgeo/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Natgeowild/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Prima/playlist.m3u8
+http://198.16.106.58:8278/streams/d/TV1/playlist.m3u8
+http://198.16.106.58:8278/streams/d/TV2/playlist.m3u8
+http://198.16.106.58:8278/streams/d/TV3/playlist.m3u8
+http://198.16.106.58:8278/streams/d/TVN/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Tvnmovie/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Warna/playlist.m3u8
+http://198.16.106.58:8278/streams/d/truepre1_pat/playlist.m3u8
+http://198.16.106.58:8278/streams/d/truepre2_pat/playlist.m3u8
+http://198.16.106.58:8278/streams/d/truepre3_pat/playlist.m3u8
+http://198.16.106.58:8278/streams/d/truepre4_pat/playlist.m3u8
+http://198.16.106.58:8278/streams/d/truepre5_pat/playlist.m3u8
 http://198.16.106.58:8278/supersports/playlist.m3u8
 http://198.16.106.58:8278/supersports2/playlist.m3u8
 http://198.16.106.58:8278/supersports3/playlist.m3u8
