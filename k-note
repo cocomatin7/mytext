@@ -3897,7 +3897,9 @@ http://77.83.117.60:8888/02_FoxCrimeHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxCrimeHD_TH_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxFamilyHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxFamilyHD_TH_720p/Chunklist.m3u8
+#EXTINF:-1,Fox Movies HD
 http://77.83.117.60:8888/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1,Fox Movies TH
 http://77.83.117.60:8888/02_FoxMoviesTH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="beIN Sports 1",FOX SPORTS
@@ -4001,11 +4003,8 @@ http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8 < OFFLINE
 
 http://77.83.117.60:8888/02_Wish_Channel_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_WORKPOINT_720p/chunklist.m3u8
-ZEE Cinema |77.83' 
 http://77.83.117.60:8888/02_Zee_Cinema_720p/chunklist.m3u8
-Zee Nung |77.83'
 http://77.83.117.60:8888/02_Zee_Nung_720p/chunklist.m3u8
-ZEE TV |77.83'
 http://77.83.117.60:8888/02_Zee_TV_720p/chunklist.m3u8
 http://77.83.117.60:8888/sumrujlok_goodtv/chunklist.m3u8
 #EXTINF:-1,SKYNET SPORTS 1 |77.83'
