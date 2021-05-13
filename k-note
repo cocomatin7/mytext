@@ -11651,8 +11651,7 @@ http://b1g.me:80/get.php?username=devin&password=devin&type=m3u Expires: Null Co
 
 + + + + + www.bestsat.space:80 + + + + +
 
-http://www.bestsat.space:80/get.php?username=mario201709&password=H9afPJjWHQ&type=m3u
-Real Url: www.bestsat.space:80     Status: Active    Created: 21/4/2020 5:51:04 PM     Expires: Null    Active Connections: 144     Maximum Connections: 300
+http://www.bestsat.space:80/get.php?username=mario201709&password=H9afPJjWHQ&type=m3u Expires: Null    Active Connections: 144     Maximum Connections: 300 << 
 
 #EXTINF:-1 group-title="bestsat",AR: beIN Sports  10 FHD
 http://www.bestsat.space:80/live/mario201709/H9afPJjWHQ/181.m3u8
@@ -13523,58 +13522,7 @@ http://194.190.78.91:8080/shelksd/index.m3u8
 + + + + + rico.besttvps.com:8080 + + + + +
 
 https://rico.besttvps.com:443/get.php?username=Ricotvv&password=Ricotvv&type=m3u
-Real Url: rico.besttvps.com:8080     Status: Active    Created: 5/4/2021 10:02:35 PM     Expires: Null    Active Connections: 67     Maximum Connections: 30000
-
-#EXTINF:-1 group-title="rico",BEIN SPORT 1 HD PREMIUM
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3350.m3u8
-#EXTINF:-1,BEIN SPORT 2 HD PREMIUM
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3351.m3u8
-#EXTINF:-1,BEIN SPORT 3 HD PREMIUM
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3352.m3u8
-#EXTINF:-1,bein sport 1 sd primum
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3123.m3u8
-#EXTINF:-1,bein sport 2 sd
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3124.m3u8
-#EXTINF:-1,bein sport 3 sd primum
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3125.m3u8
-#EXTINF:-1,bein sport 1 fr 
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3136.m3u8
-#EXTINF:-1,bein sport 2 fr
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3137.m3u8
-#EXTINF:-1,bein sport 3 fr 
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3138.m3u8
-#EXTINF:-1,BEIN SPORT 1 HD
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3353.m3u8
-#EXTINF:-1,BEIN SPORT HD 2
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3404.m3u8
-#EXTINF:-1,BEIN SPORT 3 HD
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3355.m3u8
-#EXTINF:-1,BEIN SPORT 4 HD
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3356.m3u8
-#EXTINF:-1,BEIN SPORT 5 HD
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3357.m3u8
-#EXTINF:-1,BEIN SPORT 6 HD
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3405.m3u8
-#EXTINF:-1,BEIN SPORT 7 HD
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3359.m3u8
-#EXTINF:-1,BEIN EXTRA
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3360.m3u8
-#EXTINF:-1,NBCSN
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3188.m3u8
-#EXTINF:-1,Tom and Jerry tv
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3487.m3u8
-#EXTINF:-1,Spingbob tv
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3515.m3u8
-#EXTINF:-1,RMC 1
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3112.m3u8
-#EXTINF:-1,RMC 2
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3456.m3u8
-#EXTINF:-1,RMC 3
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3457.m3u8
-#EXTINF:-1,DAZIN 1
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3422.m3u8
-#EXTINF:-1 group-title="rico",DAZIN 2
-https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3423.m3u8
+Real Url: rico.besttvps.com:8080     Status: Active    Created: 5/4/2021 10:02:35 PM     Expires: Null    Active Connections: 67     Maximum Connections: 30000 < DOWN
 
 + + + + + starshare.live:8080 [MY+MM] + + + + +
 
