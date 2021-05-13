@@ -1512,7 +1512,7 @@ https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/
 
 + + + + + cdn-globalnet + + + + +
 
- tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/MITV_Myanmar.png/revision/latest?cb=20191211065310" group-title="cdn", mitv /cdn
+ group-title="cdn", mitv /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(3794b443-0bab-4f1c-bea5-3bdf37cf588a)/manifest.mpd
  group-title="cdn", MRTV Ent /cdn
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(e02c93f2-33d9-458b-bf23-a2717b5f59a8)/manifest.mpd
@@ -1526,32 +1526,32 @@ https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(fca755f5-5090-4
 
 + + + + + cookie + + + + +
 
-#EXTINF:-1 tvg-logo="https://rebrand.ly/5p-png" group-title="cookie", 5 Plus |cookie 
+ tvg-logo="https://rebrand.ly/5p-png" group-title="cookie", 5 Plus |cookie 
 https://rebrand.ly/ck-5p
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/gidlean/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://rebrand.ly/cc-png", Asia Drama |cookie
+ tvg-logo="https://rebrand.ly/cc-png", Asia Drama |cookie
 https://rebrand.ly/ck-ad-1
-#EXTINF:-1 tvg-logo="https://rebrand.ly/cc-png", Asia Drama* |cookie
+ tvg-logo="https://rebrand.ly/cc-png", Asia Drama* |cookie
 https://rebrand.ly/ck-ad-2
 
-#EXTINF:-1 tvg-logo="https://rebrand.ly/cc-png", Cookie Asia |cookie
+ tvg-logo="https://rebrand.ly/cc-png", Cookie Asia |cookie
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/CN.png" group-title="cookie", Cartoon Network |cookie 
+ tvg-logo="https://www.skynetdth.com/images/channal_logo/CN.png" group-title="cookie", Cartoon Network |cookie 
 http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-playlist.m3u8
 http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/progress-chunklist.m3u8
 http://live11.cookietv.com/live/f7c615e1-0c83-46c7-9360-e98cb07a7165/prod/gidlean/playlist.m3u8
  tvg-logo="https://www.skynetdth.com/images/channal_logo/CN.png" group-title="cookie", Cartoon Network |aovivotv 
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/cartoonnetwork_511a418e_96554db03e60909b1d6c7ffc422523415b43dd35/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png", Channel7 |cookie
+ tvg-logo="http://static.pyoneplay.com/static/channel/ch_logo_1578478202.png", Channel7 |cookie
 https://rebrand.ly/ck-c7
-#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/channelk.jpg" group-title="cookie",Channel K |cookie
+ tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/channelk.jpg" group-title="cookie",Channel K |cookie
 https://rebrand.ly/ck-cK-1
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K' |cookie
+ tvg-logo="https://i.ytimg.com/vi/P_pJsSxRNOE/maxresdefault.jpg",Channel K' |cookie
 https://rebrand.ly/ck-cK-2
 https://d3cs5y5559s57s.cloudfront.net/live/channelk-15234.ts
 https://d3cs5y5559s57s.cloudfront.net/live/channelk-15234.m3u8
@@ -1563,7 +1563,7 @@ https://rebrand.ly/ck-cm-1
 #EXTINF:-1 tvg-id="CINEMAX (HD)" group-title="cookie",Cinemax* |cookie
 https://rebrand.ly/ck-cm-2
 
-#EXTINF:-1 tvg-logo="https://rebrand.ly/cc-png" group-title="cookie", Cookie return |cookie
+ tvg-logo="https://rebrand.ly/cc-png" group-title="cookie", Cookie return |cookie
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
 
 DVB |cookie
@@ -1571,19 +1571,19 @@ https://d39q34kqnktegw.cloudfront.net/live/f242a165-5f61-42d5-bfb7-3e1b21c6a3b1/
 https://d39q34kqnktegw.cloudfront.net/live/f242a165-5f61-42d5-bfb7-3e1b21c6a3b1/prod/gidlean/playlist.m3u8
 https://d39q34kqnktegw.cloudfront.net/live/f242a165-5f61-42d5-bfb7-3e1b21c6a3b1/prod/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qwmJBt1/Fortune-TV-1.png" group-title="cookie", Fortune TV |cookie
+ tvg-logo="https://i.postimg.cc/6qwmJBt1/Fortune-TV-1.png" group-title="cookie", Fortune TV |cookie
 https://rebrand.ly/ck-ft-1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qwmJBt1/Fortune-TV-1.png" group-title="cookie", Fortune TV* |cookie
+ tvg-logo="https://i.postimg.cc/6qwmJBt1/Fortune-TV-1.png" group-title="cookie", Fortune TV* |cookie
 https://rebrand.ly/ck-ft-2
 http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/gidlean/playlist.m3u8
 http://yangon1.akamaized.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8
 http://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Fox-sports-1.jpg" group-title="cookie", FOX SPORTS |cookie
+ tvg-logo="https://www.skynetdth.com/images/channal_logo/Fox-sports-1.jpg" group-title="cookie", FOX SPORTS |cookie
 https://d15yubay3yee43.cloudfront.net/live/f512c3ad-f27d-4177-b570-21dbf2a22522/prod/gidlean/progress-playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Fox-sports-2.jpg" group-title="cookie", FOX SPORTS 2 |cookie
+ tvg-logo="https://www.skynetdth.com/images/channal_logo/Fox-sports-2.jpg" group-title="cookie", FOX SPORTS 2 |cookie
 https://d15yubay3yee43.cloudfront.net/live/1a662db1-8f85-4d97-853a-ca6a4124e69a/prod/gidlean/progress-playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/Fox-Sports-3.jpg" group-title="cookie", FOX SPORTS 3 |cookie
+ tvg-logo="https://www.skynetdth.com/images/channal_logo/Fox-Sports-3.jpg" group-title="cookie", FOX SPORTS 3 |cookie
 https://d15yubay3yee43.cloudfront.net/live/586b07c2-9541-4d8d-ba07-d1e0ee4ca93c/prod/gidlean/progress-playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO HD", HBO |cookie
@@ -1591,21 +1591,21 @@ https://rebrand.ly/ck-hb-1
 #EXTINF:-1 tvg-id="HBO HD", HBO* |cookie
 https://rebrand.ly/ck-hb-2
 
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mn.png", mntv |cookie
+ tvg-logo="https://www.skynetdth.com/images/channal_logo/mn.png", mntv |cookie
 https://d39q34kqnktegw.cloudfront.net/live/a069af10-b125-44fe-ad16-cc418b75eda0/prod/gidlean/progress-playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/mn.png", mntv* |cookie
+ tvg-logo="https://www.skynetdth.com/images/channal_logo/mn.png", mntv* |cookie
 https://d39q34kqnktegw.cloudfront.net/live/a069af10-b125-44fe-ad16-cc418b75eda0/prod/gidlean/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MRTV_new_logo.png/225px-MRTV_new_logo.png" group-title="cookie", MRTV |cookie
+ tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MRTV_new_logo.png/225px-MRTV_new_logo.png" group-title="cookie", MRTV |cookie
 https://rebrand.ly/ck-mr-1
 http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/gidlean/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MRTV_new_logo.png/225px-MRTV_new_logo.png" group-title="cookie", MRTV* |cookie
+ tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/MRTV_new_logo.png/225px-MRTV_new_logo.png" group-title="cookie", MRTV* |cookie
 https://rebrand.ly/ck-mr-2
 http://yangon1.akamaized.net/live/cae23a30-3ed7-48e6-9778-544f20274955/prod/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/MRTV-E.png" group-title="cookie", me |cookie
+ tvg-logo="https://www.skynetdth.com/images/MRTV-E.png" group-title="cookie", me |cookie
 https://d39q34kqnktegw.cloudfront.net/live/37200273-aa1b-42a3-90c9-2c33906df915/prod/gidlean/progress-playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/MRTV-E.png" group-title="cookie", me* |cookie
+ tvg-logo="https://www.skynetdth.com/images/MRTV-E.png" group-title="cookie", me* |cookie
 https://d39q34kqnktegw.cloudfront.net/live/37200273-aa1b-42a3-90c9-2c33906df915/prod/gidlean/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/LIVE-HD-COLOR.png" group-title="cookie", MTV Live |cookie
