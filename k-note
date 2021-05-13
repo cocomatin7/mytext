@@ -2606,6 +2606,15 @@ http://4digital.ddns.net:9981/stream/channelid/2097246791?ticket=4068219972CE699
 
 + + + + + 50.7/TH + + + + +
 
+#EXTINF:-1 group-title="50.7/TH",Astro SuperSport 1 |50.7
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1,Astro SuperSport 2 |50.7
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1,Astro SuperSport 3 |50.7
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 group-title="50.7/TH",Astro SuperSport 4 |50.7
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+
  group-title="50.7/TH",BEIN 1 HD [TRUEVIS]
 http://50.7.161.82:8278/bcoinone/playlist.m3u8?tid=13359783&tsum=6e81f685ac8b6b13e5e5ad9ff14285f9
 ,BEIN 2 HD [TRUEVIS]
@@ -2764,32 +2773,8 @@ http://50.7.161.82:8278/Wlt/playlist.m3u8?tid=m02000000000016043749
 ,Antv
 http://50.7.161.82:8278/Antv/playlist.m3u8?tid=13104999
 
-+ + + + + 50.7.222.130:8278/streams/d + + + + +
-
- ,SUPERSPORT 1 |50
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
- ,SUPERSPORT 2 |50
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
- ,SUPERSPORT 3 |50
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
- ,SUPERSPORT 4 |50
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-
- ,True Premiere Football HD1 |50
-http://50.7.222.130:8278/streams/d/truepre1_pat/playlist.m3u8
- ,True Premiere Football HD2 |50
-http://50.7.222.130:8278/streams/d/truepre2_pat/playlist.m3u8
- ,True Premiere Football HD3 |50
-http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
- ,True Premiere Football HD4 |50
-http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
-
 ,Arena HD
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-,TV1 HD
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1,TVN HD
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
 ,Prima HD
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
@@ -2816,6 +2801,31 @@ http://50.7.161.82:8278/streams/d/Animalplanet/playlist.m3u8
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 ,KBS HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+
+,TV1 HD
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 group-title="50.7/TH",TVN HD
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+
++ + + + + 50.7.222.130:8278/streams/d + + + + +
+
+ ,SUPERSPORT 1 |50
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+ ,SUPERSPORT 2 |50
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+ ,SUPERSPORT 3 |50
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+ ,SUPERSPORT 4 |50
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+
+ ,True Premiere Football HD1 |50
+http://50.7.222.130:8278/streams/d/truepre1_pat/playlist.m3u8
+ ,True Premiere Football HD2 |50
+http://50.7.222.130:8278/streams/d/truepre2_pat/playlist.m3u8
+ ,True Premiere Football HD3 |50
+http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
+ ,True Premiere Football HD4 |50
+http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
 
 + + + + + http://62.249.165.216:9981/extjs.html + + + + + kas:lkab91gtt (91gtt) / tvh:tvh / bruker:bruker / Fjellet:Fjellet / user:user / 
 
