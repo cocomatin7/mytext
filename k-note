@@ -5568,25 +5568,21 @@ http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
 
 http://185.180.221.194:8278/streams/d/Discovery/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
-
 http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
 http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
-
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-#EXTINF:-1,Foxfamily |185
+#EXTINF:-1,FOX family MOVIES |185
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:-1,Foxactionhd |185
+#EXTINF:-1,FOX ACTION MOVIES |185
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1,Foxmovie |185
+#EXTINF:-1,FOX MOVIES |185
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 #EXTINF:-1 group-title="185.180",Natgeowild
