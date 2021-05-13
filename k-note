@@ -12272,6 +12272,11 @@ http://gooserace.xyz:2052/live/vander/vander/2599179.m3u8
 #EXTINF:-1 group-title="gooserace",Bein sports 1
 http://gooserace.xyz:2052/live/vander/vander/2599178.m3u8
 
++ + + + + hidraplay.tv:80 + + + + + Null
+
+http://hidraplay.tv:80/get.php?username=ekumkwis&password=O9a0p1r1lB&type=m3u
+Real Url: hidraplay.tv:80     Status: Active    Created: 9/5/2021 1:10:39 AM     Expires: Null    Active Connections: 2     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
+
 + + + + + ip.newboss.site:80 + + + + + Null + UK: SUPERSPORT + DSTV AFRICA| SuperSport 1 + + +
 
 http://ip.bosszx.net:80/get.php?username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&type=m3u Real Url: ip.newboss.site:80 Expires: Null Connections: 200-125
@@ -13062,6 +13067,7 @@ http://pulselive.uk:8080/tracey/tracey < 26/12/21
 http://pulselive.uk:8080/freddie123/freddie123 < 26/09/21
 http://pulselive.uk:8080/Gerry/123456 < 28/03/2022
 http://31.42.187.248:8080/get.php?username=24&password=24&type=m3u < pulselive.uk:808 < 20/2/2023 < 4-1
+http://31.42.187.248:8080/get.php?username=26&password=26&type=m3u Real Url: pulselive.uk:8080 Expires: 22/2/2023 Connections: 4-3
 http://185.66.90.173:8080/25/25
 
 
