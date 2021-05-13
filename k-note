@@ -2709,39 +2709,107 @@ http://50.7.161.82:8278/streams/d/Bein1hd/playlist.m3u8
 #EXTINF:-1,beIN Sports 2 |50.7
 http://50.7.161.82:8278/streams/d/Bein2hd/playlist.m3u8
 
-http://50.7.161.82:8278/streams/d/Animalplanet/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Cinemax/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Foxfamily/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Hbofamily/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Hbohd/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Hbohits/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-
 #EXTINF:-1,KBS WORLD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 group-title="50.7/TH",TVN HD
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
+http://50.7.161.82:8278/streams/d/Animalplanet/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Axn/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Bein1hd/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Bein2hd/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Channel5/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Channel8/playlist.m3u8
+http://50.7.161.82:8278/streams/d/ChannelU/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Cinemax/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Discovery/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Foxfamily/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Foxsports/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Foxsports3/playlist.m3u8
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Hbofamily/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Hbohd/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Hbohits/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Hbosignature/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Hits/playlist.m3u8
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Natgeo/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Tvnmovie/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Warna/playlist.m3u8
+http://50.7.161.82:8278/streams/d/truepre1_pat/playlist.m3u8
+http://50.7.161.82:8278/streams/d/truepre2_pat/playlist.m3u8
+http://50.7.161.82:8278/streams/d/truepre3_pat/playlist.m3u8
+http://50.7.161.82:8278/streams/d/truepre4_pat/playlist.m3u8
+http://50.7.161.82:8278/streams/d/truepre5_pat/playlist.m3u8
+http://50.7.161.82:8278/supersports/playlist.m3u8
+http://50.7.161.82:8278/supersports2/playlist.m3u8
+http://50.7.161.82:8278/supersports3/playlist.m3u8
+http://50.7.161.82:8278/supersports4/playlist.m3u8
+
 + + + + + 50.7.222.130:8278/streams/d + + + + + offline + + + + +
+
+http://50.7.222.130:8278/streams/d/Animalplanet/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Arena/playlist.m3u8
 
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
+http://50.7.222.130:8278/streams/d/Axn/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Bein1hd/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Bein2hd/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Channel5/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Channel8/playlist.m3u8
+http://50.7.222.130:8278/streams/d/ChannelU/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Cinemax/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Discovery/playlist.m3u8
 http://50.7.222.130:8278/streams/d/Foxactionhd/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Foxfamily/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Foxmovie/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Foxsports/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Foxsports3/playlist.m3u8
+http://50.7.222.130:8278/streams/d/HGTV/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Hbo/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Hbofamily/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Hbohd/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Hbohits/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Hbosignature/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Hits/playlist.m3u8
+http://50.7.222.130:8278/streams/d/KBS/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Natgeo/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Natgeowild/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Prima/playlist.m3u8
+http://50.7.222.130:8278/streams/d/TV1/playlist.m3u8
+http://50.7.222.130:8278/streams/d/TV2/playlist.m3u8
+http://50.7.222.130:8278/streams/d/TV3/playlist.m3u8
+http://50.7.222.130:8278/streams/d/TVN/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Tvnmovie/playlist.m3u8
+http://50.7.222.130:8278/streams/d/Warna/playlist.m3u8
 http://50.7.222.130:8278/streams/d/truepre1_pat/playlist.m3u8
 http://50.7.222.130:8278/streams/d/truepre2_pat/playlist.m3u8
 http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
-http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
+http://50.7.222.130:8278/streams/d/truepre4_pat/playlist.m3u8
+http://50.7.222.130:8278/streams/d/truepre5_pat/playlist.m3u8
+http://50.7.222.130:8278/supersports/playlist.m3u8
+http://50.7.222.130:8278/supersports2/playlist.m3u8
+http://50.7.222.130:8278/supersports3/playlist.m3u8
+http://50.7.222.130:8278/supersports4/playlist.m3u8
 
 + + + + + http://62.249.165.216:9981/extjs.html + + + + + kas:lkab91gtt (91gtt) / tvh:tvh / bruker:bruker / Fjellet:Fjellet / user:user / 
 
@@ -5527,15 +5595,11 @@ http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 
 + + + + + http://196.53.249.42:9981/extjs.html / https://rebrand.ly/sn-hd-196 + + + + + DOWN
 
-+ + + + + 198.16.106.58:8278/streams/d + + + + +
++ + + + + 198.16.106.58:8278/streams/d + + + + + offline + + + + +
 
- ASSP 1 |198
 http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
- ASSP 2 |198
 http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
- ASSP 3 |198
 http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
- ASSP 4 |198
 http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
 
 http://198.16.106.58:8278/supersports/playlist.m3u8
@@ -6556,14 +6620,14 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/64
 http://ip2121.com:8081/at1/ENG2/playlist.m3u8
 ,PREMIER 3 |hit
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/65
-http://50.7.222.130:8278/streams/d/truepre3_pat/playlist.m3u8
+
 ,PREMIER 4 |hit
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/66
 https://app.mb13.men/c/livedo/truepremierfootball4-hd.m3u8
 http://ip2121.com:8081/at1/ENG4/playlist.m3u8
 ,PREMIER 5 |hit
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/67
-http://50.7.222.130:8278/streams/d/truepre5_pat/playlist.m3u8
+
 http://ip2121.com:8081/at1/ENG5/playlist.m3u8
 
  tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1",True Premiere Football HD1 |bsb
