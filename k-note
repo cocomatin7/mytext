@@ -12176,6 +12176,7 @@ http://goiptv.co:8080/get.php?username=avatar&password=fVkKAhhBlr&type=m3u Expir
 
 + + + + + gooserace.xyz:2052 + + + + + 2/9/2021
 
+http://gooserace.xyz:2052/get.php?username=donna&password=donna123&type=m3u 2/1/2022 Connections: 4-3
 http://gooserace.xyz:2052/get.php?username=armando&password=armando&type=m3u Expires: 12/2/2022 Connections: 4-2 
 http://gooserace.xyz:2052/get.php?username=vonnie&password=vonnie&type=m3u Expires: 8/10/2021 Connections: 4-0 
 http://gooserace.xyz:2052/get.php?username=vander&password=vander&type=m3u Expires: 2/9/2021 Connections: 4-1 << 
@@ -12183,10 +12184,12 @@ http://gooserace.xyz:2052/get.php?username=thomas&password=thomas123&type=m3u Ex
 http://gooserace.xyz:2052/get.php?username=michelle123&password=michelle123&type=m3u Expires: 1/6/2021 Connections: 2-2 
 
 #EXTINF:-1 group-title="gooserace",DSTV: SuperSport Grandstand
-http://gooserace.xyz:2052/live/vander/vander/2107266.m3u8
+http://gooserace.xyz:2052/live/armando/armando/2107266.m3u8
 #EXTINF:-1,DSTV: SuperSport PSL
 http://gooserace.xyz:2052/live/vander/vander/2107267.m3u8
 #EXTINF:-1,DSTV: SuperSport Premier League
+http://gooserace.xyz:2052/live/armando/armando/2107268.m3u8
+#EXTINF:-1,DSTV: SuperSport Premier League'
 http://gooserace.xyz:2052/live/vander/vander/2107268.m3u8
 #EXTINF:-1,DSTV: SuperSport 4
 http://gooserace.xyz:2052/live/vander/vander/2107269.m3u8
@@ -12222,6 +12225,8 @@ http://gooserace.xyz:2052/live/vander/vander/2107283.m3u8
 http://gooserace.xyz:2052/live/vander/vander/2107284.m3u8
 
 #EXTINF:-1,USA: MTV Classic
+http://gooserace.xyz:2052/live/armando/armando/1524398.m3u8
+#EXTINF:-1,USA: MTV Classic'
 http://gooserace.xyz:2052/live/vander/vander/1524398.m3u8
 #EXTINF:-1,MTV Base
 http://gooserace.xyz:2052/live/vander/vander/2484986.m3u8
@@ -12260,20 +12265,21 @@ Real Url: hidraplay.tv:80     Status: Active    Created: 9/5/2021 1:10:39 AM    
 
 + + + + + ip.newboss.site:80 + + + + + Null + UK: SUPERSPORT + DSTV AFRICA| SuperSport 1 + + +
 
-http://ip.bosszx.net:80/get.php?username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&type=m3u Real Url: ip.newboss.site:80 Expires: Null Connections: 200-125
+http://ip.newboss.site:80/get.php?username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&type=m3u Real Url: ip.newboss.site:80 Expires: Null Connections: 200-125
+http://ip.bosszx.net:80/get.php?username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&type=m3u Real Url: ip.newboss.site:80     Status: Active    Created: 25/4/2019 2:30:18 AM     Expires: Null    Active Connections: 140     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
 
 http://ip.trboss.net/get.php?username=dindin&password=sdfsjfujskrez&type=m3u
 Real Url: ip.newboss.site:80     Status: Active    Created: 24/1/2021 12:42:20 PM     Expires: Null    Active Connections: 61     Maximum Connections: 60-61
 
 http://test.satlok.club/get.php?username=Amigo&password=do92Rd6x8yr3&type=m3u Real Url: ip.newboss.site:80 Expires: Null Connections: 200-200 < DOWN
 
-#EXTINF:-1 group-title="ip.newboss",|DSTV AFRICA|  SuperSport 1
+#EXTINF:-1 group-title="ip.newboss",|DSTV AFRICA|  S Variety 4
 http://ip.bosszx.net:80/live/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/55828.m3u8
-#EXTINF:-1,|DSTV AFRICA|  SuperSport 2
+#EXTINF:-1,|DSTV AFRICA|  S Variety 4'
 http://ip.bosszx.net:80/live/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/55829.m3u8
-#EXTINF:-1,|DSTV AFRICA| SuperSport 3
+#EXTINF:-1,|DSTV AFRICA| S Cricket
 http://ip.bosszx.net:80/live/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/55830.m3u8
-#EXTINF:-1,|DSTV AFRICA| SuperSport 4
+#EXTINF:-1,|DSTV AFRICA| S Cricket'
 http://ip.bosszx.net:80/live/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/55831.m3u8
 #EXTINF:-1,|DSTV AFRICA| SuperSport 5
 http://ip.bosszx.net:80/live/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/55832.m3u8
@@ -12287,7 +12293,7 @@ http://ip.bosszx.net:80/live/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/55835.m3u8
 http://ip.bosszx.net:80/live/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/55836.m3u8
 #EXTINF:-1,|DSTV AFRICA| SuperSport 10
 http://ip.bosszx.net:80/live/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/55837.m3u8
-#EXTINF:-1,|DSTV AFRICA| SuperSport 11
+#EXTINF:-1,|DSTV AFRICA| S Grandstand
 http://ip.bosszx.net:80/live/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/55838.m3u8
 #EXTINF:-1,|DSTV AFRICA| SuperSport 12
 http://ip.bosszx.net:80/live/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/55839.m3u8
