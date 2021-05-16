@@ -11558,6 +11558,82 @@ http://209.222.101.100:25461/live/tv/tv/22196.m3u8
  group-title="209.222",USA Latin BEIN Sports Latin
 http://209.222.101.100:25461/live/tv/tv/22197.m3u8
 
++ + + + + 8018.mine.nu:9900 + + + + +
+
+http://8018.mine.nu:9900/get.php?username=mytvonline&password=pa3w0qg0do&type=m3u
+Real Url: 8018.mine.nu:9900     Status: Active    Created: 20/11/2019 4:17:45 PM     Expires: Null    Active Connections: 369     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="8018",[PO] Fox Movies 
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/16403.m3u8
+#EXTINF:-1,[Platinium] Fox Action Movies
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/16566.m3u8
+#EXTINF:-1,[Platinium] Fox Family Movies
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/16564.m3u8
+#EXTINF:-1,[PO] Eleven Sports 1 HD
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/18144.m3u8
+#EXTINF:-1,[PO] Eleven Sports 2 HD
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/18145.m3u8
+#EXTINF:-1,[PO] Eleven Sports 3
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/18146.m3u8
+#EXTINF:-1,[PO] Eleven Sports 4
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/18147.m3u8
+#EXTINF:-1,[PO] Eleven Sports 5
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/18148.m3u8
+#EXTINF:-1,[PO] Eleven Sports 6
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/18149.m3u8
+#EXTINF:-1,[FR] RMC.Sport1
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/3739.m3u8
+#EXTINF:-1,[FR] RMC.Sport2
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/3738.m3u8
+#EXTINF:-1,[FR] RMC.Sport3
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/3737.m3u8
+#EXTINF:-1,[FR] RMC.Sport4
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/3736.m3u8
+#EXTINF:-1,[PO] Sport Tv 1
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/16432.m3u8
+#EXTINF:-1,[PO] Sport Tv 2
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/16433.m3u8
+#EXTINF:-1,[PO] Sport Tv 3
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/16434.m3u8
+#EXTINF:-1,[PO] Sport TV 4
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/16435.m3u8
+#EXTINF:-1,[PO] Sport TV 5
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/16436.m3u8
+#EXTINF:-1,[PO] Sport TV plus
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/16437.m3u8
+#EXTINF:-1,[FR] beinsport1
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/3735.m3u8
+#EXTINF:-1,[FR] beinsports2
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/3734.m3u8
+#EXTINF:-1,[FR] beinsports3
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/3733.m3u8
+#EXTINF:-1,[FR] beinsports4
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/3732.m3u8
+#EXTINF:-1,[FR] beinsports5
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/3731.m3u8
+#EXTINF:-1,[FR] beinsports6
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/3730.m3u8
+#EXTINF:-1,[FR] beinsports7
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/3729.m3u8
+#EXTINF:-1,[FR] beinsports8
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/3728.m3u8
+#EXTINF:-1,[FR] beinsports9
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/3727.m3u8
+#EXTINF:-1,[FR] beinsports10
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/3726.m3u8
+#EXTINF:-1,[TR] Euro Sport 1 HD
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/25656.m3u8
+#EXTINF:-1,[TR] Euro Sport 2 HD
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/25660.m3u8
+#EXTINF:-1,[TR] Bein Sport 1
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/25741.m3u8
+#EXTINF:-1,[TR] Bein Sport 2
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/25740.m3u8
+#EXTINF:-1,[TR] Bein Sport 3
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/25739.m3u8
+#EXTINF:-1 group-title="8018",[TR] Bein Sport 4
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/25738.m3u8
+
 + + + + + 1sn.ns1.name:18800 + + + + +
 
 http://1sn.ns1.name:18800/get.php?username=fadilh66SkypeExYuVeryGood2017Started&password=ggdg1414hfdgdfhfdh24525hfhfhfhfh&type=m3u Expires: Null Connections: 60-58 < N
