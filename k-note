@@ -1229,10 +1229,14 @@ https://rush-redbox.amagi.tv/playlist720p.m3u8
 https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,movies central 2gb
 https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1,bloomberg asia-event
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1,bloombergtv 1de
 https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg EU
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
+
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,cnn international gb
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
