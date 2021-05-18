@@ -878,27 +878,6 @@ http://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sport/Bamar",beIN SP 1PR
 https://streamcdn.getloconow.com/DUIAV7E2ZF_c113a376-2e87-414d-89de-da8622074455/DUIAV7E2ZF_c113a376-2e87-414d-89de-da8622074455_hi/manifest.m3u8
 
-#EXTINF:-1,beIN SPORTS 1
-http://2.alhawalouh.xyz/live/918454578/index.m3u8
-#EXTINF:-1,beIN SPORTS 1PRE
-http://1.alhawalouh.xyz/live/6161655/index.m3u8
-#EXTINF:-1,beIN SPORTS 2
-http://2.alhawalouh.xyz/live/10011244/index.m3u8
-#EXTINF:-1,beIN SPORTS 2PRE
-http://2.alhawalouh.xyz/live/616194987/index.m3u8
-
-#EXTINF:-1,beIN SPORTS 2
-http://1.alhawalouh.xyz/live/69854211/index.m3u8
-#EXTINF:-1,beIN SPORTS 3PRE
-http://3.alhawalouh.xyz/live/6151278887/index.m3u8
-#EXTINF:-1,beIN SPORTS 4
-http://1.alhawalouh.xyz/live/9787488847/index.m3u8
-#EXTINF:-1,beIN SPORTS 6
-http://2.alhawalouh.xyz/live/1515000000/index.m3u8
-#EXTINF:-1,beIN SPORTS 7
-http://2.alhawalouh.xyz/live/100666696/index.m3u8
-
-
 #EXTINF:-1 group-title="Sport/Bamar",DAZN 1IT
 http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
 #EXTINF:-1,DAZN 2IT
@@ -1246,33 +1225,14 @@ https://crackle-plex.amagi.tv/playlist720p.m3u8
 #EXTINF:-1,REDBOX
 https://rush-redbox.amagi.tv/playlist720p.m3u8
 
-+ + + + + xprime + + + + +
-http://iptv.xprime.one/170/mono.m3u8
-http://iptv.xprime.one/171/mono.m3u8
-http://iptv.xprime.one/172/mono.m3u8
-http://iptv.xprime.one/173/mono.m3u8
-http://iptv.xprime.one/174/mono.m3u8
-http://iptv.xprime.one/175/mono.m3u8
-http://iptv.xprime.one/176/mono.m3u8
-http://iptv.xprime.one/177/mono.m3u8
-http://iptv.xprime.one/178/mono.m3u8
-http://iptv.xprime.one/179/mono.m3u8
-+ + + + + xprime + + + + +
-
-
-
 
 https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,movies central 2gb
 https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1,bloomberg asia-event
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1,bloombergtv 1de
 https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Bloomberg EU
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
-
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,cnn international gb
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
@@ -5796,22 +5756,16 @@ http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
 http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
-
 http://185.180.221.194:8278/streams/d/Cinemax/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Discovery/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
-
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1,HBO Family
 http://185.180.221.194:8278/streams/d/Hbofamily/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbohd/playlist.m3u8
-#EXTINF:-1,HBO Hits
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-#EXTINF:-1 group-title="185.180",HBO Signature
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
@@ -10955,7 +10909,7 @@ http://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,& Pics 
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,& Prive HD
+#EXTINF:-1,& Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1,&Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v3a1/index.m3u8
@@ -11187,8 +11141,6 @@ http://95.145.54.106:9981/playlist/channels
 http://cloudcdn.tk:8080/get.php?username=Ps1gfW661&password=fTeMeM99&type=m3u
 Real Url: 85.203.33.88:80 Expires: 29/10/2021 6:41:31 PM    Active Connections: 0     Maximum Connections: 1
 http://cloudcdn.tk:8080/get.php?username=wZkgtvQF6G0800&password=aqE7hM928&type=m3u
-http://clientportal.link:80/get.php?username=AvdullaBinakaj&password=vJuTr6952&type=m3u
-Real Url: 85.203.33.88:80     Status: Active    Created: 24/12/2018 11:37:23 PM     Expires: 30/1/2022 8:12:53 PM    Active Connections: 2     Maximum Connections: 1     Formats: "m3u8","ts"
 
 + + + + + 103.22.183.58:8888 [TH] + + + + +
 
@@ -11612,11 +11564,6 @@ http://104.218.61.161:83/get.php?username=directline76598&password=35222AM020342
 + + + + + 148.251.129.207:2083 + + + + +
 
 https://xc.gt-app.tk:2083/get.php?username=GThn&password=qLzpvNzf04JgYjTwKgHrMgRfLgXfWn&type=m3u < 148.251.129.207:2083 < null < 0-320 < Albdroid TV few CH
-
-+ + + + + 168.205.87.198:8555 + + + + + null + + + + +
-
-http://168.205.87.198:8555/get.php?username=viniciusvieira&password=vieira123&type=m3u&output=hls < null < 1-4 << to check
-
 
 + + + + + 173.198.198.102:25461 + + + + +
 
