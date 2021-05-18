@@ -5590,16 +5590,22 @@ http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
 http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
+
 http://185.180.221.194:8278/streams/d/Cinemax/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Discovery/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
+
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1,HBO Family
 http://185.180.221.194:8278/streams/d/Hbofamily/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbohd/playlist.m3u8
+#EXTINF:-1,HBO Hits
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1 group-title="185.180",HBO Signature
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
@@ -11398,6 +11404,11 @@ http://104.218.61.161:83/get.php?username=directline76598&password=35222AM020342
 + + + + + 148.251.129.207:2083 + + + + +
 
 https://xc.gt-app.tk:2083/get.php?username=GThn&password=qLzpvNzf04JgYjTwKgHrMgRfLgXfWn&type=m3u < 148.251.129.207:2083 < null < 0-320 < Albdroid TV few CH
+
++ + + + + 168.205.87.198:8555 + + + + + null + + + + +
+
+http://168.205.87.198:8555/get.php?username=viniciusvieira&password=vieira123&type=m3u&output=hls < null < 1-4 << to check
+
 
 + + + + + 173.198.198.102:25461 + + + + +
 
