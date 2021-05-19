@@ -5951,6 +5951,30 @@ http://203.154.177.124:8899/live/ch27/playlist.m3u8
 http://203.154.177.124:8899/live/ch28/playlist.m3u8
 http://203.154.177.124:8899/live/ch29/playlist.m3u8
 
++ + + + + 203.154.243.88:18005 + + + + +
+
+#EXTINF:-1 group-title="203.154",foxfam
+http://203.154.243.88:18005/tipcable/foxfam
+#EXTINF:-1,scm
+http://203.154.243.88:18005/tipcable/scm
+#EXTINF:-1,baby
+http://203.154.243.88:18005/tipcable/baby
+#EXTINF:-1,foxnews
+http://203.154.243.88:18005/tipcable/foxnews
+#EXTINF:-1,foxthai
+http://203.154.243.88:18005/tipcable/foxthai
+#EXTINF:-1,foxaction
+http://203.154.243.88:18005/tipcable/foxaction
+#EXTINF:-1,natgeo
+http://203.154.243.88:18005/tipcable/natgeo
+#EXTINF:-1,Fox Sport 2
+http://203.154.243.88:18002/kctv/foxsport2
+#EXTINF:-1,FOX Life HD
+http://203.154.243.88:18005/tipcable/foxlife
+#EXTINF:-1,Fox Sport 1
+http://203.154.243.88:18002/kctv/foxsport1
+#EXTINF:-1 group-title="203.154",Fox Sport 3
+http://203.154.243.88:18002/kctv/foxsport3
 
 + + + + + 212.8.253.172:2052 + + + + +
 
@@ -14174,6 +14198,41 @@ Real Url: rico.besttvps.com:8080     Status: Active    Created: 5/4/2021 10:02:3
 + + + + + starshare.live:8080 [MY+MM] + + + + +
 
 + + + + + s1.showplustv.com:1997 [TH+MM] + + + + +
+
+http://s1.showplustv.com:1997/get.php?username=79956amigoIAHDAC&password=IUIAD56scoYaks&type=m3u
+Real Url: s1.showplustv.com:1997     Status: Active    Created: 28/2/2020 10:21:14 AM     Expires: Null    Active Connections: 312     Maximum Connections: 400     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1,|DSTV| SuperSport 1
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60665.m3u8
+#EXTINF:-1,|DSTV| SuperSport 2
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60666.m3u8
+#EXTINF:-1,|DSTV| SuperSport 3
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60667.m3u8
+#EXTINF:-1,|DSTV| SuperSport 4
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60668.m3u8
+#EXTINF:-1,|DSTV| SuperSport 5
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60669.m3u8
+#EXTINF:-1,|DSTV| SuperSport 6
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60670.m3u8
+#EXTINF:-1,|DSTV| SuperSport 7
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60671.m3u8
+#EXTINF:-1,|DSTV| SuperSport 8
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60672.m3u8
+#EXTINF:-1,|DSTV| SuperSport 9
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60673.m3u8
+#EXTINF:-1,|DSTV| SuperSport 10
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60674.m3u8
+#EXTINF:-1,|DSTV| SuperSport 11
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60675.m3u8
+#EXTINF:-1,|DSTV| SuperSport 12
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60676.m3u8
+#EXTINF:-1,|DSTV| SuperSport Blitz
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/64873.m3u8
+#EXTINF:-1,|DSTV| SuperSport maximo
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/64874.m3u8
+
+
+
 
 + + + + + securepoint.io:83/pie.buzz:83 + + + + + 28/5/2021 + + + + +
 
