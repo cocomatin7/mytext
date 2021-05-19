@@ -579,38 +579,39 @@ Babestation24 xxx
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 
 
-#EXTINF:-1,bein1*
+#EXTINF:-1,beIN SPORTS 1
 http://1.alhawalouh.xyz:80/live/6161655/index.m3u8
-#EXTINF:-1,bein2*
+2PRE
 http://2.alhawalouh.xyz:80/live/616194987/index.m3u8
-#EXTINF:-1,bein3*
+3PRE
 http://3.alhawalouh.xyz:80/live/6151278887/index.m3u8
-#EXTINF:-1,MOTOGP
+#EXTINF:-1,no signal
 http://2.alhawalouh.xyz:80/live/1515000000/index.m3u8
-#EXTINF:-1, Bein Sports 1 HD
+#EXTINF:-1, Bein Sports 1'
 http://2.alhawalouh.xyz/live/918454578/index.m3u8
-#EXTINF:-1, Bein Sports 2 HD
+#EXTINF:-1, Bein Sports 2'
 http://1.alhawalouh.xyz/live/69854211/index.m3u8
-#EXTINF:-1, Bein Sports 3 HD
+#EXTINF:-1, Bein Sports 3PRE
 http://3.alhawalouh.xyz/live/6151278887/index.m3u8
 
 #EXTINF:-1,beIN SPORTS 1PRE
 http://zana@3.alhawalouh.xyz/live/88824257/index.m3u8
-
+#EXTINF:-1,beIN SPORTS 1PRE'
 http://1.alhawalouh.xyz/live/6161655/index.m3u8
-
+#EXTINF:-1,beIN SPORTS 4
 http://1.alhawalouh.xyz/live/9787488847/index.m3u8
-
+#EXTINF:-1,beIN SPORTS 2
 http://2.alhawalouh.xyz/live/10011244/index.m3u8
-
+#EXTINF:-1,beIN SPORTS 7
 http://2.alhawalouh.xyz/live/100666696/index.m3u8
-
+#EXTINF:-1,no signal
 http://2.alhawalouh.xyz/live/1515000000/index.m3u8
-
+#EXTINF:-1,beIN SPORTS 2PRE
 http://2.alhawalouh.xyz/live/616194987/index.m3u8
 
 
-#http://cobraa.in:8000/live/966591212489/360791/3117.m3u8
+http://cobraa.in:8000/get.php?username=966591212489&password=360791&type=m3u
+Real Url: cobraa.in:8000     Status: Active    Created: 12/5/2021 10:10:26 PM     Expires: 12/5/2022 10:10:26 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
 
 
 #EXTINF:-1 group-title="Sport/Bamar",StarSportsSelect1FHD |87
