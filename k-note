@@ -12498,6 +12498,9 @@ Real Url: iptvtree.net:8080     Status: Active    Created: 10/2/2020 7:58:43 PM 
 http://iptvtree.net:8080/get.php?username=outputofflinechecker&password=9kyZXqC7MwVbkMnJmf&type=m3u
 Real Url: iptvtree.net:8080     Status: Active    Created: 15/10/2019 12:49:06 AM     Expires: Null    Active Connections: 488     Maximum Connections: 2000  << 
 
+http://iptvtree.net:8080/get.php?username=vpngenerators&password=635ee5a5e7&type=m3u
+Real Url: iptvtree.net:8080     Status: Active    Created: 13/12/2020 2:47:08 PM     Expires: Null    Active Connections: 184     Maximum Connections: 200     Formats: "m3u8","ts","rtmp" << to check
+
 #EXTINF:-1 group-title="iptvtree",UK: beIN Sports 11 HD
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/192635.m3u8
 #EXTINF:-1,UK: beIN Sports 12 HD
