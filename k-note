@@ -581,9 +581,9 @@ http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_26
 
 #EXTINF:-1,beIN SPORTS 1
 http://1.alhawalouh.xyz:80/live/6161655/index.m3u8
-2PRE
+#EXTINF:-1,beIN SPORTS 2PRE
 http://2.alhawalouh.xyz:80/live/616194987/index.m3u8
-3PRE
+#EXTINF:-1,beIN SPORTS 3PRE
 http://3.alhawalouh.xyz:80/live/6151278887/index.m3u8
 #EXTINF:-1,no signal
 http://2.alhawalouh.xyz:80/live/1515000000/index.m3u8
