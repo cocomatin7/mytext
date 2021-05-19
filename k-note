@@ -579,27 +579,36 @@ Babestation24 xxx
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 
 
-beIN SPORTS 1PRE
+#EXTINF:-1,bein1*
+http://1.alhawalouh.xyz:80/live/6161655/index.m3u8
+#EXTINF:-1,bein2*
+http://2.alhawalouh.xyz:80/live/616194987/index.m3u8
+#EXTINF:-1,bein3*
+http://3.alhawalouh.xyz:80/live/6151278887/index.m3u8
+#EXTINF:-1,MOTOGP
+http://2.alhawalouh.xyz:80/live/1515000000/index.m3u8
+#EXTINF:-1, Bein Sports 1 HD
+http://2.alhawalouh.xyz/live/918454578/index.m3u8
+#EXTINF:-1, Bein Sports 2 HD
+http://1.alhawalouh.xyz/live/69854211/index.m3u8
+#EXTINF:-1, Bein Sports 3 HD
+http://3.alhawalouh.xyz/live/6151278887/index.m3u8
+
+#EXTINF:-1,beIN SPORTS 1PRE
 http://zana@3.alhawalouh.xyz/live/88824257/index.m3u8
+
+http://1.alhawalouh.xyz/live/6161655/index.m3u8
 
 http://1.alhawalouh.xyz/live/9787488847/index.m3u8
 
-#EXTINF:0,bein1*
-http://1.alhawalouh.xyz:80/live/6161655/index.m3u8
-#EXTINF:0,bein2*
-http://2.alhawalouh.xyz:80/live/616194987/index.m3u8
-#EXTINF:0,bein3*
-http://3.alhawalouh.xyz:80/live/6151278887/index.m3u8
-#EXTINF:0,MOTOGP
-http://2.alhawalouh.xyz:80/live/1515000000/index.m3u8
-#EXTINF: 0, Bein Sports 1 HD
-http://2.alhawalouh.xyz/live/918454578/index.m3u8
-#http://cobraa.in:8000/live/966591212489/360791/3115.m3u8
-#EXTINF: 0, Bein Sports 2 HD
-http://1.alhawalouh.xyz/live/69854211/index.m3u8
-#http://cobraa.in:8000/live/966591212489/360791/3116.m3u8
-#EXTINF: 0, Bein Sports 3 HD
-http://3.alhawalouh.xyz/live/6151278887/index.m3u8
+http://2.alhawalouh.xyz/live/10011244/index.m3u8
+
+http://2.alhawalouh.xyz/live/100666696/index.m3u8
+
+http://2.alhawalouh.xyz/live/1515000000/index.m3u8
+
+http://2.alhawalouh.xyz/live/616194987/index.m3u8
+
 
 #http://cobraa.in:8000/live/966591212489/360791/3117.m3u8
 
