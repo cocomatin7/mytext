@@ -11591,7 +11591,55 @@ http://103.135.208.14/get.php?username=ibox&password=bd&type=m3u < N
 
 http://104.218.61.161:83/get.php?username=directline76598&password=35222AM0203424421468352020&type=m3u < N
 
++ + + + + 144.76.86.51:57060 + + + + + null + + + xxx
 
+http://144.76.86.51:57060/get.php?username=stalker&password=zacj5NaQuQ7P3oPI&type=m3u
+Real Url: 144.76.86.51:57060     Status: Active    Created: 13/11/2019 11:04:04 PM     Expires: Null    Active Connections: 15     Maximum Connections: 999     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="144.76",UK_SKY_Sports_Football
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/162.m3u8
+#EXTINF:-1,UK_SKY_Sports_Main_Event
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/163.m3u8
+#EXTINF:-1,UK_SKY_Sports_Mix
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/164.m3u8
+#EXTINF:-1,UK_SKY_Sports_News
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/165.m3u8
+#EXTINF:-1,UK_SKY_Sports_Premier_League
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/166.m3u8
+#EXTINF:-1,BT SPORT 1
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/211.m3u8
+#EXTINF:-1,BT Sport 2
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/82.m3u8
+#EXTINF:-1,BT Sport 3
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/83.m3u8
+#EXTINF:-1,AR_Bein_Sports_11
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/186.m3u8
+#EXTINF:-1,AR_Bein_Sports_12
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/187.m3u8
+#EXTINF:-1,AR_Bein_Sports_13
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/188.m3u8
+#EXTINF:-1,PT_Sport_TV_1
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/189.m3u8
+#EXTINF:-1,PT_Sport_TV_2
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/190.m3u8
+#EXTINF:-1,PT_Sport_TV_3
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/191.m3u8
+#EXTINF:-1,PT_Sport_TV_4
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/192.m3u8
+#EXTINF:-1,PT_Sport_TV_5
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/193.m3u8
+#EXTINF:-1,MTV_Base
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/205.m3u8
+#EXTINF:-1,VH1_Classic
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/206.m3u8
+#EXTINF:-1,VH1
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/207.m3u8
+#EXTINF:-1,MTV_Hits
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/208.m3u8
+#EXTINF:-1,MTV_80s
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/209.m3u8
+#EXTINF:-1 group-title="144.76",MTV_Classic
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/210.m3u8
 
 + + + + + 148.251.129.207:2083 + + + + +
 
