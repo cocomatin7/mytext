@@ -579,6 +579,21 @@ Babestation24 xxx
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 
 
+beIN SPORTS 1PRE
+http://zana@3.alhawalouh.xyz/live/88824257/index.m3u8
+
+http://1.alhawalouh.xyz/live/9787488847/index.m3u8
+
+#EXTINF:0,bein1*
+http://1.alhawalouh.xyz:80/live/6161655/index.m3u8
+#EXTINF:0,bein2*
+http://2.alhawalouh.xyz:80/live/616194987/index.m3u8
+#EXTINF:0,bein3*
+http://3.alhawalouh.xyz:80/live/6151278887/index.m3u8
+#EXTINF:0,MOTOGP
+http://2.alhawalouh.xyz:80/live/1515000000/index.m3u8
+
+
 #EXTINF:-1 group-title="Sport/Bamar",StarSportsSelect1FHD |87
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist.m3u8
 #EXTINF:-1,StarSportsSelect1FHD |87
