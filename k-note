@@ -12309,6 +12309,38 @@ http://cobraa.in:8000/live/966591212489/360791/100735.m3u8
 #EXTINF:-1 group-title="cobraa",UK: MTV Rocks
 http://cobraa.in:8000/live/966591212489/360791/100736.m3u8
 
++ + + + + coresys.dvrdns.org:8080 + + + + +
+
+http://coresys.dvrdns.org:8080/get.php?username=stalkerportal&password=UvrHfGiEXE&type=m3u
+Real Url: coresys.dvrdns.org:8080     Status: Active    Created: 3/12/2020 4:59:51 PM     Expires: Null    Active Connections: 1     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="coresys",UFC Fight Pass
+http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/60.m3u8
+#EXTINF:-1,MTV U (USA)
+http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/14521.m3u8
+#EXTINF:-1,MTV LIVE (USA)
+http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/14520.m3u8
+#EXTINF:-1,MTV Classic US
+http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/14519.m3u8
+#EXTINF:-1,UK | SKY Cinema Thriller HD
+http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/11774.m3u8
+#EXTINF:-1,UK | SKY CINEMA ACTION & ADVENTURE HD
+http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/11775.m3u8
+#EXTINF:-1,UK | SKY Cinema Comedy HD
+http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/11776.m3u8
+#EXTINF:-1,UK | SKY CINEMA PREMIERE HD
+http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/11777.m3u8
+#EXTINF:-1,UK | SKY CINEMA Crime FHD (r)
+http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/11778.m3u8
+#EXTINF:-1,UK | SKY Cinema Family HD
+http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/11779.m3u8
+#EXTINF:-1,SKY Sports Main Events (I)
+http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/24992.m3u8
+#EXTINF:-1, SKY Sports Premier League HD (I)
+http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/24996.m3u8
+#EXTINF:-1 group-title="coresys",SKY Sports Football (M)
+http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/25001.m3u8
+
 + + + + + dankstream.com:2082 + + + + +
 
 http://dankstream.com:2082/get.php?username=iptvtree&password=lHKqL4YNIc&type=m3u
