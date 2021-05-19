@@ -5957,8 +5957,6 @@ http://203.154.177.124:8899/live/ch29/playlist.m3u8
 http://203.154.243.88:18005/tipcable/foxfam
 #EXTINF:-1,scm
 http://203.154.243.88:18005/tipcable/scm
-#EXTINF:-1,baby
-http://203.154.243.88:18005/tipcable/baby
 #EXTINF:-1,foxnews
 http://203.154.243.88:18005/tipcable/foxnews
 #EXTINF:-1,foxthai
@@ -14194,6 +14192,11 @@ http://194.190.78.91:8080/shelksd/index.m3u8
 
 https://rico.besttvps.com:443/get.php?username=Ricotvv&password=Ricotvv&type=m3u
 Real Url: rico.besttvps.com:8080     Status: Active    Created: 5/4/2021 10:02:35 PM     Expires: Null    Active Connections: 67     Maximum Connections: 30000 < DOWN
+
++ + + + + romax.live:2086 + + + + +
+
+http://romax.live:2086/get.php?username=nomore:live&password=E4SKdGsEyc&type=m3u
+Real Url: romax.live:2086     Status: Active    Created: 7/4/2021 11:13:16 AM     Expires: Null    Active Connections: 840     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp"
 
 + + + + + starshare.live:8080 [MY+MM] + + + + +
 
