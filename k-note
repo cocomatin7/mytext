@@ -14205,7 +14205,7 @@ Real Url: romax.live:2086     Status: Active    Created: 7/4/2021 11:13:16 AM   
 http://s1.showplustv.com:1997/get.php?username=79956amigoIAHDAC&password=IUIAD56scoYaks&type=m3u
 Real Url: s1.showplustv.com:1997     Status: Active    Created: 28/2/2020 10:21:14 AM     Expires: Null    Active Connections: 312     Maximum Connections: 400     Formats: "m3u8","ts","rtmp"
 
-#EXTINF:-1,|DSTV| SuperSport 1
+#EXTINF:-1 group-title="showplus",|DSTV| SuperSport 1
 http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60665.m3u8
 #EXTINF:-1,|DSTV| SuperSport 2
 http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60666.m3u8
@@ -14234,8 +14234,79 @@ http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/64873.m3u8
 #EXTINF:-1,|DSTV| SuperSport maximo
 http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/64874.m3u8
 
+#EXTINF:-1,|IN| ZEE CINEMA USA
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60029.m3u8
+#EXTINF:-1,|IN| ZEE CINEMA HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60030.m3u8
+#EXTINF:-1,|IN| B4U Plus
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60048.m3u8
+#EXTINF:-1,|IN| B4U Music
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60049.m3u8
+#EXTINF:-1,|IN| B4U Movies
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60050.m3u8
+#EXTINF:-1,|IN| &TV HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60055.m3u8
+#EXTINF:-1,|IN| & PICTURES HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60056.m3u8
+#EXTINF:-1,|IN| &FLIX
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/62219.m3u8
+#EXTINF:-1,|IN| & privé HD(eng)
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/66669.m3u8
+#EXTINF:-1,|IN| & Xplor HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/66670.m3u8
+#EXTINF:-1,|IN| MNX Movies HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/66705.m3u8
+#EXTINF:-1,|IN| MTV BEATS HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/66706.m3u8
 
-
+#EXTINF:-1,BeinVIP : beIN Sports 1 FHD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59881.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports 1 HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59882.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports 2 FHD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59883.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports 2 HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59884.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  3 FHD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59885.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  3 HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59886.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  4 FHD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59887.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  4 HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59888.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  5 FHD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59889.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  5 HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59890.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  6 FHD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59891.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  6 HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59892.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  7 FHD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59893.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  7 HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59894.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  8 FHD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59895.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  8 HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59896.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  9 FHD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59897.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  9 HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59898.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  10 FHD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59899.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  10 HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59900.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  11 FHD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59901.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  11 HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59902.m3u8
+#EXTINF:-1,BeinVIP : beIN Sports  12 FHD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59903.m3u8
+#EXTINF:-1 group-title="showplus",BeinVIP : beIN Sports  12 HD
+http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59904.m3u8
 
 + + + + + securepoint.io:83/pie.buzz:83 + + + + + 28/5/2021 + + + + +
 
