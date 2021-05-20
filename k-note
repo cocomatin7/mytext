@@ -1031,6 +1031,17 @@ https://smart-tv.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 https://smart-tv.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 https://smart-tv.livedoomovie.com/02_BTSPORTHD_3_720p/chunklist.m3u8
 
+#EXTINF:-1,SPORTTV1*
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV2*
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV3*
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV4*
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV5*
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+
 #EXTINF:-1,SPORTTV1
 https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1,SPORTTV2
