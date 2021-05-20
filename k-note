@@ -1761,9 +1761,9 @@ https://d3cs5y5559s57s.cloudfront.net/live/channelk-15234.m3u8
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjAgNzozMTozNiBBTSZoYXNoX3ZhbHVlPWEramsxak1vb2p3aU0yamlHNVBUSmc9PSZ2YWxpZG1pbnV0ZXM9MjUmc3RybV9sZW49NA==
 
-#EXTINF:-1 tvg-id="CINEMAX (HD)" group-title="cookie",Cinemax |cookie
+ tvg-id="CINEMAX (HD)" group-title="cookie",Cinemax |cookie
 https://rebrand.ly/ck-cm-1
-#EXTINF:-1 tvg-id="CINEMAX (HD)" group-title="cookie",Cinemax* |cookie
+ tvg-id="CINEMAX (HD)" group-title="cookie",Cinemax* |cookie
 https://rebrand.ly/ck-cm-2
 
  tvg-logo="https://rebrand.ly/cc-png" group-title="cookie", Cookie return |cookie
@@ -1789,9 +1789,9 @@ https://d15yubay3yee43.cloudfront.net/live/1a662db1-8f85-4d97-853a-ca6a4124e69a/
  tvg-logo="https://www.skynetdth.com/images/channal_logo/Fox-Sports-3.jpg" group-title="cookie", FOX SPORTS 3 |cookie
 https://d15yubay3yee43.cloudfront.net/live/586b07c2-9541-4d8d-ba07-d1e0ee4ca93c/prod/gidlean/progress-playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO HD", HBO |cookie
+ tvg-id="HBO HD", HBO |cookie
 https://rebrand.ly/ck-hb-1
-#EXTINF:-1 tvg-id="HBO HD", HBO* |cookie
+ tvg-id="HBO HD", HBO* |cookie
 https://rebrand.ly/ck-hb-2
 
  tvg-logo="https://www.skynetdth.com/images/channal_logo/mn.png", mntv |cookie
@@ -1811,9 +1811,9 @@ https://d39q34kqnktegw.cloudfront.net/live/37200273-aa1b-42a3-90c9-2c33906df915/
  tvg-logo="https://www.skynetdth.com/images/MRTV-E.png" group-title="cookie", me* |cookie
 https://d39q34kqnktegw.cloudfront.net/live/37200273-aa1b-42a3-90c9-2c33906df915/prod/gidlean/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/LIVE-HD-COLOR.png" group-title="cookie", MTV Live |cookie
+ tvg-logo="https://www.skynetdth.com/images/channal_logo/LIVE-HD-COLOR.png" group-title="cookie", MTV Live |cookie
 https://d3ra9zflrl0q8d.cloudfront.net/live/86d311b0-048a-4244-9344-9aa475070a9a/prod/gidlean/progress-playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.skynetdth.com/images/channal_logo/LIVE-HD-COLOR.png" group-title="cookie", MTV Live* |cookie
+ tvg-logo="https://www.skynetdth.com/images/channal_logo/LIVE-HD-COLOR.png" group-title="cookie", MTV Live* |cookie
 https://d3ra9zflrl0q8d.cloudfront.net/live/86d311b0-048a-4244-9344-9aa475070a9a/prod/gidlean/playlist.m3u8
 
 1095e49d-1c13-47fc-8174-546061a17c3b < MRTV NRC?
