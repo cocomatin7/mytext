@@ -609,7 +609,24 @@ http://2.alhawalouh.xyz/live/1515000000/index.m3u8
 #EXTINF:-1,beIN SPORTS 2PRE
 http://2.alhawalouh.xyz/live/616194987/index.m3u8
 
+-/-/-/-/-/-
 
+http://1.alhawalouh.xyz/live/6161655/index.m3u8
+http://1.alhawalouh.xyz/live/69854211/index.m3u8
+http://1.alhawalouh.xyz/live/9787488847/index.m3u8
+http://1.alhawalouh.xyz:80/live/6161655/index.m3u8
+http://2.alhawalouh.xyz/live/10011244/index.m3u8
+http://2.alhawalouh.xyz/live/100666696/index.m3u8
+http://2.alhawalouh.xyz/live/1515000000/index.m3u8
+http://2.alhawalouh.xyz/live/616194987/index.m3u8
+http://2.alhawalouh.xyz/live/918454578/index.m3u8
+http://2.alhawalouh.xyz:80/live/1515000000/index.m3u8
+http://2.alhawalouh.xyz:80/live/616194987/index.m3u8
+http://3.alhawalouh.xyz/live/6151278887/index.m3u8
+http://3.alhawalouh.xyz:80/live/6151278887/index.m3u8
+http://zana@3.alhawalouh.xyz/live/88824257/index.m3u8
+
+-/-/-/-/-
 
 #EXTINF:-1 group-title="Sport/Bamar",StarSportsSelect1FHD |87
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist.m3u8
@@ -11547,7 +11564,7 @@ http://54k.top:8000/live/to44j/oyvee/105.m3u8
 
 + + + + + 62.182.80.153:80 + + + + + Null + + + + +
 
-http://62.182.80.153:80/get.php?username=Livetv&password=master&type=m3u Expires: Null    Active Connections: 156     Maximum Connections: 0
+http://62.182.80.153:80/get.php?username=Livetv&password=master&type=m3u Expires: Null    Active Connections 0-381
 
 #EXTINF:-1 group-title="62.182",UK: SKY CINEMA PREMIERE
 http://62.182.80.153:80/live/Livetv/master/1.m3u8
@@ -11585,8 +11602,18 @@ http://62.182.80.153:80/live/Livetv/master/21.m3u8
 http://62.182.80.153:80/live/Livetv/master/22.m3u8
 #EXTINF:-1,UK: BEIN SPORT 12 (ENGLISH)
 http://62.182.80.153:80/live/Livetv/master/23.m3u8
-#EXTINF:-1 group-title="62.182",UK: BEIN SPORT 13 (ENGLISH)
+#EXTINF:-1,UK: BEIN SPORT 13 (ENGLISH)
 http://62.182.80.153:80/live/Livetv/master/24.m3u8
+#EXTINF:-1,US: HBO
+http://62.182.80.153:80/live/Livetv/master/39.m3u8
+#EXTINF:-1,US: SHOWTIME
+http://62.182.80.153:80/live/Livetv/master/40.m3u8
+#EXTINF:-1,US: STARZ
+http://62.182.80.153:80/live/Livetv/master/41.m3u8
+#EXTINF:-1,US: SONY MOVIE CHANNEL
+http://62.182.80.153:80/live/Livetv/master/42.m3u8
+#EXTINF:-1 group-title="62.182",US: EPIX HITS
+http://62.182.80.153:80/live/Livetv/master/43.m3u8
 
 + + + + + 69.10.62.24:25461 + + + + + null + + + + + movies 
 
