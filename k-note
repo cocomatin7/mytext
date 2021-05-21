@@ -13149,8 +13149,7 @@ http://cobraa.in:8000/live/966591212489/360791/100736.m3u8
 
 + + + + + coresys.dvrdns.org:8080 + + + + +
 
-http://coresys.dvrdns.org:8080/get.php?username=stalkerportal&password=UvrHfGiEXE&type=m3u
-Real Url: coresys.dvrdns.org:8080     Status: Active    Created: 3/12/2020 4:59:51 PM     Expires: Null    Active Connections: 1     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
+http://coresys.dvrdns.org:8080/get.php?username=stalkerportal&password=UvrHfGiEXE&type=m3u Status: Active Expires: Null Connections: 0-1 < Latin + xxx
 
 #EXTINF:-1 group-title="coresys",UFC Fight Pass
 http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/60.m3u8
@@ -13159,7 +13158,14 @@ http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/14521.m3u8
 #EXTINF:-1,MTV LIVE (USA)
 http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/14520.m3u8
 #EXTINF:-1,MTV Classic US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14519
 http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/14519.m3u8
+#EXTINF:-1,MTV Latino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14107
+#EXTINF:-1,Pluto TV 80s Rewind
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23905
+#EXTINF:-1,NBC Universo HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/6224
 #EXTINF:-1,UK | SKY Cinema Thriller HD
 http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/11774.m3u8
 #EXTINF:-1,UK | SKY CINEMA ACTION & ADVENTURE HD
@@ -13178,6 +13184,16 @@ http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/24992.m3u8
 http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/24996.m3u8
 #EXTINF:-1 group-title="coresys",SKY Sports Football (M)
 http://coresys.dvrdns.org:8080/live/stalkerportal/UvrHfGiEXE/25001.m3u8
+#EXTINF:-1,beIN SPORTS Canada
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7770
+#EXTINF:-1,EN | beIN Sports Laliga HD US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2401
+#EXTINF:-1,EN | CNN HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2403
+#EXTINF:-1,24/7 Disney Movies
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/17549
+#EXTINF:-1 group-title="coresys",24/7 Tom & Jerry TV EN
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/437
 
 + + + + + dankstream.com:2082 + + + + +
 
