@@ -3436,29 +3436,52 @@ http://73.85.95.69:9981/stream/mux/66cae5ba03261ec2a9c88fb566b3012d
 http://73.85.95.69:9981/stream/mux/e0f6bea2ad5cc000af96b7499db8b1b7
 #EXTINF:-1,USA | MTV LIVE
 http://73.85.95.69:9981/stream/mux/19ab460a626b4d7c4af111fbc9f46150
-http://73.85.95.69:9981/stream/mux/b15728282e2645d8b86b44b57bcda55e#EXTINF:-1,PL | Canal+ Sport 2 HD
-http://73.85.95.69:9981/stream/mux/6fd9e5f99d7607775ab4a2437a52950b#EXTINF:-1,BS | beIN SPORT-1 HD
-http://73.85.95.69:9981/stream/mux/3fbc88ababa3773afdf0722346572d37#EXTINF:-1,24/7 | 90's R&B Mix
-http://73.85.95.69:9981/stream/mux/4ba206e53e7c3bf473f71095d96503b1#EXTINF:-1,UK | Sky Cinema Premier FHD
-http://73.85.95.69:9981/stream/mux/fe11797efe5472d085ab228bba09b9eb#EXTINF:-1,UK | MTV Hits
-http://73.85.95.69:9981/stream/mux/83cd560e077f0f6cace8fd938dc7b6f1#EXTINF:-1,RO | Digi Sports 2 FHD
-http://73.85.95.69:9981/stream/mux/9389eaa006709974ebe76ea1a194b774#EXTINF:-1,RO | Digi Sports 4 FHD
-http://73.85.95.69:9981/stream/mux/d9bc2199c552b67d89b1d231ccfd7280#EXTINF:-1,BS | beIN SPORT-10 HD
-http://73.85.95.69:9981/stream/mux/54979278cbdeff330fd2124a595094ad#EXTINF:-1,UK | BT Sport 1 HD
-http://73.85.95.69:9981/stream/mux/c504dbd1c107f055ad639879eb6fd357#EXTINF:-1,24/7 | 90's R&B Mix
-http://73.85.95.69:9981/stream/mux/5913bca224ec9185717977d2795e739c#EXTINF:-1,UK | Sky Cinema Greats
-http://73.85.95.69:9981/stream/mux/94c4144c5286560a0df75a8a6798f0d2#EXTINF:-1,UK | Sky Cinema Disney FHD
-http://73.85.95.69:9981/stream/mux/90e5365ba5f36e3c1c4afbff797437a4#EXTINF:-1,FR | BEIN SPORT 1 HD
-http://73.85.95.69:9981/stream/mux/68a57ccc4719d82f20eacbae58f6ed3b#EXTINF:-1,UK | Sky Cinema Greats FHD
-http://73.85.95.69:9981/stream/mux/3d80725a43079a0ccf8549bbc1a16725#EXTINF:-1,USA SPORT | Fox Sports 2 FHD
-http://73.85.95.69:9981/stream/mux/b7c87d18555762189ff02a28583c0372#EXTINF:-1,BS | beIN SPORT10 HD
-http://73.85.95.69:9981/stream/mux/ca42b609bdd650f29606bbc9d30a3e9b#EXTINF:-1,24/7 MOVIES | TOM HANKS
-http://73.85.95.69:9981/stream/mux/c1fb6b246b2d2b43e7d647a3c9127394#EXTINF:-1,BS | beIN Sport2 HD
-http://73.85.95.69:9981/stream/mux/94afea6de653ee04623bab86a6b60116#EXTINF:-1,UK | BT Sport 3 HD
-http://73.85.95.69:9981/stream/mux/d908aaddd1dbc476cc564e01d7252dbd#EXTINF:-1,PT | SPORT TV 2 HD
-http://73.85.95.69:9981/stream/mux/7f7aea151d67f7698c1c53e050a12d9b#EXTINF:-1,PL | Polsat Sport Premium 1 HD
-http://73.85.95.69:9981/stream/mux/08ab6e1cbb67722aa24beebb5b720942#EXTINF:-1,BG | Diema Sport 2
-http://73.85.95.69:9981/stream/mux/a5d551a6d0e03b86a917b028b3bdd6e2#EXTINF:-1,PL | Polsat Sport Premium 2 HD
+#EXTINF:-1,PL | Canal+ Sport 2 HD
+http://73.85.95.69:9981/stream/mux/b15728282e2645d8b86b44b57bcda55e
+#EXTINF:-1,BS | beIN SPORT-1 HD
+http://73.85.95.69:9981/stream/mux/6fd9e5f99d7607775ab4a2437a52950b
+#EXTINF:-1,24/7 | 90's R&B Mix
+http://73.85.95.69:9981/stream/mux/3fbc88ababa3773afdf0722346572d37
+#EXTINF:-1,UK | Sky Cinema Premier FHD
+http://73.85.95.69:9981/stream/mux/4ba206e53e7c3bf473f71095d96503b1
+#EXTINF:-1,UK | MTV Hits
+http://73.85.95.69:9981/stream/mux/fe11797efe5472d085ab228bba09b9eb
+#EXTINF:-1,RO | Digi Sports 2 FHD
+http://73.85.95.69:9981/stream/mux/83cd560e077f0f6cace8fd938dc7b6f1
+#EXTINF:-1,RO | Digi Sports 4 FHD
+http://73.85.95.69:9981/stream/mux/9389eaa006709974ebe76ea1a194b774
+#EXTINF:-1,BS | beIN SPORT-10 HD
+http://73.85.95.69:9981/stream/mux/d9bc2199c552b67d89b1d231ccfd7280
+#EXTINF:-1,UK | BT Sport 1 HD
+http://73.85.95.69:9981/stream/mux/54979278cbdeff330fd2124a595094ad
+#EXTINF:-1,24/7 | 90's R&B Mix
+http://73.85.95.69:9981/stream/mux/c504dbd1c107f055ad639879eb6fd357
+#EXTINF:-1,UK | Sky Cinema Greats
+http://73.85.95.69:9981/stream/mux/5913bca224ec9185717977d2795e739c
+#EXTINF:-1,UK | Sky Cinema Disney FHD
+http://73.85.95.69:9981/stream/mux/94c4144c5286560a0df75a8a6798f0d2
+#EXTINF:-1,FR | BEIN SPORT 1 HD
+http://73.85.95.69:9981/stream/mux/90e5365ba5f36e3c1c4afbff797437a4
+#EXTINF:-1,UK | Sky Cinema Greats FHD
+http://73.85.95.69:9981/stream/mux/68a57ccc4719d82f20eacbae58f6ed3b
+#EXTINF:-1,USA SPORT | Fox Sports 2 FHD
+http://73.85.95.69:9981/stream/mux/3d80725a43079a0ccf8549bbc1a16725
+#EXTINF:-1,BS | beIN SPORT10 HD
+http://73.85.95.69:9981/stream/mux/b7c87d18555762189ff02a28583c0372
+#EXTINF:-1,24/7 MOVIES | TOM HANKS
+http://73.85.95.69:9981/stream/mux/ca42b609bdd650f29606bbc9d30a3e9b
+#EXTINF:-1,BS | beIN Sport2 HD
+http://73.85.95.69:9981/stream/mux/c1fb6b246b2d2b43e7d647a3c9127394
+#EXTINF:-1,UK | BT Sport 3 HD
+http://73.85.95.69:9981/stream/mux/94afea6de653ee04623bab86a6b60116
+#EXTINF:-1,PT | SPORT TV 2 HD
+http://73.85.95.69:9981/stream/mux/d908aaddd1dbc476cc564e01d7252dbd
+#EXTINF:-1,PL | Polsat Sport Premium 1 HD
+http://73.85.95.69:9981/stream/mux/7f7aea151d67f7698c1c53e050a12d9b
+#EXTINF:-1,BG | Diema Sport 2
+http://73.85.95.69:9981/stream/mux/08ab6e1cbb67722aa24beebb5b720942
+#EXTINF:-1,PL | Polsat Sport Premium 2 HD
+http://73.85.95.69:9981/stream/mux/a5d551a6d0e03b86a917b028b3bdd6e2
 http://73.85.95.69:9981/stream/mux/f42d97fbdd94330ead8e7e7b565d0365#EXTINF:-1,UK | Sky Sports News FHD
 http://73.85.95.69:9981/stream/mux/d74caa4a0015632d4b61a753f236bfba#EXTINF:-1,BS | beIN SPORT-11 4K
 http://73.85.95.69:9981/stream/mux/745a25d8282a0898079d3f490f76902f#EXTINF:-1,UK | Sky Cinema Drama and Romance
@@ -3513,23 +3536,40 @@ http://73.85.95.69:9981/stream/mux/42a8d069bc73c0e26b0c381d3a88bf34#EXTINF:-1,IN
 http://73.85.95.69:9981/stream/mux/cd4ee3fb6b91de94caa45e6c1a38dad8#EXTINF:-1,MY | Hits Movies HD
 http://73.85.95.69:9981/stream/mux/493665aa308a84fc054a8abea9197430#EXTINF:-1,24/7 | Jackie Chan Adventures Collection
 http://73.85.95.69:9981/stream/mux/d4bacfe72cdceeae8f91aea22a16254c#EXTINF:-1,24/7 | Classic 90's Vol 1 Collection
-http://73.85.95.69:9981/stream/mux/33fee647ffee7ca52ca954c65e8aae80#EXTINF:-1,UK | Sky Sports Main Event HD
-http://73.85.95.69:9981/stream/mux/d954360fcc89d5d0db246cbb86ad3619#EXTINF:-1,IN | & Pictures HD
-http://73.85.95.69:9981/stream/mux/10affa208e88f8a98e227e2410375f01#EXTINF:-1,BS | beIN SPORT-13 4K
-http://73.85.95.69:9981/stream/mux/702e8b3beb89d354b65ef76b1955b2c3#EXTINF:-1,BS | beIN Sport2 HD+
-http://73.85.95.69:9981/stream/mux/57ead4c15a82c3a585aab1899e9e76ef#EXTINF:-1,BS | beIN SPORT-1 4K
-http://73.85.95.69:9981/stream/mux/883e46942889bfeafe1f6bfa192b075c#EXTINF:-1,UK | Sky Sports Premier League HD
-http://73.85.95.69:9981/stream/mux/8060e5f8d1804de6c9db6688ca92b58b#EXTINF:-1,UK | Sky Sports Football FHD
-http://73.85.95.69:9981/stream/mux/5db1af303c5b8ce78da6f414a16ea2fa#EXTINF:-1,UK | Sky Cinema Thriller HD
-http://73.85.95.69:9981/stream/mux/f30babb0108df0b546eeee2211cb083e#EXTINF:-1,24/7 | Classic 2000's Vol 2 Collection
-http://73.85.95.69:9981/stream/mux/ce4eb672115e6e88a05f2753477bcdd4#EXTINF:-1,BS | beIN SPORT-3 4K
-http://73.85.95.69:9981/stream/mux/088a243b1071038619f13e62120065a1#EXTINF:-1,UK | Sky Sports News HD
-http://73.85.95.69:9981/stream/mux/79937f2bc91e06553e68df58679f9161#EXTINF:-1,UK | Sky Cinema Family FHD
-http://73.85.95.69:9981/stream/mux/4363420b548c6610f8b3cc890db32acb#EXTINF:-1,IN | &Tv HD
-http://73.85.95.69:9981/stream/mux/4b6db3fcbcc66ffe5aa8c1fa050186ac#EXTINF:-1,IN | MN PLUS HD
-http://73.85.95.69:9981/stream/mux/63e03af9df0f4a4be7cbd6c03b67bd94#EXTINF:-1,BS | beIN SPORT-2 720
-http://73.85.95.69:9981/stream/mux/9d9c06bb1e2da6d510c44711b99e4e3c#EXTINF:-1,BS | beIN SPORT-3 HD
-http://73.85.95.69:9981/stream/mux/ff5b39be37b7430b0b8a66018b62430d#EXTINF:-1,IN | Movies Now HD
+#EXTINF:-1,UK | Sky Sports Main Event HD
+http://73.85.95.69:9981/stream/mux/33fee647ffee7ca52ca954c65e8aae80
+#EXTINF:-1,IN | & Pictures HD
+http://73.85.95.69:9981/stream/mux/d954360fcc89d5d0db246cbb86ad3619
+#EXTINF:-1,BS | beIN SPORT-13 4K
+http://73.85.95.69:9981/stream/mux/10affa208e88f8a98e227e2410375f01
+#EXTINF:-1,BS | beIN Sport2 HD+
+http://73.85.95.69:9981/stream/mux/702e8b3beb89d354b65ef76b1955b2c3
+#EXTINF:-1,BS | beIN SPORT-1 4K
+http://73.85.95.69:9981/stream/mux/57ead4c15a82c3a585aab1899e9e76ef
+#EXTINF:-1,UK | Sky Sports Premier League HD
+http://73.85.95.69:9981/stream/mux/883e46942889bfeafe1f6bfa192b075c
+#EXTINF:-1,UK | Sky Sports Football FHD
+http://73.85.95.69:9981/stream/mux/8060e5f8d1804de6c9db6688ca92b58b
+#EXTINF:-1,UK | Sky Cinema Thriller HD
+http://73.85.95.69:9981/stream/mux/5db1af303c5b8ce78da6f414a16ea2fa
+#EXTINF:-1,24/7 | Classic 2000's Vol 2 Collection
+http://73.85.95.69:9981/stream/mux/f30babb0108df0b546eeee2211cb083e
+#EXTINF:-1,BS | beIN SPORT-3 4K
+http://73.85.95.69:9981/stream/mux/ce4eb672115e6e88a05f2753477bcdd4
+#EXTINF:-1,UK | Sky Sports News HD
+http://73.85.95.69:9981/stream/mux/088a243b1071038619f13e62120065a1
+#EXTINF:-1,UK | Sky Cinema Family FHD
+http://73.85.95.69:9981/stream/mux/79937f2bc91e06553e68df58679f9161
+#EXTINF:-1,IN | &Tv HD
+http://73.85.95.69:9981/stream/mux/4363420b548c6610f8b3cc890db32acb
+#EXTINF:-1,IN | MN PLUS HD
+http://73.85.95.69:9981/stream/mux/4b6db3fcbcc66ffe5aa8c1fa050186ac
+#EXTINF:-1,BS | beIN SPORT-2 720
+http://73.85.95.69:9981/stream/mux/63e03af9df0f4a4be7cbd6c03b67bd94
+#EXTINF:-1,BS | beIN SPORT-3 HD
+http://73.85.95.69:9981/stream/mux/9d9c06bb1e2da6d510c44711b99e4e3c
+#EXTINF:-1,IN | Movies Now HD
+http://73.85.95.69:9981/stream/mux/ff5b39be37b7430b0b8a66018b62430d
 #EXTINF:-1 group-title="*73.85*",IN | &Pictures HD
 http://73.85.95.69:9981/stream/mux/d5335d1bb2d5e34f893278505c9235d4
 
