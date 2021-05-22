@@ -13968,7 +13968,7 @@ http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14530
 http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/15566
 #EXTINF:-1,|IN| B4U Movies
 http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/15634
-#EXTINF:-1 group-title="lionbox",|IN| Zee Cinema
+#EXTINF:-1,|IN| Zee Cinema
 http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/15516
 #EXTINF:-1,|IN| Ten 1 HD+
 http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/15717
@@ -13976,7 +13976,10 @@ http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/15717
 http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/15719
 #EXTINF:-1,|IN| Ten 3
 http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/15722
-
+#EXTINF:-1,|US| NBCSN 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/15962
+#EXTINF:-1 group-title="lionbox",|US| Fox Soccer Plus 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/15964
 
 + + + + + ip.newboss.site:80 + + + + + Null + UK: SUPERSPORT + DSTV AFRICA| SuperSport 1 + + +
 
