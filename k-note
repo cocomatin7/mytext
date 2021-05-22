@@ -911,7 +911,7 @@ https://pol.ptvsportstv.com/ovo/streamsdemo.stream/playlist.m3u8
 http://185.238.0.145:1313/c/livedo/truepremierfootball1-hd.m3u8
 #EXTINF:-1,True Premiere Football HD2 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball2-hd.m3u8
-#EXTINF:-1,True Premiere Football HD3 |185
+ True Premiere Football HD3 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball3-hd.m3u8
 
 
@@ -919,7 +919,7 @@ http://185.238.0.145:1313/c/livedo/truepremierfootball3-hd.m3u8
 https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
 #EXTINF:-1,True Premiere Football HD2 |mb13
 https://app.mb13.men/c/livedo/truepremierfootball2-hd.m3u8
-#EXTINF:-1,True Premiere Football HD3 |mb13
+ True Premiere Football HD3 |mb13
 https://app.mb13.men/c/livedo/truepremierfootball3-hd.m3u8
 
 #EXTINF:-1,UFC live
@@ -1498,9 +1498,6 @@ http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8?token=test
 #EXTINF:-1 group-title="BamarTV",AVJ
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
 
-#EXTINF:-1, MizzimaTV |0205
-http://www.mcsh.xyz:8080/live/nyinanda/454745/81.m3u8
-
 #EXTINF:-1,Bflix Movie
 https://dreamtv.livebox.co.in/bflixouthls/live.m3u8?Live-TV™
 #EXTINF:-1,crackle
@@ -2014,25 +2011,37 @@ http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
 
 + + + + + myanmarcast / MMnet + + + + +
 
- tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/dvb.jpg" group-title="MNet", DVB TV |MNet
+#EXTINF:-1 tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/dvb.jpg" group-title="MNet", DVB TV |MNet
 https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream.m3u8
- tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/Eleven-Broadcasting-Logo---851x315.jpg", Eleven Media |MNet
+#EXTINF:-1 tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/Eleven-Broadcasting-Logo---851x315.jpg", Eleven Media |MNet
 https://l1-xl1.myanmarnet.com/relay/eleven/ch1/stream_hi/index.m3u8
 https://l1-xl1.myanmarnet.com/relay/eleven/ch1/stream.m3u8
- tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/mcs.jpg", MCS |MNet
+#EXTINF:-1 tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/mcs.jpg", MCS* |MNet
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_hi/index.m3u8
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
- tvg-logo="http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png", Mizzima TV |MNet
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_mobile/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png", Mizzima TV |MNet
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream.m3u8
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_standard/index.m3u8
- tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/MNTV%2Blogo.png" group-title="MNet", mntv |MNet
+#EXTINF:-1 tvg-logo="http://www.myanmarcast.com/sites/default/files/inline-images/MNTV%2Blogo.png" group-title="MNet", mntv* |MNet
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_low/index.m3u8
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_standard/index.m3u8
+
+https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream.m3u8
+https://l1-xl1.myanmarnet.com/relay2/dvb/ch1/stream.m3u8
+https://l1-xl1.myanmarnet.com/relay/eleven/ch1/stream.m3u8
+https://l1-xl1.myanmarnet.com/relay2/eleven/ch1/stream.m3u8
+https://l1-xl1.myanmarnet.com/relay/mcs/ch1/stream.m3u8
+> https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
+https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream.m3u8
+https://l1-xl1.myanmarnet.com/relay2/mizzima/ch1/stream.m3u8
+> https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+https://l1-xl1.myanmarnet.com/relay2/mntv/ch1/stream.m3u8
 
 -/-/-/-/- -/-/-/-/-
 
@@ -3518,7 +3527,7 @@ http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/121732.m3u8
 http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/121734.m3u8
 
 
-1828/1923
+tab: 1828/1923
 
 
 #EXTINF:-1 group-title="*73.85*",|AFR MUSIC| AFRO MUSIC
@@ -4525,11 +4534,11 @@ http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD3 |77
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD1 |77.83'
+#EXTINF:-1,True Premiere Football HD1 |77'
 http://77.83.117.60:8888/02_PremierHD1_480p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD2 |77.83'
+#EXTINF:-1,True Premiere Football HD2 |77'
 http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |77.83'
+#EXTINF:-1,True Premiere Football HD3 |77'
 http://77.83.117.60:8888/02_PremierHD3_480p/chunklist.m3u8
 
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
@@ -4578,19 +4587,19 @@ http://77.83.117.60:8888/02_Zee_Cinema_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_Zee_Nung_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_Zee_TV_720p/chunklist.m3u8
 http://77.83.117.60:8888/sumrujlok_goodtv/chunklist.m3u8
-#EXTINF:-1,SKYNET SPORTS 1 |77.83'
+#EXTINF:-1,SKYNET SPORTS 1 |77'
 http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1,SKYNET SPORTS 2 |77.83'
+#EXTINF:-1,SKYNET SPORTS 2 |77'
 http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1,SKYNET SPORTS 3 |77.83'
+#EXTINF:-1,SKYNET SPORTS 3 |77'
 http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1,SKYNET SPORTS 4 |77.83'
+#EXTINF:-1,SKYNET SPORTS 4 |77'
 http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1,SKYNET SPORTS 5 |77.83'
+#EXTINF:-1,SKYNET SPORTS 5 |77'
 http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1,SKYNET SPORTS 6 |77.83'
+#EXTINF:-1,SKYNET SPORTS 6 |77'
 http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="77.83/TH",SKYNET SPORTS HD |77.83'
+#EXTINF:-1 group-title="77.83/TH",SKYNET SPORTS HD |77'
 http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
 
 + + + + + http://82.45.49.11:9981/extjs.html + + + + + connor:str94eEt@
