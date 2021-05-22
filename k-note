@@ -1729,6 +1729,13 @@ http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/7.m3u8
 #EXTINF:-1,PuroRock24-7
 http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/25.m3u8
 
+#EXTINF:-1,Clubbing TV HD
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1,MTV 80s
+http://tsn1.auratv.fun:9982/channel/5d0458c2/index.m3u8?q=e7aa6ab2ba33e2e74c29093ddd24af5c
+#EXTINF:-1,MTV 90s
+http://tsn1.auratv.fun:9982/channel/5d045c83/index.m3u8?q=e7aa6ab2ba33e2e74c29093ddd24af5c
 
 #EXTINF:-1 group-title="BamarTV", 80s Party |loop 
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
@@ -13032,6 +13039,14 @@ http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/25741.m3u8
 http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/25740.m3u8
 #EXTINF:-1,[TR] Bein Sport 3
 http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/25739.m3u8
+#EXTINF:-1,RMC.Sport1 | 
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/3739.m3u8
+#EXTINF:-1,RMC.Sport2 | 
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/3738.m3u8
+#EXTINF:-1,RMC.Sport3 | 
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/3737.m3u8
+#EXTINF:-1,RMC.Sport4 | 
+http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/3736.m3u8
 #EXTINF:-1 group-title="8018",[TR] Bein Sport 4
 http://8018.mine.nu:9900/live/mytvonline/pa3w0qg0do/25738.m3u8
 
@@ -13326,7 +13341,12 @@ http://bigserver.theworkpc.com:8010/get.php?username=exiptvtreeex2021&password=P
 
 http://bornw1ld.cyou:8080/get.php?username=OVOmainoneWgTkI&password=468TGE75ffji6453&type=m3u
 
-+ + + + +  + + + + +
++ + + + + boxhdtv.live:8080 + + + + +
+
+http://boxhdtv.live:8080/get.php?username=tvboxhdtv21&password=6776477fdgg&type=m3u
+Real Url: boxhdtv.live:8080     Status: Active    Created: 12/4/2021 11:15:18 PM     Expires: Null    Active Connections: 19     Maximum Connections: 1000 < TR beIN Channels
+
+
 
 + + + + + client.vpnuser.ws:8080 [TH] + + + + +
 + + + + + clientbox.tv:80 [SEA] + + + + +
@@ -13509,6 +13529,9 @@ http://cobraa.in:8000/live/966591212489/360791/100735.m3u8
 http://cobraa.in:8000/live/966591212489/360791/100736.m3u8
 
 + + + + + coresys.dvrdns.org:8080 + + + + +
+
+အကြမ်းဖက် လက်ရောက်ကျူးလွန်သူ၊ ညွှန်ကြားသူ၊ ကျူးလွန်ရန်အားထုတ်သူ၊ အားပေးကူညီသူ၊ လှုံ့ဆော်သူ၊ ကြံရာပါများ အာလုံး ကျဆုံးသွားရသူများ၊ ဖမ်းဆီးချုပ်နှောင်ခံရသူများ နှင့် ဖိနိပ်ခံရသူများ ခံစားရသမျှ ဆတိုးဖြင့် ဘဝမခြား ပြန်လည်ပေးဆပ် ခံစားကြရပါစေ။
+
 
 http://coresys.dvrdns.org:8080/get.php?username=stalkerportal&password=UvrHfGiEXE&type=m3u Status: Active Expires: Null Connections: 0-1 < Latin + xxx
 
@@ -13853,6 +13876,98 @@ http://gooserace.xyz:2052/live/vander/vander/2599178.m3u8
 
 http://hidraplay.tv:80/get.php?username=ekumkwis&password=O9a0p1r1lB&type=m3u
 Real Url: hidraplay.tv:80     Status: Active    Created: 9/5/2021 1:10:39 AM     Expires: Null    Active Connections: 2     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
+
++ + + + + in.lionboxiptv.nl:80 + + + + +
+
+http://in.lionboxiptv.nl:80/get.php?username=2021extree&password=XUNTU364vYVeGdqw&type=m3u
+Real Url: in.lionboxiptv.nl:80     Status: Active    Created: 3/2/2021 10:19:34 AM     Expires: 3/2/2022 10:14:00 AM    Active Connections: 196     Maximum Connections: 200     Formats: "ts"
+
+#EXTINF:-1 group-title="lionbox",|FR| RMC Sport 1 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/839
+#EXTINF:-1,|FR| RMC Sport 2 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/840
+#EXTINF:-1,|FR| RMC Sport 3 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/841
+#EXTINF:-1,|FR| Rmc Sport 4 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/842
+#EXTINF:-1,|UK| MTV Base HD+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/957
+#EXTINF:-1,|UK| MTV 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/958
+#EXTINF:-1,|UK| MTV Music
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/959
+#EXTINF:-1,|UK| Club MTV
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/961
+#EXTINF:-1,|UK| MTV Hits
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/963
+#EXTINF:-1,|UK| MTV Rocks
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/965
+#EXTINF:-1,|UK| VH1 Classic
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/969
+#EXTINF:-1,|UK| Sky Cinema Disney HD+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/987
+#EXTINF:-1,|UK| Sky Cinema Drama & Romance 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/1003
+#EXTINF:-1,|UK| Sky Cinema Action 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/1006
+#EXTINF:-1,|UK| Sky Cinema Comedy 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/1011
+#EXTINF:-1,|UK| Sky Cinema Disney 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/1015
+#EXTINF:-1,|UK| Sky Cinema Family 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/1017
+#EXTINF:-1,|UK| Sky Cinema Select 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/1019
+#EXTINF:-1,|UK| Sky Cinema Premiere 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/1022
+#EXTINF:-1,|UK| Sky Cinema Sci-Fi & Horror 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/1024
+#EXTINF:-1,|UK| Sky Cinema Greats 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/1026
+#EXTINF:-1,|UK| Sony Movies 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/1029
+#EXTINF:-1,|UK| Sky Sport News 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/13891
+#EXTINF:-1,|UK| Sky Sports Football 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/13893
+#EXTINF:-1,|UK| Sky Sports Main Event 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/13899
+#EXTINF:-1,|UK| Sky Sports Premier League 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/13900
+#EXTINF:-1,|UK| BT Sport 1 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/13902
+#EXTINF:-1,|UK| BT Sport 2 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/13903
+#EXTINF:-1,|UK| BT Sport 3 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/13904
+
+#EXTINF:-1,|PT| Sport TV 1 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14550
+#EXTINF:-1,|PT| Sport TV 2 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14551
+#EXTINF:-1,|PT| Sport TV 3 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14552
+#EXTINF:-1,|PT| Sport TV 4 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14553
+#EXTINF:-1,|PT| Sport TV 5 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14554
+#EXTINF:-1,|PT| Eleven Sports 1 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14548
+#EXTINF:-1,|PT| Eleven Sports 2 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14544
+#EXTINF:-1,|PT| Eleven Sports 3 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14537
+#EXTINF:-1,|PT| Eleven Sports 4 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14535
+#EXTINF:-1,|PT| Eleven Sports 5 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14532
+#EXTINF:-1,|PT| Eleven Sports 6 4K+
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/14530
+
+#EXTINF:-1 group-title="lionbox",|IN| Zee Cinema
+http://in.lionboxiptv.nl:80/2021extree/XUNTU364vYVeGdqw/15516
+
+
 
 + + + + + ip.newboss.site:80 + + + + + Null + UK: SUPERSPORT + DSTV AFRICA| SuperSport 1 + + +
 
