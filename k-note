@@ -2452,6 +2452,44 @@ http://36.37.252.114:888/Apple/OneTV-118/playlist.m3u8
 offline
 http://36.37.252.114:888/Apple/OneTV-119
 
++ + + + + 203.154.177.124:8899 + + + + + TH
+
+FAST BOX
+http://203.154.177.124:8899/live/ch1/chunks.m3u8
+DOCU BOX
+http://203.154.177.124:8899/live/ch2/chunks.m3u8
+http://203.154.177.124:8899/live/ch3/chunks.m3u8
+FIGHT BOX
+http://203.154.177.124:8899/live/ch4/chunks.m3u8
+ANIMAX
+http://203.154.177.124:8899/live/ch5/chunks.m3u8
+ER http://203.154.177.124:8899/live/ch6/chunks.m3u8
+ACTION HOLLYWOOD MOVIE
+http://203.154.177.124:8899/live/ch7/chunks.m3u8
+http://203.154.177.124:8899/live/ch8/chunks.m3u8
+http://203.154.177.124:8899/live/ch9/chunks.m3u8
+
+http://203.154.177.124:8899/live/ch10/chunks.m3u8
+ER http://203.154.177.124:8899/live/ch11/chunks.m3u8
+WB TV
+http://203.154.177.124:8899/live/ch12/chunks.m3u8
+ER http://203.154.177.124:8899/live/ch13/chunks.m3u8
+ER http://203.154.177.124:8899/live/ch14/chunks.m3u8
+ER http://203.154.177.124:8899/live/ch15/chunks.m3u8
+ER http://203.154.177.124:8899/live/ch16/chunks.m3u8
+ER http://203.154.177.124:8899/live/ch17/chunks.m3u8
+http://203.154.177.124:8899/live/ch18/chunks.m3u8
+ER http://203.154.177.124:8899/live/ch19/chunks.m3u8
+
+http://203.154.177.124:8899/live/ch20/chunks.m3u8
+thrill
+http://203.154.177.124:8899/live/ch21/chunks.m3u8
+http://203.154.177.124:8899/live/ch22/chunks.m3u8
+http://203.154.177.124:8899/live/ch23/chunks.m3u8
+ER http://203.154.177.124:8899/live/ch24/chunks.m3u8
+ -/-/-/-/-/
+ER http://203.154.177.124:8899/live/ch39/chunks.m3u8
+
 + + + + + 220.158/KH/Kingtel + + + + +
 
  group-title="Kingtel",HLUTTAW /28:8180
