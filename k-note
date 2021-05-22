@@ -2188,7 +2188,7 @@ https://mptalive6-a.akamaihd.net:443/83c48cc94de947f392b2d08dc1eb694c/ap-southea
 
 + + + + + 27.254.130.62/feed + + + + +
 
-SUN
+#EXTINF:-1 group-title="27.254",SUN
 http://27.254.130.62/feed/LC1/index.m3u8
 http://27.254.130.62/feed/LC2/index.m3u8
 http://27.254.130.62/feed/LC3/index.m3u8
@@ -2202,16 +2202,16 @@ http://27.254.130.62/feed/LC10/index.m3u8
 
 SUN TH
 http://27.254.130.62/feed/LC11/index.m3u8
-DW
+#EXTINF:-1,DW
 http://27.254.130.62/feed/LC12/index.m3u8
-StarChineseMovie
+#EXTINF:-1,StarChineseMovie
 http://27.254.130.62/feed/LC13/index.m3u8
-[V]
+#EXTINF:-1,[V]
 http://27.254.130.62/feed/LC14/index.m3u8
 http://27.254.130.62/feed/LC15/index.m3u8
-CNA
+#EXTINF:-1,CNA
 http://27.254.130.62/feed/LC16/index.m3u8
-MRTV
+#EXTINF:-1,MRTV
 http://27.254.130.62/feed/LC17/index.m3u8
 http://27.254.130.62/feed/LC18/index.m3u8
 ER http://27.254.130.62/feed/LC19/index.m3u8
@@ -2223,7 +2223,7 @@ http://27.254.130.62/feed/LC24/index.m3u8
 http://27.254.130.62/feed/LC25/index.m3u8
 http://27.254.130.62/feed/LC26/index.m3u8
 http://27.254.130.62/feed/LC27/index.m3u8
-WB TV
+#EXTINF:-1,WB TV
 http://27.254.130.62/feed/LC28/index.m3u8
 ER http://27.254.130.62/feed/LC29/index.m3u8
 ER http://27.254.130.62/feed/LC30/index.m3u8
@@ -2238,6 +2238,7 @@ http://27.254.130.62/feed/LC38/index.m3u8
 ER http://27.254.130.62/feed/LC39/index.m3u8
 ER http://27.254.130.62/feed/LC40/index.m3u8
 http://27.254.130.62/feed/LC41/index.m3u8
+#EXTINF:-1 group-title="27.254",TRACE
 http://27.254.130.62/feed/LC42/index.m3u8
 http://27.254.130.62/feed/LC43/index.m3u8
 http://27.254.130.62/feed/LC44/index.m3u8
@@ -2246,6 +2247,17 @@ ER http://27.254.130.62/feed/LC46/index.m3u8
 ER http://27.254.130.62/feed/LC47/index.m3u8
 ER http://27.254.130.62/feed/LC48/index.m3u8
 ER http://27.254.130.62/feed/LC49/index.m3u8
+
+ER http://27.254.130.62/feed/LC50/index.m3u8
+http://27.254.130.62/feed/LC51/index.m3u8
+http://27.254.130.62/feed/LC52/index.m3u8
+http://27.254.130.62/feed/LC53/index.m3u8
+ER http://27.254.130.62/feed/LC54/index.m3u8
+ER http://27.254.130.62/feed/LC55/index.m3u8
+http://27.254.130.62/feed/LC56/index.m3u8
+http://27.254.130.62/feed/LC57/index.m3u8
+http://27.254.130.62/feed/LC58/index.m3u8
+ER http://27.254.130.62/feed/LC59/index.m3u8
 
 http://27.254.130.62/feed/chboomberang/tracks-v1a1/mono.m3u8
 
