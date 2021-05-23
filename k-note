@@ -4901,6 +4901,70 @@ http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="77.83/TH",SKYNET SPORTS HD |77'
 http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
 
++ + + + + http://79.119.56.193:9981/extjs.html + + + + + 
+
+
+
+
+
++ + + + + http://81.228.189.5:9981/extjs.html + + + + + debi88:debi88
+
+#EXTINF:-1 group-title="81.228",BBC World
+http://81.228.189.5:9981/stream/channelid/1947817340?ticket=667D44B62E4E4E661E34DFBB40115757F4D99E2B&profile=pass
+#EXTINF:-1,BBC World News
+http://81.228.189.5:9981/stream/channelid/952475460?ticket=D3217312CBC9CD1E90F2F7530F7D095ECCA50943&profile=pass
+Brazzers TV http://81.228.189.5:9981/stream/channelid/1272638239?ticket=46AE387733ABAD719AC5BCD4885CAFE19DB3CD8D&profile=pass
+#EXTINF:-1,MTV Hits
+http://81.228.189.5:9981/stream/channelid/251529328?ticket=E8594B3D7EA9EF8AE3D0034F104E0E02B1C1B1E2&profile=pass
+#EXTINF:-1,MTV Hits
+http://81.228.189.5:9981/stream/channelid/1940013265?ticket=1E4D38FCC41B96070F34CA1EE496B0F3B6A8A9AB&profile=pass
+#EXTINF:-1,MTV Nordic
+http://81.228.189.5:9981/stream/channelid/1128230605?ticket=E1FAEAF0D149A02BF05C5B8121E48ED5994988A3&profile=pass
+#EXTINF:-1,VH1
+http://81.228.189.5:9981/stream/channelid/1532498199?ticket=983A1FDD641ED70FC5AFDC00A3CB5F446A5B9231&profile=pass
+#EXTINF:-1,VH1
+http://81.228.189.5:9981/stream/channelid/1984932072?ticket=AFFFC4A1BA051D38054703FD487A6C737BA6AA55&profile=pass
+#EXTINF:-1,VH1 Classic
+http://81.228.189.5:9981/stream/channelid/1827582324?ticket=C8646AECD4FF9DE7EC600A58258C59979AE42DA4&profile=pass
+#EXTINF:-1,V Sport + (NO)
+http://81.228.189.5:9981/stream/channelid/1190689947?ticket=872A33846AC0E9B4FBBE23D35D74ABFD89729ADA&profile=pass
+#EXTINF:-1,V Sport 1 (NO)
+http://81.228.189.5:9981/stream/channelid/735142032?ticket=951F3BDA40097A534F15B3F9E5409A6BECA27E97&profile=pass
+#EXTINF:-1,V Sport 1 HD (SE)
+http://81.228.189.5:9981/stream/channelid/1333578312?ticket=4D50B64A5335EF4B36966B9992B2A3D842ADEC4F&profile=pass
+#EXTINF:-1,V Sport 2 (NO)
+http://81.228.189.5:9981/stream/channelid/466388312?ticket=295ADD9BA546B1D097E9AFE870E116D96210589A&profile=pass
+#EXTINF:-1,V Sport 3 (NO)
+http://81.228.189.5:9981/stream/channelid/753336167?ticket=A2357C92E9C7365307BE033E8E72E567052B5D16&profile=pass
+#EXTINF:-1,V Sport Extra HD
+http://81.228.189.5:9981/stream/channelid/245818204?ticket=B8B946C8E5324AF2CD32F8EEA6AC996227FFF377&profile=pass
+#EXTINF:-1,V Sport Extra HD
+http://81.228.189.5:9981/stream/channelid/1101871660?ticket=5F71046675B83E8C23D4AD05946B8BDFABAED360&profile=pass
+#EXTINF:-1,V Sport Football HD
+http://81.228.189.5:9981/stream/channelid/1036451084?ticket=EA5A68231F8D0281E4BFF809B019B781C89572D4&profile=pass
+#EXTINF:-1,V Sport Golf HD
+http://81.228.189.5:9981/stream/channelid/1219216564?ticket=BAC552CBF0BE9995617EFEF1C9ADD95278C36019&profile=pass
+#EXTINF:-1,V Sport Hockey HD
+http://81.228.189.5:9981/stream/channelid/932773479?ticket=8A816CEC755EB887C107D3B55AFB3B8888A38E38&profile=pass
+#EXTINF:-1,V Sport Live 2
+http://81.228.189.5:9981/stream/channelid/426996963?ticket=C4D710B4C25CF9BE601F7C283948141AA2083443&profile=pass
+#EXTINF:-1,V Sport Live 3
+http://81.228.189.5:9981/stream/channelid/2112288022?ticket=8B52D67944B824E1B51AAD26281494B90786AE02&profile=pass
+#EXTINF:-1,V Sport Live 4
+http://81.228.189.5:9981/stream/channelid/195741755?ticket=49A404F9AF5A9865D89C50CB86FA25BE3999E0E8&profile=pass
+#EXTINF:-1,V Sport Live 5
+http://81.228.189.5:9981/stream/channelid/2057008023?ticket=57875C7E070DD95D7694191E17E00623FB922BD7&profile=pass
+#EXTINF:-1,V Sport Premium HD
+http://81.228.189.5:9981/stream/channelid/2077372414?ticket=5DD7F064061F496CA3917EDE2DA328B1909F1C49&profile=pass
+#EXTINF:-1,V Sport Ultra HD
+http://81.228.189.5:9981/stream/channelid/2071597920?ticket=4BF26571D00B31AE39DDC6F56F0D2AF5C97F7412&profile=pass
+#EXTINF:-1,V Sport Ultra HD
+http://81.228.189.5:9981/stream/channelid/2022424971?ticket=95727529E09A4D3E167EF6FD8F63A8449ACDB384&profile=pass
+#EXTINF:-1,V Sport Urheilu
+http://81.228.189.5:9981/stream/channelid/2014885026?ticket=865109DF1DB3785A4794632D12506CB32BF02113&profile=pass
+#EXTINF:-1 group-title="81.228",V Sport Live 1
+http://81.228.189.5:9981/stream/channelid/1447807544?ticket=C8D0F121C006E6AA4EDE91D31EBA44A0605A5CE7&profile=pass
+
 + + + + + http://82.45.49.11:9981/extjs.html + + + + + connor:str94eEt@
 
 http://connor:str94eEt@82.45.49.11:9981/playlist/channels
