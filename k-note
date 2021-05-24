@@ -14192,6 +14192,11 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
 
 http://iptv.kitv.live:1935/get.php?username=Shari&password=MTV-P&type=m3u < null < 1-0 < not play
 
++ + + + + iptv.tvmalaysia.cc:80 + + + + +
+
+http://iptv.tvmalaysia.cc:80/get.php?username=penang172&password=penang172&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 1/4/2021 9:36:42 AM     Expires: Null    Active Connections: 4     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
 + + + + + iptv8.premium-stv.com:2052 + + + + +
 
 http://iptv.starhd.pk:8880/get.php?username=tomasarenaex2020&password=6QSaARNuqn&type=m3u
