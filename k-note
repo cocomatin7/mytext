@@ -12977,15 +12977,13 @@ http://185.38.151.41:15001/get.php?username=5D4FZBLept&password=gnJ1X4dXDi&type=
 
 + + + + + 185.226.88.6:1026 + + + + +
 
-http://185.226.88.6:1026/get.php?username=SMYYKzbS0z&password=HRj5TKnrRx&type=m3u < null < 1000-276
+http://185.226.88.6:1026/get.php?username=SMYYKzbS0z&password=HRj5TKnrRx&type=m3u < null < 1000-191
+
+ CNN Internacional http://185.226.88.6:1026/live/SMYYKzbS0z/HRj5TKnrRx/134.m3u8
 
  Desire http://185.226.88.6:1026/live/SMYYKzbS0z/HRj5TKnrRx/7.m3u8
  Bunga Bunga http://185.226.88.6:1026/live/SMYYKzbS0z/HRj5TKnrRx/8.m3u8
  Bizarre http://185.226.88.6:1026/live/SMYYKzbS0z/HRj5TKnrRx/9.m3u8
-
-+ + + + + 185.134.22.131:8080 + + + + + 28/9/2021
-
-http://web24.live:8080/get.php?username=6657847853&password=UecFX5R79a&type=m3u Real Url: 185.134.22.131:8080     Status: Active Expires: 28/9/2021 Connections: 11-11
 
 + + + + + 188.40.76.108:25461 /mytv01 + + + + +
 
@@ -12994,16 +12992,17 @@ http://188.40.76.108:25461/get.php?username=mytv01&password=uSIRzmks51&type=m3u 
 + + + + + 207.244.239.77:25461 + + + + + Null + + + + +
 
 http://207.244.239.77:25461/get.php?username=free&password=free&type=m3u
-Real Url: 207.244.239.77:25461     Status: Active    Created: 17/4/2021 3:20:54 PM     Expires: Null    Active Connections: 10     Maximum Connections: 99999
+Real Url: 207.244.239.77:25461     Status: Active    Created: 17/4/2021 3:20:54 PM     Expires: Null    Active Connections: 10     Maximum Connections: 99999 < DOWN
 
-+ + + + + 209.145.54.100:25461 + + + + + Null + + + + +
++ + + + + 209.145.54.100:25461 + + + + + Null + + + + + DOWN
 
 http://209.145.54.100:25461/get.php?username=tm-114-live&password=tm4.xyz&type=m3u Expires: Null    Active Connections: 2     Maximum Connections: 3333 < N
 http://209.145.54.100:25461/get.php?username=tm0live2&password=tm4.xyz&type=m3u Expires: Null    Active Connections: 1     Maximum Connections: 5000 < N
 
 + + + + + 209.145.58.109:25461 + + + + + Null + + + + +
 
-http://209.145.58.109:25461/get.php?username=0SmzsfBiue&password=bD5ry59Og9&type=m3u Expires: Null    Active Connections: 5     Maximum Connections: 1000  
+http://209.145.58.109:25461/get.php?username=0SmzsfBiue&password=bD5ry59Og9&type=m3u
+Real Url: 209.145.58.109:25461     Status: Active    Created: 18/4/2021 6:26:25 PM     Expires: Null    Active Connections: 11     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp"  
 
 #EXTINF:-1 group-title="209.145",Fox Action 
 http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/9.m3u8
@@ -13066,10 +13065,10 @@ http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/66.m3u8
 + + + + + 209.222.101.100:25461 + + + + + 10/10/2021 / 5-5 + + + + +
 
 http://209.222.101.100:25461/get.php?username=tv&password=tv&type=m3u
-Real Url: 209.222.101.100:25461     Status: Active    Created: 10/10/2020 11:25:57 PM     Expires: 10/10/2021 11:25:57 PM    Active Connections: 5     Maximum Connections: 5
+Real Url: 209.222.101.100:25461     Status: Active    Created: 10/10/2020 11:25:57 PM     Expires: 10/10/2021 11:25:57 PM    Active Connections: 2     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
 
 http://supersonictv.live:25461/get.php?username=dalvin&password=dalvin&type=m3u
-Real Url: 209.222.101.100:25461     Status: Active    Created: 3/6/2020 3:34:15 AM     Expires: 13/12/2021 5:34:43 PM    Active Connections: 2     Maximum Connections: 2
+Real Url: 209.222.101.100:25461     Status: Banned    Created: 3/6/2020 3:34:15 AM     Expires: 13/12/2021 5:34:43 PM    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
 
  group-title="209.222",USA MTV Classic
 http://209.222.101.100:25461/live/tv/tv/13751.m3u8
