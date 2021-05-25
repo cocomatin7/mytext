@@ -15115,23 +15115,20 @@ http://www.mo3ad.xyz:8080/live/mo3ad7/mo3ad7/31.m3u8
 
 http://catenamode.cf:8090/get.php?username=muttsnuts&password=PzreCs7oYP&type=m3u < N
 
-+ + + + + muttsnuts.teaches-yoga.com:8080 + + + + +
++ + + + + muttsnuts.teaches-yoga.com:8080 + + + + + DOWN
 
 http://vip3rtv.servebeer.com:8080/get.php?username=Buster&password=Buster&type=m3u
-Real Url: muttsnuts.teaches-yoga.com:8080     Status: Active    Created: 15/4/2021 1:44:36 AM     Expires: 24/5/2021 6:44:00 AM    Active Connections: 12     Maximum Connections: 500     Formats: "m3u8","ts","rtmp"
+Real Url: muttsnuts.teaches-yoga.com:8080     Status: Active    Created: 15/4/2021 1:44:36 AM     Expires: 24/5/2021 6:44:00 AM    Active Connections: 12     Maximum Connections: 500     Formats: "m3u8","ts","rtmp" < DOWN
 
-+ + + + + new-pro.tv:8080 + + + + + null
++ + + + + new-pro.tv:8080 + + + + + null + + + DOWN
 
 http://new-pro.tv:8080/get.php?username=live:diplomatmobstar&password=restream494862&type=m3u
-Real Url: new-pro.tv:8080     Status: Active    Created: 30/3/2020 12:23:37 AM     Expires: Null    Active Connections: 323     Maximum Connections: 400
+Real Url: new-pro.tv:8080     Status: Active    Created: 30/3/2020 12:23:37 AM     Expires: Null    Active Connections: 323     Maximum Connections: 400 < DOWN
 
 + + + + + nonton.site:8443 + + + + + 23/04/2021 + + + + +
 
 https://nonton.site:8443/get.php?username=global12&password=mgt&type=m3u < Exp
-
-https://nonton.site:8443/get.php?username=6894864475&password=7163819284&type=m3u
-Real Url: nonton.site:8888     Status: Active    Created: 14/10/2020 5:00:00 PM     Expires: 21/5/2021 5:00:00 PM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
-
+https://nonton.site:8443/get.php?username=6894864475&password=7163819284&type=m3u < Exp
 
 + + + + + To check + + + + +
 
@@ -15143,10 +15140,8 @@ http://nowatv.dyndns.info:8080/live/kam-mot@o2.pl/fj2HUYet1s/17.m3u8
 
 + + + + + ottiptv.us:2095 + + + + + Null + + + + +
 
-http://ottiptv.us:25461/get.php?username=iptvtree.com&password=90X312b737L26&type=m3u
-Real Url: ottiptv.us:2095     Status: Active    Created: 5/11/2020 10:08:35 PM     Expires: Null Connections: 200-117
 http://ottiptv.us:2095/get.php?username=iptvtree.com&password=90X312b737L26&type=m3u
-Real Url: ottiptv.us:2095     Status: Active    Created: 5/11/2020 10:08:35 PM     Expires: Null    Active Connections: 125     Maximum Connections: 200
+Real Url: ottiptv.us:2095     Status: Active    Created: 5/11/2020 10:08:35 PM     Expires: Null    Active Connections: 153     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
 
 #EXTINF:-1 group-title="ottiptv",|SAF| SuperSport 1
 http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/24228.m3u8
@@ -15784,22 +15779,22 @@ http://185.52.77.67:8080/Candy/index.m3u8
 http://194.190.78.91:8080/shelk/index.m3u8
 http://194.190.78.91:8080/shelksd/index.m3u8
 
-+ + + + + rico.besttvps.com:8080 + + + + +
++ + + + + rico.besttvps.com:8080 + + + + + DOWN
 
 https://rico.besttvps.com:443/get.php?username=Ricotvv&password=Ricotvv&type=m3u
 Real Url: rico.besttvps.com:8080     Status: Active    Created: 5/4/2021 10:02:35 PM     Expires: Null    Active Connections: 67     Maximum Connections: 30000 < DOWN
 
-+ + + + + romax.live:2086 + + + + +
++ + + + + romax.live:2086 + + + + + DOWN
 
 http://romax.live:2086/get.php?username=nomore:live&password=E4SKdGsEyc&type=m3u
-Real Url: romax.live:2086     Status: Active    Created: 7/4/2021 11:13:16 AM     Expires: Null    Active Connections: 840     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp"
+Real Url: romax.live:2086     Status: Active    Created: 7/4/2021 11:13:16 AM     Expires: Null    Active Connections: 840     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp" < DOWN
 
 + + + + + starshare.live:8080 [MY+MM] + + + + +
 
 + + + + + s1.showplustv.com:1997 [TH+MM] + + + + +
 
 http://s1.showplustv.com:1997/get.php?username=79956amigoIAHDAC&password=IUIAD56scoYaks&type=m3u
-Real Url: s1.showplustv.com:1997     Status: Active    Created: 28/2/2020 10:21:14 AM     Expires: Null    Active Connections: 312     Maximum Connections: 400     Formats: "m3u8","ts","rtmp"
+Real Url: s1.showplustv.com:1997     Status: Active    Created: 28/2/2020 10:21:14 AM     Expires: Null    Active Connections: 372     Maximum Connections: 400     Formats: "m3u8","ts","rtmp"
 
 #EXTINF:-1 group-title="showplus",|DSTV| SuperSport 1
 http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/60665.m3u8
@@ -15907,6 +15902,7 @@ http://s1.showplustv.com:1997/live/79956amigoIAHDAC/IUIAD56scoYaks/59904.m3u8
 + + + + + securepoint.io:83/pie.buzz:83 + + + + + 28/5/2021 + + + + +
 
 http://securepoint.io:83/get.php?username=Peter.nyr1909&password=6547736256&type=m3u Real Url: pie.buzz:83 Expires: 28/5/2021 Connections: 100-0 < not play
+
 http://104.218.60.227:83/get.php?username=promo&password=promo&type=m3u&output=hls Real Url: securepoint.io:83 / 104.218.60.227:83 Expires: 25/2/2022 Connections: 5-5 < DOWN
 
 http://tv.rebeliptv.com:83/get.php?username=91595487&password=07862755&type=m3u Real Url: securepoint.io:83     Status: Active Expires: 26/6/2021 4:44:00 AM     Maximum Connections: 2 <<
