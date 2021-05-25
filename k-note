@@ -15044,11 +15044,10 @@ http://maxx-iptv10.ddns.net:8080/get.php?username=maxx015&password=7857585044&ty
 https://main.malidows.com:2083/get.php?username=popkanale&password=iptv&type=m3u
 Real Url: main.malidows.com:2082     Status: Active    Created: 28/4/2021 2:34:39 PM     Expires: Null    Active Connections: 106     Maximum Connections: 1000 
 
-+ + + + + mate.ovh:8000 + + + + +
++ + + + + mate.ovh:8000 + + + + + DOWN
 
 http://mate.ovh:8000/get.php?username=Tayfungjkkdl&password=qATwje6Vdt89ekke&type=m3u
-Real Url: mate.ovh:8000     Status: Active    Created: 12/7/2018 4:43:01 AM     Expires: Null    Active Connections: 30     Maximum Connections: 120 < not so good < to check
-
+Real Url: mate.ovh:8000     Status: Active    Created: 12/7/2018 4:43:01 AM     Expires: Null Connections: 120-30 < not so good < DOWN
 
 + + + + + media.haxed.net + + + + +
 
@@ -15066,7 +15065,7 @@ http://mhiptv.com:8888/live/ka5/ka5/3652.m3u8
 + + + + + www.mo3ad.xyz:8080 + + + + +
 
 http://www.mo3ad.xyz:8080/get.php?username=mo3ad7&password=mo3ad7&type=m3u
-Real Url: www.mo3ad.xyz:8080     Status: Active    Created: 18/5/2021 1:42:22 PM     Expires: Null    Active Connections: 4     Maximum Connections: 1000
+Real Url: www.mo3ad.xyz:8080     Status: Active    Created: 18/5/2021 1:42:22 PM     Expires: Null    Active Connections: 24     Maximum Connections: 130     Formats: "m3u8","ts","rtmp"
 
 #EXTINF:-1 group-title="mo3ad",beIN Sports 1 Premium HD
 http://www.mo3ad.xyz:8080/live/mo3ad7/mo3ad7/1.m3u8
