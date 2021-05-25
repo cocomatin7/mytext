@@ -12499,28 +12499,6 @@ http://23.237.88.117:25461/load/cancun/cancun1/31270.mpegts
 
 http://31.220.40.123:80/get.php?username=kkkrkDp2a9KNwAwGzpb&password=QT94uK5NNQw4r4Qs&type=m3u < null < DOWN
 
- group-title="31.220",CNBC HD (ENG)
-http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/501.m3u8
-,CNBC US
-http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/502.m3u8
-,NBCSN  HD (ENG)
-http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606.m3u8
-,FS1
-http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549.m3u8
-,FS2
-http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550.m3u8
-,BEIN SPORTS ENG HD
-http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488.m3u8
-,ELEVEN SPORTS
-http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517.m3u8
-,BEIN ESPANIOL HD
-http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487.m3u8
-,Bloomberg
-http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/767.m3u8
-,FIGHT NETWORK
-http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526.m3u8
- group-title="31.220",UFC USA
-http://31.220.40.123:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122.m3u8
 
 + + + + + 34.70.48.178:25461 + + + + +
 
@@ -12534,7 +12512,8 @@ http://51.15.1.11:25461/get.php?username=MEGA-TV&password=TELEGRAM&type=m3u < DO
 
 + + + + + 51.91.73.99:25461 + + + + + null + + + +
 
-http://51.91.73.99:25461/get.php?username=usachannel&password=ngZnG8PD5i&type=m3u Expires: Null    Active Connections: 35     Maximum Connections: 100 < FR, DE, US
+http://51.91.73.99:25461/get.php?username=usachannel&password=ngZnG8PD5i&type=m3u
+Real Url: 51.91.73.99:25461     Status: Active    Created: 30/5/2020 8:38:00 AM     Expires: Null    Active Connections: 29     Maximum Connections: 100     Formats: "m3u8","ts","rtmp" < FR, DE, US
 
 #EXTINF:-1 group-title="51.91",US: MTV 2 HD
 http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/18077.m3u8
@@ -12605,7 +12584,7 @@ http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/18136.m3u8
 
 + + + + + 54k.top:8000 + + + + + null + + + + 10000-13
 
-http://54k.top:8000/get.php?username=to44j&password=oyvee&type=m3u&output=hls < null < 10000-11
+http://54k.top:8000/get.php?username=to44j&password=oyvee&type=m3u&output=hls < null < < m3u8, ts < 10000-11
 
 #EXTINF:-1 group-title="54k",VIP AR: Bein Sport HD9
 http://54k.top:8000/live/to44j/oyvee/47.m3u8
@@ -12822,7 +12801,8 @@ http://54k.top:8000/live/to44j/oyvee/105.m3u8
 
 + + + + + 62.182.80.153:80 + + + + + Null + + + + +
 
-http://62.182.80.153:80/get.php?username=Livetv&password=master&type=m3u Expires: Null    Active Connections 0-381
+http://62.182.80.153:80/get.php?username=Livetv&password=master&type=m3u
+Real Url: 62.182.80.153:80     Status: Active    Created: 7/11/2020 2:59:04 AM     Expires: Null    Active Connections: 228     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
 
 #EXTINF:-1 group-title="62.182",UK: SKY CINEMA PREMIERE
 http://62.182.80.153:80/live/Livetv/master/1.m3u8
@@ -12954,16 +12934,7 @@ https://xc.gt-app.tk:2083/get.php?username=GThn&password=qLzpvNzf04JgYjTwKgHrMgR
 
 + + + + + 173.198.198.102:25461 + + + + +
 
-http://173.198.198.102:25461/get.php?username=shahidandroid&password=FeyxFIpoYz&type=m3u Expires: Null Connections: 4000-9     Formats: "ts"
-
- group-title="173.198",Bein pre 1 fire
-http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/1
-,Bein 2 pre fire 
-http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/2
-,Bein1
-http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/3
- group-title="173.198",Bein3
-http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/5
+http://173.198.198.102:25461/get.php?username=shahidandroid&password=FeyxFIpoYz&type=m3u Expires: Null Connections: 4000-9     Formats: "ts" < DOWN
 
 + + + + + 176.98.26.37:8000 + + + + +
 
