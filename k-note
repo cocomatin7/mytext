@@ -12486,6 +12486,42 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v3a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/index.m3u8
 
++ + + + + 2.56.215.148:25461 + + + + +
+
+http://2.56.215.148:25461/get.php?username=test&password=test&type=m3u
+Real Url: 2.56.215.148:25461     Status: Active    Created: 14/10/2020 8:45:02 PM     Expires: Null    Active Connections: 0     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="2.56",1_4k
+http://2.56.215.148:25461/live/test/test/1.m3u8
+#EXTINF:-1,1__1080p*
+http://2.56.215.148:25461/live/test/test/2.m3u8
+#EXTINF:-1,1__720p
+http://2.56.215.148:25461/live/test/test/3.m3u8
+#EXTINF:-1,1__480p*
+http://2.56.215.148:25461/live/test/test/4.m3u8
+#EXTINF:-1,1__360p*
+http://2.56.215.148:25461/live/test/test/5.m3u8
+#EXTINF:-1,1__240p
+http://2.56.215.148:25461/live/test/test/6.m3u8
+#EXTINF:-1,2__1080p
+http://2.56.215.148:25461/live/test/test/7.m3u8
+#EXTINF:-1,2__720p*
+http://2.56.215.148:25461/live/test/test/8.m3u8
+#EXTINF:-1,2__480p*
+http://2.56.215.148:25461/live/test/test/9.m3u8
+#EXTINF:-1,2__360p
+http://2.56.215.148:25461/live/test/test/10.m3u8
+#EXTINF:-1,2__240p*
+http://2.56.215.148:25461/live/test/test/11.m3u8
+#EXTINF:-1,3_1080*
+http://2.56.215.148:25461/live/test/test/12.m3u8
+#EXTINF:-1,3_720*
+http://2.56.215.148:25461/live/test/test/13.m3u8
+#EXTINF:-1,3_360*
+http://2.56.215.148:25461/live/test/test/14.m3u8
+#EXTINF:-1 group-title="2.56",3_240*
+http://2.56.215.148:25461/live/test/test/15.m3u8
+
 
 + + + + + 5.254.20.52:8080 + + + + +
 
@@ -13463,6 +13499,10 @@ Real Url: cobraa.in:8000     Status: Active    Created: 12/5/2021 10:10:26 PM   
 
 http://coresys.dvrdns.org:8080/get.php?username=stalkerportal&password=UvrHfGiEXE&type=m3u Status: Active Expires: Null Connections: 0-1 < Latin + xxx < DOWN
 
++ + + + + darkiptv.co:8000 + + + + + 
+
+http://ottin.me:8000/get.php?username=salam_000946&password=ImHfNpi5&type=m3u
+Real Url: darkiptv.co:8000     Status: Active    Created: 11/4/2021 10:56:08 AM     Expires: Null    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts"
 
 + + + + + dankstream.com:2082 + + + + + DOWN
 
