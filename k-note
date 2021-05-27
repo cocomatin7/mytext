@@ -2,8 +2,31 @@
 x-tvg-url="https://rebrand.ly/k-epg"
 
 http://akamaizedx.com:80/get.php?username=odair100&password=odair100&type=m3u < to check
-http://new-pro.tv:8080/get.php?username=live:diplomatmobstar&password=restream494862&type=m3u
-Real Url: new-pro.tv:8080     Status: Active    Created: 30/3/2020 12:23:37 AM     Expires: Null    Active Connections: 310     Maximum Connections: 400
+
+
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+http://93.190.139.35:8278/streams/d/Assp1/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
+http://213.186.33.5/streams/d/Assp1/playlist.m3u8
+
+
+http://f4.tvxweb.net:8082/18086/playlist.m3u8
+http://f4.tvxweb.net:8082/18096/playlist.m3u8
+
+
+2
+http://f4.tvxweb.net:8082/24264/playlist.m3u8
+6
+http://f4.tvxweb.net:8082/24268/playlist.m3u8
+7
+http://f4.tvxweb.net:8082/24269/playlist.m3u8
+http://f4.tvxweb.net:8082/24272/playlist.m3u8
+11
+http://f4.tvxweb.net:8082/24273/playlist.m3u8
+http://f4.tvxweb.net:8082/24316/playlist.m3u8
+
+http://f4.tvxweb.net:8082/35970/video.m3u8
 
 
  group-title="DHAMMA", ပရိတ်ကြီး ၁၁ သုတ် မြောက်ဦးဆရာတော်
@@ -583,6 +606,8 @@ http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/206/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6123/index.m3u8
 http://7341035e.edemist.com/iptv/YSZEBB3QYC3TXF/6123/index.m3u8
 
+TV1000 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/1065/index.m3u8
+
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6050/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6051/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6052/index.m3u8
@@ -789,6 +814,7 @@ http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6227/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6228/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6229/index.m3u8
 
+xxx http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/6272/index.m3u8
 
 -/-/-/-/-/-
 
@@ -3056,7 +3082,7 @@ http://4digital.ddns.net:9981/stream/channelid/2097246791?ticket=4068219972CE699
 
 + + + + + 50.7/TH + + + + +
 
-http://50.7.161.82:8278//Foxmovie/playlist.m3u8?tid=12323486&tsum=6079b8a2cef1f0c8a95583a5e2424885
+http://50.7.161.82:8278/Foxmovie/playlist.m3u8?tid=12323486&tsum=6079b8a2cef1f0c8a95583a5e2424885
 http://50.7.161.82:8278/Aec/playlist.m3u8?tid=m02000000000015751423&ct=18077&tsum=0a1235753bfb672ce47b241f15dc4a3e
 http://50.7.161.82:8278/Aec/playlist.m3u8?tid=m02000000000016302253&ct=17975&tsum=49305fbef37ad7f136193102fbfebea1
 http://50.7.161.82:8278/Animalplanet/playlist.m3u8?tid=14622087&tsum=cf7adb262cbdad60903925b3e46f6bbf
@@ -6654,10 +6680,15 @@ http://185.180.221.194:8278/streams/d/Discovery/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
+Hbo
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+Hbofamily
 http://185.180.221.194:8278/streams/d/Hbofamily/playlist.m3u8
+Hbohd
 http://185.180.221.194:8278/streams/d/Hbohd/playlist.m3u8
+Hbohits
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+Hbosignature
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
@@ -13717,6 +13748,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
 http://iptv.kitv.live:1935/get.php?username=Shari&password=MTV-P&type=m3u < null < 1-0 < not play
 
 + + + + + iptv.tvmalaysia.cc:80 + + + + +
+
 
 http://iptv.tvmalaysia.cc:80/get.php?username=penang172&password=penang172&type=m3u
 Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 1/4/2021 9:36:42 AM     Expires: Null    Active Connections: 4     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
