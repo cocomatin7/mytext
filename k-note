@@ -13082,6 +13082,9 @@ Real Url: 207.244.239.77:25461     Status: Active    Created: 17/4/2021 3:20:54 
 http://209.145.54.100:25461/get.php?username=tm-114-live&password=tm4.xyz&type=m3u Expires: Null    Active Connections: 2     Maximum Connections: 3333 < N
 http://209.145.54.100:25461/get.php?username=tm0live2&password=tm4.xyz&type=m3u Expires: Null    Active Connections: 1     Maximum Connections: 5000 < N
 
+http://209.145.54.100:25461/get.php?username=ccvbg452&password=tm4.xyz&type=m3u
+Real Url: 209.145.54.100:25461     Status: Active    Created: 22/4/2021 12:41:49 PM     Expires: Null    Active Connections: 4     Maximum Connections: 55     Formats: "m3u8","ts","rtmp"
+
 + + + + + 209.145.58.109:25461 + + + + + Null + + + + +
 
 http://209.145.58.109:25461/get.php?username=0SmzsfBiue&password=bD5ry59Og9&type=m3u
@@ -13210,6 +13213,11 @@ http://1sn.ns1.name:18800/get.php?username=fadilh66SkypeExYuVeryGood2017Started&
 + + + + + albiptv.org:8000 + + + + +
 
 http://albiptv.org:8000/get.php?username=Fuat11&password=Fuat11&type=m3u Expires: Null Connections: 4-7
+
++ + + + + aloka-iptv.xyz:80 + + + + +
+
+https://aloka-iptv.xyz:443/get.php?username=MEGA-TV51&password=TELEGRAM&type=m3u
+Real Url: aloka-iptv.xyz:80     Status: Active    Created: 1/5/2021 3:00:24 PM     Expires: Null    Active Connections: 0     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
 
 + + + + + ankastream.com:8080 + + + + +
 
