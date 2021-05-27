@@ -15542,8 +15542,16 @@ Real Url: tt61.mine.nu:80     Status: Active    Created: Null     Expires: Null 
 http://tv.dansk.live:8080/get.php?username=resell&password=nKTVSaaJ6f&type=m3u
 Real Url: tv.dansk.live:8080     Status: Active    Created: 23/5/2021 2:30:26 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1000     Formats: "ts" < MTV
 
-MTV 80
+
+#EXTINF:-1 group-title="dansk",MTV |dan
+http://tv.dansk.live:8080/resell/nKTVSaaJ6f/43.ts
+#EXTINF:-1,MTV 80 |dan
 http://tv.dansk.live:8080/live/resell/nKTVSaaJ6f/44.ts
+#EXTINF:-1,VH1 |dan
+http://tv.dansk.live:8080/resell/nKTVSaaJ6f/76.ts
+#EXTINF:-1 group-title="dansk",BBC World News |dan
+http://tv.dansk.live:8080/resell/nKTVSaaJ6f/88.ts
+
 
 + + + + + tv.iptv5latino.cl:8080 + + + + +
 
