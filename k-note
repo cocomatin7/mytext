@@ -330,6 +330,46 @@ https://jkl.masuk.id/nb/SIG/index.m3u8
 https://jkl.masuk.id/nb/RED/index.m3u8
 
 
+
+http://f4.tvxweb.net:8082/18086/playlist.m3u8
+
+http://f4.tvxweb.net:8082/18096/playlist.m3u8
+http://f4.tvxweb.net:8082/18098/playlist.m3u8
+http://f4.tvxweb.net:8082/18099/playlist.m3u8
+
+#EXTINF:-1 group-title="movies",xpremium 1
+http://f4.tvxweb.net:8082/24263/playlist.m3u8
+#EXTINF:-1,xpremium 2
+http://f4.tvxweb.net:8082/24264/playlist.m3u8
+#EXTINF:-1,xpremium 3
+http://f4.tvxweb.net:8082/24265/playlist.m3u8
+#EXTINF:-1,xpremium 4
+http://f4.tvxweb.net:8082/24266/playlist.m3u8
+#EXTINF:-1,xpremium 5
+http://f4.tvxweb.net:8082/24267/playlist.m3u8
+#EXTINF:-1,xpremium 6
+http://f4.tvxweb.net:8082/24268/playlist.m3u8
+#EXTINF:-1,xpremium 7
+http://f4.tvxweb.net:8082/24269/playlist.m3u8
+#EXTINF:-1,xpremium 8
+http://f4.tvxweb.net:8082/24270/index.m3u8
+#EXTINF:-1,xpremium 9
+http://f4.tvxweb.net:8082/24271/index.m3u8
+#EXTINF:-1,xpremium 10
+http://f4.tvxweb.net:8082/24272/playlist.m3u8
+#EXTINF:-1 group-title="movies",xpremium 11
+http://f4.tvxweb.net:8082/24273/playlist.m3u8
+
+http://f4.tvxweb.net:8082/24316/playlist.m3u8
+
+http://f4.tvxweb.net:8082/35970/video.m3u8
+http://f4.tvxweb.net:8082/35974/video.m3u8
+http://f4.tvxweb.net:8082/35975/video.m3u8
+http://f4.tvxweb.net:8082/35976/video.m3u8
+http://f4.tvxweb.net:8082/35977/video.m3u8
+http://f4.tvxweb.net:8082/35979/video.m3u8
+
+
  group-title="movies", ID:Cinemax SD
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=a87ff679a2f3e71d9181a67b7542122c202cb962ac59075b964b07152d234b70
 , ID:HBO SD
