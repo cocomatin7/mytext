@@ -1238,6 +1238,57 @@ http://31.220.41.87:8081/live/bein9.stream/playlist.m3u8
 #EXTINF:-1,beIN 10SD
 http://31.220.41.87:8081/live/bein10.stream/playlist.m3u8
 
+#EXTINF:-1,beIN 1FR |sh
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8907c27630df2d2.m3u8
+http://alphabetagama.myddns.me/sports2021/bein1fr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDIxIDEyOjE4OjI0IEFNJmhhc2hfdmFsdWU9QlNValk0N3o2emk4QUh3Z0ZIcDU3UT09JnZhbGlkbWludXRlcz0y
+http://46.249.32.20:6563/sports2021/bein1fr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDIxIDEyOjE4OjI0IEFNJmhhc2hfdmFsdWU9QlNValk0N3o2emk4QUh3Z0ZIcDU3UT09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1,RMC 1 |sh
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/35bebda7c9c68f9.m3u8
+http://46.249.32.72:1245/sports2021/sfrsp1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDIxIDEyOjE3OjUzIEFNJmhhc2hfdmFsdWU9VEptSUdGMXc0aUZpVVk3QnVlRUZadz09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1,ss mainevent |sh
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/f505510b171bf1e.m3u8
+
+#EXTINF:-1,ss news |sh
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5d3a8ed6307f176.m3u8
+#EXTINF:-1,ss action |sh
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/4b5960040a7b233.m3u8
+offline http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b8df5327ef42ebd.m3u8
+offline http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2641e86a2f437af.m3u8
+#EXTINF:-1,sky news |sh
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0efc383a77042cb.m3u8
+#EXTINF:-1,beIN 2 |sh 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e90c4f14e943eab.m3u8
+#EXTINF:-1,beIN 1 |sh 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cda020ee54800f0.m3u8
+#EXTINF:-1,bt sport 3 |sh
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/225e33924b49477.m3u8
+#EXTINF:-1,diema spt 1 |sh
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/17e056c7e4df6f0.m3u8
+#EXTINF:-1,fox spt 1nl |sh
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6009dca9169ebfa.m3u8
+#EXTINF:-1,ARENA 5 |sh
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c65ab974f6bdc47.m3u8
+
+#EXTINF:-1,ARENA 2 |sh 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/00490feacaf3646.m3u8
+#EXTINF:-1,PTV Spt |sh 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0e5afc8461635a6.m3u8
+#EXTINF:-1,ARENA 1 |sh
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/197cf3f448f47b1.m3u8
+offline http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1b6f79617c3945b.m3u8
+#EXTINF:-1,ARENA 3 |sh
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5835b824e88919b.m3u8
+#EXTINF:-1,diema spt 2 |sh
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/58e86e2a2a62cc1.m3u8
+#EXTINF:-1,ARENA 4 |sh
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ce220746856cda4.m3u8
+offline http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e1ac7abfbc62d03.m3u8
+#EXTINF:-1,spklub1 |sh
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ede409d4b9e7950.m3u8
+#EXTINF:-1,digi sp2 |sh
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fcc6add807df1ea.m3u8
 
 #EXTINF:-1,Free sports
 http://89.187.189.58/1195/mono.m3u8
