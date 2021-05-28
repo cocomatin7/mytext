@@ -11889,7 +11889,7 @@ http://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 + + + + + https://paste.in/ARAogr + + + + +
 
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png",Cartoon Network Hindi  HD
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="streamhost",Cartoon Network Hindi  HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7fe9fa45b205f17.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png",Cartoon Network Hindi  
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/20e3acedb66331e.m3u8
@@ -11923,9 +11923,10 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/4624b7164dd5b1c.
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/1a946d6a674e435.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-zone.png",KID ZONE PAK 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/bfc13e6e8a5fef5.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-in.png",POP KIDS PAK 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-in.png" group-title="streamhost",POP KIDS PAK 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7e5676155536bd5.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFxUzUriXr2cBb8bqYus0EnWYvzFYM7OQ8g&usqp=CAU",Aaj Tak - 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFxUzUriXr2cBb8bqYus0EnWYvzFYM7OQ8g&usqp=CAU" group-title="streamhost",Aaj Tak - 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/7f786d0bb73f03a.m3u8
 #EXTINF:-1 tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg",Aaj Tak   HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/1afabcecc149bb3.m3u8
@@ -11947,7 +11948,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/80e91863e896018
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/afa95cdde28be8c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png",STAR WORLD 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ec5fb5889e178cf.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png",STAR WORLD   PREMIRE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png",STAR WORLD PREMIRE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/d499ddfab492af5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg",STAR GOLD Star Gold HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/5fe9e328e2a3f72.m3u8
@@ -12314,9 +12315,10 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/594d4c73e922299
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ddee93199070de1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-QP9uoT_LToRawEgaQc5KucN_OLjuHgTW6w&usqp=CAU",SHEMAROO TV 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/610019c456f718d.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDUHi3TzFMCfwKijICxvP29osl4I_1YY1l1g&usqp=CAU,REPUBLIC BHARAT 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDUHi3TzFMCfwKijICxvP29osl4I_1YY1l1g&usqp=CAU group-title="streamhost",REPUBLIC BHARAT 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e55d8ab3dd402ba.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/763730869756370944/ermi6WRR_400x400.jpg",PTC NEWS 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/763730869756370944/ermi6WRR_400x400.jpg" group-title="streamhost",PTC NEWS 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Punjabi/92f773805df8abc.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/PTC_Chak_De.jpeg",PTC CHAKDE 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Punjabi/b987bbe44cc4b6d.m3u8
@@ -12439,9 +12441,10 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Punjabi/d8bea5e60a5c3
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Punjabi/0741c654d52f03c.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-18-punjab-haryana-himachal-pradesh-in.png",NEWS 18 PUNJAB  SD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Punjabi/5a0ca65b23f4c42.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-18-punjab-haryana-himachal-pradesh-in.png",NEWS 18 PUNJAB  HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-18-punjab-haryana-himachal-pradesh-in.png" group-title="streamhost",NEWS 18 PUNJAB  HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Punjabi/4b716fa8db43511.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0hYBRphAOUAs4kiwejSRiNdp5F34CiHorVw&usqp=CAU",PTV SPORTS
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0hYBRphAOUAs4kiwejSRiNdp5F34CiHorVw&usqp=CAU" group-title="streamhost",PTV SPORTS
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0e5afc8461635a6.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/a6109060c7f55cc.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1810191660/Super-ENG_reasonably_small_400x400.jpg",GEO SUPER  LOW
@@ -12817,7 +12820,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5300caffeb5023
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5213346a2ba20c4.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-sports-network-us.png",CBS SPORTS NETWORK 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/520c53bae64456c.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us-ar.png",TNT SPORTS 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-us-ar.png" group-title="streamhost",TNT SPORTS 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b4a828ec90d9805.m3u8
 
 
