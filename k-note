@@ -617,6 +617,8 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 #EXTINF:-1 group-title="Sport/Bamar",Bein Sport 3 Fr
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgMDI0J3bwNlbpVmQ
 
++ + + https://paste.in/fTsoqB + + +
+
 #EXTINF:-1,beIN SPORT 1 |31
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 #EXTINF:-1,beIN SPORT 2 |31
@@ -641,6 +643,26 @@ http://31.220.41.88:8081/live/bein10.stream/playlist.m3u8
 http://31.220.41.88:8081/live/bein11.stream/playlist.m3u8
 #EXTINF:-1,beIN SPORT 12 |31
 http://31.220.41.88:8081/live/bein12.stream/playlist.m3u8
+
+http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
+
+
+http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
+http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
+
+http://31.220.41.88:8081/live/de-skybundes1.stream/playlist.m3u8
+
+http://31.220.41.88:8081/live/es-laligatvbar.stream/chunks.m3u8
+http://31.220.41.88:8081/live/es-movistar-futbol.stream/playlist.m3u8
+
+http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
+
+http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
+
+http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
+http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
+http://31.220.41.88:8081/live/nl-ziggoracing.stream/chunks.m3u8
+
 
 
 UFCRE5D6XB7EK4 < N
@@ -12893,6 +12915,120 @@ offline http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e1ac7a
 offline http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1b6f79617c3945b.m3u8
 offline http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b8df5327ef42ebd.m3u8
 offline http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2641e86a2f437af.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="DEPORTES OCEANIA", AU | BEIN SPORTS 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e1ac7abfbc62d03.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="DEPORTES OCEANIA", AU | BEIN SPORTS 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2641e86a2f437af.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="DEPORTES OCEANIA", AU | BEIN SPORTS 3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b8df5327ef42ebd.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Eirsportlogo.png" group-title="DEPORTES EURO", UK | EIR SPORT 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/59a32b8e0927147.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Eirsportlogo.png" group-title="DEPORTES EURO", UK | EIR SPORT 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/f428843ef0e57f9.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png" group-title="DEPORTES EURO", UK | BT SPORT ESPN
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3b5901d4c8158d3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="DEPORTES USA/CANADA", USA | FOX SPORTS 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d0df4b04f1868d5.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="DEPORTES USA/CANADA", USA | FOX SPORTS 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c85976dfbe6af22.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1200px-TSN_Logo.svg.png" group-title="DEPORTES USA/CANADA", CAN | TSN SPORTS  1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3fe954432a70b78.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1200px-TSN_Logo.svg.png" group-title="DEPORTES USA/CANADA", CAN | TSN SPORTS 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cd8d9670a9f16c6.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1200px-TSN_Logo.svg.png" group-title="DEPORTES USA/CANADA", CAN | TSN SPORTS 3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b2c8288a5ba9fb4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1200px-TSN_Logo.svg.png" group-title="DEPORTES USA/CANADA", CAN | TSN SPORTS 4
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c4a43e75c410802.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1200px-TSN_Logo.svg.png" group-title="DEPORTES USA/CANADA", CAN | TSN SPORTS 5
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/97abfa483aed893.m3u8
+
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/c7/43/25/c743259d-bb07-2ac2-49a6-550324af62ff/source/512x512bb.jpg" group-title="DEPORTES USA/CANADA", CAN | SPORTSNET WOLRD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d0d81e7bf643061.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/SportsnetOntario2011.png/500px-SportsnetOntario2011.png" group-title="DEPORTES USA/CANADA", CAN | SPORTSNET ONTARIO
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/19bf097b3b8d3fa.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sportsnetone.png" group-title="DEPORTES USA/CANADA", CAN | SPORTSNET ONE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5fd981e98263c91.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sn360.png" group-title="DEPORTES USA/CANADA", CAN | SPORTSNET 360
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0dcc7d051a2312d.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="DEPORTES OCEANIA", AUS | FOX SPORTS 501
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/7f190eb189a4f60.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="DEPORTES OCEANIA", AUS | FOX SPORTS 502
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/195ff07730549d6.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="DEPORTES OCEANIA", AUS | FOX SPORTS 503
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2f4b8a11419e309.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="DEPORTES OCEANIA", AUS | FOX SPORTS 504
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0e5b4c1a0e7eb0f.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="DEPORTES OCEANIA", AUS | FOX SPORTS 505
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1b6f79617c3945b.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="DEPORTES OCEANIA", AUS | FOX SPORTS 506
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/73b2b02133b51cd.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="DEPORTES OCEANIA", AUS | FOX SPORTS 507
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/90d87dcfa543132.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP PSL
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5495b09ff7ec581.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP PREMIER LEAGUE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6d3d6ec2a7db9ae.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP LALIGA
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5e58a15ca23b5bb.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP FOOTBALL
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ae648b853e24a85.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP CRICKET
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8bb57ded7b99273.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP RUGBY
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/48a835548d7d7dd.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP ACTION
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b2ecd13974bfa5f.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP GRANDSTAND
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8b307ddb280933e.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP VIRETY 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5b459d23aefa01a.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP VIRETY 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5da819055474c3f.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP VIRETY 3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/077ddf89aa42439.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP VIRETY 4
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3c5c197d615211a.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP BLITZ
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1bc81d86f4725bb.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU", SUDAF | SUPER SPORTS SP MAXIMO
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5300caffeb5023b.m3u8
 
 + + + + + https://f8e7y4c6.ssl.hwcdn.net + + + + +
 
