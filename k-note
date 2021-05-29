@@ -1265,18 +1265,17 @@ https://smart-tv.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 https://smart-tv.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 https://smart-tv.livedoomovie.com/02_BTSPORTHD_3_720p/chunklist.m3u8
 
-
 offline https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 offline https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 offline https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 offline https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 offline https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
 
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+offline http://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+offline http://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+offline http://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+offline http://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+offline http://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1,beIN SPORTS 1EN"
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
@@ -1295,15 +1294,20 @@ https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1,NETSPORT HD*
-https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
-http://streamwat.ch/custom/player/#https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+http://streamwat.ch/custom/player/#https://www.livedoomovie1.com/03_skynetsporthd_720p/chunklist.m3u8
+http://streamwat.ch/custom/player/#https://www.livedoomovie1.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+http://streamwat.ch/custom/player/#https://www.livedoomovie1.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+http://streamwat.ch/custom/player/#https://www.livedoomovie1.com/02_BTSPORTHD_3_720p/chunklist.m3u8
 
 #EXTINF:-1,True Premiere Football HD1 |livedoo
-http://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD2 |livedoo
-http://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sport/Bamar",True Premiere Football HD3 |livedoo
-http://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 
 + + + + misc + + + +
 
@@ -1563,9 +1567,7 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bbec2fcf9b5
 #EXTINF:-1,EPL 1
 https://d2qw5e19354vil.cloudfront.net/out/v1/31cf06a5948c488e85ddef08474e807d/index.m3u8
 
-http://streamwat.ch/custom/player/#https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-http://streamwat.ch/custom/player/#https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-http://streamwat.ch/custom/player/#https://www.livedoomovies.com/02_BTSPORTHD_3_720p/chunklist.m3u8
+
 
 
 http://streamwat.ch/custom/player/#http://77.247.109.116/hls/sportek1.m3u8
