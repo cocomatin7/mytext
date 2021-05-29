@@ -921,9 +921,36 @@ http://zana@3.alhawalouh.xyz/live/88824257/index.m3u8
 
 -/-/-/-/-
 
+#EXTINF:-1 group-title="Sport/Bamar",DAZN 1IT
+http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
+#EXTINF:-1,DAZN 2IT
+http://31.220.41.87:8081/live/it-dazn2.stream/chunks.m3u8
+#EXTINF:-1,beIN LaLiga
+http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1,beIN 1SD
+http://31.220.41.87:8081/live/bein1.stream/playlist.m3u8
+#EXTINF:-1,beIN 2SD
+http://31.220.41.87:8081/live/bein2.stream/playlist.m3u8
+#EXTINF:-1,beIN 3SD
+http://31.220.41.87:8081/live/bein3.stream/playlist.m3u8
+#EXTINF:-1,beIN 4SD
+http://31.220.41.87:8081/live/bein4.stream/playlist.m3u8
+#EXTINF:-1,beIN 5SD
+http://31.220.41.87:8081/live/bein5.stream/playlist.m3u8
+#EXTINF:-1,beIN 6SD
+http://31.220.41.87:8081/live/bein6.stream/playlist.m3u8
+#EXTINF:-1,beIN 7SD
+http://31.220.41.87:8081/live/bein7.stream/playlist.m3u8
+#EXTINF:-1,beIN 8SD
+http://31.220.41.87:8081/live/bein8.stream/playlist.m3u8
+#EXTINF:-1,beIN 9SD
+http://31.220.41.87:8081/live/bein9.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",beIN 10SD
+http://31.220.41.87:8081/live/bein10.stream/playlist.m3u8
+
 + + + https://paste.in/fTsoqB + + +
 
-#EXTINF:-1,beIN SPORT 1 |31
+#EXTINF:-1 group-title="Sport/Bamar",beIN SPORT 1 |31
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 #EXTINF:-1,beIN SPORT 2 |31
 http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
@@ -945,7 +972,7 @@ http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
 http://31.220.41.88:8081/live/bein10.stream/playlist.m3u8
 #EXTINF:-1,beIN SPORT 11 |31
 http://31.220.41.88:8081/live/bein11.stream/playlist.m3u8
-#EXTINF:-1,beIN SPORT 12 |31
+#EXTINF:-1 group-title="Sport/Bamar",beIN SPORT 12 |31
 http://31.220.41.88:8081/live/bein12.stream/playlist.m3u8
 
 http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
@@ -975,7 +1002,6 @@ http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
 http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
 http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
 http://31.220.41.88:8081/live/nl-ziggoracing.stream/chunks.m3u8
-
 
 
 #EXTINF:-1 group-title="Sport/Bamar",StarSportsSelect1FHD |87
@@ -1250,35 +1276,8 @@ http://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sport/Bamar",True Premiere Football HD3 |livedoo
 http://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Sport/Bamar",beIN SP 1PR
-https://streamcdn.getloconow.com/DUIAV7E2ZF_c113a376-2e87-414d-89de-da8622074455/DUIAV7E2ZF_c113a376-2e87-414d-89de-da8622074455_hi/manifest.m3u8
 
-#EXTINF:-1 group-title="Sport/Bamar",DAZN 1IT
-http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
-#EXTINF:-1,DAZN 2IT
-http://31.220.41.87:8081/live/it-dazn2.stream/chunks.m3u8
-#EXTINF:-1,beIN LaLiga
-http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
-#EXTINF:-1,beIN 1SD
-http://31.220.41.87:8081/live/bein1.stream/playlist.m3u8
-#EXTINF:-1,beIN 2SD
-http://31.220.41.87:8081/live/bein2.stream/playlist.m3u8
-#EXTINF:-1,beIN 3SD
-http://31.220.41.87:8081/live/bein3.stream/playlist.m3u8
-#EXTINF:-1,beIN 4SD
-http://31.220.41.87:8081/live/bein4.stream/playlist.m3u8
-#EXTINF:-1,beIN 5SD
-http://31.220.41.87:8081/live/bein5.stream/playlist.m3u8
-#EXTINF:-1,beIN 6SD
-http://31.220.41.87:8081/live/bein6.stream/playlist.m3u8
-#EXTINF:-1,beIN 7SD
-http://31.220.41.87:8081/live/bein7.stream/playlist.m3u8
-#EXTINF:-1,beIN 8SD
-http://31.220.41.87:8081/live/bein8.stream/playlist.m3u8
-#EXTINF:-1,beIN 9SD
-http://31.220.41.87:8081/live/bein9.stream/playlist.m3u8
-#EXTINF:-1,beIN 10SD
-http://31.220.41.87:8081/live/bein10.stream/playlist.m3u8
+
 
 
 
@@ -1304,7 +1303,10 @@ http://93.157.62.180/Supersport5/index.m3u8
 
 view-source:http://www.ovostreams.com/1.php / http://www.ovostreams.com/1.php
 
-#EXTINF:-1,1st CH1
+beIN SP 1PR
+https://streamcdn.getloconow.com/DUIAV7E2ZF_c113a376-2e87-414d-89de-da8622074455/DUIAV7E2ZF_c113a376-2e87-414d-89de-da8622074455_hi/manifest.m3u8
+
+1st CH1
 http://144.126.210.162/live/firstchannel1/playlist.m3u8
 
 1st CH1'
