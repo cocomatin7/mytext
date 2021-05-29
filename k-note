@@ -16596,6 +16596,11 @@ http://185.52.77.67:8080/Candy/index.m3u8
 http://194.190.78.91:8080/shelk/index.m3u8
 http://194.190.78.91:8080/shelksd/index.m3u8
 
++ + + + + rapid-cdn.net:8080 + + + + + null + + 
+
+http://provider-tv.net:8080/get.php?username=Tomas_Arana_Restream&password=T54cXsm8vQ3577zZpkla&type=m3u
+Real Url: rapid-cdn.net:8080     Status: Active    Created: 22/2/2020 3:37:12 PM     Expires: Null    Active Connections: 187     Maximum Connections: 700     Formats: "m3u8","ts","rtmp"
+
 + + + + + rico.besttvps.com:8080 + + + + + null + + 
 
 http://rate.ddnss.eu:25461/get.php?username=extreeex2021&password=Gtr5C44eXZjilkdf7rBgtr6&type=m3u
@@ -16989,6 +16994,11 @@ Real Url: titanmedia.one:2082     Status: Active    Created: 21/11/2020 10:26:54
 
 http://tt61.mine.nu:80/get.php?username=PetraTV&password=Fw99Gpq7Gq&type=m3u
 Real Url: tt61.mine.nu:80     Status: Active    Created: Null     Expires: Null     Connection: 500-2 Formats: "m3u8","mpegts" < 2 CH only
+
++ + + + + tugapt.top:8080 + + + + +
+
+http://tugapt.top:8080/get.php?username=Tarana2038&password=mkcgj5Tn8ABq64nT&type=m3u
+Real Url: tugapt.top:8080     Status: Active    Created: 13/5/2021 1:09:43 AM     Expires: Null    Active Connections: 32     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
 
 + + + + + tv.dansk.live:8080 + + + + +
 
