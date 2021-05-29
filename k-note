@@ -14277,6 +14277,8 @@ Real Url: 209.222.101.100:25461     Status: Banned    Created: 3/6/2020 3:34:15 
 http://8018.mine.nu:9900/get.php?username=mytvonline&password=pa3w0qg0do&type=m3u
 Real Url: 8018.mine.nu:9900     Status: Active    Created: 20/11/2019 4:17:45 PM     Expires: Null    Active Connections: 369     Maximum Connections: 0     Formats: "m3u8","ts","rtmp" < DOWN
 
+http://8018.mine.nu:9900/amigotv-EX/Kad63VOqpl/16577
+
 
 + + + + + 1sn.ns1.name:18800 + + + + +
 
@@ -16133,6 +16135,11 @@ http://portal.simiptv.co.uk:8080/get.php?username=alipajiuk&password=oRGQpcPAkZ&
 http://viptv-pro.com:25461/get.php?username=elitiptv&password=4h1EGiYx&type=m3u
 Real Url: prime-tivu.com:25461     Status: Active    Created: Null     Expires: Null    Active Connections: 30     Maximum Connections: 100 < to check < some sports 
 
++ + + + + pro.netmos.ovh:7355 + + + + +
+
+http://pro.netmos.ovh:7355/get.php?username=pascaltvskype&password=qdflkjmofSDF&type=m3u
+Real Url: pro.netmos.ovh:7355     Status: Active    Created: 25/11/2019 12:10:02 PM     Expires: 24/11/2025 10:00:00 PM    Active Connections: 73     Maximum Connections: 100     Formats: "ts"
+
 + + + + + pro-panel01.club:8080 / premium-streamplay.club [SEA] + + + + +
 
 http://premium-streamplay.club:8080/live/mama/123456/8130.m3u8
@@ -16581,6 +16588,11 @@ Real Url: rico.besttvps.com:8080     Status: Active    Created: 5/4/2021 10:02:3
 http://romax.live:2086/get.php?username=nomore:live&password=E4SKdGsEyc&type=m3u
 Real Url: romax.live:2086     Status: Active    Created: 7/4/2021 11:13:16 AM     Expires: Null    Active Connections: 840     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp" < DOWN
 
++ + + + + s16tv.co:80 + + + + + null + + 
+
+http://s16tv.co:80/get.php?username=donhex2020&password=Tbvj6488dVsx6rUjf&type=m3u
+Real Url: s16tv.co:80     Status: Active    Created: 1/12/2020 10:39:22 AM     Expires: Null    Active Connections: 35     Maximum Connections: 150     Formats: "m3u8","ts","rtmp" < to check
+
 + + + + + starshare.live:8080 [MY+MM] + + + + +
 
 + + + + + s1.showplustv.com:1997 [TH+MM] + + + + +
@@ -16939,6 +16951,11 @@ Real Url: thespeedmedia.watch:2086     Status: Active    Created: 18/1/2021 4:38
 
 http://thespeedmedia.watch:2086/get.php?username=dani&password=dani&type=m3u
 Real Url: thespeedmedia.watch:2086     Status: Active    Created: 18/1/2021 6:18:02 PM     Expires: 18/1/2022 6:15:00 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
++ + + + + titanmedia.one:2082 + + + + +
+
+http://titanmedia.one:2082/get.php?username=5C8FFpy4mk&password=ZQ40RVwi1y&type=m3u
+Real Url: titanmedia.one:2082     Status: Active    Created: 21/11/2020 10:26:54 AM     Expires: Null    Active Connections: 216     Maximum Connections: 300     Formats: "m3u8","ts","rtmp"
 
 + + + + + tt61.mine.nu:80 + + + + +
 
