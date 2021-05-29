@@ -11076,8 +11076,6 @@ https://delivery.macan.live/stream/id_tvn/playlist.m3u8?token=macangratisan&v=20
 
 + + + + + pluto.tv + + + + + +
 
-
-
 <iframe src="//www.reloltv.com/embed-custom.php?video=https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8" width="100%" height="650" frameborder="0" scrollbar="no"></iframe>
 
 #EXTINF:-1 group-title="pluto", MTV Biggest
@@ -11962,7 +11960,7 @@ http://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 + + + + + https://paste.in/ARAogr + + + + +
 
-  tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="streamhost",Cartoon Network Hindi  HD
+ group-title="streamhost",Cartoon Network Hindi  HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7fe9fa45b205f17.m3u8
  tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png",Cartoon Network Hindi  
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/20e3acedb66331e.m3u8
@@ -12386,7 +12384,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e1778cf85f0e5e8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/594d4c73e922299.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/firangi_in.png",FIRANGI 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/ddee93199070de1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-QP9uoT_LToRawEgaQc5KucN_OLjuHgTW6w&usqp=CAU" group-title="streamhost",SHEMAROO TV 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-QP9uoT_LToRawEgaQc5KucN_OLjuHgTW6w&usqp=CAU" group-
+
+title="streamhost",SHEMAROO TV 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/610019c456f718d.m3u8
 #EXTINF:-1 group-title="streamhost",REPUBLIC BHARAT 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e55d8ab3dd402ba.m3u8
@@ -12847,17 +12847,17 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/bda503bf258837
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/9ad16aea0ac7e52.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNDS5LuT_mDjSBfiEeDFwSfdZfQQevZTGEKw&usqp=CAU,KSA SPORTS  2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3068f15aac3dceb.m3u8
-#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/F1D_290x170.png",AUSTRALIA FOX SPORTS 501
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/F1D_290x170.png",FOX SPORTS 501
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/7f190eb189a4f60.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/F4D_290x170.png", FOX SPORTS 502
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/195ff07730549d6.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1489224386/6551.png",FOX SPORTS AUSTRALIA FOX SPORTS 503
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1489224386/6551.png",FOX SPORTS 503
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2f4b8a11419e309.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/F4D_290x170.png", FOX SPORTS 504
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0e5b4c1a0e7eb0f.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1489224687/6552.png",FOX SPORTS AUSTRALIA FOX SPORTS 505
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1489224687/6552.png",FOX SPORTS 505
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1b6f79617c3945b.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1489225082/6553.png",FOX SPORTS AUSTRALIA FOX SPORTS 506
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1489225082/6553.png",FOX SPORTS 506
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/73b2b02133b51cd.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSS/fox-sports-more-colour.png",FOX SPORTS 507
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/90d87dcfa543132.m3u8
@@ -12867,11 +12867,11 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/17e056c7e4df6f
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg_2_hd.png",DIEMA SPORTS  2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/58e86e2a2a62cc1.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1491349382/6589.png",BEIN SPROTS AUS BEIN SPROTS 1
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1491349382/6589.png",BEIN SPROTS 1AU
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e1ac7abfbc62d03.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiifTlTl-FpMRFIOCMC8rSM8ds4zF-rr12rw&usqp=CAU",BEIN SPROTS 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiifTlTl-FpMRFIOCMC8rSM8ds4zF-rr12rw&usqp=CAU",BEIN SPROTS 2AU
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2641e86a2f437af.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpkxXcqtFk_JLh1-a9XpWTeH97VB9__mlyQ&usqp=CAU",BEIN SPROTS 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpkxXcqtFk_JLh1-a9XpWTeH97VB9__mlyQ&usqp=CAU",BEIN SPROTS 3AU
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b8df5327ef42ebd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-psl-za.png",SUPER SPORTS SP PSL
@@ -12914,120 +12914,6 @@ offline http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e1ac7a
 offline http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1b6f79617c3945b.m3u8
 offline http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b8df5327ef42ebd.m3u8
 offline http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2641e86a2f437af.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="DEPORTES OCEANIA", AU | BEIN SPORTS 1
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e1ac7abfbc62d03.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="DEPORTES OCEANIA", AU | BEIN SPORTS 2
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2641e86a2f437af.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="DEPORTES OCEANIA", AU | BEIN SPORTS 3
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b8df5327ef42ebd.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Eirsportlogo.png" group-title="DEPORTES EURO", UK | EIR SPORT 1
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/59a32b8e0927147.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Eirsportlogo.png" group-title="DEPORTES EURO", UK | EIR SPORT 2
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/f428843ef0e57f9.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png" group-title="DEPORTES EURO", UK | BT SPORT ESPN
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3b5901d4c8158d3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="DEPORTES USA/CANADA", USA | FOX SPORTS 1
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d0df4b04f1868d5.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="DEPORTES USA/CANADA", USA | FOX SPORTS 2
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c85976dfbe6af22.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1200px-TSN_Logo.svg.png" group-title="DEPORTES USA/CANADA", CAN | TSN SPORTS  1
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3fe954432a70b78.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1200px-TSN_Logo.svg.png" group-title="DEPORTES USA/CANADA", CAN | TSN SPORTS 2
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cd8d9670a9f16c6.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1200px-TSN_Logo.svg.png" group-title="DEPORTES USA/CANADA", CAN | TSN SPORTS 3
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b2c8288a5ba9fb4.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1200px-TSN_Logo.svg.png" group-title="DEPORTES USA/CANADA", CAN | TSN SPORTS 4
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c4a43e75c410802.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1200px-TSN_Logo.svg.png" group-title="DEPORTES USA/CANADA", CAN | TSN SPORTS 5
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/97abfa483aed893.m3u8
-
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/c7/43/25/c743259d-bb07-2ac2-49a6-550324af62ff/source/512x512bb.jpg" group-title="DEPORTES USA/CANADA", CAN | SPORTSNET WOLRD
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d0d81e7bf643061.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/SportsnetOntario2011.png/500px-SportsnetOntario2011.png" group-title="DEPORTES USA/CANADA", CAN | SPORTSNET ONTARIO
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/19bf097b3b8d3fa.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sportsnetone.png" group-title="DEPORTES USA/CANADA", CAN | SPORTSNET ONE
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5fd981e98263c91.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sn360.png" group-title="DEPORTES USA/CANADA", CAN | SPORTSNET 360
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0dcc7d051a2312d.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="DEPORTES OCEANIA", AUS | FOX SPORTS 501
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/7f190eb189a4f60.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="DEPORTES OCEANIA", AUS | FOX SPORTS 502
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/195ff07730549d6.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="DEPORTES OCEANIA", AUS | FOX SPORTS 503
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2f4b8a11419e309.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="DEPORTES OCEANIA", AUS | FOX SPORTS 504
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0e5b4c1a0e7eb0f.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="DEPORTES OCEANIA", AUS | FOX SPORTS 505
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1b6f79617c3945b.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="DEPORTES OCEANIA", AUS | FOX SPORTS 506
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/73b2b02133b51cd.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="DEPORTES OCEANIA", AUS | FOX SPORTS 507
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/90d87dcfa543132.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP PSL
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5495b09ff7ec581.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP PREMIER LEAGUE
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6d3d6ec2a7db9ae.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP LALIGA
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5e58a15ca23b5bb.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP FOOTBALL
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ae648b853e24a85.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP CRICKET
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8bb57ded7b99273.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP RUGBY
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/48a835548d7d7dd.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP ACTION
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b2ecd13974bfa5f.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP GRANDSTAND
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8b307ddb280933e.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP VIRETY 1
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5b459d23aefa01a.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP VIRETY 2
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5da819055474c3f.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP VIRETY 3
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/077ddf89aa42439.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP VIRETY 4
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3c5c197d615211a.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU" group-title="DEPORTES SUDAFRICA", SUDAF | SUPER SPORTS SP BLITZ
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1bc81d86f4725bb.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ87PhgfnGlb_02K_SlDgu7qqyS-PJdGJdhg&usqp=CAU", SUDAF | SUPER SPORTS SP MAXIMO
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5300caffeb5023b.m3u8
 
 + + + + + https://f8e7y4c6.ssl.hwcdn.net + + + + +
 
