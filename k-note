@@ -12534,11 +12534,11 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b2d17d03b443e4
 #EXTINF:0 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png",SONY SIX  HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/01d25ef273031cf.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN4sxAbFWTOeptwqiOONcoxS9PgdLlIL1Qkg&usqp=CAU",STAR SPORTS  
+#EXTINF:-1,STAR SPORTS  
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ea25c6a9fbed5e0.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",PREMIER SPORTS  1
+#EXTINF:-1,PREMIER SPORTS  1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/173a5b4af389537.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",PREMIER SPORTS  2
+#EXTINF:-1,PREMIER SPORTS  2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c9747cf86596a77.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-news-uk.png",SKY SPORTS NEWS
@@ -12596,11 +12596,11 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/225e33924b4947
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0efc383a77042cb.m3u8
 #EXTINF:-1,ESPN  U
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ca133af557a88aa.m3u8
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png,ESPN  1
+#EXTINF:-1,ESPN  1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/12fb30f24c10a6c.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_2.png",ESPN  2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e846f2a1833c938.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg0jRmG8JUJKI3IRCB0btgh-AGknVOlLs-GA&usqp=CAU",ESPN  NEWS
+#EXTINF:-1,ESPN  NEWS
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/21d317e76e9dac8.m3u8
 #EXTINF:-1,EURO SPORTS 1 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5acf5c112b79c4e.m3u8
@@ -12616,14 +12616,14 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8d7b9d1536b67f
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b02e95dcca3cb0c.m3u8
 #EXTINF:-1,AT THE RACES 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/294ec567f75f5ae.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg",WWE NETWORK 
+#EXTINF:-1,WWE NETWORK 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e57c9beb56b81af.m3u8
 
 #EXTINF:-1,MUTV 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cc5cc0bd95133bc.m3u8
 #EXTINF:-1,REAL MADRID 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c5fb451bd367aea.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoo-YhY9vmKbJFKhZR3clSOYCY0NSC6wDE-g&usqp=CAU,LFC TV 
+#EXTINF:-1,LFC TV 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ee78a6d76ba949a.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIvJ7B7ouvNb1qI4Ou47rEe9s4VjPqFvAecg&usqp=CAU",BEIN SPORTS 
@@ -12697,19 +12697,19 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ce220746856cda
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_5.png",Arena Sports 5 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c65ab974f6bdc47.m3u8
 
-#EXTINF:-1 tvg-logo="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/shows/fs1/logo_fs1.vresize.1200.630.high.0.png",FOX SPORT1
+#EXTINF:-1,FOX SPORT1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d0df4b04f1868d5.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FOX SPORT2
+#EXTINF:-1,FOX SPORT2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c85976dfbe6af22.m3u8
-#EXTINF:-1 tvg-logo="https://bexel.com/wp-content/uploads/2014/01/Bexel-FOX-Sports-Remote-Studio-Kits.jpg",FOX SPORTS NL FOX SPORTS 1
+#EXTINF:-1,FOX SPORTS 1NL
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6009dca9169ebfa.m3u8
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox-Sports-2.jpg",FOX SPORTS NL FOX SPORTS 2
+#EXTINF:-1,FOX SPORTS 2NL
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e64bde85ba112d0.m3u8
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox-Sports-3.jpg,FOX SPORTS NL FOX SPORTS 3
+#EXTINF:-1,FOX SPORTS 3NL
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1236845a015707e.m3u8
-#EXTINF:-1,FOX SPORTS 4
+#EXTINF:-1,FOX SPORTS 4NL
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e987cd56b65c195.m3u8
-#EXTINF:-1, FOX SPORTS 5
+#EXTINF:-1, FOX SPORTS 5NL
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/51702187c4f2a28.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png",TSN SPORTS  1
@@ -12731,13 +12731,13 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5fd981e98263c9
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportsnet_360.png",SPORTSNET 360 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0dcc7d051a2312d.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports-1.png",AD SPORTS  1
+#EXTINF:-1,AD SPORTS  1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c3960199d8eb9f1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsWUj4DZb5RBXUhsXvhiaEhPZQPVO635MbDw&usqp=CAU",AD SPORTS  2
+#EXTINF:-1,AD SPORTS  2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c81348b85b121bc.m3u8
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/27-277087_ad-sport-3-abu-dhabi-sports-channel-hd.png",AD SPORTS  3
+#EXTINF:-1,AD SPORTS  3
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8b4f2763806c8e1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCMFV9hM79JVOPpK8W38Sk2i5KMmWBdUUQZw&usqp=CAU",AD SPORTS  4
+#EXTINF:-1,AD SPORTS  4
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/f827ffb10004e14.m3u8
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a400.png",BEIN FRANCE 1  SD
