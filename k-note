@@ -1081,12 +1081,7 @@ https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=bein2
 ,CinemaWorld
 https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=cinemaworld
 
-#EXTINF:-1,Champions TV 1
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_720p/index.m3u8
-#EXTINF:-1,Champions TV 2
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.m3u8
-#EXTINF:-1,Champions TV 3
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.m3u8
+
 
 https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=foxsport1
 https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=foxsport2
@@ -1139,11 +1134,41 @@ https://laos-tech-live.b-cdn.net/hd-foxsports1_720/index.m3u8
 https://laos-tech-live.b-cdn.net/sd-foxsports2_480/index.m3u8
 https://laos-tech-live.b-cdn.net/sd-foxsports3_480/index.m3u8
 
+
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
 http://live3.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1,CH4 [EFL]
 http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
+
+
+#EXTINF:-1,Champions TV 1
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_720p/index.m3u8
+#EXTINF:-1,Champions TV 2
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.m3u8
+#EXTINF:-1,Champions TV 3
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.m3u8
+
+
+#EXTINF:-1,NETSPORT HD' |sld
+https://smart-tv.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1,NETSPORT 1' |sld
+https://smart-tv.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1,NETSPORT 2' |sld
+https://smart-tv.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1,NETSPORT 3' |sld
+https://smart-tv.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1,NETSPORT 4' |sld
+https://smart-tv.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1,NETSPORT 5' |sld
+https://smart-tv.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1,NETSPORT 6' |sld
+https://smart-tv.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+
+#EXTINF:-1,beIN SPORTS 1EN'
+https://smart-tv.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1,beIN SPORTS 2EN'
+https://smart-tv.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
 
 #EXTINF:-1,True Premiere Football HD1 |ldm
@@ -1178,21 +1203,6 @@ https://sport.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1,NETSPORT 6 |sld
 https://sport.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 
-#EXTINF:-1,NETSPORT HD' |sld
-https://smart-tv.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1,NETSPORT 1' |sld
-https://smart-tv.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1,NETSPORT 2' |sld
-https://smart-tv.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1,NETSPORT 3' |sld
-https://smart-tv.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1,NETSPORT 4' |sld
-https://smart-tv.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1,NETSPORT 5' |sld
-https://smart-tv.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1,NETSPORT 6' |sld
-https://smart-tv.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
-
 #EXTINF:-1,True Premiere Football HD1 |livedoo'
 https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD2 |livedoo'
@@ -1201,21 +1211,23 @@ https://sport.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD3 |livedoo'
 https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
-
 #EXTINF:-1,beIN SPORTS 1EN
 https://sport.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1,beIN SPORTS 2EN
 https://sport.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
-#EXTINF:-1,beIN SPORTS 1EN'
-https://smart-tv.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1,beIN SPORTS 2EN'
-https://smart-tv.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+offline https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+offline https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+offline https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+offline https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+offline https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+
 
 #EXTINF:-1,beIN SPORTS 1EN"
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
