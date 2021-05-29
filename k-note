@@ -6153,6 +6153,15 @@ http://108.48.50.123:9981/stream/channelid/952033286?profile=pass
 
 + + + + + http://116.204.181.238:9981/extjs.html + + + + +
 
+#EXTINF:-1 group-title="116.204/TH",SKynet sport HD
+
+http://116.204.181.238:9981/stream/channelid/311832235?ticket=FD2989653984A478551C4B1B0F149CA1AE4FF898&profile=pass
+
+#EXTINF:-1 group-title="116.204/TH",{name-not-set}
+
+http://116.204.181.238:9981/stream/channelid/1784672243?ticket=5A216E3B78816237E6A5B9BB60F7B088DAE95265&profile=pass
+
+
 #EXTINF:-1 group-title="116.204/TH", Mola TV1
 http://116.204.181.238:9981/stream/mux/f571561c8271e0a952dd1b2ee0c479c1
 #EXTINF:-1, Mola TV2
