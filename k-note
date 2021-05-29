@@ -14267,54 +14267,10 @@ http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/66.m3u8
 + + + + + 209.222.101.100:25461 + + + + + 10/10/2021 / 5-5 + + + + +
 
 http://209.222.101.100:25461/get.php?username=tv&password=tv&type=m3u
-Real Url: 209.222.101.100:25461     Status: Active    Created: 10/10/2020 11:25:57 PM     Expires: 10/10/2021 11:25:57 PM    Active Connections: 2     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+Real Url: 209.222.101.100:25461     Status: Active    Created: 10/10/2020 11:25:57 PM     Expires: 10/10/2021 11:25:57 PM    Active Connections: 2     Maximum Connections: 5     Formats: "m3u8","ts","rtmp" < not play all channels
 
 http://supersonictv.live:25461/get.php?username=dalvin&password=dalvin&type=m3u
 Real Url: 209.222.101.100:25461     Status: Banned    Created: 3/6/2020 3:34:15 AM     Expires: 13/12/2021 5:34:43 PM    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
-
- group-title="209.222",USA MTV Classic
-http://209.222.101.100:25461/live/tv/tv/13751.m3u8
-,USA MTV Live
-http://209.222.101.100:25461/live/tv/tv/13752.m3u8
-,USA MTV U
-http://209.222.101.100:25461/live/tv/tv/13753.m3u8
-,UK MTV
-http://209.222.101.100:25461/live/tv/tv/13754.m3u8
-,UK MTV Base
-http://209.222.101.100:25461/live/tv/tv/13755.m3u8
-,UK MTV Classic
-http://209.222.101.100:25461/live/tv/tv/13756.m3u8
-,UK MTV Dance
-http://209.222.101.100:25461/live/tv/tv/13757.m3u8
-,UK MTV HD
-http://209.222.101.100:25461/live/tv/tv/13758.m3u8
-,UK MTV Hits
-http://209.222.101.100:25461/live/tv/tv/13759.m3u8
-,UK MTV Music
-http://209.222.101.100:25461/live/tv/tv/13760.m3u8
-,UK MTV OMG
-http://209.222.101.100:25461/live/tv/tv/13761.m3u8
-,UK MTV Rocks
-http://209.222.101.100:25461/live/tv/tv/13762.m3u8
-
-,USA Bein Sports UHD
-http://209.222.101.100:25461/live/tv/tv/22187.m3u8
-,USA BeIN Sports 2
-http://209.222.101.100:25461/live/tv/tv/22189.m3u8
-,USA BeIN Sports 4
-http://209.222.101.100:25461/live/tv/tv/22190.m3u8
-,USA BeIN Sports 5
-http://209.222.101.100:25461/live/tv/tv/22191.m3u8
-,USA BeIN Sports 6
-http://209.222.101.100:25461/live/tv/tv/22192.m3u8
-,USA BeIN Sports 7
-http://209.222.101.100:25461/live/tv/tv/22193.m3u8
-,USA Bein Sports N Espanol UHD
-http://209.222.101.100:25461/live/tv/tv/22195.m3u8
-,USA BeIN Sports LaLiga
-http://209.222.101.100:25461/live/tv/tv/22196.m3u8
- group-title="209.222",USA Latin BEIN Sports Latin
-http://209.222.101.100:25461/live/tv/tv/22197.m3u8
 
 + + + + + 8018.mine.nu:9900 + + + + + DOWN
 
@@ -14406,39 +14362,6 @@ http://appstv.us:25461/live/1/2/674.m3u8
 http://appstv.us:25461/live/1/2/678.m3u8
 #EXTINF:-1,UFC Fight Pass |appstv
 http://appstv.us:25461/live/1/2/13419.m3u8
-
-#EXTINF:-1,14:00 UEFA C.L : 
-http://appstv.us:25461/live/1/2/17484.m3u8
-#EXTINF:-1,14:00 UEFA C.L : 
-http://appstv.us:25461/live/1/2/17485.m3u8
-#EXTINF:-1,14:00 UEFA C.L : 
-http://appstv.us:25461/live/1/2/17486.m3u8
-#EXTINF:-1,14:00 UEFA C.L. : 
-http://appstv.us:25461/live/1/2/17487.m3u8
-#EXTINF:-1,14:00 UEFA C.L. : 
-http://appstv.us:25461/live/1/2/17488.m3u8
-#EXTINF:-1,14:30 Liga Pro E. : 
-http://appstv.us:25461/live/1/2/17489.m3u8
-#EXTINF:-1,15:30 Copa Betplay Colombia : 
-http://appstv.us:25461/live/1/2/17490.m3u8
-#EXTINF:-1,17:00 Liga E.MX : 
-http://appstv.us:25461/live/1/2/17491.m3u8
-#EXTINF:-1,17:00 Liga de C. CONCACAF: 
-http://appstv.us:25461/live/1/2/17492.m3u8
-#EXTINF:-1,17:00 Liga de C. CONCACAF: 
-http://appstv.us:25461/live/1/2/17493.m3u8
-#EXTINF:-1,17:00 Liga de C. CONCACAF: 
-http://appstv.us:25461/live/1/2/17494.m3u8
-#EXTINF:-1,17:00 Liga Pro Ecuatoriana : 
-http://appstv.us:25461/live/1/2/17495.m3u8
-#EXTINF:-1,17:15 Copa Libertadores : 
-http://appstv.us:25461/live/1/2/17496.m3u8
-#EXTINF:-1,17:15 Copa Libertadores : 
-http://appstv.us:25461/live/1/2/17497.m3u8
-#EXTINF:-1,17:15 Copa Sudamericana : 
-http://appstv.us:25461/live/1/2/17498.m3u8
-#EXTINF:-1,17:30 Copa BetPlay Colombia : 
-http://appstv.us:25461/live/1/2/17499.m3u8
 
 #EXTINF:-1,TUDN EXTRA 1 |appstv
 http://appstv.us:25461/live/1/2/282.m3u8
@@ -14622,8 +14545,6 @@ http://bornw1ld.cyou:8080/get.php?username=OVOmainoneWgTkI&password=468TGE75ffji
 
 http://bktv.xyz:8880/get.php?username=wweraw.ddns.net:&password=200contelegram&type=m3u
 Real Url: bktv.xyz:8880     Status: Active    Created: 25/1/2021 9:57:55 AM     Expires: Null    Active Connections: 53     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
-
-
 
 + + + + + bosstr.net:80 + + + + +
 
@@ -16153,7 +16074,6 @@ http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/36214.m3u8
 http://ottiptv.us:2095/live/iptvtree.com/90X312b737L26/36215.m3u8
 
 
-
 + + + + + ozentv.pro:80 + + + + + 19/1/2038 + + + + +
 
 http://kingdiablo-iptv.com/get.php?username=live:tolgax1x&password=Kca35kdDCc&type=m3u Real Url: ozentv.pro:80 Expires: 19/1/2038 Connections: 100-15
@@ -16225,7 +16145,6 @@ Real Url: pulsestreams.ddns.me:8080     Status: Active    Created: 27/2/2021 2:2
 
 http://qqtv.nl:8080/get.php?username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&type=m3u&output=hls < null < 1100-1006 < xxx
 http://54.39.158.38:8080/get.php?username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&type=m3u
-
 
 #EXTINF:-1 group-title="qqtv",..CNBC HD
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7872.m3u8
@@ -16305,31 +16224,6 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/269696.m3u8
 http://38.143.137.110:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/269696.m3u8
 #EXTINF:-1,WC. RSA SUPERSPORT CRICKET HD
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/393845.m3u8
-
-#EXTINF:-1,ELEVEN SPORTS NETWORK [USA]
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148456.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 HD FR
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148455.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 HD FR
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148454.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 HD FR
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148453.m3u8
-#EXTINF:-1,ELEVEN SPORTS HD USA
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148452.m3u8
-#EXTINF:-1,ELEVEN SPORTS MOSAICO
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148451.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 HD [PT]
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148450.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 HD [PT]
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148449.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 HD [PT]
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148448.m3u8
-#EXTINF:-1,ELEVEN SPORTS 4 HD [PT]
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148447.m3u8
-#EXTINF:-1,ELEVEN SPORTS 5 HD [PT]
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148446.m3u8
-#EXTINF:-1,ELEVEN SPORTS 6 HD [PT]
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148445.m3u8
 
 #EXTINF:-1,WC. STAR SPORTS SELECT 1 HD
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30539.m3u8
