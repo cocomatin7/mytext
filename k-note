@@ -14689,6 +14689,11 @@ Real Url: edge.multiplay.cl:25461     Status: Active    Created: 21/11/2019 6:10
 
 http://linux-app.tv:8080/get.php?username=Iptvtree&password=He73ghh&type=m3u < forevertv.me:8080 < null < 500-299 < to check
 
++ + + + + futurenew.dyndns.tv:15800 + + + + +
+
+http://futurenew.dyndns.tv:15800/get.php?username=ONeLjm78Ty&password=23BeTwKTme&type=m3u
+Real Url: futurenew.dyndns.tv:15800     Status: Active    Created: 10/5/2017 3:24:57 PM     Expires: Null    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
 + + + + + geotvplus.eu:2082 + + + + +
 
 http://geotvplus.eu:2082/get.php?username=Dominic&password=1234&type=m3u Expires: 1/8/2021 5:00:00 AM    Active Connections: 0     Maximum Connections: 2
@@ -16387,58 +16392,12 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/394209.m3u8
 #EXTINF:-1,KOR: KBS WORLD HD USA
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/394208.m3u8
 
-#EXTINF:-1,PL: ELEVEN SPORTS 1 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15198.m3u8
-#EXTINF:-1,PL: ELEVEN SPORTS 2 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15200.m3u8
-#EXTINF:-1,PL: ELEVEN SPORTS 3 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15199.m3u8
-#EXTINF:-1,PL: ELEVEN SPORTS 4 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/60949.m3u8
-
 #EXTINF:-1,PL: CANAL+ SPORT 1 HD
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15207.m3u8
 #EXTINF:-1,PL: CANAL+ SPORT 2 HD
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15219.m3u8
 #EXTINF:-1,PL: CANAL+ SPORT 3 HD
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15213.m3u8
-
-#EXTINF:-1,RO: DIGI SPORTS 1
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/14910.m3u8
-#EXTINF:-1,RO: DIGI SPORTS 2
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/14909.m3u8
-#EXTINF:-1,RO: DIGI SPORTS 3
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/14874.m3u8
-#EXTINF:-1,RO: DIGI SPORTS 4
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/14872.m3u8
-#EXTINF:-1,HU:RO: Digi Sport 1 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/88279.m3u8
-#EXTINF:-1,HU:RO: Digi Sport 3 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12303.m3u8
-
-#EXTINF:-1,AL: SUPER SPORT 1 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/151688.m3u8
-#EXTINF:-1,AL: SUPER SPORT 2 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/151686.m3u8
-#EXTINF:-1,AL: SUPER SPORT 3 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/151684.m3u8
-#EXTINF:-1,AL: SUPER SPORT 4 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/151682.m3u8
-#EXTINF:-1,AL: SUPER SPORT 5 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/151681.m3u8
-#EXTINF:-1,AL: SUPER SPORT 6 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/151679.m3u8
-
-#EXTINF:-1,IL: YES SPORT 1 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148469.m3u8
-#EXTINF:-1,IL: YES SPORT 2 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148468.m3u8
-#EXTINF:-1,IL: YES 3 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148459.m3u8
-#EXTINF:-1,IL: YES 4 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148490.m3u8
-#EXTINF:-1,IL: YES Sport 5 live HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148467.m3u8
 
 #EXTINF:-1,DEP* DIRECTV SPORT +
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20261.m3u8
@@ -16593,7 +16552,6 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/87018.m3u8
 XXX: BALKAN EROTIC (18 )
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/86677.m3u8
 
-
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15193 Redlight HD 
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15611
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20000 tvu 
@@ -16675,7 +16633,6 @@ http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 http://51.15.0.141:88/hustlerhd/tracks-v1a1/index.m3u8
 http://51.15.0.141:88/hustlerhd/index.m3u8
 http://51.15.0.141:88/redlightHD/index.m3u8
-
 
 http://62.112.9.63:88/Brazzers/index.m3u8?token=test
 
@@ -17018,29 +16975,8 @@ http://104.218.60.227:83/live/91595487/07862755/382960.m3u8
 http://104.218.60.227:83/live/91595487/07862755/382961.m3u8
 #EXTINF:-1,VIP HD : New Sky Sports Main Event
 http://104.218.60.227:83/live/91595487/07862755/382963.m3u8
-#EXTINF:-1,VIP FHD : New Sky Sports Main Event
+#EXTINF:-1 group-title="securepoint",VIP FHD : New Sky Sports Main Event
 http://104.218.60.227:83/live/91595487/07862755/382964.m3u8
-
-#EXTINF:-1,EPL 01: 
-http://104.218.60.227:83/live/91595487/07862755/385274.m3u8
-#EXTINF:-1,EPL 02: 
-http://104.218.60.227:83/live/91595487/07862755/385275.m3u8
-#EXTINF:-1,EPL 03:
-http://104.218.60.227:83/live/91595487/07862755/385276.m3u8
-#EXTINF:-1,EPL 04: 
-http://104.218.60.227:83/live/91595487/07862755/385277.m3u8
-#EXTINF:-1,EPL 05: 
-http://104.218.60.227:83/live/91595487/07862755/385278.m3u8
-#EXTINF:-1,EPL 06: 
-http://104.218.60.227:83/live/91595487/07862755/385279.m3u8
-#EXTINF:-1,EPL 07: 
-http://104.218.60.227:83/live/91595487/07862755/385280.m3u8
-#EXTINF:-1,EPL 08: 
-http://104.218.60.227:83/live/91595487/07862755/385281.m3u8
-#EXTINF:-1,EPL 09: 
-http://104.218.60.227:83/live/91595487/07862755/385282.m3u8
-#EXTINF:-1 group-title="securepoint",EPL 10: 
-http://104.218.60.227:83/live/91595487/07862755/385283.m3u8
 
 + + + + + sl.masterstv.net:1997 + + + + + null
 
@@ -17054,13 +16990,17 @@ http://sonyiptv.net:8080/get.php?username=gift2021&password=54321&type=m3u Real 
 
 http://speccy.pw:8008/d/d/17048
 
++ + + + + srb-iptv-munja.com:80 + + + + +
+
+http://srb-iptv-munja.com:80/get.php?username=Eliteiptv@skype&password=mIkMSVvC83&type=m3u
+Real Url: srb-iptv-munja.com:80     Status: Active    Created: 30/4/2020 11:30:56 PM     Expires: 21/5/2030 11:00:00 PM    Active Connections: 13     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
+
 + + + + + srv.cybergroup.top:14170 + + + + +
 
 + + + + + starshare.live:8080 + + + + +
 
 https://media.haxed.net/get.php?username=Tay&password=Tay&type=m3u
 Real Url: starshare.live:8080     Status: Active    Created: 29/7/2020 7:23:35 AM     Expires: 1/7/2021 12:38:36 PM    Active Connections: 4     Maximum Connections: 3
-
 
 
 + + + + + streamx.link:8080 + + + + +
