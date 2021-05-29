@@ -16601,6 +16601,11 @@ http://194.190.78.91:8080/shelksd/index.m3u8
 http://provider-tv.net:8080/get.php?username=Tomas_Arana_Restream&password=T54cXsm8vQ3577zZpkla&type=m3u
 Real Url: rapid-cdn.net:8080     Status: Active    Created: 22/2/2020 3:37:12 PM     Expires: Null    Active Connections: 187     Maximum Connections: 700     Formats: "m3u8","ts","rtmp"
 
++ + + + + restream.cyprusnetserver.net:8988 + + + + + null + + 
+
+http://restream.cyprusnetserver.net:8988/get.php?username=Greekiptv&password=zhWQjmMow&type=m3u
+Real Url: restream.cyprusnetserver.net:8988     Status: Active    Created: 8/11/2018 9:22:20 AM     Expires: Null    Active Connections: 0     Maximum Connections: 50     Formats: "m3u8","ts"
+
 + + + + + rico.besttvps.com:8080 + + + + + null + + 
 
 http://rate.ddnss.eu:25461/get.php?username=extreeex2021&password=Gtr5C44eXZjilkdf7rBgtr6&type=m3u
