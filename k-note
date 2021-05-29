@@ -16158,6 +16158,24 @@ http://kingdiablo-iptv.com/get.php?username=live:tolgax1x&password=Kca35kdDCc&ty
 http://ottplanet.live:7788/get.php?username=2iptvma.live&password=TFuYwZukUY&type=m3u
 Real Url: ottplanet.live:7788     Status: Active    Created: 24/11/2020 6:18:09 PM     Expires: Null    Active Connections: 98     Maximum Connections: 200 < DOWN
 
++ + + + + portal.maxtviptv.com:80 + + + + +
+
+http://portal.maxtviptv.com:80/get.php?username=showflix9809d56Yq&password=oyubndUY978VSN37hgnsn4&type=m3u
+Real Url: portal.maxtviptv.com:80     Status: Active    Created: 10/10/2020 12:33:14 PM     Expires: Null    Active Connections: 21     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="maxtv",AU: beIN Sports 1
+http://portal.maxtviptv.com:80/showflix9809d56Yq/oyubndUY978VSN37hgnsn4/217
+#EXTINF:-1,AU: beIN Sports 1 FHD
+http://portal.maxtviptv.com:80/showflix9809d56Yq/oyubndUY978VSN37hgnsn4/11415
+#EXTINF:-1,AU: beIN Sports 2
+http://portal.maxtviptv.com:80/showflix9809d56Yq/oyubndUY978VSN37hgnsn4/218
+#EXTINF:-1,AU: beIN Sports 2 FHD
+http://portal.maxtviptv.com:80/showflix9809d56Yq/oyubndUY978VSN37hgnsn4/11414
+#EXTINF:-1,AU: beIN Sports 3
+http://portal.maxtviptv.com:80/showflix9809d56Yq/oyubndUY978VSN37hgnsn4/219
+#EXTINF:-1 group-title="maxtv",AU: beIN Sports 3 FHD
+http://portal.maxtviptv.com:80/showflix9809d56Yq/oyubndUY978VSN37hgnsn4/11416
+
 
 + + + + + portal.simiptv.co.uk:8080 + + + + +
 
