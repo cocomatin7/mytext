@@ -1009,6 +1009,24 @@ http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist.m3u8
 #EXTINF:-1,StarSportsSelect1FHD |87
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/chunklist.m3u8
 
+#EXTINF:-1,Free sports
+http://89.187.189.58/1195/mono.m3u8
+#EXTINF:-1,Premier sports 2
+http://89.187.189.58/1194/mono.m3u8
+#EXTINF:-1,Laliga TV HD
+http://89.187.189.58/1187/mono.m3u8
+
+#EXTINF:-1,Supersport1
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:-1,Supersport2 EPL
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:-1,Supersport3
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF:-1,Supersport4
+http://93.157.62.180/Supersport4/index.m3u8
+#EXTINF:-1,Supersport5
+http://93.157.62.180/Supersport5/index.m3u8
+
 ASSP 1 |96
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
 ASSP 2 |96
@@ -1080,7 +1098,6 @@ https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=bein1
 https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=bein2
 ,CinemaWorld
 https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=cinemaworld
-
 
 
 https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=foxsport1
@@ -1170,6 +1187,28 @@ https://smart-tv.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1,beIN SPORTS 2EN'
 https://smart-tv.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
+https://smart-tv.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+https://smart-tv.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1,SPORTTV1
+https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV2
+https://smart-tv.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV3
+https://smart-tv.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV4
+https://smart-tv.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV5
+https://smart-tv.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1,Fox Movies TH
+https://smart-tv.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:-1,Fox Movies HD
+https://smart-tv.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1,WarnerTV HD
+https://smart-tv.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+
 
 #EXTINF:-1,True Premiere Football HD1 |ldm
 https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
@@ -1216,6 +1255,17 @@ https://sport.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1,beIN SPORTS 2EN
 https://sport.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
+#EXTINF:-1,BTSPORT HD1
+https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1,BTSPORT HD2
+https://sport.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1,BTSPORT HD1'
+https://smart-tv.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1,BTSPORT HD2'
+https://smart-tv.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+https://smart-tv.livedoomovie.com/02_BTSPORTHD_3_720p/chunklist.m3u8
+
+
 offline https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 offline https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 offline https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
@@ -1228,25 +1278,10 @@ https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 
-
 #EXTINF:-1,beIN SPORTS 1EN"
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1,beIN SPORTS 2EN"
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
-
-https://smart-tv.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-https://smart-tv.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-
-#EXTINF:-1,BTSPORT HD1
-https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1,BTSPORT HD2
-https://sport.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1,BTSPORT HD1'
-https://smart-tv.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1,BTSPORT HD2'
-https://smart-tv.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-https://smart-tv.livedoomovie.com/02_BTSPORTHD_3_720p/chunklist.m3u8
 
 #EXTINF:-1,SPORTTV1*
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
@@ -1259,24 +1294,6 @@ https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1,SPORTTV5*
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
-#EXTINF:-1,SPORTTV1
-https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV2
-https://smart-tv.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV3
-https://smart-tv.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV4
-https://smart-tv.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV5
-https://smart-tv.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
-
-#EXTINF:-1,Fox Movies TH
-https://smart-tv.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
-#EXTINF:-1,Fox Movies HD
-https://smart-tv.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1,WarnerTV HD
-https://smart-tv.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-
 #EXTINF:-1,NETSPORT HD*
 https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 http://streamwat.ch/custom/player/#https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
@@ -1287,29 +1304,6 @@ http://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 http://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sport/Bamar",True Premiere Football HD3 |livedoo
 http://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-
-
-
-
-
-
-#EXTINF:-1,Free sports
-http://89.187.189.58/1195/mono.m3u8
-#EXTINF:-1,Premier sports 2
-http://89.187.189.58/1194/mono.m3u8
-#EXTINF:-1,Laliga TV HD
-http://89.187.189.58/1187/mono.m3u8
-
-#EXTINF:-1,Supersport1
-http://93.157.62.180/Supersport1/index.m3u8
-#EXTINF:-1,Supersport2 EPL
-http://93.157.62.180/Supersport2/index.m3u8
-#EXTINF:-1,Supersport3
-http://93.157.62.180/Supersport3/index.m3u8
-#EXTINF:-1,Supersport4
-http://93.157.62.180/Supersport4/index.m3u8
-#EXTINF:-1,Supersport5
-http://93.157.62.180/Supersport5/index.m3u8
 
 + + + + misc + + + +
 
