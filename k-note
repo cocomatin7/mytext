@@ -3239,15 +3239,19 @@ http://50.7.161.82:8278/skynethd_pat/playlist.m3u8?tid=12128778&tsum=2e220cffb94
 
 #EXTINF:-1 group-title="50.7/TH",Astro SuperSport 1 |50.7
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+#EXTINF:-1 group-title="50.7/TH",Astro SuperSport 1' |50.7
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1,Astro SuperSport 2 |50.7
 http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+#EXTINF:-1,Astro SuperSport 2' |50.7
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1,Astro SuperSport 3 |50.7
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+#EXTINF:-1,Astro SuperSport 3' |50.7
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 group-title="50.7/TH",Astro SuperSport 4 |50.7
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+#EXTINF:-1 group-title="50.7/TH",Astro SuperSport 4' |50.7
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
 
