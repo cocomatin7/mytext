@@ -3238,16 +3238,22 @@ http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=18660802&tsum=16449d276a0a817
 http://50.7.161.82:8278/skynethd_pat/playlist.m3u8?tid=12128778&tsum=2e220cffb946fee14c0751afc62ba272
 
 #EXTINF:-1 group-title="50.7/TH",Astro SuperSport 1 |50.7
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1,Astro SuperSport 2 |50.7
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1,Astro SuperSport 3 |50.7
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 group-title="50.7/TH",Astro SuperSport 4 |50.7
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1,beIN Sports 1 |50.7
+
+
+#EXTINF:-1,beIN Sports 1 |50.7*
 http://50.7.161.82:8278/streams/d/Bein1hd/playlist.m3u8
-#EXTINF:-1,beIN Sports 2 |50.7
+#EXTINF:-1,beIN Sports 2 |50.7*
 http://50.7.161.82:8278/streams/d/Bein2hd/playlist.m3u8
 
 #EXTINF:-1,KBS WORLD
@@ -6700,6 +6706,13 @@ http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
 #EXTINF:-1,Bein2hd |185
 http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
+
+#EXTINF:-1,Foxsports |185
+http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+#EXTINF:-1,Foxsports2 |185
+http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+#EXTINF:-1,Foxsports3 |185
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 
 #EXTINF:-1,FOX family MOVIES |185
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
@@ -14778,8 +14791,9 @@ http://iptv.kitv.live:1935/get.php?username=Shari&password=MTV-P&type=m3u < null
 
 + + + + + iptv.tvmalaysia.cc:80 + + + + +
 
-http://iptv.tvmalaysia.cc:80/get.php?username=penang172&password=penang172&type=m3u
-Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 1/4/2021 9:36:42 AM     Expires: Null    Active Connections: 4     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+http://iptv.tvmalaysia.cc/get.php?username=penang172&password=penang172&type=m3u
+Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 1/4/2021 9:36:42 AM     Expires: Null    Active Connections: 7     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
 
 #EXTINF:-1 group-title="tvmalay",Asian Food Network HD
 http://iptv.tvmalaysia.cc:80/live/penang172/penang172/6693.m3u8
@@ -15441,6 +15455,127 @@ http://local-iptv.myddns.me:8000/get.php?username=239021AM4884820&password=47212
 + + + + + https://m3u-editor.com [SEA] + + + + +
 
 https://m3u-editor.com/serve/akun-free367/93567218
+
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776410
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776411
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776412
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776413
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776414
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776415
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776416
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776417
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776418
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776419
+
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776420
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776421
+HBO
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776422
+http://iptv.tvmalaysia.cc/penang172/penang172/7067
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776423
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776424
+HBO Signature
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776425
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776426
+FOX MOVIES
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776427
+http://iptv.tvmalaysia.cc/penang172/penang172/8838
+FOX ACTION MOVIES
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776428
+http://iptv.tvmalaysia.cc/penang172/penang172/8839
+FOX family MOVIES
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776429
+https://nonton.site:8443/live/evan/evan/37445.ts
+
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776430
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776431
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776432
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776433
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776454
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776435
+cinema world
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776436
+thrill
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776437
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776438
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776439
+
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776440
+&flix HD
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776441
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+&prive HD
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776442
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776443
+tvn
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776444
+http://210.210.129.106/session/ae31dad4-c01d-11eb-b7b1-8a21952704f3/dr9445/h/h20/01.m3u8
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776445
+tvnmovies
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776446
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776447
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776448
+GEM
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776449
+
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776450
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776451
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776452
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776453
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776454
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776455
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776456
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776457
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776458
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776459
+
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776460
+astro ARENA
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776461
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776462
+FOX SPORT
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776463
+http://iptv.tvmalaysia.cc/penang172/penang172/6793
+FOX SPORT 2
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776464
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776465
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776466
+beIN SPORT 1
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776467
+https://nonton.site:8443/live/evan/evan/728.ts
+beIN SPORT 2
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776468
+https://nonton.site:8443/live/evan/evan/729.ts
+eGame
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776469
+http://210.210.129.106/session/8ebe6ece-c01d-11eb-8a60-a05ab2ecf90f/uq2663/h/h22/01.m3u8
+astro SUPERSPORT
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776470
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+astro SUPERSPORT2
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776471
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+astro SUPERSPORT3
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776472
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+astro SUPERSPORT4
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776473
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+ESPN FC
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776474
+FIGHT
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776475
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776476
+FOX SPORT 3
+https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776477
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776478
+offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776479
+
 
 + + + + + magco.rip:8000 [SEA] + + + + +
 
