@@ -14741,6 +14741,11 @@ Real Url: hidraplay.tv:80     Status: Active    Created: 9/5/2021 1:10:39 AM    
 http://in.lionboxiptv.nl:80/get.php?username=2021extree&password=XUNTU364vYVeGdqw&type=m3u
 Real Url: in.lionboxiptv.nl:80     Status: Active    Created: 3/2/2021 10:19:34 AM     Expires: 3/2/2022 10:14:00 AM    Active Connections: 196     Maximum Connections: 200     Formats: "ts" < DOWN
 
++ + + + + index-off.xyz:8080 + + + + + null 
+
+http://index-off.xyz:8080/get.php?username=AMIGO_Skype02&password=00R0E5Q9IKC7124505&type=m3u
+Real Url: index-off.xyz:8080     Status: Active    Created: 14/8/2020 9:49:02 AM     Expires: Null    Active Connections: 29     Maximum Connections: 150     Formats: "m3u8","ts","rtmp" < to check
+
 + + + + + ip.newboss.site:80 + ip.bosszx.net:80 + bosstr.net:80 + + + Null + UK: SUPERSPORT + DSTV AFRICA| SuperSport 1 + + + 
 
 http://ip.bosszx.net:80/get.php?username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&type=m3u
@@ -16082,6 +16087,13 @@ http://kingdiablo-iptv.com/get.php?username=live:tolgax1x&password=Kca35kdDCc&ty
 
 http://ottplanet.live:7788/get.php?username=2iptvma.live&password=TFuYwZukUY&type=m3u
 Real Url: ottplanet.live:7788     Status: Active    Created: 24/11/2020 6:18:09 PM     Expires: Null    Active Connections: 98     Maximum Connections: 200 < DOWN
+
++ + + + + panelxtream.smartseyirhd.de:8080 + + + + + null + + +
+
+http://paylasim.smartseyirhd.de:8080/get.php?username=amigotv.online.skype&password=Wv5f8pq9l&type=m3u
+Real Url: panelxtream.smartseyirhd.de:8080     Status: Active    Created: 11/2/2020 5:34:07 PM     Expires: Null    Active Connections: 57     Maximum Connections: 100     Formats: "m3u8","ts" < to check
+
+
 
 + + + + + portal.maxtviptv.com:80 + + + + +
 
