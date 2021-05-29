@@ -84,13 +84,13 @@ https://rebrand.ly/h-bom
 #EXTINF:-1, CINEMAX |
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 
-& Picture HD
+#EXTINF:-1,& Picture HD
 http://185.246.209.207/HINDI_AND_PICTURES_HD_INDIA/tracks-v1a1/mono.m3u8
-AND TV HD
+#EXTINF:-1,AND TV HD
 http://185.246.209.207/HINDI_AND_TV_HD_INDIA/tracks-v1a1/mono.m3u8
-B4U Movies
+#EXTINF:-1,B4U Movies
 http://185.246.209.207/HINDI_B4U_MOVIES_INDIA/tracks-v1a1/mono.m3u8
-ZEE CINEMA HD
+#EXTINF:-1,ZEE CINEMA HD
 http://185.246.209.207/HINDI_ZEE_CINEMA_INDIA/tracks-v1a1/mono.m3u8
 
 
@@ -100,6 +100,14 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
  tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-083214.jpg",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
+https://liveorigin02.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+https://liveorigin02.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+https://liveorigin02.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+https://liveorigin02.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+https://liveorigin02.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+https://liveorigin02.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
 
 
  tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX |Yam
@@ -608,6 +616,31 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgIDI0J3bwNlbpVmQ
 #EXTINF:-1 group-title="Sport/Bamar",Bein Sport 3 Fr
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgMDI0J3bwNlbpVmQ
+
+#EXTINF:-1,beIN SPORT 1 |31
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 2 |31
+http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 3 |31
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 4 |31
+http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 5 |31
+http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 6 |31
+http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 7 |31
+http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 8 |31
+http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 9 |31
+http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 10 |31
+http://31.220.41.88:8081/live/bein10.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 11 |31
+http://31.220.41.88:8081/live/bein11.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 12 |31
+http://31.220.41.88:8081/live/bein12.stream/playlist.m3u8
 
 
 UFCRE5D6XB7EK4 < N
@@ -15212,6 +15245,8 @@ Real Url: iptvtree.net:8080     Status: Active    Created: 13/12/2020 2:47:08 PM
 http://iptvtree.net:8080/get.php?username=geniptv&password=4faed690fd&type=m3u
 Real Url: iptvtree.net:8080     Status: Active    Created: 13/3/2020 1:01:43 PM     Expires: Null    Active Connections: 649     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp" << 
 
+http://iptvtree.net:8080/get.php?username=resplice&password=534db280&type=m3u
+Real Url: iptvtree.net:8080     Status: Active    Created: 6/11/2020 5:43:43 PM     Expires: 6/6/2021 12:00:00 AM    Active Connections: 1729     Maximum Connections: 3000     Formats: "m3u8","ts","rtmp"
 
 #EXTINF:-1 group-title="iptvtree",UK: beIN Sports 11 HD
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/192635.m3u8
