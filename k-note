@@ -15434,7 +15434,7 @@ http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165105.m3u
 #EXTINF:-1 group-title="iptvtree",ID: beIN Sports 2 HD
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165073.m3u8
 
-#EXTINF:-1,AR: beIN Sports 1 FHD
+#EXTINF:-1 group-title="iptvtree",AR: beIN Sports 1 FHD
 http://iptvtree.net:8080/live/geniptv/4faed690fd/100.m3u8
 #EXTINF:-1,AR beIN Sports 1 HD
 http://iptvtree.net:8080/live/geniptv/4faed690fd/386.m3u8
@@ -15613,8 +15613,65 @@ http://iptvtree.net:8080/live/geniptv/4faed690fd/2370.m3u8
 #EXTINF:-1,US VH1 HD
 http://iptvtree.net:8080/live/geniptv/4faed690fd/275138.m3u8
 
+#EXTINF:-1,IN: &FLIX HD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/45506.m3u8
+#EXTINF:-1,IN: &Now TV
+http://iptvtree.net:8080/live/geniptv/4faed690fd/82513.m3u8
+#EXTINF:-1,IN: &PICTURES HD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/16958.m3u8
+#EXTINF:-1,IN: &Prive HD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/49557.m3u8
+#EXTINF:-1,IN: &TV FHD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/16964.m3u8
+#EXTINF:-1,IN: &Xplor HD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/196116.m3u8
+#EXTINF:-1,IN: B4U Movies
+http://iptvtree.net:8080/live/geniptv/4faed690fd/1369.m3u8
+#EXTINF:-1,IN: B4U Movies APAC
+http://iptvtree.net:8080/live/geniptv/4faed690fd/71071.m3u8
+#EXTINF:-1,IN: B4U Music TV
+http://iptvtree.net:8080/live/geniptv/4faed690fd/1368.m3u8
+#EXTINF:-1,IN B4U Music TV
+http://iptvtree.net:8080/live/geniptv/4faed690fd/274726.m3u8
+#EXTINF:-1,IN: B4U Plus HD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/1367.m3u8
+#EXTINF:-1,IN: ZEE CINEMA HD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/1350.m3u8
+#EXTINF:-1,IN: ZEE Cinemalu HD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/45504.m3u8
 
-
+#EXTINF:-1,ZA: SUPERSPORT ACTION FHD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/194354.m3u8
+#EXTINF:-1,ZA: SuperSport Cricket FHD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/11637.m3u8
+#EXTINF:-1,ZA: SuperSport Golf FHD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/11641.m3u8
+#EXTINF:-1,ZA: SuperSport Grandstand FHD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/194353.m3u8
+#EXTINF:-1,ZA: SuperSport LaLiga HD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/194358.m3u8
+#EXTINF:-1,ZA: SuperSport Maximo 1 HD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/38572.m3u8
+#EXTINF:-1,ZA: SuperSport MOTORSPORT HD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/11638.m3u8
+#EXTINF:-1,ZA: SuperSport Premier League FHD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/11642.m3u8
+#EXTINF:-1,ZA: SuperSport PSL FHD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/11643.m3u8
+#EXTINF:-1,ZA: SuperSport RUGBY HD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/11639.m3u8
+#EXTINF:-1,ZA: SuperSport TENNIS HD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/15200.m3u8
+#EXTINF:-1,ZA: SuperSport Variety 1 HD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/11633.m3u8
+#EXTINF:-1,ZA: SuperSport Variety 2 HD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/11634.m3u8
+#EXTINF:-1,ZA: SuperSport Variety 3 HD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/11635.m3u8
+#EXTINF:-1,ZA: SuperSport Variety 4 HD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/11636.m3u8
+#EXTINF:-1 group-title="iptvtree",ZA: SuperSport WWE HD
+http://iptvtree.net:8080/live/geniptv/4faed690fd/201120.m3u8
 
 + + + + + jo.sarhantv.com:8880 + + + + + beIN CH + + + + + DOWN
 
