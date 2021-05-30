@@ -7035,160 +7035,159 @@ http://203.154.243.88:18002/kctv/foxsport3
 http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?token=
 
 
-
 #EXTINF:-1 group-title="*212.8*", AstroSport1
 http://212.8.253.172:2052/AstroSupersports1HD/tracks-v1a1/mono.m3u8?token=4cf664d53451318603085725c43a5796
 #EXTINF:-1, AstroSport1*
 http://212.8.253.172:2052/AstroSupersports1HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796
 #EXTINF:-1, AstroSport1'
 http://212.8.253.172:2052/AstroSupersports1HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795036
-#EXTINF:-1, AstroSport2
+, AstroSport2
 http://212.8.253.172:2052/AstroSupersports2HD/tracks-v1a1/mono.m3u8?token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, AstroSport2*
+, AstroSport2*
 http://212.8.253.172:2052/AstroSupersports2HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, AstroSport2'
+, AstroSport2'
 http://212.8.253.172:2052/AstroSupersports2HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795037
-#EXTINF:-1, AstroSport3
+, AstroSport3
 http://212.8.253.172:2052/AstroSupersports3HD/tracks-v1a1/mono.m3u8?token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, AstroSport3*
+, AstroSport3*
 http://212.8.253.172:2052/AstroSuperSports3HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, AstroSport3'
+, AstroSport3'
 http://212.8.253.172:2052/AstroSuperSports3HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795038
-#EXTINF:-1, AstroSport4
+, AstroSport4
 http://212.8.253.172:2052/AstroSupersports4HD/tracks-v1a1/mono.m3u8?token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, AstroSport4*
+, AstroSport4*
 http://212.8.253.172:2052/AstroSuperSports4HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, AstroSport4'
+, AstroSport4'
 http://212.8.253.172:2052/AstroSuperSports4HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795039
 
-#EXTINF:-1, S Action
+, S Action
 http://212.8.253.172:2052/SuperSport-Action/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, SS Action
+, SS Action
 http://212.8.253.172:2052/SuperSport-Action/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793892
-#EXTINF:-1, S Blitz | sky sports news
+, S Blitz | sky sports news
 http://212.8.253.172:2052/SuperSportBlitz/tracks-v1a1/mono.m3u8?token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, S Blitz | sky sports news'
+, S Blitz | sky sports news'
 http://212.8.253.172:2052/SuperSportBlitz/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793886
 
-#EXTINF:-1, S Cricket
+, S Cricket
 http://212.8.253.172:2052/SuperSport-Cricket/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, SS Cricket
+, SS Cricket
 http://212.8.253.172:2052/SuperSport-Cricket/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793887
 
-#EXTINF:-1, S Football
+, S Football
 http://212.8.253.172:2052/SuperSport-Football/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, SS Football
+, SS Football
 http://212.8.253.172:2052/SuperSport-Football/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793891
 
-#EXTINF:-1, S Grandstand
+, S Grandstand
 http://212.8.253.172:2052/SuperSport-Grandstand/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, SS Grandstand
+, SS Grandstand
 http://212.8.253.172:2052/SuperSport-Grandstand/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793895
-#EXTINF:-1, S Golf
+, S Golf
 http://212.8.253.172:2052/SuperSport-Golf/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, SS Golf
+, SS Golf
 http://212.8.253.172:2052/SuperSport-Golf/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795610
 
-#EXTINF:-1, S LaLiga
+, S LaLiga
 http://212.8.253.172:2052/SuperSport-LaLiga/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, SS LaLiga
+, SS LaLiga
 http://212.8.253.172:2052/SuperSport-LaLiga/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793898
 
-#EXTINF:-1, S Premier League
+, S Premier League
 http://212.8.253.172:2052/SuperSport-PremierLeague/tracks-v1a1/mono.m3u8?token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, S Premier League*
+, S Premier League*
 http://212.8.253.172:2052/SuperSport-PremierLeague/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, S Premier League'
+, S Premier League'
 http://212.8.253.172:2052/SuperSport-PremierLeague/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, SS Premier League"
+, SS Premier League"
 http://212.8.253.172:2052/SuperSport-PremierLeague/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793896
-#EXTINF:-1, S PSL
+, S PSL
 http://212.8.253.172:2052/SuperSport-PSL/tracks-v1a1/mono.m3u8?token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, S PSL'
+, S PSL'
 http://212.8.253.172:2052/SuperSport-PSL/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, SS PSL"
+, SS PSL"
 http://212.8.253.172:2052/SuperSport-PSL/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793897
 
-#EXTINF:-1, S Rugby
+, S Rugby
 http://212.8.253.172:2052/SuperSport-Rugby/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, SS Rugby
+, SS Rugby
 http://212.8.253.172:2052/SuperSport-Rugby/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793888
 
-#EXTINF:-1, S Motorsport
+, S Motorsport
 http://212.8.253.172:2052/SuperSport-Motorsport/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, SS Motorsport
+, SS Motorsport
 http://212.8.253.172:2052/SuperSport-Motorsport/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=796174
-#EXTINF:-1, S Tennis
+, S Tennis
 http://212.8.253.172:2052/SuperSport-Tennis/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, SS Tennis
+, SS Tennis
 http://212.8.253.172:2052/SuperSport-Tennis/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=796173
 
-#EXTINF:-1, S Variety 1
+, S Variety 1
 http://212.8.253.172:2052/SuperSport-Variety-1/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, S Variety 2
+, S Variety 2
 http://212.8.253.172:2052/SuperSport-Variety-2/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, SS Variety 2
+, SS Variety 2
 http://212.8.253.172:2052/SuperSport-Variety-2/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793894
-#EXTINF:-1, S Variety 3
+, S Variety 3
 http://212.8.253.172:2052/SuperSport-Variety-3/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, SS Variety 3
+, SS Variety 3
 http://212.8.253.172:2052/SuperSport-Variety-3/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793889
-#EXTINF:-1, S Variety 4
+, S Variety 4
 http://212.8.253.172:2052/SuperSport-Variety-4/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793893
-#EXTINF:-1, SS Variety 4
+, SS Variety 4
 http://212.8.253.172:2052/SuperSport-Variety-4/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793890
 
-#EXTINF:-1, FlowSports 24/7
+, FlowSports 24/7
 http://212.8.253.172:2052/FLOWSPORTS24-7FHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=796443
-#EXTINF:-1, EPL 24/7
+, EPL 24/7
 http://212.8.253.172:2052/EPL-247/tracks-v1a1/mono.m3u8?token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, EPL 24/7'
+, EPL 24/7'
 http://212.8.253.172:2052/EPL-247/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=796772
-#EXTINF:-1, PremierSports 1
+, PremierSports 1
 http://212.8.253.172:2052/PremierSports1/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=300847
-#EXTINF:-1, PremierSports 2
+, PremierSports 2
 http://212.8.253.172:2052/PremierSports2/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=300106
-#EXTINF:-1, BT 1HD
+, BT 1HD
 http://212.8.253.172:2052/BT-1HD/tracks-v1a1/mono.m3u8?token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, BT 1HD*
+, BT 1HD*
 http://212.8.253.172:2052/BT-1HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, BT 1HD'
+, BT 1HD'
 http://212.8.253.172:2052/BT-1HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=437216
-#EXTINF:-1, BT 2HD
+, BT 2HD
 http://212.8.253.172:2052/BT-2HD/tracks-v1a1/mono.m3u8?token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, BT 2HD'
+, BT 2HD'
 http://212.8.253.172:2052/BT-2HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=437217
-#EXTINF:-1, BT 3HD
+, BT 3HD
 http://212.8.253.172:2052/BT-3HD/tracks-v1a1/mono.m3u8?token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, BT 3HD'
+, BT 3HD'
 http://212.8.253.172:2052/BT-3HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=437218
-#EXTINF:-1, BT ESPN HD
+, BT ESPN HD
 http://212.8.253.172:2052/BT-ESPNHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=437219
-#EXTINF:-1, SS PL HD
+, SS PL HD
 http://212.8.253.172:2052/SS-PLHD/tracks-v1a1/mono.m3u8?token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, SS PL HD'
+, SS PL HD'
 http://212.8.253.172:2052/SS-PLHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793874
-#EXTINF:-1, SS-PLSD
+, SS-PLSD
 http://212.8.253.172:2052/SS-PLSD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, SS Football HD
+, SS Football HD
 http://212.8.253.172:2052/SS-FootballHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793871
-#EXTINF:-1, SS Cricket HD
+, SS Cricket HD
 http://212.8.253.172:2052/SS-CricketHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793869
-#EXTINF:-1, SS Golf HD
+, SS Golf HD
 http://212.8.253.172:2052/SS-GolfHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793872
-#EXTINF:-1, SS F1 HD
+, SS F1 HD
 http://212.8.253.172:2052/SS-F1HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793870
-#EXTINF:-1, SS Action HD
+, SS Action HD
 http://212.8.253.172:2052/SS-ActionHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793867
-#EXTINF:-1, SS Action HD
+, SS Action HD
 http://212.8.253.172:2052/SS-ActionHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793867
-#EXTINF:-1, SS Arena HD
+, SS Arena HD
 http://212.8.253.172:2052/SS-ArenaHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793868
-#EXTINF:-1, SS Main HD
+, SS Main HD
 http://212.8.253.172:2052/SS-MainHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796
-#EXTINF:-1, SS Main SD
+, SS Main SD
 http://212.8.253.172:2052/SS-MainSD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=300012
-#EXTINF:-1 group-title="*212.8*", SS Racing HD
+ group-title="*212.8*", SS Racing HD
 http://212.8.253.172:2052/SS-RacingHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793875
 
 + + + + + 61.19.242.134 / https://cdn6.goprimetime.info + + + + + offline + + + + +
