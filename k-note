@@ -15229,21 +15229,7 @@ http://iptvtree.net:8080/get.php?username=resplice&password=534db280&type=m3u
 Real Url: iptvtree.net:8080     Status: Active    Created: 6/11/2020 5:43:43 PM     Expires: 6/6/2021 12:00:00 AM    Active Connections: 1729     Maximum Connections: 3000     Formats: "m3u8","ts","rtmp"
 
 
-
-#EXTINF:-1,UK: BT Sport 1 FHD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/270.m3u8
-#EXTINF:-1,UK BT Sport 1 HD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/28340.m3u8
-#EXTINF:-1,UK: BT Sport 2 FHD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273.m3u8
-#EXTINF:-1,UK BT Sport 2 HD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/28344.m3u8
-#EXTINF:-1,UK: BT Sport 3 FHD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/271.m3u8
-#EXTINF:-1,UK BT Sport 3 HD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/28348.m3u8
-
-#EXTINF:-1,MY: AFN HD |tree
+#EXTINF:-1 group-title="iptvtree",MY: AFN HD |tree
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157549.m3u8
 #EXTINF:-1,MY: ASTRO ASSP HD |tree
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247415.m3u8
@@ -15261,24 +15247,6 @@ http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157556.m3u
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157557.m3u8
 #EXTINF:-1,MY: Astro SuperSport 4 HD |tree
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157558.m3u8
-
-
-
-#EXTINF:-1,AU: beIN Sports 1 FHD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/35347.m3u8
-#EXTINF:-1,AU beIN Sports 1 FHD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/275755.m3u8
-#EXTINF:-1,AU: beIN Sports 3 FHD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/35340.m3u8
-#EXTINF:-1,AU beIN Sports 3 FHD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/275754.m3u8
-#EXTINF:-1,AU: beIN Sports 2 |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/35338.m3u8
-
-#EXTINF:-1,ID: beIN Sports 1 HD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165105.m3u8
-#EXTINF:-1 group-title="iptvtree",ID: beIN Sports 2 HD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165073.m3u8
 
 #EXTINF:-1,IN: &FLIX HD |tree
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/45506.m3u8
@@ -15356,8 +15324,6 @@ http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157575.m3u
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157570.m3u8
 #EXTINF:-1,MY: FOX Movies HD |tree
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/171962.m3u8
-#EXTINF:-1,MY: Red By HBO |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264803.m3u8
 
 #EXTINF:-1,UK: MTV 90s |tree
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4738.m3u8
@@ -15405,27 +15371,6 @@ http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157396.m3u
 #EXTINF:-1,UK: beIN Sports HD |tree
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/192865.m3u8
 
-#EXTINF:-1,UK: Sky Sports FOOTBALL FHD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/266.m3u8
-#EXTINF:-1,UK Sky Sports Football HD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37178.m3u8
-#EXTINF:-1,UK: Sky Sports Main Event FHD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/698.m3u8
-#EXTINF:-1,UK Sky Sports Main Event HD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37180.m3u8
-#EXTINF:-1,UK: Sky Sports Mix FHD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/261.m3u8
-#EXTINF:-1,UK Sky Sports Mix HD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37181.m3u8
-#EXTINF:-1,UK: Sky Sports News FHD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/260.m3u8
-#EXTINF:-1,UK Sky Sports News HD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273423.m3u8
-#EXTINF:-1,UK: Sky Sports Premier League FHD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/263.m3u8
-#EXTINF:-1,UK Sky Sports Premier Langue HD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273424.m3u8
-
 #EXTINF:-1,US: MTV CLASSIC
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/30906.m3u8
 #EXTINF:-1,US: NBC Sports Network FHD |tree
@@ -15434,23 +15379,6 @@ http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3370.m3u8
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/6308.m3u8
 #EXTINF:-1,US: NBCSN Gold HD |tree
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/35600.m3u8
-
-#EXTINF:-1,US: beIN Sports 4 HD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/151024.m3u8
-#EXTINF:-1,US: beIN Sports 5 HD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/151026.m3u8
-#EXTINF:-1,US: beIN Sports 6 HD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/151030.m3u8
-#EXTINF:-1,US: beIN Sports 7 HD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/151028.m3u8
-#EXTINF:-1,US: beIN Sports 8 HD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/151032.m3u8
-#EXTINF:-1,US: beIN Sports FHD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2272.m3u8
-#EXTINF:-1,US: beIN Sports USA HD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/6300.m3u8
-#EXTINF:-1,US: beIN Sports Ñ |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/147547.m3u8
 
 #EXTINF:-1,ZA: SuperSport Golf FHD |tree
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/11641.m3u8
@@ -15480,40 +15408,7 @@ http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/11636.m3u8
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/201120.m3u8
 
 
-#EXTINF:-1 group-title="iptvtree",AR: beIN Sports 1 FHD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/100.m3u8
-#EXTINF:-1,AR beIN Sports 1 HD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/386.m3u8
-#EXTINF:-1,AR: beIN Sports 2 FHD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/101.m3u8
-#EXTINF:-1,AR beIN Sports 2 HD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/395.m3u8
-#EXTINF:-1,AR: beIN Sports 3 FHD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/102.m3u8
-#EXTINF:-1,AR beIN Sports 3 HD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/273319.m3u8
-#EXTINF:-1,AR: beIN Sports Premium 1 HD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/109.m3u8
-#EXTINF:-1,SPORT: AR | beIN Sports 10 HD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/278720.m3u8
-#EXTINF:-1,AR: beIN Sports FHD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/11306.m3u8
-#EXTINF:-1,SPORT: AR | beIN Sports HD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/278716.m3u8
-#EXTINF:-1,AR: beIN Sports English 1 HD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/110.m3u8
-#EXTINF:-1,AR beIN Sports 11 HD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/390.m3u8
-#EXTINF:-1,AR: beIN Sports English 2 FHD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/111.m3u8
-#EXTINF:-1,AR beIN Sports 12 HD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/391.m3u8
-#EXTINF:-1,AR: beIN Sports English 3 FHD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/267769.m3u8
-#EXTINF:-1,SPORT: AR | beIN Sports 13 HD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/278711.m3u8
-
-#EXTINF:-1,FR: MTV 80s HD |tree
+#EXTINF:-1 group-title="iptvtree",FR: MTV 80s HD |tree
 http://iptvtree.net:8080/live/geniptv/4faed690fd/40094.m3u8
 #EXTINF:-1,FR VH1 CLASSIC HD |tree
 http://iptvtree.net:8080/live/geniptv/4faed690fd/275156.m3u8
@@ -15590,24 +15485,6 @@ http://iptvtree.net:8080/live/geniptv/4faed690fd/29407.m3u8
 #EXTINF:-1,RO MTV HITS |tree
 http://iptvtree.net:8080/live/geniptv/4faed690fd/274037.m3u8
 
-#EXTINF:-1,UK: beIN Sports 11 HD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/192635.m3u8
-#EXTINF:-1,UK: beIN Sports 12 HD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/157396.m3u8
-#EXTINF:-1,UK: beIN Sports HD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/192865.m3u8
-#EXTINF:-1,UK: BT Sport 1 FHD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/270.m3u8
-#EXTINF:-1,UK BT Sport 1 HD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/28340.m3u8
-#EXTINF:-1,UK: BT Sport 2 FHD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/273.m3u8
-#EXTINF:-1,UK BT Sport 2 HD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/28344.m3u8
-#EXTINF:-1,UK: BT Sport 3 FHD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/271.m3u8
-#EXTINF:-1,UK BT Sport 3 HD |tree
-http://iptvtree.net:8080/live/geniptv/4faed690fd/28348.m3u8
 #EXTINF:-1,UK: MTV |tree
 http://iptvtree.net:8080/live/geniptv/4faed690fd/4728.m3u8
 #EXTINF:-1,UK: MTV 90s |tree
