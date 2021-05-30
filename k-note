@@ -13659,6 +13659,11 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v3a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/index.m3u8
 
++ + + + + 0cvt7o9ka933roqvtma4b7g.caja.live + + + + +
+
+ SKY SPORTS PREMIER LEAGUE
+http://0cvt7o9ka933roqvtma4b7g.caja.live/live/dash.php?z=111&u=ppBsJMEKj3&s=1758909919&id=49387&t=live&f=ts
+
 + + + + + 2.56.215.148:25461 + + + + +
 
 http://2.56.215.148:25461/get.php?username=test&password=test&type=m3u
@@ -13695,23 +13700,14 @@ http://2.56.215.148:25461/live/test/test/14.m3u8
 #EXTINF:-1 group-title="2.56",3_240*
 http://2.56.215.148:25461/live/test/test/15.m3u8
 
++ + + + + 5.254.20.52:8080 + + + + + DOWN
 
-+ + + + + 5.254.20.52:8080 + + + + +
+http://5.254.20.52:8080/get.php?username=2665&password=2665&type=m3u < beIN < N
 
-http://5.254.20.52:8080/get.php?username=2665&password=2665&type=m3u < beIN << 
++ + + + + 51.91.73.99:25461 + + + + + FR+DE+US + + not play
 
-+ + + + + 182.176.93.225:8000 + + + + +
-
-http://182.176.93.225:8000/playlist.m3u8 < N
-
-+ + + + + 0cvt7o9ka933roqvtma4b7g.caja.live + + + + +
-
- SKY SPORTS PREMIER LEAGUE
-http://0cvt7o9ka933roqvtma4b7g.caja.live/live/dash.php?z=111&u=ppBsJMEKj3&s=1758909919&id=49387&t=live&f=ts
-
-+ + + + + TVHeadend / offline + + + + +
-
-http://95.145.54.106:9981/playlist/channels
+http://51.91.73.99:25461/get.php?username=usachannel&password=ngZnG8PD5i&type=m3u
+Real Url: 51.91.73.99:25461     Status: Active    Created: 30/5/2020 8:38:00 AM     Expires: Null    Active Connections: 4     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
 
 + + + + + 85.203.33.88:80 / clientportal + + + + +
 
@@ -16819,6 +16815,9 @@ Real Url: tv.zero2.site:8080     Status: Active    Created: 17/3/2021 7:51:53 PM
 
 http://oostv.site:8080/get.php?username=iptv&password=iptv&type=m3u
 Real Url: tv.zero2.site:8080     Status: Active    Created: 17/3/2021 7:54:03 PM     Expires: 1/3/2025 7:53:00 PM    Active Connections: 25     Maximum Connections: 100
+
+http://zero2.site:8080/get.php?username=zero&password=zero&type=m3u
+Real Url: net.zero2.site:8080     Status: Active    Created: 15/5/2021 6:22:51 PM     Expires: 8/5/2036 8:22:00 PM    Active Connections: 16     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp"
 
 + + + + + tv4k.be:8888 + + + + +
 
