@@ -6075,7 +6075,7 @@ http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1162246573?profile=pass
 
 + + + + http://86.28.196.144:9981/extjs.html + + + + DOWN + + + + +
 
-+ + + + http://91.116.47.164:9981/playlist/channels + + + +
++ + + + http://91.116.47.164:9981/playlist/channels + + + + RO
 
 Eroxxx http://91.116.47.164:9981/stream/channelid/836619834?ticket=EDDC9B084F0C77713494A4F221FDCD6B68D46543&profile=pass
 Eroxxx http://91.116.47.164:9981/stream/channelid/267316112?ticket=78034DDD82D88F6B9AFF1C20FB63C98D5E31F798&profile=pass
@@ -6122,41 +6122,36 @@ http://94.225.216.90:9981/stream/channelid/818315404?profile=pass
 
 + + + + + http://98.171.98.118:9981/extjs.html + + + + +
 
-http://iptbest.xyz:8000/get.php?username=wbigDMsuJH&password=GVb2JEpHHj&type=m3u
-Real Url: iptbest.xyz:8000     Status: Active    Created: 5/5/2021 4:35:25 AM     Expires: 5/8/2021 4:35:25 AM    Active Connections: 1     Maximum Connections: 2     Formats: "m3u8","ts"
++ + + + http://103.223.12.154:8000/playlist.m3u8 + + + +
 
-#EXTINF:-1 group-title="iptbest",MTV 2 HD
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67426.m3u8
-#EXTINF:-1,MTV CLASSICS HD
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67428.m3u8
-#EXTINF:-1,MTV FHD
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/6698.m3u8
-#EXTINF:-1,MTV HD
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67456.m3u8
-#EXTINF:-1,MTV HITS SD
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22333.m3u8
-#EXTINF:-1,MTV HITS SD (opc 2)
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67598.m3u8
-#EXTINF:-1,MTV LIVE HD
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67429.m3u8
-#EXTINF:-1,MTV LIVE SD
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22335.m3u8
-#EXTINF:-1,MTV LIVE SD (opc 2)
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22336.m3u8
-#EXTINF:-1,MTV SD
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22330.m3u8
-#EXTINF:-1,MTV SD (opc 2) 
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67597.m3u8
-#EXTINF:-1,MTV U HD
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67427.m3u8
-#EXTINF:-1,VH1 CLASSICS SD 
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22344.m3u8
-#EXTINF:-1,VH1 CLASSICS SD (opc 2)
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22345.m3u8
-#EXTINF:-1,VH1 SD
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22342.m3u8
-#EXTINF:-1 group-title="iptbest",VH1 SD (opc 2) 
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22343.m3u8
+#EXTINF:-1 group-title="103.223",& TV HD @ Rs 19
+http://103.223.12.154:8000/play/a00o/index.m3u8
+#EXTINF:-1,Colors Cineplex HD @ Rs 5
+http://103.223.12.154:8000/play/a00r/index.m3u8
+#EXTINF:-1,SET HD @ Rs 19
+http://103.223.12.154:8000/play/a006/index.m3u8
+#EXTINF:-1,Sony MAX HD @ Rs 17
+http://103.223.12.154:8000/play/a00p/index.m3u8
+#EXTINF:-1,Sony Ten 1 HD @ Rs 19
+http://103.223.12.154:8000/play/a002/index.m3u8
+#EXTINF:-1,Star Bharat HD @ Rs 19
+http://103.223.12.154:8000/play/a00g/index.m3u8
+#EXTINF:-1,Star Gold HD @ Rs 10
+http://103.223.12.154:8000/play/a00f/index.m3u8
+#EXTINF:-1,Star Plus HD @ Rs 19
+http://103.223.12.154:8000/play/a003/index.m3u8
+#EXTINF:-1,Star Sports 1 HD @ Rs 19
+http://103.223.12.154:8000/play/a00n/index.m3u8
+#EXTINF:-1,Star Sports 1 HD Hindi @ Rs 19
+http://103.223.12.154:8000/play/a00i/index.m3u8
+#EXTINF:-1,Star Sports 2 HD @ Rs 19
+http://103.223.12.154:8000/play/a00m/index.m3u8
+#EXTINF:-1,Star Sports Select 1 HD @ Rs 19
+http://103.223.12.154:8000/play/a008/index.m3u8
+#EXTINF:-1,Zee Cinema HD @ Rs 19
+http://103.223.12.154:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="103.223",Zee TV HD @ Rs 19
+http://103.223.12.154:8000/play/a004/index.m3u8
 
 + + + + http://108.48.50.123:9981/extjs.html + + + + * | * + + + + + jayel:samsung7 or *:* + + + + + default:default$27 | PSe0WeZ4DuTCJAFY3b2g0uErXVYo + + one CH OK < to check again later << 
 
@@ -6178,6 +6173,8 @@ http://108.48.50.123:9981/stream/channelid/365679640?profile=pass
 
 #EXTINF:-1,Astro Super Sport 1
 http://jayel:samsung7@108.48.50.123:9981/stream/channelid/970050632?profile=pass
+http://jayel:samsung7@108.48.50.123:9981/stream/channel/48ccd1b93a2cda6efb7e4c9e51c837e9
+http://*:*@108.48.50.123:9981/stream/channel/48ccd1b93a2cda6efb7e4c9e51c837e9
 #EXTINF:-1,Astro Super Sport 2
 http://108.48.50.123:9981/stream/channelid/315151055?profile=pass
 #EXTINF:-1,Astro Super Sport 3
@@ -14757,6 +14754,45 @@ Real Url: ip.tv4all.top:12345     Status: Active    Created: 21/10/2019 12:45:30
 
 http://iptv.allkaicerteam.com:8080/get.php?username=tomas400ex21&password=dDSKrvNtUn2D4ke2&type=m3u
 Real Url: iptv.allkaicerteam.com:8080     Status: Active    Created: 14/4/2021 1:09:40 PM     Expires: Null    Active Connections: 91     Maximum Connections: 200     Formats: "m3u8","ts","rtmp" < to check
+
+
++ + + + + iptbest.xyz:8000 + + + + +
+
+http://iptbest.xyz:8000/get.php?username=wbigDMsuJH&password=GVb2JEpHHj&type=m3u
+Real Url: iptbest.xyz:8000     Status: Active    Created: 5/5/2021 4:35:25 AM     Expires: 5/8/2021 4:35:25 AM    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts"
+
+#EXTINF:-1 group-title="iptbest",MTV 2 HD
+http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67426.m3u8
+#EXTINF:-1,MTV CLASSICS HD
+http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67428.m3u8
+#EXTINF:-1,MTV FHD
+http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/6698.m3u8
+#EXTINF:-1,MTV HD
+http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67456.m3u8
+#EXTINF:-1,MTV HITS SD
+http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22333.m3u8
+#EXTINF:-1,MTV HITS SD (opc 2)
+http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67598.m3u8
+#EXTINF:-1,MTV LIVE HD
+http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67429.m3u8
+#EXTINF:-1,MTV LIVE SD
+http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22335.m3u8
+#EXTINF:-1,MTV LIVE SD (opc 2)
+http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22336.m3u8
+#EXTINF:-1,MTV SD
+http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22330.m3u8
+#EXTINF:-1,MTV SD (opc 2) 
+http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67597.m3u8
+#EXTINF:-1,MTV U HD
+http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67427.m3u8
+#EXTINF:-1,VH1 CLASSICS SD 
+http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22344.m3u8
+#EXTINF:-1,VH1 CLASSICS SD (opc 2)
+http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22345.m3u8
+#EXTINF:-1,VH1 SD
+http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22342.m3u8
+#EXTINF:-1 group-title="iptbest",VH1 SD (opc 2) 
+http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22343.m3u8
 
 + + + + + iptv.kitv.live:1935 + + + + +
 
