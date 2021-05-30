@@ -15301,13 +15301,6 @@ http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/275754.m3u
 #EXTINF:-1,AU: beIN Sports 2 |tree
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/35338.m3u8
 
-#EXTINF:-1,PH: beIN Sports 1 FHD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/144845.m3u8
-#EXTINF:-1,PH: beIN Sports 2 FHD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/144841.m3u8
-#EXTINF:-1 group-title="iptvtree",PH: beIN Sports 3 HD |tree
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/266844.m3u8
-
 #EXTINF:-1,UK: MTV 90s |tree
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4738.m3u8
 #EXTINF:-1,UK MTV Rocks HD |tree
@@ -15349,10 +15342,14 @@ http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4728.m3u8
 
 #EXTINF:-1,IN: &FLIX HD |tree
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/45506.m3u8
+#EXTINF:-1,IN: &PICTURES HD |tree
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/16958.m3u8
 #EXTINF:-1,IN: &Prive HD |tree
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/49557.m3u8
 #EXTINF:-1,IN: &TV FHD |tree
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/16964.m3u8
+#EXTINF:-1,IN: &Xplor HD |tree
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/196116.m3u8
 #EXTINF:-1,IN: B4U Movies |tree
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1369.m3u8
 #EXTINF:-1,IN: B4U Movies APAC |tree
@@ -15363,6 +15360,12 @@ http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1368.m3u8
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/274726.m3u8
 #EXTINF:-1,IN: B4U Plus HD |tree
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1367.m3u8
+#EXTINF:-1,IN: Romedy Now HD |tree
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/51876.m3u8
+#EXTINF:-1,IN: Sony Max 2 TV |tree
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4862.m3u8
+#EXTINF:-1,IN: Sony Max FHD |tree
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1359.m3u8
 
 #EXTINF:-1,ZA: SuperSport Golf FHD |tree
 http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/11641.m3u8
