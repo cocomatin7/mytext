@@ -13045,10 +13045,13 @@ http://212.224.98.196:2200/EX/Sky_Sports_Main_Event_HD-uk/tracks-v1a1/mono.m3u8?
 
 #EXTINF:-1,beIN SPORT 1HD |212
 http://212.224.98.196:2200/EX/bein1hd-ar/index.m3u8?token=
+http://212.224.98.196:2200/EX/bein1sd-ar/index.m3u8?token=
 #EXTINF:-1,beIN SPORT 2HD |212
 http://212.224.98.196:2200/EX/bein2hd-ar/index.m3u8?token=
+http://212.224.98.196:2200/EX/bein2sd-ar/index.m3u8?token=
 #EXTINF:-1,beIN SPORT 3HD |212
 http://212.224.98.196:2200/EX/bein3hd-ar/index.m3u8?token=
+http://212.224.98.196:2200/EX/bein3sd-ar/index.m3u8?token=
 #EXTINF:-1,beIN SPORT 4HD |212
 http://212.224.98.196:2200/EX/bein4hd-ar/index.m3u8?token=
 #EXTINF:-1,beIN SPORT 5HD |212
@@ -13059,16 +13062,23 @@ http://212.224.98.196:2200/EX/bein6hd-ar/index.m3u8?token=
 http://212.224.98.196:2200/EX/bein7hd-ar/index.m3u8?token=
 #EXTINF:-1,beIN SPORT 1PRE |212
 http://212.224.98.196:2200/EX/bein8hd-ar/index.m3u8?token=
+http://212.224.98.196:2200/EX/bein8sd-ar/index.m3u8?token=
 #EXTINF:-1,beIN SPORT 2PRE |212
 http://212.224.98.196:2200/EX/bein9hd-ar/index.m3u8?token=
+http://212.224.98.196:2200/EX/bein9sd-ar/index.m3u8?token=
 #EXTINF:-1,beIN SPORT 3PRE |212
 http://212.224.98.196:2200/EX/bein10hd-ar/index.m3u8?token=
+http://212.224.98.196:2200/EX/bein10sd-ar/index.m3u8?token=
 #EXTINF:-1,beIN SPORT 1EN |212
 http://212.224.98.196:2200/EX/bein11hd-ar/index.m3u8?token=
+http://212.224.98.196:2200/EX/bein11sd-ar/index.m3u8?token=
 #EXTINF:-1,beIN SPORT 2EN |212
 http://212.224.98.196:2200/EX/bein12hd-ar/index.m3u8?token=
+http://212.224.98.196:2200/EX/bein12sd-ar/index.m3u8?token=
 #EXTINF:-1,beIN SPORT 3EN |212
 http://212.224.98.196:2200/EX/beIN_Sports_13_HD-ar/index.m3u8?token=
+http://212.224.98.196:2200/EX/beIN_Sports_13_HD-ar/mpegts?token=
+http://212.224.98.196:2200/EX/bein13sd-ar/index.m3u8?token=
 
 #EXTINF:-1,beIN SPORT 1FHD |212
 http://212.224.98.196:2200/EX/bein1FHD-ar/tracks-v1a1/mono.m3u8?token=
@@ -13090,7 +13100,7 @@ http://212.224.98.196:2200/EX/bein8FHD-ar/tracks-v1a1/mono.m3u8?token=
 http://212.224.98.196:2200/EX/bein9FHD-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,beIN SPORT 3PRE' |212
 http://212.224.98.196:2200/EX/bein10FHD-ar/tracks-v1a1/mono.m3u8?token=
-
+ZEE BANGLA HD
 http://212.224.98.196:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
 
 #EXTINF:-1,STAR MOVIES SELECT |212
@@ -13171,6 +13181,7 @@ http://212.224.98.196:2200/EX/BeinJeem-ar/index.m3u8?token= < NOT WORK
 http://212.224.98.196:2200/EX/Channel_4_HD-uk/tracks-v1a1/mono.m3u8?token=test
 http://212.224.98.196:2200/EX/Sky_Cinema_Action_SD-uk/index.m3u8?token= < NOT WORK
 http://212.224.98.196:2200/EX/Sky_Sports_F1_HD-uk/tracks-v1a1/mono.m3u8?token=
+
 #EXTINF:-1,SK 1HD
 http://212.224.98.196:2200/EX/Sport_Klub_1-balkan/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,SK 2HD
@@ -13183,9 +13194,9 @@ http://212.224.98.196:2200/EX/Sport_Klub_4-balkan/tracks-v1a1/mono.m3u8?token=
 http://212.224.98.196:2200/EX/Sport_Klub_5-balkan/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 group-title=":2200",SK 6HD
 http://212.224.98.196:2200/EX/Sport_Klub_6-balkan/tracks-v1a1/mono.m3u8?token=
-http://212.224.98.196:2200/EX/beIN_Sports_13_HD-ar/mpegts?token=
-http://212.224.98.196:2200/EX/bein1hd-ar/index.m3u8?token=
-http://212.224.98.196:2200/EX/bein2sd-ar/index.m3u8?token=
+
+
+
 #EXTINF:-1,beIN SPORTS 1TR
 http://212.224.98.196:2200/EX/beinsports1uhd-tr/index.m3u8?token=
 #EXTINF:-1,beIN SPORTS 1TR'
