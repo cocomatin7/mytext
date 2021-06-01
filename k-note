@@ -1672,6 +1672,48 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 #EXTINF:-1 group-title="BamarTV",Cine+ Frissons
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SZEIu92czlmcGBSZul2Q
 
+#EXTINF:-1,VEVO Country (US) (1080p)
+https://5dcc69faf960dd5dcc551818-s-2.ssai.zype.com/5dcc69faf960dd5dcc551818-s-2/manifest.m3u8
+#EXTINF:-1,VEVO Hip Hop (US) (1080p)
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+
+#EXTINF:-1,Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1,4Music
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
+#EXTINF:-1,BOX Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1,UK!Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+
+#EXTINF:-1,PBS America (720p)
+http://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,PBS America (720p)
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,Ryan and Friends (1080p)
+http://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Ryan and Friends (1080p)
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Real Stories (720p)
+http://lds-realstories-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Redbox | Rush
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox&subp=RedboxdesktopWebWindows
+#EXTINF:-1,Redbox 3: Rush (1080p)
+https://rush-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1,MOVIE SPHERE
+http://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1,MOVIE SPHERE
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1,Lego Channel (1080p)
+http://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Lego Channel (1080p)
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Yahoo! Finance (1080p)
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Yahoo! Finance (1080p)
+http://yahoo-samsung.amagi.tv/playlist.m3u8
+
+
 #EXTINF:-1,VH1 Classic |RU
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/724/index.m3u8
 #EXTINF:-1,MTV |RU
@@ -14938,9 +14980,10 @@ http://gooserace.xyz:2052/live/vander/vander/2599179.m3u8
 #EXTINF:-1 group-title="gooserace",Bein sports 1
 http://gooserace.xyz:2052/live/vander/vander/2599178.m3u8
 
-+ + + + + hdhd.tk:80 + + + + + to check
++ + + + + hdhd.tk:80 + + + + + 
 
-http://hdhd.tk:80/get.php?username=TheLions&password=MeTaFalTaKanFute&type=m3u < can't check? DOWN?
+http://hdhd.tk:80/get.php?username=TheLions&password=MeTaFalTaKanFute&type=m3u < 01/06/21 < 1-0
+http://hdhd.tk:80/MisterNO/MisterSi/1 < 01/06/21 < 1-0
 
 #EXTINF:-1 group-title="hdhd",US UFC Channel
 http://hdhd.tk:80/Nexhu/TheLionsThiefOFchicken/7
