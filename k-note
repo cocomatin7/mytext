@@ -17010,7 +17010,7 @@ Real Url: rico.besttvps.com:8080     Status: Active    Created: 5/4/2021 10:02:3
 http://ricoootv.xyz:8080/get.php?username=ricotv0899&password=ricotv0899&type=m3u
 Real Url: ricoootv.xyz:8080     Status: Active    Created: 29/5/2021 6:43:25 AM     Expires: Null    Active Connections: 25     Maximum Connections: 400000     Formats: "m3u8","ts","rtmp"
 
-#EXTINF:-1,BEIN SPORT 1 HD PREMIUM
+#EXTINF:-1 group-title="showplus",BEIN SPORT 1 HD PREMIUM
 http://ricoootv.xyz:8080/ricotv0899/ricotv0899/1
 #EXTINF:-1,BEIN SPORT 2 HD PREMIUM
 http://ricoootv.xyz:8080/ricotv0899/ricotv0899/2
@@ -17072,7 +17072,7 @@ http://ricoootv.xyz:8080/ricotv0899/ricotv0899/89
 http://ricoootv.xyz:8080/ricotv0899/ricotv0899/37
 #EXTINF:-1,WWE SHOW TV
 http://ricoootv.xyz:8080/ricotv0899/ricotv0899/51
-#EXTINF:-1,WWE USA
+#EXTINF:-1 group-title="showplus",WWE USA
 http://ricoootv.xyz:8080/ricotv0899/ricotv0899/95
 
 
