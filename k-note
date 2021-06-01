@@ -13061,54 +13061,99 @@ offline http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2641e8
 + + + + + http://202.65.84.105:9981/extjs.html + + + + + andrew:0411737777@
 http://iptvtasks.lan/m3u4u/fromm3u4u.m3u8
 
-AND PRIVE HD
-http://202.65.84.105:9981/play/ticket/stream/service/c0a41301beb512b4c2739c8d21da0ab4?title=Service01%20%2F%20FFmpeg
-B-FLIX MOVIES
-http://202.65.84.105:9981/play/ticket/stream/service/6f3296d9113f780da3ab6e3c80c53d6f?title=Service01%20%2F%20FFmpeg
-B4U MOVIES
-http://202.65.84.105:9981/play/ticket/stream/service/d78dee81d11ab558b23ea0fa3cbcdc44?title=Service01%20%2F%20FFmpeg
+#EXTINF:-1 group-title="202.65",AND PRIVE HD
+http://202.65.84.105:9981/stream/service/c0a41301beb512b4c2739c8d21da0ab4
+#EXTINF:-1,B-FLIX MOVIES
+http://202.65.84.105:9981/stream/service/6f3296d9113f780da3ab6e3c80c53d6f
+#EXTINF:-1,B4U MOVIES
+http://202.65.84.105:9981/stream/service/d78dee81d11ab558b23ea0fa3cbcdc44
 B4U MOVIES'
-http://202.65.84.105:9981/play/ticket/stream/service/68b338bb07de0fe8a604a6be0fc6386f?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/68b338bb07de0fe8a604a6be0fc6386f
 MN PLUS HD
-http://202.65.84.105:9981/play/ticket/stream/service/cd9707b84f1aec79f3995782b166837c?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/cd9707b84f1aec79f3995782b166837c
 MNX HD
-http://202.65.84.105:9981/play/ticket/stream/service/415b816e0e441e8dea90379f425fed0d?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/415b816e0e441e8dea90379f425fed0d
 MOVIES NOW HD
-http://202.65.84.105:9981/play/ticket/stream/service/c3043f062399bb5445c66b4afddda1b1?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/c3043f062399bb5445c66b4afddda1b1
 SKY CINEMA DRAMA & ROMANCE FHD
-http://202.65.84.105:9981/play/ticket/stream/service/be379e1d75e26266abd18595ea9e9438?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/be379e1d75e26266abd18595ea9e9438
 SKY SPORTS MAIN EVENT FHD
-http://202.65.84.105:9981/play/ticket/stream/service/10b463bd6e55f8d5cf28cf370a5bab69?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/10b463bd6e55f8d5cf28cf370a5bab69
 SONY MAX
-http://202.65.84.105:9981/play/ticket/stream/service/59f2848a363ee223bdea24c443dad6c9?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/59f2848a363ee223bdea24c443dad6c9
 SONY MAX 2
-http://202.65.84.105:9981/play/ticket/stream/service/96c40f3d8d6c80786cfcbe48f16fe1f6?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/96c40f3d8d6c80786cfcbe48f16fe1f6
 SONY MAX HD
-http://202.65.84.105:9981/play/ticket/stream/service/c758c73543d2e81293044da30375c97a?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/c758c73543d2e81293044da30375c97a
 SONY MAX HD'
-http://202.65.84.105:9981/play/ticket/stream/service/18424b0bed619b02e0c8a27cbb3c4932?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/18424b0bed619b02e0c8a27cbb3c4932
 SONY PIX HD
-http://202.65.84.105:9981/play/ticket/stream/service/2a7fdeb41285ca065359275a1de7b9bb?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/2a7fdeb41285ca065359275a1de7b9bb
 STAR GOLD SELECT HD
-http://202.65.84.105:9981/play/ticket/stream/service/ec9c3e6878436feb75dd58774a8b90b2?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/ec9c3e6878436feb75dd58774a8b90b2
 STAR MOVIES HD
-http://202.65.84.105:9981/play/ticket/stream/service/0ac8943db25268595896554e3ee78ec1?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/0ac8943db25268595896554e3ee78ec1
 STAR MOVIES SELECT HD
-http://202.65.84.105:9981/play/ticket/stream/service/e8807564c2343f600e934c04d8dcdb1b?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/e8807564c2343f600e934c04d8dcdb1b
 STAR WORLD HD
-http://202.65.84.105:9981/play/ticket/stream/service/ac247275b433d6da1d629a1c51966931?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/ac247275b433d6da1d629a1c51966931
 STAR WORLD PREMIER HD
-http://202.65.84.105:9981/play/ticket/stream/service/e7e6242a921a0334b22aceca8a06de49?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/e7e6242a921a0334b22aceca8a06de49
 VH1 HD
-http://202.65.84.105:9981/play/ticket/stream/service/9ff7127a28b50102230adc4695374910?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/9ff7127a28b50102230adc4695374910
 WWE NETWORK | HD
-http://202.65.84.105:9981/play/ticket/stream/service/6fcb451103fc141141f1d135e113d90b?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/6fcb451103fc141141f1d135e113d90b
 ZEE CINEMA
-http://202.65.84.105:9981/play/ticket/stream/service/a3bafe2ead1c950c44964c8220c98cd8?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/a3bafe2ead1c950c44964c8220c98cd8
 ZEE CINEMA HD
-http://202.65.84.105:9981/play/ticket/stream/service/693413585c306d8c5a8e0bfd70c9e099?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/693413585c306d8c5a8e0bfd70c9e099
 ZEE CINEMA HD'
-http://202.65.84.105:9981/play/ticket/stream/service/52d6e1b42d0ddcaee78a30a57b868cce?title=Service01%20%2F%20FFmpeg
+http://202.65.84.105:9981/stream/service/52d6e1b42d0ddcaee78a30a57b868cce
+
+
+AND PRIVE HD
+http://202.65.84.105:9981/stream/channel/0343f197b3f9a4ba5b759dc341082258
+http://202.65.84.105:9981/play/ticket/stream/channel/0343f197b3f9a4ba5b759dc341082258?title=AND%20PRIVE%20HD
+B-FLIX MOVIES
+http://202.65.84.105:9981/play/ticket/stream/channel/60c5ba78085c4d48311a089eb74e3333?title=B-FLIX%20MOVIES
+B4U MOVIES
+http://202.65.84.105:9981/play/ticket/stream/channel/18dbb79d692b5b01e0261ce433026025?title=B4U%20MOVIES
+MN PLUS HD
+http://202.65.84.105:9981/play/ticket/stream/channel/ab05c2110776b2ab55a9b06d3463acaf?title=MN%20PLUS%20HD
+MNX HD
+http://202.65.84.105:9981/play/ticket/stream/channel/853d8d8c52530ecf744aa118afd61ceb?title=MNX%20HD
+MOVIES NOW HD
+http://202.65.84.105:9981/play/ticket/stream/channel/f50517a0f6c787f3effa9484ea52f9aa?title=MOVIES%20NOW%20HD
+SKY CINEMA DRAMA & ROMANCE FHD
+http://202.65.84.105:9981/play/ticket/stream/channel/07967ab83a87b359f129122d0df6f91d?title=SKY%20CINEMA%20DRAMA%20%26%20ROMANCE%20FHD
+SKY SPORTS MAIN EVENT FHD
+http://202.65.84.105:9981/play/ticket/stream/channel/853de86729aca40ffa5933da6c4028b1?title=SKY%20SPORTS%20MAIN%20EVENT%20FHD
+SONY MAX
+http://202.65.84.105:9981/play/ticket/stream/channel/57500b8c775e19672222e19f2812bf32?title=SONY%20MAX
+SONY MAX 2
+http://202.65.84.105:9981/play/ticket/stream/channel/cdf28f077e3d350e0be9c90693bb5577?title=SONY%20MAX%202
+SONY MAX HD
+http://202.65.84.105:9981/play/ticket/stream/channel/fa68acf6ff141a0743a1a56a44f317b7?title=SONY%20MAX%20HD
+SONY PIX HD
+http://202.65.84.105:9981/play/ticket/stream/channel/ebabae9a00e15254a601824ad317bb45?title=SONY%20PIX%20HD
+STAR GOLD SELECT HD
+http://202.65.84.105:9981/play/ticket/stream/channel/a131ea26060653ba947ca13ed7dac040?title=STAR%20GOLD%20SELECT%20HD
+STAR MOVIES HD
+http://202.65.84.105:9981/play/ticket/stream/channel/12ac71eab49c57611adc0efc48bd6e8c?title=STAR%20MOVIES%20HD
+STAR MOVIES SELECT HD
+http://202.65.84.105:9981/play/ticket/stream/channel/a97a56082cf1369a5638baa475cfbf8d?title=STAR%20MOVIES%20SELECT%20HD
+STAR WORLD HD
+http://202.65.84.105:9981/play/ticket/stream/channel/244aab0fa65c7449c2814e83f6a4b49c?title=STAR%20WORLD%20HD
+STAR WORLD PREMIER HD
+http://202.65.84.105:9981/play/ticket/stream/channel/89960f01d368a31f226a2fe4de54d056?title=STAR%20WORLD%20PREMIER%20HD
+VH1 HD
+http://202.65.84.105:9981/play/ticket/stream/channel/f0cf85506b7a894730f235978bef678f?title=VH1%20HD
+WWE NETWORK | HD
+http://202.65.84.105:9981/play/ticket/stream/channel/5dc4a1421352b6a85fc00750a790ee82?title=WWE%20NETWORK%20%7C%20HD
+ZEE CINEMA
+http://202.65.84.105:9981/play/ticket/stream/channel/178241f4e8ac88f2e516727851318fa7?title=ZEE%20CINEMA
+ZEE CINEMA HD
+http://202.65.84.105:9981/play/ticket/stream/channel/a63dc1b19b9f79b40a9f3a38b066fd4e?title=ZEE%20CINEMA%20HD
 
 
 #EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/&privehd.png" tvg-id="0343f197b3f9a4ba5b759dc341082258" group-title="202.65",AND PRIVE HD
@@ -13351,9 +13396,16 @@ http://212.224.98.196:2200/EX/bein10FHD-ar/tracks-v1a1/mono.m3u8?token=
 ZEE BANGLA HD
 http://212.224.98.196:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
 
+#EXTINF:-1,STAR MOVIES |212
+http://212.224.98.196:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=
 #EXTINF:-1,STAR MOVIES SELECT |212
 http://212.224.98.196:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=
 http://212.224.98.196:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1,STAR WORLD
+http://212.224.98.196:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=
+#EXTINF:-1,STAR WORLD PREMIER
+http://212.224.98.196:2200/R-EX/ENGLISH_STAR_WORLD_PREMIER_HD-in/index.m3u8?token=
+
 #EXTINF:-1,AND FLIX HD |212
 http://212.224.98.196:2200/R-EX/HINDI_AND_FLIX_HD-in/tracks-v1a1/index.m3u8?token=
 
@@ -13366,8 +13418,14 @@ http://212.224.98.196:2200/R-EX/HINDI_MTV_PLUS_HD-in/tracks-v1a1/mono.m3u8?token
 http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,SONY MAX 2
 http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_2-in/tracks-v1a1/mono.m3u8?token=
-
+#EXTINF:-1,SONY PIX HD
+http://212.224.98.196:2200/R-EX/HINDI_SONY_PIX_HD-in/tracks-v1a1/mono.m3u8?token=
+SONY SAB HD
+http://212.224.98.196:2200/R-EX/HINDI_SONY_SAB_HD-in/tracks-v1a1/mono.m3u8?token=
+STAR GOLD HD
 http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
+STAR GOLD SELECT HD
+http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=
 http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=
 
 #EXTINF:-1,STAR SPORTS 1EN |212
