@@ -6900,6 +6900,48 @@ http://167.172.33.223:9981/stream/channelid/702304439
 
 + + + + + http://171.4.161.216:9981/extjs.html + + + + + DOWN
 
++ + + + + http://184.82.147.223:9981/playlist/channels + + + + +
+
+#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="25c76a569ba56e1b1ae66856652f10a2",&FlixHD
+http://184.82.147.223:9981/stream/channelid/1449838373?ticket=F8DA30570F0816839CD8CD889AC7C596169CDFB8&profile=pass
+#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="0d89e0bd4379256f7edc867e346e6e4c",&PriveHd
+http://184.82.147.223:9981/stream/channelid/1038125325?ticket=094A41745B8E507519B94BE8FF811BB46BD274F5&profile=pass
+#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="860279199a8d27e30ca767f93fbc8e15",true X-ZYTE
+http://184.82.147.223:9981/stream/channelid/427360902?ticket=5F2C34C36D5F39D8A5229152AD71F936A67F63FE&profile=pass
+#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="59753c3469efc28251e19ecf6344ce1c",MTV
+http://184.82.147.223:9981/stream/channelid/876377433?ticket=F106E1781C649CBAEF716943E76341EC2A8B170C&profile=pass
+#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="99f4db10a68ca2c106c66a49d86eb096",ATV
+http://184.82.147.223:9981/stream/channelid/282850457?ticket=05D7E00FCAB2B097414DC6CBBBCB402B83B166DF&profile=pass
+#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="7c51d81c3908d3cc763241eb0420cc1d",V Channel
+http://184.82.147.223:9981/stream/channelid/483938684?ticket=0795F91C68F877502BDBC7C9007629217F81160B&profile=pass
+#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="c26d497e8063061a4f4c75218790186e",MVTV
+http://184.82.147.223:9981/stream/channelid/2118741442?ticket=1C7FD9D508348C5437A4E7ADD25D7A7905914F48&profile=pass
+#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="b9b5af10d178dd8530d390842dc84b59",WWE
+http://184.82.147.223:9981/stream/channelid/279950777?ticket=CBC43F5283BCA343F9EC3AFD630BDC5EC4E03D57&profile=pass
+#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="f79abd808e075e1e6f858c6fb1fe39a5",FOX Action
+http://184.82.147.223:9981/stream/channelid/12425975?ticket=1E2E110F194ED95E2A6AE076E2AC317B10D7EDB1&profile=pass
+#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="427d00a7bc295f667344262050c2d77c",CTB
+http://184.82.147.223:9981/stream/channelid/654343490?ticket=167D98D33098340C022A5E0DBFEB211A5F7531F7&profile=pass
+#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="dcb889bc53d6b42c7486ee99ca873bf9",CNA ChannelNewsAsia
+http://184.82.147.223:9981/stream/channelid/1015658716?ticket=4FE92C8DCA9A134CD5777C3B8FF336EF8B8C9E3B&profile=pass
+
+#EXTINF:-1,Fox Action Movies HD (EN)
+http://host4.dynns.com/stream/206105b34a1c44b886c6cd3c59105803.m3u8
+#EXTINF:-1,MTV Live HD
+http://host4.dynns.com/stream/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
+#EXTINF:-1,MTV Asia
+http://host4.dynns.com/stream/ebce2f5139c54eda8b111e5923af9c9e.m3u8
+#EXTINF:-1,MTV China
+http://host4.dynns.com/stream/deb56e700dbc4d9ea5af08e9d300a675.m3u8
+#EXTINF:-1,Fox Sport 2 (TH)
+http://host4.dynns.com/stream/1fd48f2cd616439ca4162478e572d681.m3u8
+#EXTINF:-1,Fox Sport 2 (EN)
+http://host4.dynns.com/stream/02cb79ab0b0c418f847148ca9e2baed4.m3u8
+#EXTINF:-1,Fox Sport 3 (TH)
+http://host4.dynns.com/stream/b254601a75724ad79e2633f3d307e331.m3u8
+#EXTINF:-1,Fox Sport 3 (EN)
+http://host4.dynns.com/stream/443ea6ef1768462aaffdff38ce2a4355.m3u8
+
 + + + + + 185.180.221.194:8278/streams/d + + + + +
 
 #EXTINF:-1 group-title="185.180",Assp1 |185
@@ -14987,6 +15029,19 @@ http://gooserace.xyz:2052/live/vander/vander/2599178.m3u8
 
 http://hdhd.tk:80/get.php?username=TheLions&password=MeTaFalTaKanFute&type=m3u < 01/06/21 < 1-0
 http://hdhd.tk:80/MisterNO/MisterSi/1 < 01/06/21 < 1-0
+http://hdhd.tk:80/PO/JO/1 < 01/07/21
+http://hdhd.tk:80/222/222/1 < 10/06/21
+http://hdhd.tk:80/rea1/rea1/1 < 13/11/21 < 1-0
+http://hdhd.tk:80/rose1/rose1/15969 < 14/05/22 < 1-1
+http://hdhd.tk:80/richard1/richard1/15969 < 21/05/22 < 1-0
+http://hdhd.tk:80/romeo1/romeo1/1 < 13/04/22 < 1-0
+http://hdhd.tk:80/Nico/Nico/1 < 8/04/22 < 1-0
+http://hdhd.tk:80/jeff1/jeff1/1 < 21/7/21 < 3-0 << 
+http://hdhd.tk:80/Brandon123/Brandon123/15969
+http://hdhd.tk:80/410542/410542/15969
+http://hdhd.tk:80/111531/111531/1
+
+
 
 #EXTINF:-1 group-title="hdhd",US UFC Channel
 http://hdhd.tk:80/Nexhu/TheLionsThiefOFchicken/7
