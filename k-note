@@ -15142,6 +15142,11 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
 
 http://iptv.kitv.live:1935/get.php?username=Shari&password=MTV-P&type=m3u < null < 1-0 < not play
 
++ + + + + iptv.nonland.net:8080 + + + + +
+
+http://iptv.nonland.net:8080/get.php?username=KING_IPTV_xui&password=QtChUjfXPF&type=m3u
+Real Url: iptv.nonland.net:8080     Status: Active    Created: 8/5/2020 7:57:55 AM     Expires: Null    Active Connections: 23     Maximum Connections: 50     Formats: "m3u8","ts","rtmp"
+
 + + + + + iptv.tvmalaysia.cc:80 + + + + +
 
 http://iptv.tvmalaysia.cc/get.php?username=penang172&password=penang172&type=m3u
