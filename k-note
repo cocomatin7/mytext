@@ -13651,7 +13651,7 @@ https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEETV ME*
+#EXTINF:-1 group-title="IN/f8",ZEETV ME*
 https://f8e7y4c6.ssl.hwcdn.net/ztvme/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
 
@@ -13666,7 +13666,7 @@ https://tvstream.space/jtv/lovE.php?c=Rishtey_Cineplex&q=1200&e=.m3u8
 
 https://y5w8j4a9.ssl.hwcdn.net/24ghanta/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
-#EXTINF:-1 group-title="IN/f8",&flix
+#EXTINF:-1 group-title="IN/y5",&flix
 https://y5w8j4a9.ssl.hwcdn.net/andflix/tracks-v1a1/index.m3u8
 #EXTINF:-1,&flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
@@ -13754,7 +13754,7 @@ https://y5w8j4a9.ssl.hwcdn.net/ztalkieshd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEETV ME*
+#EXTINF:-1 group-title="IN/y5",ZEETV ME*
 https://y5w8j4a9.ssl.hwcdn.net/ztvme/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
 
