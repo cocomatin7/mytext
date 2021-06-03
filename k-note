@@ -3,12 +3,11 @@ x-tvg-url="https://rebrand.ly/k-epg"
 
 http://akamaizedx.com:80/get.php?username=odair100&password=odair100&type=m3u < to check
 http://new-pro.tv:8080/get.php?username=live:diplomatmobstar&password=restream494862&type=m3u
-Real Url: new-pro.tv:8080     Status: Active    Created: 30/3/2020 12:23:37 AM     Expires: Null    Active Connections: 310     Maximum Connections: 400
+Real Url: new-pro.tv:8080     Status: Active    Created: 30/3/2020 12:23:37 AM     Expires: Null    Active Connections: 310     Maximum Connections: 400 < DOWN
 
-http://hdhd.tk:80/get.php?username=Nexhu&password=TheLionsThiefOFchicken&type=m3u
 
 http://local-xc.com:8080/get.php?username=thomas_arana&password=zqM3AtWFWc&type=m3u
-Real Url: buffing.ddns.net:8080     Status: Active    Created: 1/12/2020 10:21:17 AM     Expires: Null    Active Connections: 189     Maximum Connections: 350     Formats: "ts"
+Real Url: buffing.ddns.net:8080     Status: Active    Created: 1/12/2020 10:21:17 AM     Expires: Null    Active Connections: 189     Maximum Connections: 350     Formats: "ts" < DOWN?
 
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
 
@@ -114,8 +113,6 @@ https://liveorigin02.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 https://liveorigin02.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
-
-
  tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX |Yam
 https://yamcode.com/raw/cinemax-hbogo
  tvg-id="HBO HD", HBO |Yam
@@ -163,16 +160,6 @@ https://www.dropbox.com/s/dl/rm5mkuoi4bkq4m7/hsig-mm.m3u8
 
 #EXTINF:-1, 3 idiots MM
 https://www.dropbox.com/s/dl/ce5amspj8nlkk1u/3%20Idiots%20%5B2009%5D%20%28MM%20Sub%29.mp4
-#EXTINF:-1, Ghajini MM
-https://www.dropbox.com/s/dl/0eyxgg3qp9ordqm/Ghajini%282008%29.mp4
-#EXTINF:-1, Dhoom 3 MM
-https://www.dropbox.com/s/dl/re26rt7dqgup252/Dhoom%203%20%5B2013%5D%20%28MM%20Sub%29.mp4
-#EXTINF:-1, More Than Blue
-https://www.dropbox.com/s/dl/dd59bhjefo8pe42/%28CM%29More.Than.Blue.2018.Bluray.720p.mp4
-#EXTINF:-1, Talaash MM
-https://www.dropbox.com/s/dl/e3ns7lqqdwaql11/Talaash%20%5B2012%5D%20%28MM%20Sub%29.mp4
-#EXTINF:-1, The Italian Job
-https://www.dropbox.com/s/dl/1aqhwcj4uta4bep/The%20Italian%20Job%20%5B2003%5D.mp4
 
 #EXTINF:-1,Red By HBO HD |103
 http://103.145.252.78/red/index.m3u8
@@ -622,6 +609,15 @@ https://glus-st.mthcdn.com/stream/video02/2017/12/17/1513487216/1513487216_720.m
 https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513413876/1513413876_480.mp4
 #EXTINF:-1 group-title="movies",Transformers 4 Age Of Extinction(2014)
 https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513434647/1513434647_480.mp4
+
+CN
+https://www.dropbox.com/s/dl/0sdk8s92ccgbux7/124
+https://www.dropbox.com/s/dl/0sdk8s92ccgbux7/125
+https://www.dropbox.com/s/dl/0sdk8s92ccgbux7/126
+https://www.dropbox.com/s/dl/0sdk8s92ccgbux7/127
+https://www.dropbox.com/s/dl/73se9a5k528pnir/hred-mm.m3u8
+https://www.dropbox.com/s/dl/o9397gnmm0s44ar/mkctv_hbofam.m3u8
+https://www.dropbox.com/s/dl/dllbdpdkssknyjp/HBOSIGX.m3u8
 
 + + + + + Sport/Bamar + + + + +
 
@@ -6992,6 +6988,9 @@ http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
 #EXTINF:-1,Foxsports3 |185
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 
+#EXTINF:-1,afc
+http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
+
 #EXTINF:-1,FOX family MOVIES |185
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF:-1,FOX ACTION MOVIES |185
@@ -7010,8 +7009,11 @@ http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
 http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Cinemax/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Discovery/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
+Hbo
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbofamily/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbohd/playlist.m3u8
@@ -7019,13 +7021,16 @@ http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 group-title="185.180",Hbosignature
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
+http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 http://185.180.221.194:8278/streams/d/truepre1_pat/playlist.m3u8
 http://185.180.221.194:8278/streams/d/truepre2_pat/playlist.m3u8
@@ -9576,6 +9581,7 @@ http://203.154.243.89:1201
 ASTRO HD offline
 http://203.154.243.89:1204
 #EXTINF:-1,WBTV
+http://203.154.243.89:11205
 http://203.154.243.89:1205
 ASTRO 2 offline
 http://203.154.243.89:1206
