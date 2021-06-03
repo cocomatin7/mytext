@@ -5,6 +5,8 @@ http://akamaizedx.com:80/get.php?username=odair100&password=odair100&type=m3u < 
 http://new-pro.tv:8080/get.php?username=live:diplomatmobstar&password=restream494862&type=m3u
 Real Url: new-pro.tv:8080     Status: Active    Created: 30/3/2020 12:23:37 AM     Expires: Null    Active Connections: 310     Maximum Connections: 400 < DOWN
 
+http://00322.xyz:8000/get.php?username=budalatino777&password=IBHxkUjGjH&type=m3u < ultrax.online:8000 < 3-4 
+
 
 http://local-xc.com:8080/get.php?username=thomas_arana&password=zqM3AtWFWc&type=m3u
 Real Url: buffing.ddns.net:8080     Status: Active    Created: 1/12/2020 10:21:17 AM     Expires: Null    Active Connections: 189     Maximum Connections: 350     Formats: "ts" < DOWN?
@@ -1682,12 +1684,16 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 #EXTINF:-1 group-title="BamarTV",Cine+ Frissons
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SZEIu92czlmcGBSZul2Q
 
+#EXTINF:-1,VEVO 2K (US) (1080p)
+https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
 #EXTINF:-1,VEVO Country (US) (1080p)
 https://5dcc69faf960dd5dcc551818-s-2.ssai.zype.com/5dcc69faf960dd5dcc551818-s-2/manifest.m3u8
 #EXTINF:-1,VEVO Hip Hop (US) (1080p)
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-#EXTINF:-1,VEVO 2K (US) (1080p)
-https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
+#EXTINF:-1,VEVO Latino (US) (1080p)
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1,VEVO R&B (US) (1080p)
+https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
 
 
 #EXTINF:-1,Box Hits
