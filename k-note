@@ -17685,6 +17685,41 @@ http://women-bagswithcheapprice.com:8080/get.php?username=NF582ee9XB&password=X2
 
 + + + + + worldch.ddns.net:8080 + + + + +
 
++ + + + + tvworld.teledunet.com:8080 + + + + +
+
+http://teledunet.com:8080/get.php?username=clave&password=clave&type=m3u < null < 1-0 < m3u8, ts
+
+http://tvworld.teledunet.com:8080/get.php?username=clave&password=clave&type=m3u < null < 1-0 < m3u8, ts
+
+#EXTINF:-1 group-title="teledunet",SUPERSPORT 1
+http://tvworld.teledunet.com:8080/live/clave/clave/777460.ts
+#EXTINF:-1,SUPERSPORT 2
+http://tvworld.teledunet.com:8080/live/clave/clave/777461.ts
+#EXTINF:-1,SUPERSPORT 3
+http://tvworld.teledunet.com:8080/live/clave/clave/777463.ts
+#EXTINF:-1,SUPERSPORT 4
+http://tvworld.teledunet.com:8080/live/clave/clave/777464.ts
+#EXTINF:-1,SUPERSPORT 5
+http://tvworld.teledunet.com:8080/live/clave/clave/777465.ts
+#EXTINF:-1,SUPERSPORT 6
+http://tvworld.teledunet.com:8080/live/clave/clave/777466.ts
+#EXTINF:-1,SUPERSPORT 7
+http://tvworld.teledunet.com:8080/live/clave/clave/777467.ts
+#EXTINF:-1,SUPERSPORT 8
+http://tvworld.teledunet.com:8080/live/clave/clave/777468.ts
+#EXTINF:-1,SUPERSPORT 9
+http://tvworld.teledunet.com:8080/live/clave/clave/777469.ts
+#EXTINF:-1,SUPERSPORT 10
+http://tvworld.teledunet.com:8080/live/clave/clave/777462.ts
+#EXTINF:-1,SUPERSPORT 11
+http://tvworld.teledunet.com:8080/live/clave/clave/777470.ts
+#EXTINF:-1,SUPERSPORT 12
+http://tvworld.teledunet.com:8080/live/clave/clave/777471.ts
+#EXTINF:-1,SUPERSPORT BLITZ
+http://tvworld.teledunet.com:8080/live/clave/clave/777472.ts
+#EXTINF:-1 group-title="teledunet",SUPERSPORT MAXIMO
+http://tvworld.teledunet.com:8080/live/clave/clave/777473.ts
+
 + + + + + www.aloka-iptv.xyz:443-null + + + + + AR CH + + + + +
 
 https://www.aloka-iptv.xyz:443/get.php?username=MEGA-TV32&password=TELEGRAM&type=m3u Expires: Null    Active Connections: 0     Maximum Connections: 200 < N?
