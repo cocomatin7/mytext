@@ -13324,15 +13324,10 @@ http://202.65.84.105:9981/stream/channelid/129924788?profile=pass
 
 + + + + + 156.146.43.241:2200/EX + + + + +
 
-http://185.180.15.15:2200/EX/Premier_Sports_1_HD-uk/index.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580 << okay and to check
-http://185.180.15.15:2200/EX/Premier_Sports_1_HD-uk/index.m3u8?token= < okay
 
-http://46.105.112.116/?watch=EX/BT_Sport_ESPN_HD-uk&token=RED_Y9vXcrRkjc0WMDQKkG-ibg==,1622334153.4914806624&t=0&s=4&p=1&c=BR&r=19&lb=1
-http://46.105.112.116/?watch=EX/BT_Sport_ESPN_HD-uk&token=
-http://46.105.112.116/?watch=EX/Premier_Sports_1_HD-uk&token=
 
-http://51.178.220.156/?watch=
-http://195.181.172.83:2200
+
+
 http://89.187.169.202:2200
 http://89.187.169.204:2200
 http://46.105.112.116/?watch=EX/BT_Sport_1_HD-uk&token=
@@ -13345,6 +13340,8 @@ token=123zzzaaaxxaazzzxxx987
 token=1f9a2a0ab1c254253c82d5ee2d2abea8
 token=54fb8b7b9531fab2ea9dcbd98b472790
 token=RED_-y7OExKnJsJkycrfwlw86Q==,1587088800.0123456789
+token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
+token=RED_Y9vXcrRkjc0WMDQKkG-ibg==,1622334153.4914806624&t=0&s=4&p=1&c=BR&r=19&lb=1
 token=RED
 token=xrstalker < NO
 token=Live-TV™.live
@@ -13352,9 +13349,15 @@ token=amarnettv.live
 
 http://xlx723.dyndns.org/iproxy/miniProxy.php/
 
+http://46.105.112.116/?watch=EX/Premier_Sports_1_HD-uk&token= K- - - 
+http://46.105.112.116/?watch=EX/Premier_Sports_1_HD-uk K- - - 
+
+http://51.178.220.156/?watch=
+
 http://156.146.43.241:2200 < NO
 http://185.152.64.51:2200
 http://185.180.15.12:2200
+http://185.180.15.15:2200/EX/Premier_Sports_1_HD-uk/index.m3u8?token=
 http://185.180.15.15:2200 K- - - 
 http://185.246.210.47:2200
 http://185.246.210.49:2200
@@ -13363,6 +13366,7 @@ http://185.246.210.51:2200
 http://185.246.210.52:2200
 http://185.246.210.54:2200
 http://185.246.210.55:2200
+http://195.181.172.83:2200
 http://212.224.98.196:2200 K- - - - - 
 http://45.153.33.135:2200
 http://89.187.169.202:2200
@@ -13397,6 +13401,9 @@ http://212.224.98.196:2200/AFR-EX/SuperSport_Variety_2_FHD-dstv/index.m3u8?token
 http://212.224.98.196:2200/AFR-EX/SuperSport_Variety_4_FHD-dstv/index.m3u8?token=
 #EXTINF:-1,SuperSport WWE |212
 http://212.224.98.196:2200/AFR-EX/SuperSport_WWE_FHD-dstv/index.m3u8?token=
+
+#EXTINF:-1,BT SPORT 1HD |212
+http://212.224.98.196:2200/EX/BT_Sport_ESPN_HD-uk/index.m3u8?token=
 #EXTINF:-1,BT SPORT 1HD |212
 http://212.224.98.196:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=
 #EXTINF:-1,BT SPORT 2HD |212
@@ -13407,6 +13414,10 @@ http://212.224.98.196:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=
 http://212.224.98.196:2200/EX/Optus_Sports_1_HD_-uk/index.m3u8?token=
 #EXTINF:-1,OPTUS SPORT 2 |212
 http://212.224.98.196:2200/EX/Optus_Sports_2_HD_-uk/index.m3u8?token=
+#EXTINF:-1,Premier Sports 1HD
+http://212.224.98.196:2200/EX/Premier_Sports_1_HD-uk/index.m3u8?token=
+#EXTINF:-1,Premier Sports 2HD
+http://212.224.98.196:2200/EX/Premier_Sports_2_HD-uk/index.m3u8?token=
 
 http://212.224.98.196:2200/EX/Sky_Cinema_Action_FHD-uk/index.m3u8?token= < N.A
 http://212.224.98.196:2200/EX/Sky_Cinema_Comedy_FHD-uk/index.m3u8?token=
