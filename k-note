@@ -13396,7 +13396,6 @@ http://212.224.98.196:2200/AFR-EX/SuperSport_WWE_FHD-dstv/index.m3u8?token=
 
 #EXTINF:-1,BT SPORT 1HD |212
 http://212.224.98.196:2200/EX/BT_Sport_ESPN_HD-uk/index.m3u8?token=
-#EXTINF:-1,BT SPORT 1HD |212
 http://212.224.98.196:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=
 #EXTINF:-1,BT SPORT 2HD |212
 http://212.224.98.196:2200/EX/BT_Sport_2_HD-uk/index.m3u8?token=
@@ -13408,10 +13407,10 @@ http://212.224.98.196:2200/EX/Optus_Sports_1_HD_-uk/index.m3u8?token=
 http://212.224.98.196:2200/EX/Optus_Sports_2_HD_-uk/index.m3u8?token=
 #EXTINF:-1,Premier Sports 1HD
 http://212.224.98.196:2200/EX/Premier_Sports_1_HD-uk/index.m3u8?token=
-#EXTINF:-1,Premier Sports 2HD
+#EXTINF:-1 group-title=":2200",Premier Sports 2HD
 http://212.224.98.196:2200/EX/Premier_Sports_2_HD-uk/index.m3u8?token=
 
-#EXTINF:-1,beIN SPORT 1HD |212
+#EXTINF:-1 group-title=":2200",beIN SPORT 1HD |212
 http://212.224.98.196:2200/EX/bein1hd-ar/index.m3u8?token=
 http://212.224.98.196:2200/EX/bein1sd-ar/index.m3u8?token=
 #EXTINF:-1,beIN SPORT 2HD |212
@@ -13487,25 +13486,35 @@ http://212.224.98.196:2200/EX/beinsports4uhd-tr/index.m3u8?token=
 http://212.224.98.196:2200/EX/beinsports4hd-tr/index.m3u8?token=
 
 http://212.224.98.196:2200/EX/Sky_Cinema_Action_FHD-uk/index.m3u8?token= < N.A
+#EXTINF:-1 group-title=":2200",Sky Cinema Comedy FHD
 http://212.224.98.196:2200/EX/Sky_Cinema_Comedy_FHD-uk/index.m3u8?token=
 http://212.224.98.196:2200/EX/Sky_Cinema_Disney_FHD-uk/index.m3u8?token= < N.A
 http://212.224.98.196:2200/EX/Sky_Cinema_Family_FHD-uk/index.m3u8?token= < N.A
 http://212.224.98.196:2200/EX/Sky_Cinema_Greats_FHD-uk/index.m3u8?token= < N.A
+#EXTINF:-1,Sky Cinema Hits FHD
 http://212.224.98.196:2200/EX/Sky_Cinema_Hits_FHD-uk/index.m3u8?token=
 http://212.224.98.196:2200/EX/Sky_Cinema_Premier_FHD-uk/index.m3u8?token= < N.A
 http://212.224.98.196:2200/EX/Sky_Cinema_Romance_FHD-uk/index.m3u8?token= < N.A
+#EXTINF:-1,Sky Cinema Select FHD
 http://212.224.98.196:2200/EX/Sky_Cinema_Select_FHD-uk/index.m3u8?token=
 http://212.224.98.196:2200/EX/Sky_Cinema_Thriller_FHD-uk/index.m3u8?token= < N.A
 
+#EXTINF:-1,Sky Cinema Action HD
 http://212.224.98.196:2200/EX/Sky_Cinema_Action_HD-uk/index.m3u8?token= 
+#EXTINF:-1,Sky Cinema Comedy HD
 http://212.224.98.196:2200/EX/Sky_Cinema_Comedy_HD-uk/index.m3u8?token=
+#EXTINF:-1,Sky Cinema Disney HD
 http://212.224.98.196:2200/EX/Sky_Cinema_Disney_HD-uk/index.m3u8?token=
+#EXTINF:-1,Sky Cinema Family HD
 http://212.224.98.196:2200/EX/Sky_Cinema_Family_HD-uk/index.m3u8?token=
 http://212.224.98.196:2200/EX/Sky_Cinema_Greats_HD-uk/index.m3u8?token= < N.A
+#EXTINF:-1,Sky Cinema Hits HD
 http://212.224.98.196:2200/EX/Sky_Cinema_Hits_HD-uk/index.m3u8?token=
 http://212.224.98.196:2200/EX/Sky_Cinema_Premier_HD-uk/index.m3u8?token= < N.A
 http://212.224.98.196:2200/EX/Sky_Cinema_Romance_HD-uk/index.m3u8?token= < N.A
+#EXTINF:-1,Sky Cinema Select HD
 http://212.224.98.196:2200/EX/Sky_Cinema_Select_HD-uk/index.m3u8?token=
+#EXTINF:-1,Sky Cinema Thriller HD
 http://212.224.98.196:2200/EX/Sky_Cinema_Thriller_HD-uk/index.m3u8?token=
 
 http://212.224.98.196:2200/EX/Sky_Cinema_Action_SD-uk/index.m3u8?token= < N.A
@@ -13525,11 +13534,11 @@ http://212.224.98.196:2200/EX/Sky_Sports_Main_Event_FHD-uk/index.m3u8?token=
 #EXTINF:-1,sky sports mainevent |212
 http://212.224.98.196:2200/EX/Sky_Sports_Main_Event_HD-uk/index.m3u8?token=
 http://212.224.98.196:2200/EX/Sky_Sports_Main_Event_HD-uk/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1,sky sports mix |212
+#EXTINF:-1 group-title=":2200",sky sports mix |212
 http://212.224.98.196:2200/EX/Sky_Sports_Mix_HD-uk/index.m3u8?token=
 http://212.224.98.196:2200/EX/Sky_Sports_Arena_FHD-uk/index.m3u8?token=
 
-#EXTINF:-1,SK 1HD
+#EXTINF:-1 group-title=":2200",SK 1HD
 http://212.224.98.196:2200/EX/Sport_Klub_1-balkan/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,SK 2HD
 http://212.224.98.196:2200/EX/Sport_Klub_2-balkan/tracks-v1a1/mono.m3u8?token=
@@ -13544,7 +13553,6 @@ http://212.224.98.196:2200/EX/Sport_Klub_6-balkan/tracks-v1a1/mono.m3u8?token=
 
 ZEETV HD
 http://212.224.98.196:2200/EX/zeetvhd-in/index.m3u8?token=
-
 
 ZEE BANGLA HD
 http://212.224.98.196:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
@@ -13598,11 +13606,12 @@ http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?tok
 http://212.224.98.196:2200/R-EX/FHD_AND_PICTURES_-in/index.m3u8?token=
 #EXTINF:-1,AND FLIX |212
 http://212.224.98.196:2200/R-EX/HINDI_AND_FLIX_HD-in/index.m3u8?token=
+AND PICTURES HD
 http://212.224.98.196:2200/R-EX/HINDI_AND_PICTURES_HD-in/index.m3u8?token=
 
 HINDI AND TV
 http://212.224.98.196:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8?token=
-#EXTINF:-1,B4U MOVIES |212
+#EXTINF:-1 group-title=":2200",B4U MOVIES |212
 http://212.224.98.196:2200/R-EX/HINDI_B4U_MOVIES-in/index.m3u8?token=
 #EXTINF:-1,B4U MUSIC |212
 http://212.224.98.196:2200/R-EX/HINDI_B4U_MUSIC-in/index.m3u8?token=
@@ -13647,7 +13656,6 @@ http://212.224.98.196:2200/R-EX/HINDI_SONY_HD-in/index.m3u8?token=
 http://212.224.98.196:2200/R-EX/HINDI_SONY_HD-in/index.m3u8?token= < NOT WORK
 http://212.224.98.196:2200/R-EX/HINDI_SONY_PIX_HD_S-in/index.m3u8?token= < NOT WORK
 http://212.224.98.196:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
-http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=
 http://212.224.98.196:2200/R-EX/HINDI_STAR_MOVIES_HD-in/index.m3u8?token= < NOT WORK
 http://212.224.98.196:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=
 http://212.224.98.196:2200/R-EX/HINDI_STAR_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=
