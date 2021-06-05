@@ -13498,6 +13498,7 @@ http://89.187.169.206:2200
 http://top.zona-live-tv.com:2200
 http://top4.zona-live-tv.com:2200
 
+http://185.180.15.16:2200/AFR-EX/SuperSport_Action_FHD-dstv/index.m3u8?token=
 http://185.180.15.16:2200/EX/Nick_Jr_Too-uk/index.m3u8?token=
 http://212.224.98.204:2200/BR/Fox_Sports_2_HD-br/index.m3u8?token=RED_iLDye88-ayaze3lQgB9txQ==,1620476854.5329571585
 
@@ -13974,17 +13975,23 @@ http://51.178.220.156/?watch=AFR-EX/SuperSport_Variety_4_FHD-dstv
 #EXTINF:-1,SuperSport WWE |51
 http://51.178.220.156/?watch=AFR-EX/SuperSport_WWE_FHD-dstv
 http://51.178.220.156/?watch=AFR-EX/SuperSport_Cricket_AZ_FHD-dstv
+#EXTINF:-1,SuperSport Maximo 1 |51
 http://51.178.220.156/?watch=AFR-EX/SuperSport_Maximo_1_HD-dstv
+#EXTINF:-1,SuperSport MotorSport |51
 http://51.178.220.156/?watch=AFR-EX/SuperSport_MotorSport_HD-dstv
 #EXTINF:-1,SuperSport Play |51
 http://51.178.220.156/?watch=AFR-EX/Super_Sport_Play_HD_-dstv
+#EXTINF:-1,SuperSport Blitz |51
 http://51.178.220.156/?watch=AFR-EX/Supersport_Blitz_FHD-dstv
 
+#EXTINF:-1,CNN International
+http://51.178.220.156/?watch=BR/cnninternational-br&token=
 #EXTINF:-1,Fox Sports 2HD
 http://51.178.220.156/?watch=BR/Fox_Sports_2_HD-br&token=
 http://51.178.220.156/?watch=BR/Fox_Sports_2_HD-br&token=RED&m3u8
 #EXTINF:-1,Fox Sports HD
 http://51.178.220.156/?watch=BR/Fox_Sports_HD-br
+http://51.178.220.156/?watch=BR/vh1megahits-br&token=
 
 http://51.178.220.156/?watch=EX/A_La_Carte_1-fr
 http://51.178.220.156/?watch=EX/A_La_Carte_6-fr
@@ -14063,10 +14070,10 @@ http://51.178.220.156/?watch=EX/beinsports3hd-tr
 http://51.178.220.156/?watch=EX/beinsports4uhd-tr
 #EXTINF:-1 group-title="51/IN",beIN SPORTS 4TR'
 http://51.178.220.156/?watch=EX/beinsports4hd-tr
-beIN NBA HD
+#EXTINF:-1,beIN NBA HD
 http://51.178.220.156/?watch=EX/beIN_NBA_HD-ar
 
-Boxnation
+#EXTINF:-1,Boxnation
 http://51.178.220.156/?watch=EX/Boxnation-uk
 
 #EXTINF:-1,BT SPORT 1HD |51
@@ -14077,16 +14084,16 @@ http://51.178.220.156/?watch=EX/BT_Sport_2_HD-uk
 http://51.178.220.156/?watch=EX/BT_Sport_3_HD-uk
 http://51.178.220.156/?watch=EX/BT_Sport_ESPN_HD-uk
 
-Channel 4 HD
+#EXTINF:-1,Channel 4 HD
 http://51.178.220.156/?watch=EX/Channel_4_HD-uk
-Channel 5 HD
+#EXTINF:-1,Channel 5 HD
 http://51.178.220.156/?watch=EX/Channel_5_HD-uk
-Eurosport 1HD
+#EXTINF:-1,Eurosport 1HD
 http://51.178.220.156/?watch=EX/Eurosport_1_HD-uk
-Eurosport 2HD
+#EXTINF:-1,Eurosport 2HD
 http://51.178.220.156/?watch=EX/Eurosport_2_HD-uk
 
-Nick Jr Too
+#EXTINF:-1,Nick Jr Too
 http://51.178.220.156/?watch=EX/Nick_Jr_Too-uk
 
 #EXTINF:-1,OPTUS SPORT 1 |51
@@ -14094,7 +14101,7 @@ http://51.178.220.156/?watch=EX/Optus_Sports_1_HD_-uk
 #EXTINF:-1,OPTUS SPORT 2 |51
 http://51.178.220.156/?watch=EX/Optus_Sports_2_HD_-uk
 
-RishteyCineplex
+#EXTINF:-1,RishteyCineplex
 http://51.178.220.156/?watch=EX/RishteyCineplex-in
 
 #EXTINF:-1,Premier Sports 1HD |51
@@ -14145,11 +14152,11 @@ http://51.178.220.156/?watch=EX/Sky_Cinema_Romance_SD-uk < N.A
 http://51.178.220.156/?watch=EX/Sky_Cinema_Select_SD-uk
 http://51.178.220.156/?watch=EX/Sky_Cinema_Thriller_SD-uk
 
-Sky Sports Arena FHD
+#EXTINF:-1,Sky Sports Arena FHD
 http://51.178.220.156/?watch=EX/Sky_Sports_Arena_FHD-uk
-Sky Sports Cricket HD
+#EXTINF:-1,Sky Sports Cricket HD
 http://51.178.220.156/?watch=EX/Sky_Sports_Cricket_HD-uk
-Sky Sports F1 HD
+#EXTINF:-1,Sky Sports F1 HD
 http://51.178.220.156/?watch=EX/Sky_Sports_F1_HD-uk
 #EXTINF:-1,sky sports mainevent' |51
 http://51.178.220.156/?watch=EX/Sky_Sports_Main_Event_FHD-uk
@@ -14173,15 +14180,15 @@ http://51.178.220.156/?watch=EX/Sport_Klub_4-balkan
 http://51.178.220.156/?watch=EX/Sport_Klub_5-balkan
 #EXTINF:-1 group-title="51/IN",SK 6HD |51
 http://51.178.220.156/?watch=EX/Sport_Klub_6-balkan
-
+#EXTINF:-1,Sky Nature
 http://51.178.220.156/?watch=EX/UKFHD_Sky_Nature-uk
 
-starsports 1hd
+#EXTINF:-1,starsports 1hd
 http://51.178.220.156/?watch=EX/starsports1hd-in
-starsports 2hd
+#EXTINF:-1,starsports 2hd
 http://51.178.220.156/?watch=EX/starsports2hd-in
 
-ZEETV HD
+#EXTINF:-1,ZEETV HD
 http://51.178.220.156/?watch=EX/zeetvhd-in
 
 #EXTINF:-1,Sport.TV1 HD
@@ -14195,7 +14202,7 @@ http://51.178.220.156/?watch=NL-N/Sport_TV_4_HD-por
 #EXTINF:-1,Sport.TV5 HD
 http://51.178.220.156/?watch=NL-N/Sport_TV_5_HD-por
 
-ZEE BANGLA HD
+#EXTINF:-1,ZEE BANGLA HD
 http://51.178.220.156/?watch=R-EX/BENGALI_ZEE_BANGLA_HD-in
 
 #EXTINF:-1,STAR MOVIES |51
@@ -14221,11 +14228,11 @@ http://51.178.220.156/?watch=R-EX/HINDI_SONY_MAX_HD-in
 http://51.178.220.156/?watch=R-EX/HINDI_SONY_MAX_2-in
 #EXTINF:-1,SONY PIX HD |51
 http://51.178.220.156/?watch=R-EX/HINDI_SONY_PIX_HD-in
-SONY SAB HD
+#EXTINF:-1,SONY SAB HD
 http://51.178.220.156/?watch=R-EX/HINDI_SONY_SAB_HD-in
-STAR GOLD HD
+#EXTINF:-1,STAR GOLD HD
 http://51.178.220.156/?watch=R-EX/HINDI_STAR_GOLD_HD-in
-STAR GOLD SELECT HD
+#EXTINF:-1,STAR GOLD SELECT HD
 http://51.178.220.156/?watch=R-EX/HINDI_STAR_GOLD_SELECT_HD-in
 http://51.178.220.156/?watch=R-EX/MALAYALAM_ASIANET_HD-in
 
@@ -14234,7 +14241,7 @@ http://51.178.220.156/?watch=R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in
 http://51.178.220.156/?watch=R-EX/SPORTS_STAR_SPORTS_2_HD-in
 http://51.178.220.156/?watch=R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in
 http://51.178.220.156/?watch=R-EX/SPORTS_STAR_SPORTS_3_-in
-STAR SPORTS HD1
+#EXTINF:-1,STAR SPORTS HD1
 http://51.178.220.156/?watch=R-EX/STAR_SPORTSHINDI_HD_1-in
 #EXTINF:-1,STAR SPORTS SELECT 1HD |51
 http://51.178.220.156/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in
@@ -14243,11 +14250,10 @@ http://51.178.220.156/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in
 
 #EXTINF:-1,AND PICTURES |51
 http://51.178.220.156/?watch=R-EX/FHD_AND_PICTURES_-in
-#EXTINF:-1,AND FLIX |51
-AND PICTURES HD
+#EXTINF:-1,AND PICTURES HD
 http://51.178.220.156/?watch=R-EX/HINDI_AND_PICTURES_HD-in
 
-HINDI AND TV
+#EXTINF:-1,HINDI AND TV
 http://51.178.220.156/?watch=R-EX/HINDI_AND_TV_HD-in
 #EXTINF:-1 group-title="51/IN",B4U MOVIES |51
 http://51.178.220.156/?watch=R-EX/HINDI_B4U_MOVIES-in
@@ -14255,7 +14261,7 @@ http://51.178.220.156/?watch=R-EX/HINDI_B4U_MOVIES-in
 http://51.178.220.156/?watch=R-EX/HINDI_B4U_MUSIC-in
 #EXTINF:-1,MTV BEATS HD
 http://51.178.220.156/?watch=R-EX/HINDI_MTV_BEATS_HD-in
-HINDI SONY MAX HD
+#EXTINF:-1,HINDI SONY MAX HD
 #EXTINF:-1,TEN 1HD |51
 http://51.178.220.156/?watch=R-EX/SPORTS_TEN_1_HD-in
 #EXTINF:-1,TEN 2HD |51
@@ -14263,50 +14269,89 @@ http://51.178.220.156/?watch=R-EX/SPORTS_TEN_2_HD-in
 #EXTINF:-1 group-title="51/IN",TEN 3HD |51
 http://51.178.220.156/?watch=R-EX/SPORTS_TEN_3_HD-in
 
-
-ELEVEN 1
+#EXTINF:-1,ELEVEN 1
 http://51.178.220.156/?watch=NL-N/Eleven_Sports_1_HD-por
-ELEVEN 2
+#EXTINF:-1,ELEVEN 2
 http://51.178.220.156/?watch=NL-N/Eleven_Sports_2_HD-por
-EUROSPORT1
+#EXTINF:-1,EUROSPORT1
 http://51.178.220.156/?watch=NL-N/Eurosport_1_HD-por
 http://51.178.220.156/?watch=NL-N/Eurosport_2_HD-por < NO
-CH 4
+#EXTINF:-1,CH 4
 http://51.178.220.156/?watch=NL/channel4-uk
-ELEVEN 1HD
+#EXTINF:-1,ELEVEN 1HD
 http://51.178.220.156/?watch=NL/elevensports1hd-por
-ELEVEN 2HD
+#EXTINF:-1,ELEVEN 2HD
 http://51.178.220.156/?watch=NL/elevensports2hd-por
 
-http://51.178.220.156/?watch=NL/elevensports1-por < NO
-http://51.178.220.156/?watch=NL/elevensports2-por < DOWN
-ELEVEN 3
-http://51.178.220.156/?watch=NL/elevensports3-por
-ELEVEN 4
-http://51.178.220.156/?watch=NL/elevensports4-por
-http://51.178.220.156/?watch=NL/elevensports5-por < DOWN
-ELEVEN 6
-http://51.178.220.156/?watch=NL/elevensports6-por
+http://51.178.220.156/?watch=NL/elevensports1hd-por&token=
+http://51.178.220.156/?watch=NL/elevensports2hd-por&token=
+#EXTINF:-1,ELEVEN 3
+http://51.178.220.156/?watch=NL/elevensports3-por&token=
+#EXTINF:-1,ELEVEN 4
+http://51.178.220.156/?watch=NL/elevensports4-por&token=
+#EXTINF:-1,ELEVEN 5
+http://51.178.220.156/?watch=NL/elevensports5-por&token=
+#EXTINF:-1,ELEVEN 6
+http://51.178.220.156/?watch=NL/elevensports6-por&token=
+
 http://51.178.220.156/?watch=NL/foxmovies-por
-SPORT.TV1
-http://51.178.220.156/?watch=NL/sporttv1-por
-SPORT.TV2
-http://51.178.220.156/?watch=NL/sporttv2-por
-http://51.178.220.156/?watch=NL/sporttv3-por < DOWN
-SPORT.TV4 NBA
-http://51.178.220.156/?watch=NL/sporttv4-por
-SPORT.TV5
-http://51.178.220.156/?watch=NL/sporttv5-por
+
+#EXTINF:-1,SPORT.TV
+http://51.178.220.156/?watch=NL/sportingtv-por&token=
+#EXTINF:-1,SPORT.TV+
+http://51.178.220.156/?watch=NL/sporttvplus-por&token=
+#EXTINF:-1,SPORT.TV1
+http://51.178.220.156/?watch=NL/sporttv1-por&token=
+#EXTINF:-1,SPORT.TV2
+http://51.178.220.156/?watch=NL/sporttv2-por&token=
+#EXTINF:-1,SPORT.TV3
+http://51.178.220.156/?watch=NL/sporttv3-por&token=
+#EXTINF:-1,SPORT.TV4 NBA
+http://51.178.220.156/?watch=NL/sporttv4-por&token=
+#EXTINF:-1,SPORT.TV5
+http://51.178.220.156/?watch=NL/sporttv5-por&token=
+#EXTINF:-1,Fox Premium 1
+http://51.178.220.156/?watch=PY-N/Fox_Premium_1_HD-br&token=
+#EXTINF:-1,Fox Premium 2
+http://51.178.220.156/?watch=PY-N/Fox_Premium_2_HD-br&token=
+#EXTINF:-1,Fox Sports 2
+http://51.178.220.156/?watch=PY-N/Fox_Sports_2_HD-br&token=
+#EXTINF:-1,Fox Sports
+http://51.178.220.156/?watch=PY-N/Fox_Sports_HD-br&token=
+#EXTINF:-1,MTV HD
+http://51.178.220.156/?watch=PY-N/MTV_HD-br&token=
+#EXTINF:-1,Music Box
+http://51.178.220.156/?watch=PY-N/Music_Box_HD-br&token=
+#EXTINF:-1,Premiere 2
+http://51.178.220.156/?watch=PY-N/Premiere_2_HD-br&token=
+#EXTINF:-1,Premiere 3
+http://51.178.220.156/?watch=PY-N/Premiere_3_HD-br&token=
+#EXTINF:-1,Premiere 4
+http://51.178.220.156/?watch=PY-N/Premiere_4_HD-br&token=
+#EXTINF:-1,Premiere 5
+http://51.178.220.156/?watch=PY-N/Premiere_5_HD-br&token=
+#EXTINF:-1,Premiere 6
+http://51.178.220.156/?watch=PY-N/Premiere_6_HD-br&token=
+#EXTINF:-1,Premiere 7
+http://51.178.220.156/?watch=PY-N/Premiere_7_HD-br&token=
+http://51.178.220.156/?watch=PY-N/Premiere_Clubes_HD-br&token=
+#EXTINF:-1,VH1 HD
+http://51.178.220.156/?watch=PY-N/VH1_HD-br&token=
+#EXTINF:-1,Viva HD
+http://51.178.220.156/?watch=PY-N/Viva_HD-br&token=
+#EXTINF:-1,Warner Channel
+http://51.178.220.156/?watch=PY-N/Warner_Channel_HD-br&token=
 
 http://51.178.220.156/?watch=R-EX/ENGLISH_HBO_HD-in < NO
-AND FLIX HD
-http://51.178.220.156/?watch=R-EX/HINDI_AND_PRIVE_HD-in < NO
-ANIMAL PLANET WORLD
+
+#EXTINF:-1,AND FLIX HD
+http://51.178.220.156/?watch=R-EX/HINDI_AND_PRIVE_HD-in
+#EXTINF:-1,ANIMAL PLANET WORLD
 http://51.178.220.156/?watch=R-EX/HINDI_ANIMAL_PLANET_WORLD_HD-in
 http://51.178.220.156/?watch=R-EX/HINDI_CINEMA_TV_-in < NO
-CINEPLEX HD
+#EXTINF:-1,CINEPLEX HD
 http://51.178.220.156/?watch=R-EX/HINDI_CINEPLEX_HD-in
-COLORS HD
+#EXTINF:-1,COLORS HD
 http://51.178.220.156/?watch=R-EX/HINDI_COLORS_HD-in
 http://51.178.220.156/?watch=R-EX/HINDI_DD_NATIONAL_HD-in < NO
 http://51.178.220.156/?watch=R-EX/HINDI_DD_NEWS_HD-in
@@ -14322,9 +14367,9 @@ http://51.178.220.156/?watch=R-EX/HINDI_STAR_BHARAT_HD-in
 http://51.178.220.156/?watch=R-EX/HINDI_STAR_MOVIES_HD-in < NO
 http://51.178.220.156/?watch=R-EX/HINDI_STAR_PLUS_HD-in
 http://51.178.220.156/?watch=R-EX/HINDI_UTV_HD-in
-ZEE CINEMA HD
+#EXTINF:-1,ZEE CINEMA HD
 http://51.178.220.156/?watch=R-EX/HINDI_ZEE_CINEMA_HD-in
-ZEE TV HD
+#EXTINF:-1 group-title="51/IN",ZEE TV HD
 http://51.178.220.156/?watch=R-EX/HINDI_ZEE_TV_HD-in
 http://51.178.220.156/?watch=R-EX/PUNJABI_ZEE_PUNJABI-in
 http://51.178.220.156/?watch=R-EX/SPORTS_D_SPORTS_HD-in < NO
@@ -14337,6 +14382,7 @@ http://51.178.220.156/?watch=R-EX/TAMIL_SUN_TV_HD-in
 http://51.178.220.156/?watch=R-EX/TAMIL_VIJAY_SUPER-in
 http://51.178.220.156/?watch=R-EX/TAMIL_ZEE_CINEMA_HD-in < NO
 http://51.178.220.156/?watch=R-EX/TAMIL_ZEE_THIRAI-in < NO
+http://51.178.220.156/?watch=VOD/redaction-br&token= < NO
 
 
 Fox Sports 2HD
