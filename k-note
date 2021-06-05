@@ -13544,12 +13544,15 @@ http://46.105.112.116/?watch=AFR-EX/Super_Sport_Play_HD_-dstv
 http://46.105.112.116/?watch=AFR-EX/Supersport_Blitz_FHD-dstv
 
 #EXTINF:-1,CNN International
+http://212.224.98.212:2200/BR/cnninternational-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/cnninternational-br&token=
 #EXTINF:-1,Fox Sports 2HD
+http://212.224.98.212:2200/BR/Fox_Sports_2_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/Fox_Sports_2_HD-br&token=
 http://46.105.112.116/?watch=BR/Fox_Sports_2_HD-br&token=RED&m3u8
 #EXTINF:-1,Fox Sports HD
-http://46.105.112.116/?watch=BR/Fox_Sports_HD-br
+http://212.224.98.211:2200/BR/Fox_Sports_HD-br/index.m3u8?token=
+http://46.105.112.116/?watch=BR/Fox_Sports_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/vh1megahits-br&token=
 
 http://46.105.112.116/?watch=EX/A_La_Carte_1-fr
@@ -13878,29 +13881,46 @@ http://46.105.112.116/?watch=PY-N/Fox_Sports_2_HD-br&token=
 #EXTINF:-1,Fox Sports
 http://46.105.112.116/?watch=PY-N/Fox_Sports_HD-br&token=
 #EXTINF:-1,MTV HD
+http://185.180.15.15:2200/PY-N/MTV_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/MTV_HD-br&token=
 #EXTINF:-1,Music Box
+http://212.224.98.208:2200/PY-N/Music_Box_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Music_Box_HD-br&token=
+#EXTINF:-1,Premiere 
+http://185.180.15.17:2200/PY-N/Premiere_HD-br/index.m3u8?token=
+http://46.105.112.116/?watch=PY-N/Premiere_HD-br&token=
 #EXTINF:-1,Premiere 2
+http://185.180.15.14:2200/PY-N/Premiere_2_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Premiere_2_HD-br&token=
 #EXTINF:-1,Premiere 3
+http://212.224.98.209:2200/PY-N/Premiere_3_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Premiere_3_HD-br&token=
 #EXTINF:-1,Premiere 4
+http://212.224.98.211:2200/PY-N/Premiere_4_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Premiere_4_HD-br&token=
 #EXTINF:-1,Premiere 5
+http://212.224.98.213:2200/PY-N/Premiere_5_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Premiere_5_HD-br&token=
 #EXTINF:-1,Premiere 6
+http://212.224.98.206:2200/PY-N/Premiere_6_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Premiere_6_HD-br&token=
 #EXTINF:-1,Premiere 7
+http://185.180.15.16:2200/PY-N/Premiere_7_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Premiere_7_HD-br&token=
+#EXTINF:-1,Premiere Clubes HD
+http://185.180.15.13:2200/PY-N/Premiere_Clubes_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Premiere_Clubes_HD-br&token=
 #EXTINF:-1,VH1 HD
+http://212.224.98.204:2200/PY-N/VH1_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/VH1_HD-br&token=
 #EXTINF:-1,Viva HD
+http://212.224.98.210:2200/PY-N/Viva_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Viva_HD-br&token=
 #EXTINF:-1,Warner Channel
+http://185.180.15.15:2200/PY-N/Warner_Channel_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Warner_Channel_HD-br&token=
 
+http://212.224.98.207:2200/R-EX/ENGLISH_HBO_HD-in/index.m3u8?token= < NO
 http://46.105.112.116/?watch=R-EX/ENGLISH_HBO_HD-in < NO
 
 #EXTINF:-1,AND FLIX HD
@@ -13928,10 +13948,11 @@ http://46.105.112.116/?watch=R-EX/HINDI_STAR_PLUS_HD-in
 http://46.105.112.116/?watch=R-EX/HINDI_UTV_HD-in
 #EXTINF:-1,ZEE CINEMA HD
 http://46.105.112.116/?watch=R-EX/HINDI_ZEE_CINEMA_HD-in
-#EXTINF:-1 group-title="46/IN",ZEE TV HD
+#EXTINF:-1,ZEE TV HD
 http://46.105.112.116/?watch=R-EX/HINDI_ZEE_TV_HD-in
 http://46.105.112.116/?watch=R-EX/PUNJABI_ZEE_PUNJABI-in
 http://46.105.112.116/?watch=R-EX/SPORTS_D_SPORTS_HD-in < NO
+#EXTINF:-1 group-title="46/IN",SONY SIX HD
 http://46.105.112.116/?watch=R-EX/SPORTS_SONY_SIX_HD-in
 http://46.105.112.116/?watch=R-EX/TAMIL_JAYA_TV_HD-in
 http://46.105.112.116/?watch=R-EX/TAMIL_KTV_HD-in
