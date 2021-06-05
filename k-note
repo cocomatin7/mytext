@@ -13361,6 +13361,10 @@ http://46.105.112.116/?watch=EX/Sky_Sports_F1_HD-uk/index.m3u8?token=
 http://46.105.112.116/?watch=EX/Sport_Klub_1-balkan/tracks-v1a1/mono.m3u8?token=
 http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=
 
+http://212.224.72.126/?watch=EX/BT_Sport_ESPN_HD-uk < NO
+http://51.178.220.156/?watch=EX/BT_Sport_ESPN_HD-uk
+http://46.105.112.116/?watch=EX/BT_Sport_ESPN_HD-uk&token=
+
 http://51.178.220.156/?watch= K- - - 
 http://51.178.220.156:80/?watch= K- - - 
 http://51.178.220.156/?watch=EX/Premier_Sports_1_HD-uk K- - - http://185.180.15.14:2200/EX/Premier_Sports_1_HD-uk/index.m3u8?token=
@@ -13372,9 +13376,10 @@ http://51.178.220.156/?watch=NL-N/Sport_TV_3_HD-por K- - - http://185.180.15.14:
 http://156.146.43.241:2200 < NO
 http://185.152.64.51:2200
 http://185.180.15.12:2200
+http://185.180.15.13:2200
 http://185.180.15.14:2200 K- - -
-http://185.180.15.15:2200/EX/Premier_Sports_1_HD-uk/index.m3u8?token=
-http://185.180.15.15:2200/EX/Premier_Sports_1_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://185.180.15.15:2200/EX/BT_Sport_ESPN_HD-uk/index.m3u8?token=
+http://185.180.15.15:2200/EX/BT_Sport_ESPN_HD-uk/tracks-v1a1/mono.m3u8?token=
 http://185.180.15.15:2200 K- - - 
 http://185.180.15.16:2200 K- - -
 http://185.180.15.17:2200 K- - -
@@ -13387,7 +13392,9 @@ http://185.246.210.54:2200
 http://185.246.210.55:2200
 http://195.181.172.83:2200
 http://212.224.98.196:2200 K- - -
+http://212.224.98.204:2200 K- - 
 http://212.224.98.205:2200 K- - -
+http://212.224.98.210:2200 K- - -
 http://212.224.98.211:2200 K- - -
 http://212.224.98.213:2200 K- - -
 http://45.153.33.135:2200
@@ -14423,6 +14430,130 @@ https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IN/y5",ZEETV ME*
 https://y5w8j4a9.ssl.hwcdn.net/ztvme/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
+
+-/-/-/-/-/-
+
+http://y5w8j4a9.ssl.hwcdn.net/andflix/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/bigganga/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/bigganga/tracks-v1a1/playlist.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/playlist.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/magic/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/magic/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/mundohd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/russia/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/russia/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/smileusa/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/wion/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/wion/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zeecafehd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/andflixhd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/andpicshd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/andprivehd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/bigganga/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/bigmagic/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/cinemauk/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/cinemausa/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/classic/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/magic/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/mundohd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/russia/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/wion/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/zcinemahd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/zeecafehd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/zing/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/zlivingusa_r_prod/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/ztvhdusa/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/24ghanta/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflix/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andtvhd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andtvsd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/bigganga/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/bigganga/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/biharjharkh/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/biharjharkh/tracks-v2a1/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/canadahd/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/etcpnjbiusa/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/kalak/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/magic/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/magic/tracks-v2a1/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/marathiusa/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/marathiusa/tracks-v2a1/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/newsmpcg/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/newsmpcg/tracks-v2a1/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/punjabi/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/punjabi/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/russia/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/smileusa/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/smileusa/tracks-v2a1/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/wion/tracks-v2a1/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/world/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v2a1/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeebanglahd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeetvhd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zinguk/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zinguk/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zingusa/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zliving-ord/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/ztalkieshd/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/ztvme/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/ztvsdusa/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zzesthd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
 
 + + + + + https://z5amshls.akamaized.net + + + + +
@@ -18054,6 +18185,11 @@ Real Url: sizlerdegeleceksinizbizlergibi.goldentv.eu:8899     Status: Active    
 + + + + + sl.masterstv.net:1997 + + + + + null
 
 http://sl.masterstv.net:1997/get.php?username=Rku0iA0DXO&password=s9Bp800MfN&type=m3u Expires: Null    Active Connections: 100     Maximum Connections: 100 < DOWN
+
++ + + + + sofadad.co.uk:80 + + + + + 
+
+http://sofadad.co.uk:80/get.php?username=baldwin&password=baldwin1&type=m3u
+Real Url: sofadad.co.uk:80     Status: Active    Created: 1/4/2021 5:44:13 PM     Expires: 2/4/2022 5:44:13 PM    Active Connections: 1     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
 
 + + + + + sonyiptv.net:8080 + + + + + 6/12/2021
 
