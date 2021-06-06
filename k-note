@@ -18457,9 +18457,18 @@ Real Url: tugapt.top:8080     Status: Active    Created: 13/5/2021 1:09:43 AM   
 http://tv.dansk.live:8080/get.php?username=resell&password=nKTVSaaJ6f&type=m3u
 Real Url: tv.dansk.live:8080     Status: Active    Created: 23/5/2021 2:30:26 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1000     Formats: "ts" < MTV
 
-MTV 80
+#EXTINF:-1 group-title="dansk",MTV
+http://tv.dansk.live:8080/live/resell/nKTVSaaJ6f/43.ts
+#EXTINF:-1,MTV 80s
 http://tv.dansk.live:8080/live/resell/nKTVSaaJ6f/44.ts
-
+#EXTINF:-1,VH1
+http://tv.dansk.live:8080/live/resell/nKTVSaaJ6f/76.ts
+#EXTINF:-1,BBC World News
+http://tv.dansk.live:8080/live/resell/nKTVSaaJ6f/88.ts
+#EXTINF:-1,MTV 90s
+http://tv.dansk.live:8080/live/resell/nKTVSaaJ6f/105.ts
+#EXTINF:-1 group-title="dansk",MTV Hits
+http://tv.dansk.live:8080/live/resell/nKTVSaaJ6f/106.ts
 
 + + + + + tv.wakds.xyz:8080 + + + + +
 
@@ -18469,6 +18478,7 @@ Real Url: tt61.mine.nu:80     Status: Active    Created: Null     Expires: Null 
 + + + + + tv.wakds.xyz:8080 + + + + +
 
 http://tv.wakds.xyz:8080/get.php?username=tangyuan&password=12345678&type=m3u < DOWN
+
 
 + + + + + tv.zero2.site:8080 + + + + + 19/1/2038
 
@@ -18481,15 +18491,16 @@ Real Url: tv.zero2.site:8080     Status: Active    Created: 17/3/2021 7:54:03 PM
 http://zero2.site:8080/get.php?username=zero&password=zero&type=m3u
 Real Url: net.zero2.site:8080     Status: Active    Created: 15/5/2021 6:22:51 PM     Expires: 8/5/2036 8:22:00 PM    Active Connections: 16     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp"
 
+
 + + + + + tv4k.be:8888 + + + + +
 
 http://tv4k.be:8888/get.php?username=8kzNAoJ66T&password=6jrMJgVwhL&type=m3u < 2-1
+
 
 + + + + + udashboard.vip:8080 + + + + +
 
 http://udashboard.vip:8080/get.php?username=N8Cn3ek5F5&password=Zfws7Htxsi&type=m3u
 Real Url: udashboard.vip:8080     Status: Active    Created: 21/8/2020 8:21:28 PM     Expires: Null    Active Connections: 128     Maximum Connections: 250 < check later
-
 
 
 + + + + + uk.redhatiptv.com:25461 + + + + +
