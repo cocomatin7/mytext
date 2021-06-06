@@ -11061,6 +11061,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcf059646c0cf000a
 
 #EXTINF:-1,CNN style
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+Nick
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+Nick Jr.
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+Animi
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=840&deviceId=5f4ec10ed9636f00089b8c89&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="pluto",KIDS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=261&deviceId=5ede448d3d50590007a4419e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.2993&deviceLon=9.4910&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 
@@ -15460,6 +15467,96 @@ Real Url: bktv.xyz:8880     Status: Active    Created: 25/1/2021 9:57:55 AM     
 http://bosstr.net:80/get.php?username=cat54&password=DpbYpXOhHn&type=m3u
 Real Url: test.satlok.club:80     Status: Active    Created: 18/1/2019 12:30:51 AM     Expires: Null    Active Connections: 29     Maximum Connections: 30     Formats: "m3u8","ts","rtmp"
 
++ + + + + box.slweb.tv:8880 + + + + +
+
+http://box.slweb.tv:8880/get.php?username=Kt2021ex&password=J6kJaZShHcjpmDxw&type=m3u
+Real Url: box.slweb.tv:8880     Status: Active    Created: 10/7/2020 12:31:55 PM     Expires: Null    Active Connections: 332     Maximum Connections: 400     Formats: "ts"
+
+#EXTINF:-1 group-title="box",MTV HD | UK
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3925
+#EXTINF:-1,MTV LIVE HD | UK
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3964
+#EXTINF:-1,MTV | UK
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/116
+#EXTINF:-1,MTV OMG HD | UK
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1922
+#EXTINF:-1,MTV Base | UK
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1921
+#EXTINF:-1,MTV Classic | UK
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1918
+#EXTINF:-1,MTV Dance | UK
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1920
+#EXTINF:-1,MTV Live HD | UK
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1923
+#EXTINF:-1,MTV Music | UK
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/117
+#EXTINF:-1,MTV Rocks | UK
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1919
+#EXTINF:-1,MTV Hits | UK
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/118
+#EXTINF:-1,Bloomberg HD | UK
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3947
+#EXTINF:-1,FR: MTV BASE
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/315
+#EXTINF:-1,FR: MTV Dance
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1871
+#EXTINF:-1,FR: MTV HITS
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1862
+#EXTINF:-1,FR: MTV Music
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1866
+#EXTINF:-1,IN: And TV HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2110
+#EXTINF:-1,IN: Zee TV HD US
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/636
+#EXTINF:-1,IN: & Flix
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/742
+#EXTINF:-1,IN: & Flix HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/4582
+#EXTINF:-1,IN: Bflix Movies
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/5550
+#EXTINF:-1,IN: Zee Cinema ME
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3879
+#EXTINF:-1,IN: Sony Pix HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/669
+#EXTINF:-1,IN: Zee Cinema
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/645
+#EXTINF:-1,IN: Zee Cinema (UK)
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/4830
+#EXTINF:-1,IN: Zee Cinema CA
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/647
+#EXTINF:-1,IN: ZEE CINEMA HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2094
+#EXTINF:-1,IN: Zee Cinema (US)
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/734
+#EXTINF:-1,IN: MTV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/629
+#EXTINF:-1,IN: MTV India
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/6661
+#EXTINF:-1,NL: MTV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/513
+#EXTINF:-1,NL: MTV Live HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1168
+#EXTINF:-1,NO: MTV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1654
+#EXTINF:-1,NO: MTV Hits
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/1712
+#EXTINF:-1,BG: MTV
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2141
+#EXTINF:-1,BG: MTV Base
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2140
+#EXTINF:-1,BG: MTV Classic
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2139
+#EXTINF:-1,BG: MTV Dance
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2138
+#EXTINF:-1,BG: MTV Hits
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2137
+#EXTINF:-1,BG: MTV Live HD
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2136
+#EXTINF:-1,BG: MTV Music
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2135
+#EXTINF:-1 group-title="box",BG: MTV Rocks
+http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2134
+
 
 + + + + + boxhdtv.live:8080 + + + + + TR beIN Channels
 
@@ -17113,10 +17210,13 @@ Real Url: rate.ddnss.eu:25461     Status: Active    Created: 25/8/2019 8:41:35 A
 https://rico.besttvps.com:443/get.php?username=Ricotvv&password=Ricotvv&type=m3u
 Real Url: rico.besttvps.com:8080     Status: Active    Created: 5/4/2021 10:02:35 PM     Expires: Null    Active Connections: 67     Maximum Connections: 30000 < DOWN
 
-+ + + + + ricoootv.xyz:8080 + + + + + DOWN
++ + + + + ricoootv.xyz:8080 + + + + + beIN + 
+
+http://ricoootv.xyz:8080/get.php?username=rico&password=rico&type=m3u
+Real Url: ricoootv.xyz:8080     Status: Active    Created: 4/6/2021 5:50:18 AM     Expires: Null    Active Connections: 92     Maximum Connections: 20000     Formats: "m3u8","ts","rtmp"
 
 http://ricoootv.xyz:8080/get.php?username=ricotv0899&password=ricotv0899&type=m3u
-Real Url: ricoootv.xyz:8080     Status: Active    Created: 29/5/2021 6:43:25 AM     Expires: Null    Active Connections: 25     Maximum Connections: 400000     Formats: "m3u8","ts","rtmp"
+Real Url: ricoootv.xyz:8080     Status: Active    Created: 29/5/2021 6:43:25 AM     Expires: Null    Active Connections: 25     Maximum Connections: 400000 < DOWN
 
 
 + + + + + romax.live:2086 + + + + + DOWN
