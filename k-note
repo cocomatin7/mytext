@@ -17314,56 +17314,13 @@ http://meti-tv.xyz:25461/get.php?username=MetiTVakanalet&password=svOVWvluBT&typ
 
 http://mhiptv.com:8888/live/ka5/ka5/3652.m3u8
 
-+ + + + + www.mo3ad.xyz:8080 + + + + +
++ + + + + www.mo3ad.xyz:8080 + + + + + DOWN
 
 http://www.mo3ad.xyz:8080/get.php?username=mo3ad7&password=mo3ad7&type=m3u Expires: Null Connections: 130 < N
 
 http://www.mo3ad.xyz:8080/get.php?username=mo3ad70&password=mo3ad70&type=m3u
 Real Url: www.mo3ad.xyz:8080     Status: Active    Created: 18/5/2021 1:42:22 PM     Expires: Null    Active Connections: 7     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp"
 
-
-#EXTINF:-1 group-title="mo3ad",beIN Sports 1 Premium HD
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/1.m3u8
-#EXTINF:-1,beIN Sport 1 Premium SD
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/2.m3u8
-#EXTINF:-1,beIN Sport 2 Premium HD
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/3.m3u8
-#EXTINF:-1,beIN Sport 2 Premium SD
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/4.m3u8
-#EXTINF:-1,beIN Sports 3 Premium HD
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/5.m3u8
-#EXTINF:-1,beIN Sport 3 Premium SD
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/6.m3u8
-#EXTINF:-1,beIN Sports 1 HD
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/15.m3u8
-#EXTINF:-1,beIN Sports 2 HD
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/16.m3u8
-#EXTINF:-1,beIN Sports 3 HD
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/17.m3u8
-#EXTINF:-1,Bein Sports PR 1 Low
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/18.m3u8
-#EXTINF:-1,Bein Sports PR 2 Low
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/19.m3u8
-#EXTINF:-1,Bein Sports PR 3 Low
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/20.m3u8
-#EXTINF:-1,beIN Sports 1 SD
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/23.m3u8
-#EXTINF:-1,beIN Sports 2 SD
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/24.m3u8
-#EXTINF:-1,bein Sport 3 SD
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/25.m3u8
-#EXTINF:-1,beIN SPORTS PREMIUM1 HEVC
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/26.m3u8
-#EXTINF:-1,beIN SPORTS PREMIUM2 HEVC
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/27.m3u8
-#EXTINF:-1,beIN SPORTS PREMIUM3 HEVC
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/28.m3u8
-#EXTINF:-1,beIN SPORTS1 H265
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/29.m3u8
-#EXTINF:-1,beIN SPORTS2 H265
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/30.m3u8
-#EXTINF:-1 group-title="mo3ad",beIN SPORTS3 H265
-http://www.mo3ad.xyz:8080/live/mo3ad70/mo3ad70/31.m3u8
 
 + + + + + muttsnutts.from-mi.com:8090 + + + + +
 
@@ -17420,7 +17377,6 @@ Real Url: ottplanet.live:7788     Status: Active    Created: 24/11/2020 6:18:09 
 
 http://paylasim.smartseyirhd.de:8080/get.php?username=amigotv.online.skype&password=Wv5f8pq9l&type=m3u
 Real Url: panelxtream.smartseyirhd.de:8080     Status: Active    Created: 11/2/2020 5:34:07 PM     Expires: Null    Active Connections: 57     Maximum Connections: 100     Formats: "m3u8","ts" < to check
-
 
 
 + + + + + portal.maxtviptv.com:80 + + + + + DOWN
