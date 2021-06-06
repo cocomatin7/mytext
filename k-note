@@ -3723,7 +3723,7 @@ http://62.249.165.216:9981/stream/channelid/1424558021?ticket=8609C3D6EC219A38F0
  group-title="73.68",Tom And Jerry |offline
 http://73.68.128.14:9981/dvrfile/59f47ea93f2284f6238a572a81ab5772
 
-+ + + + http://73.85.95.69:9981/extjs.html + + + + tv:tv + + + + + DOWN
++ + + + http://73.85.95.69:9981/extjs.html + + + + tv:tv + + + + + EMPTY
 
 http://91.208.115.227:8080/get.php?username=xDJixN4wBE&password=ARBX8u86XM&type=m3u Real Url: nomorecable.eu:80/91.208.115.227:8080     Status: Active Expires: Null Connections: 1-0     Formats: "ts","m3u8" << 
 
@@ -18667,36 +18667,7 @@ http://women-bagswithcheapprice.com:8080/get.php?username=NF582ee9XB&password=X2
 
 http://teledunet.com:8080/get.php?username=clave&password=clave&type=m3u < null < 1-0 < m3u8, ts
 
-http://tvworld.teledunet.com:8080/get.php?username=clave&password=clave&type=m3u < null < 1-0 < m3u8, ts
-
-#EXTINF:-1 group-title="teledunet",SUPERSPORT 1
-http://tvworld.teledunet.com:8080/live/clave/clave/777460.ts
-#EXTINF:-1,SUPERSPORT 2
-http://tvworld.teledunet.com:8080/live/clave/clave/777461.ts
-#EXTINF:-1,SUPERSPORT 3
-http://tvworld.teledunet.com:8080/live/clave/clave/777463.ts
-#EXTINF:-1,SUPERSPORT 4
-http://tvworld.teledunet.com:8080/live/clave/clave/777464.ts
-#EXTINF:-1,SUPERSPORT 5
-http://tvworld.teledunet.com:8080/live/clave/clave/777465.ts
-#EXTINF:-1,SUPERSPORT 6
-http://tvworld.teledunet.com:8080/live/clave/clave/777466.ts
-#EXTINF:-1,SUPERSPORT 7
-http://tvworld.teledunet.com:8080/live/clave/clave/777467.ts
-#EXTINF:-1,SUPERSPORT 8
-http://tvworld.teledunet.com:8080/live/clave/clave/777468.ts
-#EXTINF:-1,SUPERSPORT 9
-http://tvworld.teledunet.com:8080/live/clave/clave/777469.ts
-#EXTINF:-1,SUPERSPORT 10
-http://tvworld.teledunet.com:8080/live/clave/clave/777462.ts
-#EXTINF:-1,SUPERSPORT 11
-http://tvworld.teledunet.com:8080/live/clave/clave/777470.ts
-#EXTINF:-1,SUPERSPORT 12
-http://tvworld.teledunet.com:8080/live/clave/clave/777471.ts
-#EXTINF:-1,SUPERSPORT BLITZ
-http://tvworld.teledunet.com:8080/live/clave/clave/777472.ts
-#EXTINF:-1 group-title="teledunet",SUPERSPORT MAXIMO
-http://tvworld.teledunet.com:8080/live/clave/clave/777473.ts
+http://tvworld.teledunet.com:8080/get.php?username=clave&password=clave&type=m3u < null < 1-0 < m3u8, ts < not play well
 
 + + + + + www.aloka-iptv.xyz:443-null + + + + + AR CH + + + + +
 
