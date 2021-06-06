@@ -12869,6 +12869,11 @@ http://202.65.84.105:9981/stream/service/cd9707b84f1aec79f3995782b166837c
 http://202.65.84.105:9981/stream/service/415b816e0e441e8dea90379f425fed0d
 #EXTINF:-1,MOVIES NOW HD
 http://202.65.84.105:9981/stream/service/c3043f062399bb5445c66b4afddda1b1
+MTV BEATS
+http://202.65.84.105:9981/play/ticket/stream/service/3769fc15070549381d02bb7990673b31?title=Service01%20%2F%20FFmpeg
+MTV PLUS
+http://202.65.84.105:9981/play/ticket/stream/service/7e5b3be7d6b39d37bb0732780327825e?title=Service01%20%2F%20FFmpeg
+
 #EXTINF:-1,SKY CINEMA DRAMA & ROMANCE FHD
 http://202.65.84.105:9981/stream/service/be379e1d75e26266abd18595ea9e9438
 #EXTINF:-1,SKY SPORTS MAIN EVENT FHD
@@ -12911,6 +12916,10 @@ http://202.65.84.105:9981/stream/channel/ab05c2110776b2ab55a9b06d3463acaf
 http://202.65.84.105:9981/stream/channel/853d8d8c52530ecf744aa118afd61ceb
 #EXTINF:-1,MOVIES NOW HD
 http://202.65.84.105:9981/stream/channel/f50517a0f6c787f3effa9484ea52f9aa
+
+http://202.65.84.105:9981/play/ticket/stream/channel/e37569927740b8f6499f3e2e45e7f565?title=MTV%20BEATS%20HD
+http://202.65.84.105:9981/play/ticket/stream/channel/68ef9d2089e7fdd2133645189281736f?title=MTV%20PLUS%20HD
+
 #EXTINF:-1,SKY CINEMA DRAMA & ROMANCE FHD
 http://202.65.84.105:9981/stream/channel/07967ab83a87b359f129122d0df6f91d
 #EXTINF:-1,SKY SPORTS MAIN EVENT FHD
@@ -12941,8 +12950,6 @@ http://202.65.84.105:9981/stream/channel/5dc4a1421352b6a85fc00750a790ee82
 http://202.65.84.105:9981/stream/channel/178241f4e8ac88f2e516727851318fa7
 #EXTINF:-1 group-title="202.65",ZEE CINEMA HD
 http://202.65.84.105:9981/stream/channel/a63dc1b19b9f79b40a9f3a38b066fd4e
-
-
 
 
 #EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/&privehd.png" tvg-id="0343f197b3f9a4ba5b759dc341082258" group-title="202.65",AND PRIVE HD
