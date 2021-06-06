@@ -3420,6 +3420,17 @@ http://27.254.130.61/live01/ch17.m3u8?p=st
 http://27.254.130.61/live01/ch18.m3u8?p=st
 http://27.254.130.61/live01/ch19.m3u8?p=st
 
++ + + + + http://50.7.75.182:9981/playlist/channels + + + + + login
+
+#EXTINF:-1 group-title="50.7/TH",26511_ASSP1
+http://50.7.75.182:9981/stream/channelid/1967715841?ticket=E53A094875AEE2FAB4CE5D86314E86B39D2A2257&profile=pass
+#EXTINF:-1,26512_ASSP2
+http://50.7.75.182:9981/stream/channelid/1006895579?ticket=62F0F7C45CF3F25CFF8877F33B99C1C18F9FF108&profile=pass
+#EXTINF:-1,26513_ASSP3
+http://50.7.75.182:9981/stream/channelid/762672896?ticket=C799A907CEB08F6068C59895265C5CCAC083DE64&profile=pass
+#EXTINF:-1 group-title="50.7/TH",26514_ASSP4
+http://50.7.75.182:9981/stream/channelid/813529725?ticket=8E061EE7AF7F3254D597792FDB0BF6F38F10D660&profile=pass
+
 + + + + + 50.7/TH + + + + +
 
 http://50.7.161.82:8278//Foxmovie/playlist.m3u8?tid=12323486&tsum=6079b8a2cef1f0c8a95583a5e2424885
@@ -14714,6 +14725,9 @@ Real Url: 51.91.73.99:25461     Status: Active    Created: 30/5/2020 8:38:00 AM 
 
 + + + + + 85.203.33.88:80 / clientportal + + + + +
 
+http://clientportal.link:80/get.php?username=ARopcevic&password=BOjHUm997&type=m3u
+Real Url: 85.203.33.88:80     Status: Active    Created: 23/11/2018 8:20:11 AM     Expires: 15/12/2021 8:20:10 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
+
 http://cloudcdn.tk:8080/get.php?username=Ps1gfW661&password=fTeMeM99&type=m3u
 Real Url: 85.203.33.88:80 Expires: 29/10/2021 6:41:31 PM    Active Connections: 0     Maximum Connections: 1
 http://cloudcdn.tk:8080/get.php?username=wZkgtvQF6G0800&password=aqE7hM928&type=m3u
@@ -15483,6 +15497,9 @@ http://globaltv.life:8880/get.php?username=sfast@trial&password=oIb3fTcCuJ&type=
 + + + + + goiptv.co:8080 [SEA] + + + + +
 
 http://goiptv.co:8080/get.php?username=avatar&password=fVkKAhhBlr&type=m3u < Expired
+
+http://goiptv.co:8080/get.php?username=Ziouiahmed&password=ldfqcx8bvm&type=m3u
+Real Url: goiptv.co:8080     Status: Active    Created: 25/6/2019 9:14:47 PM     Expires: Null    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp" << 
 
 http://goiptv.co:8080/get.php?username=live:56eed56608b644dbF&password=ZCjlyc8M9S&type=m3u
 Real Url: goiptv.co:8080     Status: Active    Created: 7/5/2021 10:17:45 AM     Expires: 25/6/2021 12:00:00 AM    Active Connections: 362     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp"
