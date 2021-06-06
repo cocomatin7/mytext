@@ -15384,56 +15384,56 @@ Real Url: 104.192.101.58:25461     Status: Active    Created: 29/12/2020 3:46:47
 
 #EXTINF:-1 group-title="appstv",NBCSN |appstv
 http://appstv.us:25461/live/1/2/1430.m3u8
-#EXTINF:-1,FOX SPORTS
+#EXTINF:-1,FOX SPORTS |appstv
 http://appstv.us:25461/live/1/2/77.m3u8
-#EXTINF:-1,FOX SPORTS 2
+#EXTINF:-1,FOX SPORTS 2 |appstv
 http://appstv.us:25461/live/1/2/78.m3u8
-#EXTINF:-1,FOX SPORTS 3
+#EXTINF:-1,FOX SPORTS 3 |appstv
 http://appstv.us:25461/live/1/2/79.m3u8
-#EXTINF:-1,BEIN SPORTS LA LIGA
+#EXTINF:-1,BEIN SPORTS LA LIGA |appstv
 http://appstv.us:25461/live/1/2/29.m3u8
-#EXTINF:-1,BEIN SPORTS Ñ
+#EXTINF:-1,BEIN SPORTS Ñ |appstv
 http://appstv.us:25461/live/1/2/28.m3u8
 
-#EXTINF:-1,FS1
+#EXTINF:-1,FS1 |appstv
 http://appstv.us:25461/live/1/2/1303.m3u8
-#EXTINF:-1,FS2
+#EXTINF:-1,FS2 |appstv
 http://appstv.us:25461/live/1/2/1308.m3u8
-#EXTINF:-1,Fox Deportes
+#EXTINF:-1,Fox Deportes |appstv
 http://appstv.us:25461/live/1/2/1383.m3u8
-#EXTINF:-1,FOX Soccer Plus
+#EXTINF:-1,FOX Soccer Plus |appstv
 http://appstv.us:25461/live/1/2/1385.m3u8
 
-#EXTINF:-1,USA | Showtime
+#EXTINF:-1,USA | Showtime |appstv
 http://appstv.us:25461/live/1/2/1447.m3u8
-#EXTINF:-1,USA | Showtime 2
+#EXTINF:-1,USA | Showtime 2 |appstv
 http://appstv.us:25461/live/1/2/1448.m3u8
-#EXTINF:-1,USA | Showtime Extreme
+#EXTINF:-1,USA | Showtime Extreme |appstv
 http://appstv.us:25461/live/1/2/1449.m3u8
-#EXTINF:-1,USA | STARZ KIDS&FAMILY
+#EXTINF:-1,USA | STARZ KIDS&FAMILY |appstv
 http://appstv.us:25461/live/1/2/1487.m3u8
-#EXTINF:-1,USA | STARZENCORE ACTION
+#EXTINF:-1,USA | STARZENCORE ACTION |appstv
 http://appstv.us:25461/live/1/2/1488.m3u8
-#EXTINF:-1,USA | STARZENCORE CLASSIC
+#EXTINF:-1,USA | STARZENCORE CLASSIC |appstv
 http://appstv.us:25461/live/1/2/1489.m3u8
-#EXTINF:-1,USA | STARZENCORE FAMILY
+#EXTINF:-1,USA | STARZENCORE FAMILY |appstv
 http://appstv.us:25461/live/1/2/1490.m3u8
-#EXTINF:-1,USA | STARZENCORE SUSPENSE
+#EXTINF:-1,USA | STARZENCORE SUSPENSE |appstv
 http://appstv.us:25461/live/1/2/1491.m3u8
 
-#EXTINF:-1,VH1
+#EXTINF:-1,VH1 |appstv
 http://appstv.us:25461/live/1/2/673.m3u8
-#EXTINF:-1,VH1 Classic
+#EXTINF:-1,VH1 Classic |appstv
 http://appstv.us:25461/live/1/2/674.m3u8
-#EXTINF:-1,MTV LIVE
+#EXTINF:-1,MTV LIVE |appstv
 http://appstv.us:25461/live/1/2/675.m3u8
-#EXTINF:-1,MTV
+#EXTINF:-1,MTV |appstv
 http://appstv.us:25461/live/1/2/676.m3u8
-#EXTINF:-1,MELODY CHANNEL
+#EXTINF:-1,MELODY CHANNEL |appstv
 http://appstv.us:25461/live/1/2/677.m3u8
-#EXTINF:-1,CNN ENG
+#EXTINF:-1,CNN ENG |appstv
 http://appstv.us:25461/live/1/2/678.m3u8
-#EXTINF:-1,USA | CNBC
+#EXTINF:-1,USA | CNBC |appstv
 http://appstv.us:25461/live/1/2/1351.m3u8
 
 #EXTINF:-1,USA | MTV CLASSICS |appstv
