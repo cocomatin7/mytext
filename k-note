@@ -18517,137 +18517,7 @@ http://vmrs.ddns.net:80/get.php?username=nordtv&password=KfjHwoZ4WF&type=m3u < N
 
 + + + + + wagnet.club:7000 + + + + +
 
-http://wagnet.club:7000/get.php?username=test1234&password=test1234&type=m3u < null < 1-0 < m3u8, ts, rtmp
-
-#EXTINF:-1 group-title="wagnet",SKY CINEMA ACTION HD
-http://wagnet.club:7000/live/test1234/test1234/655743.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY HD
-http://wagnet.club:7000/live/test1234/test1234/655742.m3u8
-#EXTINF:-1,SKY CINEMA DRAMA HD
-http://wagnet.club:7000/live/test1234/test1234/655746.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://wagnet.club:7000/live/test1234/test1234/655741.m3u8
-#EXTINF:-1,SKY CINEMA GREATS HD
-http://wagnet.club:7000/live/test1234/test1234/655745.m3u8
-#EXTINF:-1,SKY CINEMA HITS HD
-http://wagnet.club:7000/live/test1234/test1234/655740.m3u8
-#EXTINF:-1,SKY CINEMA PREMIER HD
-http://wagnet.club:7000/live/test1234/test1234/655739.m3u8
-#EXTINF:-1,SKY CINEMA FEEL GOOD HD
-http://wagnet.club:7000/live/test1234/test1234/655738.m3u8
-#EXTINF:-1,SKY CINEMA SCI-FI HD
-http://wagnet.club:7000/live/test1234/test1234/655744.m3u8
-#EXTINF:-1,SKY CINEMA THRILLER HD
-http://wagnet.club:7000/live/test1234/test1234/655737.m3u8
-#EXTINF:-1,SKY CINEMA BLOCKBUSTERS
-http://wagnet.club:7000/live/test1234/test1234/646402.m3u8
-
-#EXTINF:-1,MTV FHD
-http://wagnet.club:7000/live/test1234/test1234/24.m3u8
-#EXTINF:-1,MTV BASE
-http://wagnet.club:7000/live/test1234/test1234/60.m3u8
-#EXTINF:-1,MTV CLASSICS
-http://wagnet.club:7000/live/test1234/test1234/65.m3u8
-#EXTINF:-1,MTV CLUB
-http://wagnet.club:7000/live/test1234/test1234/70.m3u8
-#EXTINF:-1,MTV HITS
-http://wagnet.club:7000/live/test1234/test1234/61.m3u8
-#EXTINF:-1,MTV MUSIC
-http://wagnet.club:7000/live/test1234/test1234/59.m3u8
-#EXTINF:-1,MTV OMG
-http://wagnet.club:7000/live/test1234/test1234/62.m3u8
-#EXTINF:-1,MTV ROCKS
-http://wagnet.club:7000/live/test1234/test1234/63.m3u8
-#EXTINF:-1,NOW 80'S
-http://wagnet.club:7000/live/test1234/test1234/565440.m3u8
-#EXTINF:-1,NOW 90's
-http://wagnet.club:7000/live/test1234/test1234/479171.m3u8
-#EXTINF:-1,4MUSIC
-http://wagnet.club:7000/live/test1234/test1234/554302.m3u8
-#EXTINF:-1,THE BOX HITS
-http://wagnet.club:7000/live/test1234/test1234/650402.m3u8
-#EXTINF:-1,THE BOX HITS XMAS
-http://wagnet.club:7000/live/test1234/test1234/650403.m3u8
-
-#EXTINF:-1,NBCSN 
-http://wagnet.club:7000/live/test1234/test1234/566049.m3u8
-#EXTINF:-1,NBC GOLD FHD 1
-http://wagnet.club:7000/live/test1234/test1234/128.m3u8
-#EXTINF:-1,USA- NBC SPORTS NETWORK
-http://wagnet.club:7000/live/test1234/test1234/649038.m3u8
-#EXTINF:-1,USA- NBC Sport
-http://wagnet.club:7000/live/test1234/test1234/649043.m3u8
-
-#EXTINF:-1,Astro SuperSport 1 HD
-http://wagnet.club:7000/live/test1234/test1234/654399.m3u8
-#EXTINF:-1,Astro SuperSport 2 HD
-http://wagnet.club:7000/live/test1234/test1234/654400.m3u8
-#EXTINF:-1,Astro SuperSport 3 HD
-http://wagnet.club:7000/live/test1234/test1234/654401.m3u8
-#EXTINF:-1,Astro SuperSport 4 HD
-http://wagnet.club:7000/live/test1234/test1234/654402.m3u8
-
-#EXTINF:-1,BEIN 1 PREMIUM 
-http://wagnet.club:7000/live/test1234/test1234/138.m3u8
-#EXTINF:-1,BEIN 2 PREMIUM
-http://wagnet.club:7000/live/test1234/test1234/139.m3u8
-#EXTINF:-1,BEIN 3 PREMIUM
-http://wagnet.club:7000/live/test1234/test1234/140.m3u8
-#EXTINF:-1,AUS: BEIN SPORTS 1
-http://wagnet.club:7000/live/test1234/test1234/654524.m3u8
-#EXTINF:-1,AUS: BEIN SPORTS 2
-http://wagnet.club:7000/live/test1234/test1234/654525.m3u8
-#EXTINF:-1,AUS: BEIN SPORTS 3
-http://wagnet.club:7000/live/test1234/test1234/654526.m3u8
-
-#EXTINF:-1,ZA: SUPERSPORT  Premier League FHD
-http://wagnet.club:7000/live/test1234/test1234/477489.m3u8
-#EXTINF:-1,ZA: SUPERSPORT  Football  FHD
-http://wagnet.club:7000/live/test1234/test1234/477490.m3u8
-#EXTINF:-1,ZA: SUPERSPORT  Grandstand FHD
-http://wagnet.club:7000/live/test1234/test1234/477491.m3u8
-#EXTINF:-1,ZA: SUPERSPORT  PSL FHD
-http://wagnet.club:7000/live/test1234/test1234/477492.m3u8
-#EXTINF:-1,ZA: SUPERSPORT  La liga FHD
-http://wagnet.club:7000/live/test1234/test1234/477493.m3u8
-#EXTINF:-1,ZA: SUPERSPORT  Blitz FHD
-http://wagnet.club:7000/live/test1234/test1234/477494.m3u8
-#EXTINF:-1,ZA: SUPERSPORT Cricket FHD
-http://wagnet.club:7000/live/test1234/test1234/477495.m3u8
-#EXTINF:-1,ZA: SUPERSPORT Action
-http://wagnet.club:7000/live/test1234/test1234/477496.m3u8
-#EXTINF:-1,ZA: SUPERSPORT Rugby
-http://wagnet.club:7000/live/test1234/test1234/477497.m3u8
-#EXTINF:-1,ZA: SUPERSPORT  Variety 1 FHD
-http://wagnet.club:7000/live/test1234/test1234/477501.m3u8
-#EXTINF:-1,ZA: SUPERSPORT  Variety 2 FHD
-http://wagnet.club:7000/live/test1234/test1234/477502.m3u8
-#EXTINF:-1,ZA: SUPERSPORT Variety 3 FHD
-http://wagnet.club:7000/live/test1234/test1234/477503.m3u8
-#EXTINF:-1,ZA: SUPERSPORT Variety 4 FHD
-http://wagnet.club:7000/live/test1234/test1234/477504.m3u8
-
-#EXTINF:-1,OPTUS SPORT 1 
-http://wagnet.club:7000/live/test1234/test1234/644655.m3u8
-#EXTINF:-1,OPTUS SPORT 2 
-http://wagnet.club:7000/live/test1234/test1234/644656.m3u8
-#EXTINF:-1,OPTUS SPORT 3
-http://wagnet.club:7000/live/test1234/test1234/644657.m3u8
-#EXTINF:-1,OPTUS SPORT 4
-http://wagnet.club:7000/live/test1234/test1234/644658.m3u8
-#EXTINF:-1,OPTUS SPORT 5
-http://wagnet.club:7000/live/test1234/test1234/644659.m3u8
-
-#EXTINF:-1,Now HK Premier Sports 1
-http://wagnet.club:7000/live/test1234/test1234/654403.m3u8
-#EXTINF:-1,Now HK Premier Sports 2
-http://wagnet.club:7000/live/test1234/test1234/654404.m3u8
-#EXTINF:-1,Now HK Premier Sports 3
-http://wagnet.club:7000/live/test1234/test1234/654405.m3u8
-#EXTINF:-1,Now HK Premier Sports 4
-http://wagnet.club:7000/live/test1234/test1234/654406.m3u8
-#EXTINF:-1 group-title="wagnet",Now HK Premier Sports 5
-http://wagnet.club:7000/live/test1234/test1234/654407.m3u8
+http://wagnet.club:7000/get.php?username=test1234&password=test1234&type=m3u < null < 1-2 < m3u8, ts, rtmp
 
 + + + + + webo.asia:80 + + + + + to check
 
@@ -18655,7 +18525,6 @@ http://webo.asia:80/12345/12345/176351 <
 http://webo.asia:80/kami/kami/176351
 http://webo.asia:80/khan/khan/176351
 http://webo.asia:80/waleed/waleed/176351
-
 
 + + + + + women-bagswithcheapprice.com:8080 + + + + +
 
