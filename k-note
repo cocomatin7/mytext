@@ -14713,35 +14713,35 @@ http://2.56.215.148:25461/get.php?username=test&password=test&type=m3u
 Real Url: 2.56.215.148:25461     Status: Active    Created: 14/10/2020 8:45:02 PM     Expires: Null    Active Connections: 0     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
 
 #EXTINF:-1 group-title="2.56",1_4k
-http://2.56.215.148:25461/live/test/test/1.m3u8
-#EXTINF:-1,1__1080p*
-http://2.56.215.148:25461/live/test/test/2.m3u8
+http://2.56.215.148:25461/test/test/1
+#EXTINF:-1,1__1080p
+http://2.56.215.148:25461/test/test/2
 #EXTINF:-1,1__720p
-http://2.56.215.148:25461/live/test/test/3.m3u8
-#EXTINF:-1,1__480p*
-http://2.56.215.148:25461/live/test/test/4.m3u8
-#EXTINF:-1,1__360p*
-http://2.56.215.148:25461/live/test/test/5.m3u8
+http://2.56.215.148:25461/test/test/3
+#EXTINF:-1,1__480p
+http://2.56.215.148:25461/test/test/4
+#EXTINF:-1,1__360p
+http://2.56.215.148:25461/test/test/5
 #EXTINF:-1,1__240p
-http://2.56.215.148:25461/live/test/test/6.m3u8
+http://2.56.215.148:25461/test/test/6
 #EXTINF:-1,2__1080p
-http://2.56.215.148:25461/live/test/test/7.m3u8
-#EXTINF:-1,2__720p*
-http://2.56.215.148:25461/live/test/test/8.m3u8
-#EXTINF:-1,2__480p*
-http://2.56.215.148:25461/live/test/test/9.m3u8
+http://2.56.215.148:25461/test/test/7
+#EXTINF:-1,2__720p
+http://2.56.215.148:25461/test/test/8
+#EXTINF:-1,2__480p
+http://2.56.215.148:25461/test/test/9
 #EXTINF:-1,2__360p
-http://2.56.215.148:25461/live/test/test/10.m3u8
-#EXTINF:-1,2__240p*
-http://2.56.215.148:25461/live/test/test/11.m3u8
-#EXTINF:-1,3_1080*
-http://2.56.215.148:25461/live/test/test/12.m3u8
-#EXTINF:-1,3_720*
-http://2.56.215.148:25461/live/test/test/13.m3u8
-#EXTINF:-1,3_360*
-http://2.56.215.148:25461/live/test/test/14.m3u8
-#EXTINF:-1 group-title="2.56",3_240*
-http://2.56.215.148:25461/live/test/test/15.m3u8
+http://2.56.215.148:25461/test/test/10
+#EXTINF:-1,2__240p
+http://2.56.215.148:25461/test/test/11
+#EXTINF:-1,3_1080
+http://2.56.215.148:25461/test/test/12
+#EXTINF:-1,3_720
+http://2.56.215.148:25461/test/test/13
+#EXTINF:-1,3_360
+http://2.56.215.148:25461/test/test/14
+#EXTINF:-1 group-title="2.56",3_240
+http://2.56.215.148:25461/test/test/15
 
 + + + + + 5.254.20.52:8080 + + + + + DOWN
 
