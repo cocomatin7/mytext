@@ -6287,36 +6287,7 @@ http://connor:str94eEt@82.45.49.11:9981/stream/channelid/1162246573?profile=pass
 
 + + + + http://86.28.196.144:9981/extjs.html + + + + DOWN + + + + +
 
-+ + + + http://91.116.47.164:9981/playlist/channels + + + + RO
-
-Eroxxx http://91.116.47.164:9981/stream/channelid/836619834?ticket=EDDC9B084F0C77713494A4F221FDCD6B68D46543&profile=pass
-Eroxxx http://91.116.47.164:9981/stream/channelid/267316112?ticket=78034DDD82D88F6B9AFF1C20FB63C98D5E31F798&profile=pass
-
-#EXTINF:-1 tvg-id="7124d79fcda1feddfb5d4c2e5b5def17" group-title="91.116",Sony Max
-http://91.116.47.164:9981/stream/channelid/534193265?ticket=84D168EE255AC4213F9DD43E24B36D57F459793C&profile=pass
-
-#EXTINF:-1 tvg-id="ffa18c63c123159a58339808ef1c6f24",Sony Movie Channel
-http://91.116.47.164:9981/stream/channelid/1670160895?ticket=C9001F7063C414A25FAD5791CD9A74D30EEEABD1&profile=pass
-#EXTINF:-1 tvg-id="6871edeea7eb243ed433bd15fcebb131",Sony Movie Channel
-http://91.116.47.164:9981/stream/channelid/1861054824?ticket=6FA2F97250760ED9AD7BF6572E4AB3BF821A0C40&profile=pass
-#EXTINF:-1 tvg-id="3d63fe7d851617bc832b9f68d670db49",Sony Max
-http://91.116.47.164:9981/stream/channelid/2113823549?ticket=2089C55168597A87C8C3207CA321B517131FFBC5&profile=pass
-#EXTINF:-1 tvg-id="44c84ffe8e2f0640802e1554411e39e6",Sony Max
-http://91.116.47.164:9981/stream/channelid/2119157828?ticket=31AEB30440CD99CA183749AF916939769BBCF1E7&profile=pass
-
-#EXTINF:-1 tvg-id="37a4692b6c46766bd30bbbd7344d650c",Sony Movie Channel
-http://91.116.47.164:9981/stream/channelid/728343607?ticket=6B7A3574ACDA127960E80891F46B2256818BF1AF&profile=pass
-#EXTINF:-1 tvg-id="2b7208b2a01efb88b8330de344289638",Sony Movie Channel
-http://91.116.47.164:9981/stream/channelid/839414315?ticket=56975ACB17BFBEDBD9E930C047E4522534112DC3&profile=pass
-#EXTINF:-1 tvg-id="3cd09aa41706000ee8142faaaa8abd7a",Sony Max
-http://91.116.47.164:9981/stream/channelid/614125628?ticket=F1EA0BFAB95509444DCBE863B509F5A28ABC781E&profile=pass
-#EXTINF:-1 tvg-id="1c413eaa9b0da8a234d1f2a9422a624e",Sony Max
-http://91.116.47.164:9981/stream/channelid/708722972?ticket=D66853951BEA93CBB277C44E4094980E0CB3E6D0&profile=pass
-
-#EXTINF:-1 tvg-id="7dd773ad9d0420a9735d888ced6d7d7c",Sony Movie Channel
-http://91.116.47.164:9981/stream/channelid/762566525?ticket=2F72D4021F0DB7011D42832C144F499976DC1A25&profile=pass
-#EXTINF:-1 tvg-id="0cd42905132c78eec9008ea77b55d3b0" group-title="91.116",Sony Max
-http://91.116.47.164:9981/stream/channelid/86627340?ticket=B9C9ECF58F3F4E6843B08CF283E639E5AF5DB8BC&profile=pass
++ + + + http://91.116.47.164:9981/playlist/channels + + + + RO < DOWN
 
 + + + + http://108.48.50.123:9981/extjs.html + + + +
 
