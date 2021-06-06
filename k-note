@@ -15256,7 +15256,7 @@ http://188.40.76.108:25461/get.php?username=mytv01&password=uSIRzmks51&type=m3u 
 + + + + + 207.244.239.77:25461 + + + + +
 
 http://191.243.149.178:25461/get.php?username=ZANA&password=GOOD&type=m3u
-Real Url: 191.243.149.178:25461     Status: Active    Created: 21/5/2021 9:29:19 PM     Expires: 20/5/2025 11:00:00 PM    Active Connections: 0     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
+Real Url: 191.243.149.178:25461     Status: Active    Created: 21/5/2021 9:29:19 PM     Expires: 20/5/2025 11:00:00 PM    Active Connections: 0     Maximum Connections: 100000     Formats: "m3u8","ts","rtmp"
 
 #EXTINF:-1 group-title="191.243",BEINSPORTS 1 Pre_FHD |191
 http://191.243.149.178:25461/live/ZANA/GOOD/2689.m3u8
@@ -15281,67 +15281,10 @@ http://209.145.54.100:25461/get.php?username=tm0live2&password=tm4.xyz&type=m3u 
 http://209.145.54.100:25461/get.php?username=ccvbg452&password=tm4.xyz&type=m3u
 Real Url: 209.145.54.100:25461     Status: Active    Created: 22/4/2021 12:41:49 PM     Expires: Null    Active Connections: 4     Maximum Connections: 55     Formats: "m3u8","ts","rtmp"
 
-+ + + + + 209.145.58.109:25461 + + + + + Null + + + + +
++ + + + + 209.145.58.109:25461 + + + + + Null + + + + + DOWN
 
 http://209.145.58.109:25461/get.php?username=0SmzsfBiue&password=bD5ry59Og9&type=m3u
 Real Url: 209.145.58.109:25461     Status: Active    Created: 18/4/2021 6:26:25 PM     Expires: Null    Active Connections: 11     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp"  
-
-#EXTINF:-1 group-title="209.145",Fox Action 
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/9.m3u8
-#EXTINF:-1,CCM Movies 
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/18.m3u8
-#EXTINF:-1,BEIN XTRA
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/13.m3u8
-#EXTINF:-1,BEIN Sports English 1
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/15.m3u8
-#EXTINF:-1,BEIN Sports HD
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/33.m3u8
-#EXTINF:-1,Bein Sports 2 HD
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/23.m3u8
-#EXTINF:-1,Bein Sports  USA 
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/21.m3u8
-#EXTINF:-1,NBCSN
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/16.m3u8
-#EXTINF:-1,WWE
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/8.m3u8
-#EXTINF:-1,BEIN Sports 1
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/10.m3u8
-#EXTINF:-1,BEIN Sports 2
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/11.m3u8
-#EXTINF:-1,BEIN Sports 3
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/12.m3u8
-#EXTINF:-1,BEIN Sports 4
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/17.m3u8
-#EXTINF:-1,BEIN Sports 5
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/28.m3u8
-#EXTINF:-1,BEIN Sports 6
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/29.m3u8
-#EXTINF:-1,BEIN Sports 7
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/30.m3u8
-#EXTINF:-1,Sky sports news 
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/22.m3u8
-#EXTINF:-1,ELTA 1
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/31.m3u8
-#EXTINF:-1,S SPORT NEWS
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/54.m3u8
-#EXTINF:-1,SUPERSPORT 4
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/55.m3u8
-#EXTINF:-1,S Cricket
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/56.m3u8
-#EXTINF:-1,S Premier League
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/57.m3u8
-#EXTINF:-1,SUPERSPORT 2
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/58.m3u8
-#EXTINF:-1,S Premier League'
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/59.m3u8
-#EXTINF:-1,S Tennis
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/60.m3u8
-#EXTINF:-1,S Variety 1
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/61.m3u8
-#EXTINF:-1,SUPERSPORT 8
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/62.m3u8
-#EXTINF:-1 group-title="209.145",Bein Sports SD 6
-http://209.145.58.109:25461/live/0SmzsfBiue/bD5ry59Og9/66.m3u8
 
 
 + + + + + 209.222.101.100:25461 + + + + + 10/10/2021 / 5-5 + + + + +
