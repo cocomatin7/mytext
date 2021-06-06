@@ -11059,6 +11059,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007
 #EXTINF:-1 group-title="pluto",Vevo Holiday
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcf059646c0cf000a293edd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=257&deviceId=5dcf059646c0cf000a293edd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0485&deviceLon=-118.2529&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#EXTINF:-1,CNN style
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="pluto",KIDS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=261&deviceId=5ede448d3d50590007a4419e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.2993&deviceLon=9.4910&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+
+
 + + + + + stream.tvtap.live:8081 + + + + + +
 
 #EXTINF:-1 group-title="tvtap",skysports pl |tvtap
