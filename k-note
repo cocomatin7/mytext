@@ -11074,6 +11074,153 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede448d3d50590007
 
 + + + + + stream.tvtap.live:8081 + + + + + +
 
+#EXTINF:-1 group-title="tvtap",ABC 7
+http://stream.tvtap.live:8081/live/us-abc.stream/playlist.m3u8
+#EXTINF:-1,AMC
+http://stream.tvtap.live:8081/live/us-amc.stream/playlist.m3u8
+#EXTINF:-1,BBC News
+http://stream.tvtap.live:8081/live/bbcnews.stream/playlist.m3u8
+#EXTINF:-1,Box Nation
+http://stream.tvtap.live:8081/live/boxnation.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORTS
+http://stream.tvtap.live:8081/live/beinus.stream/playlist.m3u8
+#EXTINF:-1,BT Sport 1
+http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
+#EXTINF:-1,BT Sport 2
+http://stream.tvtap.live:8081/live/bt2.stream/playlist.m3u8
+#EXTINF:-1,BT Sport 3
+http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
+#EXTINF:-1,BT Sport ESPN
+http://stream.tvtap.live:8081/live/espnuk.stream/playlist.m3u8
+#EXTINF:-1,CBS Sports Network
+http://stream.tvtap.live:8081/live/cbssports.stream/playlist.m3u8
+#EXTINF:-1,Cinemax
+http://stream.tvtap.live:8081/live/us-cinemax.stream/playlist.m3u8
+#EXTINF:-1,Cinemax 5Star
+http://stream.tvtap.live:8081/live/us-cinemax-5starmax.stream/playlist.m3u8
+#EXTINF:-1,Cinemax Action
+http://stream.tvtap.live:8081/live/us-cinemaxaction.stream/playlist.m3u8
+#EXTINF:-1,CNN
+http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
+#EXTINF:-1,Crime & Investigation
+http://stream.tvtap.live:8081/live/uk-crime-invest.stream/playlist.m3u8
+#EXTINF:-1,Discovery
+http://stream.tvtap.live:8081/live/us-discovery.stream/playlist.m3u8
+#EXTINF:-1,Discovery
+http://stream.tvtap.live:8081/live/discovery.stream/playlist.m3u8
+#EXTINF:-1,Discovery Science
+http://stream.tvtap.live:8081/live/us-discoveryscience.stream/playlist.m3u8
+#EXTINF:-1,ESPN
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+#EXTINF:-1,ESPN 2
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+#EXTINF:-1,Fox
+http://stream.tvtap.live:8081/live/us-fox.stream/playlist.m3u8
+#EXTINF:-1,Fox Sports 1
+http://stream.tvtap.live:8081/live/foxsports1.stream/playlist.m3u8
+#EXTINF:-1,Fox Sports 2
+http://stream.tvtap.live:8081/live/foxsports2.stream/playlist.m3u8
+#EXTINF:-1,FX
+http://stream.tvtap.live:8081/live/us-fx.stream/playlist.m3u8
+#EXTINF:-1,H2
+http://stream.tvtap.live:8081/live/uk-h2.stream/playlist.m3u8
+#EXTINF:-1,HBO
+http://stream.tvtap.live:8081/live/us-hbo.stream/playlist.m3u8
+#EXTINF:-1,HBO Family
+http://stream.tvtap.live:8081/live/hbofamily.stream/playlist.m3u8
+#EXTINF:-1,HBO Zone
+http://stream.tvtap.live:8081/live/us-hbozone.stream/playlist.m3u8
+#EXTINF:-1,History
+http://stream.tvtap.live:8081/live/history.stream/playlist.m3u8
+#EXTINF:-1,History
+http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
+#EXTINF:-1,Investigation Discovery
+http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
+#EXTINF:-1,MUTV
+http://stream.tvtap.live:8081/live/mutv.stream/playlist.m3u8
+#EXTINF:-1,Nat Geo
+http://stream.tvtap.live:8081/live/us-natgeo/playlist.m3u8
+#EXTINF:-1,Nat Geo
+http://stream.tvtap.live:8081/live/natgeo/playlist.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://stream.tvtap.live:8081/live/us-natgeowild/playlist.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://stream.tvtap.live:8081/live/natgeowild/playlist.m3u8
+#EXTINF:-1,NBA TV
+http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
+#EXTINF:-1,NBC
+http://stream.tvtap.live:8081/live/us-nbcback.stream/playlist.m3u8
+#EXTINF:-1,NBCSN
+http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
+#EXTINF:-1,Paramount Networks
+http://stream.tvtap.live:8081/live/us-paramount.stream/playlist.m3u8
+#EXTINF:-1,Showtime
+http://stream.tvtap.live:8081/live/us-showtime.stream/playlist.m3u8
+#EXTINF:-1,Sky News
+http://stream.tvtap.live:8081/live/skynews.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Arena
+http://stream.tvtap.live:8081/live/skysports-arena.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports F1
+http://stream.tvtap.live:8081/live/skysportsf1.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Football
+http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Main Event
+http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Mix
+http://stream.tvtap.live:8081/live/skysportsmix.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Premier League
+http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
+#EXTINF:-1,Sportsnet One
+http://stream.tvtap.live:8081/live/snone.stream/playlist.m3u8
+#EXTINF:-1,Sportsnet World
+http://stream.tvtap.live:8081/live/sno.stream/playlist.m3u8
+#EXTINF:-1,Starz
+http://stream.tvtap.live:8081/live/us-starz.stream/playlist.m3u8
+#EXTINF:-1,TNT
+http://stream.tvtap.live:8081/live/us-tnt.stream/playlist.m3u8
+#EXTINF:-1,TSN 1
+http://stream.tvtap.live:8081/live/tsn1.stream/playlist.m3u8
+#EXTINF:-1,TSN 2
+http://stream.tvtap.live:8081/live/tsn2.stream/playlist.m3u8
+#EXTINF:-1,TSN 3
+http://stream.tvtap.live:8081/live/tsn3.stream/playlist.m3u8
+#EXTINF:-1,TSN 4
+http://stream.tvtap.live:8081/live/tsn4.stream/playlist.m3u8
+#EXTINF:-1,TSN 5
+http://stream.tvtap.live:8081/live/tsn5.stream/playlist.m3u8
+#EXTINF:-1,WWE
+http://stream.tvtap.live:8081/live/wwe.stream/playlist.m3u8
+#EXTINF:-1,BBC 1
+http://stream.tvtap.live:8081/live/bbc1.stream/playlist.m3u8
+#EXTINF:-1,Eurosport 1
+http://stream.tvtap.live:8081/live/eurosport1.stream/playlist.m3u8
+#EXTINF:-1,Eurosport 2
+http://stream.tvtap.live:8081/live/eurosport2.stream/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://stream.tvtap.live:8081/live/us-cartoon.stream/playlist.m3u8
+#EXTINF:-1,VH1
+http://stream.tvtap.live:8081/live/us-vh1.stream/playlist.m3u8
+#EXTINF:-1,Disney
+http://stream.tvtap.live:8081/live/us-disney.stream/playlist.m3u8
+#EXTINF:-1,Disney XD
+http://stream.tvtap.live:8081/live/us-disneyxd.stream/playlist.m3u8
+#EXTINF:-1,Nick
+http://stream.tvtap.live:8081/live/us-nick.stream/playlist.m3u8
+#EXTINF:-1,SyFy
+http://stream.tvtap.live:8081/live/us-syfy.stream/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://stream.tvtap.live:8081/live/us-animal.stream/playlist.m3u8
+#EXTINF:-1,TBS
+http://stream.tvtap.live:8081/live/us-tbs.stream/playlist.m3u8
+#EXTINF:-1,NBC
+http://stream.tvtap.live:8081/live/us-nbc.stream/playlist.m3u8
+#EXTINF:-1,MS NBC
+http://stream.tvtap.live:8081/live/us-msnbc.stream/playlist.m3u8
+#EXTINF:-1,Hallmark
+http://stream.tvtap.live:8081/live/us-hallmark.stream/playlist.m3u8
+#EXTINF:-1,Freeform
+http://stream.tvtap.live:8081/live/us-freeform.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="tvtap",skysports pl |tvtap
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
