@@ -14808,7 +14808,14 @@ http://185.90.242.200/?watch=VOD/redscifi7-br&token=
 http://185.90.242.200/?watch=VOD/redscifi8-br&token=
 http://185.90.242.200/?watch=VOD/redscifi9-br&token=
 
+
+http://5.255.94.248:8080/IN:STAR-SPORTS-HINDI/tracks-v1a1/mono.m3u8?token=JuylOjZl90 < ac deactivated
+
+
 + + + + + https://f8e7y4c6.ssl.hwcdn.net + + + + +
+
+http://51.79.84.156:8082/ZeeTvIn/index.m3u8
+
 
 https://f8e7y4c6.ssl.hwcdn.net/24ghanta/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/action/index.m3u8
@@ -16022,6 +16029,27 @@ Real Url: edge.multiplay.cl:25461     Status: Active    Created: 21/11/2019 6:10
 + + + + + forevertv.me:8080 + + + + + null + + + 
 
 http://linux-app.tv:8080/get.php?username=Iptvtree&password=He73ghh&type=m3u < forevertv.me:8080 < null < 500-299 < to check
+
++ + + + + freeiptvgen.com:25461 + + + + +
+
+http://freeiptvgen.com:25461/get.php?username=483945&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 2/5/2022 11:00:00 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=365462&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 5/5/2022 8:57:05 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=938230&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 5/5/2022 10:05:34 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=942479&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 5/5/2022 10:30:54 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=726175&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 2/5/2022 11:00:00 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+
+
+
 
 + + + + + futurenew.dyndns.tv:15800 + + + + +
 
@@ -17669,6 +17697,11 @@ Real Url: securepoint.io:83     Status: Active    Created: 30/12/2018 7:39:13 PM
 http://securepoint.io:83/get.php?username=86753099&password=86753099&type=m3u securepoint.io:83 Expires: 27/12/2021 Connections: 2-1 < DOWN
 http://tv.rebeliptv.com:83/get.php?username=82936722&password=29038858&type=m3u Real Url: securepoint.io:83 / 104.218.60.227:83 Expires: 12/5/2021 Connections: 2-1 < DOWN
 
+
++ + + + + seeyoutv.net:2300 + + + + +
+
+http://seeyoutv.tv:2300/get.php?username=123&password=123&type=m3u
+Real Url: seeyoutv.net:2300     Status: Active    Created: 15/5/2021 7:54:26 PM     Expires: Null    Active Connections: 2     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
 + + + + + serv.mediaking.fi:8080 + + + + + 4/5/2022
 
