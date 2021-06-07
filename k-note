@@ -13550,14 +13550,14 @@ http://46.105.112.116/?watch=AFR-EX/Super_Sport_Play_HD_-dstv&token=
 #EXTINF:-1,SuperSport Blitz |46
 http://46.105.112.116/?watch=AFR-EX/Supersport_Blitz_FHD-dstv&token=
 
-#EXTINF:-1,CNN International
+#EXTINF:-1,CNN International |46
 http://212.224.98.212:2200/BR/cnninternational-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/cnninternational-br&token=
-#EXTINF:-1,Fox Sports 2HD
+#EXTINF:-1,Fox Sports 2HD |46
 http://212.224.98.212:2200/BR/Fox_Sports_2_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/Fox_Sports_2_HD-br&token=
 http://46.105.112.116/?watch=BR/Fox_Sports_2_HD-br&token=RED&m3u8
-#EXTINF:-1,Fox Sports HD
+#EXTINF:-1,Fox Sports HD |46
 http://212.224.98.211:2200/BR/Fox_Sports_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/Fox_Sports_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/vh1megahits-br&token=
@@ -13623,26 +13623,26 @@ http://46.105.112.116/?watch=EX/beIN_Sports_13_HD-ar&token=
 http://46.105.112.116/?watch=EX/beIN_Sports_13_HD-ar/mpegts?token=
 http://46.105.112.116/?watch=EX/bein13sd-ar&token=
 
-#EXTINF:-1,beIN SPORTS 1TR |46
+#EXTINF:-1,beIN SPORTS 1TR' |46
 http://46.105.112.116/?watch=EX/beinsports1uhd-tr&token=
-#EXTINF:-1,beIN SPORTS 1TR'
+#EXTINF:-1,beIN SPORTS 1TR |46
 http://46.105.112.116/?watch=EX/beinsports1hd-tr&token=
-#EXTINF:-1,beIN SPORTS 2TR |46
+#EXTINF:-1,beIN SPORTS 2TR' |46
 http://46.105.112.116/?watch=EX/beinsports2uhd-tr&token=
-#EXTINF:-1,beIN SPORTS 2TR'
+#EXTINF:-1,beIN SPORTS 2TR |46
 http://46.105.112.116/?watch=EX/beinsports2hd-tr&token=
-#EXTINF:-1,beIN SPORTS 3TR |46
+#EXTINF:-1,beIN SPORTS 3TR' |46
 http://46.105.112.116/?watch=EX/beinsports3uhd-tr&token=
-#EXTINF:-1,beIN SPORTS 3TR'
+#EXTINF:-1,beIN SPORTS 3TR |46
 http://46.105.112.116/?watch=EX/beinsports3hd-tr&token=
-#EXTINF:-1,beIN SPORTS 4TR |46
+#EXTINF:-1,beIN SPORTS 4TR' |46
 http://46.105.112.116/?watch=EX/beinsports4uhd-tr&token=
-#EXTINF:-1,beIN SPORTS 4TR'
+#EXTINF:-1,beIN SPORTS 4TR |46
 http://46.105.112.116/?watch=EX/beinsports4hd-tr&token=
-#EXTINF:-1,beIN NBA HD
+#EXTINF:-1,beIN NBA HD |46
 http://46.105.112.116/?watch=EX/beIN_NBA_HD-ar&token=
 
-#EXTINF:-1,Boxnation
+#EXTINF:-1,Boxnation |46
 http://46.105.112.116/?watch=EX/Boxnation-uk&token=
 
 #EXTINF:-1,BT SPORT 1HD |46
@@ -13653,16 +13653,16 @@ http://46.105.112.116/?watch=EX/BT_Sport_2_HD-uk&token=
 http://46.105.112.116/?watch=EX/BT_Sport_3_HD-uk&token=
 http://46.105.112.116/?watch=EX/BT_Sport_ESPN_HD-uk&token=
 
-#EXTINF:-1,Channel 4 HD
+#EXTINF:-1,Channel 4 HD |46
 http://46.105.112.116/?watch=EX/Channel_4_HD-uk&token=
-#EXTINF:-1,Channel 5 HD
+#EXTINF:-1,Channel 5 HD |46
 http://46.105.112.116/?watch=EX/Channel_5_HD-uk&token=
-#EXTINF:-1,Eurosport 1HD
+#EXTINF:-1,Eurosport 1HD |46
 http://46.105.112.116/?watch=EX/Eurosport_1_HD-uk&token=
-#EXTINF:-1,Eurosport 2HD
+#EXTINF:-1,Eurosport 2HD |46
 http://46.105.112.116/?watch=EX/Eurosport_2_HD-uk&token=
 
-#EXTINF:-1,Nick Jr Too
+#EXTINF:-1,Nick Jr Too |46
 http://46.105.112.116/?watch=EX/Nick_Jr_Too-uk&token=
 
 #EXTINF:-1,OPTUS SPORT 1 |46
@@ -13670,7 +13670,7 @@ http://46.105.112.116/?watch=EX/Optus_Sports_1_HD_-uk&token=
 #EXTINF:-1,OPTUS SPORT 2 |46
 http://46.105.112.116/?watch=EX/Optus_Sports_2_HD_-uk&token=
 
-#EXTINF:-1,RishteyCineplex
+#EXTINF:-1,RishteyCineplex |46
 http://46.105.112.116/?watch=EX/RishteyCineplex-in&token=
 
 #EXTINF:-1,Premier Sports 1HD |46
@@ -13721,11 +13721,11 @@ http://46.105.112.116/?watch=EX/Sky_Cinema_Romance_SD-uk < N.A
 http://46.105.112.116/?watch=EX/Sky_Cinema_Select_SD-uk&token=
 http://46.105.112.116/?watch=EX/Sky_Cinema_Thriller_SD-uk&token=
 
-#EXTINF:-1,Sky Sports Arena FHD
+#EXTINF:-1,Sky Sports Arena FHD |46
 http://46.105.112.116/?watch=EX/Sky_Sports_Arena_FHD-uk&token=
-#EXTINF:-1,Sky Sports Cricket HD
+#EXTINF:-1,Sky Sports Cricket HD |46
 http://46.105.112.116/?watch=EX/Sky_Sports_Cricket_HD-uk&token=
-#EXTINF:-1,Sky Sports F1 HD
+#EXTINF:-1,Sky Sports F1 HD |46
 http://46.105.112.116/?watch=EX/Sky_Sports_F1_HD-uk&token=
 #EXTINF:-1,sky sports mainevent' |46
 http://46.105.112.116/?watch=EX/Sky_Sports_Main_Event_FHD-uk&token=
@@ -13750,29 +13750,29 @@ http://46.105.112.116/?watch=EX/Sport_Klub_5-balkan&token=
 #EXTINF:-1,SK 6HD |46
 http://46.105.112.116/?watch=EX/Sport_Klub_6-balkan&token=
 
-#EXTINF:-1,starsports 1hd
+#EXTINF:-1,starsports 1hd |46
 http://46.105.112.116/?watch=EX/starsports1hd-in&token=
-#EXTINF:-1,starsports 2hd
+#EXTINF:-1,starsports 2hd |46
 http://46.105.112.116/?watch=EX/starsports2hd-in&token=
 
-#EXTINF:-1,Sky Nature
+#EXTINF:-1,Sky Nature |46
 http://46.105.112.116/?watch=EX/UKFHD_Sky_Nature-uk&token=
 
-#EXTINF:-1,ZEETV HD
+#EXTINF:-1,ZEETV HD |46
 http://46.105.112.116/?watch=EX/zeetvhd-in&token=
 
-#EXTINF:-1,Sport.TV1 HD
+#EXTINF:-1,Sport.TV1 HD |46
 http://46.105.112.116/?watch=NL-N/Sport_TV_1_HD-por&token=
-#EXTINF:-1,Sport.TV2 HD
+#EXTINF:-1,Sport.TV2 HD |46
 http://46.105.112.116/?watch=NL-N/Sport_TV_2_HD-por&token=
-#EXTINF:-1,Sport.TV3 HD
+#EXTINF:-1,Sport.TV3 HD |46
 http://46.105.112.116/?watch=NL-N/Sport_TV_3_HD-por&token=
-#EXTINF:-1,Sport.TV4 HD
+#EXTINF:-1,Sport.TV4 HD |46
 http://46.105.112.116/?watch=NL-N/Sport_TV_4_HD-por&token=
-#EXTINF:-1,Sport.TV5 HD
+#EXTINF:-1,Sport.TV5 HD |46
 http://46.105.112.116/?watch=NL-N/Sport_TV_5_HD-por&token=
 
-#EXTINF:-1,ZEE BANGLA HD
+#EXTINF:-1,ZEE BANGLA HD |46
 http://46.105.112.116/?watch=R-EX/BENGALI_ZEE_BANGLA_HD-in&token=
 
 #EXTINF:-1,STAR MOVIES |46
@@ -13789,7 +13789,7 @@ http://46.105.112.116/?watch=R-EX/FHD_AND_FLIX_-in&token=
 #EXTINF:-1,AND PICTURES FHD |46
 http://46.105.112.116/?watch=R-EX/FHD_AND_PICTURES_-in&token=
 http://46.105.112.116/?watch=R-EX/FHD_AND_PRIVE_-in&token=
-#EXTINF:-1,AND TV FHD
+#EXTINF:-1,AND TV FHD |46
 http://46.105.112.116/?watch=R-EX/FHD_AND_TV_-in&token=
 
 #EXTINF:-1,STAR MOVIES FHD |46
@@ -13798,11 +13798,11 @@ http://46.105.112.116/?watch=R-EX/FHD_STAR_MOVIES_-in&token=RED_&m3u8
 http://46.105.112.116/?watch=R-EX/HINDI_AND_EXPLORE_HD-in&token=
 #EXTINF:-1,AND FLIX HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_AND_FLIX_HD-in&token=
-#EXTINF:-1,AND PICTURES HD
+#EXTINF:-1,AND PICTURES HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_AND_PICTURES_HD-in&token=
 #EXTINF:-1,AND PRIVE HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_AND_PRIVE_HD-in&token=
-#EXTINF:-1,AND TV
+#EXTINF:-1,AND TV |46
 http://46.105.112.116/?watch=R-EX/HINDI_AND_TV_HD-in&token=
 
 #EXTINF:-1,ANIMAL PLANET WORLD |46
@@ -13821,7 +13821,7 @@ http://46.105.112.116/?watch=R-EX/HINDI_COLORS_HD-in&token=
 
 #EXTINF:-1,MOVIES NOW HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_MOVIES_NOW_HD-in&token=
-#EXTINF:-1,MTV BEATS HD
+#EXTINF:-1,MTV BEATS HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_MTV_BEATS_HD-in&token=
 #EXTINF:-1,MTV+ HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_MTV_PLUS_HD-in&token=
@@ -13832,11 +13832,11 @@ http://46.105.112.116/?watch=R-EX/HINDI_SONY_MAX_HD-in&token=
 http://46.105.112.116/?watch=R-EX/HINDI_SONY_MAX_2-in&token=
 #EXTINF:-1,SONY PIX HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_SONY_PIX_HD-in&token=
-#EXTINF:-1,SONY SAB HD
+#EXTINF:-1,SONY SAB HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_SONY_SAB_HD-in&token=
-#EXTINF:-1,STAR GOLD HD
+#EXTINF:-1,STAR GOLD HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_STAR_GOLD_HD-in&token=
-#EXTINF:-1,STAR GOLD SELECT HD
+#EXTINF:-1,STAR GOLD SELECT HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_STAR_GOLD_SELECT_HD-in&token=
 
 #EXTINF:-1,ZEE CINEMA HD |46
@@ -13852,7 +13852,7 @@ http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in&token=
 http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_2_HD-in&token=
 http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in&token=
 http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_3_-in&token=
-#EXTINF:-1,STAR SPORTS HD1
+#EXTINF:-1,STAR SPORTS HD1 |46
 http://46.105.112.116/?watch=R-EX/STAR_SPORTSHINDI_HD_1-in&token=
 #EXTINF:-1,STAR SPORTS SELECT 1HD |46
 http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in&token=
@@ -13880,8 +13880,6 @@ http://46.105.112.116/?watch=NL/elevensports1hd-por&token=
 #EXTINF:-1,ELEVEN 2HD |46
 http://46.105.112.116/?watch=NL/elevensports2hd-por&token=
 
-http://46.105.112.116/?watch=NL/elevensports1hd-por&token=
-http://46.105.112.116/?watch=NL/elevensports2hd-por&token=
 #EXTINF:-1,ELEVEN 3 |46
 http://46.105.112.116/?watch=NL/elevensports3-por&token=
 #EXTINF:-1,ELEVEN 4 |46
@@ -13909,6 +13907,7 @@ http://46.105.112.116/?watch=NL/sporttv3-por&token=
 http://46.105.112.116/?watch=NL/sporttv4-por&token=
 #EXTINF:-1,SPORT.TV5 |46
 http://46.105.112.116/?watch=NL/sporttv5-por&token=
+
 #EXTINF:-1,Fox Premium 1 |46
 http://46.105.112.116/?watch=PY-N/Fox_Premium_1_HD-br&token=
 #EXTINF:-1,Fox Premium 2 |46
@@ -13958,31 +13957,13 @@ http://185.180.15.15:2200/PY-N/Warner_Channel_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Warner_Channel_HD-br&token=
 
 
-http://46.105.112.116/?watch=AFR-EX/SuperSport_Action_FHD-dstv&token=
-http://46.105.112.116/?watch=AFR-EX/SuperSport_Cricket_AZ_FHD-dstv&token=
-http://46.105.112.116/?watch=AFR-EX/SuperSport_Grandstand_FHD-dstv&token=
-http://46.105.112.116/?watch=AFR-EX/SuperSport_LaLiga_FHD-dstv&token=
-http://46.105.112.116/?watch=AFR-EX/SuperSport_Maximo_1_HD-dstv&token=
-http://46.105.112.116/?watch=AFR-EX/SuperSport_MotorSport_HD-dstv&token=
-http://46.105.112.116/?watch=AFR-EX/SuperSport_Premier_League_FHD-dstv&token=
-http://46.105.112.116/?watch=AFR-EX/SuperSport_Rugby_FHD-dstv&token=
-http://46.105.112.116/?watch=AFR-EX/SuperSport_WWE_FHD-dstv&token=
-http://46.105.112.116/?watch=AFR-EX/Super_Sport_Play_HD_-dstv&token=
-http://46.105.112.116/?watch=AFR-EX/Supersport_Blitz_FHD-dstv&token=
-http://46.105.112.116/?watch=AFR-EX/Supersport_Golf_FHD-dstv&token=
 http://46.105.112.116/?watch=BR/ID_-_Investi_Discovery_HD
-http://46.105.112.116/?watch=EX/A_La_Carte_1-fr&token=
 http://46.105.112.116/?watch=EX/A_La_Carte_2-fr&token=
 http://46.105.112.116/?watch=EX/A_La_Carte_3-fr&token=
 http://46.105.112.116/?watch=EX/A_La_Carte_4-fr&token=
 http://46.105.112.116/?watch=EX/A_La_Carte_5-fr&token=
-http://46.105.112.116/?watch=EX/A_La_Carte_6-fr&token=
 http://46.105.112.116/?watch=EX/BBC_World_News-uk&token=
 http://46.105.112.116/?watch=EX/BBC_World_News_HD-uk&token=
-http://46.105.112.116/?watch=EX/BT_Sport_1_HD-uk&token=
-http://46.105.112.116/?watch=EX/BT_Sport_2_HD-uk&token=
-http://46.105.112.116/?watch=EX/BT_Sport_ESPN_HD-uk&token=
-http://46.105.112.116/?watch=EX/Boxnation-uk&token=
 http://46.105.112.116/?watch=EX/CANAL_PLUS-fr&token=
 http://46.105.112.116/?watch=EX/CANAL_PLUS_CINEMA-fr&token=
 http://46.105.112.116/?watch=EX/CANAL_PLUS_FAMILY-fr&token=
@@ -13993,9 +13974,6 @@ http://46.105.112.116/?watch=EX/CNN_HD-uk&token=
 http://46.105.112.116/?watch=EX/DISCOVERY_FAMILLY-fr&token=
 http://46.105.112.116/?watch=EX/FR_E_ENTERTAINMENT_HD-fr&token=
 http://46.105.112.116/?watch=EX/PARAMOUNT_CHANNE_FR-fr&token=
-http://46.105.112.116/?watch=EX/Premier_Sports_1_HD-uk&token=
-http://46.105.112.116/?watch=EX/Sky_Sports_NFL_HD-uk&token=
-http://46.105.112.116/?watch=EX/beIN_NBA_HD-ar&token=
 http://46.105.112.116/?watch=EX/skysportboxinghd-uk&token=
 http://46.105.112.116/?watch=N-EX/AAF_nollywood_MOVIE_NG-af&token=
 http://46.105.112.116/?watch=N-EX/AF_D5TV__SN-af&token=
