@@ -132,6 +132,10 @@ https://yamcode.com/raw/red-hbogo
 #EXTINF:-1 tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX |mm
 https://rebrand.ly/cmax-mm
 
+#EXTINF:-1 tvg-id="HBO HD", HBO |tettv
+http://www.tettv.diradjafm.com/m3u/HBOsig-TETtv.m3u8
+
+
 #EXTINF:-1 tvg-id="HBO HD", HBO |mm
 https://raw.githubusercontent.com/konanda-sg/mytext/master/hhbo-mm.m3u8
 #EXTINF:-1 tvg-id="HBO HD", HBO* |mm
@@ -1993,6 +1997,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
  group-title="BamarTV",Party Tyme Karaoke
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+
+http://159.69.56.148:25461/get.php?username=M3UMix247&password=89ph5uifoi&type=m3u
+Real Url: 159.69.56.148:25461     Status: Active    Created: 15/9/2020 11:10:34 PM     Expires: Null    Active Connections: 226     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
 
 
 #EXTINF:-1,Mix 24-7
