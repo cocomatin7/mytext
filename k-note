@@ -11,6 +11,11 @@ http://00322.xyz:8000/get.php?username=budalatino777&password=IBHxkUjGjH&type=m3
 http://local-xc.com:8080/get.php?username=thomas_arana&password=zqM3AtWFWc&type=m3u
 Real Url: buffing.ddns.net:8080     Status: Active    Created: 1/12/2020 10:21:17 AM     Expires: Null    Active Connections: 189     Maximum Connections: 350     Formats: "ts" < DOWN?
 
+SONY ONE
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+MMA
+https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
 
 
@@ -2954,6 +2959,8 @@ https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master.m3u8
 https://d2ko4czujk9652.cloudfront.net/hls/clr4ctv_cnas/master.m3u8
 https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
 
+#EXTINF:-1,CNA| AU
+https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 
 #EXTINF:-1,CNA
 http://101.127.128.44:9981/stream/channelid/626306416?ticket=80A7312FC579AC3176CE07D0A400E309F8EFD55A&profile=pass
