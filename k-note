@@ -3756,19 +3756,7 @@ http://73.68.128.14:9981/dvrfile/59f47ea93f2284f6238a572a81ab5772
 
 http://91.208.115.227:8080/get.php?username=xDJixN4wBE&password=ARBX8u86XM&type=m3u Real Url: nomorecable.eu:80/91.208.115.227:8080     Status: Active Expires: Null Connections: 1-0     Formats: "ts","m3u8" << 
 
-#EXTINF:-1 group-title="*91.208*",FR4K+ | RMC SPORT 1 HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/32250.m3u8
-#EXTINF:-1,FR 4k+ | RMC SPORT 2 HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/27345.m3u8
-#EXTINF:-1,FR4K+ | RMC SPORT 3 HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/32246.m3u8
-#EXTINF:-1,FR4K+ | RMC SPORT 1 ACCESS HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/32251.m3u8
-#EXTINF:-1,FR4K+ | RMC SPORT 2 ACCESS HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/32249.m3u8
-#EXTINF:-1,FR4K+ | RMC SPORT 3 ACCESS HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/32247.m3u8
-#EXTINF:-1,UK | MTV Base
+#EXTINF:-1 group-title="*91.208*",UK | MTV Base
 http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2065.m3u8
 #EXTINF:-1,UK | MTV Classic
 http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2067.m3u8
