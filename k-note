@@ -7,6 +7,14 @@ Real Url: new-pro.tv:8080     Status: Active    Created: 30/3/2020 12:23:37 AM  
 
 http://00322.xyz:8000/get.php?username=budalatino777&password=IBHxkUjGjH&type=m3u < ultrax.online:8000 < 3-4 
 
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/100.m3u8
+
+https://cnnsd.newscdn.org/mybG5-b4oK672wfnvZBPoA==,1623323918/1677200617/tracks-v1a1/mono.m3u8
+
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
+http://stream.tvtap.live:8081/live/bein12.stream/chunks.m3u8
 
 http://local-xc.com:8080/get.php?username=thomas_arana&password=zqM3AtWFWc&type=m3u
 Real Url: buffing.ddns.net:8080     Status: Active    Created: 1/12/2020 10:21:17 AM     Expires: Null    Active Connections: 189     Maximum Connections: 350     Formats: "ts" < DOWN?
@@ -13919,23 +13927,12 @@ http://185.90.242.200/?watch=PY-N/CNN_Brasil_HD-br < to check
 http://50.7.34.155:2200/BR/disneyxd-br/tracks-v1a1/mono.m3u8 < OK << to check for other channels
 http://50.7.34.155:2200/BR/Nick_Jr_HD-br/tracks-v1a1/mono.m3u8
 http://50.7.34.155:2200/BR/Studio_Universal_HD-br/tracks-v1a1/index.m3u8
-http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX1HD-ar/tracks-v1a1/mono.m3u8
 
-http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/100.m3u8
-
-
-
-https://cnnsd.newscdn.org/mybG5-b4oK672wfnvZBPoA==,1623323918/1677200617/tracks-v1a1/mono.m3u8
-
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-
-http://stream.tvtap.live:8081/live/bein12.stream/chunks.m3u8
-
-http://misket.tv:2020/get.php?username=anka-icin-test&password=fhoPny6SRC&type=m3u
-Real Url: misket.tv:2020     Status: Active    Created: 20/1/2020 8:56:21 PM     Expires: Null    Active Connections: 1     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
-
-
+http://50.7.34.155:2200/EX/BEIN_SPORTS_MAX1HD-ar/tracks-v1a1/mono.m3u8?token=
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX1HD-ar/tracks-v1a1/mono.m3u8?token=
+http://46.105.112.116/?watch=EX/BEIN_SPORTS_MAX1HD-ar&token=
+http://51.178.220.156/?watch=EX/BEIN_SPORTS_MAX1HD-ar&token=
+http://185.180.15.15:2200/EX/BEIN_SPORTS_MAX1HD-ar/index.m3u8?token=
 
 + + + 
 
@@ -17646,6 +17643,11 @@ http://meti-tv.xyz:25461/get.php?username=MetiTVakanalet&password=svOVWvluBT&typ
 + + + + + mhiptv.com:8888 [beIN] + + + + +
 
 http://mhiptv.com:8888/live/ka5/ka5/3652.m3u8
+
++ + + + + misket.tv:2020 + + + + + not interesting few channel
+
+http://misket.tv:2020/get.php?username=anka-icin-test&password=fhoPny6SRC&type=m3u
+Real Url: misket.tv:2020     Status: Active    Created: 20/1/2020 8:56:21 PM     Expires: Null    Active Connections: 1     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
 
 + + + + + www.mo3ad.xyz:8080 + + + + + DOWN
 
