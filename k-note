@@ -146,9 +146,13 @@ https://yamcode.com/raw/red-hbogo
 
 #EXTINF:-1 tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX |mm
 https://rebrand.ly/cmax-mm
+#EXTINF:-1 tvg-id="CINEMAX (HD)", CINEMAX |test
+https://raw.githubusercontent.com/bestcommt2/FuckID/master/cinemax.m3u8
 
 #EXTINF:-1 tvg-id="HBO HD", HBO |tettv
 http://www.tettv.diradjafm.com/m3u/HBOsig-TETtv.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="HBO HD", HBO |mm
