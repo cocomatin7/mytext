@@ -18,7 +18,7 @@ http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 
-http://212.224.98.210:2200/BR/Premiere_Clubes_HD-br/index.m3u8?token=
+
 
 http://local-xc.com:8080/get.php?username=thomas_arana&password=zqM3AtWFWc&type=m3u
 Real Url: buffing.ddns.net:8080     Status: Active    Created: 1/12/2020 10:21:17 AM     Expires: Null    Active Connections: 189     Maximum Connections: 350     Formats: "ts" < DOWN?
@@ -13980,6 +13980,7 @@ http://185.90.242.200/?watch=PY-N/CNN_Brasil_HD-br < to check
 
 + + + + +
 
+http://212.224.98.210:2200/BR/Premiere_Clubes_HD-br/index.m3u8?token=
 
 http://50.7.34.155:2200/BR/disneyxd-br/tracks-v1a1/mono.m3u8 < OK << to check for other channels
 http://50.7.34.155:2200/BR/Nick_Jr_HD-br/tracks-v1a1/mono.m3u8
@@ -16238,8 +16239,7 @@ http://191.243.149.178:25461/live/ZANA/GOOD/2688.m3u8
 
 + + + + + 195.154.156.91:80 + + + + + Null + + + + +
 
-http://195.154.156.91:80/get.php?username=EuroS@t&password=BAFXdj8hCW&type=m3u < null < 100-50
-
+http://195.154.156.91:80/get.php?username=EuroS@t&password=BAFXdj8hCW&type=m3u < null < 100-95 << 
 
 
 + + + + + 207.244.239.77:25461 + + + + + Null + + + + +
@@ -16621,6 +16621,69 @@ http://geotvplus.eu:2082/get.php?username=Dominic&password=1234&type=m3u Expires
 + + + + + gesrv01.betstream.tv:80 + + + + +
 
 http://gesrv01.betstream.tv/get.php?username=YMnS21043v&password=PKd9ks5SLd&type=m3u < null < 0-9 < DOWN?
+
++ + + + + getwhitakertv.org:25461 + + + + + null + + + 
+
+http://getwhitakertv.org:25461/get.php?username=23763235&password=36984944&type=m3u
+Real Url: getwhitakertv.org:25461     Status: Active    Created: 31/10/2020 4:00:00 AM     Expires: Null    Active Connections: 1     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="getwhi",MTV 2 HD
+http://getwhitakertv.org:25461/live/23763235/36984944/306.m3u8
+#EXTINF:-1,MTV Classic
+http://getwhitakertv.org:25461/live/23763235/36984944/420.m3u8
+#EXTINF:-1,MTV Hits
+http://getwhitakertv.org:25461/live/23763235/36984944/393.m3u8
+#EXTINF:-1,MTV Live
+http://getwhitakertv.org:25461/live/23763235/36984944/422.m3u8
+#EXTINF:-1,MTV U HD
+http://getwhitakertv.org:25461/live/23763235/36984944/421.m3u8
+#EXTINF:-1,MTV HD
+http://getwhitakertv.org:25461/live/23763235/36984944/382.m3u8
+#EXTINF:-1,NBCSN
+http://getwhitakertv.org:25461/live/23763235/36984944/947.m3u8
+#EXTINF:-1,WWE Network
+http://getwhitakertv.org:25461/live/23763235/36984944/1023.m3u8
+#EXTINF:-1,UFC Network
+http://getwhitakertv.org:25461/live/23763235/36984944/11420.m3u8
+#EXTINF:-1,BBC World News
+http://getwhitakertv.org:25461/live/23763235/36984944/931.m3u8
+#EXTINF:-1,Bloomberg HD
+http://getwhitakertv.org:25461/live/23763235/36984944/925.m3u8
+
+#EXTINF:-1,Tom Hanks Collection 1
+http://getwhitakertv.org:25461/live/23763235/36984944/13173.m3u8
+#EXTINF:-1,Tom Hanks Collection 2
+http://getwhitakertv.org:25461/live/23763235/36984944/12581.m3u8
+#EXTINF:-1,Fast & Furious Collection
+http://getwhitakertv.org:25461/live/23763235/36984944/12910.m3u8
+#EXTINF:-1,Bourne Collection
+http://getwhitakertv.org:25461/live/23763235/36984944/13088.m3u8
+
+#EXTINF:-1,90S
+http://getwhitakertv.org:25461/live/23763235/36984944/3122.m3u8
+#EXTINF:-1,Alternative HD
+http://getwhitakertv.org:25461/live/23763235/36984944/3123.m3u8
+#EXTINF:-1,Brit Hits
+http://getwhitakertv.org:25461/live/23763235/36984944/3124.m3u8
+#EXTINF:-1,Dance-EDM
+http://getwhitakertv.org:25461/live/23763235/36984944/3125.m3u8
+#EXTINF:-1,MC: HIP-HOP AND R&B
+http://getwhitakertv.org:25461/live/23763235/36984944/3126.m3u8
+#EXTINF:-1,Hit List
+http://getwhitakertv.org:25461/live/23763235/36984944/3127.m3u8
+#EXTINF:-1,INDIE HD
+http://getwhitakertv.org:25461/live/23763235/36984944/3128.m3u8
+#EXTINF:-1,Pop & Country
+http://getwhitakertv.org:25461/live/23763235/36984944/3132.m3u8
+#EXTINF:-1,Pop Hits
+http://getwhitakertv.org:25461/live/23763235/36984944/3133.m3u8
+#EXTINF:-1,R&B Soul
+http://getwhitakertv.org:25461/live/23763235/36984944/3134.m3u8
+#EXTINF:-1,Rap 2000'S
+http://getwhitakertv.org:25461/live/23763235/36984944/3135.m3u8
+#EXTINF:-1 group-title="getwhi",Rock HD
+http://getwhitakertv.org:25461/live/23763235/36984944/3136.m3u8
+
 
 + + + + + globaliptv.ga:8080 + + + + +
 
@@ -18422,6 +18485,11 @@ Real Url: ottplanet.live:7788     Status: Active    Created: 24/11/2020 6:18:09 
 http://paylasim.smartseyirhd.de:8080/get.php?username=amigotv.online.skype&password=Wv5f8pq9l&type=m3u
 Real Url: panelxtream.smartseyirhd.de:8080     Status: Active    Created: 11/2/2020 5:34:07 PM     Expires: Null    Active Connections: 57     Maximum Connections: 100     Formats: "m3u8","ts" < to check
 
++ + + + + portal.alliptv.tv:8080 + + + + + 
+
+http://portal.alliptv.tv:8080/get.php?username=530354021348&password=397532457292&type=m3u
+Real Url: portal.alliptv.tv:8080     Status: Active    Created: 6/2/2021 2:00:00 PM     Expires: Null    Active Connections: 50     Maximum Connections: 50     Formats: "m3u8","ts","rtmp"
+
 
 + + + + + portal.maxtviptv.com:80 + + + + + DOWN
 
@@ -18956,6 +19024,11 @@ Real Url: s16tv.co:80     Status: Active    Created: 1/12/2020 10:39:22 AM     E
 http://seeyoutv.tv:2300/get.php?username=123&password=123&type=m3u
 Real Url: seeyoutv.net:2300     Status: Active    Created: 15/5/2021 7:54:26 PM     Expires: Null    Active Connections: 3     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
++ + + + + ses.ma:80 + + + + +
+
+http://xtr1.com:80/get.php?username=Iptvtree200telg&password=fUfRHGxBm8&type=m3u
+Real Url: ses.ma:80     Status: Active    Created: 28/5/2021 3:33:58 PM     Expires: Null    Active Connections: 37     Maximum Connections: 200     Formats: "ts","m3u8","rtmp"
+
 + + + + + starshare.live:8080 [MY+MM] + + + + +
 
 + + + + + s1.showplustv.com:1997 [TH+MM] + + + + + DOWN
@@ -19225,6 +19298,13 @@ http://webo.asia:80/kami/kami/176351
 http://webo.asia:80/khan/khan/176351
 http://webo.asia:80/waleed/waleed/176351
 
++ + + + + wohuogai.com:37000 + + + + + xxx
+
+http://wohuogai.com:37000/get.php?username=Restreamex2020Vdfr&password=8hJsdyUIlT25102020&type=m3u
+Real Url: wohuogai.com:37000     Status: Active    Created: 14/12/2019 1:22:50 PM     Expires: Null    Active Connections: 613     Maximum Connections: 650     Formats: "m3u8","ts","rtmp" < 
+
+
+
 + + + + + women-bagswithcheapprice.com:8080 + + + + +
 
 http://women-bagswithcheapprice.com:8080/get.php?username=NF582ee9XB&password=X2PeVT8gAJ&type=m3u < to check
@@ -19373,6 +19453,12 @@ http://www.bestsat.space:80/live/mario201709/H9afPJjWHQ/143.m3u8
 http://www.bestsat.space:80/live/mario201709/H9afPJjWHQ/1676.m3u8
 #EXTINF:-1 group-title="bestsat",UKINT: B4U Music 
 http://www.bestsat.space:80/live/mario201709/H9afPJjWHQ/1677.m3u8
+
++ + + + + www.big3.ovh:8000 + + + + +
+
+http://www.big3.ovh:8000/get.php?username=kingdiablo&password=jPiDmj76if1981&type=m3u
+Real Url: www.big3.ovh:8000     Status: Active    Created: 21/10/2018 4:57:40 PM     Expires: Null    Active Connections: 3     Maximum Connections: 300     Formats: "m3u8","ts","rtmp"
+
 
 + + + + + wweraw.ddns.net:8080 + + + + +
 
