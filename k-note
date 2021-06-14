@@ -4,13 +4,10 @@ x-tvg-url="https://rebrand.ly/k-epg"
 
 http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/100.m3u8
 
-
-
 http://local-xc.com:8080/get.php?username=thomas_arana&password=zqM3AtWFWc&type=m3u
 Real Url: buffing.ddns.net:8080     Status: Active    Created: 1/12/2020 10:21:17 AM     Expires: Null    Active Connections: 189     Maximum Connections: 350     Formats: "ts" < DOWN?
 
-http://android.mediaking.fi:8080/get.php?username=jocicbojan7@gmail.com&password=bojan5522&type=m3u
-Real Url: serv.mediaking.fi:8080     Status: Active    Created: 16/6/2020 3:58:07 PM     Expires: 15/6/2021 10:00:00 PM    Active Connections: 0     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
+
 
 SONY ONE
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
@@ -15675,41 +15672,11 @@ https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
  SKY SPORTS PREMIER LEAGUE
 http://0cvt7o9ka933roqvtma4b7g.caja.live/live/dash.php?z=111&u=ppBsJMEKj3&s=1758909919&id=49387&t=live&f=ts
 
-+ + + + + 2.56.215.148:25461 + + + + +
++ + + + + 2.56.215.148:25461 + + + + + Max Con: 0
 
 http://2.56.215.148:25461/get.php?username=test&password=test&type=m3u
-Real Url: 2.56.215.148:25461     Status: Active    Created: 14/10/2020 8:45:02 PM     Expires: Null    Active Connections: 0     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
+Real Url: 2.56.215.148:25461     Status: Active    Created: 14/10/2020 8:45:02 PM     Expires: Null    Active Connections: 0     Maximum Connections: 0     Formats: "m3u8","ts","rtmp" < not play
 
-#EXTINF:-1 group-title="2.56",1_4k
-http://2.56.215.148:25461/test/test/1
-#EXTINF:-1,1__1080p
-http://2.56.215.148:25461/test/test/2
-#EXTINF:-1,1__720p
-http://2.56.215.148:25461/test/test/3
-#EXTINF:-1,1__480p
-http://2.56.215.148:25461/test/test/4
-#EXTINF:-1,1__360p
-http://2.56.215.148:25461/test/test/5
-#EXTINF:-1,1__240p
-http://2.56.215.148:25461/test/test/6
-#EXTINF:-1,2__1080p
-http://2.56.215.148:25461/test/test/7
-#EXTINF:-1,2__720p
-http://2.56.215.148:25461/test/test/8
-#EXTINF:-1,2__480p
-http://2.56.215.148:25461/test/test/9
-#EXTINF:-1,2__360p
-http://2.56.215.148:25461/test/test/10
-#EXTINF:-1,2__240p
-http://2.56.215.148:25461/test/test/11
-#EXTINF:-1,3_1080
-http://2.56.215.148:25461/test/test/12
-#EXTINF:-1,3_720
-http://2.56.215.148:25461/test/test/13
-#EXTINF:-1,3_360
-http://2.56.215.148:25461/test/test/14
-#EXTINF:-1 group-title="2.56",3_240
-http://2.56.215.148:25461/test/test/15
 
 + + + + + 5.254.20.52:8080 + + + + + DOWN
 
@@ -15840,7 +15807,7 @@ http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/18134.m3u8
 #EXTINF:-1 group-title="51.91",US: Music Choince - HIT LIST |51
 http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/18136.m3u8
 
-+ + + + + 54k.top:8000 + + + + + null + + + + 10000-13
++ + + + + 54k.top:8000 + + + + + null + + + +  Max Con: 10000
 
 http://54k.top:8000/get.php?username=to44j&password=oyvee&type=m3u&output=hls < null < < m3u8, ts < 10000-11
 
@@ -16048,7 +16015,7 @@ http://54k.top:8000/live/to44j/oyvee/104.m3u8
 #EXTINF:-1 group-title="54k",bein-7-512k-h265
 http://54k.top:8000/live/to44j/oyvee/105.m3u8
 
-+ + + + + 62.182.80.153:80 + + + + + Null + + + + +
++ + + + + 62.182.80.153:80 + + + + + Null + + + + + Max Con: 0
 
 http://62.182.80.153:80/get.php?username=Livetv&password=master&type=m3u
 Real Url: 62.182.80.153:80     Status: Active    Created: 7/11/2020 2:59:04 AM     Expires: Null    Active Connections: 228     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
@@ -16273,7 +16240,7 @@ http://tm4.sytes.net:25461/get.php?username=43551435-tm4.xyz-5194809480&password
 Real Url: 209.145.54.100:25461     Status: Active    Created: 18/5/2021 8:57:59 PM     Expires: Null    Active Connections: 0     Maximum Connections: 90     Formats: "m3u8","ts","rtmp"
 
 http://tm4.sytes.net:25461/get.php?username=2021-tm4.xyz-20012&password=tm4.xyz&type=m3u
-Real Url: 209.145.54.100:25461     Status: Active    Created: 4/5/2021 10:10:54 PM     Expires: Null    Active Connections: 1     Maximum Connections: 70     Formats: "m3u8","ts","rtmp"
+Real Url: 209.145.54.100:25461     Status: Active    Created: 4/5/2021 10:10:54 PM     Expires: Null    Active Connections: 1     Maximum Connections: 70     Formats: "m3u8","ts","rtmp" < BANNED
 
 + + + + + 209.145.58.109:25461 + + + + + Null + + + + + DOWN
 
@@ -16314,13 +16281,11 @@ https://aloka-iptv.xyz:443/get.php?username=MEGA-TV51&password=TELEGRAM&type=m3u
 Real Url: aloka-iptv.xyz:80     Status: Active    Created: 1/5/2021 3:00:24 PM     Expires: Null    Active Connections: 0     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
 
 
-
-
 + + + + + ankastream.com:8080 + + + + +
 
 http://ankastream.com:8080/get.php?username=kortez-skype&password=B2if3NRDHdcP&type=m3u Expires: Null    Active Connections: 958     Maximum Connections: 1000 < DOWN
 
-+ + + + + appstv.us:25461 + + + + +
++ + + + + appstv.us:25461 + + + + + Max Con: 0
 
 http://appstv.us:25461/get.php?username=1&password=2&type=m3u
 Real Url: 104.192.101.58:25461     Status: Active    Created: 29/12/2020 3:46:47 AM     Expires: Null Connections: 0-0 <xxx + movies
@@ -16576,7 +16541,7 @@ Real Url: bktv.xyz:8880     Status: Active    Created: 25/1/2021 9:57:55 AM     
 http://bosstr.net:80/get.php?username=cat54&password=DpbYpXOhHn&type=m3u
 Real Url: test.satlok.club:80     Status: Active    Created: 18/1/2019 12:30:51 AM     Expires: Null    Active Connections: 29     Maximum Connections: 30     Formats: "m3u8","ts","rtmp"
 
-+ + + + + box.slweb.tv:8880 + + + + +
++ + + + + box.slweb.tv:8880 + + + + + Max Con: 400
 
 http://box.slweb.tv:8880/get.php?username=Kt2021ex&password=J6kJaZShHcjpmDxw&type=m3u
 Real Url: box.slweb.tv:8880     Status: Active    Created: 10/7/2020 12:31:55 PM     Expires: Null    Active Connections: 332     Maximum Connections: 400     Formats: "ts"
@@ -16667,7 +16632,7 @@ http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2135
 http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/2134
 
 
-+ + + + + boxhdtv.live:8080 + + + + + TR beIN Channels
++ + + + + boxhdtv.live:8080 + + + + + TR beIN Channels + + + Max Con: 1000
 
 http://boxhdtv.live:8080/get.php?username=tvboxhdtv21&password=6776477fdgg&type=m3u
 Real Url: boxhdtv.live:8080     Status: Active    Created: 12/4/2021 11:15:18 PM     Expires: Null    Active Connections: 19     Maximum Connections: 1000
@@ -16692,7 +16657,7 @@ Real Url: clientportal-worldiptv.club:8080     Status: Active    Created: 28/12/
 http://cobraa.in:8000/get.php?username=966591212489&password=360791&type=m3u
 Real Url: cobraa.in:8000     Status: Active    Created: 12/5/2021 10:10:26 PM     Expires: 12/5/2022 10:10:26 PM    Active Connections: 2     Maximum Connections: 1     Formats: "m3u8","ts"
 
-+ + + + + coresys.dvrdns.org:8080 + + + + +
++ + + + + coresys.dvrdns.org:8080 + + + + + Max Con: 0
 
 http://coresys.dvrdns.org:8080/get.php?username=stalkerportal&password=UvrHfGiEXE&type=m3u Status: Active Expires: Null Connections: 0-1 < Latin + xxx < DOWN
 
@@ -16707,7 +16672,7 @@ http://dankstream.com:2082/get.php?username=iptvtree&password=lHKqL4YNIc&type=m3
 Real Url: dankstream.com:2082     Status: Active    Created: 21/11/2020 10:26:54 AM     Expires: Null    Active Connections: 296     Maximum Connections: 300 < DOWN
 
 
-+ + + + + dillutv.dillu.ltd:7651 + + + + +
++ + + + + dillutv.dillu.ltd:7651 + + + + + Max Con: 0
 
 http://dillutv.dillu.ltd:7651/get.php?username=virusezrestreamptpanel&password=A9D3iv0A8o&type=m3u Expires: Null Connections: 100-0 < DOWN
 
@@ -16721,12 +16686,13 @@ Real Url: dp.iptvport.com:7000     Status: Active    Created: 25/12/2020 7:41:47
 + + + + + dlxfree.spdns.eu:21917 + + + + +
 
 http://dlxfree.spdns.eu:21917/get.php?username=dlxfree.spdns.eu&password=dlxfree.spdns.eu&type=m3u
-Real Url: dlxfree.spdns.eu:21917     Status: Active    Created: 16/5/2021 8:50:23 PM     Expires: Null    Active Connections: 8     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
+Real Url: dlxfree.spdns.eu:21917     Status: Active    Created: 16/5/2021 8:50:23 PM     Expires: Null    Active Connections: 8     Maximum Connections: 200     Formats: "m3u8","ts","rtmp" < to check
 
-+ + + + + edge.multiplay.cl:25461 + + + + +
+
++ + + + + edge.multiplay.cl:25461 + + + + + Max Con: 0
 
 http://138.117.71.80:25461/get.php?username=test&password=test&type=m3u
-Real Url: edge.multiplay.cl:25461     Status: Active    Created: 21/11/2019 6:10:31 PM     Expires: Null    Active Connections: 53     Maximum Connections: 0 
+Real Url: edge.multiplay.cl:25461     Status: Active    Created: 21/11/2019 6:10:31 PM     Expires: Null    Active Connections: 53     Maximum Connections: 0 < DOWN
 
 + + + + + endoftheworldisnigh.sytes.net:8989 [MTV] + + + + +
 + + + + + flowfhd.xyz:25461 [SEA] + + + + +
@@ -16779,7 +16745,7 @@ http://geotvplus.eu:2082/get.php?username=Dominic&password=1234&type=m3u Expires
 
 http://gesrv01.betstream.tv/get.php?username=YMnS21043v&password=PKd9ks5SLd&type=m3u < null < 0-9 < DOWN?
 
-+ + + + + getwhitakertv.org:25461 + + + + + null + + + 
++ + + + + getwhitakertv.org:25461 + + + + + null + + + Max Con: 0
 
 http://getwhitakertv.org:25461/get.php?username=23763235&password=36984944&type=m3u
 Real Url: getwhitakertv.org:25461     Status: Active    Created: 31/10/2020 4:00:00 AM     Expires: Null    Active Connections: 1     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
@@ -17015,7 +16981,7 @@ Real Url: in.lionboxiptv.nl:80     Status: Active    Created: 3/2/2021 10:19:34 
 http://index-off.xyz:8080/get.php?username=AMIGO_Skype02&password=00R0E5Q9IKC7124505&type=m3u
 Real Url: index-off.xyz:8080     Status: Active    Created: 14/8/2020 9:49:02 AM     Expires: Null    Active Connections: 29     Maximum Connections: 150     Formats: "m3u8","ts","rtmp" < to check
 
-+ + + + + ip.newboss.site:80 + ip.bosszx.net:80 + bosstr.net:80 + + + Null + UK: SUPERSPORT + DSTV AFRICA| SuperSport 1 + + + 
++ + + + + ip.newboss.site:80 + ip.bosszx.net:80 + bosstr.net:80 + + + Null + UK: SUPERSPORT + DSTV AFRICA| SuperSport 1 + + +
 
 http://ip.bosszx.net:80/get.php?username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&type=m3u
 Real Url: bosstr.net:80     Status: Active    Created: 25/4/2019 2:30:18 AM     Expires: Null    Active Connections: 136     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
@@ -17872,7 +17838,7 @@ http://links.iptvlogin.com:80/get.php?username=tomaslineexchange&password=H69dbc
 http://iptvnow.me:8080/get.php?username=dindin-3505&password=RAp0L4nWBm&type=m3u
 Real Url: iptvnow.me:8080     Status: Active    Created: 4/12/2020 7:22:20 AM     Expires: Null     Maximum Connections: 25     Formats: "m3u8","ts","rtmp"
 
-+ + + + + iptvtree.net:8080 [SEA] + + + + +  Max Con: 0
++ + + + + iptvtree.net:8080 [SEA] + + + + +
 
 http://iptvtree.net:8080/live/13354/27c12697/162530.m3u8 < N
 
@@ -18370,7 +18336,7 @@ http://176.9.31.213:7080/live/live_channel/e71sq94uo8/65.ts
 
 http://nowatv.dyndns.info:8080/live/kam-mot@o2.pl/fj2HUYet1s/17.m3u8
 
-+ + + + + oldschool.blogsite.org:9000 + + + + + Null + + + + + to check
++ + + + + oldschool.blogsite.org:9000 + + + + + Null + + + + + to check later
 
 http://oldschool.blogsite.org:9000/get.php?username=stalkerrrbv&password=trueh2tt9kk&type=m3u < null < 200-1 
 
@@ -18972,8 +18938,11 @@ Real Url: seeyoutv.net:2300     Status: Active    Created: 15/5/2021 7:54:26 PM 
 
 + + + + + serv.mediaking.fi:8080 + + + + + 4/5/2022 + Max Con: 0
 
+http://android.mediaking.fi:8080/get.php?username=jocicbojan7@gmail.com&password=bojan5522&type=m3u
+Real Url: serv.mediaking.fi:8080     Status: Active    Created: 16/6/2020 3:58:07 PM     Expires: 15/6/2021 10:00:00 PM    Active Connections: 0     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
+
 http://android.mediaking.fi:8080/get.php?username=adelisa98@hotmail.com&password=herning7400&type=m3u
-Real Url: serv.mediaking.fi:8080     Status: Active    Created: 30/11/2018 5:50:44 PM     Expires: 4/5/2022 10:00:00 PM    Active Connections: 1     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
+Real Url: serv.mediaking.fi:8080     Status: Active    Created: 30/11/2018 5:50:44 PM     Expires: 4/5/2022 10:00:00 PM    Active Connections: 3     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
 
 #EXTINF:-1 group-title="serv",ARENA SPORT 1
 http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/10.m3u8
@@ -19389,7 +19358,8 @@ Real Url: xxxxlocal.com:8080     Status: Active    Created: 5/12/2019 3:03:16 PM
 
 + + + + + ytv.plus:25461-null + + + + +
 
-http://ytv.plus:25461/get.php?username=diegotv&password=1234&type=m3u Expires: Null    Active Connections: 16     Maximum Connections: 0
+http://ytv.plus:25461/get.php?username=diegotv&password=1234&type=m3u
+Real Url: ytv.plus:25461     Status: Active    Created: 11/2/2020 6:34:45 PM     Expires: Null    Active Connections: 16     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
 
 #EXTINF:-1 group-title="ytv",SHOWTIME 2 USA
 http://ytv.plus:25461/live/diegotv/1234/380.m3u8
