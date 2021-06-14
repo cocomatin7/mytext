@@ -3077,7 +3077,9 @@ https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 #EXTINF:-1 group-title="GB",Bloomberg |blu
 https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="GB",BBC WORLD NEWS
+rtmp://pub.ggboxtv.tw:1936/live/565
 #EXTINF:-1,BBC WORLD NEWS |CS
 https://cloud-service.best/hplus.php?play&id=73425
 #EXTINF:-1,BBC WORLD NEWS |rsc
