@@ -16305,7 +16305,8 @@ http://ankastream.com:8080/get.php?username=kortez-skype&password=B2if3NRDHdcP&t
 + + + + + appstv.us:25461 + + + + +
 
 http://appstv.us:25461/get.php?username=1&password=2&type=m3u
-Real Url: 104.192.101.58:25461     Status: Active    Created: 29/12/2020 3:46:47 AM     Expires: Null Connections: 0-0 <xxx + 
+Real Url: 104.192.101.58:25461     Status: Active    Created: 29/12/2020 3:46:47 AM     Expires: Null Connections: 0-0 <xxx + movies
+
 
 #EXTINF:-1 group-title="appstv",NBCSN |appstv
 http://appstv.us:25461/live/1/2/1430.m3u8
@@ -16319,6 +16320,10 @@ http://appstv.us:25461/live/1/2/79.m3u8
 http://appstv.us:25461/live/1/2/29.m3u8
 #EXTINF:-1,BEIN SPORTS Ñ |appstv
 http://appstv.us:25461/live/1/2/28.m3u8
+#EXTINF:-1,USA | BEIN Sport
+http://appstv.us:25461/live/1/2/293.m3u8
+#EXTINF:-1,beIN Sports
+http://appstv.us:25461/live/1/2/354.m3u8
 
 #EXTINF:-1,FS1 |appstv
 http://appstv.us:25461/live/1/2/1303.m3u8
@@ -16346,6 +16351,62 @@ http://appstv.us:25461/live/1/2/1490.m3u8
 #EXTINF:-1,USA | STARZENCORE SUSPENSE |appstv
 http://appstv.us:25461/live/1/2/1491.m3u8
 
+#EXTINF:-1,90s
+http://appstv.us:25461/live/1/2/649.m3u8
+#EXTINF:-1,Alternative
+http://appstv.us:25461/live/1/2/650.m3u8
+#EXTINF:-1,Brits   Hits
+http://appstv.us:25461/live/1/2/651.m3u8
+#EXTINF:-1,Dance/EDM
+http://appstv.us:25461/live/1/2/652.m3u8
+#EXTINF:-1,Hip-Hop and R&B
+http://appstv.us:25461/live/1/2/653.m3u8
+#EXTINF:-1,Hit List
+http://appstv.us:25461/live/1/2/654.m3u8
+#EXTINF:-1,Indie
+http://appstv.us:25461/live/1/2/655.m3u8
+#EXTINF:-1,Kidz Only!
+http://appstv.us:25461/live/1/2/656.m3u8
+#EXTINF:-1,Metal
+http://appstv.us:25461/live/1/2/657.m3u8
+#EXTINF:-1,Mexicana
+http://appstv.us:25461/live/1/2/658.m3u8
+#EXTINF:-1,Musica Urbana
+http://appstv.us:25461/live/1/2/659.m3u8
+#EXTINF:-1,Pop & Country
+http://appstv.us:25461/live/1/2/660.m3u8
+#EXTINF:-1,Pop Hits
+http://appstv.us:25461/live/1/2/661.m3u8
+#EXTINF:-1,Pop Latino
+http://appstv.us:25461/live/1/2/662.m3u8
+#EXTINF:-1,R&B Soul
+http://appstv.us:25461/live/1/2/663.m3u8
+#EXTINF:-1,Rap
+http://appstv.us:25461/live/1/2/664.m3u8
+#EXTINF:-1,Rap 2K
+http://appstv.us:25461/live/1/2/665.m3u8
+#EXTINF:-1,Rock
+http://appstv.us:25461/live/1/2/666.m3u8
+#EXTINF:-1,Teen Beats
+http://appstv.us:25461/live/1/2/667.m3u8
+#EXTINF:-1,Throwback Jamz
+http://appstv.us:25461/live/1/2/668.m3u8
+#EXTINF:-1,Today's Country
+http://appstv.us:25461/live/1/2/669.m3u8
+#EXTINF:-1,Toddler Tunes
+http://appstv.us:25461/live/1/2/670.m3u8
+#EXTINF:-1,Tropicales
+http://appstv.us:25461/live/1/2/671.m3u8
+#EXTINF:-1,Y2K
+http://appstv.us:25461/live/1/2/672.m3u8
+#EXTINF:-1,VH1
+http://appstv.us:25461/live/1/2/673.m3u8
+#EXTINF:-1,VH1 Classic
+http://appstv.us:25461/live/1/2/674.m3u8
+#EXTINF:-1,MTV LIVE
+http://appstv.us:25461/live/1/2/675.m3u8
+#EXTINF:-1,MTV
+http://appstv.us:25461/live/1/2/676.m3u8
 #EXTINF:-1,VH1 |appstv
 http://appstv.us:25461/live/1/2/673.m3u8
 #EXTINF:-1,VH1 Classic |appstv
@@ -16370,16 +16431,87 @@ http://appstv.us:25461/live/1/2/678.m3u8
 #EXTINF:-1,UFC Fight Pass |appstv
 http://appstv.us:25461/live/1/2/13419.m3u8
 
-#EXTINF:-1,TUDN EXTRA 1 |appstv
-http://appstv.us:25461/live/1/2/282.m3u8
-#EXTINF:-1,TUDN EXTRA 2 |appstv
-http://appstv.us:25461/live/1/2/283.m3u8
-#EXTINF:-1,TUDN EXTRA 3 |appstv
-http://appstv.us:25461/live/1/2/284.m3u8
-#EXTINF:-1,TUDN EXTRA 4 |appstv
-http://appstv.us:25461/live/1/2/285.m3u8
-#EXTINF:-1 group-title="appstv",TUDN EXTRA 5 |appstv
-http://appstv.us:25461/live/1/2/286.m3u8
+#EXTINF:-1,& PRIVE HD
+http://appstv.us:25461/live/1/2/3495.m3u8
+#EXTINF:-1,BBC World News
+http://appstv.us:25461/live/1/2/3532.m3u8
+#EXTINF:-1,BFLIX MOVIES
+http://appstv.us:25461/live/1/2/3533.m3u8
+#EXTINF:-1,Bloomberg TV
+http://appstv.us:25461/live/1/2/3534.m3u8
+#EXTINF:-1,CNN
+http://appstv.us:25461/live/1/2/3558.m3u8
+
+#EXTINF:-1,Bloomberg TV Asia (720p)
+http://appstv.us:25461/live/1/2/8258.m3u8
+#EXTINF:-1,Bloomberg TV Asia (720p)
+http://appstv.us:25461/live/1/2/8259.m3u8
+#EXTINF:-1,Bloomberg TV Asia Live Event (720p)
+http://appstv.us:25461/live/1/2/8260.m3u8
+#EXTINF:-1,Bloomberg TV Asia Live Event (720p)
+http://appstv.us:25461/live/1/2/8261.m3u8
+#EXTINF:-1,Channel NewsAsia (1080p)
+http://appstv.us:25461/live/1/2/8262.m3u8
+#EXTINF:-1,Channel V
+http://appstv.us:25461/live/1/2/8263.m3u8
+#EXTINF:-1,CNBC (720p)
+http://appstv.us:25461/live/1/2/8264.m3u8
+#EXTINF:-1,HBO Asia
+http://appstv.us:25461/live/1/2/8268.m3u8
+
+#EXTINF:-1,Sky Cinema Sci-fi Horror
+http://appstv.us:25461/live/1/2/10618.m3u8
+#EXTINF:-1,Sky Cinema Premier
+http://appstv.us:25461/live/1/2/10619.m3u8
+#EXTINF:-1,Sky Cinema Hits
+http://appstv.us:25461/live/1/2/10620.m3u8
+#EXTINF:-1,SKY CINEMA GREATS
+http://appstv.us:25461/live/1/2/10621.m3u8
+#EXTINF:-1,Sky Cinema Family
+http://appstv.us:25461/live/1/2/10622.m3u8
+#EXTINF:-1,Sky Cinema Drama
+http://appstv.us:25461/live/1/2/10623.m3u8
+#EXTINF:-1,Sky Cinema Disney
+http://appstv.us:25461/live/1/2/10624.m3u8
+#EXTINF:-1,Sky Cinema Action
+http://appstv.us:25461/live/1/2/10625.m3u8
+#EXTINF:-1,Sky Cinema Thriller
+http://appstv.us:25461/live/1/2/10626.m3u8
+#EXTINF:-1,SKY CINEMA SELECT
+http://appstv.us:25461/live/1/2/10627.m3u8
+#EXTINF:-1,UFC Fight Pass
+http://appstv.us:25461/live/1/2/13419.m3u8
+
+#EXTINF:-1,08:00 Eurocopa 2020 : Inglaterra vs Croacia
+http://appstv.us:25461/live/1/2/25497.m3u8
+#EXTINF:-1,08:00 Eurocopa 2020 : Inglaterra vs Croacia ESP
+http://appstv.us:25461/live/1/2/25498.m3u8
+#EXTINF:-1,10:30 Campeonato Uruguayo : Deportivo Maldonado vs Cerro Largo
+http://appstv.us:25461/live/1/2/25499.m3u8
+#EXTINF:-1,11:00 Eurocopa : Austria vs Macedonia Norte
+http://appstv.us:25461/live/1/2/25500.m3u8
+#EXTINF:-1,11:00 Horse Racing : TVG Trackside Live !
+http://appstv.us:25461/live/1/2/25501.m3u8
+#EXTINF:-1,11:00 Final Liga Endesa : Barca vs Real Madrid
+http://appstv.us:25461/live/1/2/25502.m3u8
+#EXTINF:-1,13:00 LMB : Bravos de Leon vs Pericos de Puebla
+http://appstv.us:25461/live/1/2/25503.m3u8
+#EXTINF:-1,13:30 Campeonato Uruguayo : Nacional vs CA Fenix
+http://appstv.us:25461/live/1/2/25504.m3u8
+#EXTINF:-1,13:30 Liga Colombiana : Millonarios vs Juniors
+http://appstv.us:25461/live/1/2/25505.m3u8
+#EXTINF:-1,13:45 La Liga 2 : Rayo Vallecano de Madrid vs Girona FC
+http://appstv.us:25461/live/1/2/25506.m3u8
+#EXTINF:-1,14:00 Eurocopa 2020 : Holanda vs Ucrania
+http://appstv.us:25461/live/1/2/25507.m3u8
+#EXTINF:-1,16:00 Copa America : Brasil vs Venezuela
+http://appstv.us:25461/live/1/2/25508.m3u8
+#EXTINF:-1,16:00 Copa America : Brasil vs Venezuela OP2
+http://appstv.us:25461/live/1/2/25509.m3u8
+#EXTINF:-1,19:00 Copa America : Colombia vs Ecuador
+http://appstv.us:25461/live/1/2/25513.m3u8
+#EXTINF:-1 group-title="appstv",19:00 Copa America : Colombia vs Ecuador OP2
+http://appstv.us:25461/live/1/2/25514.m3u8
 
 NA Brazzers http://appstv.us:25461/live/1/2/181.m3u8
 NA Dusk http://appstv.us:25461/live/1/2/182.m3u8
