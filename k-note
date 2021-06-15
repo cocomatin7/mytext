@@ -18580,27 +18580,52 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5137.m3u8
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7995.m3u8
 
 #EXTINF:-1,...RSA SUPERSPORTS TENNIS HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/311866.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=311866&type=hls
 #EXTINF:-1,...RSA SUPERSPORTS VARITY 1 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/311868.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=311868&type=hls
 #EXTINF:-1,...RSA SUPERSPORTS VARITY 2 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30957.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=30957&type=hls
 #EXTINF:-1,...RSA SUPERSPORTS VARITY 3 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30330.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=30330&type=hls
 #EXTINF:-1,...RSA SUPERSPORTS VARITY 4 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/397213.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=397213&type=hls
 #EXTINF:-1,...RSA SUPERSPORTS RUGBY HD AF
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/395599.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=395599&type=hls
 #EXTINF:-1,...RSA SUPERSPORTS PREMIER LEAGUE HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/269696.m3u8
-http://38.143.137.110:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/269696.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=269696&type=hls
+http://38.143.137.110:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/269696&type=hls
 #EXTINF:-1,WC. RSA SUPERSPORT CRICKET HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/393845.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=393845&type=hls
+
+#EXTINF:-1,AR: BEIN SPORT 01 HD
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=30248&type=hls
+#EXTINF:-1,AR: BEIN SPORT 02 HD
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=265924&type=hls
+#EXTINF:-1,AR: BEIN SPORT 03 HD
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=30246&type=hls
+#EXTINF:-1,AR: BEIN SPORT 04 HD
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=30245&type=hls
+#EXTINF:-1,AR: BEIN SPORT 05 HD
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=30244&type=hls
+#EXTINF:-1,AR: BEIN SPORT 06 HD
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=30243&type=hls
+#EXTINF:-1,AR: BEIN SPORT 07 HD
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=30242&type=hls
+#EXTINF:-1,AR: BEIN SPORT 08 HD
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=30241&type=hls
+#EXTINF:-1,AR: BEIN SPORT 09 HD
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=30240&type=hls
+#EXTINF:-1,AR: BEIN SPORT 10 HD
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=30239&type=hls
+#EXTINF:-1,AR: BEIN SPORT 11 HD
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=30238&type=hls
+#EXTINF:-1,AR: BEIN SPORT 12 HD
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=30237&type=hls
 
 #EXTINF:-1,WC. STAR SPORTS SELECT 1 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30539.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=30539&type=hls
 #EXTINF:-1,WC. STAR SPORTS SELECT 2 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30538.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=30538&type=hls
 
 #EXTINF:-1,KOR: KBS W HD MY
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363.m3u8
@@ -18645,31 +18670,31 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16990.m3u8
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16935.m3u8
 
 #EXTINF:-1,PPV- DAZN 01 HD CA
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289554.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=289554&type=hls
 #EXTINF:-1,PPV- DAZN 02 HD CA
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/165571.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=165571&type=hls
 #EXTINF:-1,PPV- DAZN 03 HD CA
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289553.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=289553&type=hls
 #EXTINF:-1,PPV- DAZN 04 HD CA
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/165366.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=165366&type=hls
 #EXTINF:-1,PPV- DAZN 05 HD CA
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289545.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=289545&type=hls
 #EXTINF:-1,PPV- DAZN 06 HD CA
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/165367.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=165367&type=hls
 #EXTINF:-1,PPV- DAZN 07 HD CA
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/165365.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=165365&type=hls
 #EXTINF:-1,PPV- DAZN 08 HD CA
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289544.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=289544&type=hls
 #EXTINF:-1,PPV- DAZN 09 HD CA
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289543.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=289543&type=hls
 #EXTINF:-1,PPV- DAZN 10 HD CA
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/165563.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=165563&type=hls
 #EXTINF:-1,PPV- DAZN 11 HD CA
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289562.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=289562&type=hls
 #EXTINF:-1,PPV- DAZN 12 HD CA
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289561.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=289561&type=hls
 #EXTINF:-1 group-title="qqtv",PPV- DAZN 13 HD CA
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289548.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=289548&type=hls
 
 XXX: REDLIGHT HD
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15193.m3u8
