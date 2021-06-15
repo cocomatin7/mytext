@@ -16710,6 +16710,49 @@ Real Url: cobraa.in:8000     Status: Active    Created: 12/5/2021 10:10:26 PM   
 
 http://coresys.dvrdns.org:8080/get.php?username=stalkerportal&password=UvrHfGiEXE&type=m3u Status: Active Expires: Null Connections: 0-1 < Latin + xxx < DOWN
 
+http://coresys.dvrdns.org:8080/get.php?username=killallSst@lkerportal&password=UvrHfGiEXE&type=m3u
+Real Url: coresys.dvrdns.org:8080     Status: Active    Created: 3/12/2020 4:59:51 PM     Expires: Null    Active Connections: 3     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="coresys",UFC Fight Pass
+http://coresys.dvrdns.org:8080/live/killallSst@lkerportal/UvrHfGiEXE/60.m3u8
+#EXTINF:-1,BOX Nation
+http://coresys.dvrdns.org:8080/live/killallSst@lkerportal/UvrHfGiEXE/61.m3u8
+#EXTINF:-1,24/7 Tom & Jerry TV EN
+http://coresys.dvrdns.org:8080/live/killallSst@lkerportal/UvrHfGiEXE/437.m3u8
+#EXTINF:-1,MTV 2
+http://coresys.dvrdns.org:8080/live/killallSst@lkerportal/UvrHfGiEXE/14522.m3u8
+#EXTINF:-1,MTV U (USA)
+http://coresys.dvrdns.org:8080/live/killallSst@lkerportal/UvrHfGiEXE/14521.m3u8
+#EXTINF:-1,MTV LIVE (USA)
+http://coresys.dvrdns.org:8080/live/killallSst@lkerportal/UvrHfGiEXE/14520.m3u8
+#EXTINF:-1,MTV Classic US
+http://coresys.dvrdns.org:8080/streaming/clients_live.php?extension=m3u8&username=killallSst@lkerportal&password=UvrHfGiEXE&stream=14519&type=hls
+http://coresys.dvrdns.org:8080/live/killallSst@lkerportal/UvrHfGiEXE/14519.m3u8
+#EXTINF:-1,BeiN Sport 1 HD Connetc (EN)
+http://coresys.dvrdns.org:8080/streaming/clients_live.php?extension=m3u8&username=killallSst@lkerportal&password=UvrHfGiEXE&stream=29081&type=hls
+http://coresys.dvrdns.org:8080/live/killallSst@lkerportal/UvrHfGiEXE/29081.m3u8
+#EXTINF:-1,BeiN Sport 2 HD Connetc (EN)
+http://coresys.dvrdns.org:8080/streaming/clients_live.php?extension=m3u8&username=killallSst@lkerportal&password=UvrHfGiEXE&stream=29082&type=hls
+http://coresys.dvrdns.org:8080/live/killallSst@lkerportal/UvrHfGiEXE/29082.m3u8
+#EXTINF:-1,BeiN Sport 3 HD Connetc (EN)
+http://coresys.dvrdns.org:8080/streaming/clients_live.php?extension=m3u8&username=killallSst@lkerportal&password=UvrHfGiEXE&stream=29085&type=hls
+http://coresys.dvrdns.org:8080/live/killallSst@lkerportal/UvrHfGiEXE/29085.m3u8
+#EXTINF:-1,EURO SPORTS 1 HD
+http://coresys.dvrdns.org:8080/live/killallSst@lkerportal/UvrHfGiEXE/29086.m3u8
+#EXTINF:-1,EURO SPORT 2 HD
+http://coresys.dvrdns.org:8080/live/killallSst@lkerportal/UvrHfGiEXE/29087.m3u8
+#EXTINF:-1,NBC Sports Encoder
+http://coresys.dvrdns.org:8080/live/killallSst@lkerportal/UvrHfGiEXE/29088.m3u8
+#EXTINF:-1,PPV 1 DAZN (ESPANOL)
+http://coresys.dvrdns.org:8080/live/killallSst@lkerportal/UvrHfGiEXE/29109.m3u8
+#EXTINF:-1,DAZN 2 HD ES
+http://coresys.dvrdns.org:8080/live/killallSst@lkerportal/UvrHfGiEXE/29079.m3u8
+#EXTINF:-1,PPV 1 DAZN (ENGLISH) |offline
+http://coresys.dvrdns.org:8080/live/killallSst@lkerportal/UvrHfGiEXE/28791.m3u8
+#EXTINF:-1 group-title="coresys",DAZN 2 FHD ES
+http://coresys.dvrdns.org:8080/streaming/clients_live.php?extension=m3u8&username=killallSst@lkerportal&password=UvrHfGiEXE&stream=28833&type=hls
+http://coresys.dvrdns.org:8080/live/killallSst@lkerportal/UvrHfGiEXE/28833.m3u8
+
 + + + + + darkiptv.co:8000 + + + + + 
 
 http://ottin.me:8000/get.php?username=salam_000946&password=ImHfNpi5&type=m3u
@@ -18489,6 +18532,7 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7921.m3u8
 #EXTINF:-1,..MTV LIVE
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15455.m3u8
 #EXTINF:-1,..MTV CLASSIC
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=15452&type=hls
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15452.m3u8
 #EXTINF:-1,..MTV U
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15456.m3u8
