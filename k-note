@@ -17296,7 +17296,7 @@ http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44611.m3u8
 #EXTINF:-1,IN: FLIX HD (IND)
 http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44646.m3u8
 #EXTINF:-1,IN: SONY PIX HD
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=m3u8&username=vander&password=vander&stream=2454959&type=hls
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=44795&type=hls
 http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44795.m3u8
 #EXTINF:-1,IN: &FLIX HD
 http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44816.m3u8
@@ -19235,7 +19235,8 @@ http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/59019.m3u8
 http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/58752.m3u8
 #EXTINF:-1,IN:  Sony Pal TV
 http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/58755.m3u8
-#EXTINF:-1,IN:  Sony PIX HD
+#EXTINF:-1,IN:  Sony PIX HD |offline
+http://xtr1.com:80/streaming/clients_live.php?extension=m3u8&username=Iptvtree200telg&password=fUfRHGxBm8&stream=58764&type=hls
 http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/58764.m3u8
 #EXTINF:-1,IN:  B4u Plus HD
 http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/58774.m3u8
