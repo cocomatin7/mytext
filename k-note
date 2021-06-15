@@ -6823,6 +6823,64 @@ http://116.255.19.58:9981/stream/channelid/2081627602?profile=pass
  group-title="116.255",ZING
 http://116.255.19.58:9981/stream/channelid/129924788?profile=pass
 
+
++ + + + + http://144.48.122.22:9981/playlist/channels + + + + +
+
+#EXTINF:-1 tvg-id="a4b83955c02e4e042f7341cd4d114349" group-title="144.48",STAR WORLD HD
+http://144.48.122.22:9981/stream/channelid/1429846180?ticket=0F747F7DB3ACB8A64FA576B5ABC42F34D7FB5C68&profile=pass
+#EXTINF:-1 tvg-id="5c3afd3a8c4ae0e7066af78e30a323f8",STAR WORLD PRIMER
+http://144.48.122.22:9981/stream/channelid/989674076?ticket=EB42FAC2F03E4D75566681304B286135D6B91176&profile=pass
+#EXTINF:-1 tvg-id="8c133fa1753153fcf439544bef4d5b89",STAR MOVIES HD
+http://144.48.122.22:9981/stream/channelid/557781900?ticket=45EE0CCDFB37F5BCF9350BBCD4571F88F48E398A&profile=pass
+#EXTINF:-1 tvg-id="c39bc615c13ed5883c16b48060937d98",MNX HD
+http://144.48.122.22:9981/stream/channelid/365337539?ticket=E9841263405A85E9C02FD25A3240344987C9E8B9&profile=pass
+#EXTINF:-1 tvg-id="faaa5cb959eef83e68ba9ecab31c400d",PRIVE HD 
+http://144.48.122.22:9981/stream/channelid/962374394?ticket=9208D7F26290F5F84C5FAC44F7DF8FB3F54BF74C&profile=pass
+#EXTINF:-1 tvg-id="4572737d9b01189cad7e45a92306a595",COMEDY HD
+http://144.48.122.22:9981/stream/channelid/2104717893?ticket=0B812544412075F19E78C43F75696C44CFD3CB13&profile=pass
+#EXTINF:-1 tvg-id="e9bdea77eb80ad49687c4117aa37a486",Trivel xp
+http://144.48.122.22:9981/stream/channelid/2011872745?ticket=858D9DE926F51D244D95B6A339B4D4B95B7048A4&profile=pass
+#EXTINF:-1 tvg-id="7a98dd523fb0dd5b9947b59fcb5ed12e",CAFE HD 
+http://144.48.122.22:9981/stream/channelid/1390254202?ticket=C32B3253676D33C505A025DF007FC559BB2E63C5&profile=pass
+#EXTINF:-1 tvg-id="1e9242fa34163f3acfb22e0dd77b5fa1",NGC HD
+http://144.48.122.22:9981/stream/channelid/2051183134?ticket=B586F6F4761A46EFCF472CE5E3175D9A0D94730F&profile=pass
+#EXTINF:-1 tvg-id="02a59626db8644c244f101e1a7208a79",EUROSPORT HD
+http://144.48.122.22:9981/stream/channelid/647406850?ticket=90A07E58CD97345D7794E73DDE1B03764A520E28&profile=pass
+#EXTINF:-1 tvg-id="e1445cf3844050de66e56bf6a1a7d645",SCIENCE 
+http://144.48.122.22:9981/stream/channelid/1935426785?ticket=80F5553D4EF02A1E604E8B3AA30617ECFEA09D4E&profile=pass
+#EXTINF:-1 tvg-id="09f5316eea59f9942cf00a99678e0631",TURBO
+http://144.48.122.22:9981/stream/channelid/1848767753?ticket=0F0F6A09FCB631955B7E6D3D81D7E09D388DC5DA&profile=pass
+#EXTINF:-1 tvg-id="365ec68e89e28c18a780b0d15748ea3d",nick HD
+http://144.48.122.22:9981/stream/channelid/247881270?ticket=B7C311CCEA236227C435316BC1B489EF4277339D&profile=pass
+#EXTINF:-1 tvg-id="a45c1b1448df9f94f20be26ce3a5f032",NAT GEO WILD 
+http://144.48.122.22:9981/stream/channelid/337337508?ticket=B3CC74974BBB9CB997AA2C3C60FF541371330CEE&profile=pass
+#EXTINF:-1 tvg-id="26dddca91cd7bd72756b1cd931200acf",APL
+http://144.48.122.22:9981/stream/channelid/702340390?ticket=8A0D780DC363B810F581C565F0C03B658F5E8EDF&profile=pass
+#EXTINF:-1 tvg-id="d0476a88783241a627db728714b2f563",BBC ERATH
+http://144.48.122.22:9981/stream/channelid/141182928?ticket=B9FC151319C5E537863D3A51D29F6C7D97689B71&profile=pass
+#EXTINF:-1 tvg-id="82fc95427f5a14209e074f20de2365f4",TLC 
+http://144.48.122.22:9981/stream/channelid/1117125762?ticket=789605899B55F27A2FEC2CBABF8A6EDDA607139D&profile=pass
+#EXTINF:-1 tvg-id="44c608e417d182076a6aa9055faeb502",INFINITY
+http://144.48.122.22:9981/stream/channelid/1678296644?ticket=97581B2C6488C2C76A25E8A4078A4ADE12A5A8BC&profile=pass
+#EXTINF:-1 tvg-id="75e74f81122bfcf2e96b035c04f9b1cb",PIX
+http://144.48.122.22:9981/stream/channelid/22013813?ticket=06985B65A445683123FC4E9BC9D5C5F9E6DF2F4A&profile=pass
+#EXTINF:-1 tvg-id="8a427ba78d5fc9213f4f8dcb7330b1c3",FLIX
+http://144.48.122.22:9981/stream/channelid/662389386?ticket=64ED683F8494E4EE5C8A086E4ED95C035F32A592&profile=pass
+#EXTINF:-1 tvg-id="70a2cc55521ec275e65843f3991539d6",MN+
+http://144.48.122.22:9981/stream/channelid/1439474288?ticket=1912B67B08F827AD3FF376D65510C7FB14892A71&profile=pass
+#EXTINF:-1 tvg-id="0b72e0c0331034955ce434d021ac01d6",FOX HD
+http://144.48.122.22:9981/stream/channelid/1088451083?ticket=96B7992E2F758972F249291830CB6F42F6B89291&profile=pass
+#EXTINF:-1 tvg-id="b60cf163a0257e6ab24c8a83a4d1732d",ROMEDY
+http://144.48.122.22:9981/stream/channelid/1676741814?ticket=F2470E5AE8E0A425BD53657361DCBFB48FE37685&profile=pass
+#EXTINF:-1 tvg-id="e8744552a7a2c81b6e89fcb604916896",HISTORY
+http://144.48.122.22:9981/stream/channelid/1380283624?ticket=ADFE9704245955BD663EBFF0B01D628BC4955049&profile=pass
+#EXTINF:-1 tvg-id="0c9aebc4e742963e018a4b2ea851062c",SCLCIT 
+http://144.48.122.22:9981/stream/channelid/1156291084?ticket=8BFA30EA40638C3CCC8E33F22074CA9A2CCCD09D&profile=pass
+#EXTINF:-1 tvg-id="849ab053b4addc75eaca3f7f91b32e79",Discovery
+http://144.48.122.22:9981/stream/channelid/1404082820?ticket=5FC2D6D666B50182F4885FB42A388A5C829B2CE1&profile=pass
+#EXTINF:-1 tvg-id="9df1d26a2d3c79a5e8db49aa9e61e37c" group-title="144.48",VH1
+http://144.48.122.22:9981/stream/channelid/1792209309?ticket=6A0B05C14622ABC5079C427538F412647ACEA826&profile=pass
+
 + + + + + http://167.172.33.223:9981/extjs.html + + + + + Viasat/ Canal+/ RMC
 
 #EXTINF:-1 group-title="167.172",beIN SPORTS PRE 1FHD
@@ -16679,6 +16737,10 @@ Real Url: dp.iptvport.com:7000     Status: Active    Created: 25/12/2020 7:41:47
 http://dlxfree.spdns.eu:21917/get.php?username=dlxfree.spdns.eu&password=dlxfree.spdns.eu&type=m3u
 Real Url: dlxfree.spdns.eu:21917     Status: Active    Created: 16/5/2021 8:50:23 PM     Expires: Null    Active Connections: 8     Maximum Connections: 200     Formats: "m3u8","ts","rtmp" < to check
 
++ + + + + dmtn.tv:8080 + + + + +
+
+http://auth.dmtn.tv:8080/get.php?username=dominic&password=dominic123&type=m3u
+Real Url: dmtn.tv:8080     Status: Active    Created: 21/1/2021 10:23:07 AM     Expires: 24/7/2021 9:59:59 AM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
 + + + + + edge.multiplay.cl:25461 + + + + + Max Con: 0
 
