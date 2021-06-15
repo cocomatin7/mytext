@@ -16992,20 +16992,28 @@ http://gooserace.xyz:2052/live/vander/vander/2484988.m3u8
 http://gooserace.xyz:2052/live/vander/vander/2484989.m3u8
 
 #EXTINF:-1,Sony Max
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=m3u8&username=vander&password=vander&stream=2485148&type=hls
 http://gooserace.xyz:2052/live/vander/vander/2485148.m3u8
 #EXTINF:-1,SONY MAX 2 (Indian)
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=m3u8&username=vander&password=vander&stream=2485184&type=hls
 http://gooserace.xyz:2052/live/vander/vander/2485184.m3u8
 #EXTINF:-1,SONY Max HD (Indian)
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=m3u8&username=vander&password=vander&stream=2485197&type=hls
 http://gooserace.xyz:2052/live/vander/vander/2485197.m3u8
 #EXTINF:-1,IN: Asian Sony Max 2 (Hindi) (US)
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=m3u8&username=vander&password=vander&stream=2671752&type=hls
 http://gooserace.xyz:2052/live/vander/vander/2671752.m3u8
 #EXTINF:-1,IN: SONY MAX
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=m3u8&username=vander&password=vander&stream=2455270&type=hls
 http://gooserace.xyz:2052/live/vander/vander/2455270.m3u8
 #EXTINF:-1,IN: SONY Max 2
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=m3u8&username=vander&password=vander&stream=2454954&type=hls
 http://gooserace.xyz:2052/live/vander/vander/2454954.m3u8
 #EXTINF:-1,IN: SONY Max HD
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=m3u8&username=vander&password=vander&stream=2454948&type=hls
 http://gooserace.xyz:2052/live/vander/vander/2454948.m3u8
 #EXTINF:-1,IN SONY Pix HD
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=m3u8&username=vander&password=vander&stream=2454959&type=hls
 http://gooserace.xyz:2052/live/vander/vander/2454959.m3u8
 
 #EXTINF:-1,MY: ASTRO ASSP4 HD
@@ -17288,6 +17296,7 @@ http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44611.m3u8
 #EXTINF:-1,IN: FLIX HD (IND)
 http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44646.m3u8
 #EXTINF:-1,IN: SONY PIX HD
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=m3u8&username=vander&password=vander&stream=2454959&type=hls
 http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44795.m3u8
 #EXTINF:-1,IN: &FLIX HD
 http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44816.m3u8
