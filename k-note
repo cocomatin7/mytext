@@ -15829,9 +15829,10 @@ http://51.15.1.11:25461/get.php?username=MEGA-TV&password=TELEGRAM&type=m3u < DO
 + + + + + 51.91.73.99:25461 + + + + + null + + + +
 
 http://51.91.73.99:25461/get.php?username=usachannel&password=ngZnG8PD5i&type=m3u
-Real Url: 51.91.73.99:25461     Status: Active    Created: 30/5/2020 8:38:00 AM     Expires: Null    Active Connections: 29     Maximum Connections: 100     Formats: "m3u8","ts","rtmp" < FR, DE, US
+Real Url: 51.91.73.99:25461     Status: Active    Created: 30/5/2020 8:38:00 AM     Expires: Null    Active Connections: 99     Maximum Connections: 100     Formats: "m3u8","ts","rtmp" < FR, DE, US
 
 #EXTINF:-1 group-title="51.91",US: MTV 2 HD |51
+http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
 http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/18077.m3u8
 #EXTINF:-1,US: MTV CLASSIC |51
 http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/18078.m3u8
