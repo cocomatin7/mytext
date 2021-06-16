@@ -15903,6 +15903,8 @@ http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/18136.m3u8
 
 http://54k.top:8000/get.php?username=to44j&password=oyvee&type=m3u&output=hls < null < < m3u8, ts < 10000-11
 
+http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
+
 #EXTINF:-1 group-title="54k",VIP AR: Bein Sport HD9 |54k
 http://54k.top:8000/live/to44j/oyvee/47.m3u8
 #EXTINF:-1,VIP AR: Bein Sport HD8 |54k
@@ -16112,6 +16114,8 @@ http://54k.top:8000/live/to44j/oyvee/105.m3u8
 http://62.182.80.153:80/get.php?username=Livetv&password=master&type=m3u
 Real Url: 62.182.80.153:80     Status: Active    Created: 7/11/2020 2:59:04 AM     Expires: Null    Active Connections: 228     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
 
+http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
+
 #EXTINF:-1 group-title="62.182",UK: SKY CINEMA PREMIERE |62
 http://62.182.80.153:80/live/Livetv/master/1.m3u8
 #EXTINF:-1,UK: SKY CINEMA ACTION |62
@@ -16196,6 +16200,8 @@ http://104.218.61.161:83/get.php?username=directline76598&password=35222AM020342
 
 http://144.76.86.51:57060/get.php?username=stalker&password=zacj5NaQuQ7P3oPI&type=m3u
 Real Url: 144.76.86.51:57060     Status: Active    Created: 13/11/2019 11:04:04 PM     Expires: Null    Active Connections: 15     Maximum Connections: 999     Formats: "m3u8","ts","rtmp"
+
+http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
 
 #EXTINF:-1 group-title="144.76",UK_SKY_Sports_Football |144
 http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/162.m3u8
@@ -16373,6 +16379,7 @@ http://ankastream.com:8080/get.php?username=kortez-skype&password=B2if3NRDHdcP&t
 http://appstv.us:25461/get.php?username=1&password=2&type=m3u
 Real Url: 104.192.101.58:25461     Status: Active    Created: 29/12/2020 3:46:47 AM     Expires: Null Connections: 0-0 <xxx + movies
 
+http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
 
 #EXTINF:-1 group-title="appstv",NBCSN |appstv
 http://appstv.us:25461/live/1/2/1430.m3u8
@@ -16629,6 +16636,8 @@ Real Url: test.satlok.club:80     Status: Active    Created: 18/1/2019 12:30:51 
 http://box.slweb.tv:8880/get.php?username=Kt2021ex&password=J6kJaZShHcjpmDxw&type=m3u
 Real Url: box.slweb.tv:8880     Status: Active    Created: 10/7/2020 12:31:55 PM     Expires: Null    Active Connections: 332     Maximum Connections: 400     Formats: "ts"
 
+http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
+
 #EXTINF:-1 group-title="box",MTV HD | UK
 http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3925
 #EXTINF:-1,MTV LIVE HD | UK
@@ -16747,6 +16756,8 @@ http://coresys.dvrdns.org:8080/get.php?username=stalkerportal&password=UvrHfGiEX
 http://coresys.dvrdns.org:8080/get.php?username=killallSst@lkerportal&password=UvrHfGiEXE&type=m3u
 Real Url: coresys.dvrdns.org:8080     Status: Active    Created: 3/12/2020 4:59:51 PM     Expires: Null    Active Connections: 3     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
 
+http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
+
 #EXTINF:-1 group-title="coresys",UFC Fight Pass
 http://coresys.dvrdns.org:8080/live/killallSst@lkerportal/UvrHfGiEXE/60.m3u8
 #EXTINF:-1,BOX Nation
@@ -16831,36 +16842,6 @@ Real Url: edge.multiplay.cl:25461     Status: Active    Created: 21/11/2019 6:10
 
 http://linux-app.tv:8080/get.php?username=Iptvtree&password=He73ghh&type=m3u < forevertv.me:8080 < null < 500-299 < to check
 
-+ + + + + freeiptvgen.com:25461 + + + + + to check 
-
-http://freeiptvgen.com:25461/get.php?username=483945&password=freeiptvgen&type=m3u
-Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 2/5/2022 11:00:00 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
-
-http://freeiptvgen.com:25461/get.php?username=365462&password=freeiptvgen&type=m3u
-Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 5/5/2022 8:57:05 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
-
-http://freeiptvgen.com:25461/get.php?username=938230&password=freeiptvgen&type=m3u
-Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 5/5/2022 10:05:34 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
-
-http://freeiptvgen.com:25461/get.php?username=942479&password=freeiptvgen&type=m3u
-Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 5/5/2022 10:30:54 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
-
-http://freeiptvgen.com:25461/get.php?username=726175&password=freeiptvgen&type=m3u
-Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 2/5/2022 11:00:00 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
-
-http://freeiptvgen.com:25461/get.php?username=98462&password=freeiptvgen&type=m3u
-Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 23/5/2022 2:00:58 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
-
-http://freeiptvgen.com:25461/get.php?username=5317&password=freeiptvgen&type=m3u
-Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 5/5/2022 12:10:14 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
-
-http://freeiptvgen.com:25461/get.php?username=103677&password=freeiptvgen&type=m3u
-Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 22/5/2022 9:59:40 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
-
-http://freeiptvgen.com:25461/get.php?username=101042&password=freeiptvgen&type=m3u
-Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 21/5/2022 11:20:27 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
-
-
 
 + + + + + futurenew.dyndns.tv:15800 + + + + +
 
@@ -16879,6 +16860,8 @@ http://gesrv01.betstream.tv/get.php?username=YMnS21043v&password=PKd9ks5SLd&type
 
 http://getwhitakertv.org:25461/get.php?username=23763235&password=36984944&type=m3u
 Real Url: getwhitakertv.org:25461     Status: Active    Created: 31/10/2020 4:00:00 AM     Expires: Null    Active Connections: 1     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
+
+http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
 
 #EXTINF:-1 group-title="getwhi",MTV 2 HD
 http://getwhitakertv.org:25461/live/23763235/36984944/306.m3u8
@@ -16970,6 +16953,7 @@ http://gooserace.xyz:2052/rRhDcdwa/G6JiFMHnUt < N
 http://gooserace.xyz:2052/dc7ycTPf/LZBIjkP4dm < N
 http://gooserace.xyz:2052/yezS0QQW/20y6TQyRg7 < N
 
+http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
 
 #EXTINF:-1 group-title="gooserace",DSTV: SuperSport Grandstand
 http://gooserace.xyz:2052/live/armando/armando/2107266.m3u8
@@ -17129,6 +17113,8 @@ Real Url: bosstr.net:80     Status: Active    Created: 24/1/2021 12:42:20 PM    
 
 http://test.satlok.club/get.php?username=Amigo&password=do92Rd6x8yr3&type=m3u Real Url: ip.newboss.site:80 Expires: Null Connections: 200-200 < DOWN
 
+http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
+
 #EXTINF:-1 group-title="ip.newboss",|DSTV AFRICA|  S Variety 4
 http://ip.bosszx.net:80/live/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/55828.m3u8
 #EXTINF:-1,|DSTV AFRICA|  S Variety 4'
@@ -17195,6 +17181,8 @@ Real Url: iptv.allkaicerteam.com:8080     Status: Active    Created: 14/4/2021 1
 http://iptbest.xyz:8000/get.php?username=wbigDMsuJH&password=GVb2JEpHHj&type=m3u
 Real Url: iptbest.xyz:8000     Status: Active    Created: 5/5/2021 4:35:25 AM     Expires: 5/8/2021 4:35:25 AM    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts"
 
+http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
+
 #EXTINF:-1 group-title="iptbest",MTV 2 HD |iptbest
 http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67426.m3u8
 #EXTINF:-1,MTV CLASSICS HD |iptbest
@@ -17247,6 +17235,8 @@ http://iptv.kitv.live:1935/get.php?username=Shari&password=MTV-P&type=m3u < null
 
 http://iptv.nonland.net:8080/get.php?username=KING_IPTV_xui&password=QtChUjfXPF&type=m3u
 Real Url: iptv.nonland.net:8080     Status: Active    Created: 8/5/2020 7:57:55 AM     Expires: Null    Active Connections: 23     Maximum Connections: 50     Formats: "m3u8","ts","rtmp"
+
+http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
 
 #EXTINF:-1 group-title="nonland",AR: BEIN Sport 8 FHD
 http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/20073.m3u8
@@ -17771,6 +17761,8 @@ Real Url: iptv.tvmalaysia.cc:80     Status: Active    Created: 25/4/2021 7:51:08
 
 -/-/-/-/- test again if needed for more list 
 
+http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
+
 #EXTINF:-1 group-title="tvmalay",Asian Food Network HD
 http://iptv.tvmalaysia.cc:80/live/penang210/penang210/6693.m3u8
 #EXTINF:-1,Channel News Asia HD
@@ -18249,6 +18241,8 @@ Real Url: new-pro.tv:8080     Status: Active    Created: 30/3/2020 12:23:37 AM  
 
 http://nomorecable.xyz:80/get.php?username=lava123&password=lava123&type=m3u
 Real Url: nomorecable.xyz:80     Status: Active    Created: 21/2/2021 2:40:42 PM     Expires: Null    Active Connections: 339     Maximum Connections: 1000     Formats: "ts","m3u8"
+
+http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
 
 #EXTINF:-1 group-title="nomore",UK | MTV Base
 http://nomorecable.xyz:80/lava123/lava123/2065
