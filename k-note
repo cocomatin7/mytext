@@ -16047,56 +16047,56 @@ http://54k.top:8000/streaming/clients_live.php?extension=m3u8&username=to44j&pas
 http://62.182.80.153:80/get.php?username=Livetv&password=master&type=m3u
 Real Url: 62.182.80.153:80     Status: Active    Created: 7/11/2020 2:59:04 AM     Expires: Null    Active Connections: 228     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
 
-http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=
 
 #EXTINF:-1 group-title="62.182",UK: SKY CINEMA PREMIERE |62
-http://62.182.80.153:80/live/Livetv/master/1.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=1&type=hls
 #EXTINF:-1,UK: SKY CINEMA ACTION |62
-http://62.182.80.153:80/live/Livetv/master/2.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=2&type=hls
 #EXTINF:-1,UK: SKY CINEMA CRIME & THRILLER |62
-http://62.182.80.153:80/live/Livetv/master/3.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=3&type=hls
 #EXTINF:-1,UK: SKY CINEMA FAMILY |62
-http://62.182.80.153:80/live/Livetv/master/4.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=4&type=hls
 #EXTINF:-1,UK: SKY CINEMA DISNEY |62
-http://62.182.80.153:80/live/Livetv/master/5.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=5&type=hls
 #EXTINF:-1,UK: SKY CINEMA DRAMA & ROMANCE |62
-http://62.182.80.153:80/live/Livetv/master/6.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=6&type=hls
 #EXTINF:-1,UK: SKY CINEMA SCIFI & HORROR |62
-http://62.182.80.153:80/live/Livetv/master/7.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=7&type=hls
 #EXTINF:-1,UK: SKY CINEMA COMEDY |62
-http://62.182.80.153:80/live/Livetv/master/8.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=8&type=hls
 #EXTINF:-1,UK: BT SPORT 1 |62
-http://62.182.80.153:80/live/Livetv/master/12.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=12&type=hls
 #EXTINF:-1,UK: BT SPORT 2 |62
-http://62.182.80.153:80/live/Livetv/master/13.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=13&type=hls
 #EXTINF:-1,UK: BT SPORT 3 |62
-http://62.182.80.153:80/live/Livetv/master/52.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=52&type=hls
 #EXTINF:-1,UK: SKY SPORTS RACING |62
-http://62.182.80.153:80/live/Livetv/master/16.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=16&type=hls
 #EXTINF:-1,UK: SKY SPORTS NEWS |62
-http://62.182.80.153:80/live/Livetv/master/17.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=17&type=hls
 #EXTINF:-1,UK: SKY SPORTS GOLF |62
-http://62.182.80.153:80/live/Livetv/master/19.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=19&type=hls
 #EXTINF:-1,UK: SKY SPORTS F1 |62
-http://62.182.80.153:80/live/Livetv/master/20.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=20&type=hls
 #EXTINF:-1,UK: SKY SPORTS CRICKET |62
-http://62.182.80.153:80/live/Livetv/master/21.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=21&type=hls
 #EXTINF:-1,UK: BEIN SPORT 11 (ENGLISH ) |62
-http://62.182.80.153:80/live/Livetv/master/22.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=22&type=hls
 #EXTINF:-1,UK: BEIN SPORT 12 (ENGLISH) |62
-http://62.182.80.153:80/live/Livetv/master/23.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=23&type=hls
 #EXTINF:-1,UK: BEIN SPORT 13 (ENGLISH) |62
-http://62.182.80.153:80/live/Livetv/master/24.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=24&type=hls
 #EXTINF:-1,US: HBO |62
-http://62.182.80.153:80/live/Livetv/master/39.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=39&type=hls
 #EXTINF:-1,US: SHOWTIME |62
-http://62.182.80.153:80/live/Livetv/master/40.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=40&type=hls
 #EXTINF:-1,US: STARZ |62
-http://62.182.80.153:80/live/Livetv/master/41.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=41&type=hls
 #EXTINF:-1,US: SONY MOVIE CHANNEL |62
-http://62.182.80.153:80/live/Livetv/master/42.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=42&type=hls
 #EXTINF:-1 group-title="62.182",US: EPIX HITS |62
-http://62.182.80.153:80/live/Livetv/master/43.m3u8
+http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=43&type=hls
 
 + + + + + 62.210.141.53:80 + + + + + null + + + + + DE & TR
 
@@ -16134,52 +16134,52 @@ http://104.218.61.161:83/get.php?username=directline76598&password=35222AM020342
 http://144.76.86.51:57060/get.php?username=stalker&password=zacj5NaQuQ7P3oPI&type=m3u
 Real Url: 144.76.86.51:57060     Status: Active    Created: 13/11/2019 11:04:04 PM     Expires: Null    Active Connections: 15     Maximum Connections: 999     Formats: "m3u8","ts","rtmp"
 
-http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=15452&type=hls
 
 #EXTINF:-1 group-title="144.76",UK_SKY_Sports_Football |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/162.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=162&type=hls
 #EXTINF:-1,UK_SKY_Sports_Main_Event |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/163.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=163&type=hls
 #EXTINF:-1,UK_SKY_Sports_Mix |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/164.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=164&type=hls
 #EXTINF:-1,UK_SKY_Sports_News |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/165.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=165&type=hls
 #EXTINF:-1,UK_SKY_Sports_Premier_League |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/166.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=166&type=hls
 #EXTINF:-1,BT SPORT 1 |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/211.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=211&type=hls
 #EXTINF:-1,BT Sport 2 |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/82.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=82&type=hls
 #EXTINF:-1,BT Sport 3 |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/83.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=83&type=hls
 #EXTINF:-1,AR_Bein_Sports_11 |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/186.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=186&type=hls
 #EXTINF:-1,AR_Bein_Sports_12 |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/187.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=187&type=hls
 #EXTINF:-1,AR_Bein_Sports_13 |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/188.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=188&type=hls
 #EXTINF:-1,PT_Sport_TV_1 |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/189.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=189&type=hls
 #EXTINF:-1,PT_Sport_TV_2 |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/190.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=190&type=hls
 #EXTINF:-1,PT_Sport_TV_3 |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/191.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=191&type=hls
 #EXTINF:-1,PT_Sport_TV_4 |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/192.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=192&type=hls
 #EXTINF:-1,PT_Sport_TV_5 |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/193.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=193&type=hls
 #EXTINF:-1,MTV_Base |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/205.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=205&type=hls
 #EXTINF:-1,VH1_Classic |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/206.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=206&type=hls
 #EXTINF:-1,VH1 |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/207.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=207&type=hls
 #EXTINF:-1,MTV_Hits |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/208.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=208&type=hls
 #EXTINF:-1,MTV_80s |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/209.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=209&type=hls
 #EXTINF:-1 group-title="144.76",MTV_Classic |144
-http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/210.m3u8
+http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=210&type=hls
 
 + + + + + 148.251.129.207:2083 + + + + +
 
