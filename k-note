@@ -17068,171 +17068,170 @@ http://iptv.kitv.live:1935/get.php?username=Shari&password=MTV-P&type=m3u < null
 http://iptv.nonland.net:8080/get.php?username=KING_IPTV_xui&password=QtChUjfXPF&type=m3u
 Real Url: iptv.nonland.net:8080     Status: Active    Created: 8/5/2020 7:57:55 AM     Expires: Null    Active Connections: 23     Maximum Connections: 50     Formats: "m3u8","ts","rtmp"
 
-http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=15452&type=hls
 
 #EXTINF:-1 group-title="nonland",AR: BEIN Sport 8 FHD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/20073.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=20073&type=hls
 #EXTINF:-1,AR: BEIN Sport 9 FHD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/20074.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=20074&type=hls
 #EXTINF:-1,AR: BEIN Sport 10 FHD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/20075.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=20075&type=hls
 #EXTINF:-1,AR: BEIN Sport 11 FHD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/24723.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=24723&type=hls
 #EXTINF:-1,AR: BEIN Sport 12 FHD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/24724.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=24724&type=hls
 #EXTINF:-1,AR: BEIN SPORTS 8 HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/7347.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=7347&type=hls
 #EXTINF:-1,AR: BEIN SPORTS 9 HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/7348.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=7348&type=hls
 #EXTINF:-1,AR: BEIN SPORTS 10 HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/7349.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=7349&type=hls
 #EXTINF:-1,AR: BEIN SPORTS 11 HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/7350.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=7350&type=hls
 #EXTINF:-1,AR: BEIN SPORTS 12 HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/7351.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=7351&type=hls
 #EXTINF:-1,AR: BEIN SPORT 8 
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/1320.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=1320&type=hls
 #EXTINF:-1,AR: BEIN SPORT 9 
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/1321.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=1321&type=hls
 #EXTINF:-1,AR: BEIN SPORT 10 
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/1322.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=1322&type=hls
 #EXTINF:-1,AR: BEIN SPORT 11  (ENG)
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/1323.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=1323&type=hls
 #EXTINF:-1,AR: BeIN Sport 12  (ENG)
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/1324.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=1324&type=hls
 #EXTINF:-1,FR: BEIN SPORTS 1  FHD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/998.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=998&type=hls
 #EXTINF:-1,FR: BEIN SPORTS 2 FHD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/999.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=999&type=hls
 #EXTINF:-1,FR: BEIN SPORTS 3  FHD 
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/1000.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=1000&type=hls
 
 #EXTINF:-1,IN: ZEE CINEMA HD UK
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/21488.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=21488&type=hls
 #EXTINF:-1,IN: SONY MAX  UK
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/21499.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=21499&type=hls
 #EXTINF:-1,IN: SONY MAX 2
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/21501.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=21501&type=hls
 #EXTINF:-1,IN: B4U Plus
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/21503.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=21503&type=hls
 #EXTINF:-1,IN: B4U Movies
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/21504.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=21504&type=hls
 #EXTINF:-1,IN: &Prive HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/21507.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=21507&type=hls
 #EXTINF:-1,IN: And Pictures SD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/21508.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=21508&type=hls
 #EXTINF:-1,IN: &TV HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/21509.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=21509&type=hls
 #EXTINF:-1,IN: AND PICTURES HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/21512.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=21512&type=hls
 #EXTINF:-1,IN: STAR WORLD HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/21513.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=21513&type=hls
 #EXTINF:-1,IN: ZEE CINEMA UK
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/19571.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=19571&type=hls
 #EXTINF:-1,IN: B4U MOVIES
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/19577.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=19577&type=hls
 #EXTINF:-1,IN: Ent STAR GOLD SELECT HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44589.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=44589&type=hls
 #EXTINF:-1,IN: SONY MAX HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44603.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=44603&type=hls
 #EXTINF:-1,IN: SONY MAX 2 UK
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44604.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=44604&type=hls
 #EXTINF:-1,IN: ZEE CINEMA ME HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44605.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=44605&type=hls
 #EXTINF:-1,IN: ZEE CINEMA HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44606.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=44606&type=hls
 #EXTINF:-1,IN: ZEE CINEMA UK HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44607.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=44607&type=hls
 #EXTINF:-1,IN: ZEE CINEMA (USA)
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44608.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=44608&type=hls
 #EXTINF:-1,IN: STAR MOVIES FHD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44610.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=44610&type=hls
 #EXTINF:-1,IN: MOVIES NOWX EN
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44611.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=44611&type=hls
 #EXTINF:-1,IN: FLIX HD (IND)
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44646.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=44646&type=hls
 #EXTINF:-1,IN: SONY PIX HD
 http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=44795&type=hls
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44795.m3u8
 #EXTINF:-1,IN: &FLIX HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44816.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=44816&type=hls
 #EXTINF:-1,IN: &TV UK
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44830.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=44830&type=hls
 #EXTINF:-1,IN: Zee Cinema HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44831.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=44831&type=hls
 #EXTINF:-1,IN: ROMEDY NOW EN HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44832.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=44832&type=hls
 #EXTINF:-1,IN: &TV HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/44866.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=44866&type=hls
 #EXTINF:-1,AR: BEIN SPORTS 8
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/38199.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=38199&type=hls
 #EXTINF:-1,AR: BEIN SPORTS 9
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/38200.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=38200&type=hls
 #EXTINF:-1,AR: BEIN SPORTS 10
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/38201.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=38201&type=hls
 #EXTINF:-1,AR: BEIN SPORTS 11
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/38202.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=38202&type=hls
 #EXTINF:-1,AR: BEIN SPORTS 12
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/38203.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=38203&type=hls
 #EXTINF:-1,UK: Sky Cinema Action & Adventure HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/2561.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=2561&type=hls
 #EXTINF:-1,UK: Sky Cinema Comedy HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/2562.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=2562&type=hls
 #EXTINF:-1,UK: Sky Cinema Drama & Romance HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/2565.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=2565&type=hls
 #EXTINF:-1,UK: Sky Cinema Greats HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/2567.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=2567&type=hls
 #EXTINF:-1,UK: Sky Cinema Premiere HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/2569.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=2569&type=hls
 #EXTINF:-1,UK: Sky Cinema Select HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/2571.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=2571&type=hls
 #EXTINF:-1,UK: Sky Cinema Family HD
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/18193.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=18193&type=hls
 #EXTINF:-1,UK: ASTRO SPORTS 1
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47498.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47498&type=hls
 #EXTINF:-1,UK: ASTRO SPORTS 2
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47499.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47499&type=hls
 #EXTINF:-1,UK: ASTRO SPORTS 3
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47500.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47500&type=hls
 #EXTINF:-1,UK: ASTRO SPORTS 4
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47501.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47501&type=hls
 #EXTINF:-1,UK: beIN Sports 1
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47502.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47502&type=hls
 #EXTINF:-1,UK: beIN Sports 2
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47506.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47506&type=hls
 #EXTINF:-1,UK: beIN Sports 3
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47507.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47507&type=hls
 #EXTINF:-1,UK: beIN Sports 4
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47508.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47508&type=hls
 #EXTINF:-1,UK: beIN Sports 5
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47509.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47509&type=hls
 #EXTINF:-1,UK: beIN Sports 6
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47510.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47510&type=hls
 #EXTINF:-1,UK: beIN Sports 7
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47511.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47511&type=hls
 #EXTINF:-1,UK: beIN Sports 8
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47512.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47512&type=hls
 #EXTINF:-1,UK: beIN Sports 9
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47513.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47513&type=hls
 #EXTINF:-1,UK: beIN Sports 10
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47503.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47503&type=hls
 #EXTINF:-1,UK: BEIN SPORTS 11
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47504.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47504&type=hls
 #EXTINF:-1,UK: BEIN SPORTS 12
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47505.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47505&type=hls
 
 #EXTINF:-1,US: MTV CLASSIC
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/3046.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=3046&type=hls
 #EXTINF:-1,US: MTV LIVE
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/3048.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=3048&type=hls
 #EXTINF:-1,US: MTV U
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/3050.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=3050&type=hls
 #EXTINF:-1,US: MTV CLASSIC
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47596.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47596&type=hls
 #EXTINF:-1,US: MTV EAST
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47597.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47597&type=hls
 #EXTINF:-1 group-title="nonland",US: MTV LIVE
-http://iptv.nonland.net:8080/live/KING_IPTV_xui/QtChUjfXPF/47598.m3u8
+http://iptv.nonland.net:8080/streaming/clients_live.php?extension=m3u8&username=KING_IPTV_xui&password=QtChUjfXPF&stream=47598&type=hls
 
 + + + + + iptv.tvmalaysia.cc:80 + + + + +
 
