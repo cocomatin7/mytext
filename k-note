@@ -18952,91 +18952,11 @@ Real Url: rico.besttvps.com:8080     Status: Active    Created: 5/4/2021 10:02:3
 + + + + + ricoootv.xyz:8080 + + + + + beIN +  Max Con: 20000 < BamarTV
 
 http://ricoootv.xyz:8080/get.php?username=rico&password=rico&type=m3u
-Real Url: ricoootv.xyz:8080     Status: Active    Created: 4/6/2021 5:50:18 AM     Expires: Null    Active Connections: 92     Maximum Connections: 20000     Formats: "m3u8","ts","rtmp"
+Real Url: ricoootv.xyz:8080     Status: Active    Created: 4/6/2021 5:50:18 AM     Expires: Null    Active Connections: 92     Maximum Connections: 20000     Formats: "m3u8","ts","rtmp" < DOWN?
 
 http://ricoootv.xyz:8080/get.php?username=ricotv0899&password=ricotv0899&type=m3u
 Real Url: ricoootv.xyz:8080     Status: Active    Created: 29/5/2021 6:43:25 AM     Expires: Null    Active Connections: 25     Maximum Connections: 400000 < DOWN
 
-#EXTINF:-1 group-title="ricooo",BEIN SPORT 1 HD PREMIUM
-http://ricoootv.xyz:8080/live/rico/rico/1.m3u8
-#EXTINF:-1,BEIN SPORT 2 HD PREMIUM
-http://ricoootv.xyz:8080/live/rico/rico/2.m3u8
-#EXTINF:-1,BEIN SPORT 3 HD PREMIUM
-http://ricoootv.xyz:8080/live/rico/rico/3.m3u8
-#EXTINF:-1,BEIN SPORT 1 HD
-http://ricoootv.xyz:8080/live/rico/rico/4.m3u8
-#EXTINF:-1,BEIN SPORT 2 HD
-http://ricoootv.xyz:8080/live/rico/rico/5.m3u8
-#EXTINF:-1,BEIN SPORT 3 HD
-http://ricoootv.xyz:8080/live/rico/rico/6.m3u8
-#EXTINF:-1,BEIN SPORT 5 HD
-http://ricoootv.xyz:8080/live/rico/rico/8.m3u8
-#EXTINF:-1,BEIN SPORT 6 HD
-http://ricoootv.xyz:8080/live/rico/rico/9.m3u8
-#EXTINF:-1,BEIN SPORT 7 HD
-http://ricoootv.xyz:8080/live/rico/rico/10.m3u8
-#EXTINF:-1,BEIN SPORT 4 HD
-http://ricoootv.xyz:8080/live/rico/rico/7.m3u8
-#EXTINF:-1,bein sport 1 sd
-http://ricoootv.xyz:8080/live/rico/rico/73.m3u8
-#EXTINF:-1,bein sport 2 sd
-http://ricoootv.xyz:8080/live/rico/rico/74.m3u8
-#EXTINF:-1,bein sport 3 sd
-http://ricoootv.xyz:8080/live/rico/rico/75.m3u8
-#EXTINF:-1,bein sport 4 sd
-http://ricoootv.xyz:8080/live/rico/rico/76.m3u8
-#EXTINF:-1,bein sport 5 sd
-http://ricoootv.xyz:8080/live/rico/rico/77.m3u8
-#EXTINF:-1,bein sport 6 sd
-http://ricoootv.xyz:8080/live/rico/rico/78.m3u8
-#EXTINF:-1,bein sport 7 sd
-http://ricoootv.xyz:8080/live/rico/rico/79.m3u8
-#EXTINF:-1,bein sport 1 sd premium
-http://ricoootv.xyz:8080/live/rico/rico/80.m3u8
-#EXTINF:-1,bein sport 2 sd premium
-http://ricoootv.xyz:8080/live/rico/rico/81.m3u8
-#EXTINF:-1,bein sport 3 sd premium
-http://ricoootv.xyz:8080/live/rico/rico/82.m3u8
-#EXTINF:-1,bein sport 1 fr
-http://ricoootv.xyz:8080/live/rico/rico/83.m3u8
-#EXTINF:-1,bein sport 2 fr
-http://ricoootv.xyz:8080/live/rico/rico/84.m3u8
-#EXTINF:-1,bein sport 3 fr
-http://ricoootv.xyz:8080/live/rico/rico/85.m3u8
-#EXTINF:-1,bein sport max 4 fr
-http://ricoootv.xyz:8080/live/rico/rico/86.m3u8
-#EXTINF:-1,bein sport max 5 fr
-http://ricoootv.xyz:8080/live/rico/rico/87.m3u8
-#EXTINF:-1,bein sport max 6 fr
-http://ricoootv.xyz:8080/live/rico/rico/88.m3u8
-#EXTINF:-1,bein sport max 7 sd
-http://ricoootv.xyz:8080/live/rico/rico/89.m3u8
-#EXTINF:-1,beinsport sd news
-http://ricoootv.xyz:8080/live/rico/rico/90.m3u8
-
-#EXTINF:-1,BEIN SPORT MAX 1 4K
-http://ricoootv.xyz:8080/live/rico/rico/137.m3u8
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://212.224.98.208:2200/EX/BEIN_SPORTS_MAX1HD-ar/index.m3u8?token=
-#EXTINF:-1,BEIN SPORT MAX 2 4K
-http://ricoootv.xyz:8080/live/rico/rico/138.m3u8
-#EXTINF:-1,BEIN SPORT MAX 3 4K
-http://ricoootv.xyz:8080/live/rico/rico/139.m3u8
-#EXTINF:-1,BEIN SPORT MAX 4 4K
-http://ricoootv.xyz:8080/live/rico/rico/140.m3u8
-#EXTINF:-1,BEIN SPORT MAX 5 4K
-http://ricoootv.xyz:8080/live/rico/rico/141.m3u8
-#EXTINF:-1,BEIN SPORT MAX 6 4K
-http://ricoootv.xyz:8080/live/rico/rico/142.m3u8
-#EXTINF:-1,WWE
-http://ricoootv.xyz:8080/live/rico/rico/37.m3u8
-#EXTINF:-1,WWE SHOW
-http://ricoootv.xyz:8080/movie/rico/rico/50.mp4
-#EXTINF:-1,WWE SHOW TV
-http://ricoootv.xyz:8080/live/rico/rico/51.m3u8
-#EXTINF:-1,WWE SHOW 2
-http://ricoootv.xyz:8080/movie/rico/rico/60.mp4
-#EXTINF:-1 group-title="ricooo",WWE USA
-http://ricoootv.xyz:8080/live/rico/rico/95.m3u8
 
 + + + + + romax.live:2086 + + + + + DOWN
 
