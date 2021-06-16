@@ -17020,15 +17020,15 @@ Real Url: ip.tv4all.top:12345     Status: Active    Created: 21/10/2019 12:45:30
 
 + + + + + ipeteve.com + + + + +
 
-#EXTINF:-1 group-title="ipeteve",MTV HITS
+ group-title="ipeteve",MTV HITS
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=mtvhits&f=.m3u8
-#EXTINF:-1,MTV LIVE
+,MTV LIVE
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=mtvlive&f=.m3u8
-#EXTINF:-1,MTV 80S
+,MTV 80S
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=mtv80s&f=.m3u8
-#EXTINF:-1,VH1
+,VH1
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=vh1&f=.m3u8
-#EXTINF:-1 group-title="ipeteve",VH1 HD
+ group-title="ipeteve",VH1 HD
 http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a02i
 
 + + + + + iptv.allkaicerteam.com:8080 + + + + +
@@ -17042,40 +17042,6 @@ Real Url: iptv.allkaicerteam.com:8080     Status: Active    Created: 14/4/2021 1
 http://iptbest.xyz:8000/get.php?username=wbigDMsuJH&password=GVb2JEpHHj&type=m3u
 Real Url: iptbest.xyz:8000     Status: Active    Created: 5/5/2021 4:35:25 AM     Expires: 5/8/2021 4:35:25 AM    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts"
 
-http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
-
-#EXTINF:-1 group-title="iptbest",MTV 2 HD |iptbest
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67426.m3u8
-#EXTINF:-1,MTV CLASSICS HD |iptbest
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67428.m3u8
-#EXTINF:-1,MTV FHD |iptbest
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/6698.m3u8
-#EXTINF:-1,MTV HD |iptbest
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67456.m3u8
-#EXTINF:-1,MTV HITS SD |iptbest
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22333.m3u8
-#EXTINF:-1,MTV HITS SD (opc 2) |iptbest
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67598.m3u8
-#EXTINF:-1,MTV LIVE HD |iptbest
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67429.m3u8
-#EXTINF:-1,MTV LIVE SD |iptbest
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22335.m3u8
-#EXTINF:-1,MTV LIVE SD (opc 2) |iptbest
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22336.m3u8
-#EXTINF:-1,MTV SD |iptbest
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22330.m3u8
-#EXTINF:-1,MTV SD (opc 2) |iptbest
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67597.m3u8
-#EXTINF:-1,MTV U HD |iptbest
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/67427.m3u8
-#EXTINF:-1,VH1 CLASSICS SD |iptbest 
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22344.m3u8
-#EXTINF:-1,VH1 CLASSICS SD (opc 2) |iptbest
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22345.m3u8
-#EXTINF:-1,VH1 SD |iptbest
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22342.m3u8
-#EXTINF:-1 group-title="iptbest",VH1 SD (opc 2) |iptbest
-http://iptbest.xyz:8000/live/wbigDMsuJH/GVb2JEpHHj/22343.m3u8
 
 + + + + + iptv.elnszweldrel.in:46982 + + + + +
 
