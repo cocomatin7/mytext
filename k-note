@@ -18386,66 +18386,66 @@ http://qqtv.nl:8080/get.php?username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxx
 http://54.39.158.38:8080/get.php?username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&type=m3u
 
 #EXTINF:-1 group-title="qqtv",..CNBC HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7872.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=7872&type=hls
 #EXTINF:-1,..MSNBC HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7924.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=7924&type=hls
 #EXTINF:-1,..CNN HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7986.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=7986&type=hls
 #EXTINF:-1,..BLOOMBERG HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7904.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=7904&type=hls
 #EXTINF:-1,..BBC WORLD NEWS HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/342101.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=342101&type=hls
 #EXTINF:-1,..MTV
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7921.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=7921&type=hls
 #EXTINF:-1,..MTV LIVE
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15455.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=15455&type=hls
 #EXTINF:-1,..MTV CLASSIC
 http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=15452&type=hls
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15452.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=15452&type=hls
 #EXTINF:-1,..MTV U
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15456.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=15456&type=hls
 #EXTINF:-1,CA: CNN
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/324168.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=324168&type=hls
 #EXTINF:-1,CA: CNN INTERNATIONAL
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21122.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=21122&type=hls
 #EXTINF:-1,CA: BBC WORLD NEWS HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21139.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=21139&type=hls
 #EXTINF:-1,UK: BBC WORLD_NEWS
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15544.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=15544&type=hls
 #EXTINF:-1,UK: MUTV
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15450.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=15450&type=hls
 #EXTINF:-1,UK: SKY MOVIES SELECT HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15404.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=15404&type=hls
 #EXTINF:-1,UK: ACTION & ADVENTURE HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15372.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=15372&type=hls
 #EXTINF:-1,UK: SKY FAMILY HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15415.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=15415&type=hls
 #EXTINF:-1,UK: SCI FI & HORROR_HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15414.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=15414&type=hls
 #EXTINF:-1,UK: SKY CINEMA DRAMA
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15496.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=15496&type=hls
 #EXTINF:-1,...UFC 24/7
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/57427.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=57427&type=hls
 #EXTINF:-1,...BEIN SPORTS HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7866.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=7866&type=hls
 #EXTINF:-1,...FOX SOCCER PLUS HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/57429.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=57429&type=hls
 #EXTINF:-1,...BT SPORT 1 HD UK
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265920.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=265920&type=hls
 #EXTINF:-1,...BT SPORT 2 HD UK
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265921.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=265921&type=hls
 #EXTINF:-1,...BT SPORT 3 HD UK
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265922.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=265922&type=hls
 #EXTINF:-1,...FOX SPORTS 1 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7894.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=7894&type=hls
 #EXTINF:-1,...FOX SPORTS 2 HD.
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7893.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=7893&type=hls
 #EXTINF:-1,...WWE NETWORK HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/325241.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=325241&type=hls
 #EXTINF:-1,...NBCSN HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5137.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=5137&type=hls
 #EXTINF:-1,...NBC SPORTS NETWORK HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7995.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=7995&type=hls
 
 #EXTINF:-1,...RSA SUPERSPORTS TENNIS HD
 http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=311866&type=hls
@@ -18496,46 +18496,47 @@ http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAn
 http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=30538&type=hls
 
 #EXTINF:-1,KOR: KBS W HD MY
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=16363&type=hls
 #EXTINF:-1,KOR: KBS WORLD HD VN
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/394209.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=394209&type=hls
 #EXTINF:-1,KOR: KBS WORLD HD USA
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/394208.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=394208&type=hls
 
 #EXTINF:-1,PL: CANAL+ SPORT 1 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15207.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=15207&type=hls
 #EXTINF:-1,PL: CANAL+ SPORT 2 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15219.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=15219&type=hls
 #EXTINF:-1,PL: CANAL+ SPORT 3 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15213.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=15213&type=hls
 
 #EXTINF:-1,DEP* DIRECTV SPORT +
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20261.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=20261&type=hls
 #EXTINF:-1,DEP* DIRECTV SPORTS 1 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20106.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=20106&type=hls
 #EXTINF:-1,DEP* DIRECTV SPORTS 2 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20311.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=20311&type=hls
 #EXTINF:-1,DEP* FUTV HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20279.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=20279&type=hls
 #EXTINF:-1,DEP* TUDN HD USA
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/391224.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=391224&type=hls
 #EXTINF:-1,DEP* DAZN 1 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/391225.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=391225&type=hls
 #EXTINF:-1,DEP* DAZN 2 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/391226.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=391226&type=hls
 
 #EXTINF:-1,EX-YU: SPORT KLUB 1 HR
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16985.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=16985&type=hls
 #EXTINF:-1,EX-YU: SPORT KLUB 2 .HR
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16986.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=16986&type=hls
 #EXTINF:-1,EX-YU: SPORT KLUB 3 HR
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16987.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=16987&type=hls
 #EXTINF:-1,EX-YU: SPORTKLUB 4 SR
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16989.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=16989&type=hls
 #EXTINF:-1,EX-YU: SPORTKLUB 5 SR
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16990.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=16990&type=hls
 #EXTINF:-1,EX-YU: SPORT KLUB 6 HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16935.m3u8
+http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=16935&type=hls
+
 
 #EXTINF:-1,PPV- DAZN 01 HD CA
 http://qqtv.nl:8080/streaming/clients_live.php?extension=m3u8&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=289554&type=hls
