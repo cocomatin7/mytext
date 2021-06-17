@@ -18564,8 +18564,7 @@ Real Url: test.satlok.club:80     Status: Active    Created: 18/1/2019 12:30:51 
 + + + + + box.slweb.tv:8880 + + + + + Max Con: 400
 
 http://box.slweb.tv:8880/get.php?username=Kt2021ex&password=J6kJaZShHcjpmDxw&type=m3u
-Real Url: box.slweb.tv:8880     Status: Active    Created: 10/7/2020 12:31:55 PM     Expires: Null    Active Connections: 332     Maximum Connections: 400     Formats: "ts"
-
+Real Url: box.slweb.tv:8880     Status: Active    Created: 10/7/2020 12:31:55 PM     Expires: Null    Active Connections: 274     Maximum Connections: 400     Formats: "ts"
 
 #EXTINF:-1 group-title="box",MTV HD | UK
 http://box.slweb.tv:8880/Kt2021ex/J6kJaZShHcjpmDxw/3925
