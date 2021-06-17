@@ -15946,6 +15946,8 @@ http://46.105.112.116/?watch=BR/Fox_Sports_2_HD-br&token=RED&m3u8
 #EXTINF:-1,Fox Sports HD |46
 http://46.105.112.116/?watch=BR/Fox_Sports_HD-br&token=
 http://212.224.98.211:2200/BR/Fox_Sports_HD-br/index.m3u8?token=
+#EXTINF:-1,Premiere Clubes HD |46
+http://46.105.112.116/?watch=BR/Premiere_Clubes_HD-br&token=
 #EXTINF:-1,Premiere 1 HD |46
 http://46.105.112.116/?watch=BR/Premiere_1_HD-br&token=
 #EXTINF:-1,Premiere 2 HD |46
@@ -15968,6 +15970,9 @@ http://46.105.112.116/?watch=BR/vh1megahits-br&token=
 
 http://46.105.112.116/?watch=EX/A_La_Carte_1-fr&token=
 http://46.105.112.116/?watch=EX/A_La_Carte_6-fr&token=
+
+#EXTINF:-1,B4U Movies |46
+http://46.105.112.116/?watch=EX/b4umovie-in&token=
 
 #EXTINF:-1,beIN SPORT 1FHD |46
 http://46.105.112.116/?watch=EX/bein1FHD-ar&token=
