@@ -20499,6 +20499,75 @@ Real Url: portal.maxtviptv.com:80     Status: Active    Created: 10/10/2020 12:3
 
 http://portal.simiptv.co.uk:8080/get.php?username=alipajiuk&password=oRGQpcPAkZ&type=m3u Expires: Null    Connections: 100-101 < DOWN
 
+http://portal.simiptv.co.uk:8080/get.php?username=kingdiablo&password=oyVnRyffym&type=m3u
+Real Url: portal.simiptv.co.uk:8080     Status: Active    Created: 6/4/2020 4:32:20 PM     Expires: Null    Active Connections: 12     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="simi",IND_& Flix HD
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/335.m3u8
+#EXTINF:-1,IND_& Pictures HD 
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/7.m3u8
+#EXTINF:-1,IND_& privé HD(eng) 
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/8.m3u8
+#EXTINF:-1,IND_& TV (UK)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/325.m3u8
+#EXTINF:-1,IND_& TV FHD (IND) 
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/1008.m3u8
+#EXTINF:-1,IND_& Xplor HD
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/336.m3u8
+#EXTINF:-1,IND_B4U Movies (IND)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/39.m3u8
+#EXTINF:-1,IND_B4U Movies (uk)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/721.m3u8
+#EXTINF:-1,IND_B4U Music HD
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/19.m3u8
+#EXTINF:-1,IND_ILOVE (Music)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/78.m3u8
+#EXTINF:-1,IND_MTV_Beats HD (jio)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/861.m3u8
+#EXTINF:-1,IND_MUSIC INDIA (Music)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/57.m3u8
+#EXTINF:-1,IND_SONY Entertainment HD (UK) 
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/518.m3u8
+#EXTINF:-1,IND_Sony Max 2 (India)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/574.m3u8
+#EXTINF:-1,IND_Sony Max 2 (UK)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/965.m3u8
+#EXTINF:-1,IND_Sony Max HD (IND)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/225.m3u8
+#EXTINF:-1,IND_Sony MAX HD (UK)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/52.m3u8
+#EXTINF:-1,IND_Sony Pal HD (Jio)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/557.m3u8
+#EXTINF:-1,IND_Sony Saab FHD (IN) -VIP
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/224.m3u8
+#EXTINF:-1,IND_Sony SAB (UK)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/50.m3u8
+#EXTINF:-1,IND_SONY Waha HD
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/1102.m3u8
+#EXTINF:-1,IND_Sony_Pix_HD 
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/46.m3u8
+#EXTINF:-1,IND_STAR GOLD SELECT HD
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/515.m3u8
+#EXTINF:-1,IND_Star Plus HD (IND)-VIP
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/634.m3u8
+#EXTINF:-1,IND_Star Plus HD (UK)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/214.m3u8
+#EXTINF:-1,IND_ZEE CINEMA (USA)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/80.m3u8
+#EXTINF:-1,IND_Zee Cinema FHD (VIP)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/890.m3u8
+#EXTINF:-1,IND_Zee Cinema HD (UK-TIME)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/79.m3u8
+#EXTINF:-1,IND_ZEE Cinema SD (IND)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/693.m3u8
+#EXTINF:-1,IND_zee5 romance (music)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/23.m3u8
+#EXTINF:-1,IND_Zing (Music)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/66.m3u8
+#EXTINF:-1 group-title="simi",ind_Zing HD (Usa)
+http://portal.simiptv.co.uk:8080/live/kingdiablo/oyVnRyffym/279.m3u8
+
+
 + + + + + prime-tivu.com:25461 + + + + + null
 
 http://viptv-pro.com:25461/get.php?username=elitiptv&password=4h1EGiYx&type=m3u
