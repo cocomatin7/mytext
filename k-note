@@ -13764,15 +13764,15 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/f827ffb10004e1
 
  tvg-logo="https://sport-tv-guide.live/images/stations/a400.png",BEIN FRANCE 1  SD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fea377d96f202bc.m3u8
-,BEIN FRANCE 1  HD
+#EXTINF:-1,BEIN FRANCE 1  HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8907c27630df2d2.m3u8
  tvg-logo="https://sport-tv-guide.live/images/stations/a401.png",BEIN FRANCE 2  SD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8c8fa23237e182c.m3u8
-,BEIN FRANCE 2  
+#EXTINF:-1,BEIN FRANCE 2  
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0b9aca20299f6c3.m3u8
  tvg-logo="https://sport-tv-guide.live/images/stations/a402.png",BEIN FRANCE 3  SD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5d70fa022a7dc21.m3u8
-,BEIN FRANCE 3  HD
+#EXTINF:-1,BEIN FRANCE 3  HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/95f03d604dddfc6.m3u8
 
 ,VIASAT FOOTBALL HD 
@@ -13780,20 +13780,20 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/512f0a445c8dab
 ,NBA TV 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1d2dcc704aef15f.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/875dc9811a28a1f.m3u8
-,NBC SN 
+#EXTINF:-1,NBC SN 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ff43a2f1625514d.m3u8
 ,NFL NETWORK 
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/84314b9f137fb89.m3u8
 
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png",SPORTS TV  1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png",SPORTS TV  1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5205c7b916108f9.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_2.png",SPORTS TV  2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_2.png",SPORTS TV  2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b34a752e6302c4b.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_3.png",SPORTS TV  3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_3.png",SPORTS TV  3
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/67f9ab7537be842.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_4.png",SPORTS TV  4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_4.png",SPORTS TV  4
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6565668c520548c.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt.png",SPORTS TV  5
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt.png",SPORTS TV  5
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d73a83c60dd69f3.m3u8
 
  tvg-logo="https://www.lyngsat.com/logo/tv/bb/benfica_tv_pt.png",BENFICA TV 
@@ -13806,13 +13806,13 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/70df980363ba9d
  tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png",SPORT KLUB  3
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b8cbc2d64844171.m3u8
 
- tvg-logo="https://www.lyngsat.com/logo/tv/dd/digit_alb_supersport1_hd.png",SUPER SPORTS  1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digit_alb_supersport1_hd.png",SUPER SPORTS  1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2ac9f2cea112245.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/dd/digit_alb_supersport2_hd.png",SUPER SPORTS  2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digit_alb_supersport2_hd.png",SUPER SPORTS  2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b49f0981361bcc2.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/dd/digit_alb_supersport3_hd.png",SUPER SPORTS  3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digit_alb_supersport3_hd.png",SUPER SPORTS  3
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/9fc1ce58c542828.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/dd/digit_alb_supersport4_hd.png",SUPER SPORTS  4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digit_alb_supersport4_hd.png",SUPER SPORTS  4
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/29812544341411c.m3u8
 
  tvg-logo="https://www.lyngsat.com/logo/tv/zz/ziggo_sport_nl_select.png",ZIGGO SPORTS SELECT 
@@ -13889,40 +13889,40 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/17e056c7e4df6f
  tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg_2_hd.png",DIEMA SPORTS  2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/58e86e2a2a62cc1.m3u8
 
-,BEIN SPROTS 1AU
+#EXTINF:-1,BEIN SPROTS 1AU
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e1ac7abfbc62d03.m3u8
-,BEIN SPROTS 2AU
+#EXTINF:-1,BEIN SPROTS 2AU
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2641e86a2f437af.m3u8
-,BEIN SPROTS 3AU
+#EXTINF:-1,BEIN SPROTS 3AU
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b8df5327ef42ebd.m3u8
 
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-psl-za.png",SUPER SPORTS SP PSL
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-psl-za.png",SUPER SPORTS PSL
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5495b09ff7ec581.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png",SUPER SPORTS SP PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png",SUPER SPORTS PREMIER LEAGUE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6d3d6ec2a7db9ae.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png",SUPER SPORTS SP LALIGA
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png",SUPER SPORTS LALIGA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5e58a15ca23b5bb.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png",SUPER SPORTS SP FOOTBALL
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png",SUPER SPORTS FOOTBALL
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ae648b853e24a85.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png",SUPER SPORTS SP CRICKET
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png",SUPER SPORTS CRICKET
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8bb57ded7b99273.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-rugby-za.png",SUPER SPORTS SP RUGBY
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-rugby-za.png",SUPER SPORTS RUGBY
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/48a835548d7d7dd.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-action-za.png",SUPER SPORTS SP ACTION
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-action-za.png",SUPER SPORTS ACTION
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b2ecd13974bfa5f.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-grandstand-za.png",SUPER SPORTS SP GRANDSTAND
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-grandstand-za.png",SUPER SPORTS GRANDSTAND
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8b307ddb280933e.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-1-za.png",SUPER SPORTS SP VIRETY 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-1-za.png",SUPER SPORTS VIRETY 1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5b459d23aefa01a.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-2-za.png",SUPER SPORTS SP VIRETY 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-2-za.png",SUPER SPORTS VIRETY 2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5da819055474c3f.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-3-za.png",SUPER SPORTS SP VIRETY 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-3-za.png",SUPER SPORTS VIRETY 3
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/077ddf89aa42439.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-4-za.png",SUPER SPORTS SP VIRETY 4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-4-za.png",SUPER SPORTS VIRETY 4
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3c5c197d615211a.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-blitz-za.png",SUPER SPORTS SP BLITZ
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-blitz-za.png",SUPER SPORTS SP BLITZ
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1bc81d86f4725bb.m3u8
- tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-maximo-1-za.png",SUPER SPORTS SP MAXIMO
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-maximo-1-za.png",SUPER SPORTS MAXIMO
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5300caffeb5023b.m3u8
 
  tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc_us.png",NBC 
