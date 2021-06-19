@@ -1805,17 +1805,20 @@ http://yahoo-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,VH1 Classic |RU
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/724/index.m3u8
-#EXTINF:-1,MTV |RU
+#EXTINF:-1,MTV |RU*
+http://188.40.68.167/russia/mtv/playlist.m3u8
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/142/index.m3u8
 #EXTINF:-1,MTV Live HD |RU
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/221/index.m3u8
-#EXTINF:-1,MTV Dance |RU
+#EXTINF:-1,MTV Dance |RU*
+http://188.40.68.167/russia/mtv_dance/playlist.m3u8
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/558/index.m3u8
 #EXTINF:-1,Europa Plus |RU
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/115/index.m3u8
 #EXTINF:-1,Europa Plus* |RU
 http://7341035e.edemist.com/iptv/YSZEBB3QYC3TXF/115/index.m3u8
-#EXTINF:-1,MTV Hits |RU
+#EXTINF:-1,MTV Hits |RU*
+http://188.40.68.167/russia/mtv_hits/playlist.m3u8
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/153/index.m3u8
 #EXTINF:-1,VH1 European |RU
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/536/index.m3u8
@@ -18556,6 +18559,9 @@ http://8018.mine.nu:9900/amigotv-EX/Kad63VOqpl/16577
 + + + + + 1sn.ns1.name:18800 + + + + +
 
 http://1sn.ns1.name:18800/get.php?username=fadilh66SkypeExYuVeryGood2017Started&password=ggdg1414hfdgdfhfdh24525hfhfhfhfh&type=m3u Expires: Null Connections: 60-58 < N
+
+http://1sn.ns1.name:18800/get.php?username=TG@udashboardRussiaSwedenLocal&password=uxhEaUZA&type=m3u
+Real Url: 1sn.ns1.name:18800     Status: Active    Created: 21/9/2020 10:57:58 PM     Expires: Null    Active Connections: 33     Maximum Connections: 30     Formats: "m3u8","ts","rtmp"
 
 + + + + + albiptv.org:8000 + + + + +
 
