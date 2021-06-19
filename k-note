@@ -9405,7 +9405,7 @@ ZOOM
 http://103.81.104.118/hls/stream8.m3u8
 DISCOVERY HD
 http://103.81.104.118/hls/stream9.m3u8
-SONY SIX
+#EXTINF:-1,SONY SIX
 http://103.81.104.118/hls/stream10.m3u8
 
 http://103.81.104.118/hls/stream11.m3u8
@@ -14621,12 +14621,16 @@ http://46.105.112.116/?watch=EX/beIN_Sports_13_HD-ar/mpegts?token=
 http://46.105.112.116/?watch=EX/bein13sd-ar&token=
 
 #EXTINF:-1,beIN SPORT MAX 1HD |46
+http://185.180.15.16:2200/EX/BEIN_SPORTS_MAX1HD-ar/index.m3u8?token=
 http://46.105.112.116/?watch=EX/BEIN_SPORTS_MAX1HD-ar&token=
 #EXTINF:-1,beIN SPORT MAX 2HD |46
+http://185.180.15.16:2200/EX/BEIN_SPORTS_MAX2HD-ar/index.m3u8?token=
 http://46.105.112.116/?watch=EX/BEIN_SPORTS_MAX2HD-ar&token=
 #EXTINF:-1,beIN SPORT MAX 3HD |46
+http://212.224.98.212:2200/EX/BEIN_SPORTS_MAX3HD-ar/index.m3u8?token=
 http://46.105.112.116/?watch=EX/BEIN_SPORTS_MAX3HD-ar&token=
 #EXTINF:-1,beIN SPORT MAX 4HD |46
+http://212.224.98.212:2200/EX/BEIN_SPORTS_MAX4HD-ar/index.m3u8?token=
 http://46.105.112.116/?watch=EX/BEIN_SPORTS_MAX4HD-ar&token=
 #EXTINF:-1,beIN SPORT MAX 5HD |46
 http://46.105.112.116/?watch=EX/BEIN_SPORTS_MAX5HD-ar&token=
