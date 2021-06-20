@@ -1040,6 +1040,12 @@ http://31.220.41.87:8081/live/bein8.stream/playlist.m3u8
 http://31.220.41.87:8081/live/bein9.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport/Bamar",beIN 10SD
 http://31.220.41.87:8081/live/bein10.stream/playlist.m3u8
+#EXTINF:-1,beIN 1FR
+http://31.220.41.90:8081/live/fr-beinsport1.stream/playlist.m3u8
+#EXTINF:-1,beIN 2FR
+http://31.220.41.90:8081/live/fr-beinsport2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",beIN 3FR
+http://31.220.41.90:8081/live/fr-beinsport3.stream/playlist.m3u8
 
 + + + https://paste.in/fTsoqB + + +
 
