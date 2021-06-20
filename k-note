@@ -19332,6 +19332,23 @@ http://gooserace.xyz:2052/streaming/clients_live.php?extension=m3u8&username=van
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=m3u8&username=vander&password=vander&stream=2599376&type=hls
 #EXTINF:-1,MY: Astro SuperSports Plus 1
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=m3u8&username=vander&password=vander&stream=2599375&type=hls
+
+#EXTINF:-1,BEIN: SPORTS 11
+http://gooserace.xyz:2052/live/vander/vander/2586468.m3u8
+#EXTINF:-1,BEIN: SPORTS 12
+http://gooserace.xyz:2052/live/vander/vander/2586469.m3u8
+#EXTINF:-1,BEIN: SPORTS 13
+http://gooserace.xyz:2052/live/vander/vander/2586493.m3u8
+
+#EXTINF:-1,MY: beIN Sports Max 4
+http://gooserace.xyz:2052/live/vander/vander/2599326.m3u8
+#EXTINF:-1,MY: beIN Sports Max 3
+http://gooserace.xyz:2052/live/vander/vander/2599325.m3u8
+#EXTINF:-1,MY: beIN Sports Max 2
+http://gooserace.xyz:2052/live/vander/vander/2599324.m3u8
+#EXTINF:-1,MY: beIN Sports Max 1
+http://gooserace.xyz:2052/live/vander/vander/2599323.m3u8
+
 #EXTINF:-1,Bein sports 2
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=m3u8&username=vander&password=vander&stream=2599179&type=hls
 #EXTINF:-1 group-title="gooserace",Bein sports 1
