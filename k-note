@@ -21742,20 +21742,8 @@ Real Url: tugapt.top:8080     Status: Active    Created: 13/5/2021 1:09:43 AM   
 + + + + + tv.dansk.live:8080 + + + + +
 
 http://tv.dansk.live:8080/get.php?username=resell&password=nKTVSaaJ6f&type=m3u
-Real Url: tv.dansk.live:8080     Status: Active    Created: 23/5/2021 2:30:26 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1000     Formats: "ts" < MTV
+Real Url: tv.dansk.live:8080     Status: Active    Created: 23/5/2021 2:30:26 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1000     Formats: "ts" < DOWN
 
-#EXTINF:-1 group-title="dansk",MTV
-http://tv.dansk.live:8080/live/resell/nKTVSaaJ6f/43.ts
-#EXTINF:-1,MTV 80s
-http://tv.dansk.live:8080/live/resell/nKTVSaaJ6f/44.ts
-#EXTINF:-1,VH1
-http://tv.dansk.live:8080/live/resell/nKTVSaaJ6f/76.ts
-#EXTINF:-1,BBC World News
-http://tv.dansk.live:8080/live/resell/nKTVSaaJ6f/88.ts
-#EXTINF:-1,MTV 90s
-http://tv.dansk.live:8080/live/resell/nKTVSaaJ6f/105.ts
-#EXTINF:-1 group-title="dansk",MTV Hits
-http://tv.dansk.live:8080/live/resell/nKTVSaaJ6f/106.ts
 
 + + + + + tv.e55.xyz:2095 + + + + +
 
