@@ -18312,6 +18312,23 @@ http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=sta
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=82&type=hls
 #EXTINF:-1,BT Sport 3 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=83&type=hls
+
+#EXTINF:-1,FR_Bein_Sports_1 |144
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/139.m3u8
+#EXTINF:-1,FR_Bein_Sports_2 |144
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/138.m3u8
+#EXTINF:-1,FR_Bein_Sports_3 |144
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/137.m3u8
+#EXTINF:-1,AR_Bein_Sports_1 |144
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/149.m3u8
+#EXTINF:-1,AR_Bein_Sports_2 |144
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/147.m3u8
+#EXTINF:-1,AR_Bein_Sports_8 |144
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/141.m3u8
+#EXTINF:-1,AR_Bein_Sports_9 |144
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/140.m3u8
+#EXTINF:-1,AR_Bein_Sports_10 |144
+http://144.76.86.51:57060/live/stalker/zacj5NaQuQ7P3oPI/148.m3u8
 #EXTINF:-1,AR_Bein_Sports_11 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=186&type=hls
 #EXTINF:-1,AR_Bein_Sports_12 |144
