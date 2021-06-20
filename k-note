@@ -19168,10 +19168,32 @@ http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&usernam
 #EXTINF:-1,Bloomberg HD
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=925&type=hls
 
+#EXTINF:-1,Sky Sports Action
+http://getwhitakertv.org:25461/23763235/36984944/10628
+#EXTINF:-1,Sky Sports Arena
+http://getwhitakertv.org:25461/23763235/36984944/10629
+#EXTINF:-1,Sky Sports Cricket
+http://getwhitakertv.org:25461/23763235/36984944/10630
+#EXTINF:-1,Sky Sports F1
+http://getwhitakertv.org:25461/23763235/36984944/10631
+#EXTINF:-1,Sky Sports Football
+http://getwhitakertv.org:25461/23763235/36984944/10632
+#EXTINF:-1,Sky Sports Golf
+http://getwhitakertv.org:25461/23763235/36984944/10633
+#EXTINF:-1,Sky Sports Mix
+http://getwhitakertv.org:25461/23763235/36984944/10635
+#EXTINF:-1,Sky Sports News
+http://getwhitakertv.org:25461/23763235/36984944/10636
+#EXTINF:-1,Sky Sports Racing
+http://getwhitakertv.org:25461/23763235/36984944/10638
+
+#EXTINF:-1,Tom Hanks Collection Part 3
+http://getwhitakertv.org:25461/23763235/36984944/12575
+
 #EXTINF:-1,Tom Hanks Collection 1
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=13173&type=hls
-#EXTINF:-1,Tom Hanks Collection 2
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=12581&type=hls
+#EXTINF:-1,Tom Hanks Collection 2
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=12576&type=hls
 #EXTINF:-1,Fast & Furious Collection
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=12910&type=hls
 #EXTINF:-1,Bourne Collection
