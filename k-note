@@ -19429,6 +19429,13 @@ http://ip.bosszx.net:80/streaming/clients_live.php?extension=m3u8&username=yamah
 #EXTINF:-1,USA: NBCSN
 http://ip.bosszx.net:80/streaming/clients_live.php?extension=m3u8&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=46925&type=hls
 
+#EXTINF:-1,PAKISTANI | SONY TEN 1 HD
+http://ip.bosszx.net:80/live/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/6045.m3u8
+#EXTINF:-1,PAKISTANI | SONY TEN 2 HD
+http://ip.bosszx.net:80/live/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/6046.m3u8
+#EXTINF:-1,PAKISTANI | TEN 3 HD
+http://ip.bosszx.net:80/live/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/6047.m3u8
+
 #EXTINF:-1,HINDI | ZEE CINEMA HD
 http://ip.bosszx.net:80/streaming/clients_live.php?extension=m3u8&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=5048&type=hls
 #EXTINF:-1 group-title="ip.newboss",HINDI | STAR MOVIES SELECT
