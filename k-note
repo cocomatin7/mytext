@@ -4,7 +4,6 @@ x-tvg-url="https://rebrand.ly/k-epg"
 
 
 
-
 http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
 
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -6070,6 +6069,73 @@ http://connor:str94eEt@82.45.49.11:9981/stream/channel/23a5ae38736ecbb37e426af17
 #EXTINF:-1 group-title="*82.45*",VIP UK: BT Sport 3 FHD"
 http://connor:str94eEt@82.45.49.11:9981/stream/channel/d21ff12295ca36a0f1b2c48ae7ff522f
 
++ + + + http://85.131.123.13:9981/extjs.html + + + +
+
+#EXTINF:-1 tvg-id="ac31e6ce0acd6660e6f43c0460f2853c" group-title="85.131",[ZA] SuperSport LaLiga
+http://85.131.123.13:9981/stream/channelid/1323708844?ticket=977049CB714924F41CEF592A7174D8401767015E&profile=pass
+#EXTINF:-1 tvg-id="1c151ade9b44fa723f96fa396fb6f7f4",[ZA] SuperSport Premier League
+http://85.131.123.13:9981/stream/channelid/1578767644?ticket=6AB8A2CB68A54AAFEE54B160E36C616923E614E6&profile=pass
+#EXTINF:-1 tvg-id="95a34c2d33988aedc09f32f34948cc5a",AF: SUPERSPORT Grandstand
+http://85.131.123.13:9981/stream/channelid/759997333?ticket=AE5E132A2529EFF49D036F8EE2A0F1F13FE3242A&profile=pass
+#EXTINF:-1 tvg-id="3cb070de54f45d1555d3955ecd548560",AF: SuperSport Tennis
+http://85.131.123.13:9981/stream/channelid/1584443452?ticket=7F8E22D442C05B78C8F430CE783B260ACDD6585C&profile=pass
+#EXTINF:-1 tvg-id="7b4180858404a24f723ba1b632bcbf24",AF: SuperSport Variety 4
+http://85.131.123.13:9981/stream/channelid/92291451?ticket=9013365DB51F530DE54EA77B263A7689442112A3&profile=pass
+#EXTINF:-1 tvg-id="4fd7c7b0cad47d28b783cb82be12e648",AR: beIN SPorts
+http://85.131.123.13:9981/stream/channelid/818403151?ticket=7F8507D8191D5237B202D15718AC77340B722487&profile=pass
+#EXTINF:-1 tvg-id="6dcec3023a5f2a83ae0fbf9e674ef87b",beIN Sports English 2 FHD
+http://85.131.123.13:9981/stream/channelid/46386797?ticket=8B1C9472C49083B85E8B1460A896FF51EEBD8255&profile=pass
+#EXTINF:-1 tvg-id="e9ed99e814ac574811e6118c91e1add0",Bein Sports- HD4 EN
+http://85.131.123.13:9981/stream/channelid/1754918377?ticket=DA84DFBB8A7D3BF1971C6C694C54B06E566073EE&profile=pass
+#EXTINF:-1 tvg-id="3b25164f732444e27a7e6a07add39695",Bein Sports- HD7 EN
+http://85.131.123.13:9981/stream/channelid/1326851387?ticket=042C48D5F0329B61B8CDA8DB1302EAC8BB43EEF4&profile=pass
+#EXTINF:-1 tvg-id="243c3e011be2cf3ab7b113b594106757",Bein Sports- Premium HD3 EN
+http://85.131.123.13:9981/stream/channelid/20855844?ticket=F675B2E28861D7969FAFAFE824CC46914D900E5A&profile=pass
+#EXTINF:-1 tvg-id="2043bf382a93dbc45f5421e7be1dc31a",BT Sport 1
+http://85.131.123.13:9981/stream/channelid/952058656?ticket=DF5080D5AFEBDAE772B70E9B6DFEF96BCD8B1706&profile=pass
+#EXTINF:-1 tvg-id="e81aa914c1e25f1e46c8d1bd1a7247f4",BT Sport 1 FHD
+http://85.131.123.13:9981/stream/channelid/346626792?ticket=302B1B29D44D83D02059D86CA2BDB82D1F12DDF1&profile=pass
+#EXTINF:-1 tvg-id="634ae517241ddfc0baddca304ea01232",EPL1: FULHAM 20:00 LEEDS 19/03
+http://85.131.123.13:9981/stream/channelid/400902755?ticket=05F32D5E1DBEEC900F14F922268AA348E931845F&profile=pass
+#EXTINF:-1 tvg-id="89105b4d5bbb5feb3a440c7a53c0f759",EPL: Optus Sport 2
+http://85.131.123.13:9981/stream/channelid/1297813641?ticket=2ECCBC365E82285CA2C241055320A4AD377F1FED&profile=pass
+#EXTINF:-1 tvg-id="413925008cc5090b7bfe87130f596171",IN: TEN 2
+http://85.131.123.13:9981/stream/channelid/2439489?ticket=B4136DA1F17DD11EE888537580D210C155D91BE1&profile=pass
+#EXTINF:-1 tvg-id="3d027b7b67dd398ad27941955664af6a",IN: Ten 3
+http://85.131.123.13:9981/stream/channelid/2071659069?ticket=5D0B5C65B982857901C6631B02C2593134E6CD6A&profile=pass
+#EXTINF:-1 tvg-id="8fffca03b20f6acdd4de3369969d2416",IN: TEN ACTION
+http://85.131.123.13:9981/stream/channelid/63635343?ticket=41808138AED9B76A48DE73946846601BFB60BDE2&profile=pass
+#EXTINF:-1 tvg-id="801a759c52cb5a5238ebbbb0ec7af9bd",IN: VIP SONY MAX HD
+http://85.131.123.13:9981/stream/channelid/477436544?ticket=72525C2D9E1AD9D20CAC38E677CD7B487A937F2D&profile=pass
+#EXTINF:-1 tvg-id="e024a50c8d97760899df361b7b1cc956",Live Events 02 : Fulham v Leeds United Fri 20.00
+http://85.131.123.13:9981/stream/channelid/212149472?ticket=A8F5DD85AC1511AB76A81CCC08A81A7299E8BA8D&profile=pass
+#EXTINF:-1 tvg-id="f3c9d0664de0589a155be2024eab3d96",PT: SPORT TV  HD 1080
+http://85.131.123.13:9981/stream/channelid/1724959219?ticket=EE722F2D5FC0BEB11D7E017E1D5A356E773591A1&profile=pass
+#EXTINF:-1 tvg-id="5f76d07daadc552a9f5715d8560846d9",PT: SPORT TV 1 HD
+http://85.131.123.13:9981/stream/channelid/2110813791?ticket=868DF11EBBEDB9B9F9A827EFFC5E29DD12B5FA7C&profile=pass
+#EXTINF:-1 tvg-id="3e42debca58bebb73b1108ffb58a51b9",PT: SPORT TV 4
+http://85.131.123.13:9981/stream/channelid/1021198910?ticket=7CEE1B553665A3C25A715CF8BD3B18EB9F40717E&profile=pass
+#EXTINF:-1 tvg-id="686e7b969a42c931f0d786a46f6e2604",PT: SPORT TV 5 HD 1080
+http://85.131.123.13:9981/stream/channelid/377187944?ticket=E4A5AFBBBFFD8662B1FBB0CE2C8C0394319E404B&profile=pass
+#EXTINF:-1 tvg-id="fde61c69a2f1cdb974aaf50a99f3bc57",Sky Cinema Comedy
+http://85.131.123.13:9981/stream/channelid/1763501821?ticket=674AE1F171351211F45CC938BE2CD14B9872E346&profile=pass
+#EXTINF:-1 tvg-id="47bd94f1a686c4d153348a57a9d54ebd",Sky Cinema Comedy FHD
+http://85.131.123.13:9981/stream/channelid/1905573191?ticket=B775230783A96C522F73DD5A232626972083CE71&profile=pass
+#EXTINF:-1 tvg-id="60f4323137b202a4cb4eabe9407afaa7",Sky Cinema Drama HD
+http://85.131.123.13:9981/stream/channelid/825422944?ticket=15434680FF3BB359EBB851B62C75A0B97B1A5714&profile=pass
+#EXTINF:-1 tvg-id="4a73fa5de8339d3d118e536146733d8c",Sky Cinema Greats HD
+http://85.131.123.13:9981/stream/channelid/1576694602?ticket=9BB155645D6C0BBFA9ADC0AF1FB415ED8570AA10&profile=pass
+#EXTINF:-1 tvg-id="4cec9ee5b08731553b8f3bb3677a00e7",Sky Sports Football FHD
+http://85.131.123.13:9981/stream/channelid/1704913996?ticket=8A3133968C3C2C0E8EA2E1F8BCA705DECE982AE5&profile=pass
+#EXTINF:-1 tvg-id="2cac1336b0d0f1f26496c3bca658f2ab",Sky Sports Football HD
+http://85.131.123.13:9981/stream/channelid/907258924?ticket=BC8D73E51C84AA98F6A4C291DD6E6344754CBB49&profile=pass
+#EXTINF:-1 tvg-id="2aa6160c220fdc05638acea2cf3dc14c",Sky Sports Mix SD
+http://85.131.123.13:9981/stream/channelid/202810922?ticket=15E6FBC46ACB16B41EFBCB51BDA5BA030143E830&profile=pass
+#EXTINF:-1 tvg-id="263e136c3946b3331dc1153eaefb7664",Sky Sports NFL FHD
+http://85.131.123.13:9981/stream/channelid/1813200422?ticket=9599A6FD1333BF8B80E358D37C94E9563506CABC&profile=pass
+#EXTINF:-1 tvg-id="63b36ec761809517c2c8384a8c819ed3" group-title="85.131",Sky Sports Premier League HD
+http://85.131.123.13:9981/stream/channelid/1198437219?ticket=F685A692D90846BF56F9BE4B7101CB430CBDB7AE&profile=pass
+
 
 + + + + http://86.28.196.144:9981/extjs.html + + + + DOWN + + + + +
 
@@ -7715,7 +7781,7 @@ http://203.154.243.88:18002/kctv/foxsport3
 
 + + + + + 212.8.253.172:2052 + + + + +
 
-#EXTINF:-1 group-title="*212.8*", AstroSport1
+#EXTINF:-1 group-title="212.8", AstroSport1
 http://212.8.253.172:2052/AstroSupersports1HD/tracks-v1a1/mono.m3u8?token=4cf664d53451318603085725c43a5796
 #EXTINF:-1, AstroSport1*
 http://212.8.253.172:2052/AstroSupersports1HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796
@@ -7867,7 +7933,7 @@ http://212.8.253.172:2052/SS-ArenaHD/index.m3u8?username=FernanSisayan&password=
 http://212.8.253.172:2052/SS-MainHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796
 , SS Main SD
 http://212.8.253.172:2052/SS-MainSD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=300012
- group-title="*212.8*", SS Racing HD
+ group-title="212.8", SS Racing HD
 http://212.8.253.172:2052/SS-RacingHD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=793875
 
 + + + + + 61.19.242.134 / https://cdn6.goprimetime.info + + + + + offline + + + + +
