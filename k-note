@@ -18104,6 +18104,12 @@ http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usac
 #EXTINF:-1 group-title="51.91",US: Music Choince - HIT LIST |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18136&type=hls
 
++ + + + + 51.158.144.144:25461 + + + + + null + + + +
+
+
+http://51.158.144.144:25461/get.php?username=MetiTV-telegram&password=@Metitv&type=m3u
+Real Url: 51.158.144.144:25461     Status: Active    Created: 19/6/2021 8:14:47 AM     Expires: Null    Active Connections: 17     Maximum Connections: 300     Formats: "m3u8","ts","rtmp"
+
 + + + + + 54k.top:8000 + + + + + null + + + +  Max Con: 10000
 
 http://54k.top:8000/get.php?username=to44j&password=oyvee&type=m3u&output=hls < null < < m3u8, ts < 10000-11 < DOWN
@@ -19196,6 +19202,11 @@ http://ip.bosszx.net:80/live/yamahasdfsdsd/2NYlY9V1Eocxvxcvxcvx/23785.m3u8
 
 http://ip.tv4all.top:12345/get.php?username=Z94baSrf5s1w&password=qWTrXkW7ejUs&type=m3u
 Real Url: ip.tv4all.top:12345     Status: Active    Created: 21/10/2019 12:45:30 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1
+
++ + + + + ip.xtremetv.eu:8000 + + + + +
+
+http://ip.xtremetv.eu:8000/get.php?username=smario&password=gS5udthq3bBF2gQu&type=m3u
+Real Url: ip.xtremetv.eu:8000     Status: Active    Created: 13/6/2020 3:30:38 PM     Expires: Null    Active Connections: 65     Maximum Connections: 100     Formats: "ts"
 
 + + + + + ipeteve.com + + + + +
 
