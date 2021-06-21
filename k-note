@@ -1,6 +1,8 @@
 ﻿#EXTM3U 
 x-tvg-url="https://rebrand.ly/k-epg"
 
+to check <<
+http://api.queroassistir.tv:80/vod/marcos26/marcos26/series/max/14896.mp4
 
 
 http://ventdelnord.tv:8080/mola/directe.m3u8
@@ -687,6 +689,28 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 
 #EXTINF:-1,RTSH Sport
 https://tvlive.rtsh.dev/live/sport_ott_ppp2/playlist.m3u8
+#EXTINF:-1,tico sports
+https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/index.m3u8
+
+#EXTINF:-1,SONY TEN1HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten1_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,SONY TEN2HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten2_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,SONY TEN3HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,SONY SIXHD
+https://streamer-1.toffeelive.com/mobile_hls/sony_six_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1,SONY TEN1*
+https://streamer-1.toffeelive.com/mobile_hls/ten_1/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,SONY TEN2
+https://streamer-1.toffeelive.com/mobile_hls/ten_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,SONY TEN3
+https://streamer-1.toffeelive.com/mobile_hls/ten_3/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,SONY SIX |down
+https://streamer-1.toffeelive.com/mobile_hls/six/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+https://streamer-1.toffeelive.com/mobile_hls/six_1/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
 
 playout 01
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
