@@ -21274,76 +21274,6 @@ Real Url: serv.mediaking.fi:8080     Status: Active    Created: 16/6/2020 3:58:0
 http://android.mediaking.fi:8080/get.php?username=adelisa98@hotmail.com&password=herning7400&type=m3u
 Real Url: serv.mediaking.fi:8080     Status: Active    Created: 30/11/2018 5:50:44 PM     Expires: 4/5/2022 10:00:00 PM    Active Connections: 3     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
 
-#EXTINF:-1 group-title="serv",ARENA SPORT 1
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/10.m3u8
-#EXTINF:-1,ARENA SPORT 2
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/9.m3u8
-#EXTINF:-1,ARENA SPORT 3
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/8.m3u8
-#EXTINF:-1,ARENA SPORT 4
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/7.m3u8
-#EXTINF:-1,ARENA SPORT 5
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/6.m3u8
-#EXTINF:-1,ARENA SPORT 1 HR
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/11.m3u8
-#EXTINF:-1,ARENA SPORT 2 HR
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/522.m3u8
-#EXTINF:-1,ARENA SPORT 3 HR
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/523.m3u8
-#EXTINF:-1,ARENA SPORT 4 HR
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/524.m3u8
-#EXTINF:-1,ARENA SPORT 5 HR
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/525.m3u8
-#EXTINF:-1,ARENA SPORT 6 HR
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/2940.m3u8
-#EXTINF:-1,SPORT KLUB HD
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/1459.m3u8
-#EXTINF:-1,SPORT KLUB 1
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/14.m3u8
-#EXTINF:-1,SPORT KLUB 2
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/13.m3u8
-#EXTINF:-1,SPORT KLUB 3
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/12.m3u8
-#EXTINF:-1,SPORT KLUB 4
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/142.m3u8
-#EXTINF:-1,SPORT KLUB 5
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/143.m3u8
-#EXTINF:-1,SPORT KLUB 6
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/144.m3u8
-#EXTINF:-1,SPORT KLUB 7
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/2101.m3u8
-#EXTINF:-1,SPORT KLUB 8
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/2102.m3u8
-#EXTINF:-1,SPORT KLUB 9
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/2103.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/4.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/5.m3u8
-#EXTINF:-1,PLANET SPORT 1
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/1883.m3u8
-#EXTINF:-1,PLANET SPORT 2
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/1884.m3u8
-#EXTINF:-1,NOVA SPORT
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/1513.m3u8
-
-#EXTINF:-1,ARENA SPORT 1 - low
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/2546.m3u8
-#EXTINF:-1,ARENA SPORT 2 - low
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/1410.m3u8
-#EXTINF:-1,ARENA SPORT 3 - low
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/1492.m3u8
-#EXTINF:-1,ARENA SPORT 4 - low
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/1493.m3u8
-#EXTINF:-1,SPORT KLUB 1 - low
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/1408.m3u8
-#EXTINF:-1,SPORT KLUB 2 - low
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/1409.m3u8
-#EXTINF:-1,SPORT KLUB 3 - low
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/1491.m3u8
-
-#EXTINF:-1 group-title="serv",FIGHT CHANNEL
-http://android.mediaking.fi:8080/live/adelisa98@hotmail.com/herning7400/3.m3u8
 
 + + + + + sizlerdegeleceksinizbizlergibi.goldentv.eu:8899 + + + + +
 
@@ -21454,245 +21384,245 @@ Real Url: net.zero2.site:8080     Status: Active    Created: 15/5/2021 6:22:51 P
 http://tigerfights.xyz:2052/get.php?username=t7xSeark&password=oZGmqdb0&type=m3u
 Real Url: tigerfights.xyz:2052     Status: Active    Created: 9/7/2020 3:53:58 AM     Expires: Null    Active Connections: 250     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp"
 
-
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=
 
 #EXTINF:-1 group-title="tigerfights",PC: Premier League TV
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855720.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855720
 #EXTINF:-1,PC: NBC Sports
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855698.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855698
 #EXTINF:-1,PC: Peacock PPV 20
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855697.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855697
 #EXTINF:-1,PC: Peacock PPV 19
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855696.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855696
 #EXTINF:-1,PC: Peacock PPV 18
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855695.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855695
 #EXTINF:-1,PC: Peacock PPV 17
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855694.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855694
 #EXTINF:-1,PC: Peacock PPV 16
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855693.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855693
 #EXTINF:-1,PC: Peacock PPV 15
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855692.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855692
 #EXTINF:-1,PC: Peacock PPV 14
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855691.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855691
 #EXTINF:-1,PC: Peacock PPV 13
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855690.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855690
 #EXTINF:-1,PC: Peacock PPV 12
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855689.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855689
 #EXTINF:-1,PC: Peacock PPV 11
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855688.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855688
 #EXTINF:-1,PC: Peacock PPV 10
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855687.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855687
 #EXTINF:-1,PC: Peacock PPV 9
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855686.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855686
 #EXTINF:-1,PC: Peacock PPV 8
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855685.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855685
 #EXTINF:-1,PC: Peacock PPV 7
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855684.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855684
 #EXTINF:-1,PC: Peacock PPV 6
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855683.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855683
 #EXTINF:-1,PC: Peacock PPV 5
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855682.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855682
 #EXTINF:-1,PC: Peacock PPV 4
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855681.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855681
 #EXTINF:-1,PC: Peacock PPV 3
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855680.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855680
 #EXTINF:-1,PC: Peacock PPV 2
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855679.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855679
 #EXTINF:-1,PC: Peacock PPV 1
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2855678.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2855678
 #EXTINF:-1,IN: Asian Sony Max 2 (Hindi) (US)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2671752.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2671752
 #EXTINF:-1,IN: Asian Sony Yay (Hindi) (US)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2671751.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2671751
 #EXTINF:-1,IN: &TV (Hindi) (US)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2671719.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2671719
 #EXTINF:-1,IN: B4U Movies (Hindi) (US)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2671713.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2671713
 #EXTINF:-1,IN: B4U Music (Hindi) (US)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2671712.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2671712
 #EXTINF:-1,IN: Zee Cinema HD (Hindi) (US)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2671672.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2671672
 #EXTINF:-1,IN: Zee Classic (Hindi) (US)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2671671.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2671671
 #EXTINF:-1,IN: Zee Smile (Hindi) (US)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2671667.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2671667
 #EXTINF:-1,IN: Zee Cinema (Hindi) (US)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2671588.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2671588
 #EXTINF:-1,IN: Zee Cinemalu (Telugu) (US)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2671587.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2671587
 #EXTINF:-1,IN: B4U Plus (CA)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2671336.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2671336
 #EXTINF:-1,IN: B4U Music (CA)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2671335.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2671335
 #EXTINF:-1,IN: B4U Movies (CA)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2671334.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2671334
 
 #EXTINF:-1,AF NG SuperSport Rugby (HD)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2604308.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2604308
 #EXTINF:-1,AF ZA SuperSport Rugby (FHD)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2604310.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2604310
 #EXTINF:-1,AF ZW SuperSport Rugby (FHD)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2604311.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2604311
 #EXTINF:-1,AU Optus 1
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2567852.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2567852
 #EXTINF:-1,AU Optus 2
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2567853.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2567853
 
 #EXTINF:-1,B4U MOVIES (Indian)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2485190.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2485190
 
 #EXTINF:-1,DSTV: SuperSport 4
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107269.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107269
 #EXTINF:-1,DSTV: SuperSport Action
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107275.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107275
 #EXTINF:-1,DSTV: Supersport Blitz
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107278.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107278
 #EXTINF:-1,DSTV: SuperSport Cricket
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107277.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107277
 #EXTINF:-1,DSTV: SuperSport Football
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107270.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107270
 #EXTINF:-1,DSTV: SuperSport Golf
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107282.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107282
 #EXTINF:-1,DSTV: SuperSport Grandstand
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107266.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107266
 #EXTINF:-1,DSTV: SuperSport La Liga
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107281.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107281
 #EXTINF:-1,DSTV: SuperSport MaXimo 1
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107283.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107283
 #EXTINF:-1,DSTV: SuperSport Motorsport
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107280.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107280
 #EXTINF:-1,DSTV: SuperSport Play
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107284.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107284
 #EXTINF:-1,DSTV: SuperSport Premier League
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107268.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107268
 #EXTINF:-1,DSTV: SuperSport PSL
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107267.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107267
 #EXTINF:-1,DSTV: SuperSport Rugby
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107276.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107276
 #EXTINF:-1,DSTV: SuperSport Tennis
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107279.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107279
 #EXTINF:-1,DSTV: SuperSport Variety 1
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107271.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107271
 #EXTINF:-1,DSTV: SuperSport Variety 2
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107272.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107272
 #EXTINF:-1,DSTV: SuperSport Variety 3
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107273.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107273
 #EXTINF:-1,DSTV: SuperSport Variety 4
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2107274.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2107274
 
 #EXTINF:-1,BBC World News
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2599188.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2599188
 #EXTINF:-1,Bein sports 1
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2599178.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2599178
 #EXTINF:-1,Bein sports 2
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2599179.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2599179
 #EXTINF:-1,BEIN: SPORT 01
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2586458.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2586458
 #EXTINF:-1,BEIN: SPORT 02
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2586459.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2586459
 #EXTINF:-1,BEIN: SPORT 03
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2586460.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2586460
 #EXTINF:-1,BEIN: SPORT 04
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2586461.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2586461
 #EXTINF:-1,BEIN: SPORT 05
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2586462.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2586462
 #EXTINF:-1,BEIN: SPORT 06
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2586463.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2586463
 #EXTINF:-1,BEIN: SPORT 07
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2586464.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2586464
 #EXTINF:-1,BEIN: SPORT 08
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2586465.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2586465
 #EXTINF:-1,BEIN: SPORT 09
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2586466.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2586466
 #EXTINF:-1,BEIN: SPORT 10
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2586467.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2586467
 #EXTINF:-1,BEIN: SPORT GLOBAL
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2586470.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2586470
 #EXTINF:-1,BEIN: Sport NBA
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2586496.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2586496
 #EXTINF:-1,BEIN: SPORTS 11
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2586468.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2586468
 #EXTINF:-1,BEIN: SPORTS 12
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2586469.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2586469
 #EXTINF:-1,BEIN: SPORTS 13
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2586493.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2586493
 
 #EXTINF:-1,IN: &Flix
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2454920.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2454920
 #EXTINF:-1,IN: &pictures
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2455260.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2455260
 #EXTINF:-1,IN: &pictures HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2454931.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2454931
 #EXTINF:-1,IN: &Prive
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2454921.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2454921
 #EXTINF:-1,IN: &TV HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2454923.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2454923
 #EXTINF:-1,IN: B4U Movies
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2454953.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2454953
 #EXTINF:-1,IN: B4U Movies Hindi
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2428000.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2428000
 #EXTINF:-1,IN: MN+ HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2454961.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2454961
 #EXTINF:-1,IN: MNX HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2454962.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2454962
 #EXTINF:-1,IN: Movies Now HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2455163.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2455163
 #EXTINF:-1,IN: SONY  MAX
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2455270.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2455270
 #EXTINF:-1,IN: SONY Max 2
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2454954.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2454954
 #EXTINF:-1,IN: SONY Max HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2454948.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2454948
 #EXTINF:-1,IN: SONY Pix HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2454959.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2454959
 #EXTINF:-1,IN: SONY SIX HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2454968.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2454968
 #EXTINF:-1,IN: SONY Ten 1 HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2454967.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2454967
 #EXTINF:-1,IN: SONY Ten 2 HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2455137.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2455137
 #EXTINF:-1,IN: SONY Ten 3 HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2455023.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2455023
 #EXTINF:-1,IN: STAR Sports Select 1 HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2454938.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2454938
 #EXTINF:-1,IN: STAR Sports Select 2 HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2455138.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2455138
 #EXTINF:-1,IN: Zee Cinema
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2455259.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2455259
 #EXTINF:-1,IN: ZEE Cinema HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2454936.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2454936
 #EXTINF:-1,IN: Zee Cinemalu HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2455308.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2455308
 #EXTINF:-1,Sony Max
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2485148.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2485148
 #EXTINF:-1,SONY MAX 2 (Indian)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2485184.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2485184
 #EXTINF:-1,SONY Max HD (Indian)
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2485197.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2485197
 
 #EXTINF:-1,Now 70s
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2484990.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2484990
 #EXTINF:-1,Now 80s
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2484991.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2484991
 #EXTINF:-1,Now 90s
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2484992.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2484992
 
 #EXTINF:-1,MY: ASTRO ASSP HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2599208.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2599208
 #EXTINF:-1,MY: ASTRO ASSP Plus HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2599209.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2599209
 #EXTINF:-1,MY: ASTRO ASSP2 HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2599210.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2599210
 #EXTINF:-1,MY: ASTRO ASSP3 HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2599211.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2599211
 #EXTINF:-1,MY: ASTRO ASSP4 HD
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2599212.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2599212
 #EXTINF:-1,MY: Astro SuperSports Plus 1
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2599375.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2599375
 #EXTINF:-1,MY: Astro Supersports Plus 2
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2599376.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2599376
 #EXTINF:-1,MY: Astro Supersports Plus 3
-http://tigerfights.xyz:2052/live/t7xSeark/oZGmqdb0/2599377.m3u8
+http://tigerfights.xyz:2052/streaming/clients_live.php?extension=ts&username=t7xSeark&password=oZGmqdb0&stream=2599377
 
 + + + + + tv4k.be:8888 + + + + +
 
