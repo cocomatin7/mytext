@@ -9247,7 +9247,7 @@ http://54.37.82.205:8081/liveorigin/hd-fxeng_480/playlist.m3u8
 http://54.37.82.205:8081/liveorigin/hd-gmmone_720/playlist.m3u8
 http://54.37.82.205:8081/liveorigin/hd-golf_720/playlist.m3u8
 http://54.37.82.205:8081/liveorigin/hd-golfeng_480/playlist.m3u8
- tvg-id="HBO HD",HBO MM* |54.37
+ tvg-id="HBO HD",HBO* |54.37
 http://54.37.82.205:8081/liveorigin/hd-hboeng_720/playlist.m3u8
 http://54.37.82.205:8081/liveorigin/hd-history2_720/playlist.m3u8
 ,HISTORY HD* |54.37
@@ -9762,7 +9762,7 @@ http://160.119.77.116:8081/iptv/hd-discoveryeng.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-foxfamily.stream/playlist.m3u8
  tvg-id="FOX Movies HD", Fox Movies Premium HD |160
 http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
- tvg-id="HBO HD", HBO MM |160
+ tvg-id="HBO HD", HBO |160
 http://160.119.77.116:8081/iptv/hd-hboeng.stream/playlist.m3u8
 , History ENG/MM HD |160
 http://160.119.77.116:8081/iptv/hd-historyeng.stream/playlist.m3u8
@@ -11328,7 +11328,7 @@ https://laos-tech-live.b-cdn.net/hd-fxeng_480/index.m3u8
 https://laos-tech-live.b-cdn.net/hd-gmmone_720/index.m3u8
 https://laos-tech-live.b-cdn.net/hd-golf_720/index.m3u8
 https://laos-tech-live.b-cdn.net/hd-hbo-th_480/index.m3u8
-, HBO MM |df88
+, HBO |df88
 https://laos-tech-live.b-cdn.net/hd-hboeng_720/index.m3u8
 https://laos-tech-live.b-cdn.net/hd-history2_720/index.m3u8
 https://laos-tech-live.b-cdn.net/hd-history_720/index.m3u8
@@ -12326,7 +12326,7 @@ https://streaming.livescorethai.net/iptv/hd-fxeng.stream/chunks.m3u8
 https://streaming.livescorethai.net/iptv/hd-gmmone.stream/chunks.m3u8
 https://streaming.livescorethai.net/iptv/hd-golf.stream/chunks.m3u8
 https://streaming.livescorethai.net/iptv/hd-hbo-th.stream/chunks.m3u8
-,HBO MM |freetvdd
+,HBO |freetvdd
 https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8
 https://streaming.livescorethai.net/iptv/hd-history.stream/chunks.m3u8
 https://streaming.livescorethai.net/iptv/hd-history2.stream/chunks.m3u8
@@ -12549,7 +12549,7 @@ TRUE VISIONS
 https://tv4.chang55.com:446/live2/tv4ch23.stream/chunks.m3u8
 NBC GOLF CHANNEL
 https://tv4.chang55.com:446/live2/tv4ch24.stream/chunks.m3u8
- tvg-id="HBO HD",HBO MM |chang55 
+ tvg-id="HBO HD",HBO |chang55 
 https://tv4.chang55.com:446/live2/tv4ch25.stream/chunks.m3u8
  tvg-id="FOX Movies HD",FOX MOVIES MM |chang55
 https://tv4.chang55.com:446/live2/tv4ch26.stream/chunks.m3u8
@@ -12586,7 +12586,7 @@ FIGHTSPORTS
 https://tv4.chang55.com:446/live2/tv4ch44.stream/chunks.m3u8
 EUROSPORT
 https://tv4.chang55.com:446/live2/tv4ch45.stream/chunks.m3u8
- tvg-id="RED BY HBO (HD)",RED BY HBO MM |chang55
+ tvg-id="RED BY HBO (HD)",RED BY HBO |chang55
 https://tv4.chang55.com:446/live2/tv4ch47.stream/chunks.m3u8
  tvg-id="HBO Signature (HD)",HBO Signature |chang55
 https://tv4.chang55.com:446/live2/tv4ch48.stream/chunks.m3u8
