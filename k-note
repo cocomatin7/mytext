@@ -7,10 +7,7 @@ http://api.queroassistir.tv:80/vod/marcos26/marcos26/series/max/14896.mp4
 
 http://91.238.194.116:8030/football_2_hd
 
-beIN 1PRE
-http://ferrarico.referrari.com/live/60173_.m3u8
-beIN 5 MAX
-http://ferrarico.referrari.com/live/60177_.m3u8
+
 http://xtv.mooo.com/claromxkr.php?id=HBO_HD&calidad=4&f=playlist.m3u8
 http://re.strah.video:1234/play/extasyhd/index.m3u8
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
@@ -44,15 +41,6 @@ https://www.dropbox.com/s/dl/lmx3f8dnbe6xee4/hbo_omahtv.m3u8
 https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index.m3u8
 https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
 
-beIN HD1TR
-https://b.pscdn.live/hls/bein-sports-1.m3u8
-https://b.pscdn.live/hls/bein-sports-2.m3u8
-https://b.pscdn.live/hls/bein-sports-3.m3u8
-https://b.pscdn.live/hls/bein-sports-4.m3u8
-
-beIN TR
-https://b.pscdn.live/hls/bein-sports-max-1.m3u8
-https://b.pscdn.live/hls/bein-sports-max-2.m3u8
 
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 http://91.240.83.247:8101/
@@ -705,6 +693,100 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgMDI0J3bwNlbpVmQ
 
 
+#EXTINF:-1,beIN 1MAX
+http://adnaraoun.xyz:80/live/05500021500/index.m3u8
+1MAX
+http://8.anbdaouras.xyz/live/9889900/index.m3u8
+#EXTINF:-1,beIN 2MAX
+http://adnaraoun.xyz:80/live/00002500/index.m3u8
+beIN 1MAX
+http://8.anbdaouras.xyz/live/6262622200/index.m3u8
+
+#EXTINF:-1 group-title="Sport/Bamar",beIN SPORTS 1PRE |alha
+http://3.alhawalouh.xyz:80/live/6161655/index.m3u8
+#EXTINF:-1,beIN SPORTS 2PRE |alha
+http://3.alhawalouh.xyz:80/live/616194987/index.m3u8
+#EXTINF:-1,beIN SPORTS 3PRE |alha
+http://3.alhawalouh.xyz:80/live/6151278887/index.m3u8
+
+#EXTINF:-1,no signal
+http://3.alhawalouh.xyz:80/live/1515000000/index.m3u8
+
+#EXTINF:-1, Bein Sports 1 |alha
+http://3.alhawalouh.xyz:80/live/918454578/index.m3u8
+#EXTINF:-1, Bein Sports 2 |alha
+http://3.alhawalouh.xyz:80/live/69854211/index.m3u8
+#EXTINF:-1,beIN SPORTS 1PRE' |alha
+http://3.alhawalouh.xyz:80/live/88824257/index.m3u8
+#EXTINF:-1,beIN SPORTS 4 |alha
+http://3.alhawalouh.xyz:80/live/9787488847/index.m3u8
+#EXTINF:-1,beIN SPORTS 2' |alha
+http://3.alhawalouh.xyz:80/live/10011244/index.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",beIN SPORTS 7 |alha
+http://3.alhawalouh.xyz:80/live/100666696/index.m3u8
+
+-/-/-/-/-/-
+
+http://1.alhawalouh.xyz:80/live/6161655/index.m3u8
+http://2.alhawalouh.xyz:80/live/6161655/index.m3u8
+http://3.alhawalouh.xyz:80/live/6161655/index.m3u8
+
+http://1.alhawalouh.xyz:80/live/69854211/index.m3u8
+http://2.alhawalouh.xyz:80/live/69854211/index.m3u8
+http://3.alhawalouh.xyz:80/live/69854211/index.m3u8
+
+http://1.alhawalouh.xyz:80/live/9787488847/index.m3u8
+http://2.alhawalouh.xyz:80/live/9787488847/index.m3u8
+http://3.alhawalouh.xyz:80/live/9787488847/index.m3u8
+
+http://1.alhawalouh.xyz:80/live/10011244/index.m3u8
+http://2.alhawalouh.xyz:80/live/10011244/index.m3u8
+http://3.alhawalouh.xyz:80/live/10011244/index.m3u8
+
+http://1.alhawalouh.xyz:80/live/100666696/index.m3u8
+http://2.alhawalouh.xyz:80/live/100666696/index.m3u8
+http://3.alhawalouh.xyz:80/live/100666696/index.m3u8
+
+http://1.alhawalouh.xyz:80/live/1515000000/index.m3u8
+http://2.alhawalouh.xyz:80/live/1515000000/index.m3u8
+http://3.alhawalouh.xyz:80/live/1515000000/index.m3u8
+
+http://1.alhawalouh.xyz:80/live/616194987/index.m3u8
+http://2.alhawalouh.xyz:80/live/616194987/index.m3u8
+http://3.alhawalouh.xyz:80/live/616194987/index.m3u8
+
+http://1.alhawalouh.xyz:80/live/918454578/index.m3u8
+http://2.alhawalouh.xyz:80/live/918454578/index.m3u8
+http://3.alhawalouh.xyz:80/live/918454578/index.m3u8
+
+http://1.alhawalouh.xyz:80/live/6151278887/index.m3u8
+http://2.alhawalouh.xyz:80/live/6151278887/index.m3u8
+http://3.alhawalouh.xyz:80/live/6151278887/index.m3u8
+
+http://1.alhawalouh.xyz:80/live/88824257/index.m3u8
+http://2.alhawalouh.xyz:80/live/88824257/index.m3u8
+http://3.alhawalouh.xyz:80/live/88824257/index.m3u8
+
+http://zana@3.alhawalouh.xyz/live/88824257/index.m3u8
+
+beIN 1PRE
+http://ferrarico.referrari.com/live/60173_.m3u8
+beIN 5 MAX
+http://ferrarico.referrari.com/live/60177_.m3u8
+
+beIN HD1TR
+https://b.pscdn.live/hls/bein-sports-1.m3u8
+https://b.pscdn.live/hls/bein-sports-2.m3u8
+https://b.pscdn.live/hls/bein-sports-3.m3u8
+https://b.pscdn.live/hls/bein-sports-4.m3u8
+
+beIN TR
+https://b.pscdn.live/hls/bein-sports-max-1.m3u8
+https://b.pscdn.live/hls/bein-sports-max-2.m3u8
+
+#EXTINF:-1,beIN SPORT Euro21
+https://d26aoqcz6hruef.cloudfront.net/out/v1/695705fed126486f8fe2dc9e07403de3/index.m3u8
+
 #EXTINF:-1,RTSH Sport
 https://tvlive.rtsh.dev/live/sport_ott_ppp2/playlist.m3u8
 #EXTINF:-1,tico sports
@@ -745,8 +827,6 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-#EXTINF:-1,beIN SPORT Euro21
-https://d26aoqcz6hruef.cloudfront.net/out/v1/695705fed126486f8fe2dc9e07403de3/index.m3u8
 
 
 #EXTINF:-1,CHAMPION TV 2
@@ -998,72 +1078,7 @@ http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6229/index.m3u8
 
 -/-/-/-/-/-
 
-#EXTINF:-1 group-title="Sport/Bamar",beIN SPORTS 1PRE |alha
-http://3.alhawalouh.xyz:80/live/6161655/index.m3u8
-#EXTINF:-1,beIN SPORTS 2PRE |alha
-http://3.alhawalouh.xyz:80/live/616194987/index.m3u8
-#EXTINF:-1,beIN SPORTS 3PRE |alha
-http://3.alhawalouh.xyz:80/live/6151278887/index.m3u8
 
-#EXTINF:-1,no signal
-http://3.alhawalouh.xyz:80/live/1515000000/index.m3u8
-
-#EXTINF:-1, Bein Sports 1 |alha
-http://3.alhawalouh.xyz:80/live/918454578/index.m3u8
-#EXTINF:-1, Bein Sports 2 |alha
-http://3.alhawalouh.xyz:80/live/69854211/index.m3u8
-#EXTINF:-1,beIN SPORTS 1PRE' |alha
-http://3.alhawalouh.xyz:80/live/88824257/index.m3u8
-#EXTINF:-1,beIN SPORTS 4 |alha
-http://3.alhawalouh.xyz:80/live/9787488847/index.m3u8
-#EXTINF:-1,beIN SPORTS 2' |alha
-http://3.alhawalouh.xyz:80/live/10011244/index.m3u8
-#EXTINF:-1 group-title="Sport/Bamar",beIN SPORTS 7 |alha
-http://3.alhawalouh.xyz:80/live/100666696/index.m3u8
-
--/-/-/-/-/-
-
-http://1.alhawalouh.xyz:80/live/6161655/index.m3u8
-http://2.alhawalouh.xyz:80/live/6161655/index.m3u8
-http://3.alhawalouh.xyz:80/live/6161655/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/69854211/index.m3u8
-http://2.alhawalouh.xyz:80/live/69854211/index.m3u8
-http://3.alhawalouh.xyz:80/live/69854211/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/9787488847/index.m3u8
-http://2.alhawalouh.xyz:80/live/9787488847/index.m3u8
-http://3.alhawalouh.xyz:80/live/9787488847/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/10011244/index.m3u8
-http://2.alhawalouh.xyz:80/live/10011244/index.m3u8
-http://3.alhawalouh.xyz:80/live/10011244/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/100666696/index.m3u8
-http://2.alhawalouh.xyz:80/live/100666696/index.m3u8
-http://3.alhawalouh.xyz:80/live/100666696/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/1515000000/index.m3u8
-http://2.alhawalouh.xyz:80/live/1515000000/index.m3u8
-http://3.alhawalouh.xyz:80/live/1515000000/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/616194987/index.m3u8
-http://2.alhawalouh.xyz:80/live/616194987/index.m3u8
-http://3.alhawalouh.xyz:80/live/616194987/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/918454578/index.m3u8
-http://2.alhawalouh.xyz:80/live/918454578/index.m3u8
-http://3.alhawalouh.xyz:80/live/918454578/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/6151278887/index.m3u8
-http://2.alhawalouh.xyz:80/live/6151278887/index.m3u8
-http://3.alhawalouh.xyz:80/live/6151278887/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/88824257/index.m3u8
-http://2.alhawalouh.xyz:80/live/88824257/index.m3u8
-http://3.alhawalouh.xyz:80/live/88824257/index.m3u8
-
-http://zana@3.alhawalouh.xyz/live/88824257/index.m3u8
 
 -/-/-/-/-
 
@@ -1156,6 +1171,9 @@ http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
 http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
 http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
 http://31.220.41.88:8081/live/nl-ziggoracing.stream/chunks.m3u8
+
+
+http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=rk <<< to check and convert
 
 
 #EXTINF:-1 group-title="Sport/Bamar",StarSportsSelect1FHD |87
