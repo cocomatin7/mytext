@@ -20970,7 +20970,58 @@ http://speccy.pw:8008/d/d/17048
 + + + + + sps1.tvmoip.com:18080 + + + + +
 
 http://sps1.tvmoip.com:18080/get.php?username=TestIvo2&password=IvoTest2&type=m3u
-Real Url: sps1.tvmoip.com:18080     Status: Active    Created: 11/5/2020 12:35:33 PM     Expires: Null    Active Connections: 1     Maximum Connections: 10     Formats: "m3u8","ts","rtmp"
+Real Url: sps1.tvmoip.com:18080     Status: Active    Created: 11/5/2020 12:35:33 PM     Expires: Null    Active Connections: 1     Maximum Connections: 10     Formats: "m3u8","ts","rtmp" << 
+
+http://sps1.tvmoip.com:18080/get.php?username=localserver2&password=serverlocal2021&type=m3u
+Real Url: sps1.tvmoip.com:18080     Status: Active    Created: 29/9/2019 11:51:00 PM     Expires: Null    Active Connections: 46     Maximum Connections: 50     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="sps1",Bein Sports 1 FHD (TR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/73
+#EXTINF:-1,Bein Sport 2 (TR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/64
+#EXTINF:-1,Bein Sports 3 FHD (TR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/86
+#EXTINF:-1,Bein Sport 4 (TR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/87
+#EXTINF:-1,Bein Sport 6 (TR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/89
+#EXTINF:-1,Bein Sport 5 (TR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/88
+#EXTINF:-1,Bein Sport 7 (TR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/90
+#EXTINF:-1,Bein Sport 8 (TR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/91
+#EXTINF:-1,Bein Sport 9 (TR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/92
+#EXTINF:-1,Bein Sport 10 (TR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/93
+#EXTINF:-1,Bein Sports 1 HD (FR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/56
+#EXTINF:-1,Bein Sports 2 HD (FR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/57
+#EXTINF:-1,Bein Sports 3 HD (FR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/58
+#EXTINF:-1,Bein Sports 1 HD (AR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/94
+#EXTINF:-1,Bein Sports 2 HD (AR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/95
+#EXTINF:-1,Bein Sports 3 HD (AR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/96
+#EXTINF:-1,Bein Sports 4 HD (AR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/97
+#EXTINF:-1,Bein Sports 5 HD (AR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/98
+#EXTINF:-1,Bein Sports 6 HD (AR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/99
+#EXTINF:-1,Bein Sports 7 HD (AR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/100
+#EXTINF:-1,Bein Sports 8 HD (AR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/113
+#EXTINF:-1,Bein Sports 9 HD (AR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/114
+#EXTINF:-1 group-title="sps1",Bein Sports 10 HD (AR)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/130
+
 
 + + + + + srb-iptv-munja.com:80 + + + + +
 
