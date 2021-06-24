@@ -695,16 +695,28 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 
 #EXTINF:-1,beIN 1MAX
 http://adnaraoun.xyz:80/live/05500021500/index.m3u8
-2MAX
-http://adnaraoun.xyz/live/331210000/index.m3u8
-1MAX
+
+#EXTINF:-1,beIN 2MAX
+http://adnaraoun.xyz:80/live/331210000/index.m3u8
+http://1.adnaraoun.xyz:80/live/331210000/index.m3u8
+http://2.adnaraoun.xyz:80/live/331210000/index.m3u8
+
+#EXTINF:-1,beIN 1MAX
+http://7.anbdaouras.xyz/live/9889900/index.m3u8
 http://8.anbdaouras.xyz/live/9889900/index.m3u8
+http://9.anbdaouras.xyz/live/9889900/index.m3u8
+
+#EXTINF:-1,beIN 1MAX
+http://7.anbdaouras.xyz:80/live/6262622200/index.m3u8
+http://8.anbdaouras.xyz:80/live/6262622200/index.m3u8
+http://9.anbdaouras.xyz:80/live/6262622200/index.m3u8
+
 #EXTINF:-1,beIN 2MAX
 http://adnaraoun.xyz:80/live/00002500/index.m3u8
-beIN 1MAX
-http://8.anbdaouras.xyz/live/6262622200/index.m3u8
+http://1.adnaraoun.xyz:80/live/00002500/index.m3u8
+http://2.adnaraoun.xyz:80/live/00002500/index.m3u8
 
-http://3.amarteyyy.xyz/live/790006600/index.m3u8??ZaNa_iptv.m3u8
+http://3.amarteyyy.xyz/live/790006600/index.m3u8
 
 http://8.anbdaouras.xyz/live/9889900/index.m3u8
 
@@ -712,36 +724,36 @@ http://3.amarteyyy.xyz/live/001087800/index.m3u8
 http://3.amarteyyy.xyz/live/0679877700/index.m3u8
 http://3.amarteyyy.xyz/live/790006600/index.m3u8
 
-http://5.amroutras.xyz/live/331210000/index.m3u8?ZaNa_iptv.m3u8
+http://5.amroutras.xyz/live/331210000/index.m3u8
 
-http://8.anbdaouras.xyz/live/6262622200/index.m3u8?ZaNa_iptv.m3u8
+http://8.anbdaouras.xyz/live/6262622200/index.m3u8
 
 http://adnaraoun.xyz/live/05500021500/index.m3u8
 http://adnaraoun.xyz/live/44619987700/index.m3u8
 
-http://5.amroutras.xyz/live/44619987700/index.m3u8?ZAnA.M3U8
-http://6.amroutras.xyz/live/05500021500/index.m3u8?ZAnA.M3U8
+http://5.amroutras.xyz/live/44619987700/index.m3u8
+http://6.amroutras.xyz/live/05500021500/index.m3u8
 
-http://11.ardounar.xyz/live/44619987700/index.m3u8?ZAnA.M3U8
+http://11.ardounar.xyz/live/44619987700/index.m3u8
 
-http://8.anbdaouras.xyz/live/6262622200/index.m3u8?ZaNa_iptv.m3u8
+http://8.anbdaouras.xyz/live/6262622200/index.m3u8
 
-http://5.amroutras.xyz/live/00002500/index.m3u8?ZaNa_iptv.m3u8
+http://5.amroutras.xyz/live/00002500/index.m3u8
+
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
+#EXTINF:-1,beIN 3
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
+http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
+http://31.220.41.88:8081/live/bein10.stream/playlist.m3u8
 
 
-local bein                                                                                                                      
-http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8?ZAnA-iptv.m3u8
-http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8?ZAnA-iptv.m3u8
-http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8?ZAnA-iptv.m3u8
-http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8?ZAnA-iptv.m3u8
-http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8?ZAnA-iptv.m3u8
-http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8?ZAnA-iptv.m3u8
-
-http://191.243.149.178:25461/get.php?username=ZANA&password=IPTV&type=m3u&output=mpegts
-
-
-
--/-/-/-/-/-
+-/-/-/-/-/- offline -/-/-/-/-/-/-
 
 beIN SPORTS 1PRE |alha
 http://3.alhawalouh.xyz:80/live/6161655/index.m3u8
@@ -825,8 +837,7 @@ beIN TR
 https://b.pscdn.live/hls/bein-sports-max-1.m3u8
 https://b.pscdn.live/hls/bein-sports-max-2.m3u8
 
-#EXTINF:-1,beIN SPORT Euro21
-https://d26aoqcz6hruef.cloudfront.net/out/v1/695705fed126486f8fe2dc9e07403de3/index.m3u8
+-/-/-/-/-/- offline -/-/-/-/-/-/-
 
 #EXTINF:-1,RTSH Sport
 https://tvlive.rtsh.dev/live/sport_ott_ppp2/playlist.m3u8
@@ -18400,8 +18411,9 @@ Real Url: 191.243.149.178:25461     Status: Active    Created: 13/6/2021 11:28:5
 http://191.243.149.178:25461/get.php?username=SNEAKER_Black&password=ZANA-is-free&type=m3u
 Real Url: 191.243.149.178:25461     Status: Active    Created: 13/6/2021 11:28:53 AM     Expires: 12/7/2021 11:00:00 PM    Active Connections: 0     Maximum Connections: 200     Formats: "m3u8","ts","rtmp" < DOWN
 
+
 http://191.243.149.178:25461/get.php?username=ZANA&password=IPTV&type=m3u
-Real Url: 191.243.149.178:25461     Status: Active    Created: 21/5/2021 9:29:19 PM     Expires: 21/7/2021 11:00:00 PM    Active Connections: 4     Maximum Connections: 3000     Formats: "m3u8","ts","rtmp" < 
+Real Url: 191.243.149.178:25461     Status: Active    Created: 21/5/2021 9:29:19 PM     Expires: 21/7/2021 11:00:00 PM    Active Connections: 14     Maximum Connections: 3000     Formats: "m3u8","ts","rtmp"
 
 http://191.243.149.178:25461/get.php?username=ZANA&password=GOOD&type=m3u
 Real Url: 191.243.149.178:25461     Status: Active    Created: 21/5/2021 9:29:19 PM     Expires: 20/5/2025 11:00:00 PM    Active Connections: 0     Maximum Connections: 100000     Formats: "m3u8","ts","rtmp" < DOWN?
