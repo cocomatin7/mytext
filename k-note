@@ -192,12 +192,12 @@ https://raw.githubusercontent.com/bestcommt2/FuckID/master/cinemax.m3u8
 http://www.tettv.diradjafm.com/m3u/HBOsig-TETtv.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="HBO HD", HBO |mm
 https://raw.githubusercontent.com/konanda-sg/mytext/master/hhbo-mm.m3u8
 #EXTINF:-1 tvg-id="HBO HD", HBO* |mm
 https://www.dropbox.com/s/dl/o4mn66m5w7xgc7c/hhbo-mm.m3u8
+#EXTINF:-1 tvg-id="HBO HD", HBO" |mm
+https://www.dropbox.com/s/dl/gdql0eifsxt3724/h2bo-mm.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family (HD)", HBO FAMILY |mm
 https://raw.githubusercontent.com/konanda-sg/mytext/master/hfam-mm.m3u8
