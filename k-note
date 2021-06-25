@@ -3963,174 +3963,248 @@ http://73.68.128.14:9981/dvrfile/59f47ea93f2284f6238a572a81ab5772
 
 http://91.208.115.227:8080/get.php?username=xDJixN4wBE&password=ARBX8u86XM&type=m3u Real Url: nomorecable.eu:80/91.208.115.227:8080     Status: Active Expires: Null Connections: 1-0     Formats: "ts","m3u8" << 
 
-#EXTINF:-1 group-title="*91.208*",UK | MTV Base
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2065.m3u8
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=
+
+#EXTINF:-1 group-title="*91.208*",FR | BEIN SPORT 1 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=27342
+#EXTINF:-1,FR | BEIN SPORT 2 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=27341
+#EXTINF:-1,FR | BEIN SPORTS MAX 3 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=107055
+#EXTINF:-1,FR | BEIN SPORT MAX 4 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=107056
+#EXTINF:-1,FR | BEIN SPORT MAX 5 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=107057
+#EXTINF:-1,FR | BEIN SPORTS MAX 6 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=107058
+#EXTINF:-1,UK | MTV Base
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=2065
 #EXTINF:-1,UK | MTV Classic
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2067.m3u8
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=2067
 #EXTINF:-1,UK | MTV Club
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2069.m3u8
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=2069
 #EXTINF:-1,UK | MTV Hits
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2063.m3u8
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=2063
 #EXTINF:-1,UK | MTV Music
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2066.m3u8
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=2066
 #EXTINF:-1,UK | MTV OMG
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2068.m3u8
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=2068
 #EXTINF:-1,UK | MTV Rocks
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2064.m3u8
-#EXTINF:-1,UK | Sky Cinema Hits HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2050.m3u8
-#EXTINF:-1,UK | Sky Cinema Greats
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2037.m3u8
-#EXTINF:-1,UK | Sky Cinema Drama and Romance
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2035.m3u8
-#EXTINF:-1,UK | Sky Cinema Premier
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2033.m3u8
-#EXTINF:-1,UK | Sky Cinema Select FHD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2054.m3u8
-#EXTINF:-1,UK | Sky Cinema Thriller HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2048.m3u8
-#EXTINF:-1,UK | Sky Cinema Comedy FHD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2046.m3u8
-#EXTINF:-1,UK | Sky Cinema Action And Adventure FHD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2044.m3u8
-#EXTINF:-1,UK | Sky Cinema Disney FHD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2040.m3u8
-#EXTINF:-1,UK | Sky Cinema Greats FHD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2038.m3u8
-#EXTINF:-1,UK | Sky Cinema Drama and Romance FHD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2036.m3u8
-#EXTINF:-1,UK | Sky Cinema Premier FHD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2034.m3u8
-#EXTINF:-1,UK | Sky Cinema Family FHD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2042.m3u8
-#EXTINF:-1,UK | Sky Cinema Sci Fi and Horror FHD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2052.m3u8
-#EXTINF:-1,UK | Sky Cinema Hits HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2050.m3u8
-#EXTINF:-1,UK | CNN International
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/97073.m3u8
-#EXTINF:-1,UK | Sky Sports Football FHD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2085.m3u8
-#EXTINF:-1,UK | Sky Sports Football HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2084.m3u8
-#EXTINF:-1,UK | Sky Sports Main Event FHD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2075.m3u8
-#EXTINF:-1,UK | Sky Sports Main Event HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/46193.m3u8
-#EXTINF:-1,UK | Sky Sports News FHD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2089.m3u8
-#EXTINF:-1,UK | Sky Sports News HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2088.m3u8
-#EXTINF:-1,UK | Sky Sports Premier League FHD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2081.m3u8
-#EXTINF:-1,UK | Sky Sports Premier League HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2080.m3u8
-#EXTINF:-1,UK | BT Sport 1 FHD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2095.m3u8
-#EXTINF:-1,UK | BT Sport 2 FHD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2097.m3u8
-#EXTINF:-1,UK | BT Sport 3 FHD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2099.m3u8
-#EXTINF:-1,UK | BT Sport 1 HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2094.m3u8
-#EXTINF:-1,UK | BT Sport 2 HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2096.m3u8
-#EXTINF:-1,UK | BT Sport 3 HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/2098.m3u8
-#EXTINF:-1,UK INDIA | B4U Music
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/46182.m3u8
-#EXTINF:-1,UK INDIA | B4U Movies
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/46184.m3u8
-
-#EXTINF:-1,USA | MTV CLASSIC
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/119398.m3u8
-#EXTINF:-1,USA | MTV LIVE
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/119399.m3u8
-#EXTINF:-1,USA | MTV U
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/69148.m3u8
-#EXTINF:-1,USA | BBC World News
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/69285.m3u8
-#EXTINF:-1,USA | CNN HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/69273.m3u8
-#EXTINF:-1,USA | CNN INTERNATIONAL HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/69092.m3u8
-#EXTINF:-1,USA | NBCSN
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/107592.m3u8
-#EXTINF:-1,US REGIONALS | NBCSN HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/108492.m3u8
-#EXTINF:-1,BS | beIN SPORT-11 4K
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/43515.m3u8
-#EXTINF:-1,BS | beIN SPORT-12 4K
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/43516.m3u8
-#EXTINF:-1,BS | beIN SPORT-13 4K
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/43514.m3u8
-
-#EXTINF:-1,IN | Zee Cinema HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/48223.m3u8
-#EXTINF:-1,IN | Bflix Movies
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/48232.m3u8
-#EXTINF:-1,IN | Star Sports Select 1 HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/48240.m3u8
-#EXTINF:-1,IN | Star Sports Select 2 HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/48239.m3u8
-#EXTINF:-1,IN | Star Movies HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/48243.m3u8
-#EXTINF:-1,IN | Hbo HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/48276.m3u8
-#EXTINF:-1,IN | &Tv HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/48323.m3u8
-#EXTINF:-1,IN | &Prive HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/48324.m3u8
-#EXTINF:-1,IN | &Pictures HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/48325.m3u8
-#EXTINF:-1,IN | &Flix HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/48326.m3u8
-#EXTINF:-1,IN | & Pictures HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/48331.m3u8
-#EXTINF:-1,IN | Star Sports Select 1 HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/57309.m3u8
-#EXTINF:-1,IN | Star Sports Select 2 HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/57308.m3u8
-#EXTINF:-1,IN | Zee Cinema HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/57323.m3u8
-#EXTINF:-1,IN | Romedy Now
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/99982.m3u8
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=2064
+#EXTINF:-1,Muzika | MTV Dance
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=98058
+#EXTINF:-1,Muzika | MTV Classic
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=116164
+#EXTINF:-1,Muzika | MTV Hits
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=98059
+#EXTINF:-1,Muzika | MTV Music
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=98060
+#EXTINF:-1,Muzika | MTV Rock
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=116168
+#EXTINF:-1,UK INDIA | Zee Cinema FHD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=46175
 #EXTINF:-1,UK INDIA | Sony Max FHD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/46177.m3u8
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=46177
+#EXTINF:-1,UK INDIA | AND PICTURES HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=75768
+#EXTINF:-1,UK INDIA | B4U Movies
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=46184
+#EXTINF:-1,UK INDIA | Zee Cinema HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43328
+#EXTINF:-1,UK INDIA | Zee Cinema
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=84211
 #EXTINF:-1,UK INDIA | Sony Max HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/43341.m3u8
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43341
 #EXTINF:-1,UK INDIA | Sony Max 
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/43340.m3u8
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43340
+#EXTINF:-1,USA | MTV FHD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=69244
+#EXTINF:-1,USA | MTV 2 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=69242
+#EXTINF:-1,USA | MTV CLASSIC
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=119398
+#EXTINF:-1,USA | MTV LIVE
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=119399
+#EXTINF:-1,USA | MTV U
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=69148
+#EXTINF:-1,USA | NBCSN
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=107592
+#EXTINF:-1,US REGIONALS | NBCSN HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=108492
+#EXTINF:-1,IN | Zee Cinema HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=48223
+#EXTINF:-1,IN | Ten 1 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=48231
+#EXTINF:-1,IN | Ten 2 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=48230
+#EXTINF:-1,IN | Ten 3 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=48228
+#EXTINF:-1,IN | SONY SIX HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=48267
+#EXTINF:-1,IN | Bflix Movies
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=48232
+#EXTINF:-1,IN | Star Sports Select 1 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=48240
+#EXTINF:-1,IN | Star Sports Select 2 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=48239
+#EXTINF:-1,IN | Star Movies HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=48243
+#EXTINF:-1,IN | Star Movies Select HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=101594
+#EXTINF:-1,IN | Star Gold Select HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=48245
 #EXTINF:-1,IN | Sony Max HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/48249.m3u8
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=48249
 #EXTINF:-1,IN | Sony Max (USA)
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/48328.m3u8
-#EXTINF:-1,IN | Sony Max HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/57299.m3u8
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=48328
 #EXTINF:-1,IN | SONY MAX 2
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/84961.m3u8
-
-#EXTINF:-1,SAF | SuperSport Psl
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/57204.m3u8
-#EXTINF:-1,SAF | SuperSport Cricket
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/57206.m3u8
-#EXTINF:-1,SAF | SuperSport Football
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/57207.m3u8
-#EXTINF:-1,SAF | SuperSport LaLiga
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/57212.m3u8
-#EXTINF:-1,SAF | SuperSport Rugby
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/57214.m3u8
-#EXTINF:-1,SAF | SuperSports GOLF HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/120124.m3u8
-
-#EXTINF:-1,MY | Cinemax HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/121697.m3u8
-#EXTINF:-1,MY | HBO HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/121728.m3u8
-#EXTINF:-1,MY | Hits Movies HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/121732.m3u8
-#EXTINF:-1 group-title="*91.208*",MY | KBS World HD
-http://nomorecable.eu:80/live/xDJixN4wBE/ARBX8u86XM/121734.m3u8
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=84961
+#EXTINF:-1,IN | Sony Pix HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=77260
+#EXTINF:-1,IN | &Tv HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=48323
+#EXTINF:-1,IN | &Prive HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=48324
+#EXTINF:-1,IN | &Pictures HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=48325
+#EXTINF:-1,IN | & Pictures HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=48331
+#EXTINF:-1,IN | &Flix HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=48326
+#EXTINF:-1,IN | MN PLUS HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=91945
+#EXTINF:-1,IN | Romedy Now
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=99982
+#EXTINF:-1,BS | beINsport HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43413
+#EXTINF:-1,BS | bein sport UHD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43426
+#EXTINF:-1,BS | beIN Sport1 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43428
+#EXTINF:-1,BS | beIN Sport1 HD+
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43429
+#EXTINF:-1,BS | beIN Sport2 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43433
+#EXTINF:-1,BS | beIN Sport2 HD+
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43434
+#EXTINF:-1,BS | beIN Sport4 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43439
+#EXTINF:-1,BS | beIN Sport4 HD+
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43440
+#EXTINF:-1,BS | beIN Sport5 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43442
+#EXTINF:-1,BS | beIN Sport5 HD+
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43443
+#EXTINF:-1,BS | beIN Sport6 hd
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43444
+#EXTINF:-1,BS | beIN Sport6 HD+
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43445
+#EXTINF:-1,BS | beIN Sport7 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43447
+#EXTINF:-1,BS | beIN Sport7 HD+
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43448
+#EXTINF:-1,BS | beIN Sport8 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43451
+#EXTINF:-1,BS | beIN Sport8 HD+
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43452
+#EXTINF:-1,BS | beIN Sport9 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43454
+#EXTINF:-1,BS | beIN Sport9 HD+
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43455
+#EXTINF:-1,BS | beIN SPORT10 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43424
+#EXTINF:-1,BS | beIN Sport10 HD+
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43431
+#EXTINF:-1,BS | beIN Sport6 UHD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43446
+#EXTINF:-1,BS | Bein-Sport 9 FHD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43475
+#EXTINF:-1,BS | bein-Sport10 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43457
+#EXTINF:-1,BS | BEINSPORT 6 FH
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43499
+#EXTINF:-1,BS | BEIN SPORT 6 FUHD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43500
+#EXTINF:-1,BS | BEINSPORT 8 FH
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43507
+#EXTINF:-1,BS | BEINSPORT 8 FHD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43505
+#EXTINF:-1,BS | BEINSPORT 6 FHD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43498
+#EXTINF:-1,BS | bein sport 8 FUHD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43466
+#EXTINF:-1,BS | BEINSPORT 9 FH
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43509
+#EXTINF:-1,BS | BEINSPORT 9 FHD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43510
+#EXTINF:-1,BS | BEIN SPORT9 FUHD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43508
+#EXTINF:-1,BS | beIN SPORT-1 720
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43427
+#EXTINF:-1,BS | beIN SPORT-2 720
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43432
+#EXTINF:-1,BS | beIN SPORT-3 720
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43438
+#EXTINF:-1,BS | beIN SPORT-4 720
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43425
+#EXTINF:-1,BS | beIN SPORT-5 720
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43441
+#EXTINF:-1,BS | beIN SPORT-6 720
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43465
+#EXTINF:-1,BS | beIN SPORT-7 720
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43449
+#EXTINF:-1,BS | beIN SPORT-8 720
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43450
+#EXTINF:-1,BS | beIN SPORT-9 720
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43453
+#EXTINF:-1,BS | beIN SPORT-10 720
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43430
+#EXTINF:-1,BS | beIN SPORT-1 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43415
+#EXTINF:-1,BS | beIN SPORT-2 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43416
+#EXTINF:-1,BS | beIN SPORT-3 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43417
+#EXTINF:-1,BS | beIN SPORT-4 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43418
+#EXTINF:-1,BS | beIN SPORT-5 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43419
+#EXTINF:-1,BS | beIN SPORT-6 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43420
+#EXTINF:-1,BS | beIN SPORT-7 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43421
+#EXTINF:-1,BS | beIN SPORT-8 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43422
+#EXTINF:-1,BS | beIN SPORT-9 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43423
+#EXTINF:-1,BS | beIN SPORT-10 HD
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43414
+#EXTINF:-1,BS | beIN SPORT-1 4K
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43456
+#EXTINF:-1,BS | beIN SPORT-2 4K
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43458
+#EXTINF:-1,BS | beIN SPORT-3 4K
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43461
+#EXTINF:-1,BS | beIN SPORT-4 4K
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43462
+#EXTINF:-1,BS | beIN SPORT-5 4K
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43476
+#EXTINF:-1,BS | beIN SPORT-6 4K
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43472
+#EXTINF:-1,BS | beIN SPORT-7 4K
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43463
+#EXTINF:-1,BS | beIN SPORT-8 4K
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43464
+#EXTINF:-1,BS | beIN SPORT-9 4K
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43474
+#EXTINF:-1,BS | beIN SPORT-10 4K
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43467
+#EXTINF:-1,BS | beIN SPORT-11 4K
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43515
+#EXTINF:-1,BS | beIN SPORT-12 4K
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43516
+#EXTINF:-1 group-title="*91.208*",BS | beIN SPORT-13 4K
+http://nomorecable.eu:80/streaming/clients_live.php?extension=m3u8&username=xDJixN4wBE&password=ARBX8u86XM&stream=43514
 
 + + + + +
 
