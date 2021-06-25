@@ -17732,6 +17732,9 @@ http://5.255.94.248:8080/IN:STAR-SPORTS-HINDI/tracks-v1a1/mono.m3u8?token=JuylOj
 
 + + + + + https://streamer-1.toffeelive.com + + + + +
 
+http://89.41.180.253:8080/INDIA_HINDI/SONY_PAL/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 group-title="toffee",SONY ENT
 https://streamer-1.toffeelive.com/mobile_hls/sony_entertainment/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,SONY SAB
@@ -18970,9 +18973,16 @@ Real Url: edge.multiplay.cl:25461     Status: Active    Created: 21/11/2019 6:10
 + + + + + endoftheworldisnigh.sytes.net:8989 [MTV] + + + + +
 + + + + + flowfhd.xyz:25461 [SEA] + + + + +
 
++ + + + + foctv.xyz:25510 + + + + + SEA CH
+
+http://foctv.xyz:25510/get.php?username=@alaqib&password=C9vOtBPfQ2&type=m3u
+Real Url: foctv.xyz:25510     Status: Active    Created: 8/5/2021 4:21:18 AM     Expires: 8/12/2021 4:00:00 PM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
 + + + + + forevertv.me:8080 + + + + + null + + + 
 
 http://linux-app.tv:8080/get.php?username=Iptvtree&password=He73ghh&type=m3u < forevertv.me:8080 < null < 500-299 < to check
+
+http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/235.m3u8
 
 
 + + + + + futurenew.dyndns.tv:15800 + + + + +
