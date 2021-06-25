@@ -18493,6 +18493,7 @@ http://195.154.156.91:80/get.php?username=EuroS@t&password=BAFXdj8hCW&type=m3u <
 http://207.244.239.77:25461/get.php?username=free&password=free&type=m3u
 Real Url: 207.244.239.77:25461     Status: Active    Created: 17/4/2021 3:20:54 PM     Expires: Null    Active Connections: 10     Maximum Connections: 99999 < DOWN
 
+
 + + + + + 209.145.54.100:25461 + + + + + Null + + + + + DOWN
 
 http://209.145.54.100:25461/get.php?username=tm-114-live&password=tm4.xyz&type=m3u Expires: Null    Active Connections: 2     Maximum Connections: 3333 < N
@@ -18506,6 +18507,7 @@ Real Url: 209.145.54.100:25461     Status: Active    Created: 18/5/2021 8:57:59 
 
 http://tm4.sytes.net:25461/get.php?username=2021-tm4.xyz-20012&password=tm4.xyz&type=m3u
 Real Url: 209.145.54.100:25461     Status: Active    Created: 4/5/2021 10:10:54 PM     Expires: Null    Active Connections: 1     Maximum Connections: 70     Formats: "m3u8","ts","rtmp" < BANNED
+
 
 + + + + + 209.145.58.109:25461 + + + + + Null + + + + + DOWN
 
@@ -18551,12 +18553,13 @@ Real Url: 209.222.101.100:25461     Status: Active    Created: 10/10/2020 11:25:
 http://supersonictv.live:25461/get.php?username=dalvin&password=dalvin&type=m3u
 Real Url: 209.222.101.100:25461     Status: Banned    Created: 3/6/2020 3:34:15 AM     Expires: 13/12/2021 5:34:43 PM    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
 
+
 + + + + + 8018.mine.nu:9900 + + + + + DOWN
 
 http://8018.mine.nu:9900/get.php?username=mytvonline&password=pa3w0qg0do&type=m3u
 Real Url: 8018.mine.nu:9900     Status: Active    Created: 20/11/2019 4:17:45 PM     Expires: Null    Active Connections: 369     Maximum Connections: 0     Formats: "m3u8","ts","rtmp" < DOWN
 
-http://8018.mine.nu:9900/amigotv-EX/Kad63VOqpl/16577
+http://8018.mine.nu:9900/amigotv-EX/Kad63VOqpl/16577 < DOWN
 
 
 + + + + + 1sn.ns1.name:18800 + + + + +
@@ -18566,9 +18569,11 @@ http://1sn.ns1.name:18800/get.php?username=fadilh66SkypeExYuVeryGood2017Started&
 http://1sn.ns1.name:18800/get.php?username=TG@udashboardRussiaSwedenLocal&password=uxhEaUZA&type=m3u
 Real Url: 1sn.ns1.name:18800     Status: Active    Created: 21/9/2020 10:57:58 PM     Expires: Null    Active Connections: 33     Maximum Connections: 30     Formats: "m3u8","ts","rtmp"
 
+
 + + + + + albiptv.org:8000 + + + + +
 
 http://albiptv.org:8000/get.php?username=Fuat11&password=Fuat11&type=m3u Expires: Null Connections: 4-7
+
 
 + + + + + aloka-iptv.xyz:80 + + + + +
 
@@ -18583,13 +18588,13 @@ Real Url: aloka-iptv.xyz:80     Status: Active    Created: 1/5/2021 3:00:24 PM  
 
 http://ankastream.com:8080/get.php?username=kortez-skype&password=B2if3NRDHdcP&type=m3u Expires: Null    Active Connections: 958     Maximum Connections: 1000 < DOWN
 
+
 + + + + + appstv.us:25461 + + + + + Max Con: 0
 
 http://appstv.us:25461/get.php?username=1&password=2&type=m3u
 Real Url: 104.192.101.58:25461     Status: Active    Created: 29/12/2020 3:46:47 AM     Expires: Null Connections: 0-0 <xxx + movies < DOWN?
 
 http://appstv.us:25461/streaming/clients_live.php?extension=m3u8&username=1&password=2&stream=15452&type=hls
-
 
 NA Brazzers http://appstv.us:25461/live/1/2/181.m3u8
 NA Dusk http://appstv.us:25461/live/1/2/182.m3u8
@@ -18618,10 +18623,11 @@ NA INT: sex http://appstv.us:25461/live/1/2/3963.m3u8
 
 http://b1g.me:80/get.php?username=devin&password=devin&type=m3u Expires: Null Connections: 1-1 < not play
 
+
 + + + + + basic-iptvesun.com:8080 + + + + + null + + + + +
 
 http://basic-iptvesun.com:8080/get.php?username=carter&password=GUV1bMq2VK&type=m3u
-Real Url: basic-iptvesun.com:8080     Status: Active    Created: 9/10/2019 11:16:18 PM     Expires: Null    Active Connections: 39     Maximum Connections: 50     Formats: "m3u8","ts"
+Real Url: basic-iptvesun.com:8080     Status: Active    Created: 9/10/2019 11:16:18 PM     Expires: Null    Active Connections: 44     Maximum Connections: 50     Formats: "m3u8","ts"
 
 #EXTINF:-1 group-title="basic",AR: Bein Sport 1HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6872
