@@ -17732,8 +17732,9 @@ http://5.255.94.248:8080/IN:STAR-SPORTS-HINDI/tracks-v1a1/mono.m3u8?token=JuylOj
 
 + + + + + https://streamer-1.toffeelive.com + + + + +
 
-
-#EXTINF:-1 group-title="toffee",SONY SAB
+#EXTINF:-1 group-title="toffee",SONY ENT
+https://streamer-1.toffeelive.com/mobile_hls/sony_entertainment/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,SONY SAB
 https://streamer-1.toffeelive.com/mobile_hls/sony_sab/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,SONY MAX
 https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -17755,6 +17756,8 @@ https://streamer-1.toffeelive.com/mobile_hls/sony_ten2/5/04dfcf51f5f17bc7739a41f
 #EXTINF:-1,SONY TEN 3HD
 https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/sony_ten3/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,ZEE ACTION
+https://streamer-1.toffeelive.com/mobile_hls/zee_action/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,ZEE CINEMA
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 group-title="toffee",ZEE TV HD
