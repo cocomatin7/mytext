@@ -18211,17 +18211,18 @@ http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usac
 #EXTINF:-1 group-title="51.91",US: Music Choince - HIT LIST |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18136&type=hls
 
-+ + + + + 51.158.144.144:25461 + + + + + null + + + +
-
++ + + + + 51.158.144.144:25461 + + + + + null + + + + few sports channels
 
 http://51.158.144.144:25461/get.php?username=MetiTV-telegram&password=@Metitv&type=m3u
 Real Url: 51.158.144.144:25461     Status: Active    Created: 19/6/2021 8:14:47 AM     Expires: Null    Active Connections: 17     Maximum Connections: 300     Formats: "m3u8","ts","rtmp"
+
 
 + + + + + 54k.top:8000 + + + + + null + + + +  Max Con: 10000
 
 http://54k.top:8000/get.php?username=to44j&password=oyvee&type=m3u&output=hls < null < < m3u8, ts < 10000-11 < DOWN
 
 http://54k.top:8000/streaming/clients_live.php?extension=m3u8&username=to44j&password=oyvee&stream=15452&type=hls
+
 
 + + + + + 62.182.80.153:80 + + + + + Null + + + + + Max Con: 0
 
@@ -18291,13 +18292,16 @@ Real Url: 62.210.141.53:80     Status: Active    Created: 3/4/2021 2:19:20 PM   
 http://69.10.62.24:25461/get.php?username=ufoDq8XnAO&password=kV3q1gkVRX&type=m3u
 Real Url: 69.10.62.24:25461     Status: Active    Created: 19/4/2021 1:01:49 AM     Expires: Null    Active Connections: 0     Maximum Connections: 5 < few no sports
 
+
 + + + + + 75.119.151.44:25461 + + + + + beIN CH + + + + +
 
 http://75.119.151.44:25461/get.php?username=beinnnnnnnn&password=beinnnnnnnn&type=m3u Expires: Null    Active Connections: 0     Maximum Connections: 1000 < N
 
+
 + + + + + 79.106.35.220:3000 + + + + +
 
 http://79.106.35.220:3000/get.php?username=gentiangjergji&password=genti@gjergji&type=m3u Expires: Null    Active Connections: 0     Maximum Connections: 2 < DOWN
+
 
 + + + + + 79.106.72.90:25461 + + + + +
 
@@ -18312,6 +18316,7 @@ Real Url: 85.203.33.88:80     Status: Active    Created: 23/11/2018 8:20:11 AM  
 http://cloudcdn.tk:8080/get.php?username=Ps1gfW661&password=fTeMeM99&type=m3u
 Real Url: 85.203.33.88:80 Expires: 29/10/2021 6:41:31 PM    Active Connections: 0     Maximum Connections: 1
 http://cloudcdn.tk:8080/get.php?username=wZkgtvQF6G0800&password=aqE7hM928&type=m3u
+
 
 + + + + + 103.22.183.58:8888 [TH] + + + + +
 
@@ -18416,6 +18421,7 @@ http://168.205.87.198:8555/get.php?username=elienecp&password=123456&type=m3u < 
 
 http://173.198.198.102:25461/get.php?username=shahidandroid&password=FeyxFIpoYz&type=m3u Expires: Null Connections: 4000-9     Formats: "ts" < DOWN
 
+
 + + + + + 176.98.26.37:8000 + + + + +
 
 http://176.98.26.37:8000/streaming/clients_live.php?extension=m3u8&username=tivi&password=best&stream=28&type=hls
@@ -18438,6 +18444,7 @@ http://37.26.83.98:1036/get.php?username=speednet&password=netspeed&type=m3u < 1
 
 http://185.38.151.41:15001/get.php?username=5D4FZBLept&password=gnJ1X4dXDi&type=m3u < null < 300-14 < few sports
 
+
 + + + + + 185.226.88.6:1026 + + + + +
 
 http://185.226.88.6:1026/get.php?username=SMYYKzbS0z&password=HRj5TKnrRx&type=m3u < null < 1000-191
@@ -18448,9 +18455,11 @@ http://185.226.88.6:1026/get.php?username=SMYYKzbS0z&password=HRj5TKnrRx&type=m3
  Bunga Bunga http://185.226.88.6:1026/live/SMYYKzbS0z/HRj5TKnrRx/8.m3u8
  Bizarre http://185.226.88.6:1026/live/SMYYKzbS0z/HRj5TKnrRx/9.m3u8
 
+
 + + + + + 188.40.76.108:25461 /mytv01 + + + + +
 
 http://188.40.76.108:25461/get.php?username=mytv01&password=uSIRzmks51&type=m3u [https://rebrand.ly/188-mytv01] < N
+
 
 + + + + + 191.243.149.178:25461 + + + + +
 
@@ -18468,161 +18477,10 @@ http://191.243.149.178:25461/get.php?username=ZANA&password=GOOD&type=m3u
 Real Url: 191.243.149.178:25461     Status: Active    Created: 21/5/2021 9:29:19 PM     Expires: 20/5/2025 11:00:00 PM    Active Connections: 0     Maximum Connections: 100000     Formats: "m3u8","ts","rtmp" < DOWN?
 
 http://191.243.149.178:25461/get.php?username=SNEAKER_Black&password=ZANA-is-freee&type=m3u
-Real Url: 191.243.149.178:25461     Status: Active    Created: 13/6/2021 11:28:53 AM     Expires: 12/7/2021 11:00:00 PM    Active Connections: 5     Maximum Connections: 600     Formats: "m3u8","ts"
+Real Url: 191.243.149.178:25461     Status: Active    Created: 13/6/2021 11:28:53 AM     Expires: 12/7/2021 11:00:00 PM    Active Connections: 5     Maximum Connections: 600     Formats: "m3u8","ts" < DOWN
 
 http://191.243.149.178:25461/get.php?username=ASMTV&password=iptv&type=m3u
-Real Url: 191.243.149.178:25461     Status: Active    Created: 24/6/2021 10:11:02 PM     Expires: 23/7/2021 11:00:00 PM    Active Connections: 3     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp" << share to bamarTV
-
-
-#EXTINF:-1 group-title="191.243",BeIN MAX 1 4K
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3481
-#EXTINF:-1,BeIN MAX 2 4K
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3482
-#EXTINF:-1,BeIN MAX 3 4K
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3483
-#EXTINF:-1,BeIN MAX 4 4K
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3484
-#EXTINF:-1,BeIN MAX 5 4K
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3485
-#EXTINF:-1,BeIN MAX 5 4K
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3478
-#EXTINF:-1,BeIN MAX 6 4K
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3486
-#EXTINF:-1,BeIN MAX 6 4K
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3480
-#EXTINF:-1,BeIN MAX 1 HD
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3469
-#EXTINF:-1,BeIN MAX 2 HD
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3471
-#EXTINF:-1,BeIN MAX 3 HD
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3473
-#EXTINF:-1,BeIN MAX 4 HD
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3475
-#EXTINF:-1,BeIN MAX 5 HD
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3477
-#EXTINF:-1,BeIN MAX 6 HD
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3479
-#EXTINF:-1,BeIN MAX 1 SD
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3470
-#EXTINF:-1,BeIN MAX 2 SD
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3472
-#EXTINF:-1,BeIN MAX 3 SD
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3474
-#EXTINF:-1,BeIN MAX 4 SD
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3476
-#EXTINF:-1,BeIN 1F fr
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3492
-#EXTINF:-1,BeIN 2F fr
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3493
-#EXTINF:-1,BeIN 3F fr
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3494
-#EXTINF:-1,BeIN 1 HD fr
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3489
-#EXTINF:-1,BeIN 2 HD fr
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3490
-#EXTINF:-1,BeIN 3 HD fr
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3491
-#EXTINF:-1,BeIN MAX  1F
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3488
-#EXTINF:-1,BeIN MAX  2F
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3487
-
-#EXTINF:-1,BeIN Sport Max SD 1
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=2686
-#EXTINF:-1,bein max HD 1
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3138
-#EXTINF:-1,bein max HD 2
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3139
-#EXTINF:-1,bein max HD 3
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3140
-#EXTINF:-1,BeIN Sport Max SD 4
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=2937
-#EXTINF:-1,bein max HD 4
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3141
-#EXTINF:-1,BeIN Sport Max HD 6
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=2687
-#EXTINF:-1,bein5_Max 1M
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=2920
-#EXTINF:-1,bein4_max 1M
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=2921
-#EXTINF:-1,bein3_max 1M
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=2922
-#EXTINF:-1,bein2_max 1M
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=2923
-#EXTINF:-1,bein1_max 1M
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=2924
-#EXTINF:-1,bein_max6 low
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=2925
-#EXTINF:-1,bein_max5 low
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=2926
-#EXTINF:-1,bein_max4 low
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=2927
-#EXTINF:-1,bein_max3 low
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=2928
-#EXTINF:-1,bein_max2 low
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=2929
-#EXTINF:-1,bein_max1 low
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=2930
-#EXTINF:-1,bein_max1 1200k
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=2931
-#EXTINF:-1,bein_max2 1200k
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=2932
-#EXTINF:-1,bein_max5 1200k
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=2933
-#EXTINF:-1,bein_max1 1200k
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=2934
-#EXTINF:-1,BEIN PREMIUM 1_HD
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3186
-#EXTINF:-1,BEIN PREMIUM 2_HD
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3187
-#EXTINF:-1,BEIN SPORTS 3HD
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3188
-#EXTINF:-1,BEIN SPORTS 4HD
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3189
-#EXTINF:-1,BEIN SPORTS 5HD
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3190
-#EXTINF:-1,BEIN SPORTS 6HD
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3191
-#EXTINF:-1,BEIN SPORTS 7HD
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3192
-#EXTINF:-1,Bein Sport 1_low
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3196
-#EXTINF:-1,Bein Sport 2_low
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3197
-#EXTINF:-1,Bein Sport 3_low
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3198
-#EXTINF:-1,Bein Sport 4_low
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3199
-#EXTINF:-1,Bein Sport 5_low
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3200
-#EXTINF:-1,Bein Sport 6_low
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3201
-#EXTINF:-1,Bein Sport 7_low
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3202
-#EXTINF:-1,fr-beinsport1-low
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3204
-#EXTINF:-1,fr-beinsport2-low
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3205
-#EXTINF:-1,fr-beinsport3-low
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3206
-#EXTINF:-1,fr-beinmax5
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3208
-#EXTINF:-1,fr-beinmax6
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3209
-#EXTINF:-1,fr-beinmax7
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3210
-#EXTINF:-1,Canalplus Sports
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3211
-#EXTINF:-1,Canal+
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3212
-#EXTINF:-1,RMC sport 1
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3213
-#EXTINF:-1,RMC sport 2
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3214
-#EXTINF:-1,RMC sport 3
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3215
-#EXTINF:-1 group-title="191.243",BEIN_SPORTS_MAX 1HD
-http://191.243.149.178:25461/streaming/clients_live.php?extension=ts&username=SNEAKER_Black&password=ZANA-is-freee&stream=3454
+Real Url: 191.243.149.178:25461     Status: Active    Created: 24/6/2021 10:11:02 PM     Expires: 23/7/2021 11:00:00 PM    Active Connections: 3     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp" < few sports channels
 
 
 + + + + + 195.154.156.91:80 + + + + + Null + + + + +
