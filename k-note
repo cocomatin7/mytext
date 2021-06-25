@@ -21179,7 +21179,7 @@ http://sonyiptv.net:8080/streaming/clients_live.php?extension=ts&username=prasad
 #EXTINF:-1 group-title="sony",& TV UHD
 http://sonyiptv.net:8080/streaming/clients_live.php?extension=ts&username=prasadind&password=1234&stream=147749
 #EXTINF:-1,ZEE CINEMA UHD
-http://sonyiptv.net:8080/streaming/clients_live.php?extension=ts&username=prasadind&password=1234&stream=147750
+http://sonyiptv.net:8080/live/prasadind/password=1234/147750.m3u8
 #EXTINF:-1,STAR GOLD UHD
 http://sonyiptv.net:8080/streaming/clients_live.php?extension=ts&username=prasadind&password=1234&stream=147751
 #EXTINF:-1,STAR GOLD SELECT UHD
