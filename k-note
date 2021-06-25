@@ -18110,32 +18110,7 @@ Real Url: 2.56.215.148:25461     Status: Active    Created: 14/10/2020 8:45:02 P
 
 http://5.254.20.52:8080/get.php?username=2665&password=2665&type=m3u < beIN < N
 
-+ + + + + 51.91.73.99:25461 + + + + + FR+DE+US + + not play
-
-http://51.91.73.99:25461/get.php?username=usachannel&password=ngZnG8PD5i&type=m3u
-Real Url: 51.91.73.99:25461     Status: Active    Created: 30/5/2020 8:38:00 AM     Expires: Null    Active Connections: 4     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
-
-+ + + + + 85.203.33.88:80 / clientportal + + + + +
-
-http://clientportal.link:80/get.php?username=ARopcevic&password=BOjHUm997&type=m3u
-Real Url: 85.203.33.88:80     Status: Active    Created: 23/11/2018 8:20:11 AM     Expires: 15/12/2021 8:20:10 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
-
-http://cloudcdn.tk:8080/get.php?username=Ps1gfW661&password=fTeMeM99&type=m3u
-Real Url: 85.203.33.88:80 Expires: 29/10/2021 6:41:31 PM    Active Connections: 0     Maximum Connections: 1
-http://cloudcdn.tk:8080/get.php?username=wZkgtvQF6G0800&password=aqE7hM928&type=m3u
-
-+ + + + + 103.22.183.58:8888 [TH] + + + + +
-
-http://103.22.183.58:8888/get.php?username=WM2Dw8CZH8&password=crUYcV9ZBK&type=m3u < N
-
-+ + + + + 103.136.43.127:8080 [SEA] + + + + +
-
-http://103.136.43.127:8080/get.php?username=12997&password=b5093454&type=m3u < N
-
-+ + + + + 185.8.176.227:25461 [IN] + + + + +
-
-http://185.226.88.3:1036/get.php?username=backup&password=backup&type=m3u < 10.14.16.36:1036 < null < 1-0 < no porpular sports
-http://37.26.83.98:1036/get.php?username=speednet&password=netspeed&type=m3u < 10.14.16.36:1036 < null < 1000-10 < no sports
++ + + + + 2.56.215.148:25461 + + + + +
 
 http://2.56.215.148:25461/get.php?username=test&password=test&type=m3u Expires: Null    Active Connections: 0     Maximum Connections: 0 < AR < not play
 
@@ -18328,13 +18303,35 @@ http://79.106.35.220:3000/get.php?username=gentiangjergji&password=genti@gjergji
 
 http://79.106.72.90:25461/get.php?username=giga&password=net&type=m3u Expires: Null    Active Connections: 96     Maximum Connections: 1000 < No Sports
 
+
++ + + + + 85.203.33.88:80 / clientportal + + + + +
+
+http://clientportal.link:80/get.php?username=ARopcevic&password=BOjHUm997&type=m3u
+Real Url: 85.203.33.88:80     Status: Active    Created: 23/11/2018 8:20:11 AM     Expires: 15/12/2021 8:20:10 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://cloudcdn.tk:8080/get.php?username=Ps1gfW661&password=fTeMeM99&type=m3u
+Real Url: 85.203.33.88:80 Expires: 29/10/2021 6:41:31 PM    Active Connections: 0     Maximum Connections: 1
+http://cloudcdn.tk:8080/get.php?username=wZkgtvQF6G0800&password=aqE7hM928&type=m3u
+
++ + + + + 103.22.183.58:8888 [TH] + + + + +
+
+http://103.22.183.58:8888/get.php?username=WM2Dw8CZH8&password=crUYcV9ZBK&type=m3u < N
+
+
 + + + + + 103.135.208.14:80 [IN] + + + + +
 
 http://103.135.208.14/get.php?username=ibox&password=bd&type=m3u < N
 
+
++ + + + + 103.136.43.127:8080 [SEA] + + + + +
+
+http://103.136.43.127:8080/get.php?username=12997&password=b5093454&type=m3u < N
+
+
 + + + + + 104.218.61.161:83 + + + + +
 
 http://104.218.61.161:83/get.php?username=directline76598&password=35222AM0203424421468352020&type=m3u < N
+
 
 + + + + + 144.76.86.51:57060 + + + + + null + + + xxx
 
@@ -18429,6 +18426,12 @@ http://176.9.31.213:7080/get.php?username=live_channel&password=e71sq94uo8&type=
 + + + + + http://176.170.240.98:9981/extjs.html + + + + + file:///config/amin2020.m3u + + +
 
 http://176.170.240.98:9981/playlist/channels < to check later
+
+
++ + + + + 185.8.176.227:25461 [IN] + + + + +
+
+http://185.226.88.3:1036/get.php?username=backup&password=backup&type=m3u < 10.14.16.36:1036 < null < 1-0 < no porpular sports
+http://37.26.83.98:1036/get.php?username=speednet&password=netspeed&type=m3u < 10.14.16.36:1036 < null < 1000-10 < no sports
 
 
 + + + + + 185.38.151.41:15001 + + + + +
