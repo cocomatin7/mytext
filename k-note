@@ -189,8 +189,13 @@ https://rebrand.ly/cmax-mm
 #EXTINF:-1 tvg-id="CINEMAX (HD)", CINEMAX |test
 https://raw.githubusercontent.com/bestcommt2/FuckID/master/cinemax.m3u8
 
+
+
+http://www.tettv.diradjafm.com/m3u/CINEMAX-TETtv.m3u8
 #EXTINF:-1 tvg-id="HBO HD", HBO |tettv
 http://www.tettv.diradjafm.com/m3u/HBOsig-TETtv.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="HBO HD", HBO |mm
@@ -20989,17 +20994,17 @@ http://sonyiptv.net:8080/get.php?username=prasadind&password=1234&type=m3u < 27/
 http://sonyiptv.net:8080/streaming/clients_live.php?extension=ts&username=prasadind&password=1234&stream=
 
 
-#EXTINF:-1 group-title="sony",& TV UHD
+#EXTINF:-1 group-title="sony",& TV UHD |sony
 http://sonyiptv.net:8080/streaming/clients_live.php?extension=m3u8&username=prasadind&password=1234&stream=147749&type=hls
-#EXTINF:-1,ZEE CINEMA UHD
+#EXTINF:-1,ZEE CINEMA UHD |sony
 http://sonyiptv.net:8080/streaming/clients_live.php?extension=m3u8&username=prasadind&password=1234&stream=147750&type=hls
-#EXTINF:-1,STAR GOLD UHD
+#EXTINF:-1,STAR GOLD UHD |sony
 http://sonyiptv.net:8080/streaming/clients_live.php?extension=m3u8&username=prasadind&password=1234&stream=147751&type=hls
-#EXTINF:-1,STAR GOLD SELECT UHD
+#EXTINF:-1,STAR GOLD SELECT UHD |sony
 http://sonyiptv.net:8080/streaming/clients_live.php?extension=m3u8&username=prasadind&password=1234&stream=147752&type=hls
-#EXTINF:-1,SONY MAX UHD
+#EXTINF:-1,SONY MAX UHD |sony
 http://sonyiptv.net:8080/streaming/clients_live.php?extension=m3u8&username=prasadind&password=1234&stream=147753&type=hls
-#EXTINF:-1,& PICTURE UHD
+#EXTINF:-1,& PICTURE UHD |sony
 http://sonyiptv.net:8080/streaming/clients_live.php?extension=m3u8&username=prasadind&password=1234&stream=147754&type=hls
 #EXTINF:-1,CINEPLEX UHD
 http://sonyiptv.net:8080/streaming/clients_live.php?extension=m3u8&username=prasadind&password=1234&stream=147755&type=hls
@@ -21193,15 +21198,15 @@ http://sonyiptv.net:8080/streaming/clients_live.php?extension=m3u8&username=pras
 http://sonyiptv.net:8080/streaming/clients_live.php?extension=m3u8&username=prasadind&password=1234&stream=157173
 #EXTINF:-1,IN: Star Movies Select HD
 http://sonyiptv.net:8080/streaming/clients_live.php?extension=m3u8&username=prasadind&password=1234&stream=157174
-#EXTINF:-1,IN: Bflix Movies
+#EXTINF:-1,IN: Bflix Movies |sony
 http://sonyiptv.net:8080/streaming/clients_live.php?extension=m3u8&username=prasadind&password=1234&stream=157190
-#EXTINF:-1,IN: MN+ HD
+#EXTINF:-1,IN: MN+ HD |sony
 http://sonyiptv.net:8080/streaming/clients_live.php?extension=m3u8&username=prasadind&password=1234&stream=157289
-#EXTINF:-1,IN: Movies Now HD
+#EXTINF:-1,IN: Movies Now HD |sony
 http://sonyiptv.net:8080/streaming/clients_live.php?extension=m3u8&username=prasadind&password=1234&stream=157290
-#EXTINF:-1,IN: ZEE CINEMA HD
+#EXTINF:-1,IN: ZEE CINEMA HD |sony
 http://sonyiptv.net:8080/streaming/clients_live.php?extension=m3u8&username=prasadind&password=1234&stream=157400
-#EXTINF:-1 group-title="sony",IN: ZEE Cinemalu HD
+#EXTINF:-1 group-title="sony",IN: ZEE Cinemalu HD |sony
 http://sonyiptv.net:8080/streaming/clients_live.php?extension=m3u8&username=prasadind&password=1234&stream=157401
 
 + + + + + speccy.pw:8008 + + + + +
