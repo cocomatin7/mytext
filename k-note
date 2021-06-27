@@ -17601,15 +17601,15 @@ http://5.255.94.248:8080/IN:STAR-SPORTS-HINDI/tracks-v1a1/mono.m3u8?token=JuylOj
 http://89.41.180.253:8080/INDIA_HINDI/SONY_PAL/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="toffee",SONY ENT
+#EXTINF:-1 group-title="toffee",SONY ENT |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_entertainment/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY SAB
+#EXTINF:-1,SONY SAB |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_sab/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY MAX
+#EXTINF:-1,SONY MAX |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY MAX2
+#EXTINF:-1,SONY MAX2 |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_max_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY PIX
+#EXTINF:-1,SONY PIX |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_pix/1/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/sony_pix/3/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/sony_pix/4/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -17622,9 +17622,9 @@ https://streamer-1.toffeelive.com/mobile_hls/sony_pix/9/04dfcf51f5f17bc7739a41f2
 
 https://streamer-1.toffeelive.com/mobile_hls/sony_yay/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
-#EXTINF:-1,SONY SIX HD
+#EXTINF:-1,SONY SIX HD |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_six_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY SIX
+#EXTINF:-1,SONY SIX |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_six/1/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/sony_six/2/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/sony_six/3/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -17635,9 +17635,9 @@ https://streamer-1.toffeelive.com/mobile_hls/sony_six/7/04dfcf51f5f17bc7739a41f2
 https://streamer-1.toffeelive.com/mobile_hls/sony_six/8/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/sony_six/9/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
-#EXTINF:-1,SONY TEN 1HD
+#EXTINF:-1,SONY TEN 1HD |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_ten1_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY TEN1
+#EXTINF:-1,SONY TEN1 |tf
 https://streamer-1.toffeelive.com/mobile_hls/ten_1/4/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/ten_1/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/ten_1/8/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -17649,9 +17649,9 @@ OFFLINE https://streamer-1.toffeelive.com/mobile_hls/ten_1/7/04dfcf51f5f17bc7739
 OFFLINE https://streamer-1.toffeelive.com/mobile_hls/ten_1/9/04dfcf51f5f17bc7739a41f294e2adbb/auto
 OFFLINE https://streamer-1.toffeelive.com/mobile_hls/ten_1/10/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
-#EXTINF:-1,SONY TEN 2HD
+#EXTINF:-1,SONY TEN 2HD |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_ten2_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY TEN2
+#EXTINF:-1,SONY TEN2 |tf
 https://streamer-1.toffeelive.com/mobile_hls/ten_2/1/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/ten_2/4/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/ten_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -17662,9 +17662,9 @@ https://streamer-1.toffeelive.com/mobile_hls/ten_2/3/04dfcf51f5f17bc7739a41f294e
 https://streamer-1.toffeelive.com/mobile_hls/ten_2/6/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/ten_2/9/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
-#EXTINF:-1,SONY TEN 3HD
+#EXTINF:-1,SONY TEN 3HD |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY TEN3
+#EXTINF:-1,SONY TEN3 |tf
 https://streamer-1.toffeelive.com/mobile_hls/ten_3/1/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/ten_3/2/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/ten_3/3/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -17675,9 +17675,9 @@ https://streamer-1.toffeelive.com/mobile_hls/ten_3/6/04dfcf51f5f17bc7739a41f294e
 https://streamer-1.toffeelive.com/mobile_hls/ten_3/8/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/ten_3/9/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
-#EXTINF:-1,ZEE ACTION
+#EXTINF:-1,ZEE ACTION |tf
 https://streamer-1.toffeelive.com/mobile_hls/zee_action/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,ZEE CINEMA
+#EXTINF:-1,ZEE CINEMA ME |tf
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/1/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/3/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -17687,10 +17687,18 @@ https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/8/04dfcf51f5f17bc7739a41
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/2/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/6/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/9/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,ZEE TV HD
+#EXTINF:-1,ZEE TV HD |tf
 https://streamer-1.toffeelive.com/mobile_hls/zee_tv_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 http://streamwat.ch/custom/player/#
+http://103.17.181.43/download_counter.php?url=
+https://ritesh.ch/miniproxy/miniproxy.php/
+
+http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZEE CINEMA |208
+http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="toffee",SONY SIX |down
 https://streamer-1.toffeelive.com/mobile_hls/six/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
