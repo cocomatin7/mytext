@@ -8,6 +8,10 @@ http://streamwat.ch/custom/player/#https://www.dropbox.com/s/dl/o4mn66m5w7xgc7c/
 https://ritesh.ch/miniproxy/miniproxy.php/
 http://xlx723.dyndns.org/iproxy/miniProxy.php/
 
+
+
+
+
 https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ef5fd6c6d048943f7583351_hbovodhd/dash0/MYS_index.mpd
 
 
@@ -17609,7 +17613,16 @@ https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f2
 #EXTINF:-1,SONY MAX2
 https://streamer-1.toffeelive.com/mobile_hls/sony_max_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,SONY PIX
+https://streamer-1.toffeelive.com/mobile_hls/sony_pix/1/04dfcf51f5f17bc7739a41f294e2adbb/auto
+https://streamer-1.toffeelive.com/mobile_hls/sony_pix/3/04dfcf51f5f17bc7739a41f294e2adbb/auto
+https://streamer-1.toffeelive.com/mobile_hls/sony_pix/4/04dfcf51f5f17bc7739a41f294e2adbb/auto
+https://streamer-1.toffeelive.com/mobile_hls/sony_pix/2/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/sony_pix/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+https://streamer-1.toffeelive.com/mobile_hls/sony_pix/6/04dfcf51f5f17bc7739a41f294e2adbb/auto
+https://streamer-1.toffeelive.com/mobile_hls/sony_pix/7/04dfcf51f5f17bc7739a41f294e2adbb/auto
+https://streamer-1.toffeelive.com/mobile_hls/sony_pix/8/04dfcf51f5f17bc7739a41f294e2adbb/auto
+https://streamer-1.toffeelive.com/mobile_hls/sony_pix/9/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
 https://streamer-1.toffeelive.com/mobile_hls/sony_yay/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1,SONY SIX HD
@@ -17627,7 +17640,7 @@ https://streamer-1.toffeelive.com/mobile_hls/sony_six/9/04dfcf51f5f17bc7739a41f2
 
 #EXTINF:-1,SONY TEN 1HD
 https://streamer-1.toffeelive.com/mobile_hls/sony_ten1_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY TEN1*
+#EXTINF:-1,SONY TEN1
 https://streamer-1.toffeelive.com/mobile_hls/ten_1/4/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/ten_1/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/ten_1/8/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -17677,10 +17690,12 @@ https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/8/04dfcf51f5f17bc7739a41
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/2/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/6/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/9/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 group-title="toffee",ZEE TV HD
+#EXTINF:-1,ZEE TV HD
 https://streamer-1.toffeelive.com/mobile_hls/zee_tv_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
-#EXTINF:-1,SONY SIX |down
+http://streamwat.ch/custom/player/#https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 group-title="toffee",SONY SIX |down
 https://streamer-1.toffeelive.com/mobile_hls/six/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/six_1/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
