@@ -19237,7 +19237,7 @@ Real Url: goiptv.co:8080     Status: Active    Created: 7/5/2021 10:17:45 AM    
 + + + + + goiptv.life:8080 + + + + + 
 
 http://goiptv.life:8080/get.php?username=MALIS-FO&password=MZjFmAGWxvKKKKKKK&type=m3u
-Real Url: goiptv.life:8080     Status: Active    Created: 3/12/2020 9:19:03 AM     Expires: Null    Active Connections: 0     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp"
+Real Url: goiptv.life:8080     Status: Active    Created: 3/12/2020 9:19:03 AM     Expires: Null    Active Connections: 0     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp" < series only
 
 #EXTINF:-1,MY: AFN HD
 http://goiptv.life:8080/MALIS-FO/MZjFmAGWxvKKKKKKK/39398
