@@ -857,24 +857,6 @@ https://tvlive.rtsh.dev/live/sport_ott_ppp2/playlist.m3u8
 #EXTINF:-1,tico sports
 https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/index.m3u8
 
-#EXTINF:-1,SONY TEN1HD
-https://streamer-1.toffeelive.com/mobile_hls/sony_ten1_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY TEN2HD
-https://streamer-1.toffeelive.com/mobile_hls/sony_ten2_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY TEN3HD
-https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY SIXHD
-https://streamer-1.toffeelive.com/mobile_hls/sony_six_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-
-#EXTINF:-1,SONY TEN1*
-https://streamer-1.toffeelive.com/mobile_hls/ten_1/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY TEN2
-https://streamer-1.toffeelive.com/mobile_hls/ten_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY TEN3
-https://streamer-1.toffeelive.com/mobile_hls/ten_3/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY SIX |down
-https://streamer-1.toffeelive.com/mobile_hls/six/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-https://streamer-1.toffeelive.com/mobile_hls/six_1/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 http://185.180.221.194:8278/streams/d/Fightsports/playlist.m3u8
 http://89.187.185.100/WWE/index.m3u8
@@ -17656,6 +17638,21 @@ https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/6/04dfcf51f5f17bc7739a41
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/9/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 group-title="toffee",ZEE TV HD
 https://streamer-1.toffeelive.com/mobile_hls/zee_tv_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1,SONY TEN1HD
+#EXTINF:-1,SONY TEN2HD
+#EXTINF:-1,SONY TEN3HD
+#EXTINF:-1,SONY SIXHD
+
+#EXTINF:-1,SONY TEN1*
+https://streamer-1.toffeelive.com/mobile_hls/ten_1/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,SONY TEN2
+https://streamer-1.toffeelive.com/mobile_hls/ten_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,SONY TEN3
+https://streamer-1.toffeelive.com/mobile_hls/ten_3/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,SONY SIX |down
+https://streamer-1.toffeelive.com/mobile_hls/six/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+https://streamer-1.toffeelive.com/mobile_hls/six_1/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 + + + + + https://f8e7y4c6.ssl.hwcdn.net + + + + +
 
