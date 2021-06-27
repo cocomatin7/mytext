@@ -9,9 +9,6 @@ https://ritesh.ch/miniproxy/miniproxy.php/
 http://xlx723.dyndns.org/iproxy/miniProxy.php/
 
 
-
-
-
 https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ef5fd6c6d048943f7583351_hbovodhd/dash0/MYS_index.mpd
 
 
@@ -21373,6 +21370,56 @@ Real Url: tugapt.top:8080     Status: Active    Created: 13/5/2021 1:09:43 AM   
 
 http://tv.dansk.live:8080/get.php?username=resell&password=nKTVSaaJ6f&type=m3u
 Real Url: tv.dansk.live:8080     Status: Active    Created: 23/5/2021 2:30:26 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1000     Formats: "ts" < DOWN
+
+http://tv.dansk.live:8080/get.php?username=T5ZYdgzEc6&password=3qYGesgNaG&type=m3u
+Real Url: tv.dansk.live:8080     Status: Active    Created: 26/6/2021 3:16:13 PM     Expires: Null    Active Connections: 1     Maximum Connections: 10000     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="dansk",Boomerang
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/32.m3u8
+#EXTINF:-1,Cartoon Network
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/33.m3u8
+#EXTINF:-1,Discovery Channel
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/34.m3u8
+#EXTINF:-1,Discovery Science
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/35.m3u8
+#EXTINF:-1,Disney Channel
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/36.m3u8
+#EXTINF:-1,Eurosport 1
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/38.m3u8
+#EXTINF:-1,Eurosport 2
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/39.m3u8
+#EXTINF:-1,MTV
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/43.m3u8
+#EXTINF:-1,MTV 80s
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/44.m3u8
+#EXTINF:-1,MTV 90s
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/105.m3u8
+#EXTINF:-1,MTV Hits
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/113.m3u8
+#EXTINF:-1,National Geographic
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/45.m3u8
+#EXTINF:-1,National Geographic Wild
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/46.m3u8
+#EXTINF:-1,Nickelodeon
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/47.m3u8
+#EXTINF:-1,Paramount Network
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/48.m3u8
+#EXTINF:-1,VH1
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/76.m3u8
+#EXTINF:-1,Disney Jr
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/77.m3u8
+#EXTINF:-1,Nicktoons
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/78.m3u8
+#EXTINF:-1,Nick Jr
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/79.m3u8
+#EXTINF:-1,History Channel
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/81.m3u8
+#EXTINF:-1,History Channel 2
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/82.m3u8
+#EXTINF:-1,BBC World News
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/88.m3u8
+#EXTINF:-1 group-title="dansk",Travel Channel
+http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/107.m3u8
 
 
 + + + + + tv.e55.xyz:2095 + + + + +
