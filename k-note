@@ -20739,6 +20739,8 @@ http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=223543&type=hls
 #EXTINF:-1,Optus 2 HD
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=223302&type=hls
+#EXTINF:-1,Optus 4  HD
+http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=223304
 #EXTINF:-1,Astro Super Sport 1 HD
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=241164&type=hls
 #EXTINF:-1,Astro Super Sport 2 HD
@@ -20795,16 +20797,7 @@ http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251235&type=hls
 #EXTINF:-1,beIN Sports En Espanol
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251237&type=hls
-#EXTINF:-1,Now HK Premier Sports 1
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251261&type=hls
-#EXTINF:-1,Now HK Premier Sports 2
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251260&type=hls
-#EXTINF:-1,Now HK Premier Sports 3
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251259&type=hls
-#EXTINF:-1,Now HK Premier Sports 4
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251258&type=hls
-#EXTINF:-1,Now HK Premier Sports 5
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251257&type=hls
+
 #EXTINF:-1,SuperSport Premier League HD
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=241140&type=hls
 #EXTINF:-1,SuperSport Football HD
@@ -20889,6 +20882,7 @@ http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=276622&type=hls
 #EXTINF:-1,SuperSport Variety 3
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=276623&type=hls
+
 #EXTINF:-1,EUR1. Netherlands v Czech Republic 5.00pm
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=222692&type=hls
 #EXTINF:-1,EUR2. 
@@ -20909,54 +20903,6 @@ http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=248739&type=hls
 #EXTINF:-1,COP2. Venezuela v Peru 10.00pm
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=249048&type=hls
-#EXTINF:-1,AR- BeIN Sports FHD 1
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251919&type=hls
-#EXTINF:-1,AR- BeIN Sports FHD 10
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251920&type=hls
-#EXTINF:-1,AR- BeIN Sports FHD 11 EN
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251921&type=hls
-#EXTINF:-1,AR- BeIN Sports FHD 12 EN
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251922&type=hls
-#EXTINF:-1,AR- BeIN Sports FHD 13 EN
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251923&type=hls
-#EXTINF:-1,AR- BeIN Sports FHD 14 FR
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251924&type=hls
-#EXTINF:-1,AR- BeIN Sports FHD 15 FR
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251925&type=hls
-#EXTINF:-1,AR- BeIN Sports FHD 16 FR
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251926&type=hls
-#EXTINF:-1,AR- BeIN Sports FHD 2
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251927&type=hls
-#EXTINF:-1,AR- BeIN Sports FHD 3
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251928&type=hls
-#EXTINF:-1,AR- BeIN Sports FHD 4
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251929&type=hls
-#EXTINF:-1,AR- BeIN Sports FHD 5
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251930&type=hls
-#EXTINF:-1,AR- BeIN Sports FHD 6
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251931&type=hls
-#EXTINF:-1,AR- BeIN Sports FHD 7
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251932&type=hls
-#EXTINF:-1,AR- BeIN Sports FHD 8
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251933&type=hls
-#EXTINF:-1,AR- BeIN Sports FHD 9
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251934&type=hls
-#EXTINF:-1,AR- BeIN Sports HD 1
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251935&type=hls
-#EXTINF:-1,AR- BeIN Sports HD 2
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251936&type=hls
-#EXTINF:-1,AR- BeIN Sports HD 3
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251937&type=hls
-#EXTINF:-1,AR- BeIN Sports HD 4
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251938&type=hls
-#EXTINF:-1,AR- BeIN Sports HD 5
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251939&type=hls
-#EXTINF:-1,AR- BeIN Sports HD 6
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251940&type=hls
-#EXTINF:-1,AR- BeIN Sports HD 7
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251941&type=hls
-#EXTINF:-1,AR- BeIN Sports HD 8
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=251942&type=hls
 
 #EXTINF:-1,&pictures
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=273102&type=hls
@@ -21118,16 +21064,6 @@ http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=287321&type=hls
 #EXTINF:-1,Peacock TV 5
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=287322&type=hls
-#EXTINF:-1,Peacock TV 6
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=287323&type=hls
-#EXTINF:-1,Peacock TV 7
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=287324&type=hls
-#EXTINF:-1,Peacock TV 8
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=287325&type=hls
-#EXTINF:-1,Peacock TV 9
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=287326&type=hls
-#EXTINF:-1,Peacock TV 10
-http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=287327&type=hls
 
 #EXTINF:-1,USA beIN Sports UHD
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=249794&type=hls
