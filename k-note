@@ -5,6 +5,7 @@ to check <<
 http://api.queroassistir.tv:80/vod/marcos26/marcos26/series/max/14896.mp4
 
 
+http://qqtv.nl:8080/sword/sword/30238
 
 
 offline http://scontent.1xcdn.xyz/j2/Ten1_HD_HLS.m3u8
@@ -7353,6 +7354,65 @@ http://185.180.221.194:8278/streams/d/Suntv/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Zeetamil/playlist.m3u8
+
+#EXTINF:-1,Foxhd
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-1,Foxlife
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:-1,Foxcrime
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:-1,Foxfamily
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:-1,Foxactionhd
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1,Foxmovie
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1,astro supersport 1
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1,astro supersport 2
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1,astro supersport 3
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1,astro supersport 4
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1,Astro Ria
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1,Astro Wlt
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1,Astro Huahee
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1,Astro AEC
+http://185.180.221.194:8278/streams/d/AEC/playlist.m3u8
+#EXTINF:-1,Xinhe
+http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1,National Geographic Wild
+http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1,Ohk
+http://185.180.221.194:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1,Bernama
+http://185.180.221.194:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1,RTM Sport
+http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+#EXTINF:-1,astro Ceria
+http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1,KBS WORLD
+http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
+#EXTINF:-1,Qiyi
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+#EXTINF:-1,Aod
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1,ZEE Tamil HD
+http://185.180.221.194:8278/streams/d/Zeetamil/playlist.m3u8
+#EXTINF:-1,SUN TV
+http://185.180.221.194:8278/streams/d/Suntv/playlist.m3u8
+#EXTINF:-1,Zee Tv(TEST)
+http://185.180.221.194:8278/streams/d/Zeetvhd/playlist.m3u8
+#EXTINF:-1,Zee Actions(TEST)
+http://185.180.221.194:8278/streams/d/Zeeaction/playlist.m3u8
+#EXTINF:-1 group-title="185.180",Color Hd(TEST)
+http://185.180.221.194:8278/streams/d/Colorhd/playlist.m3u8
 
 + + + + + http://196.53.249.42:9981/extjs.html / https://rebrand.ly/sn-hd-196 + + + + + DOWN
 
@@ -20267,7 +20327,8 @@ https://jo.sarhantv.com:443/get.php?username=sarhanapp&password=wwe5151&type=m3u
 + + + + + live.fauconteam.com:8080 + + + + + null + + + DOWN
 
 http://live.fauconteam.com:8080/get.php?username=Amigotv_online&password=gNCQEXF40sC2&type=m3u Expires: Null Connections: 1000-821 < DOWN
-
+http://live.fauconteam.com:8080/get.php?username=Amigotv_online&password=aC1wShg1&type=m3u
+Real Url: live.fauconteam.com:8080     Status: Active    Created: 12/12/2019 4:13:22 PM     Expires: Null    Active Connections: 317     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp" << 
 
 + + + + + maxx-iptv10.ddns.net:8080 + + + + +
 
@@ -22169,6 +22230,12 @@ http://streamx.link:8080/get.php?username=NvxBXobrQj&password=fRPdh3UVHc&type=m3
 + + + + + supertexasiptv.ddns.net:8000 + + + + +
 
 http://supertexasiptv.ddns.net:8000/get.php?username=bktv.xyz&password=qLqJNcj9rd&type=m3u < N
+
++ + + + + techking.uk:2095 + + + + +
+
+http://techking.uk:2095/get.php?username=tomasaranaex&password=ZBv5nzhthk6ApcWc&type=m3u
+Real Url: techking.uk:2095     Status: Active    Created: 9/6/2020 6:34:39 PM     Expires: Null    Active Connections: 171     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
+
 
 + + + + + thespeedmedia.watch:2086 + + + + +
 
