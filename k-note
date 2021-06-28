@@ -5,10 +5,6 @@ to check <<
 http://api.queroassistir.tv:80/vod/marcos26/marcos26/series/max/14896.mp4
 
 
-http://qqtv.nl:8080/get.php?username=sword&password=sword&type=m3u < 29/07/21 < 2-1
-http://mytv.fun:808/get.php?username=828ek2bb7g&password=padet80m3v&type=m3u < DOWN?
-
-
 
 
 
@@ -20565,6 +20561,8 @@ Real Url: mynxg.top:8080     Status: Active    Created: 10/10/2020 9:51:30 PM   
 http://myskype.eu:8880/get.php?username=pachoescobar&password=fn0lBc1Sjk&type=m3u
 Real Url: myskype.eu:8880     Status: Active    Created: 1/11/2019 12:31:24 PM     Expires: Null    Active Connections: 7     Maximum Connections: 50     Formats: "m3u8","ts"
 
+http://mytv.fun:808/get.php?username=828ek2bb7g&password=padet80m3v&type=m3u < DOWN?
+
 + + + + + new-pro.tv:8080 + + + + + null + + + DOWN
 
 http://new-pro.tv:8080/get.php?username=live:diplomatmobstar&password=restream494862&type=m3u
@@ -21208,6 +21206,9 @@ http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username
 
 http://qqtv.nl:8080/get.php?username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&type=m3u&output=hls < null < 1100-1006 < xxx
 http://54.39.158.38:8080/get.php?username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&type=m3u
+
+http://qqtv.nl:8080/get.php?username=sword&password=sword&type=m3u < 29/07/21 < 2-1
+
 
 #EXTINF:-1 group-title="qqtv",..CNBC HD
 http://qqtv.nl:8080/streaming/clients_live.php?extension=ts&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=7872
