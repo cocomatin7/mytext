@@ -20671,6 +20671,471 @@ Real Url: pulsestreams.ddns.me:8080     Status: Active    Created: 27/2/2021 2:2
 
 http://pulsestreaming.uk:8080/get.php?username=88888&password=99999&type=m3u < 21/02/2022 < 4-1 < Optus
 
+#EXTINF:-1 group-title="pulse",Optus 1 HD
+http://pulsestreaming.uk:8080/live/88888/99999/223543.m3u8
+#EXTINF:-1,Optus 2 HD
+http://pulsestreaming.uk:8080/live/88888/99999/223302.m3u8
+#EXTINF:-1,Astro Super Sport 1 HD
+http://pulsestreaming.uk:8080/live/88888/99999/241164.m3u8
+#EXTINF:-1,Astro Super Sport 2 HD
+http://pulsestreaming.uk:8080/live/88888/99999/241165.m3u8
+#EXTINF:-1,Astro Super Sport 4 HD
+http://pulsestreaming.uk:8080/live/88888/99999/241166.m3u8
+#EXTINF:-1,Astro Super Sport 3 HD
+http://pulsestreaming.uk:8080/live/88888/99999/287835.m3u8
+#EXTINF:-1,Astro ARENA
+http://pulsestreaming.uk:8080/live/88888/99999/290851.m3u8
+#EXTINF:-1,Astro beIN MAX
+http://pulsestreaming.uk:8080/live/88888/99999/290846.m3u8
+#EXTINF:-1,Astro beIN Sports
+http://pulsestreaming.uk:8080/live/88888/99999/290847.m3u8
+#EXTINF:-1,Astro beIN Sports Max 1
+http://pulsestreaming.uk:8080/live/88888/99999/290848.m3u8
+#EXTINF:-1,Astro beIN Sports Max 2
+http://pulsestreaming.uk:8080/live/88888/99999/290849.m3u8
+#EXTINF:-1,Astro beIN Sports Max 3
+http://pulsestreaming.uk:8080/live/88888/99999/290850.m3u8
+#EXTINF:-1,beIN Sports 1 English FHD
+http://pulsestreaming.uk:8080/live/88888/99999/251226.m3u8
+#EXTINF:-1,beIN Sports 1 English HD
+http://pulsestreaming.uk:8080/live/88888/99999/285004.m3u8
+#EXTINF:-1,beIN Sports 1 English 
+http://pulsestreaming.uk:8080/live/88888/99999/251238.m3u8
+#EXTINF:-1,beIN Sports 2 English FHD
+http://pulsestreaming.uk:8080/live/88888/99999/251227.m3u8
+#EXTINF:-1,beIN Sports 2 English HD
+http://pulsestreaming.uk:8080/live/88888/99999/285003.m3u8
+#EXTINF:-1,beIN Sports 2 English 
+http://pulsestreaming.uk:8080/live/88888/99999/251239.m3u8
+#EXTINF:-1,beIN Sports 3 English FHD
+http://pulsestreaming.uk:8080/live/88888/99999/251228.m3u8
+#EXTINF:-1,beIN Sports 3 English HD
+http://pulsestreaming.uk:8080/live/88888/99999/285002.m3u8
+#EXTINF:-1,beIN Sports 3 English
+http://pulsestreaming.uk:8080/live/88888/99999/251253.m3u8
+#EXTINF:-1,beIN La Liga TV 
+http://pulsestreaming.uk:8080/live/88888/99999/251229.m3u8
+#EXTINF:-1,beIN Sports Canada
+http://pulsestreaming.uk:8080/live/88888/99999/251236.m3u8
+#EXTINF:-1,beIN Sports USA
+http://pulsestreaming.uk:8080/live/88888/99999/251230.m3u8
+#EXTINF:-1,beIN Sports 4 USA
+http://pulsestreaming.uk:8080/live/88888/99999/251231.m3u8
+#EXTINF:-1,beIN Sports 5 USA
+http://pulsestreaming.uk:8080/live/88888/99999/251232.m3u8
+#EXTINF:-1,beIN Sports 6 USA
+http://pulsestreaming.uk:8080/live/88888/99999/251233.m3u8
+#EXTINF:-1,beIN Sports 7 USA
+http://pulsestreaming.uk:8080/live/88888/99999/251234.m3u8
+#EXTINF:-1,beIN Sports 8 USA
+http://pulsestreaming.uk:8080/live/88888/99999/251235.m3u8
+#EXTINF:-1,beIN Sports En Espanol
+http://pulsestreaming.uk:8080/live/88888/99999/251237.m3u8
+#EXTINF:-1,Now HK Premier Sports 1
+http://pulsestreaming.uk:8080/live/88888/99999/251261.m3u8
+#EXTINF:-1,Now HK Premier Sports 2
+http://pulsestreaming.uk:8080/live/88888/99999/251260.m3u8
+#EXTINF:-1,Now HK Premier Sports 3
+http://pulsestreaming.uk:8080/live/88888/99999/251259.m3u8
+#EXTINF:-1,Now HK Premier Sports 4
+http://pulsestreaming.uk:8080/live/88888/99999/251258.m3u8
+#EXTINF:-1,Now HK Premier Sports 5
+http://pulsestreaming.uk:8080/live/88888/99999/251257.m3u8
+#EXTINF:-1,SuperSport Premier League HD
+http://pulsestreaming.uk:8080/live/88888/99999/241140.m3u8
+#EXTINF:-1,SuperSport Football HD
+http://pulsestreaming.uk:8080/live/88888/99999/241135.m3u8
+#EXTINF:-1,SuperSport Football
+http://pulsestreaming.uk:8080/live/88888/99999/241153.m3u8
+#EXTINF:-1,SuperSport Action HD
+http://pulsestreaming.uk:8080/live/88888/99999/241136.m3u8
+#EXTINF:-1,SuperSport Action
+http://pulsestreaming.uk:8080/live/88888/99999/241150.m3u8
+#EXTINF:-1,SuperSport Blitz HD
+http://pulsestreaming.uk:8080/live/88888/99999/241144.m3u8
+#EXTINF:-1,SuperSport Blitz
+http://pulsestreaming.uk:8080/live/88888/99999/241151.m3u8
+#EXTINF:-1,SuperSport Cricket HD
+http://pulsestreaming.uk:8080/live/88888/99999/241131.m3u8
+#EXTINF:-1,SuperSport Cricket
+http://pulsestreaming.uk:8080/live/88888/99999/241152.m3u8
+#EXTINF:-1,SuperSport Golf HD
+http://pulsestreaming.uk:8080/live/88888/99999/241134.m3u8
+#EXTINF:-1,SuperSport Golf
+http://pulsestreaming.uk:8080/live/88888/99999/241154.m3u8
+#EXTINF:-1,SuperSport Grandstand HD
+http://pulsestreaming.uk:8080/live/88888/99999/241139.m3u8
+#EXTINF:-1,SuperSport Grandstand
+http://pulsestreaming.uk:8080/live/88888/99999/241155.m3u8
+#EXTINF:-1,SuperSport La Liga HD
+http://pulsestreaming.uk:8080/live/88888/99999/241142.m3u8
+#EXTINF:-1,SuperSport Motorsport HD
+http://pulsestreaming.uk:8080/live/88888/99999/241147.m3u8
+#EXTINF:-1,SuperSport Motorsport
+http://pulsestreaming.uk:8080/live/88888/99999/241156.m3u8
+#EXTINF:-1,SuperSport MáXimo HD
+http://pulsestreaming.uk:8080/live/88888/99999/241143.m3u8
+#EXTINF:-1,SuperSport MáXimo
+http://pulsestreaming.uk:8080/live/88888/99999/241157.m3u8
+#EXTINF:-1,SuperSport Play HD
+http://pulsestreaming.uk:8080/live/88888/99999/241148.m3u8
+#EXTINF:-1,SuperSport Play
+http://pulsestreaming.uk:8080/live/88888/99999/241158.m3u8
+#EXTINF:-1,SuperSport PSL HD
+http://pulsestreaming.uk:8080/live/88888/99999/241141.m3u8
+#EXTINF:-1,SuperSport PSL
+http://pulsestreaming.uk:8080/live/88888/99999/241159.m3u8
+#EXTINF:-1,SuperSport Rugby HD
+http://pulsestreaming.uk:8080/live/88888/99999/241132.m3u8
+#EXTINF:-1,SuperSport Rugby
+http://pulsestreaming.uk:8080/live/88888/99999/241160.m3u8
+#EXTINF:-1,SuperSport Tennis HD
+http://pulsestreaming.uk:8080/live/88888/99999/241133.m3u8
+#EXTINF:-1,SuperSport Tennis
+http://pulsestreaming.uk:8080/live/88888/99999/241161.m3u8
+#EXTINF:-1,SuperSport Variety 1 HD
+http://pulsestreaming.uk:8080/live/88888/99999/241137.m3u8
+#EXTINF:-1,SuperSport Variety 2 HD
+http://pulsestreaming.uk:8080/live/88888/99999/241138.m3u8
+#EXTINF:-1,SuperSport Variety 2
+http://pulsestreaming.uk:8080/live/88888/99999/241162.m3u8
+#EXTINF:-1,SuperSport Variety 3
+http://pulsestreaming.uk:8080/live/88888/99999/241163.m3u8
+#EXTINF:-1,SuperSport Events 1 HD
+http://pulsestreaming.uk:8080/live/88888/99999/241145.m3u8
+#EXTINF:-1,SuperSport Events 2 HD
+http://pulsestreaming.uk:8080/live/88888/99999/241146.m3u8
+#EXTINF:-1,SuperSport Variety 3 HD
+http://pulsestreaming.uk:8080/live/88888/99999/241149.m3u8
+#EXTINF:-1,SuperSport Premier League SD
+http://pulsestreaming.uk:8080/live/88888/99999/276616.m3u8
+#EXTINF:-1,SuperSport Football SD
+http://pulsestreaming.uk:8080/live/88888/99999/276615.m3u8
+#EXTINF:-1,SuperSport La Liga SD
+http://pulsestreaming.uk:8080/live/88888/99999/276617.m3u8
+#EXTINF:-1,SuperSport Action SD
+http://pulsestreaming.uk:8080/live/88888/99999/276620.m3u8
+#EXTINF:-1,SuperSport Granstand SD
+http://pulsestreaming.uk:8080/live/88888/99999/276619.m3u8
+#EXTINF:-1,SuperSport PSL SD
+http://pulsestreaming.uk:8080/live/88888/99999/276618.m3u8
+#EXTINF:-1,SuperSport Variety 1 SD
+http://pulsestreaming.uk:8080/live/88888/99999/276621.m3u8
+#EXTINF:-1,SuperSport Variety 2 SD
+http://pulsestreaming.uk:8080/live/88888/99999/276622.m3u8
+#EXTINF:-1,SuperSport Variety 3
+http://pulsestreaming.uk:8080/live/88888/99999/276623.m3u8
+#EXTINF:-1,EUR1. Netherlands v Czech Republic 5.00pm
+http://pulsestreaming.uk:8080/live/88888/99999/222692.m3u8
+#EXTINF:-1,EUR2. 
+http://pulsestreaming.uk:8080/live/88888/99999/222693.m3u8
+#EXTINF:-1,EUR3. SD Netherlands v Czech Republic 5.00pm
+http://pulsestreaming.uk:8080/live/88888/99999/279060.m3u8
+#EXTINF:-1,EUR4. Belgium v Portugal 8.00pm
+http://pulsestreaming.uk:8080/live/88888/99999/279061.m3u8
+#EXTINF:-1,EUR5. Belgium v Portugal 8.00pm
+http://pulsestreaming.uk:8080/live/88888/99999/279062.m3u8
+#EXTINF:-1,EUR6. SD Belgium v Portugal 8.00pm
+http://pulsestreaming.uk:8080/live/88888/99999/279073.m3u8
+#EXTINF:-1,EUR7. 
+http://pulsestreaming.uk:8080/live/88888/99999/279074.m3u8
+#EXTINF:-1,EUR8.
+http://pulsestreaming.uk:8080/live/88888/99999/289034.m3u8
+#EXTINF:-1,COP1. Brazil v Ecuador 10.00pm
+http://pulsestreaming.uk:8080/live/88888/99999/248739.m3u8
+#EXTINF:-1,COP2. Venezuela v Peru 10.00pm
+http://pulsestreaming.uk:8080/live/88888/99999/249048.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 1
+http://pulsestreaming.uk:8080/live/88888/99999/251919.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 10
+http://pulsestreaming.uk:8080/live/88888/99999/251920.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 11 EN
+http://pulsestreaming.uk:8080/live/88888/99999/251921.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 12 EN
+http://pulsestreaming.uk:8080/live/88888/99999/251922.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 13 EN
+http://pulsestreaming.uk:8080/live/88888/99999/251923.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 14 FR
+http://pulsestreaming.uk:8080/live/88888/99999/251924.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 15 FR
+http://pulsestreaming.uk:8080/live/88888/99999/251925.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 16 FR
+http://pulsestreaming.uk:8080/live/88888/99999/251926.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 2
+http://pulsestreaming.uk:8080/live/88888/99999/251927.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 3
+http://pulsestreaming.uk:8080/live/88888/99999/251928.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 4
+http://pulsestreaming.uk:8080/live/88888/99999/251929.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 5
+http://pulsestreaming.uk:8080/live/88888/99999/251930.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 6
+http://pulsestreaming.uk:8080/live/88888/99999/251931.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 7
+http://pulsestreaming.uk:8080/live/88888/99999/251932.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 8
+http://pulsestreaming.uk:8080/live/88888/99999/251933.m3u8
+#EXTINF:-1,AR- BeIN Sports FHD 9
+http://pulsestreaming.uk:8080/live/88888/99999/251934.m3u8
+#EXTINF:-1,AR- BeIN Sports HD 1
+http://pulsestreaming.uk:8080/live/88888/99999/251935.m3u8
+#EXTINF:-1,AR- BeIN Sports HD 2
+http://pulsestreaming.uk:8080/live/88888/99999/251936.m3u8
+#EXTINF:-1,AR- BeIN Sports HD 3
+http://pulsestreaming.uk:8080/live/88888/99999/251937.m3u8
+#EXTINF:-1,AR- BeIN Sports HD 4
+http://pulsestreaming.uk:8080/live/88888/99999/251938.m3u8
+#EXTINF:-1,AR- BeIN Sports HD 5
+http://pulsestreaming.uk:8080/live/88888/99999/251939.m3u8
+#EXTINF:-1,AR- BeIN Sports HD 6
+http://pulsestreaming.uk:8080/live/88888/99999/251940.m3u8
+#EXTINF:-1,AR- BeIN Sports HD 7
+http://pulsestreaming.uk:8080/live/88888/99999/251941.m3u8
+#EXTINF:-1,AR- BeIN Sports HD 8
+http://pulsestreaming.uk:8080/live/88888/99999/251942.m3u8
+
+#EXTINF:-1,&pictures
+http://pulsestreaming.uk:8080/live/88888/99999/273102.m3u8
+#EXTINF:-1,&pictures HD
+http://pulsestreaming.uk:8080/live/88888/99999/272847.m3u8
+#EXTINF:-1,&tv HD
+http://pulsestreaming.uk:8080/live/88888/99999/273034.m3u8
+#EXTINF:-1,B4U Movies
+http://pulsestreaming.uk:8080/live/88888/99999/272854.m3u8
+#EXTINF:-1,MN+ HD
+http://pulsestreaming.uk:8080/live/88888/99999/273042.m3u8
+#EXTINF:-1,MNX HD
+http://pulsestreaming.uk:8080/live/88888/99999/273043.m3u8
+#EXTINF:-1,Movies Now HD
+http://pulsestreaming.uk:8080/live/88888/99999/273096.m3u8
+#EXTINF:-1,MTV Beats HD
+http://pulsestreaming.uk:8080/live/88888/99999/273085.m3u8
+#EXTINF:-1,MTV HD+
+http://pulsestreaming.uk:8080/live/88888/99999/273084.m3u8
+#EXTINF:-1,SONY  MAX
+http://pulsestreaming.uk:8080/live/88888/99999/273112.m3u8
+#EXTINF:-1,SONY MAX 2
+http://pulsestreaming.uk:8080/live/88888/99999/272855.m3u8
+#EXTINF:-1,SONY MAX HD
+http://pulsestreaming.uk:8080/live/88888/99999/272916.m3u8
+#EXTINF:-1,SONY PIX HD
+http://pulsestreaming.uk:8080/live/88888/99999/272980.m3u8
+#EXTINF:-1,SONY SIX HD
+http://pulsestreaming.uk:8080/live/88888/99999/272921.m3u8
+#EXTINF:-1,SONY TEN 1 HD
+http://pulsestreaming.uk:8080/live/88888/99999/272983.m3u8
+#EXTINF:-1,SONY TEN 2 HD
+http://pulsestreaming.uk:8080/live/88888/99999/273023.m3u8
+#EXTINF:-1,SONY TEN 3 HD
+http://pulsestreaming.uk:8080/live/88888/99999/273060.m3u8
+#EXTINF:-1,Star Sports Select 1 HD
+http://pulsestreaming.uk:8080/live/88888/99999/272974.m3u8
+#EXTINF:-1,Star Sports Select 2 HD
+http://pulsestreaming.uk:8080/live/88888/99999/273024.m3u8
+#EXTINF:-1,Zee Cinema
+http://pulsestreaming.uk:8080/live/88888/99999/273101.m3u8
+#EXTINF:-1,Zee Cinema HD
+http://pulsestreaming.uk:8080/live/88888/99999/272914.m3u8
+#EXTINF:-1,IND: &TV HD
+http://pulsestreaming.uk:8080/live/88888/99999/311605.m3u8
+#EXTINF:-1,IND: &EXPLOR HD
+http://pulsestreaming.uk:8080/live/88888/99999/311616.m3u8
+#EXTINF:-1,IND: & PICTURES HD
+http://pulsestreaming.uk:8080/live/88888/99999/311617.m3u8
+#EXTINF:-1,IND: & PICTURES
+http://pulsestreaming.uk:8080/live/88888/99999/311618.m3u8
+#EXTINF:-1,IND: &PRIVE
+http://pulsestreaming.uk:8080/live/88888/99999/311693.m3u8
+#EXTINF:-1,IND: &FLIX
+http://pulsestreaming.uk:8080/live/88888/99999/311694.m3u8
+#EXTINF:-1,IN: & TV HD
+http://pulsestreaming.uk:8080/live/88888/99999/311717.m3u8
+#EXTINF:-1,IN: & PRIVE
+http://pulsestreaming.uk:8080/live/88888/99999/311718.m3u8
+#EXTINF:-1,IND: Movies Now
+http://pulsestreaming.uk:8080/live/88888/99999/311695.m3u8
+#EXTINF:-1,IND: MNX
+http://pulsestreaming.uk:8080/live/88888/99999/311696.m3u8
+#EXTINF:-1,IND: Romedy Now
+http://pulsestreaming.uk:8080/live/88888/99999/311697.m3u8
+#EXTINF:-1,IND: ZEE CINEMA HD
+http://pulsestreaming.uk:8080/live/88888/99999/311619.m3u8
+#EXTINF:-1,IND: ZEE CINEMA SD
+http://pulsestreaming.uk:8080/live/88888/99999/311620.m3u8
+#EXTINF:-1,IND: ZEE CINEMA UK
+http://pulsestreaming.uk:8080/live/88888/99999/311621.m3u8
+#EXTINF:-1,IND: ZEE CINEMA USA
+http://pulsestreaming.uk:8080/live/88888/99999/311622.m3u8
+#EXTINF:-1,IND: SONY MAX
+http://pulsestreaming.uk:8080/live/88888/99999/311627.m3u8
+#EXTINF:-1,IND: SONY MAX HD (UK)
+http://pulsestreaming.uk:8080/live/88888/99999/311628.m3u8
+#EXTINF:-1,IND: SONY MAX 2
+http://pulsestreaming.uk:8080/live/88888/99999/311629.m3u8
+#EXTINF:-1,IND: B4U Plus
+http://pulsestreaming.uk:8080/live/88888/99999/311636.m3u8
+#EXTINF:-1,IND: B4U Movies
+http://pulsestreaming.uk:8080/live/88888/99999/311637.m3u8
+#EXTINF:-1,IND: STAR SPORTS SELECT 1
+http://pulsestreaming.uk:8080/live/88888/99999/311652.m3u8
+#EXTINF:-1,IND: STAR SPORTS SELECT 2
+http://pulsestreaming.uk:8080/live/88888/99999/311653.m3u8
+#EXTINF:-1,IND: SONY SIX SD
+http://pulsestreaming.uk:8080/live/88888/99999/311654.m3u8
+#EXTINF:-1,IND: TEN 1 HD
+http://pulsestreaming.uk:8080/live/88888/99999/311655.m3u8
+#EXTINF:-1,IND: TEN 2 HD
+http://pulsestreaming.uk:8080/live/88888/99999/311656.m3u8
+#EXTINF:-1,IND: TEN 3 HD
+http://pulsestreaming.uk:8080/live/88888/99999/311657.m3u8
+#EXTINF:-1,Sony Max
+http://pulsestreaming.uk:8080/live/88888/99999/224081.m3u8
+#EXTINF:-1,Sony Max
+http://pulsestreaming.uk:8080/live/88888/99999/224082.m3u8
+#EXTINF:-1,SONY MAX 2
+http://pulsestreaming.uk:8080/live/88888/99999/224083.m3u8
+#EXTINF:-1,B4u Movies
+http://pulsestreaming.uk:8080/live/88888/99999/224126.m3u8
+#EXTINF:-1,Sony Max 2
+http://pulsestreaming.uk:8080/live/88888/99999/224127.m3u8
+#EXTINF:-1,& FLIX SD
+http://pulsestreaming.uk:8080/live/88888/99999/224091.m3u8
+#EXTINF:-1,& Tv
+http://pulsestreaming.uk:8080/live/88888/99999/224120.m3u8
+#EXTINF:-1,Zee Cinema SD
+http://pulsestreaming.uk:8080/live/88888/99999/224104.m3u8
+#EXTINF:-1,Zee Cinema
+http://pulsestreaming.uk:8080/live/88888/99999/224124.m3u8
+
+#EXTINF:-1,VH1
+http://pulsestreaming.uk:8080/live/88888/99999/250494.m3u8
+#EXTINF:-1,NOW Music
+http://pulsestreaming.uk:8080/live/88888/99999/250716.m3u8
+#EXTINF:-1,MTV Base
+http://pulsestreaming.uk:8080/live/88888/99999/223344.m3u8
+#EXTINF:-1,MTV Classic
+http://pulsestreaming.uk:8080/live/88888/99999/223345.m3u8
+#EXTINF:-1,MTV Hits
+http://pulsestreaming.uk:8080/live/88888/99999/223346.m3u8
+#EXTINF:-1,MTV Music
+http://pulsestreaming.uk:8080/live/88888/99999/223347.m3u8
+#EXTINF:-1,MTV Love
+http://pulsestreaming.uk:8080/live/88888/99999/223348.m3u8
+#EXTINF:-1,MTV Club
+http://pulsestreaming.uk:8080/live/88888/99999/250718.m3u8
+#EXTINF:-1,MTV Music
+http://pulsestreaming.uk:8080/live/88888/99999/250719.m3u8
+#EXTINF:-1,MTV OMG
+http://pulsestreaming.uk:8080/live/88888/99999/250720.m3u8
+#EXTINF:-1,MTV Rocks
+http://pulsestreaming.uk:8080/live/88888/99999/250721.m3u8
+#EXTINF:-1,NOW Christmas
+http://pulsestreaming.uk:8080/live/88888/99999/223350.m3u8
+#EXTINF:-1,NOW 90s
+http://pulsestreaming.uk:8080/live/88888/99999/223351.m3u8
+#EXTINF:-1,NOW 80s
+http://pulsestreaming.uk:8080/live/88888/99999/223355.m3u8
+#EXTINF:-1,NOW 70's
+http://pulsestreaming.uk:8080/live/88888/99999/223352.m3u8
+
+#EXTINF:-1,NBC Sports Network UHD
+http://pulsestreaming.uk:8080/live/88888/99999/249712.m3u8
+#EXTINF:-1,NBC Sports Network LHD
+http://pulsestreaming.uk:8080/live/88888/99999/249713.m3u8
+#EXTINF:-1,NBC Sports Network HD
+http://pulsestreaming.uk:8080/live/88888/99999/287804.m3u8
+#EXTINF:-1,Peacock TV 1
+http://pulsestreaming.uk:8080/live/88888/99999/287318.m3u8
+#EXTINF:-1,Peacock TV 2
+http://pulsestreaming.uk:8080/live/88888/99999/287319.m3u8
+#EXTINF:-1,Peacock TV 3
+http://pulsestreaming.uk:8080/live/88888/99999/287320.m3u8
+#EXTINF:-1,Peacock TV 4
+http://pulsestreaming.uk:8080/live/88888/99999/287321.m3u8
+#EXTINF:-1,Peacock TV 5
+http://pulsestreaming.uk:8080/live/88888/99999/287322.m3u8
+#EXTINF:-1,Peacock TV 6
+http://pulsestreaming.uk:8080/live/88888/99999/287323.m3u8
+#EXTINF:-1,Peacock TV 7
+http://pulsestreaming.uk:8080/live/88888/99999/287324.m3u8
+#EXTINF:-1,Peacock TV 8
+http://pulsestreaming.uk:8080/live/88888/99999/287325.m3u8
+#EXTINF:-1,Peacock TV 9
+http://pulsestreaming.uk:8080/live/88888/99999/287326.m3u8
+#EXTINF:-1,Peacock TV 10
+http://pulsestreaming.uk:8080/live/88888/99999/287327.m3u8
+
+#EXTINF:-1,USA beIN Sports UHD
+http://pulsestreaming.uk:8080/live/88888/99999/249794.m3u8
+#EXTINF:-1,USA beIN Sports LHD
+http://pulsestreaming.uk:8080/live/88888/99999/249792.m3u8
+#EXTINF:-1,USA beIN Sports SD
+http://pulsestreaming.uk:8080/live/88888/99999/249795.m3u8
+#EXTINF:-1,USA beIN Sports Xtra
+http://pulsestreaming.uk:8080/live/88888/99999/249796.m3u8
+#EXTINF:-1,USA beIN Sports La Liga
+http://pulsestreaming.uk:8080/live/88888/99999/249781.m3u8
+#EXTINF:-1,USA beIN Sports La Liga
+http://pulsestreaming.uk:8080/live/88888/99999/249789.m3u8
+#EXTINF:-1,USA beIN Sports La Liga
+http://pulsestreaming.uk:8080/live/88888/99999/249790.m3u8
+#EXTINF:-1,USA beIN Sports La Liga
+http://pulsestreaming.uk:8080/live/88888/99999/249791.m3u8
+#EXTINF:-1,USA beIN Sports 4
+http://pulsestreaming.uk:8080/live/88888/99999/249782.m3u8
+#EXTINF:-1,USA beIN Sports 5
+http://pulsestreaming.uk:8080/live/88888/99999/249783.m3u8
+#EXTINF:-1,USA beIN Sports 6
+http://pulsestreaming.uk:8080/live/88888/99999/249784.m3u8
+#EXTINF:-1,USA beIN Sports 7
+http://pulsestreaming.uk:8080/live/88888/99999/249785.m3u8
+#EXTINF:-1,USA beIN Sports 8
+http://pulsestreaming.uk:8080/live/88888/99999/249786.m3u8
+#EXTINF:-1,USA beIN Sports en Espanol UHD
+http://pulsestreaming.uk:8080/live/88888/99999/249787.m3u8
+#EXTINF:-1,USA beIN Sports en Espanol LHD
+http://pulsestreaming.uk:8080/live/88888/99999/249788.m3u8
+#EXTINF:-1,USA beIN Sports en Espanol SD
+http://pulsestreaming.uk:8080/live/88888/99999/249793.m3u8
+
+#EXTINF:-1,ZA: SuperSport Action FHD
+http://pulsestreaming.uk:8080/live/88888/99999/292025.m3u8
+#EXTINF:-1,ZA: SuperSport Blitz FHD
+http://pulsestreaming.uk:8080/live/88888/99999/292024.m3u8
+#EXTINF:-1,ZA: SuperSport Cricket FHD
+http://pulsestreaming.uk:8080/live/88888/99999/292023.m3u8
+#EXTINF:-1,ZA: SuperSport Football FHD
+http://pulsestreaming.uk:8080/live/88888/99999/292022.m3u8
+#EXTINF:-1,ZA: SuperSport Golf FHD
+http://pulsestreaming.uk:8080/live/88888/99999/292021.m3u8
+#EXTINF:-1,ZA: SuperSport Grandstand FHD
+http://pulsestreaming.uk:8080/live/88888/99999/292020.m3u8
+#EXTINF:-1,ZA: SuperSport LaLiga FHD
+http://pulsestreaming.uk:8080/live/88888/99999/292019.m3u8
+#EXTINF:-1,ZA: SuperSport Maximo HD
+http://pulsestreaming.uk:8080/live/88888/99999/292018.m3u8
+#EXTINF:-1,ZA: SuperSport MotorSport HD
+http://pulsestreaming.uk:8080/live/88888/99999/292017.m3u8
+#EXTINF:-1,ZA: SuperSport Play HD
+http://pulsestreaming.uk:8080/live/88888/99999/292016.m3u8
+#EXTINF:-1,ZA: SuperSport Premier League FHD
+http://pulsestreaming.uk:8080/live/88888/99999/292015.m3u8
+#EXTINF:-1,ZA: SuperSport PSL FHD
+http://pulsestreaming.uk:8080/live/88888/99999/292014.m3u8
+#EXTINF:-1,ZA: SuperSport Rugby FHD
+http://pulsestreaming.uk:8080/live/88888/99999/292013.m3u8
+#EXTINF:-1,ZA: SuperSport Tennis FHD
+http://pulsestreaming.uk:8080/live/88888/99999/292012.m3u8
+#EXTINF:-1,ZA: SuperSport Variety 1 FHD
+http://pulsestreaming.uk:8080/live/88888/99999/292011.m3u8
+#EXTINF:-1,ZA: SuperSport Variety 2 FHD
+http://pulsestreaming.uk:8080/live/88888/99999/292010.m3u8
+#EXTINF:-1,ZA: SuperSport Variety 3 HD
+http://pulsestreaming.uk:8080/live/88888/99999/292009.m3u8
+#EXTINF:-1,ZA: SuperSport Variety 4 FHD
+http://pulsestreaming.uk:8080/live/88888/99999/292008.m3u8
+#EXTINF:-1 group-title="pulse",ZA: SuperSport WWE FHD
+http://pulsestreaming.uk:8080/live/88888/99999/292007.m3u8
 
 
 + + + + + qqtv.nl:8080 + + + + +
