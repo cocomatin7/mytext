@@ -5,12 +5,10 @@ to check <<
 http://api.queroassistir.tv:80/vod/marcos26/marcos26/series/max/14896.mp4
 
 
-http://qqtv.nl:8080/get.php?username=sword&password=sword&type=m3u < 2-1
+http://qqtv.nl:8080/get.php?username=sword&password=sword&type=m3u < 29/07/21 < 2-1
 http://mytv.fun:808/get.php?username=828ek2bb7g&password=padet80m3v&type=m3u < DOWN?
 
-offline http://scontent.1xcdn.xyz/j2/Ten1_HD_HLS.m3u8
-http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
-http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
+
 
 
 
@@ -1152,7 +1150,12 @@ http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6229/index.m3u8
 
 -/-/-/-/-/-
 
-
+SONY TEN offline 
+http://scontent.1xcdn.xyz/j2/Ten1_HD_HLS.m3u8
+#EXTINF:-1,SONY TEN 2
+http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
+#EXTINF:-1,SONY TEN 3
+http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
 
 -/-/-/-/-
 
