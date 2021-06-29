@@ -18894,6 +18894,11 @@ Real Url: bktv.xyz:8880     Status: Active    Created: 25/1/2021 9:57:55 AM     
 http://bosstr.net:80/get.php?username=cat54&password=DpbYpXOhHn&type=m3u
 Real Url: test.satlok.club:80     Status: Active    Created: 18/1/2019 12:30:51 AM     Expires: Null    Active Connections: 29     Maximum Connections: 30     Formats: "m3u8","ts","rtmp"
 
+http://test.satlok.club:80/get.php?username=testskype1&password=6q60C0QwC4&type=m3u
+Real Url: bosstr.net:80     Status: Active    Created: 7/3/2020 2:04:43 AM     Expires: Null    Active Connections: 284     Maximum Connections: 500     Formats: "m3u8","ts"
+
+
+
 + + + + + box.slweb.tv:8880 + + + + + Max Con: 400
 
 http://box.slweb.tv:8880/get.php?username=Kt2021ex&password=J6kJaZShHcjpmDxw&type=m3u
