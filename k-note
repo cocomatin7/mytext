@@ -20809,7 +20809,7 @@ Real Url: panelxtream.smartseyirhd.de:8080     Status: Active    Created: 11/2/2
 http://lovor.work:5115/get.php?username=HNSIjug2tC&password=oMfTWAyMx6&type=m3u
 Real Url: placa.work:5115     Status: Active    Created: 27/4/2021 3:24:27 PM     Expires: Null    Active Connections: 353     Maximum Connections: 1500     Formats: "ts"
 
-#EXTINF:-1,Sky Sp F1 (UK)
+#EXTINF:-1 group-title="placa",Sky Sp F1 (UK)
 http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2559
 #EXTINF:-1,SkySp Main Event HD (UK)
 http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2526
@@ -20865,7 +20865,7 @@ http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2661
 http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/3046
 #EXTINF:-1,BeIN SPORT 2 HD (TR)
 http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/3047
-#EXTINF:-1,BeIN SPORT 3 HD (TR)
+#EXTINF:-1 group-title="placa",BeIN SPORT 3 HD (TR)
 http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/3048
 
 + + + + + portal.alliptv.tv:8080 + + + + + 
