@@ -21983,47 +21983,28 @@ http://sniperstv.vip:8080/live/jordan/jordan/92.m3u8
 #EXTINF:-1,BEIN SPORTS 6
 http://sniperstv.vip:8080/live/jordan/jordan/93.m3u8
 
+http://sniperstv.vip:8080/streaming/clients_live.php?extension=m3u8&username=jordan&password=jordan&stream=100
+
 #EXTINF:-1,BEIN SPORTS 1
 http://sniperstv.vip:8080/live/jordan/jordan/98.m3u8
 #EXTINF:-1,BEIN SPORTS 2
 http://sniperstv.vip:8080/live/jordan/jordan/99.m3u8
-#EXTINF:-1,BEIN SPORTS 3
-http://sniperstv.vip:8080/live/jordan/jordan/100.m3u8
+#EXTINF:-1,BEIN SPORTS 2 PRE
+http://sniperstv.vip:8080/streaming/clients_live.php?extension=ts&username=jordan&password=jordan&stream=100
 #EXTINF:-1,BEIN SPORTS 4
-http://sniperstv.vip:8080/live/jordan/jordan/101.m3u8
+http://sniperstv.vip:8080/streaming/clients_live.php?extension=ts&username=jordan&password=jordan&stream=101
 #EXTINF:-1,BEIN SPORTS 5
-http://sniperstv.vip:8080/live/jordan/jordan/102.m3u8
+http://sniperstv.vip:8080/streaming/clients_live.php?extension=ts&username=jordan&password=jordan&stream=102
 #EXTINF:-1,BEIN SPORTS 6
-http://sniperstv.vip:8080/live/jordan/jordan/103.m3u8
+http://sniperstv.vip:8080/streaming/clients_live.php?extension=ts&username=jordan&password=jordan&stream=103
 #EXTINF:-1,BEIN SPORTS 7
-http://sniperstv.vip:8080/live/jordan/jordan/104.m3u8
-#EXTINF:-1,BEIN SPORTS 2 English
-http://sniperstv.vip:8080/live/jordan/jordan/105.m3u8
-#EXTINF:-1,BEIN SPORTS 1 ENGLISH
+http://sniperstv.vip:8080/streaming/clients_live.php?extension=ts&username=jordan&password=jordan&stream=104
+#EXTINF:-1,BEIN SPORTS 2 EN
+http://sniperstv.vip:8080/streaming/clients_live.php?extension=ts&username=jordan&password=jordan&stream=105
+#EXTINF:-1,BEIN SPORTS 3 PRE
 http://sniperstv.vip:8080/live/jordan/jordan/106.m3u8
-#EXTINF:-1,BEIN SPORTS 10
-http://sniperstv.vip:8080/live/jordan/jordan/107.m3u8
-
-#EXTINF:-1,BEIN SPORTS 1 Premium |offline
-http://sniperstv.vip:8080/live/jordan/jordan/109.m3u8
-#EXTINF:-1,BEIN SPORTS 2 Premium
-http://sniperstv.vip:8080/live/jordan/jordan/110.m3u8
-#EXTINF:-1,BEIN SPORTS 3 Premium
-http://sniperstv.vip:8080/live/jordan/jordan/111.m3u8
-#EXTINF:-1,BEIN SPORTS 4
-http://sniperstv.vip:8080/live/jordan/jordan/112.m3u8
-#EXTINF:-1,BEIN SPORTS 5
-http://sniperstv.vip:8080/live/jordan/jordan/113.m3u8
-#EXTINF:-1,BEIN SPORTS 6
-http://sniperstv.vip:8080/live/jordan/jordan/114.m3u8
-#EXTINF:-1,BEIN SPORTS 7
-http://sniperstv.vip:8080/live/jordan/jordan/115.m3u8
-#EXTINF:-1,BEIN SPORTS 2
-http://sniperstv.vip:8080/live/jordan/jordan/116.m3u8
-#EXTINF:-1,BEIN SPORTS 1
-http://sniperstv.vip:8080/live/jordan/jordan/117.m3u8
 #EXTINF:-1,BEIN SPORTS 10 |offline
-http://sniperstv.vip:8080/live/jordan/jordan/118.m3u8
+http://sniperstv.vip:8080/live/jordan/jordan/107.m3u8
 
 #EXTINF:-1,[USA]NBCSN HD
 http://sniperstv.vip:8080/live/jordan/jordan/14789.m3u8
@@ -22070,15 +22051,12 @@ http://sniperstv.vip:8080/live/jordan/jordan/20494.m3u8
 #EXTINF:-1,|FR| BEIN MAX 10 HD
 http://sniperstv.vip:8080/live/jordan/jordan/20495.m3u8
 
-http://qqtv.nl:8080/streaming/clients_live.php?extension=ts&username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&stream=30241
-
 #EXTINF:-1,BEIN SPORTS Premium 1 Low
 http://sniperstv.vip:8080/live/jordan/jordan/126.m3u8
 #EXTINF:-1,BEIN SPORTS Premium 2 Low
 http://sniperstv.vip:8080/live/jordan/jordan/127.m3u8
 #EXTINF:-1,BEIN SPORTS Premium 3 Low
 http://sniperstv.vip:8080/live/jordan/jordan/128.m3u8
-
 
 #EXTINF:-1,BEIN SPORTS MAX 1 FHD
 http://sniperstv.vip:8080/live/jordan/jordan/32685.m3u8
