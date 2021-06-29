@@ -18898,6 +18898,9 @@ Real Url: test.satlok.club:80     Status: Active    Created: 18/1/2019 12:30:51 
 
 http://box.slweb.tv:8880/get.php?username=Kt2021ex&password=J6kJaZShHcjpmDxw&type=m3u
 Real Url: box.slweb.tv:8880     Status: Active    Created: 10/7/2020 12:31:55 PM     Expires: Null    Active Connections: 274     Maximum Connections: 400     Formats: "ts" < DOWN
+http://box.slweb.tv:8880/get.php?username=Ra5aL0dYlt&password=H2JT9ejrZW&type=m3u
+Real Url: box.slweb.tv:8880     Status: Active    Created: 1/8/2020 1:36:05 PM     Expires: 13/12/2021 6:10:34 AM    Active Connections: 0     Maximum Connections: 1     Formats: "ts"
+
 
 http://box.slweb.tv:8880/streaming/clients_live.php?extension=ts&username=Kt2021ex&password=J6kJaZShHcjpmDxw&stream=315
 
@@ -20807,6 +20810,70 @@ Real Url: ottplanet.live:7788     Status: Active    Created: 24/11/2020 6:18:09 
 http://paylasim.smartseyirhd.de:8080/get.php?username=amigotv.online.skype&password=Wv5f8pq9l&type=m3u
 Real Url: panelxtream.smartseyirhd.de:8080     Status: Active    Created: 11/2/2020 5:34:07 PM     Expires: Null    Active Connections: 57     Maximum Connections: 100     Formats: "m3u8","ts" < to check
 
++ + + + + placa.work:5115 + + + + + 
+
+http://lovor.work:5115/get.php?username=HNSIjug2tC&password=oMfTWAyMx6&type=m3u
+Real Url: placa.work:5115     Status: Active    Created: 27/4/2021 3:24:27 PM     Expires: Null    Active Connections: 353     Maximum Connections: 1500     Formats: "ts"
+
+#EXTINF:-1,Sky Sp F1 (UK)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2559
+#EXTINF:-1,SkySp Main Event HD (UK)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2526
+#EXTINF:-1,Sky Sp Cricket (UK)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2527
+#EXTINF:-1,SkySp Action (UK)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2528
+#EXTINF:-1,SkySp Golf (UK)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2529
+#EXTINF:-1,SkySp PL (UK)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2530
+#EXTINF:-1,SkySp MIX (UK)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2558
+#EXTINF:-1,SkySp News HD (UK)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2787
+#EXTINF:-1,SkySp Arena (UK)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2525
+#EXTINF:-1,BT Sports 1 (UK)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2521
+#EXTINF:-1,BT Sports 2 (UK)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2522
+#EXTINF:-1,BT Sports 3 (UK)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2523
+#EXTINF:-1,BT Sports ESPN (UK)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2524
+#EXTINF:-1,VH1 (UK)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2550
+#EXTINF:-1,MTV Base (UK)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2553
+#EXTINF:-1,MTV Dance (UK)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2552
+#EXTINF:-1,MTV 90s (UK)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2551
+
+#EXTINF:-1,BeIN Sport 1 HD (FR)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/513
+#EXTINF:-1,BeIN Sport 2 HD (FR)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/514
+#EXTINF:-1,BeIN Sport 3 HD (FR)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/515
+#EXTINF:-1,BeIN Sports Max 4 (FR)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2657
+#EXTINF:-1,BeIN Sports Max 5 (FR)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2658
+#EXTINF:-1,BeIN Sports Max 6 (FR)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2659
+#EXTINF:-1,BeIN Sports Max 7 (FR)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2660
+#EXTINF:-1,BeIN Sports Max 8 (FR)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2661
+
+#EXTINF:-1,BeIN SPORT 1 HD (TR)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/3046
+#EXTINF:-1,BeIN SPORT 2 HD (TR)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/3047
+#EXTINF:-1,BeIN SPORT 3 HD (TR)
+http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/3048
+
 + + + + + portal.alliptv.tv:8080 + + + + + 
 
 http://portal.alliptv.tv:8080/get.php?username=530354021348&password=397532457292&type=m3u
@@ -22421,6 +22488,11 @@ http://women-bagswithcheapprice.com:8080/get.php?username=NF582ee9XB&password=X2
 http://teledunet.com:8080/get.php?username=clave&password=clave&type=m3u < null < 1-0 < m3u8, ts
 
 http://tvworld.teledunet.com:8080/get.php?username=clave&password=clave&type=m3u < null < 1-0 < m3u8, ts < not play well
+
++ + + + + visionmedaitv.nl:7444 + + + + + TR+NL+BE
+
+http://visionmedaitv.nl:7444/get.php?username=VisionTVPlatformCEP&password=XujDJYfHLu&type=m3u < null < 100-13
+
 
 + + + + + www.aloka-iptv.xyz:443-null + + + + + AR CH + + + + +
 
