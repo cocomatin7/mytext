@@ -20607,62 +20607,9 @@ http://oldschool.blogsite.org:9000/get.php?username=stalkerrrbv&password=trueh2t
 + + + + + one.d4k4u.com:8080 + + + + + Null + + + + +
 
 http://one.d4k4u.com:8080/get.php?username=SADFFGGSQFDQSDF&password=rGMSeAaH&type=m3u
-Real Url: one.d4k4u.com:8080     Status: Active    Created: 16/6/2021 7:28:30 PM     Expires: Null    Active Connections: 578     Maximum Connections: 100000     Formats: "m3u8","ts","rtmp"
+Real Url: one.d4k4u.com:8080     Status: Active    Created: 16/6/2021 7:28:30 PM     Expires: Null    Active Connections: 578     Maximum Connections: 100000     Formats: "m3u8","ts","rtmp" < DOWN
 
 http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=
-
-#EXTINF:-1 group-title="one",B S MAX 1 HD
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289046
-#EXTINF:-1,B S MAX 1 SD
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289047
-#EXTINF:-1,B S MAX 2 HD
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289048
-#EXTINF:-1,B S MAX 2 SD
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289049
-#EXTINF:-1,B S MAX 3 HD
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289050
-#EXTINF:-1,B S MAX 3 SD
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289051
-#EXTINF:-1,B S MAX 4 HD
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289052
-#EXTINF:-1,B S MAX 4 SD
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289053
-#EXTINF:-1,B S MAX 5 HD
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289054
-#EXTINF:-1,B S MAX 5 4K
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289055
-#EXTINF:-1,B S MAX 6 HD
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289056
-#EXTINF:-1,B S MAX 6 4K
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289057
-#EXTINF:-1,B S MAX 1 4K
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289625
-#EXTINF:-1,B S MAX 2 4K 
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289626
-#EXTINF:-1,B S MAX 3 4K 
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289627
-#EXTINF:-1,B S MAX 4 4K 
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289628
-#EXTINF:-1,B S MAX 5 4K
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289629
-#EXTINF:-1,B S MAX 6 4K
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289630
-#EXTINF:-1,B S MAX  2F
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289635
-#EXTINF:-1,B S MAX  1F
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289636
-#EXTINF:-1,BS 1 HD fr
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289637
-#EXTINF:-1,BS 2 HD fr
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289638
-#EXTINF:-1,BS 3 HD fr
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289639
-#EXTINF:-1,BS 1F fr
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289640
-#EXTINF:-1,BS 2F fr
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289641
-#EXTINF:-1 group-title="one",BS 3F fr
-http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=SADFFGGSQFDQSDF&password=rGMSeAaH&stream=289642
 
 
 + + + + + ottiptv.us:2095 + + + + + Null + + + + +
