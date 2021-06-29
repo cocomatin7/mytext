@@ -5,6 +5,81 @@ to check <<
 http://api.queroassistir.tv:80/vod/marcos26/marcos26/series/max/14896.mp4
 
 
+http://a3.smashmalta.com:82/get.php?username=smash&password=smash&type=m3u < null < 500-455 K- - to chec k
+
+
+http://116.202.245.40:9191/play/a002
+http://116.202.245.40:9191/play/a03p
+#EXTINF:-1,Bein1
+
+http://202.150.161.68:4000/play/a001/index.m3u8
+
+#EXTINF:-1,Bein2
+
+http://202.150.161.68:4000/play/a002/index.m3u8
+
+
+#EXTINF:-1 ,CH 90-beIN 2 Eng
+https://linesports.xyz/wiz/lschannel-90.php
+#EXTINF:-1 ,CH 91-beIN 1
+https://linesports.xyz/wiz/lschannel-91.php
+#EXTINF:-1 ,CH 92-beIN 2
+https://linesports.xyz/wiz/lschannel-92.php
+#EXTINF:-1 ,CH 93-beIN 3
+https://linesports.xyz/wiz/lschannel-93.php
+#EXTINF:-1 ,CH 94-beIN 3 SD
+https://linesports.xyz/wiz/lschannel-94.php
+#EXTINF:-1 ,CH 95-beIN 5
+https://linesports.xyz/wiz/lschannel-95.php
+#EXTINF:-1 ,CH 96-beIN 6
+https://linesports.xyz/wiz/lschannel-96.php
+#EXTINF:-1 ,CH 97-Olympic
+https://linesports.xyz/wiz/lschannel-97.php
+#EXTINF:-1 ,CH 98-beIN 1 Premium
+https://linesports.xyz/wiz/lschannel-98.php
+#EXTINF:-1 ,CH 99-beIN 2 Premium
+https://linesports.xyz/wiz/lschannel-99.php
+#EXTINF:-1 ,CH 100-beIN 3 Premium
+https://linesports.xyz/wiz/lschannel-100.php
+
+
+CH 5
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+Suria
+https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mpd
+Vasantham
+https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.mpd
+CH 8
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+CH U
+https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
+https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
+https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd
+
+
+Blue Hustler TV (18+)
+http://re.strah.video:1234/play/bluehustler/index.m3u8
+Dorcel HD
+http://re.strah.video:1234/play/dorcelhd/index.m3u8
+EXTASY HD (18+)
+http://re.strah.video:1234/play/extasyhd/index.m3u8
+Erox (18+)
+http://re.strah.video:1234/play/erox/index.m3u8
+KinoXXX (18+)
+http://re.strah.video:1234/play/kinoxxx/index.m3u8
+Кино 18+ HD
+http://re.strah.video:1234/play/kino18plushd/index.m3u8
+ОХ-АХ HD (18+)
+http://re.strah.video:1234/play/ohahhd/index.m3u8
+Шалун (18+)
+http://re.strah.video:1234/play/shalun/index.m3u8
+
+
 The Marksman (2021) 
 https://www.googleapis.com/drive/v3/files/1MziUofW73wGrEgz-OiI_Iwsyy78TjpWF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 Chernobyl Ep02
@@ -19,7 +94,7 @@ https://drive.google.com/file/d/1FZvrmKl4cliccKnZrd1k47JEANkP9DW4/view?usp=shari
 https://www.googleapis.com/drive/v3/files/1FZvrmKl4cliccKnZrd1k47JEANkP9DW4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 https://www.googleapis.com/drive/v3/files/1FZvrmKl4cliccKnZrd1k47JEANkP9DW4?alt=media&key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI
 
-
+http://streamwat.ch/custom/player/
 
 http://iptv.repl.co/streamlink?url=https://www.dropbox.com/s/dl/o4mn66m5w7xgc7c/hhbo-mm.m3u8
 http://streamwat.ch/custom/player/#https://www.dropbox.com/s/dl/o4mn66m5w7xgc7c/hhbo-mm.m3u8 K- - - working
@@ -870,18 +945,29 @@ http://3.alhawalouh.xyz:80/live/88824257/index.m3u8
 
 http://zana@3.alhawalouh.xyz/live/88824257/index.m3u8
 
-beIN 1PRE
-http://ferrarico.referrari.com/live/60173_.m3u8
-beIN 5 MAX
-http://ferrarico.referrari.com/live/60177_.m3u8
 
-beIN HD1TR
+http://ferrarico.referrari.com/live/60170_.m3u8
+http://ferrarico.referrari.com/live/60171_.m3u8
+http://ferrarico.referrari.com/live/60172_.m3u8
+#EXTINF:-1,beIN 1PRE
+http://ferrarico.referrari.com/live/60173_.m3u8
+#EXTINF:-1,beIN 2PRE
+http://ferrarico.referrari.com/live/60174_.m3u8
+http://ferrarico.referrari.com/live/60175_.m3u8
+#EXTINF:-1,beIN 2PRE
+http://ferrarico.referrari.com/live/60176_.m3u8
+#EXTINF:-1,beIN 5 MAX
+http://ferrarico.referrari.com/live/60177_.m3u8
+http://ferrarico.referrari.com/live/60178_.m3u8
+#EXTINF:-1,beIN SPORT 1
+http://ferrarico.referrari.com/live/60179_.m3u8
+
+offline
 https://b.pscdn.live/hls/bein-sports-1.m3u8
 https://b.pscdn.live/hls/bein-sports-2.m3u8
 https://b.pscdn.live/hls/bein-sports-3.m3u8
 https://b.pscdn.live/hls/bein-sports-4.m3u8
-
-beIN TR
+offline
 https://b.pscdn.live/hls/bein-sports-max-1.m3u8
 https://b.pscdn.live/hls/bein-sports-max-2.m3u8
 
@@ -935,6 +1021,30 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6503/index.m3u8
 SPORT http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/225/index.m3u8
 PENTHOUSE http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/1073/index.m3u8
 BLUE HUSTLER http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/1064/index.m3u8
+
+#EXTINF:-1, QA | BEIN SPORTS 1 HD 
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6123/index.m3u8
+#EXTINF:-1, QA | BEIN SPORTS 3 HD 
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6124/index.m3u8
+#EXTINF:-1, QA | BEIN SPORTS 4 HD 
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6125/index.m3u8
+#EXTINF:-1, QA | BEIN SPORTS 5 HD 
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6126/index.m3u8
+#EXTINF:-1, QA | BEIN SPORTS 6 HD 
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6127/index.m3u8
+#EXTINF:-1, QA | BEIN SPORTS 7 HD 
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6128/index.m3u8
+#EXTINF:-1, QA | BEIN SPORTS 8 HD 
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6129/index.m3u8
+#EXTINF:-1, QA | BEIN SPORTS 9 HD 
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6130/index.m3u8
+#EXTINF:-1, QA | BEIN SPORTS 10 HD 
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6131/index.m3u8
+#EXTINF:-1, QA | BEIN SPORTS 11 HD  
+http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6132/index.m3u8
+#EXTINF:-1, QA | BEIN SPORTS 12 HD 
+http://ilooksysadmin.tvclub.xyz/iptv/YSZEBB3QYC3TXF/6133/index.m3u8
+
 
 #EXTINF:-1,Матч! Футбол 1 |RU
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/124/index.m3u8
@@ -21101,6 +21211,8 @@ http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username
 
 + + + + + qqtv.nl:8080 + + + + +
 
+http://qqtv.nl:8080/c | 00:1A:79:4B:FE:6D < 12/07/2021
+
 http://qqtv.nl:8080/get.php?username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&type=m3u&output=hls < null < 1100-1006 < xxx
 http://54.39.158.38:8080/get.php?username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&type=m3u
 
@@ -21481,6 +21593,7 @@ http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 http://51.15.0.141:88/hustlerhd/tracks-v1a1/index.m3u8
 http://51.15.0.141:88/hustlerhd/index.m3u8
 http://51.15.0.141:88/redlightHD/index.m3u8
+http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 
 http://62.112.9.63:88/Brazzers/index.m3u8?token=test
 
@@ -21512,7 +21625,7 @@ http://194.190.78.91:8080/shelksd/index.m3u8
 + + + + + rapid-cdn.net:8080 + + + + + null + + 
 
 http://provider-tv.net:8080/get.php?username=Tomas_Arana_Restream&password=T54cXsm8vQ3577zZpkla&type=m3u
-Real Url: rapid-cdn.net:8080     Status: Active    Created: 22/2/2020 3:37:12 PM     Expires: Null    Active Connections: 187     Maximum Connections: 700     Formats: "m3u8","ts","rtmp"
+Real Url: rapid-cdn.net:8080     Status: Active    Created: 22/2/2020 3:37:12 PM     Expires: Null    Active Connections: 187     Maximum Connections: 700     Formats: "m3u8","ts","rtmp" < DOWN
 
 + + + + + restream.cyprusnetserver.net:8988 + + + + + null + + 
 
@@ -21550,7 +21663,7 @@ Real Url: romax.live:2086     Status: Active    Created: 7/4/2021 11:13:16 AM   
 + + + + + s2.famousiptv.com:8080 + + + + + null + +
 
 http://magicoiptv.org:8080/get.php?username=iptvtree2&password=757btVcvQY&type=m3u
-Real Url: s2.famousiptv.com:8080     Status: Active    Created: 25/3/2020 1:47:33 PM     Expires: Null    Active Connections: 161     Maximum Connections: 400     Formats: "m3u8","ts","rtmp"
+Real Url: s2.famousiptv.com:8080     Status: Active    Created: 25/3/2020 1:47:33 PM     Expires: Null    Active Connections: 161     Maximum Connections: 400     Formats: "m3u8","ts","rtmp" < DOWN
 
 + + + + + s16tv.co:80 + + + + + null + + 
 
