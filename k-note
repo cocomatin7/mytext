@@ -8,6 +8,9 @@ http://api.queroassistir.tv:80/vod/marcos26/marcos26/series/max/14896.mp4
 http://a3.smashmalta.com:82/get.php?username=smash&password=smash&type=m3u < null < 500-455 K- - channel not good
 
 
+#EXTINF:-1 logo="http://88.98.232.148:9981/imagecache/2" tvg-id="69bde3a827b4995fe11bfe1db8907edf",ITV FHD
+
+http://88.98.232.148:9981/stream/channelid/686013801?profile=pass
 
 
 
@@ -740,6 +743,25 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgIDI0J3bwNlbpVmQ
 #EXTINF:-1 group-title="Sport/Bamar",Bein Sport 3 Fr
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgMDI0J3bwNlbpVmQ
+
+#EXTINF:-1 tvg-id="99466fe13dad61bf4fa932c8eae29755",BS 2 AR
+http://5.101.174.206:9981/stream/channelid/1634682521?ticket=BB4D7B876C5390A63F47479A699480B1EED36A22&profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="05de5d7986dff66e8c5bab13d6ea8abe",BS 3 AR
+http://5.101.174.206:9981/stream/channelid/2036194821?ticket=846EECAF64120B9CB5F9D87D4442F2BC1DB70D7A&profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="710aa8450b57b0d8f4969776fcb16dba",BS 4 AR
+http://5.101.174.206:9981/stream/channelid/1168640625?ticket=22B9ABFCDF9064432541A68DAAED4211B055FF13&profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="7e4d3660988fa44bb3466768b761bd0d",BS1 AR
+http://5.101.174.206:9981/stream/channelid/1614171518?ticket=6E2BD06F0804ED4913B2822EEF47965DE0868785&profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="bcc0354f653cf776959872a8879f6cf7",BS5
+http://5.101.174.206:9981/stream/channelid/1328922812?ticket=E996450A5BD9E1EEA11383DD3313FD1DA900AC48&profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="9d43301cd47a2a7015141d1d7c6ee866",BS6
+http://5.101.174.206:9981/stream/channelid/472925085?ticket=567B86D437B5F4C72A9B74D87DFB0F61A0B83460&profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="4a1f67a5573ae7bc75df38300075c85e",BS7
+http://5.101.174.206:9981/stream/channelid/627515210?ticket=2FCFA7B9B74429E407CCFE1BFF28BA8F809488F7&profile=webtv-h264-aac-matroska
+#EXTINF:-1 tvg-id="69a165b0060fa516887ff77b5b1d2fa7",BS8
+http://5.101.174.206:9981/stream/channelid/811966825?ticket=4B2F3677ED6FC808E57FF64461C9DA2EAFE2CE4D&profile=webtv-h264-aac-matroska
+
+
 
 #EXTINF:-1,BT SPORT1
 http://116.202.245.40:9191/play/a03p
@@ -3804,6 +3826,116 @@ http://27.254.130.61/live01/ch16.m3u8?p=st
 http://27.254.130.61/live01/ch17.m3u8?p=st
 http://27.254.130.61/live01/ch18.m3u8?p=st
 http://27.254.130.61/live01/ch19.m3u8?p=st
+
++ + + + + http://50.7.75.182:9981/playlist/channels + + + + + 
+
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" tvg-id="979ed67946dc541508db9bfe31358093" tvg-chno="46",M. LaLiga HD
+http://46.26.248.8:9981/stream/channelid/2044108439?profile=pass
+#EXTINF:-1 logo="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_86d287781675feeabdc403278.png" tvg-id="7db5637a40fbb2c137b7b9fb33921161" tvg-chno="47",M. LaLiga 1 HD
+http://46.26.248.8:9981/stream/channelid/2053354877?profile=pass
+#EXTINF:-1 logo="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_e3e1fffbaa8b0573d284b1a65.png" tvg-id="d6fedc0a5916bea03dd1c43d55cac245" tvg-chno="48",M. LaLiga 2 HD
+http://46.26.248.8:9981/stream/channelid/182255318?profile=pass
+#EXTINF:-1 logo="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_2d75bda0835941ae86d09294d.png" tvg-id="fdefac1a37f185033fe3f4ffec631314" tvg-chno="49",M. LaLiga 3 HD
+http://46.26.248.8:9981/stream/channelid/447541245?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" tvg-id="3eaeb31d2edcfd2e5139cccaf6d88ad8" tvg-chno="50",M.LCAMPEONES
+http://46.26.248.8:9981/stream/channelid/498314814?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" tvg-id="bdf04fc2a7ab6de5848ca95cc1511192" tvg-chno="51",M.LCAMPEON1
+http://46.26.248.8:9981/stream/channelid/1112535229?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" tvg-id="41e4ea0a90410910a6ce7dc840545323" tvg-chno="52",M.LCAMPEON2
+http://46.26.248.8:9981/stream/channelid/183166017?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" tvg-id="4a4cd373916c3e9d03a504ef8ddd0db3" tvg-chno="53",M. DEPORTESHD
+http://46.26.248.8:9981/stream/channelid/1943227466?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" tvg-id="763f661abe9e4981424f72e6cd8d7f4d" tvg-chno="54",M. DEPORTES1HD
+http://46.26.248.8:9981/stream/channelid/442908534?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" tvg-id="1abd3c7bc7359f3d4d1d3adb1572f495" tvg-chno="55",M. DEPORTES2
+http://46.26.248.8:9981/stream/channelid/2067578138?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" tvg-id="6e4daf51f4869b255f46f73fea413f29" tvg-chno="56",M. DEPORTES3
+http://46.26.248.8:9981/stream/channelid/1370443118?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF%2B.png" tvg-id="0ab8762139e83e1f67ea18e19a0d76c1" tvg-chno="57",M. GOLF HD
+http://46.26.248.8:9981/stream/channelid/561428490?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" tvg-id="ffd26711214554e6adc9f6af0065012d" tvg-chno="58",DAZN F1 HD
+http://46.26.248.8:9981/stream/channelid/292016895?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" tvg-id="657cb0f4ef6cf98a292471672d220991" tvg-chno="59",DAZN 1 HD
+http://46.26.248.8:9981/stream/channelid/1957723237?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" tvg-id="d801585c967fe4617181aec482187309" tvg-chno="60",DAZN 2 HD
+http://46.26.248.8:9981/stream/channelid/1549271512?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" tvg-id="7575385667e7f9a9b9fa2c813fc9f797" tvg-chno="61",EUROSPORT1HD
+http://46.26.248.8:9981/stream/channelid/1446540661?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" tvg-id="279c08a1214e60b7e8a61ac5998ef633" tvg-chno="62",EUROSPORT 2
+http://46.26.248.8:9981/stream/channelid/554212391?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" tvg-id="54bb9a5f6db94da46fc06c856db06d81" tvg-chno="63",GOL HD
+http://46.26.248.8:9981/stream/channelid/1603976020?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" tvg-id="3523f5787b0495e3cb81d7eb5fc32545" tvg-chno="64",TELEDEPORTE
+http://46.26.248.8:9981/stream/channelid/2029331253?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" tvg-id="6b97304f09cc0bf52b4c1fce833d7199" tvg-chno="65",CAZAyPESCA HD
+http://46.26.248.8:9981/stream/channelid/1328584555?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" tvg-id="bbe337db7b21a9a1bf6b4092702403df" tvg-chno="66",IBERALIA TV
+http://46.26.248.8:9981/stream/channelid/1530389435?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" tvg-id="4c24ba68b82bec5c43b18bb978194634" tvg-chno="67",TOROS HD
+http://46.26.248.8:9981/stream/channelid/1757029452?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" tvg-id="a35f8cddd9a251212db7d7e9dce209dd" tvg-chno="68",R. MADRID TV
+http://46.26.248.8:9981/stream/channelid/1569480611?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" tvg-id="60c37b8781652f084889a469242e3049" tvg-chno="69",BARÇA TV
+http://46.26.248.8:9981/stream/channelid/125551456?profile=pass
+#EXTINF:-1 logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ce/b5/118592/1/c300.png" tvg-id="13c45609de83efe38244eb488f0d84d7" tvg-chno="100",MTV 80s
+http://46.26.248.8:9981/stream/channelid/156681235?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" tvg-id="d480763235958bb06c9eaaac117c83a8" tvg-chno="101",MTV
+http://46.26.248.8:9981/stream/channelid/846627028?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" tvg-id="52616e3de0d4c35454a580dbc1cd00d3" tvg-chno="102",MTV HITS
+http://46.26.248.8:9981/stream/channelid/1030644050?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" tvg-id="8508dae2d88ea91a2b705cee1199f8b1" tvg-chno="103",MTV HD
+http://46.26.248.8:9981/stream/channelid/1658456197?profile=pass
+#EXTINF:-1 logo="https://senderlogos.images.dvbdata.com/302x190_w/511.png" tvg-id="caade7e6812152b984fd588373ed61d6" tvg-chno="104",Deluxe Music HD
+http://46.26.248.8:9981/stream/channelid/1726459338?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" tvg-id="faf1dd68db0bfe60060b55c557d51888" tvg-chno="105",MTV HD Austria
+http://46.26.248.8:9981/stream/channelid/1759375866?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/VH1.png" tvg-id="467742e50e0adf78eb31d170bf305f30" tvg-chno="105",VH1
+http://46.26.248.8:9981/stream/channelid/1698854726?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" tvg-id="bdabc5f12d1c452914dd1b2049430a4b" tvg-chno="106",MTV
+http://46.26.248.8:9981/stream/channelid/1908779965?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEZZO.png" tvg-id="fb963d7380e798058ccb3e0c2e26436f" tvg-chno="107",MEZZO
+http://46.26.248.8:9981/stream/channelid/1933416187?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEZOHD.png" tvg-id="af9c533dd7639ae3bc026579f8a44846" tvg-chno="108",MEZZO LIVE HD
+http://46.26.248.8:9981/stream/channelid/1028889775?profile=pass
+#EXTINF:-1 tvg-id="78031ffd4a62056ea0d444967a7baad5" tvg-chno="108",MTV Music 24
+http://46.26.248.8:9981/stream/channelid/2099184504?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLASSI.png" tvg-id="627c0704d1508b8457df8bbcfed2b95a" tvg-chno="109",CLASSICA
+http://46.26.248.8:9981/stream/channelid/67599458?profile=pass
+#EXTINF:-1 tvg-id="057505ef9dbcffd7454962d06b2113f5" tvg-chno="111",DJAZZ
+http://46.26.248.8:9981/stream/channelid/1862628613?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" tvg-id="ab6580b31f8f4b98e0195c99c30cd790" tvg-chno="112",24 HORAS
+http://46.26.248.8:9981/stream/channelid/864052651?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/BL.png" tvg-id="ddd1cce48c8cf204656738484aee1d1c" tvg-chno="123",Bloomberg Europe TV
+http://46.26.248.8:9981/stream/channelid/1691144669?profile=pass
+#EXTINF:-1 logo="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_a29dbb3282e6b6cd0839314c2.png" tvg-id="e313a32beb60c618fa4ea7848c4ec992" tvg-chno="176",M. LaLiga 4
+http://46.26.248.8:9981/stream/channelid/732107747?profile=pass
+#EXTINF:-1 logo="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_a207b85649c027038759e0e90.png" tvg-id="1eea455568146ba36fc090961fc7c0cc" tvg-chno="177",M. LaLiga 5
+http://46.26.248.8:9981/stream/channelid/1430645278?profile=pass
+#EXTINF:-1 logo="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_49744c090b85d6bf792b052a0.png" tvg-id="0ad4b05d2334508ff21c4387ec06675a" tvg-chno="178",M. LaLiga 6
+http://46.26.248.8:9981/stream/channelid/1571869706?profile=pass
+#EXTINF:-1 logo="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_1b7b91bfc1b0fb47cb25e90c1.png" tvg-id="2a4a6b74cc7694e9499746d52cf2a896" tvg-chno="179",M. LaLiga 7
+http://46.26.248.8:9981/stream/channelid/1953188394?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG8.png" tvg-id="d2c62e47bb4b116256a50f49e73e12fe" tvg-chno="180",Movistar LaLiga 8
+http://46.26.248.8:9981/stream/channelid/1194247890?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" tvg-id="6b2f330447e37f21f763a45e5300dc79" tvg-chno="183",DAZN 3 HD
+http://46.26.248.8:9981/stream/channelid/70463339?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" tvg-id="b20bfa0f5e7caed8610a0af170c25b67" tvg-chno="183",DAZN 3 HD
+http://46.26.248.8:9981/stream/channelid/268045234?profile=pass
+#EXTINF:-1 tvg-id="96c6a29d128b932d24058dc789b7a56b" tvg-chno="184",DAZN 4 HD
+http://46.26.248.8:9981/stream/channelid/497206934?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" tvg-id="4fde10695d2b4f8ab676212ea9de95b0" tvg-chno="184",DAZN 4 HD
+http://46.26.248.8:9981/stream/channelid/1762713167?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" tvg-id="52ba02771fcd89f626b7d9611917f360" tvg-chno="186",M. Liga de Campeones 3
+http://46.26.248.8:9981/stream/channelid/1996667474?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" tvg-id="6740e79cc608f6d62b275aef5f675414" tvg-chno="187",M. Liga de Campeones 4
+http://46.26.248.8:9981/stream/channelid/484917351?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" tvg-id="c0c3e2e41ddeeb96b7a902323d978b94" tvg-chno="188",M. Liga de Campeones 5
+http://46.26.248.8:9981/stream/channelid/1692582848?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" tvg-id="1d1db7b8a5b9fbc57f58b767136eed1d" tvg-chno="189",M. Liga de Campeones 6
+http://46.26.248.8:9981/stream/channelid/951524637?profile=pass
+#EXTINF:-1 logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" tvg-id="f3c064eb80424752aa9a113927b7e066" tvg-chno="190",M. Liga de Campeones 7
+http://46.26.248.8:9981/stream/channelid/1801765107?profile=pass
+
 
 + + + + + http://50.7.75.182:9981/playlist/channels + + + + + login
 
