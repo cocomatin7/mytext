@@ -735,23 +735,22 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 #EXTINF:-1 group-title="Sport/Bamar",Bein Sport 3 Fr
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgMDI0J3bwNlbpVmQ
 
-#EXTINF:-1 tvg-id="99466fe13dad61bf4fa932c8eae29755",BS 2 AR
+ tvg-id="99466fe13dad61bf4fa932c8eae29755",BS 2 AR
 http://5.101.174.206:9981/stream/channelid/1634682521?ticket=BB4D7B876C5390A63F47479A699480B1EED36A22&profile=webtv-h264-aac-matroska
-#EXTINF:-1 tvg-id="05de5d7986dff66e8c5bab13d6ea8abe",BS 3 AR
+ tvg-id="05de5d7986dff66e8c5bab13d6ea8abe",BS 3 AR
 http://5.101.174.206:9981/stream/channelid/2036194821?ticket=846EECAF64120B9CB5F9D87D4442F2BC1DB70D7A&profile=webtv-h264-aac-matroska
-#EXTINF:-1 tvg-id="710aa8450b57b0d8f4969776fcb16dba",BS 4 AR
+ tvg-id="710aa8450b57b0d8f4969776fcb16dba",BS 4 AR
 http://5.101.174.206:9981/stream/channelid/1168640625?ticket=22B9ABFCDF9064432541A68DAAED4211B055FF13&profile=webtv-h264-aac-matroska
-#EXTINF:-1 tvg-id="7e4d3660988fa44bb3466768b761bd0d",BS1 AR
+ tvg-id="7e4d3660988fa44bb3466768b761bd0d",BS1 AR
 http://5.101.174.206:9981/stream/channelid/1614171518?ticket=6E2BD06F0804ED4913B2822EEF47965DE0868785&profile=webtv-h264-aac-matroska
-#EXTINF:-1 tvg-id="bcc0354f653cf776959872a8879f6cf7",BS5
+ tvg-id="bcc0354f653cf776959872a8879f6cf7",BS5
 http://5.101.174.206:9981/stream/channelid/1328922812?ticket=E996450A5BD9E1EEA11383DD3313FD1DA900AC48&profile=webtv-h264-aac-matroska
-#EXTINF:-1 tvg-id="9d43301cd47a2a7015141d1d7c6ee866",BS6
+ tvg-id="9d43301cd47a2a7015141d1d7c6ee866",BS6
 http://5.101.174.206:9981/stream/channelid/472925085?ticket=567B86D437B5F4C72A9B74D87DFB0F61A0B83460&profile=webtv-h264-aac-matroska
-#EXTINF:-1 tvg-id="4a1f67a5573ae7bc75df38300075c85e",BS7
+ tvg-id="4a1f67a5573ae7bc75df38300075c85e",BS7
 http://5.101.174.206:9981/stream/channelid/627515210?ticket=2FCFA7B9B74429E407CCFE1BFF28BA8F809488F7&profile=webtv-h264-aac-matroska
-#EXTINF:-1 tvg-id="69a165b0060fa516887ff77b5b1d2fa7",BS8
+ tvg-id="69a165b0060fa516887ff77b5b1d2fa7",BS8
 http://5.101.174.206:9981/stream/channelid/811966825?ticket=4B2F3677ED6FC808E57FF64461C9DA2EAFE2CE4D&profile=webtv-h264-aac-matroska
-
 
 
 #EXTINF:-1,BT SPORT1
@@ -903,6 +902,8 @@ http://ferrarico.referrari.com/live/60093_.m3u8
 http://ferrarico.referrari.com/live/60096_.m3u8
 #EXTINF:-1,beIN 2
 http://ferrarico.referrari.com/live/60097_.m3u8
+#EXTINF:-1,beIN 3| ferrarico
+http://ferrarico.referrari.com/live/60098_.m3u8
 #EXTINF:-1,beIN 4
 http://ferrarico.referrari.com/live/60099_.m3u8
 #EXTINF:-1,beIN 5
@@ -959,6 +960,7 @@ http://ferrarico.referrari.com/live/60176_.m3u8
 http://ferrarico.referrari.com/live/60177_.m3u8
 #EXTINF:-1,beIN SPORT 1
 http://ferrarico.referrari.com/live/60179_.m3u8
+
 
 offline
 https://b.pscdn.live/hls/bein-sports-1.m3u8
@@ -1467,30 +1469,7 @@ https://app.mb13.men/c/livedo/truepremierfootball2-hd.m3u8
 https://app.mb13.men/c/livedo/truepremierfootball3-hd.m3u8
 
 
-#EXTINF:-1,beIN 6| ferrarico
-http://ferrarico.referrari.com/live/60090_.m3u8
-#EXTINF:-1,beIN 1 PRE| ferrarico
-http://ferrarico.referrari.com/live/60091_.m3u8
-#EXTINF:-1,beIN 2 PRE| ferrarico
-http://ferrarico.referrari.com/live/60092_.m3u8
-#EXTINF:-1,beIN 3 PRE| ferrarico
-http://ferrarico.referrari.com/live/60093_.m3u8
-N.A http://ferrarico.referrari.com/live/60094_.m3u8
-N.A http://ferrarico.referrari.com/live/60095_.m3u8
-#EXTINF:-1,beIN 1 PRE| ferrarico
-http://ferrarico.referrari.com/live/60096_.m3u8
-#EXTINF:-1,beIN 2| ferrarico
-http://ferrarico.referrari.com/live/60097_.m3u8
-#EXTINF:-1,beIN 3| ferrarico
-http://ferrarico.referrari.com/live/60098_.m3u8
-#EXTINF:-1,beIN 4| ferrarico
-http://ferrarico.referrari.com/live/60099_.m3u8
-#EXTINF:-1,beIN 5| ferrarico
-http://ferrarico.referrari.com/live/60100_.m3u8
-#EXTINF:-1,beIN 6| ferrarico
-http://ferrarico.referrari.com/live/60101_.m3u8
-#EXTINF:-1,beIN OLYMPIC| ferrarico
-http://ferrarico.referrari.com/live/60102_.m3u8
+
 
 ,afn
 https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=afc
