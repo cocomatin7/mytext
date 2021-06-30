@@ -9902,6 +9902,102 @@ http://103.81.104.118/hls/stream39.m3u8
 #EXTINF:-1 group-title="103.81",SONY TEN 1
 http://103.81.104.118/hls/stream40.m3u8
 
++ + + + + http://103.157.237.18:8000/playlist.m3u8 + + + + + 
+
+#EXTINF:-1 group-title="103.157",IRD-2 Romedy Now HD
+http://103.157.237.18:8000/play/727
+#EXTINF:-1,IRD-3 Zee Action
+http://103.157.237.18:8000/play/322
+#EXTINF:-1,ENC-8 Zee Bollywood
+http://103.157.237.18:8000/play/323
+#EXTINF:-1,IRD-3 Sony PIX HD
+http://103.157.237.18:8000/play/711
+#EXTINF:-1,INT-S HBO Hits HD
+http://103.157.237.18:8000/play/740
+#EXTINF:-1,IRD-3 Discovery Science
+http://103.157.237.18:8000/play/511
+#EXTINF:-1,IRD-3 Zee Classic
+http://103.157.237.18:8000/play/324
+#EXTINF:-1,ENC-13 Sony SET
+http://103.157.237.18:8000/play/333
+#EXTINF:-1,ENC-13 Sony MAX
+http://103.157.237.18:8000/play/337
+#EXTINF:-1,IRD-2 Star Gold Select
+http://103.157.237.18:8000/play/311
+#EXTINF:-1,IRD-2 Movies Now HD
+http://103.157.237.18:8000/play/725
+#EXTINF:-1,IRD-2 & Prive HD
+http://103.157.237.18:8000/play/718
+#EXTINF:-1,IRD-3 Sony PIX
+http://103.157.237.18:8000/play/710
+#EXTINF:-1,IRD-3 Sony SIX HD
+http://103.157.237.18:8000/play/618
+#EXTINF:-1,IRD-3 Zee TV HD
+http://103.157.237.18:8000/play/318
+#EXTINF:-1,INT-S Cinemax HD
+http://103.157.237.18:8000/play/742
+#EXTINF:-1,IRD-2 MN+ HD
+http://103.157.237.18:8000/play/730
+#EXTINF:-1,IRD-3 & Pictures HD
+http://103.157.237.18:8000/play/330
+#EXTINF:-1,INT-S HBO Signature HD
+http://103.157.237.18:8000/play/741
+#EXTINF:-1,IRD-2 Sony MAX HD
+http://103.157.237.18:8000/play/338
+#EXTINF:-1,SAT>IP Sony Pal
+http://103.157.237.18:8000/play/341
+#EXTINF:-1,IRD-3 Star Sports Select 1 HD
+http://103.157.237.18:8000/play/608
+#EXTINF:-1,ENC-15 Sony Ten 3
+http://103.157.237.18:8000/play/615
+#EXTINF:-1,ENC-15 Sony Ten 2
+http://103.157.237.18:8000/play/613
+#EXTINF:-1,ENC-15 Sony Ten 1
+http://103.157.237.18:8000/play/611
+#EXTINF:-1,IRD-3 & Flix HD
+http://103.157.237.18:8000/play/716
+#EXTINF:-1,IRD-2 & TV HD
+http://103.157.237.18:8000/play/328
+#EXTINF:-1,IRD-2 Sony Ten 3 HD
+http://103.157.237.18:8000/play/616
+#EXTINF:-1,IRD-3 Zee Cinema HD
+http://103.157.237.18:8000/play/321
+#EXTINF:-1,IRD-3 & Pictures
+http://103.157.237.18:8000/play/329
+#EXTINF:-1,ENC-5 Zee Cinema
+http://103.157.237.18:8000/play/320
+#EXTINF:-1,IRD-3 & Flix
+http://103.157.237.18:8000/play/715
+#EXTINF:-1,IRD-3 Star Sports Select 1
+http://103.157.237.18:8000/play/607
+#EXTINF:-1,IRD-2 Star Sports Select 2 HD
+http://103.157.237.18:8000/play/610
+#EXTINF:-1,IRD-2 Star Movies HD
+http://103.157.237.18:8000/play/705
+#EXTINF:-1,IRD-2 Star Movies Select HD
+http://103.157.237.18:8000/play/707
+#EXTINF:-1,INT-S HBO HD
+http://103.157.237.18:8000/play/739
+#EXTINF:-1,ENC-13 Sony SAB
+http://103.157.237.18:8000/play/335
+#EXTINF:-1,IRD-2 Sony Max 2
+http://103.157.237.18:8000/play/339
+#EXTINF:-1,INT-S Warner TV
+http://103.157.237.18:8000/play/738
+#EXTINF:-1,IRD-2 MNX HD
+http://103.157.237.18:8000/play/713
+#EXTINF:-1,ENC-13 Sony SIX
+http://103.157.237.18:8000/play/617
+#EXTINF:-1,IRD-2 Star Gold Select HD
+http://103.157.237.18:8000/play/312
+#EXTINF:-1,IRD-3 Sony Ten 1 HD
+http://103.157.237.18:8000/play/612
+#EXTINF:-1,IRD-2 Sony Ten 2 HD
+http://103.157.237.18:8000/play/614
+#EXTINF:-1 group-title="103.157",IRD-2 MTV
+http://103.157.237.18:8000/play/801
+
+
 + + + + + 103.208.24.234:1935 + + + + + 
 
  tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1" group-title="TH/103.208", True Premiere Football 1 |103
