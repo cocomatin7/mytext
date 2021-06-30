@@ -30,9 +30,9 @@ https://www.googleapis.com/drive/v3/files/1FZvrmKl4cliccKnZrd1k47JEANkP9DW4?alt=
 
 http://streamwat.ch/custom/player/
 
-http://iptv.repl.co/streamlink?url=https://www.dropbox.com/s/dl/o4mn66m5w7xgc7c/hhbo-mm.m3u8
+http://iptv.repl.co/streamlink?url=https://www.dropbox.com/s/dl/o4mn66m5w7xgc7c/hhbo-mm.m3u8 < NOT?
 http://streamwat.ch/custom/player/#https://www.dropbox.com/s/dl/o4mn66m5w7xgc7c/hhbo-mm.m3u8 K- - - working
-https://ritesh.ch/miniproxy/miniproxy.php/
+https://ritesh.ch/miniproxy/miniproxy.php/ < NOT?
 http://xlx723.dyndns.org/iproxy/miniProxy.php/
 
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -6562,7 +6562,7 @@ http://144.48.122.22:9981/stream/channelid/1404082820
 http://144.48.122.22:9981/stream/channelid/1792209309
 
 
-+ + + + + http://167.172.33.223:9981/extjs.html + + + + + Viasat/ Canal+/ RMC
++ + + + + http://167.172.33.223:9981/extjs.html + + + + + Viasat/ Canal+/ RMC beIN
 
 #EXTINF:-1 group-title="167.172",beIN SPORTS PRE 1FHD
 http://167.172.33.223:9981/stream/service/a9de31151c774272592c95562d371f06
@@ -6631,7 +6631,8 @@ http://167.172.33.223:9981/stream/channel/7f5808813e94497a77818748bdcc5f0b#EXTIN
 http://167.172.33.223:9981/stream/channel/a142cf0a70090891f6f25e104c9310c4#EXTINF:-1,143 KY SPORT FOOTBALL
 http://167.172.33.223:9981/stream/channel/4b351c62149a524cd86c8d7d76c66c44#EXTINF:-1,973 KY SPORT MAIN EVENT
 http://167.172.33.223:9981/stream/channel/a6fd213408e396b11b4d79759f31a707#EXTINF:-1,551 KY SPORT NEWS
-http://167.172.33.223:9981/stream/channel/4a3087de02895559c6cdd212e16beb7f#EXTINF:-1,949 KY SPORT PREMIER LEAGUE
+#EXTINF:-1,949 KY SPORT PREMIER LEAGUE
+http://167.172.33.223:9981/stream/channel/4a3087de02895559c6cdd212e16beb7f
 #EXTINF:-1,790 MTV
 http://167.172.33.223:9981/stream/channel/565e70cfa03fafc95824d955a6b72d8e
 #EXTINF:-1,1198 MTV  FR  FHD
@@ -6667,45 +6668,30 @@ http://167.172.33.223:9981/stream/channel/5bd7e88f8916a9cd4a7057d908f335df
 
 + + + + + http://184.82.147.223:9981/playlist/channels + + + + +
 
-#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="25c76a569ba56e1b1ae66856652f10a2" group-title="184.82",&FlixHD
+#EXTINF:-1 group-title="184.82",&FlixHD
 http://184.82.147.223:9981/stream/channelid/1449838373?ticket=F8DA30570F0816839CD8CD889AC7C596169CDFB8&profile=pass
-#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="0d89e0bd4379256f7edc867e346e6e4c",&PriveHd
+#EXTINF:-1,&PriveHd
 http://184.82.147.223:9981/stream/channelid/1038125325?ticket=094A41745B8E507519B94BE8FF811BB46BD274F5&profile=pass
-#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="860279199a8d27e30ca767f93fbc8e15",true X-ZYTE
+#EXTINF:-1,true X-ZYTE
 http://184.82.147.223:9981/stream/channelid/427360902?ticket=5F2C34C36D5F39D8A5229152AD71F936A67F63FE&profile=pass
-#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="59753c3469efc28251e19ecf6344ce1c",MTV
+#EXTINF:-1,MTV
 http://184.82.147.223:9981/stream/channelid/876377433?ticket=F106E1781C649CBAEF716943E76341EC2A8B170C&profile=pass
-#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="99f4db10a68ca2c106c66a49d86eb096",ATV
+#EXTINF:-1,ATV
 http://184.82.147.223:9981/stream/channelid/282850457?ticket=05D7E00FCAB2B097414DC6CBBBCB402B83B166DF&profile=pass
-#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="7c51d81c3908d3cc763241eb0420cc1d",V Channel
+#EXTINF:-1,V Channel
 http://184.82.147.223:9981/stream/channelid/483938684?ticket=0795F91C68F877502BDBC7C9007629217F81160B&profile=pass
-#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="c26d497e8063061a4f4c75218790186e",MVTV
+#EXTINF:-1,MVTV
 http://184.82.147.223:9981/stream/channelid/2118741442?ticket=1C7FD9D508348C5437A4E7ADD25D7A7905914F48&profile=pass
-#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="b9b5af10d178dd8530d390842dc84b59",WWE
+#EXTINF:-1,WWE
 http://184.82.147.223:9981/stream/channelid/279950777?ticket=CBC43F5283BCA343F9EC3AFD630BDC5EC4E03D57&profile=pass
-#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="f79abd808e075e1e6f858c6fb1fe39a5",FOX Action
+#EXTINF:-1,FOX Action
 http://184.82.147.223:9981/stream/channelid/12425975?ticket=1E2E110F194ED95E2A6AE076E2AC317B10D7EDB1&profile=pass
-#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="427d00a7bc295f667344262050c2d77c",CTB
+#EXTINF:-1,CTB
 http://184.82.147.223:9981/stream/channelid/654343490?ticket=167D98D33098340C022A5E0DBFEB211A5F7531F7&profile=pass
-#EXTINF:-1 logo="http://184.82.147.223:9981/imagecache/1" tvg-id="dcb889bc53d6b42c7486ee99ca873bf9" group-title="184.82",CNA ChannelNewsAsia
+#EXTINF:-1 group-title="184.82",CNA ChannelNewsAsia
 http://184.82.147.223:9981/stream/channelid/1015658716?ticket=4FE92C8DCA9A134CD5777C3B8FF336EF8B8C9E3B&profile=pass
 
-#EXTINF:-1 group-title="host4",Fox Action Movies HD (EN)
-http://host4.dynns.com/stream/206105b34a1c44b886c6cd3c59105803.m3u8
-#EXTINF:-1,MTV Live HD
-http://host4.dynns.com/stream/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
-#EXTINF:-1,MTV Asia
-http://host4.dynns.com/stream/ebce2f5139c54eda8b111e5923af9c9e.m3u8
-#EXTINF:-1,MTV China
-http://host4.dynns.com/stream/deb56e700dbc4d9ea5af08e9d300a675.m3u8
-#EXTINF:-1,Fox Sport 2 (TH)
-http://host4.dynns.com/stream/1fd48f2cd616439ca4162478e572d681.m3u8
-#EXTINF:-1,Fox Sport 2 (EN)
-http://host4.dynns.com/stream/02cb79ab0b0c418f847148ca9e2baed4.m3u8
-#EXTINF:-1,Fox Sport 3 (TH)
-http://host4.dynns.com/stream/b254601a75724ad79e2633f3d307e331.m3u8
-#EXTINF:-1 group-title="host4",Fox Sport 3 (EN)
-http://host4.dynns.com/stream/443ea6ef1768462aaffdff38ce2a4355.m3u8
+
 
 + + + + + 185.180.221.194:8278/streams/d + + + + +
 
@@ -6936,9 +6922,7 @@ http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv3.m3u8
 
 + + + + + http://200.115.190.213:8000/playlist.m3u8 + + + + +
 
-#EXTINF:-1,00 - TEST
-http://200.115.190.213:8000/play/NutyMjBFC7cd9bWQ/index.m3u8
-#EXTINF:-1,5800 - SONY HD
+#EXTINF:-1 group-title="200.115",5800 - SONY HD
 http://200.115.190.213:8000/play/wQWF578wnjn2Lnrz/index.m3u8
 #EXTINF:-1,5801 - LTV
 http://200.115.190.213:8000/play/CTNCGw9LatkAH8tA/index.m3u8
@@ -7212,22 +7196,8 @@ http://200.115.190.213:8000/play/95KZ3fsmfRhA387z/index.m3u8
 http://200.115.190.213:8000/play/8r3qmk4pggfET2MK/index.m3u8
 #EXTINF:-1,5892 - Oprah Winfrey Network
 http://200.115.190.213:8000/play/Y3UqZEQnMncf8YtO/index.m3u8
-#EXTINF:-1,5893 -  OUTDOOR CHANNEL
+#EXTINF:-1 group-title="200.115",5893 -  OUTDOOR CHANNEL
 http://200.115.190.213:8000/play/w5C89YdsYPndmDF8/index.m3u8
-#EXTINF:-1,5894 - Penthouse
-http://200.115.190.213:8000/play/32KrDbK8nSLJr5EN/index.m3u8
-#EXTINF:-1,5895 - RAI
-http://200.115.190.213:8000/play/g8nvqYfMa2tkU5em/index.m3u8
-#EXTINF:-1,5896 - RT INTERNACIONAL
-http://200.115.190.213:8000/play/p4rHJ9aN8BqCadyK/index.m3u8
-#EXTINF:-1,5897 - RTVE
-http://200.115.190.213:8000/play/DycXYSLMZedC8xjR/index.m3u8
-#EXTINF:-1,5898 - SEXTREM
-http://200.115.190.213:8000/play/5NF6H3EAyctLSrEz/index.m3u8
-#EXTINF:-1,5899 - SPACE HD
-http://200.115.190.213:8000/play/RPU46bVWEJBWXjqy/index.m3u8
-#EXTINF:-1,5901 - UNAH TV
-http://200.115.190.213:8000/play/Cu6hUaz4Kvje67fs/index.m3u8
 
 
 + + + + + rtmp://203.81.81.230:80 + + + + +
@@ -7981,6 +7951,25 @@ http://203.162.235.41:16918
 http://203.162.235.41:16919
 offline
 http://203.162.235.41:16920
+
++ + + + + http://host4.dynns.com + + + + +
+
+#EXTINF:-1 group-title="host4",Fox Action Movies HD (EN)
+http://host4.dynns.com/stream/206105b34a1c44b886c6cd3c59105803.m3u8
+#EXTINF:-1,MTV Live HD
+http://host4.dynns.com/stream/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
+#EXTINF:-1,MTV Asia
+http://host4.dynns.com/stream/ebce2f5139c54eda8b111e5923af9c9e.m3u8
+#EXTINF:-1,MTV China
+http://host4.dynns.com/stream/deb56e700dbc4d9ea5af08e9d300a675.m3u8
+#EXTINF:-1,Fox Sport 2 (TH)
+http://host4.dynns.com/stream/1fd48f2cd616439ca4162478e572d681.m3u8
+#EXTINF:-1,Fox Sport 2 (EN)
+http://host4.dynns.com/stream/02cb79ab0b0c418f847148ca9e2baed4.m3u8
+#EXTINF:-1,Fox Sport 3 (TH)
+http://host4.dynns.com/stream/b254601a75724ad79e2633f3d307e331.m3u8
+#EXTINF:-1 group-title="host4",Fox Sport 3 (EN)
+http://host4.dynns.com/stream/443ea6ef1768462aaffdff38ce2a4355.m3u8
 
 + + + + + htv/VN + + + + +
 
