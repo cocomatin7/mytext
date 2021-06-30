@@ -9961,6 +9961,81 @@ http://103.253.72.107:9997/Premier4/index.m3u8
  tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 5" group-title="103.253", True Premiere Football HD5* |103
 http://103.253.72.107:9997/Premier5/index.m3u8
 
+
++ + + + + http://115.42.65.142:8000/playlist.m3u8 + + + + + 
+
+#EXTINF:-1 group-title="115.42",&PRIVE HD-Rs 19
+http://115.42.65.142:8000/play/a06i/index.m3u8
+#EXTINF:-1,&flix HD-Rs19
+http://115.42.65.142:8000/play/a057/index.m3u8
+#EXTINF:-1,&pictures -Rs19
+http://115.42.65.142:8000/play/a05o/index.m3u8
+#EXTINF:-1,ASTRO WWE
+http://115.42.65.142:8000/play/a0cb/index.m3u8
+#EXTINF:-1,B1G-DSTV-DISCOVERY
+http://115.42.65.142:8000/play/a0cx/index.m3u8
+#EXTINF:-1,B1G-DSTV-DISNEY CHANNEL
+http://115.42.65.142:8000/play/a0d4/index.m3u8
+#EXTINF:-1,B1G-DSTV-NATGEO WILD
+http://115.42.65.142:8000/play/a0d0/index.m3u8
+#EXTINF:-1,B1G-DSTV-NATIONAL GEOGRAPHIC
+http://115.42.65.142:8000/play/a0cz/index.m3u8
+#EXTINF:-1,B1G-OSN-STAR MOVIES
+http://115.42.65.142:8000/play/a0d2/index.m3u8
+#EXTINF:-1,B1G-OSN-STAR WORLD
+http://115.42.65.142:8000/play/a0d1/index.m3u8
+#EXTINF:-1,B1G-UK-ANIMAL PLANET
+http://115.42.65.142:8000/play/a0cy/index.m3u8
+#EXTINF:-1,B1G-UK-BABY TV
+http://115.42.65.142:8000/play/a0d3/index.m3u8
+#EXTINF:-1,BBC WORLD - Rs 1
+http://115.42.65.142:8000/play/a04x/index.m3u8
+#EXTINF:-1,BEIN BOX OFFICE 1
+http://115.42.65.142:8000/play/a0ci/index.m3u8
+#EXTINF:-1,BEIN BOX OFFICE 2
+http://115.42.65.142:8000/play/a0cj/index.m3u8
+#EXTINF:-1,BEIN SPORTS 1HD ENGLISH
+http://115.42.65.142:8000/play/a0cu/index.m3u8
+#EXTINF:-1,CNN INTERNATIONAL 
+http://115.42.65.142:8000/play/a0bb/index.m3u8
+#EXTINF:-1,MN+ HD-Rs 10
+http://115.42.65.142:8000/play/a04e/index.m3u8
+#EXTINF:-1,SKY CINEMA ACTION
+http://115.42.65.142:8000/play/a0cq/index.m3u8
+#EXTINF:-1,SKY CINEMA HITS
+http://115.42.65.142:8000/play/a0cm/index.m3u8
+#EXTINF:-1,SKY CINEMA HORRO
+http://115.42.65.142:8000/play/a0cp/index.m3u8
+#EXTINF:-1,SKY CINEMA PREMIER 
+http://115.42.65.142:8000/play/a0co/index.m3u8
+#EXTINF:-1,SKY SPORTS CRICKET
+http://115.42.65.142:8000/play/a08k/index.m3u8
+#EXTINF:-1,SKY SPORTS EPL
+http://115.42.65.142:8000/play/a08l/index.m3u8
+#EXTINF:-1,SONY MAX 2 - Rs 1
+http://115.42.65.142:8000/play/a06r/index.m3u8
+#EXTINF:-1,SONY MAX HD
+http://115.42.65.142:8000/play/a046/index.m3u8
+#EXTINF:-1,SONY SIX HD
+http://115.42.65.142:8000/play/a043/index.m3u8
+#EXTINF:-1,SONY TEN 1HD
+http://115.42.65.142:8000/play/a042/index.m3u8
+#EXTINF:-1,SONY TEN 3HD
+http://115.42.65.142:8000/play/a049/index.m3u8
+#EXTINF:-1,STAR MOVI-Rs 19
+http://115.42.65.142:8000/play/a04f/index.m3u8
+#EXTINF:-1,Sony Ten 2 HD- Rs 17
+http://115.42.65.142:8000/play/a05r/index.m3u8
+#EXTINF:-1,Star Movi-Rs 10
+http://115.42.65.142:8000/play/a04g/index.m3u8
+#EXTINF:-1,ZEE CINEMA-Rs19
+http://115.42.65.142:8000/play/a05g/index.m3u8
+#EXTINF:-1,ZEE Cafe H-Rs19
+http://115.42.65.142:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="115.42",ZEE TV HD-Rs 19
+http://115.42.65.142:8000/play/a055/index.m3u8
+
+
 + + + + + 139.99.84.196:8822 + + + + + DOWN
 
  group-title="139.99",beIN 1
