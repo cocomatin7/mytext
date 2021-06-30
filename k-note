@@ -1052,7 +1052,6 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
-
 #EXTINF:-1,CHAMPION TV 2
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
 #EXTINF:-1,CHAMPION TV 3
@@ -1340,7 +1339,7 @@ http://31.220.41.87:8081/live/bein7.stream/playlist.m3u8
 http://31.220.41.87:8081/live/bein8.stream/playlist.m3u8
 #EXTINF:-1,beIN 9SD
 http://31.220.41.87:8081/live/bein9.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport/Bamar",beIN 10SD
+#EXTINF:-1,beIN 10SD
 http://31.220.41.87:8081/live/bein10.stream/playlist.m3u8
 #EXTINF:-1,beIN 1FR
 http://31.220.41.90:8081/live/fr-beinsport1.stream/playlist.m3u8
@@ -1467,8 +1466,6 @@ https://app.mb13.men/c/livedo/truepremierfootball1-hd.m3u8
 https://app.mb13.men/c/livedo/truepremierfootball2-hd.m3u8
  True Premiere Football HD3 |mb13
 https://app.mb13.men/c/livedo/truepremierfootball3-hd.m3u8
-
-
 
 
 ,afn
@@ -1742,7 +1739,6 @@ http://ebqt.blogspot.com/p/a9.html
 http://ebqt.blogspot.com/p/a10.html
 
 http://streamwat.ch/custom/player/#http://77.247.109.94/hls/k1.m3u8
-
 
 
 http://77.247.109.94/hls/k1.m3u8
@@ -2153,7 +2149,7 @@ https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,stingray karaoke 1
 https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-
+= = = = = offline = = = = = 
 Reality Kings TV
 http://iptv.xprime.one/177/mono.m3u8
 XY Max HD
@@ -2305,7 +2301,7 @@ XL Time
 http://iptv.xprime.one/r/8/index.m3u8
 Evil Angel
 http://iptv.xprime.one/r/7/index.m3u8
-
+= = = = = offline = = = = = 
 
 ,AsianCrush
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767?X-Plex-Token=MorUy57ijWhGe4ixZb_T
@@ -2399,9 +2395,6 @@ http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/25.m3u8
 
 #EXTINF:-1,Clubbing TV HD
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
-
-
-
 
 
 #EXTINF:-1,MTV 80s
@@ -4883,56 +4876,6 @@ http://73.85.95.69:9981/stream/channelid/1615409066
 ,AR | Telecom Netflix - Sci-Fi HD
 http://73.85.95.69:9981/stream/channelid/1675538817
 
-,AUS | FOX SPORTS 501 | UHD
-http://73.85.95.69:9981/stream/channelid/450726659
-,AUS | FOX SPORTS 502 | UHD
-http://73.85.95.69:9981/stream/channelid/1937526109
-,AUS | FOX SPORTS 503 | UHD
-http://73.85.95.69:9981/stream/channelid/419543262
-,AUS | FOX SPORTS 504 | UHD
-http://73.85.95.69:9981/stream/channelid/1792913790
-,AUS | FOX SPORTS 505 | UHD
-http://73.85.95.69:9981/stream/channelid/1224950853
-,AUS | FOX SPORTS 506
-http://73.85.95.69:9981/stream/channelid/335061205
-,AUS | FOX SPORTS 507
-http://73.85.95.69:9981/stream/channelid/2123946778
-
-,BE | ELEVEN PRO LEAGUE 1 FHD
-http://73.85.95.69:9981/stream/channelid/424292189
-,BE | ELEVEN PRO LEAGUE 1 HD (FR) ONLY LIVE EVENTS
-http://73.85.95.69:9981/stream/channelid/678393486
-,BE | ELEVEN PRO LEAGUE 2 FHD
-http://73.85.95.69:9981/stream/channelid/686621315
-,BE | ELEVENSPORT 1 (BE)
-http://73.85.95.69:9981/stream/channelid/792309151
-,BE | ELEVENSPORT 1 (FR)
-http://73.85.95.69:9981/stream/channelid/2036735359
-,BE | ELEVENSPORT 2 (BE)
-http://73.85.95.69:9981/stream/channelid/1129565783
-,BE | ELEVENSPORT 2 (FR)
-http://73.85.95.69:9981/stream/channelid/249919123
-,BE | ELEVENSPORT 3 (BE)
-http://73.85.95.69:9981/stream/channelid/692175182
-,BE | ELEVENSPORT 3 (FR)
-http://73.85.95.69:9981/stream/channelid/1887781988
-
-,BE | PLAY SPORTS 1
-http://73.85.95.69:9981/stream/channelid/1584157180
-,BE | PLAY SPORTS 2
-http://73.85.95.69:9981/stream/channelid/986613544
-,BE | PLAY SPORTS 3
-http://73.85.95.69:9981/stream/channelid/1881893103
-,BE | PLAY SPORTS 4
-http://73.85.95.69:9981/stream/channelid/1859811682
-,BE | PLAY SPORTS 5
-http://73.85.95.69:9981/stream/channelid/2116217674
-
-,BE | VOO SPORT 1
-http://73.85.95.69:9981/stream/channelid/1994608875
-,BE | VOO SPORT 2
-http://73.85.95.69:9981/stream/channelid/1322006129
-
 ,BS | BEIN SPORT 6 FUHD
 http://73.85.95.69:9981/stream/channelid/1059943829
 ,BS | bein sport 8 FUHD
@@ -5051,93 +4994,6 @@ http://73.85.95.69:9981/stream/channelid/1384391997
 ,CA | CNN INTERNATIONAL
 http://73.85.95.69:9981/stream/channelid/659696324
 
-,CA | Sports Net 360 FHD
-http://73.85.95.69:9981/stream/channelid/947319363
-,CA | Sports Net East HD
-http://73.85.95.69:9981/stream/channelid/1679779617
-,CA | Sports Net One HD
-http://73.85.95.69:9981/stream/channelid/1032343983
-,CA | Sports Net Ontario HD
-http://73.85.95.69:9981/stream/channelid/1156101624
-,CA | Sports Net Pacific HD CA
-http://73.85.95.69:9981/stream/channelid/413171533
-,CA | Sports Net West HD CA
-http://73.85.95.69:9981/stream/channelid/1802392939
-,CA | SUPER CHANNEL 1 Ca
-http://73.85.95.69:9981/stream/channelid/2092700122
-,CA | SUPER CHANNEL 2 Ca
-http://73.85.95.69:9981/stream/channelid/717474675
-,CA | SUPER CHANNEL 4 Ca
-http://73.85.95.69:9981/stream/channelid/895791462
-,CA | Super Channel Fuse
-http://73.85.95.69:9981/stream/channelid/161738458
-,CA | SUPER ECRAN 1
-http://73.85.95.69:9981/stream/channelid/1103856105
-,CA | Super Ecran 2 (FR)
-http://73.85.95.69:9981/stream/channelid/2018707101
-,CA | Super Ecran 3 (FR)
-http://73.85.95.69:9981/stream/channelid/1117372062
-,CA | Super Ecran 4 (FR)
-http://73.85.95.69:9981/stream/channelid/917698081
-
-,CA | TSN 1 HD CA
-http://73.85.95.69:9981/stream/channelid/319864807
-,CA | TSN 2 FHD CA
-http://73.85.95.69:9981/stream/channelid/1952244265
-,CA | TSN 2 HD CA
-http://73.85.95.69:9981/stream/channelid/1841524464
-,CA | TSN 3 FHD CA
-http://73.85.95.69:9981/stream/channelid/2137126881
-,CA | TSN 3 HD CA
-http://73.85.95.69:9981/stream/channelid/774564477
-,CA | TSN 4 FHD CA
-http://73.85.95.69:9981/stream/channelid/734736062
-,CA | TSN 5 FHD CA
-http://73.85.95.69:9981/stream/channelid/1113273662
-,CA | TSN 5 HD CA
-http://73.85.95.69:9981/stream/channelid/1766707683
-
-,DE | Sky Sport Bundesliga 1 HD
-http://73.85.95.69:9981/stream/channelid/745496698
-,DE | SKY SPORT BUNDESLIGA 1 HD
-http://73.85.95.69:9981/stream/channelid/1981504294
-,DE | SKY SPORT BUNDESLIGA 10 HD
-http://73.85.95.69:9981/stream/channelid/1242347155
-,DE | Sky Sport Bundesliga 10 HD 1080p
-http://73.85.95.69:9981/stream/channelid/1783698228
-,DE | SKY SPORT BUNDESLIGA 2 HD
-http://73.85.95.69:9981/stream/channelid/517967464
-,DE | Sky Sport Bundesliga 2 HD
-http://73.85.95.69:9981/stream/channelid/2006236941
-,DE | SKY SPORT BUNDESLIGA 3 HD
-http://73.85.95.69:9981/stream/channelid/1614254872
-,DE | Sky Sport Bundesliga 3 HD
-http://73.85.95.69:9981/stream/channelid/1684203475
-,DE | SKY SPORT BUNDESLIGA 4 HD
-http://73.85.95.69:9981/stream/channelid/435021432
-,DE | Sky Sport Bundesliga 4 HD
-http://73.85.95.69:9981/stream/channelid/2135113046
-,DE | SKY SPORT BUNDESLIGA 5 HD
-http://73.85.95.69:9981/stream/channelid/1077989836
-,DE | Sky Sport Bundesliga 5 HD
-http://73.85.95.69:9981/stream/channelid/1606824329
-,DE | SKY SPORT BUNDESLIGA 6 HD
-http://73.85.95.69:9981/stream/channelid/1407816604
-,DE | Sky Sport Bundesliga 6 HD
-http://73.85.95.69:9981/stream/channelid/1620137252
-,DE | Sky Sport Bundesliga 7 HD
-http://73.85.95.69:9981/stream/channelid/644507645
-,DE | SKY SPORT BUNDESLIGA 7 HD
-http://73.85.95.69:9981/stream/channelid/955394363
-,DE | SKY SPORT BUNDESLIGA 8 HD
-http://73.85.95.69:9981/stream/channelid/66636111
-,DE | Sky Sport Bundesliga 8 HD 1080p
-http://73.85.95.69:9981/stream/channelid/2106711672
-,DE | SKY SPORT BUNDESLIGA 9 HD
-http://73.85.95.69:9981/stream/channelid/709697185
-,DE | Sky Sport Bundesliga 9 HD 1080p
-http://73.85.95.69:9981/stream/channelid/19535169
-
 ,FR | BEIN SPORT 1 HD
 http://73.85.95.69:9981/stream/channelid/1393900924
 ,FR | BEIN SPORT 2 HD
@@ -5152,46 +5008,6 @@ http://73.85.95.69:9981/stream/channelid/596006037
 http://73.85.95.69:9981/stream/channelid/1991061657
 ,FR | BEIN SPORTS MAX 3 HD
 http://73.85.95.69:9981/stream/channelid/1074021328
-
-,FR | MULTISPORTS 1
-http://73.85.95.69:9981/stream/channelid/213356656
-,FR | MULTISPORTS 2
-http://73.85.95.69:9981/stream/channelid/1538268930
-,FR | MULTISPORTS 3
-http://73.85.95.69:9981/stream/channelid/1361601267
-,FR | MULTISPORTS 5
-http://73.85.95.69:9981/stream/channelid/1702009152
-,FR | MULTISPORTS 6
-http://73.85.95.69:9981/stream/channelid/995359222
-
-,FR4K+ | BEINSPORT 1 HD
-http://73.85.95.69:9981/stream/channelid/1492832790
-,FR4K+ | BEINSPORT 3 HD
-http://73.85.95.69:9981/stream/channelid/729242697
-
-,FR4K+ | CANAL SPORT HD
-http://73.85.95.69:9981/stream/channelid/12808511
-
-,FR4K+ | RMC SPORT 1 HD
-http://73.85.95.69:9981/stream/channelid/2035052584
-,FR4K+ | RMC SPORT 3 HD
-http://73.85.95.69:9981/stream/channelid/2109397547
-,FR4K+ | RMC SPORT 4 HD
-http://73.85.95.69:9981/stream/channelid/89024850
-,FR4K+ | RMC SPORT LIVE 10 HD
-http://73.85.95.69:9981/stream/channelid/920814663
-,FR4K+ | RMC SPORT LIVE 11 HD
-http://73.85.95.69:9981/stream/channelid/660010205
-,FR4K+ | RMC SPORT LIVE 12 HD
-http://73.85.95.69:9981/stream/channelid/105716249
-,FR4K+ | RMC SPORT LIVE 5
-http://73.85.95.69:9981/stream/channelid/1564450544
-,FR4K+ | RMC SPORT LIVE 6
-http://73.85.95.69:9981/stream/channelid/25269541
-,FR4K+ | RMC SPORT LIVE 8
-http://73.85.95.69:9981/stream/channelid/187589333
-,FR4K+ | RMC SPORT LIVE 9
-http://73.85.95.69:9981/stream/channelid/1448451385
 
 ,IN | & Pictures HD
 http://73.85.95.69:9981/stream/channelid/1173056574
@@ -5238,15 +5054,6 @@ http://73.85.95.69:9981/stream/channelid/120817117
 ,IN | Zee Cinema HD
 http://73.85.95.69:9981/stream/channelid/1424401906
 
-,KSA | KSA SPORTS 1 HD
-http://73.85.95.69:9981/stream/channelid/711931876
-,KSA | KSA SPORTS 2 HD
-http://73.85.95.69:9981/stream/channelid/707136887
-,KSA | KSA SPORTS 3 HD
-http://73.85.95.69:9981/stream/channelid/862053795
-,KSA | KSA SPORTS 4HD
-http://73.85.95.69:9981/stream/channelid/633248006
-
 ,MTV Base
 http://73.85.95.69:9981/stream/channelid/995558522
 ,MTV Classic
@@ -5262,76 +5069,6 @@ http://73.85.95.69:9981/stream/channelid/1788943559
 http://73.85.95.69:9981/stream/channelid/289484771
 ,MY | KBS World HD
 http://73.85.95.69:9981/stream/channelid/1257144248
-
-,PL | Eleven Sports 1 HD
-http://73.85.95.69:9981/stream/channelid/444024789
-,PL | Eleven Sports 2 HD
-http://73.85.95.69:9981/stream/channelid/322391761
-,PL | Eleven Sports 3 HD
-http://73.85.95.69:9981/stream/channelid/1516725858
-,PL | Eleven Sports 4 HD
-http://73.85.95.69:9981/stream/channelid/2038023386
-
-,PT | ELEVEN 2 HD
-http://73.85.95.69:9981/stream/channelid/1541662217
-,PT | ELEVEN 1 HD
-http://73.85.95.69:9981/stream/channelid/1157526158
-,PT | ELEVEN 3 HD
-http://73.85.95.69:9981/stream/channelid/974065777
-,PT | ELEVEN 4 HD
-http://73.85.95.69:9981/stream/channelid/209538759
-,PT | ELEVEN 5 HD
-http://73.85.95.69:9981/stream/channelid/1319160797
-,PT | ELEVEN 6 HD
-http://73.85.95.69:9981/stream/channelid/1579974697
-,PT | Eleven Sports 1
-http://73.85.95.69:9981/stream/channelid/2063075390
-,PT | Eleven Sports 2
-http://73.85.95.69:9981/stream/channelid/1696634709
-,PT | Eleven Sports 3
-http://73.85.95.69:9981/stream/channelid/347600439
-,PT | Eleven Sports 4
-http://73.85.95.69:9981/stream/channelid/1523245156
-,PT | Eleven Sports 5
-http://73.85.95.69:9981/stream/channelid/1628513252
-,PT | Eleven Sports 6
-http://73.85.95.69:9981/stream/channelid/576154003
-
-,PT | SPORT TV + HD
-http://73.85.95.69:9981/stream/channelid/749246541
-,PT | SPORT TV 1
-http://73.85.95.69:9981/stream/channelid/216240618
-,PT | SPORT TV 1 HD
-http://73.85.95.69:9981/stream/channelid/1026143119
-,PT | SPORT TV 2
-http://73.85.95.69:9981/stream/channelid/649324653
-,PT | SPORT TV 2 HD
-http://73.85.95.69:9981/stream/channelid/14379862
-,PT | SPORT TV 3
-http://73.85.95.69:9981/stream/channelid/1077557255
-,PT | SPORT TV 4
-http://73.85.95.69:9981/stream/channelid/607092659
-,PT | SPORT TV 4 HD
-http://73.85.95.69:9981/stream/channelid/1306392000
-,PT | SPORT TV 5
-http://73.85.95.69:9981/stream/channelid/1315471161
-
-,RO | DIGI Sport 1
-http://73.85.95.69:9981/stream/channelid/415611992
-,RO | Digi Sport 1 FHD
-http://73.85.95.69:9981/stream/channelid/673288989
-,RO | DIGI Sport 2
-http://73.85.95.69:9981/stream/channelid/589143606
-,RO | DIGI Sport 3
-http://73.85.95.69:9981/stream/channelid/828244453
-,RO | DIGI Sport 4
-http://73.85.95.69:9981/stream/channelid/1292387202
-,RO | Digi Sports 2 FHD
-http://73.85.95.69:9981/stream/channelid/1343904350
-,RO | Digi Sports 3 FHD
-http://73.85.95.69:9981/stream/channelid/842319748
-,RO | Digi Sports 4 FHD
-http://73.85.95.69:9981/stream/channelid/1265668601
 
 ,SAF | SuperSport Cricket
 http://73.85.95.69:9981/stream/channelid/372627355
@@ -5352,20 +5089,6 @@ http://73.85.95.69:9981/stream/channelid/1044009903
 ,UK | B4U Music
 http://73.85.95.69:9981/stream/channelid/150544742
 
-,UK | BT Sport 1 FHD
-http://73.85.95.69:9981/stream/channelid/1611143425
-,UK | BT Sport 1 HD
-http://73.85.95.69:9981/stream/channelid/584580720
-,UK | BT Sport 2 FHD
-http://73.85.95.69:9981/stream/channelid/1379462714
-,UK | BT Sport 2 HD
-http://73.85.95.69:9981/stream/channelid/2144280117
-,UK | BT Sport 3 FHD
-http://73.85.95.69:9981/stream/channelid/113283116
-,UK | BT Sport 3 HD
-http://73.85.95.69:9981/stream/channelid/795475113
-,UK | CNN International
-http://73.85.95.69:9981/stream/channelid/1332996699
 ,UK | MTV
 http://73.85.95.69:9981/stream/channelid/561137124
 ,UK | MTV Classic
@@ -5487,154 +5210,6 @@ http://73.85.95.69:9981/stream/channelid/1430166091
 
 ,USA | NBCSN
 http://73.85.95.69:9981/stream/channelid/99657386
-
-,USA | Showtime 2
-http://73.85.95.69:9981/stream/channelid/2083826055
-,USA | Showtime Beyond HD
-http://73.85.95.69:9981/stream/channelid/1000212410
-,USA | Showtime East HD
-http://73.85.95.69:9981/stream/channelid/761276205
-,USA | Showtime Extreme
-http://73.85.95.69:9981/stream/channelid/757056508
-,USA | ShowTime Family Zone HD
-http://73.85.95.69:9981/stream/channelid/1384847183
-,USA | Showtime Next HD
-http://73.85.95.69:9981/stream/channelid/1499437160
-,USA | Showtime West HD
-http://73.85.95.69:9981/stream/channelid/2022943773
-,USA | Showtime Women HD
-http://73.85.95.69:9981/stream/channelid/792332186
-,USA | Smithsonian Channel HD
-http://73.85.95.69:9981/stream/channelid/1522531900
-,USA | Sony Movie Channel
-http://73.85.95.69:9981/stream/channelid/1557714275
-
-,USA | Starz Cinema HD
-http://73.85.95.69:9981/stream/channelid/1229180727
-,USA | Starz Comedy HD
-http://73.85.95.69:9981/stream/channelid/1130620763
-,USA | Starz East HD
-http://73.85.95.69:9981/stream/channelid/471236855
-,USA | Starz Edge HD
-http://73.85.95.69:9981/stream/channelid/1285645952
-,USA | Starz Encore Action HD
-http://73.85.95.69:9981/stream/channelid/1877923725
-,USA | Starz Encore Classic HD
-http://73.85.95.69:9981/stream/channelid/138953792
-,USA | Starz Encore East HD
-http://73.85.95.69:9981/stream/channelid/812447081
-,USA | Starz Encore Family HD
-http://73.85.95.69:9981/stream/channelid/982919285
-,USA | Starz Encore Suspense HD
-http://73.85.95.69:9981/stream/channelid/1065756014
-,USA | Starz Encore West HD
-http://73.85.95.69:9981/stream/channelid/1305351170
-,USA | Starz Encore Westerns HD
-http://73.85.95.69:9981/stream/channelid/517501481
-,USA | Starz HD
-http://73.85.95.69:9981/stream/channelid/275041392
-,USA | Starz In Black HD
-http://73.85.95.69:9981/stream/channelid/117658667
-,USA | Starz In Black HD
-http://73.85.95.69:9981/stream/channelid/781198170
-,USA | Starz Kids & Family HD
-http://73.85.95.69:9981/stream/channelid/1122654965
-,USA | Starz West HD
-http://73.85.95.69:9981/stream/channelid/203860405
-
-XXX | ALBA 1
-http://73.85.95.69:9981/stream/channelid/778491388
-XXX | ALBA 2
-http://73.85.95.69:9981/stream/channelid/1577371635
-XXX | ALBA 3
-http://73.85.95.69:9981/stream/channelid/1048686840
-XXX | BALKAN EROTIC
-http://73.85.95.69:9981/stream/channelid/2087566059
-XXX | Brazzers TV
-http://73.85.95.69:9981/stream/channelid/558975413
-XXX | DUSK!
-http://73.85.95.69:9981/stream/channelid/360771226
-XXX | FAKE TAXI
-http://73.85.95.69:9981/stream/channelid/848813852
-XXX | HotClup 13
-http://73.85.95.69:9981/stream/channelid/691432274
-XXX | Lesbians
-http://73.85.95.69:9981/stream/channelid/132860189
-XXX | Live Cams XXX
-http://73.85.95.69:9981/stream/channelid/984876088
-XXX | Mia Khalifa
-http://73.85.95.69:9981/stream/channelid/78180449
-XXX | Oldtimer
-http://73.85.95.69:9981/stream/channelid/1501666703
-XXX | PINK EROTIC 1
-http://73.85.95.69:9981/stream/channelid/1333663057
-XXX | PINK EROTIC 2
-http://73.85.95.69:9981/stream/channelid/231519360
-XXX | Reality Kings TV (18 )
-http://73.85.95.69:9981/stream/channelid/412756969
-XXX | Red Traffic Big Dick
-http://73.85.95.69:9981/stream/channelid/1744112021
-XXX | Red Traffic Big Tits
-http://73.85.95.69:9981/stream/channelid/367678839
-XXX | Red Traffic Lesbian
-http://73.85.95.69:9981/stream/channelid/1296454946
-XXX | Red Traffic Milf
-http://73.85.95.69:9981/stream/channelid/1188171786
-XXX | Red Traffic Pornstar
-http://73.85.95.69:9981/stream/channelid/2073743156
-XXX | Red Traffic POV
-http://73.85.95.69:9981/stream/channelid/1601352029
-XXX | Red Traffic Teen
-http://73.85.95.69:9981/stream/channelid/2055226155
-XXX | Red Traffic Threesome
-http://73.85.95.69:9981/stream/channelid/479670792
-XXX | REDBOX ADULTS 1
-http://73.85.95.69:9981/stream/channelid/1227581651
-XXX | REDBOX ADULTS 10
-http://73.85.95.69:9981/stream/channelid/982833316
-XXX | REDBOX ADULTS 2
-http://73.85.95.69:9981/stream/channelid/1566503277
-XXX | REDBOX ADULTS 3
-http://73.85.95.69:9981/stream/channelid/1851337105
-XXX | REDBOX ADULTS 4
-http://73.85.95.69:9981/stream/channelid/183250001
-XXX | REDBOX ADULTS 5
-http://73.85.95.69:9981/stream/channelid/595387758
-XXX | REDBOX ADULTS 6
-http://73.85.95.69:9981/stream/channelid/1285458544
-XXX | REDBOX ADULTS 7
-http://73.85.95.69:9981/stream/channelid/80637940
-XXX | REDBOX ADULTS 8
-http://73.85.95.69:9981/stream/channelid/1718337942
-XXX | REDBOX ADULTS 9
-http://73.85.95.69:9981/stream/channelid/764113326
-XXX | Redlight HD (18 )
-http://73.85.95.69:9981/stream/channelid/188034813
-XXX | TBB 5
-http://73.85.95.69:9981/stream/channelid/1794050355
-XXX | X Bunga Bunga (18 )
-http://73.85.95.69:9981/stream/channelid/1631365734
-XXX | XY Max HD (18 )
-http://73.85.95.69:9981/stream/channelid/2145206748
-
-,|AFR MUSIC| AFRO MUSIC
-http://73.85.95.69:9981/stream/channelid/2015723562
-,|AFR MUSIC| TRACE AFRICA
-http://73.85.95.69:9981/stream/channelid/1960063123
-,|AFR MUSIC| TRACE AFRICA*
-http://73.85.95.69:9981/stream/channelid/826921861
-,|AFR MUSIC| TRACE MIZKI
-http://73.85.95.69:9981/stream/channelid/381257614
-,|AFR MUSIC| TRACE MIZKI*
-http://73.85.95.69:9981/stream/channelid/82816768
-,|AFR MUSIC| TRACE TOCA
-http://73.85.95.69:9981/stream/channelid/1114974159
-,|AFR MUSIC| TRACE TROPICAL
-http://73.85.95.69:9981/stream/channelid/196435345
-,|AFR MUSIC| TRACE URBAN
-http://73.85.95.69:9981/stream/channelid/626146143
-,|AFR MUSIC| TRACE URBAN*
-http://73.85.95.69:9981/stream/channelid/230483557
 
 ,|UK| Zee cinema
 http://73.85.95.69:9981/stream/channelid/1852679880
