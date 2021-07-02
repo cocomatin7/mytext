@@ -20252,13 +20252,13 @@ http://gooserace.xyz:2052/streaming/clients_live.php?extension=m3u8&username=arm
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=armando&password=armando&stream=2107266
 #EXTINF:-1,DSTV: SuperSport PSL
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107267
-#EXTINF:-1,DSTV: SuperSport Premier League
+#EXTINF:-1 tvg-id="ss.premier.league.ze" tvg-name="ss.premier.league.ze" tvg-logo="https://media.tv4.live/ss.premier.league.ze.png",SuperSport Premier League
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=armando&password=armando&stream=2107268
-#EXTINF:-1,DSTV: SuperSport Premier League'
+#EXTINF:-1 tvg-id="ss.premier.league.ze" tvg-name="ss.premier.league.ze" tvg-logo="https://media.tv4.live/ss.premier.league.ze.png",SuperSport Premier League'
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107268
 #EXTINF:-1,DSTV: SuperSport 4
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107269
-#EXTINF:-1,DSTV: SuperSport Football
+#EXTINF:-1 tvg-id="ss.football.ze" tvg-name="ss.football.ze" tvg-logo="https://media.tv4.live/ss.football.ze.png",SuperSport Football
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107270
 #EXTINF:-1,DSTV: SuperSport Variety 1
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107271
@@ -20280,11 +20280,11 @@ http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vande
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107279
 #EXTINF:-1,DSTV: SuperSport Motorsport
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107280
-#EXTINF:-1,DSTV: SuperSport La Liga
+#EXTINF:-1 tvg-id="ss.la.liga.ze" tvg-name="ss.la.liga.ze" tvg-logo="https://media.tv4.live/ss.la.liga.ze.png",SuperSport La Liga
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107281
 #EXTINF:-1,DSTV: SuperSport Golf
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107282
-#EXTINF:-1,DSTV: SuperSport MaXimo 1
+#EXTINF:-1 tvg-id="ss.mximo.1.ze" tvg-name="ss.mximo.1.ze" tvg-logo="https://media.tv4.live/ss.mximo.1.ze.png",SuperSport MaXimo 1
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107283
 #EXTINF:-1,DSTV: SuperSport Play
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107284
