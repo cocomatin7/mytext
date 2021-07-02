@@ -22089,21 +22089,21 @@ http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=292024&type=hls
 #EXTINF:-1,ZA: SuperSport Cricket FHD
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=292023&type=hls
-#EXTINF:-1,ZA: SuperSport Football FHD
+#EXTINF:-1 tvg-id="ss.football.ze" tvg-name="ss.football.ze" tvg-logo="https://media.tv4.live/ss.football.ze.png",SuperSport Football HD
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=292022&type=hls
 #EXTINF:-1,ZA: SuperSport Golf FHD
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=292021&type=hls
 #EXTINF:-1,ZA: SuperSport Grandstand FHD
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=292020&type=hls
-#EXTINF:-1,ZA: SuperSport LaLiga FHD
+#EXTINF:-1 tvg-id="ss.la.liga.ze" tvg-name="ss.la.liga.ze" tvg-logo="https://media.tv4.live/ss.la.liga.ze.png",SuperSport La Liga HD
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=292019&type=hls
-#EXTINF:-1,ZA: SuperSport Maximo HD
+#EXTINF:-1 tvg-id="ss.mximo.1.ze" tvg-name="ss.mximo.1.ze" tvg-logo="https://media.tv4.live/ss.mximo.1.ze.png",SuperSport MaXimo HD
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=292018&type=hls
 #EXTINF:-1,ZA: SuperSport MotorSport HD
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=292017&type=hls
 #EXTINF:-1,ZA: SuperSport Play HD
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=292016&type=hls
-#EXTINF:-1,ZA: SuperSport Premier League FHD
+#EXTINF:-1 tvg-id="ss.premier.league.ze" tvg-name="ss.premier.league.ze" tvg-logo="https://media.tv4.live/ss.premier.league.ze.png",SuperSport Premier League HD
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=292015&type=hls
 #EXTINF:-1,ZA: SuperSport PSL FHD
 http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username=88888&password=99999&stream=292014&type=hls
@@ -22959,13 +22959,13 @@ http://sniperstv.vip:8080/live/jordan/jordan/349.m3u8
 
 #EXTINF:-1,[SPO*] SuperSport 00 Blitz
 http://sniperstv.vip:8080/live/jordan/jordan/4736.m3u8
-#EXTINF:-1,[SPO*] SuperSport 00 MaXimo
+#EXTINF:-1 tvg-id="ss.mximo.1.ze" tvg-name="ss.mximo.1.ze" tvg-logo="https://media.tv4.live/ss.mximo.1.ze.png",SuperSport MaXimo 1
 http://sniperstv.vip:8080/live/jordan/jordan/4737.m3u8
 #EXTINF:-1,[SPO*] SuperSport 01 |offline
 http://sniperstv.vip:8080/live/jordan/jordan/4738.m3u8
 #EXTINF:-1,[SPO*] SuperSport Cricket
 http://sniperstv.vip:8080/live/jordan/jordan/4739.m3u8
-#EXTINF:-1,[SPO*] SuperSport Maximo
+#EXTINF:-1 tvg-id="ss.mximo.1.ze" tvg-name="ss.mximo.1.ze" tvg-logo="https://media.tv4.live/ss.mximo.1.ze.png",SuperSport MaXimo 1
 http://sniperstv.vip:8080/live/jordan/jordan/4740.m3u8
 #EXTINF:-1,[SPO*] SuperSport Variety 4
 http://sniperstv.vip:8080/live/jordan/jordan/4741.m3u8
