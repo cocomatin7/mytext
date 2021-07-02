@@ -5992,17 +5992,17 @@ http://connor:str94eEt@82.45.49.11:9981/stream/mux/c79bcdd8fd31f655de0a7cbd11014
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/af7e2b22429db50db3d40df8ec81ed66
 #EXTINF:-1, AF ZA SuperSport Cricket (FHD)
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/30c66b4b62c0432e61f5e04abe3a8c66
-#EXTINF:-1, AF ZA SuperSport Football
+#EXTINF:-1 tvg-id="ss.football.ze" tvg-name="ss.football.ze" tvg-logo="https://media.tv4.live/ss.football.ze.png",SuperSport Football
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/ef3ddebafd3245994f403187743224e5
-#EXTINF:-1, AF ZA SuperSport Football Plus (FHD)
+#EXTINF:-1 tvg-id="ss.football.plus.ze" tvg-name="ss.football.plus.ze" tvg-logo="https://media.tv4.live/ss.football.plus.ze.png",SuperSport Football+
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/cc73b9ce101811f47003f85b2af887c8
 #EXTINF:-1, AF ZA SuperSport Golf (FHD)
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/57e81a6a5c951f0d17fff73f9124a835
 #EXTINF:-1, AF ZA SuperSport Grandstand (FHD)
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/82f8dd1d347c3684759bde2df5df19a7
-#EXTINF:-1, AF ZA SuperSport La Liga (FHD)
+#EXTINF:-1 tvg-id="ss.la.liga.ze" tvg-name="ss.la.liga.ze" tvg-logo="https://media.tv4.live/ss.la.liga.ze.png",SuperSport La Liga
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/87ee06798d4413c7ae6cc81d6b516585
-#EXTINF:-1, AF ZA SuperSport MaXimo 1
+#EXTINF:-1 tvg-id="ss.mximo.1.ze" tvg-name="ss.mximo.1.ze" tvg-logo="https://media.tv4.live/ss.mximo.1.ze.png",SuperSport MaXimo 1
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/4e42af75af388327cf65f0b6d8659cef
 #EXTINF:-1, AF ZA SuperSport PSL (FHD)
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/3116ef84662c8e41c238bd54ea58c080
@@ -6012,7 +6012,7 @@ http://connor:str94eEt@82.45.49.11:9981/stream/mux/92d50b8dd26f3860e4f55224fb15d
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/6f72da9d6810b654dd53d73e49688643
 #EXTINF:-1, AF ZA SuperSport Play 5
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/7d852f52a0b872e71d5626aab0890204
-#EXTINF:-1, AF ZA SuperSport Premier League (FHD)
+#EXTINF:-1 tvg-id="ss.premier.league.ze" tvg-name="ss.premier.league.ze" tvg-logo="https://media.tv4.live/ss.premier.league.ze.png",SuperSport Premier League
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/a62594c2bb3035fb8ce177215f6afcdb
 #EXTINF:-1, AF ZA SuperSport Rugby (FHD)
 http://connor:str94eEt@82.45.49.11:9981/stream/mux/cf449faac7f374216f55fa30f287b74a
@@ -20037,7 +20037,7 @@ http://forevertv.me:8080/live/Xtz88@mgoA/83SKilAbln/60930.m3u8
 http://forevertv.me:8080/live/Xtz88@mgoA/83SKilAbln/60931.m3u8
 #EXTINF:-1,AF- SuperSport 1
 http://forevertv.me:8080/live/Xtz88@mgoA/83SKilAbln/60962.m3u8
-#EXTINF:-1 group-title="forevertv",AF- SUPERSPORT MAXIMO
+#EXTINF:-1 tvg-id="ss.mximo.1.ze" tvg-name="ss.mximo.1.ze" tvg-logo="https://media.tv4.live/ss.mximo.1.ze.png" group-title="forevertv",SuperSport MaXimo 1
 http://forevertv.me:8080/live/Xtz88@mgoA/83SKilAbln/60963.m3u8
 
 + + + + + freeiptvgen.com:25461 + + + + +
