@@ -15,7 +15,7 @@ http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
 
 http://159.192.73.198:1072/astro4
 
-
+http://185.226.88.3:1036/get.php?username=backup&password=backup&type=m3u < null < 5-1 < few RTSH + x
 
 #EXTINF:-1,ASSP1
 http://3.0.20.58:8000/play/ASSP1/index.m3u8
@@ -96,6 +96,8 @@ http://203.135.57.173:8000/play/a00y/index.m3u8
 #EXTINF:-1,Zee Zest HD - Rs 10.00
 http://203.135.57.173:8000/play/a00a/index.m3u8
 
+http://la.iptvdinmax.eu:2052/get.php?username=Carolina&password=Carolina&type=m3u
+Real Url: la.iptvdinmax.eu:2052     Status: Active    Created: 11/4/2021 10:47:27 PM     Expires: 11/4/2022 10:47:00 PM    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
 
 
 BBC SPORTS
@@ -111,8 +113,7 @@ http://eu.mazystreams.xyz/live/4/playlist.m3u8
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 
 
-http://freeiptvgen.com:25461/get.php?username=302172&password=freeiptvgen&type=m3u
-Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 5/5/2022 1:42:06 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
 
 http://iptv.tugestion.cloud:25461/get.php?username=Dvsp-kowshik_Restream&password=pdccTbzoyj&type=m3u
 Real Url: iptv.tugestion.cloud:25461     Status: Active    Created: 28/6/2021 8:10:40 PM     Expires: Null    Active Connections: 0     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
@@ -20595,6 +20596,54 @@ http://forevertv.me:8080/live/Xtz88@mgoA/83SKilAbln/60963.m3u8
 http://freeiptvgen.com:25461/get.php?username=203957&password=freeiptvgen&type=m3u
 Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 27/5/2022 9:51:03 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
+http://freeiptvgen.com:25461/get.php?username=35314&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 13/5/2022 12:58:54 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=35391&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 2/5/2022 11:00:00 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=35395&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 2/5/2022 11:00:00 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=35218&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 9/5/2022 3:01:54 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=35125&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 16/5/2022 4:23:07 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=35057&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 9/5/2022 5:10:56 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=34978&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 2/5/2022 11:00:00 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=34816&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 2/5/2022 11:00:00 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=34612&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 15/5/2022 5:31:00 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=34585&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 2/5/2022 11:00:00 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=203957&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 27/5/2022 9:51:03 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=985600&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 2/5/2022 11:00:00 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=198772&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 2/5/2022 11:00:00 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=175628&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 16/5/2022 9:50:04 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=220897&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 15/5/2022 11:26:01 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://freeiptvgen.com:25461/get.php?username=302172&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 5/5/2022 1:42:06 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
 #EXTINF:-1 group-title="freeiptvgen",AR: beIN Sports Max HD 1
 http://freeiptvgen.com:25461/live/203957/freeiptvgen/19952952.m3u8
 #EXTINF:-1,AR: beIN Sports Max HD 2
@@ -23152,6 +23201,9 @@ Real Url: ses.ma:80     Status: Active    Created: 28/5/2021 3:33:58 PM     Expi
 
 http://s1.showplustv.com:1997/get.php?username=79956amigoIAHDAC&password=IUIAD56scoYaks&type=m3u
 Real Url: s1.showplustv.com:1997     Status: Active    Created: 28/2/2020 10:21:14 AM     Expires: Null    Active Connections: 372     Maximum Connections: 400     Formats: "m3u8","ts","rtmp" < DOWN
+
+http://media.haxed.net/get.php?username=3193343502003&password=5783598286565&type=m3u
+Real Url: starshare.live:8080     Status: Active    Created: 29/7/2020 7:23:35 AM     Expires: 1/7/2021 12:38:36 PM    Active Connections: 4     Maximum Connections: 3     Formats: "m3u8","ts","rtmp" < Expired
 
 
 + + + + + securepoint.io:83/pie.buzz:83 + + + + + 28/5/2021 + + + + +
