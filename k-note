@@ -17,14 +17,6 @@ http://api.queroassistir.tv:80/vod/marcos26/marcos26/series/max/14896.mp4
 #EXTINF:-1 logo="http://88.98.232.148:9981/imagecache/2" tvg-id="69bde3a827b4995fe11bfe1db8907edf",ITV FHD
 http://88.98.232.148:9981/stream/channelid/686013801?profile=pass
 
-The Marksman (2021) 
-https://www.googleapis.com/drive/v3/files/1MziUofW73wGrEgz-OiI_Iwsyy78TjpWF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-Chernobyl Ep02
-https://www.googleapis.com/drive/v3/files/1rJQRnO41bCz_hyLcEeBjGl-T2mwZE9sU?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
-Chernobyl Ep05
-https://www.googleapis.com/drive/v3/files/14uVo0vFbrIPPNOxR79gaJ7_XIanI6nv2?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
-
-
 https://n1.userdrive.me:183/d/z6jr7dat2as5ln23nxjonq3eedbqkhqqs4jxgne56gsl3bat2i5ytfbodrdrvvaokdr424bt/IIn%20This%20Corner%20of%20the%20World%20.720p(CM).mp4 K- - - OK
 
 https://drive.google.com/file/d/1FZvrmKl4cliccKnZrd1k47JEANkP9DW4/view?usp=sharing
@@ -49,14 +41,8 @@ http://xtv.mooo.com/claromxkr.php?id=HBO_HD&calidad=4&f=playlist.m3u8
 http://re.strah.video:1234/play/extasyhd/index.m3u8
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
-Chernobyl E02
-https://www.googleapis.com/drive/v3/files/1rJQRnO41bCz_hyLcEeBjGl-T2mwZE9sU?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
-Chernobyl Ep03
-https://www.googleapis.com/drive/v3/files/1WlkVVrMRpOS7cn0l_mT7PsQTdpUEDzAf?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
-Chernobyl E04
-https://www.googleapis.com/drive/v3/files/1HSWz6PesChZ9E61MC7z7dc5FMDDfik3e?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
-Chernobyl E05
-https://www.googleapis.com/drive/v3/files/14uVo0vFbrIPPNOxR79gaJ7_XIanI6nv2?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+
+
 
 http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
 
@@ -205,14 +191,12 @@ https://rebrand.ly/cmax-mm
 https://raw.githubusercontent.com/bestcommt2/FuckID/master/cinemax.m3u8
 
 
-
 http://www.tettv.diradjafm.com/m3u/CINEMAX-TETtv.m3u8
  HBO |tettv
 http://www.tettv.diradjafm.com/m3u/HBO%20TETtv.m3u8
 http://www.tettv.diradjafm.com/m3u/HBOhits-TETtv.m3u8
 http://www.tettv.diradjafm.com/m3u/HBOsig-TETtv.m3u8
 http://www.tettv.diradjafm.com/m3u/HOREE-TETtv.m3u8
-
 
 
 #EXTINF:-1 tvg-id="HBO HD", HBO |mm
@@ -686,6 +670,18 @@ http://balancer1.ottmex.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
 #EXTINF:-1,GOLDEN PREMIER
 http://balancer1.ottmex.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
 
+#EXTINF:-1,Chernobyl E02
+https://www.googleapis.com/drive/v3/files/1rJQRnO41bCz_hyLcEeBjGl-T2mwZE9sU?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,Chernobyl Ep03
+https://www.googleapis.com/drive/v3/files/1WlkVVrMRpOS7cn0l_mT7PsQTdpUEDzAf?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,Chernobyl E04
+https://www.googleapis.com/drive/v3/files/1HSWz6PesChZ9E61MC7z7dc5FMDDfik3e?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+#EXTINF:-1,Chernobyl E05
+https://www.googleapis.com/drive/v3/files/14uVo0vFbrIPPNOxR79gaJ7_XIanI6nv2?key=AIzaSyCRzXhjqtw7v3ql8pg6BqtD9swL8DuZKSI&alt=media
+
+#EXTINF:-1,The Marksman (2021) 
+https://www.googleapis.com/drive/v3/files/1MziUofW73wGrEgz-OiI_Iwsyy78TjpWF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="movies" tvg-logo="",  Avatar (2009)
 https://glus-st.mthcdn.com/stream/video02/2018/01/11/1515662135/1515662135_720.mp4
 #EXTINF:-1 group-title="movies",Transformers 1(2007)
@@ -696,6 +692,7 @@ https://glus-st.mthcdn.com/stream/video02/2017/12/17/1513487216/1513487216_720.m
 https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513413876/1513413876_480.mp4
 #EXTINF:-1 group-title="movies",Transformers 4 Age Of Extinction(2014)
 https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513434647/1513434647_480.mp4
+
 
 CN
 https://www.dropbox.com/s/dl/0sdk8s92ccgbux7/124
@@ -723,23 +720,6 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 
 #EXTINF:-1,TNT SPORTS
 https://akamai2-br.cdn.booyah.live/hls/1000048/71112076.m3u8
-
-
-beIN 5 MAX
-https://lon-haproxy.angelthump.com/hls/treddd03/index.m3u8
-DAZN 2
-https://lon-haproxy.angelthump.com/hls/formulaonline/index.m3u8?stream=formulaonline
-
-https://lon-haproxy.angelthump.com/hls/korskks/index.m3u8
-
-#EXTINF:-1,BBC SPORTS
-http://eu.mazystreams.xyz/live/1/playlist.m3u8
-#EXTINF:-1,FS 1
-http://eu.mazystreams.xyz/live/2/playlist.m3u8
-#EXTINF:-1,FS 2
-http://eu.mazystreams.xyz/live/3/playlist.m3u8
-#EXTINF:-1,ESPN
-http://eu.mazystreams.xyz/live/4/playlist.m3u8
 
  tvg-id="99466fe13dad61bf4fa932c8eae29755",BS 2 AR
 http://5.101.174.206:9981/stream/channelid/1634682521?ticket=BB4D7B876C5390A63F47479A699480B1EED36A22&profile=webtv-h264-aac-matroska
@@ -979,28 +959,15 @@ https://b.pscdn.live/hls/bein-sports-max-2.m3u8
 
 -/-/-/-/-/- offline -/-/-/-/-/-/-
 
-#EXTINF:-1 ,CH 90-beIN 2 Eng
-https://linesports.xyz/wiz/lschannel-90.php
-#EXTINF:-1 ,CH 91-beIN 1
-https://linesports.xyz/wiz/lschannel-91.php
-#EXTINF:-1 ,CH 92-beIN 2
-https://linesports.xyz/wiz/lschannel-92.php
-#EXTINF:-1 ,CH 93-beIN 3
-https://linesports.xyz/wiz/lschannel-93.php
-#EXTINF:-1 ,CH 94-beIN 3 SD
-https://linesports.xyz/wiz/lschannel-94.php
-#EXTINF:-1 ,CH 95-beIN 5
-https://linesports.xyz/wiz/lschannel-95.php
-#EXTINF:-1 ,CH 96-beIN 6
-https://linesports.xyz/wiz/lschannel-96.php
-#EXTINF:-1 ,CH 97-Olympic
-https://linesports.xyz/wiz/lschannel-97.php
-#EXTINF:-1 ,CH 98-beIN 1 Premium
-https://linesports.xyz/wiz/lschannel-98.php
-#EXTINF:-1 ,CH 99-beIN 2 Premium
-https://linesports.xyz/wiz/lschannel-99.php
-#EXTINF:-1 ,CH 100-beIN 3 Premium
-https://linesports.xyz/wiz/lschannel-100.php
+#EXTINF:-1,BBC SPORTS
+http://eu.mazystreams.xyz/live/1/playlist.m3u8
+#EXTINF:-1,FS 1
+http://eu.mazystreams.xyz/live/2/playlist.m3u8
+#EXTINF:-1,FS 2
+http://eu.mazystreams.xyz/live/3/playlist.m3u8
+#EXTINF:-1,ESPN
+http://eu.mazystreams.xyz/live/4/playlist.m3u8
+
 
 = = = = not work = = = = = 
 CH 5 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
@@ -1334,6 +1301,36 @@ http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6229/index.m3u8
 
 -/-/-/-/-/-
 
+#EXTINF:-1 ,CH 90-beIN 2 Eng
+https://linesports.xyz/wiz/lschannel-90.php
+#EXTINF:-1 ,CH 91-beIN 1
+https://linesports.xyz/wiz/lschannel-91.php
+#EXTINF:-1 ,CH 92-beIN 2
+https://linesports.xyz/wiz/lschannel-92.php
+#EXTINF:-1 ,CH 93-beIN 3
+https://linesports.xyz/wiz/lschannel-93.php
+#EXTINF:-1 ,CH 94-beIN 3 SD
+https://linesports.xyz/wiz/lschannel-94.php
+#EXTINF:-1 ,CH 95-beIN 5
+https://linesports.xyz/wiz/lschannel-95.php
+#EXTINF:-1 ,CH 96-beIN 6
+https://linesports.xyz/wiz/lschannel-96.php
+#EXTINF:-1 ,CH 97-Olympic
+https://linesports.xyz/wiz/lschannel-97.php
+#EXTINF:-1 ,CH 98-beIN 1 Premium
+https://linesports.xyz/wiz/lschannel-98.php
+#EXTINF:-1 ,CH 99-beIN 2 Premium
+https://linesports.xyz/wiz/lschannel-99.php
+#EXTINF:-1 ,CH 100-beIN 3 Premium
+https://linesports.xyz/wiz/lschannel-100.php
+
+#EXTINF:-1,beIN 5 MAX
+https://lon-haproxy.angelthump.com/hls/treddd03/index.m3u8
+#EXTINF:-1,DAZN 2
+https://lon-haproxy.angelthump.com/hls/formulaonline/index.m3u8?stream=formulaonline
+N.A
+https://lon-haproxy.angelthump.com/hls/korskks/index.m3u8
+
 SONY TEN offline 
 http://scontent.1xcdn.xyz/j2/Ten1_HD_HLS.m3u8
 #EXTINF:-1,SONY TEN 2
@@ -1341,139 +1338,7 @@ http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
 #EXTINF:-1,SONY TEN 3
 http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
 
-+ + + http://3.0.20.58:8000/playlist.m3u8 + + +
 
-#EXTINF:-1 group-title="3.0",ASSP1
-http://3.0.20.58:8000/play/ASSP1/index.m3u8
-#EXTINF:-1,ASSP2
-http://3.0.20.58:8000/play/ASSP2/index.m3u8
-http://3.0.20.58:8000/play/ASSP2/index.mpegts
-#EXTINF:-1,ASSP3
-http://3.0.20.58:8000/play/ASSP3/index.m3u8
-#EXTINF:-1,ASSP4
-http://3.0.20.58:8000/play/ASSP4/index.m3u8
-#EXTINF:-1,Arena
-http://3.0.20.58:8000/play/Arena/index.m3u8
-#EXTINF:-1,Bein 2 MAX
-http://3.0.20.58:8000/play/BeinMax2/index.m3u8
-#EXTINF:-1,Bein 3 MAX
-http://3.0.20.58:8000/play/BeinMax3/index.m3u8
-#EXTINF:-1,Bein 4 MAX
-http://3.0.20.58:8000/play/BeinMax4/index.m3u8
-#EXTINF:-1,Bein Premium 1
-http://3.0.20.58:8000/play/Bein1Premium/index.m3u8
-#EXTINF:-1,Bein Premium 2
-http://3.0.20.58:8000/play/Bein2Premium/index.m3u8
-#EXTINF:-1,Bein Premium 3
-http://3.0.20.58:8000/play/Bein3Premium/index.m3u8
-#EXTINF:-1,Bein Sport 1
-http://3.0.20.58:8000/play/Bein-Sport-1/index.m3u8
-#EXTINF:-1,Bein Sport 2
-http://3.0.20.58:8000/play/Bein-Sport-2/index.m3u8
-#EXTINF:-1,Bein Sport 3
-http://3.0.20.58:8000/play/Bein-Sport-3/index.m3u8
-#EXTINF:-1,Bein Sport 4
-http://3.0.20.58:8000/play/Bein-Sport-4/index.m3u8
-#EXTINF:-1,Bein Sport 5
-http://3.0.20.58:8000/play/Bein-Sport-5/index.m3u8
-#EXTINF:-1,Bein Sport 6
-http://3.0.20.58:8000/play/Bein-Sport-6/index.m3u8
-#EXTINF:-1,Bein Sport 7
-http://3.0.20.58:8000/play/Bein-Sport-7/index.m3u8
-#EXTINF:-1 group-title="3.0",TVRI SPORT
-http://3.0.20.58:8000/play/TVRIHD/index.m3u8
-
-
-
-#EXTINF:-1 group-title="31.220",DAZN 1IT
-http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
-#EXTINF:-1,DAZN 2IT
-http://31.220.41.87:8081/live/it-dazn2.stream/chunks.m3u8
-#EXTINF:-1,beIN LaLiga
-http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
-#EXTINF:-1,beIN ES
-http://31.220.41.87:8081/live/es-bein.stream/playlist.m3u8
-#EXTINF:-1,beIN 1SD
-http://31.220.41.87:8081/live/bein1.stream/playlist.m3u8
-#EXTINF:-1,beIN 2SD
-http://31.220.41.87:8081/live/bein2.stream/playlist.m3u8
-#EXTINF:-1,beIN 3SD
-http://31.220.41.87:8081/live/bein3.stream/playlist.m3u8
-#EXTINF:-1,beIN 4SD
-http://31.220.41.87:8081/live/bein4.stream/playlist.m3u8
-#EXTINF:-1,beIN 5SD
-http://31.220.41.87:8081/live/bein5.stream/playlist.m3u8
-#EXTINF:-1,beIN 6SD
-http://31.220.41.87:8081/live/bein6.stream/playlist.m3u8
-#EXTINF:-1,beIN 7SD
-http://31.220.41.87:8081/live/bein7.stream/playlist.m3u8
-#EXTINF:-1,beIN 8SD
-http://31.220.41.87:8081/live/bein8.stream/playlist.m3u8
-#EXTINF:-1,beIN 9SD
-http://31.220.41.87:8081/live/bein9.stream/playlist.m3u8
-#EXTINF:-1,beIN 10SD
-http://31.220.41.87:8081/live/bein10.stream/playlist.m3u8
-#EXTINF:-1,beIN 1FR
-http://31.220.41.90:8081/live/fr-beinsport1.stream/playlist.m3u8
-#EXTINF:-1,beIN 2FR
-http://31.220.41.90:8081/live/fr-beinsport2.stream/playlist.m3u8
-#EXTINF:-1 group-title="31.220",beIN 3FR
-http://31.220.41.90:8081/live/fr-beinsport3.stream/playlist.m3u8
-
-+ + + https://paste.in/fTsoqB + + +
-
-#EXTINF:-1 group-title="Sport/Bamar",beIN SPORT 1 |31
-http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
-#EXTINF:-1,beIN SPORT 2 |31
-http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
-#EXTINF:-1,beIN SPORT 3 |31
-http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
-#EXTINF:-1,beIN SPORT 4 |31
-http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
-#EXTINF:-1,beIN SPORT 5 |31
-http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
-#EXTINF:-1,beIN SPORT 6 |31
-http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
-#EXTINF:-1,beIN SPORT 7 |31
-http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
-#EXTINF:-1,beIN SPORT 8 |31
-http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
-#EXTINF:-1,beIN SPORT 9 |31
-http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
-#EXTINF:-1,beIN SPORT 10 |31
-http://31.220.41.88:8081/live/bein10.stream/playlist.m3u8
-#EXTINF:-1,beIN SPORT 11 |31
-http://31.220.41.88:8081/live/bein11.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport/Bamar",beIN SPORT 12 |31
-http://31.220.41.88:8081/live/bein12.stream/playlist.m3u8
-
-http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
-
-http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
-http://31.220.41.88:8081/live/arena2.stream/playlist.m3u8
-http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
-http://31.220.41.88:8081/live/arena4.stream/playlist.m3u8
-http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
-
-http://31.220.41.88:8081/live/de-skybundes1.stream/playlist.m3u8
-http://31.220.41.88:8081/live/de-skybundes2.stream/playlist.m3u8
-http://31.220.41.88:8081/live/de-skybundes3.stream/playlist.m3u8
-http://31.220.41.88:8081/live/de-skybundes4.stream/playlist.m3u8
-http://31.220.41.88:8081/live/de-skybundes5.stream/playlist.m3u8
-
-http://31.220.41.88:8081/live/es-laligatvbar.stream/chunks.m3u8
-http://31.220.41.88:8081/live/es-movistar-futbol.stream/playlist.m3u8
-
-http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
-http://31.220.41.88:8081/live/nl-foxsports2.stream/playlist.m3u8
-http://31.220.41.88:8081/live/nl-foxsports3.stream/playlist.m3u8
-http://31.220.41.88:8081/live/nl-foxsports4.stream/playlist.m3u8
-http://31.220.41.88:8081/live/nl-foxsports5.stream/playlist.m3u8
-http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
-
-http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
-http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
-http://31.220.41.88:8081/live/nl-ziggoracing.stream/chunks.m3u8
 
 
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=rk <<< to check and convert
@@ -2630,9 +2495,6 @@ https://942aece530c1422894fddbd5867984d1.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 group-title="BamarTV", 80s party |loop.tv
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/3.m3u8
 
-+ + + +  http://116.255.9.228:9981//extjs.html + + + + + DOWN
-
-+ + + + http://139.99.84.196:8822/extjs.html + + + + + SG + + + + + + DOWN
 
 + + + + + cdn-globalnet + + + + +
 
@@ -2972,6 +2834,49 @@ https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1
  group-title="mptalive",Skynet Sport 6 MM
 https://mptalive6-a.akamaihd.net:443/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1602257857~exp=9007200856998848~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=404fff48c1b210f9ca2991e37dd89bd7131fb5063df82cc931208cfd64600051&post=-199830756_111&cc_key=
 
+
++ + + http://3.0.20.58:8000/playlist.m3u8 + + +
+
+#EXTINF:-1 group-title="3.0",ASSP1
+http://3.0.20.58:8000/play/ASSP1/index.m3u8
+#EXTINF:-1,ASSP2
+http://3.0.20.58:8000/play/ASSP2/index.m3u8
+http://3.0.20.58:8000/play/ASSP2/index.mpegts
+#EXTINF:-1,ASSP3
+http://3.0.20.58:8000/play/ASSP3/index.m3u8
+#EXTINF:-1,ASSP4
+http://3.0.20.58:8000/play/ASSP4/index.m3u8
+#EXTINF:-1,Arena
+http://3.0.20.58:8000/play/Arena/index.m3u8
+#EXTINF:-1,Bein 2 MAX
+http://3.0.20.58:8000/play/BeinMax2/index.m3u8
+#EXTINF:-1,Bein 3 MAX
+http://3.0.20.58:8000/play/BeinMax3/index.m3u8
+#EXTINF:-1,Bein 4 MAX
+http://3.0.20.58:8000/play/BeinMax4/index.m3u8
+#EXTINF:-1,Bein Premium 1
+http://3.0.20.58:8000/play/Bein1Premium/index.m3u8
+#EXTINF:-1,Bein Premium 2
+http://3.0.20.58:8000/play/Bein2Premium/index.m3u8
+#EXTINF:-1,Bein Premium 3
+http://3.0.20.58:8000/play/Bein3Premium/index.m3u8
+#EXTINF:-1,Bein Sport 1
+http://3.0.20.58:8000/play/Bein-Sport-1/index.m3u8
+#EXTINF:-1,Bein Sport 2
+http://3.0.20.58:8000/play/Bein-Sport-2/index.m3u8
+#EXTINF:-1,Bein Sport 3
+http://3.0.20.58:8000/play/Bein-Sport-3/index.m3u8
+#EXTINF:-1,Bein Sport 4
+http://3.0.20.58:8000/play/Bein-Sport-4/index.m3u8
+#EXTINF:-1,Bein Sport 5
+http://3.0.20.58:8000/play/Bein-Sport-5/index.m3u8
+#EXTINF:-1,Bein Sport 6
+http://3.0.20.58:8000/play/Bein-Sport-6/index.m3u8
+#EXTINF:-1,Bein Sport 7
+http://3.0.20.58:8000/play/Bein-Sport-7/index.m3u8
+#EXTINF:-1 group-title="3.0",TVRI SPORT
+http://3.0.20.58:8000/play/TVRIHD/index.m3u8
+
 + + + + + 27.254.130.62/feed + + + + +
 
 #EXTINF:-1 group-title="27.254",SUN
@@ -3048,6 +2953,105 @@ http://27.254.130.62/feed/LC58/index.m3u8
 ER http://27.254.130.62/feed/LC59/index.m3u8
 
 http://27.254.130.62/feed/chboomberang/tracks-v1a1/mono.m3u8
+
+
+
+
++ + + http://31.220.41.87:8081 + + +
+
+#EXTINF:-1 group-title="31.220",DAZN 1IT
+http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
+#EXTINF:-1,DAZN 2IT
+http://31.220.41.87:8081/live/it-dazn2.stream/chunks.m3u8
+#EXTINF:-1,beIN LaLiga
+http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1,beIN ES
+http://31.220.41.87:8081/live/es-bein.stream/playlist.m3u8
+#EXTINF:-1,beIN 1SD
+http://31.220.41.87:8081/live/bein1.stream/playlist.m3u8
+#EXTINF:-1,beIN 2SD
+http://31.220.41.87:8081/live/bein2.stream/playlist.m3u8
+#EXTINF:-1,beIN 3SD
+http://31.220.41.87:8081/live/bein3.stream/playlist.m3u8
+#EXTINF:-1,beIN 4SD
+http://31.220.41.87:8081/live/bein4.stream/playlist.m3u8
+#EXTINF:-1,beIN 5SD
+http://31.220.41.87:8081/live/bein5.stream/playlist.m3u8
+#EXTINF:-1,beIN 6SD
+http://31.220.41.87:8081/live/bein6.stream/playlist.m3u8
+#EXTINF:-1,beIN 7SD
+http://31.220.41.87:8081/live/bein7.stream/playlist.m3u8
+#EXTINF:-1,beIN 8SD
+http://31.220.41.87:8081/live/bein8.stream/playlist.m3u8
+#EXTINF:-1,beIN 9SD
+http://31.220.41.87:8081/live/bein9.stream/playlist.m3u8
+#EXTINF:-1,beIN 10SD
+http://31.220.41.87:8081/live/bein10.stream/playlist.m3u8
+#EXTINF:-1,beIN 1FR
+http://31.220.41.90:8081/live/fr-beinsport1.stream/playlist.m3u8
+#EXTINF:-1,beIN 2FR
+http://31.220.41.90:8081/live/fr-beinsport2.stream/playlist.m3u8
+#EXTINF:-1 group-title="31.220",beIN 3FR
+http://31.220.41.90:8081/live/fr-beinsport3.stream/playlist.m3u8
+
++ + + https://paste.in/fTsoqB + + +
+
+#EXTINF:-1 group-title="Sport/Bamar",beIN SPORT 1 |31
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 2 |31
+http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 3 |31
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 4 |31
+http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 5 |31
+http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 6 |31
+http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 7 |31
+http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 8 |31
+http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 9 |31
+http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 10 |31
+http://31.220.41.88:8081/live/bein10.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORT 11 |31
+http://31.220.41.88:8081/live/bein11.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",beIN SPORT 12 |31
+http://31.220.41.88:8081/live/bein12.stream/playlist.m3u8
+
+http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
+
+http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
+http://31.220.41.88:8081/live/arena2.stream/playlist.m3u8
+http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
+http://31.220.41.88:8081/live/arena4.stream/playlist.m3u8
+http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
+
+http://31.220.41.88:8081/live/de-skybundes1.stream/playlist.m3u8
+http://31.220.41.88:8081/live/de-skybundes2.stream/playlist.m3u8
+http://31.220.41.88:8081/live/de-skybundes3.stream/playlist.m3u8
+http://31.220.41.88:8081/live/de-skybundes4.stream/playlist.m3u8
+http://31.220.41.88:8081/live/de-skybundes5.stream/playlist.m3u8
+
+http://31.220.41.88:8081/live/es-laligatvbar.stream/chunks.m3u8
+http://31.220.41.88:8081/live/es-movistar-futbol.stream/playlist.m3u8
+
+http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
+http://31.220.41.88:8081/live/nl-foxsports2.stream/playlist.m3u8
+http://31.220.41.88:8081/live/nl-foxsports3.stream/playlist.m3u8
+http://31.220.41.88:8081/live/nl-foxsports4.stream/playlist.m3u8
+http://31.220.41.88:8081/live/nl-foxsports5.stream/playlist.m3u8
+http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
+
+http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
+http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
+http://31.220.41.88:8081/live/nl-ziggoracing.stream/chunks.m3u8
+
++ + + +  http://116.255.9.228:9981//extjs.html + + + + + DOWN
+
++ + + + http://139.99.84.196:8822/extjs.html + + + + + SG + + + + + + DOWN
 
 + + + + + OneTV/KH + + + + + 
 
