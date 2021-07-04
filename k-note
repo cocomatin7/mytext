@@ -4492,13 +4492,13 @@ http://46.26.248.8:9981/stream/channelid/1801765107?profile=pass
 
 + + + + + http://50.7.75.182:9981/playlist/channels + + + + + login
 
-#EXTINF:-1 group-title="50.7/TH",26511_ASSP1
+ group-title="50.7/TH",26511_ASSP1
 http://50.7.75.182:9981/stream/channelid/1967715841?ticket=E53A094875AEE2FAB4CE5D86314E86B39D2A2257&profile=pass
-#EXTINF:-1,26512_ASSP2
+,26512_ASSP2
 http://50.7.75.182:9981/stream/channelid/1006895579?ticket=62F0F7C45CF3F25CFF8877F33B99C1C18F9FF108&profile=pass
-#EXTINF:-1,26513_ASSP3
+,26513_ASSP3
 http://50.7.75.182:9981/stream/channelid/762672896?ticket=C799A907CEB08F6068C59895265C5CCAC083DE64&profile=pass
-#EXTINF:-1 group-title="50.7/TH",26514_ASSP4
+ group-title="50.7/TH",26514_ASSP4
 http://50.7.75.182:9981/stream/channelid/813529725?ticket=8E061EE7AF7F3254D597792FDB0BF6F38F10D660&profile=pass
 
 + + + + + 50.7/TH + + + + +
@@ -20880,13 +20880,13 @@ http://goiptv.life:8080/MALIS-FO/MZjFmAGWxvKKKKKKK/39414
 
 + + + + + gooserace.xyz:2052 + + + + + 2/9/2021
 
-http://gooserace.xyz:2052/get.php?username=armando&password=armando&type=m3u Expires: 12/2/2022 Connections: 4-2 
-http://gooserace.xyz:2052/get.php?username=batman1&password=batman1&type=m3u < 09/09/21 < 4-4
+http://gooserace.xyz:2052/get.php?username=armando&password=armando&type=m3u Expires: 12/2/2022 Connections: 4-4 
+http://gooserace.xyz:2052/get.php?username=batman1&password=batman1&type=m3u < 09/09/21 < 4-4 < DOWN
 http://gooserace.xyz:2052/get.php?username=donna&password=donna123&type=m3u 2/1/2022 Connections: 4-3
-http://gooserace.xyz:2052/get.php?username=michelle123&password=michelle123&type=m3u Expires: 1/6/2021 Connections: 2-2
+http://gooserace.xyz:2052/get.php?username=michelle123&password=michelle123&type=m3u Expires: 1/6/2021 Connections: 2-0
 http://gooserace.xyz:2052/get.php?username=thomas&password=thomas123&type=m3u Expires: 23/7/2021 Connections: 2-0 
-http://gooserace.xyz:2052/get.php?username=vander&password=vander&type=m3u Expires: 2/9/2021 Connections: 4-2     Formats: "m3u8","ts","rtmp"
-http://gooserace.xyz:2052/get.php?username=vonnie&password=vonnie&type=m3u Expires: 8/10/2021 Connections: 4-2 
+http://gooserace.xyz:2052/get.php?username=vander&password=vander&type=m3u Expires: 2/9/2021 Connections: 4-2 < DOWN
+http://gooserace.xyz:2052/get.php?username=vonnie&password=vonnie&type=m3u Expires: 8/10/2021 Connections: 4-2 << 
 http://gooserace.xyz:2052/rRhDcdwa/G6JiFMHnUt < N
 http://gooserace.xyz:2052/dc7ycTPf/LZBIjkP4dm < N
 http://gooserace.xyz:2052/yezS0QQW/20y6TQyRg7 < N
@@ -20896,119 +20896,119 @@ http://gooserace.xyz:2052/streaming/clients_live.php?extension=m3u8&username=arm
 #EXTINF:-1 group-title="gooserace",DSTV: SuperSport Grandstand
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=armando&password=armando&stream=2107266
 #EXTINF:-1,DSTV: SuperSport PSL
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107267
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2107267
 #EXTINF:-1 tvg-id="ss.premier.league.ze" tvg-name="ss.premier.league.ze" tvg-logo="https://media.tv4.live/ss.premier.league.ze.png",SuperSport Premier League
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=armando&password=armando&stream=2107268
 #EXTINF:-1 tvg-id="ss.premier.league.ze" tvg-name="ss.premier.league.ze" tvg-logo="https://media.tv4.live/ss.premier.league.ze.png",SuperSport Premier League'
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107268
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2107268
 #EXTINF:-1,DSTV: SuperSport 4
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107269
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2107269
 #EXTINF:-1 tvg-id="ss.football.ze" tvg-name="ss.football.ze" tvg-logo="https://media.tv4.live/ss.football.ze.png",SuperSport Football
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107270
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2107270
 #EXTINF:-1,DSTV: SuperSport Variety 1
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107271
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2107271
 #EXTINF:-1,DSTV: SuperSport Variety 2
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107272
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2107272
 #EXTINF:-1,DSTV: SuperSport Variety 3
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107273
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2107273
 #EXTINF:-1,DSTV: SuperSport Variety 4
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107274
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2107274
 #EXTINF:-1,DSTV: SuperSport Action
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107275
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2107275
 #EXTINF:-1,DSTV: SuperSport Rugby
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107276
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2107276
 #EXTINF:-1,DSTV: SuperSport Cricket
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107277
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2107277
 #EXTINF:-1,DSTV: Supersport Blitz
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107278
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2107278
 #EXTINF:-1,DSTV: SuperSport Tennis
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107279
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2107279
 #EXTINF:-1,DSTV: SuperSport Motorsport
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107280
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2107280
 #EXTINF:-1 tvg-id="ss.la.liga.ze" tvg-name="ss.la.liga.ze" tvg-logo="https://media.tv4.live/ss.la.liga.ze.png",SuperSport La Liga
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107281
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2107281
 #EXTINF:-1,DSTV: SuperSport Golf
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107282
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2107282
 #EXTINF:-1 tvg-id="ss.mximo.1.ze" tvg-name="ss.mximo.1.ze" tvg-logo="https://media.tv4.live/ss.mximo.1.ze.png",SuperSport MaXimo 1
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107283
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2107283
 #EXTINF:-1,DSTV: SuperSport Play
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2107284
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2107284
 
 #EXTINF:-1,USA: MTV Classic
 http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=armando&password=armando&stream=1524398
 #EXTINF:-1,USA: MTV Classic'
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=1524398
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=1524398
 #EXTINF:-1,MTV Base
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2484986
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2484986
 #EXTINF:-1,MTV Classic
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2484987
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2484987
 #EXTINF:-1,MTV Hits
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2484988
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2484988
 #EXTINF:-1,MTV Music
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2484989
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2484989
 
 #EXTINF:-1,Sony Max
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2485148
-http://gooserace.xyz:2052/live/vander/vander/2485148.m3u8
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2485148
+http://gooserace.xyz:2052/live/vonnie/vonnie/2485148.m3u8
 #EXTINF:-1,SONY MAX 2 (Indian)
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2485184
-http://gooserace.xyz:2052/live/vander/vander/2485184.m3u8
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2485184
+http://gooserace.xyz:2052/live/vonnie/vonnie/2485184.m3u8
 #EXTINF:-1,SONY Max HD (Indian)
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2485197
-http://gooserace.xyz:2052/live/vander/vander/2485197.m3u8
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2485197
+http://gooserace.xyz:2052/live/vonnie/vonnie/2485197.m3u8
 #EXTINF:-1,IN: Asian Sony Max 2 (Hindi) (US)
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2671752
-http://gooserace.xyz:2052/live/vander/vander/2671752.m3u8
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2671752
+http://gooserace.xyz:2052/live/vonnie/vonnie/2671752.m3u8
 #EXTINF:-1,IN: SONY MAX
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2455270
-http://gooserace.xyz:2052/live/vander/vander/2455270.m3u8
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2455270
+http://gooserace.xyz:2052/live/vonnie/vonnie/2455270.m3u8
 #EXTINF:-1,IN: SONY Max 2
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2454954
-http://gooserace.xyz:2052/live/vander/vander/2454954.m3u8
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2454954
+http://gooserace.xyz:2052/live/vonnie/vonnie/2454954.m3u8
 #EXTINF:-1,IN: SONY Max HD
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2454948
-http://gooserace.xyz:2052/live/vander/vander/2454948.m3u8
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2454948
+http://gooserace.xyz:2052/live/vonnie/vonnie/2454948.m3u8
 #EXTINF:-1,IN SONY Pix HD
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2454959
-http://gooserace.xyz:2052/live/vander/vander/2454959.m3u8
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2454959
+http://gooserace.xyz:2052/live/vonnie/vonnie/2454959.m3u8
 
 #EXTINF:-1,MY: ASTRO ASSP4 HD
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2599212
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2599212
 #EXTINF:-1,MY: ASTRO ASSP3 HD
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2599211
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2599211
 #EXTINF:-1,MY: ASTRO ASSP2 HD
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2599210
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2599210
 #EXTINF:-1,MY: ASTRO ASSP Plus HD
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2599209
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2599209
 #EXTINF:-1,MY: ASTRO ASSP HD
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2599208
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2599208
 #EXTINF:-1,MY: Astro Supersports Plus 3
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2599377
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2599377
 #EXTINF:-1,MY: Astro Supersports Plus 2
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2599376
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2599376
 #EXTINF:-1,MY: Astro SuperSports Plus 1
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2599375
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2599375
 
 #EXTINF:-1,BEIN: SPORTS 11
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2586468
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2586468
 #EXTINF:-1,BEIN: SPORTS 12
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2586469
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2586469
 #EXTINF:-1,BEIN: SPORTS 13
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2586493
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2586493
 
 #EXTINF:-1,MY: beIN Sports Max 4
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2599326
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2599326
 #EXTINF:-1,MY: beIN Sports Max 3
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2599325
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2599325
 #EXTINF:-1,MY: beIN Sports Max 2
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2599324
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2599324
 #EXTINF:-1,MY: beIN Sports Max 1
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2599323
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2599323
 
 #EXTINF:-1,Bein sports 2
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2599179
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2599179
 #EXTINF:-1 group-title="gooserace",Bein sports 1
-http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vander&password=vander&stream=2599178
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=ts&username=vonnie&password=vonnie&stream=2599178
 
 + + + + + h2.fire-iptv.cc:2052 + + + + + 
 
