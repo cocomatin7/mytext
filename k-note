@@ -61,6 +61,8 @@ https://www.googleapis.com/drive/v3/files/1FZvrmKl4cliccKnZrd1k47JEANkP9DW4?alt=
 
 http://streamwat.ch/custom/player/
 
+
+
 http://iptv.repl.co/streamlink?url=https://www.dropbox.com/s/dl/o4mn66m5w7xgc7c/hhbo-mm.m3u8 < NOT?
 http://streamwat.ch/custom/player/#https://www.dropbox.com/s/dl/o4mn66m5w7xgc7c/hhbo-mm.m3u8 K- - - working
 https://ritesh.ch/miniproxy/miniproxy.php/ < NOT?
@@ -2855,13 +2857,17 @@ https://mptalive6-a.akamaihd.net:443/83c48cc94de947f392b2d08dc1eb694c/ap-southea
 
 #EXTINF:-1 group-title="3.0",ASSP1
 http://3.0.20.58:8000/play/ASSP1/index.m3u8
+https://www.dropbox.com/s/dl/nyyi90mu7q94u59/assp.m3u8
 #EXTINF:-1,ASSP2
 http://3.0.20.58:8000/play/ASSP2/index.m3u8
+https://www.dropbox.com/s/dl/rjqhq2py7rv14r7/assp2.m3u8
 http://3.0.20.58:8000/play/ASSP2/index.mpegts
 #EXTINF:-1,ASSP3
 http://3.0.20.58:8000/play/ASSP3/index.m3u8
+https://www.dropbox.com/s/dl/tn9y6ijp1fa2f38/assp3.m3u8
 #EXTINF:-1,ASSP4
 http://3.0.20.58:8000/play/ASSP4/index.m3u8
+https://www.dropbox.com/s/dl/xtzv3j00opoem51/assp4.m3u8
 #EXTINF:-1,Arena
 http://3.0.20.58:8000/play/Arena/index.m3u8
 #EXTINF:-1,Bein 2 MAX
