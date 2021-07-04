@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://3.0.20.58:8000/play/ASSP3/index.m3u8
+http://gooserace.xyz:2052/streaming/clients_live.php?extension=m3u8&username=vonnie&password=vonnie&stream=2599211
