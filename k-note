@@ -3,6 +3,12 @@ x-tvg-url="https://rebrand.ly/k-epg"
 x-tvg-url="https://guidexl.tv4.live/"
 
 
+http://168.205.87.198:8555/get.php?username=elienecp&password=123456&type=m3u < null < 5-9
+http://168.205.87.198:8555/get.php?username=viniciusvieira&password=vieira123&type=m3u < null < 1-10
+http://tv.dansk.live:8080/get.php?username=T5ZYdgzEc6&password=3qYGesgNaG&type=m3u
+Real Url: tv.dansk.live:8080     Status: Active    Created: 26/6/2021 3:16:13 PM     Expires: Null    Active Connections: 1     Maximum Connections: 10000     Formats: "ts","rtmp"
+
+
 http://liveonscore.tv/
 http://liveonscore.tv/streams/8594149
 
@@ -23990,101 +23996,7 @@ http://supertexasiptv.ddns.net:8000/get.php?username=bktv.xyz&password=qLqJNcj9r
 + + + + + techking.uk:2095 + + + + +
 
 http://techking.uk:2095/get.php?username=tomasaranaex&password=ZBv5nzhthk6ApcWc&type=m3u
-Real Url: techking.uk:2095     Status: Active    Created: 9/6/2020 6:34:39 PM     Expires: Null    Active Connections: 171     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
-
-#EXTINF:-1 group-title="techking",BEINSPORT AR 1
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/181563.m3u8
-#EXTINF:-1,BEINSPORT AR 2
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/181564.m3u8
-#EXTINF:-1,BEINSPORT AR 3
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/181565.m3u8
-#EXTINF:-1,BEINSPORT AR 4
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/181566.m3u8
-#EXTINF:-1,BEINSPORT AR 5
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/181567.m3u8
-#EXTINF:-1,BEINSPORT AR 6
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/181568.m3u8
-#EXTINF:-1,BEINSPORT AR 7
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/181569.m3u8
-#EXTINF:-1,BEINSPORT AR 8
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/181570.m3u8
-#EXTINF:-1,BEINSPORT AR 9
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/181571.m3u8
-#EXTINF:-1,BEINSPORT AR 10
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/181572.m3u8
-
-#EXTINF:-1,AR: Bein Sports 1 HD (Premium)
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/97687.m3u8
-#EXTINF:-1,AR: BeIN Sports 1 (English)
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/40089.m3u8
-#EXTINF:-1,AR: BeIN Sports 2 (English) HD
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/43161.m3u8
-#EXTINF:-1,AR: BeIN Sports 2 HD
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/37775.m3u8
-#EXTINF:-1,AR: beIN SPORT 3 HD (English)
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/38628.m3u8
-#EXTINF:-1,AR: Bein Sports 3 HD (Premium)
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/43163.m3u8
-#EXTINF:-1,AR: BeIN Sports 2 HD
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/37778.m3u8
-#EXTINF:-1,AR: Bein Sports 7 HD
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/87728.m3u8
-#EXTINF:-1,AR: Bein Sports 3 Premium UHD
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/375.m3u8
-#EXTINF:-1,AR: Bein Sports 9 SD
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/40097.m3u8
-#EXTINF:-1,AR: Bein Sports 11 (English) HD
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/37784.m3u8
-#EXTINF:-1,AR: beIN SPORT 12 HD
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/37785.m3u8
-
-#EXTINF:-1,UK@ MTV 24 Music
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/97702.m3u8
-#EXTINF:-1,UK@ MTV Base HD
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/29485.m3u8
-#EXTINF:-1,UK@ MTV Base SD
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/97316.m3u8
-#EXTINF:-1,UK@ MTV Hits HD
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/55101.m3u8
-#EXTINF:-1,UK@ MTV Music HD
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/37343.m3u8
-#EXTINF:-1,UK@ MTV 90!s
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/97317.m3u8
-#EXTINF:-1,UK@ MTV Classic HD
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/45888.m3u8
-#EXTINF:-1,UK@ Clubland TV
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/11736.m3u8
-#EXTINF:-1,UK@ Kerrang!
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/52408.m3u8
-#EXTINF:-1,UK@ Hits Box
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/52404.m3u8
-#EXTINF:-1,UK@ TRACE Vanilla HD
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/101193.m3u8
-#EXTINF:-1,UK@ Box Hits
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/52406.m3u8
-#EXTINF:-1,UK@ Box Hits SD
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/101191.m3u8
-#EXTINF:-1,UK@ Box Upfront
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/50668.m3u8
-#EXTINF:-1,UK@ VH1
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/36957.m3u8
-#EXTINF:-1,UK@ VH1 Classic HD
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/37401.m3u8
-#EXTINF:-1,Islam Live
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/38262.m3u8
-#EXTINF:-1,UK@ 4 Music HD
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/37280.m3u8
-#EXTINF:-1,UK@ NOW 70's
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/11752.m3u8
-#EXTINF:-1,UK@ Now 90's
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/38103.m3u8
-#EXTINF:-1,UK@ B4U Movies
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/283.m3u8
-#EXTINF:-1,UK@ Zee Cinema HD
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/38328.m3u8
-#EXTINF:-1 group-title="techking",UK@ & TV
-http://techking.uk:2095/live/tomasaranaex/ZBv5nzhthk6ApcWc/11291.m3u8
-
+Real Url: techking.uk:2095     Status: Active    Created: 9/6/2020 6:34:39 PM     Expires: Null    Active Connections: 171     Maximum Connections: 200 < DOWN
 
 
 + + + + + thespeedmedia.watch:2086 + + + + +
