@@ -20674,6 +20674,23 @@ Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires:
 http://freeiptvgen.com:25461/get.php?username=302172&password=freeiptvgen&type=m3u
 Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 5/5/2022 1:42:06 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
+http://freeiptvgen.com:25461/get.php?username=406226&password=freeiptvgen&type=m3u
+Real Url: freeiptvgen.com:25461     Status: Active    Created: Null     Expires: 23/5/2022 7:40:55 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+AR: beIN Sports Max HD 1
+https://www.dropbox.com/s/dl/dd81mvh0my7svf2/beINM1.m3u8
+http://freeiptvgen.com:25461/live/406226/freeiptvgen/19952952.m3u8
+AR: beIN Sports Max HD 2
+http://freeiptvgen.com:25461/live/406226/freeiptvgen/19952953.m3u8
+AR: beIN Sports Max HD 3
+http://freeiptvgen.com:25461/live/406226/freeiptvgen/19952954.m3u8
+AR: beIN Sports Max HD 4
+http://freeiptvgen.com:25461/live/406226/freeiptvgen/19952955.m3u8
+AR: beIN Sports Max HD 5
+http://freeiptvgen.com:25461/live/406226/freeiptvgen/19952956.m3u8
+AR: beIN Sports Max HD 6
+http://freeiptvgen.com:25461/live/302172/freeiptvgen/19952957.m3u8
+
 #EXTINF:-1 group-title="freeiptvgen",AR: beIN Sports Max HD 1
 http://freeiptvgen.com:25461/live/203957/freeiptvgen/19952952.m3u8
 #EXTINF:-1,AR: beIN Sports Max HD 2
@@ -22278,6 +22295,13 @@ http://kingdiablo-iptv.com/get.php?username=live:tolgax1x&password=Kca35kdDCc&ty
 http://ottplanet.live:7788/get.php?username=2iptvma.live&password=TFuYwZukUY&type=m3u
 Real Url: ottplanet.live:7788     Status: Active    Created: 24/11/2020 6:18:09 PM     Expires: Null    Active Connections: 98     Maximum Connections: 200 < DOWN
 
++ + + + + p2p.appcasaplayer.ml:80 + + + + + null + + +
+
+
+http://p2p.appcasaplayer.ml:80/get.php?username=wilsinho&password=wilsinho&type=m3u
+Real Url: p2p.appcasaplayer.ml:80     Status: Active    Created: 1/11/2019 6:24:25 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+
 + + + + + panelxtream.smartseyirhd.de:8080 + + + + + null + + +
 
 http://paylasim.smartseyirhd.de:8080/get.php?username=amigotv.online.skype&password=Wv5f8pq9l&type=m3u
@@ -22286,66 +22310,7 @@ Real Url: panelxtream.smartseyirhd.de:8080     Status: Active    Created: 11/2/2
 + + + + + placa.work:5115 + + + + + 
 
 http://lovor.work:5115/get.php?username=HNSIjug2tC&password=oMfTWAyMx6&type=m3u
-Real Url: placa.work:5115     Status: Active    Created: 27/4/2021 3:24:27 PM     Expires: Null    Active Connections: 353     Maximum Connections: 1500     Formats: "ts"
-
-#EXTINF:-1 group-title="placa",Sky Sp F1 (UK)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2559
-#EXTINF:-1,SkySp Main Event HD (UK)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2526
-#EXTINF:-1,Sky Sp Cricket (UK)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2527
-#EXTINF:-1,SkySp Action (UK)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2528
-#EXTINF:-1,SkySp Golf (UK)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2529
-#EXTINF:-1,SkySp PL (UK)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2530
-#EXTINF:-1,SkySp MIX (UK)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2558
-#EXTINF:-1,SkySp News HD (UK)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2787
-#EXTINF:-1,SkySp Arena (UK)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2525
-#EXTINF:-1,BT Sports 1 (UK)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2521
-#EXTINF:-1,BT Sports 2 (UK)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2522
-#EXTINF:-1,BT Sports 3 (UK)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2523
-#EXTINF:-1,BT Sports ESPN (UK)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2524
-#EXTINF:-1,VH1 (UK)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2550
-#EXTINF:-1,MTV Base (UK)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2553
-#EXTINF:-1,MTV Dance (UK)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2552
-#EXTINF:-1,MTV 90s (UK)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2551
-
-#EXTINF:-1,BeIN Sport 1 HD (FR)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/513
-#EXTINF:-1,BeIN Sport 2 HD (FR)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/514
-#EXTINF:-1,BeIN Sport 3 HD (FR)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/515
-#EXTINF:-1,BeIN Sports Max 4 (FR)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2657
-#EXTINF:-1,BeIN Sports Max 5 (FR)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2658
-#EXTINF:-1,BeIN Sports Max 6 (FR)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2659
-#EXTINF:-1,BeIN Sports Max 7 (FR)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2660
-#EXTINF:-1,BeIN Sports Max 8 (FR)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/2661
-
-#EXTINF:-1,BeIN SPORT 1 HD (TR)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/3046
-#EXTINF:-1,BeIN SPORT 2 HD (TR)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/3047
-#EXTINF:-1 group-title="placa",BeIN SPORT 3 HD (TR)
-http://lovor.work:5115/HNSIjug2tC/oMfTWAyMx6/3048
+Real Url: placa.work:5115     Status: Active    Created: 27/4/2021 3:24:27 PM     Expires: Null    Active Connections: 353     Maximum Connections: 1500     Formats: "ts" < DOWN
 
 + + + + + portal.alliptv.tv:8080 + + + + + 
 
