@@ -20297,6 +20297,12 @@ http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/158325.m3u8
 #EXTINF:-1,UK| Sky Cinema Family HD
 http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/158326.m3u8
 
+#EXTINF:-1,FR: MTV CLASSIC HD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/16230.m3u8
+#EXTINF:-1,FR: MTV MUSIC HD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/16229.m3u8
+#EXTINF:-1,FR: MTV ROCKS HD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/16231.m3u8
 #EXTINF:-1,UK| MTV Music
 http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/158603.m3u8
 #EXTINF:-1,UK| MTV Base
@@ -20323,6 +20329,27 @@ http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/159284.m3u8
 http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/185438.m3u8
 #EXTINF:-1,CAR: VH 1 Classic
 http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/185439.m3u8
+#EXTINF:-1,VM: MTV Live FHD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/148624.m3u8
+#EXTINF:-1,VM: MTV Live HD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/148625.m3u8
+#EXTINF:-1,UK| MTV Hits
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/158608.m3u8
+#EXTINF:-1,UK: VH1 Classic
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/8820.m3u8
+#EXTINF:-1,UK| 4Music
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/158612.m3u8
+#EXTINF:-1,UK| The Box
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/158613.m3u8
+#EXTINF:-1,UK| Kiss TV
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/158616.m3u8
+#EXTINF:-1,UK| Trace Vault
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/158628.m3u8
+#EXTINF:-1,UK| Now 70s
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/158623.m3u8
+#EXTINF:-1,UK| Now 90s
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/158625.m3u8
+
 
 #EXTINF:-1,CAR: NBCSN
 http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/185383.m3u8
@@ -20378,8 +20405,87 @@ http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/183173.m3u8
 #EXTINF:-1,DSTV: SuperSport Events FHD
 http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/199233.m3u8
 
+#EXTINF:-1,DSTV: Supersport Blitz (NG)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/111540.m3u8
+#EXTINF:-1,DSTV: SuperSport Football HD (ZA)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/111537.m3u8
+#EXTINF:-1,DSTV: SuperSport Football HD (NG)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/111542.m3u8
+#EXTINF:-1,DSTV: SuperSport Football HD (UG)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/111539.m3u8
+#EXTINF:-1,DSTV: SuperSport Football Plus FHD (ZA)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/111534.m3u8
+#EXTINF:-1,DSTV: SuperSport Football Plus (Nigeria)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/111533.m3u8
+#EXTINF:-1,DSTV: SuperSport Premier League FHD (UG)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/111532.m3u8
+#EXTINF:-1,DSTV: SuperSport EPL HD 
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/111531.m3u8
+#EXTINF:-1,DSTV: SuperSport LaLiga FHD (UG)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/111529.m3u8
+#EXTINF:-1,DSTV: SuperSport Grandstand FHD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/183100.m3u8
+#EXTINF:-1,DSTV: SuperSport Grandstand FHD (ZW)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/183102.m3u8
+#EXTINF:-1,DSTV: SuperSport Grandstand FHD (NG)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/183101.m3u8
+#EXTINF:-1,DSTV: SuperSport Variety 1 HD (ZW)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/119517.m3u8
+#EXTINF:-1,DSTV: SuperSport Variety 1 FHD (UG)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/183121.m3u8
+#EXTINF:-1,DSTV: SuperSport Variety 2 (ZW)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/119526.m3u8
+#EXTINF:-1,DSTV: SuperSport Variety 2 FHD (NG)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/119524.m3u8
+#EXTINF:-1,DSTV: SuperSport Variety 2 FHD (UG)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/183120.m3u8
+#EXTINF:-1,DSTV: SuperSport Variety 3
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/183119.m3u8
+#EXTINF:-1,DSTV: SuperSport Variety 3 (UG)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/119523.m3u8
+#EXTINF:-1,DSTV: SuperSport Variety 3 HD (ZW)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/119515.m3u8
+#EXTINF:-1,DSTV: SuperSport Variety 4 HD (UG)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/183126.m3u8
+#EXTINF:-1,DSTV: SuperSport Variety 4 HD (ZW)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/113241.m3u8
+#EXTINF:-1,DSTV: SuperSport Action FHD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/183106.m3u8
+#EXTINF:-1,DSTV: SuperSport Tennis FHD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/183114.m3u8
+#EXTINF:-1,DSTV: SuperSport Cricket FHD (ZA)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/183111.m3u8
+#EXTINF:-1,DSTV: SuperSport Cricket HD (UG)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/183110.m3u8
+#EXTINF:-1,DSTV: SuperSport Rugby FHD (ZA)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/183175.m3u8
+#EXTINF:-1,DSTV: SuperSport Rugby HD (NG)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/183174.m3u8
+#EXTINF:-1,DSTV: SuperSport Golf FHD (ZA)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/199222.m3u8
+#EXTINF:-1,DSTV: SuperSport Golf HD (UG)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/183172.m3u8
+#EXTINF:-1,DSTV: SuperSport Motorsport HD (ZA)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/199226.m3u8
+#EXTINF:-1,DSTV: SuperSport Motorsport (UG)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/199227.m3u8
+#EXTINF:-1,DSTV: SuperSport MáXimo 1 HD (ZA)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/199224.m3u8
+#EXTINF:-1,DSTV: SuperSport MáXimo 1 (UG)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/199225.m3u8
+#EXTINF:-1,DSTV: SuperSport WWE
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/199228.m3u8
+#EXTINF:-1,DSTV: SuperSport WWE FHD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/199229.m3u8
+
 #EXTINF:-1,IND: &FLIX FHD [Multi-Audio]
 http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/153900.m3u8
+#EXTINF:-1,IN: &FLIX FHD [ENG]
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/153960.m3u8
+#EXTINF:-1,IN: STAR MOVIES FHD [Multi-audio]
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/153961.m3u8
+#EXTINF:-1,IN: STAR MOVIES SELECT FHD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/154470.m3u8
 #EXTINF:-1,IN: &PICTURES
 http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/153813.m3u8
 #EXTINF:-1,IN: &PICTURES FHD
@@ -20440,6 +20546,50 @@ http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/185447.m3u8
 http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/185448.m3u8
 #EXTINF:-1,CAR: B4U Movies
 http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/185449.m3u8
+#EXTINF:-1,IN: MN+ FHD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/153904.m3u8
+#EXTINF:-1,IN: CINEMA TV INDIA
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/153909.m3u8
+#EXTINF:-1,IN: SONY MAX FHD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/153914.m3u8
+#EXTINF:-1,IN: ZEE CINEMA USA
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/153941.m3u8
+#EXTINF:-1,IN: ZEE CINEMA APAC
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/153947.m3u8
+#EXTINF:-1,IN: STAR SPORTS SELECT 1 FHD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/154049.m3u8
+#EXTINF:-1,IN: STAR SPORTS SELECT 2 FHD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/154050.m3u8
+#EXTINF:-1,IN: &flix FHD [Multi-sub]
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/229072.m3u8
+#EXTINF:-1,IN: SONY MAX FHD [UK]
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/241762.m3u8
+#EXTINF:-1,IN: SONY MAX HD [USA]
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/241763.m3u8
+
+#EXTINF:-1,TH: True Sports EPL 1 HD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/204632.m3u8
+#EXTINF:-1,TH: True Sports EPL 2 HD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/204633.m3u8
+#EXTINF:-1,TH: True Sports EPL 3 HD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/204634.m3u8
+#EXTINF:-1,TH: True Sports EPL 4 HD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/204635.m3u8
+#EXTINF:-1,TH: True Sports EPL 5 HD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/204636.m3u8
+#EXTINF:-1,TH: True Sports EPL 1 SD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/204637.m3u8
+#EXTINF:-1,TH: True Sports EPL 2 SD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/204638.m3u8
+#EXTINF:-1,TH: True Sports EPL 3 SD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/204639.m3u8
+#EXTINF:-1,TH: True Sports EPL 4 SD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/204640.m3u8
+
+#EXTINF:-1,TH: BeinSport 1 HD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/204654.m3u8
+#EXTINF:-1,TH: BeinSport 2 HD
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/204655.m3u8
 
 #EXTINF:-1,beIN SPORTS 2 PREMIUM HEVC 50FPS Ⓖ
 http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/32027.m3u8
@@ -20585,6 +20735,45 @@ http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/238062.m3u8
 http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/238063.m3u8
 #EXTINF:-1,beIN SPORTS 1 FHD 50FPS Ⓚ
 http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/240644.m3u8
+
+#EXTINF:-1,beIN SPORTS 2 PREMIUM HD 25FPS ▧
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/170455.m3u8
+#EXTINF:-1,beIN SPORTS 3 PREMIUM HD 25FPS ▧
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/170456.m3u8
+#EXTINF:-1,beIN SPORTS 1 ENG HD 25FPS ▧
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/170457.m3u8
+#EXTINF:-1,beIN SPORTS 2 ENG HD 25FPS ▧
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/170458.m3u8
+#EXTINF:-1,beIN SPORTS 3 ENG HD 25FPS ▧
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/170459.m3u8
+#EXTINF:-1,beIN SPORTS 1 FR HD 25FPS ▧
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/170460.m3u8
+#EXTINF:-1,beIN SPORTS 2 FR HD 25FPS ▧
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/170461.m3u8
+#EXTINF:-1,beIN SPORTS EVENT 7 HD (HEVC)
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/170462.m3u8
+#EXTINF:-1,beIN SPORTS GLOBAL HD*
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/78371.m3u8
+#EXTINF:-1,beIN SPORTS 1 HD+ Ⓖ
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/78401.m3u8
+#EXTINF:-1,beIN SPORTS 2 HD+ Ⓖ
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/78398.m3u8
+#EXTINF:-1,beIN SPORTS 3 HD+ Ⓖ
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/78395.m3u8
+#EXTINF:-1,beIN SPORTS 4 HD+ Ⓖ
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/78392.m3u8
+#EXTINF:-1,beIN SPORTS 5 HD+ Ⓖ
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/78389.m3u8
+#EXTINF:-1,beIN SPORTS 6 HD+ Ⓖ
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/78386.m3u8
+#EXTINF:-1,beIN SPORTS 7 HD+ Ⓖ
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/78383.m3u8
+#EXTINF:-1,beIN SPORTS 1 PREMIUM HD+ Ⓖ
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/78380.m3u8
+#EXTINF:-1,beIN SPORTS 2 PREMIUM HD+ Ⓖ
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/78377.m3u8
+#EXTINF:-1,beIN SPORTS 3 PREMIUM HD+ Ⓖ
+http://dmtn.tv:8080/live/gen-ress/TQK2KKVB4P/78374.m3u8
 
 + + + + + edge.multiplay.cl:25461 + + + + + Max Con: 0
 
