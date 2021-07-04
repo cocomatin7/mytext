@@ -44,7 +44,30 @@ http://130.185.150.79:1935/trunk/SONY-SIX/playlist.m3u8 < to check
 
 http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
 
+#EXTINF:-1,HI NEWS
+http://159.192.73.198:1072/hinews
+#EXTINF:-1,IZAA
+http://159.192.73.198:1072/izaa
+#EXTINF:-1,H CHANNEL
+http://159.192.73.198:1072/hchannel
+#EXTINF:-1,HISPORT
+http://159.192.73.198:1072/hisport
+#EXTINF:-1,W ANIMAL
+http://159.192.73.198:1072/wanimal
+#EXTINF:-1,TOP FIGHT
+http://159.192.73.198:1072/topfight
+#EXTINF:-1,ASTRO 4
 http://159.192.73.198:1072/astro4
+#EXTINF:-1,EURONEWS
+http://159.192.73.198:1072/euronews
+#EXTINF:-1,GOLF
+http://159.192.73.198:1072/golf
+#EXTINF:-1,*FOX SPORTS 1
+http://159.192.73.198:1072/foxsport1
+#EXTINF:-1,*FOX SPORTS 2
+http://159.192.73.198:1072/foxsport2
+#EXTINF:-1,*FOX SPORTS 3
+http://159.192.73.198:1072/foxsport3
 
 to check <<
 http://api.queroassistir.tv:80/vod/marcos26/marcos26/series/max/14896.mp4
@@ -97,7 +120,7 @@ https://www.dropbox.com/s/dl/lmx3f8dnbe6xee4/hbo_omahtv.m3u8
 https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index.m3u8
 https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
 
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
 http://91.240.83.247:8101/
 
 Champion TV1
@@ -107,8 +130,7 @@ https://livestreaming-google-etslive.vidio.com/live/6686/master.m3u8
 Champion TV3
 https://livestreaming-google-etslive.vidio.com/live/6786/master.m3u8?
 
-SONY ONE
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+
 MMA
 https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -4615,6 +4637,10 @@ http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=18654116&tsum=8ded2c86515f38c
 http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=18660802&tsum=16449d276a0a8179e9812bee9a057269
 http://50.7.161.82:8278/skynethd_pat/playlist.m3u8?tid=12128778&tsum=2e220cffb946fee14c0751afc62ba272
 
+
+
+
+
 #EXTINF:-1 group-title="50.7/TH",Astro SuperSport 1 |50.7
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF:-1 group-title="50.7/TH",Astro SuperSport 1' |50.7
@@ -4637,6 +4663,10 @@ http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Bein1hd/playlist.m3u8
 #EXTINF:-1,beIN Sports 2 |50.7*
 http://50.7.161.82:8278/streams/d/Bein2hd/playlist.m3u8
+
+SONY ONE
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
 #EXTINF:-1,KBS WORLD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
@@ -5948,6 +5978,7 @@ http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1,SPORTTV5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
+
 http://77.83.117.60:8888/02_RedbyHBO_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SabaideeTV_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SCM_720p/chunklist.m3u8
@@ -5968,14 +5999,16 @@ http://77.83.117.60:8888/02_TRUE4U_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_TrueFilmHD1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_TrueFilmHD2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_VOICE_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="WarnerTV HD",WarnerTV HD |77.83'
+#EXTINF:-1,Warner TV
 http://77.83.117.60:8888/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1,*NBA HD
+http://77.83.117.60:8888/02_nbahd_720p/chunklist2.m3u8
+#EXTINF:-1,*True Tennis
+http://77.83.117.60:8888/02_TennisHD_720p/chunklist2.m3u8
 
 http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8 < OFFLINE
-
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
 http://77.83.117.60:8888/02_Wish_Channel_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_WORKPOINT_720p/chunklist.m3u8
