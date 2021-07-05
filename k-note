@@ -2,8 +2,22 @@
 x-tvg-url="https://rebrand.ly/k-epg"
 x-tvg-url="https://guidexl.tv4.live/"
 
-https://nonton.site:8443/live/yono22/ishak/2.m3u8
-http://45.141.58.67:80/live/lisa123/lisa123/646899.m3u8
+
+
+http://main.tvstreamzone.com:8080/get.php?username=stk&password=fABtG6FdXs&type=m3u
+Real Url: 195.154.150.141:8080     Status: Active    Created: 2/4/2021 11:45:36 PM     Expires: Null    Active Connections: 197     Maximum Connections: 3500     Formats: "m3u8","ts","rtmp" < ALB Channels
+
+http://smart.hdtv112.com:8080/get.php?username=flussonicperveeti&password=uWRmys3E6r&type=m3u
+Real Url: tv.smartalb.com:8080     Status: Active    Created: 19/4/2021 11:08:08 PM     Expires: Null    Active Connections: 184     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
+
+http://coqtv.tv:8080/get.php?username=admin_262664&password=22315304&type=m3u
+Real Url: wagmaott.com:8080     Status: Active    Created: 22/2/2021 12:00:00 AM     Expires: Null    Active Connections: 5     Maximum Connections: 1     Formats: "m3u8","ts"
+
+
+https://nonton.site:8443/get.php?username=yono22&password=ishak&type=m3u
+Real Url: nonton.site:8888     Status: Active    Created: 4/1/2021 1:10:01 PM     Expires: 2/8/2021 11:34:03 AM    Active Connections: 4     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://45.141.58.67:80/get.php?username=lisa123&password=lisa123&type=m3u < 1-1
 
 http://192.99.54.242/ca_eng/FOOD_NETWORK/index.m3u8
 http://192.99.54.242/ind_tam/FOOD_NETWORK/index.m3u8
@@ -4847,6 +4861,581 @@ http://62.249.165.216:9981/stream/channelid/1044222891?ticket=9A256704155472751F
 http://62.249.165.216:9981/stream/channelid/796484783?ticket=FC2BBFB5C5B7188E49EDD2BD5940282AD5231E86&profile=pass
   group-title="62.249",FIGHT SPORTS
 http://62.249.165.216:9981/stream/channelid/1424558021?ticket=8609C3D6EC219A38F084D6FDE1DA2C8F196ED6C1&profile=pass
+
+
++ + + + + http://65.95.162.87:9981/extjs.html + + + + + dredmon1/mcslab20 + dredmon/mcslab20 + */*
+
+
+
+http://65.95.162.87:9981/play/ticket/stream/channel/252cb57884060d72be8149730223cdd8?title=NBC%20SPORTS
+http://65.95.162.87:9981/play/ticket/stream/channel/7c608ace1d3dce4b5eaf30b5e588d991?title=PPV%201
+http://65.95.162.87:9981/play/ticket/stream/channel/fbca1a4700d7ac672556b9c169874552?title=SKY%20CINEMA%20Disney
+
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/4seven.gb.png" tvg-id="ad443c8e54a5ebb026aa79dcfdc9ca4c" group-title="*65.95*",4Seven
+http://65.95.162.87:9981/stream/channelid/238830765?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/5usa.gb.png" tvg-id="c97b1277bf98360b830b84a571e0ae14",5 USA
+http://65.95.162.87:9981/stream/channelid/1997700041?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/art.america.us.png" tvg-id="d8938929bf040eb943ed613930dbf2f9",A&E
+http://65.95.162.87:9981/stream/channelid/696882136?profile=pass
+#EXTINF:-1 tvg-id="603287def3f4e2ca57efc104803f3d61",ABC NEWS
+http://65.95.162.87:9981/stream/channelid/1585918560?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/actionmax.eastern.us.png" tvg-id="a0309c0b965ccaa99522b2b8aee39fd0",ACTION MAX
+http://65.95.162.87:9981/stream/channelid/194785440?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/al.jazeera.english.gb.png" tvg-id="9068d66ffb8ca30d8776bcabf2ff2cf2",AL JAZEERA UK
+http://65.95.162.87:9981/stream/channelid/1876322448?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/alibi.gb.png" tvg-id="9f408748619bfd75ef273483d4f7ae02",Alibi
+http://65.95.162.87:9981/stream/channelid/1216823455?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/amc.eastern.us.png" tvg-id="32a3ce806e07083e74907ba57c2e6fce",AMC HD
+http://65.95.162.87:9981/stream/channelid/13542194?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/amc.gb.png" tvg-id="5d15cb2612dc2b89c37333a358c4a19e",AMC UK HD
+http://65.95.162.87:9981/stream/channelid/650843485?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/bbc.news.gb.png" tvg-id="f148fe4466b29fb0ed7eb2afada4a412",BBC News
+http://65.95.162.87:9981/stream/channelid/1157515505?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/bbc.news.gb.png" tvg-id="adb028de6d701116a0b1cc068912ee44",BBC News
+http://65.95.162.87:9981/stream/channelid/1579724973?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/bbc.one.gb.png" tvg-id="13772ab1cfd31c5c859f6733cf5444dc",BBC One
+http://65.95.162.87:9981/stream/channelid/824866579?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/bein.sport.usa.us.png" tvg-id="608fb9a99e1ed75940ae39927e7eb80a",BEIN SPORTS HD
+http://65.95.162.87:9981/stream/channelid/700026720?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/bet.eastern.us.png" tvg-id="0b23612568249c4dee482180285410dc",BET
+http://65.95.162.87:9981/stream/channelid/627122955?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/bet.her.us.png" tvg-id="ab5c86839c9417581cf09c85ce14c15b",BET HER
+http://65.95.162.87:9981/stream/channelid/59137195?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/big.ten.network.us.png" tvg-id="081080612caae4d924960a47a8563b7d",BIG 10 HD
+http://65.95.162.87:9981/stream/channelid/1635782664?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/bravo.usa.eastern.us.png" tvg-id="de0d67b77a007e0a3862cacfd740718f",BRAVO HD
+http://65.95.162.87:9981/stream/channelid/929500638?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/bt.sport.1hd.gb.png" tvg-id="623ecbc34f73eccea841913b81dba1b3",BT Sport
+http://65.95.162.87:9981/stream/channelid/1137393250?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/bt.sport.2.gb.png" tvg-id="0f1783ca9ea925da4569db6e8c6dec32",BT Sport 2 HD
+http://65.95.162.87:9981/stream/channelid/1250105103?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/bt.sport.espn.gb.png" tvg-id="074c66d60d35ecfad6eb6ca0f8834e9f",BT Sport ESPN HD
+http://65.95.162.87:9981/stream/channelid/1449544711?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="7e31bcee31ad44ddd2ae5bca5fe38a09",CA SUPER SPORTS CH 422
+http://65.95.162.87:9981/stream/channelid/1857827198?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="a6c3380beef0b20a910d308a46f4ceea",CA SUPERSPORTS CH267
+http://65.95.162.87:9981/stream/channelid/188269478?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="f8521a1e67fd19ae296871667bc8b514",CA SUPERSPORTS CH368
+http://65.95.162.87:9981/stream/channelid/505041656?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="2bc8e8b28dbd8230ef7793dd908601c3",CA SUPERSPORTS CH431
+http://65.95.162.87:9981/stream/channelid/854116395?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="8a1dabf753047b34c42f70efbac277e4",CA SUPERSPORTS CH432
+http://65.95.162.87:9981/stream/channelid/2007702922?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="2f6e9cbdabd17855a13f73d6bdc35512",CA SUPERSPORTS CH433
+http://65.95.162.87:9981/stream/channelid/1033661999?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="3d9ac3b2c6488febb1963ed1b8f87bb7",CA SUPERSPORTS CH434
+http://65.95.162.87:9981/stream/channelid/851679805?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="9b77bb057315054868bef60b41c7121f",CA SUPERSPORTS CH435
+http://65.95.162.87:9981/stream/channelid/96171931?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="92f711b43fdce4b06fda7b9b2c712bd0",CA SUPERSPORTS CH436
+http://65.95.162.87:9981/stream/channelid/873592722?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="c7013428d95c15cc34411ba81ce28f36",CA SUPERSPORTS CH437
+http://65.95.162.87:9981/stream/channelid/674496967?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="f39e119790c515b4c39237c275f8fba7",CA SUPERSPORTS CH438
+http://65.95.162.87:9981/stream/channelid/387030771?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="c28b5cd60977b2a8f7d9bf7dfe6381ac",CA SUPERSPORTS CH439
+http://65.95.162.87:9981/stream/channelid/1448905666?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="b02d179df4dc7bbedbeacece803e3afc",CA SUPERSPORTS CH440
+http://65.95.162.87:9981/stream/channelid/488058288?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="4f29c9a6a96dea097dd3adb028f85da4",CA SUPERSPORTS CH441
+http://65.95.162.87:9981/stream/channelid/650717519?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="c6c2397ce988597804b9ce54cca23796",CA SUPERSPORTS CH442
+http://65.95.162.87:9981/stream/channelid/2084160198?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="361f4a8dd1cb92f5e04adb58e030a93b",CA SUPERSPORTS CH443
+http://65.95.162.87:9981/stream/channelid/222961462?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="13c1e283cf0e33df0c4b77011f0bde29",CA SUPERSPORTS CH444
+http://65.95.162.87:9981/stream/channelid/65192211?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="5deccaa564c549e7100de9ff2ffd1cce",CA SUPERSPORTS CH450
+http://65.95.162.87:9981/stream/channelid/634055773?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="82c5c48befaae99ed3e552f2b8b89a50",CA SUPERSPORTS CH452
+http://65.95.162.87:9981/stream/channelid/197444994?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="98b626cdf108c403598ba735262749b4",CA SUPERSPORTS CH453
+http://65.95.162.87:9981/stream/channelid/1294382744?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="d5ea5806c7cae9995999b6169af34e91",CA SUPERSPORTS CH454
+http://65.95.162.87:9981/stream/channelid/106490581?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="3a25b53641376d0969d4fb0eb316d0dc",CA SUPERSPORTS CH455
+http://65.95.162.87:9981/stream/channelid/917841210?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="b4e3e12c697f02f830b77ee40f45addf",CA SUPERSPORTS CH456
+http://65.95.162.87:9981/stream/channelid/753001396?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="6d3cbcf639b8a95e788b425590c0ed06",CA SUPERSPORTS CH457
+http://65.95.162.87:9981/stream/channelid/1992047725?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="02c16ce67bb71d4126b3b9f0fba0d3f7",CA SUPERSPORTS CH459
+http://65.95.162.87:9981/stream/channelid/1718403330?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="dd79bbc92744f2f7a96b1733f4c25c44",CA SUPERSPORTS CH460
+http://65.95.162.87:9981/stream/channelid/1237023197?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="470918e97662c6970015680e122e6050",CA SUPERSPORTS CH461
+http://65.95.162.87:9981/stream/channelid/1763182919?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="a813211540953ee1dce500cd701cb421",CA SUPERSPORTS CH462
+http://65.95.162.87:9981/stream/channelid/354489256?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="91c84d8dcf43c5870d4dd3471b9f7e42",CA SUPERSPORTS CH464
+http://65.95.162.87:9981/stream/channelid/223201425?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="56dbb0d6cb22c92b67c2e950ad5d8557",CA SUPERSPORTS CH465
+http://65.95.162.87:9981/stream/channelid/1454431062?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="30742970c4e4d7ecbdcdfc97367a8cc8",CA SUPERSPORTS CH473
+http://65.95.162.87:9981/stream/channelid/1881764912?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="221610448a54395a812de92fd2a32756",CA SUPERSPORTS CH474
+http://65.95.162.87:9981/stream/channelid/1141904930?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="ebf04b06aa78f46f3b6521966e03231e",CA SUPERSPORTS CH475
+http://65.95.162.87:9981/stream/channelid/105640171?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="87c133b81d5d79d2ebf9e38dc1b85bf1",CA SUPERSPORTS CH476
+http://65.95.162.87:9981/stream/channelid/942915975?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="1141f1a96320779fb51f89490eb2d623",CA SUPERSPORTS CH477
+http://65.95.162.87:9981/stream/channelid/703676689?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="45a827e583731780d07cf679a5a2b331",CA SUPERSPORTS CH478
+http://65.95.162.87:9981/stream/channelid/1697097797?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="98cae8dfb474a367df89a6f2c37d954e",CA SUPERSPORTS CH479
+http://65.95.162.87:9981/stream/channelid/1609091736?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="7b61b38e29458da0459f54c8538c18ba",CA SUPERSPORTS CH480
+http://65.95.162.87:9981/stream/channelid/246636923?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="c94b3719b7e19d29ee0d88a68798cc83",CA SUPERSPORTS CH481
+http://65.95.162.87:9981/stream/channelid/423054281?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="0e4b44f88a4743d4f482ff6f7c733039",CA SUPERSPORTS CH482
+http://65.95.162.87:9981/stream/channelid/2017741582?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="77149f16cfa0119655f3b5532e818157",CA SUPERSPORTS CH483
+http://65.95.162.87:9981/stream/channelid/379524215?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.sports.pak.1.ca.png" tvg-id="a8ec29b5f9d98b285e7b5f37c7b092de",CA SUPERSPORTS CH484
+http://65.95.162.87:9981/stream/channelid/891940008?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/cbs.drama.gb.png" tvg-id="025db97b32391975bb8eae3cff88f50f",CBS Drama
+http://65.95.162.87:9981/stream/channelid/2075745538?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/cbs.justice.gb.png" tvg-id="214c7ec30f19fcec7056a5d52bad5f21",CBS Justice
+http://65.95.162.87:9981/stream/channelid/1132350497?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/cbs.reality.gb.png" tvg-id="ceda85cb026544a480794ac31822dc5b",CBS Reality
+http://65.95.162.87:9981/stream/channelid/1267063502?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/cbs.sports.network.usa.us.png" tvg-id="4dd698e0f0e0b7b8e77d1d59fca515c6",CBS SPORTS
+http://65.95.162.87:9981/stream/channelid/1620629069?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/challenge.gb.png" tvg-id="d2acf6f6be7d0e69ef6043b06d79f0ac",Challenge
+http://65.95.162.87:9981/stream/channelid/1995877586?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/channel.4.gb.png" tvg-id="4f3d195a7c656a2b5e9054ac4af26b27",Channel 4
+http://65.95.162.87:9981/stream/channelid/1511603535?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/channel.5.gb.png" tvg-id="48f6ca95b2e322af1d40215b261fc9f5",Channel 5
+http://65.95.162.87:9981/stream/channelid/365622856?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/cinemax.east.us.png" tvg-id="bc44c3b5b269efc461e2530afca7e9df",CINEMAX EAST
+http://65.95.162.87:9981/stream/channelid/901989564?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/syfy.gb.png" tvg-id="331b3f8ae8fd46e97bac01f97eea066b",CN UK
+http://65.95.162.87:9981/stream/channelid/171907891?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/cnn.us.png" tvg-id="1ed9d96b4477434563a901b4e03339e6",CNN HD
+http://65.95.162.87:9981/stream/channelid/1809439006?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/cp24.cablepulse.24.ca.png" tvg-id="87e7298eda3d2680c5a24c898d51cbd7",CP24
+http://65.95.162.87:9981/stream/channelid/237627271?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/crave1.east.ca.png" tvg-id="2e5f38a46097b4ff02e3f93773e67deb",CRAVE 1
+http://65.95.162.87:9981/stream/channelid/607674158?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/crave2.east.ca.png" tvg-id="3309827225d5808718a2aeb6e1ecda78",CRAVE 2
+http://65.95.162.87:9981/stream/channelid/1921124659?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/crave3.east.ca.png" tvg-id="595bdd801e6392993c02dbe9f8c62601",CRAVE 3
+http://65.95.162.87:9981/stream/channelid/14506841?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/crave4.ca.png" tvg-id="c4a5bf54d0a5e5ba7956ef1d7f94bc87",CRAVE4
+http://65.95.162.87:9981/stream/channelid/1421845956?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/destination.america.us.png" tvg-id="212390a57c71bedf3046d2f0309e5bf2",DESTINATION AMERICA
+http://65.95.162.87:9981/stream/channelid/630203169?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/discovery.gb.png" tvg-id="97dccb8999ce93ed62e7d39d44824dc3",DISCOVERY Channel
+http://65.95.162.87:9981/stream/channelid/164355223?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/discovery.can.ca.png" tvg-id="b0bf3010fe52b75df4ffe6eba49914d1",DISCOVERY HD (CDN)
+http://65.95.162.87:9981/stream/channelid/271630256?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/discovery.eastern.us.png" tvg-id="3e9ab68cad194eacfd1de9cd55f0be55",DISCOVERY HD USA
+http://65.95.162.87:9981/stream/channelid/213293630?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/discovery.history.gb.png" tvg-id="59c6238349cfc1c5a40d4b40aaba3834",DISCOVERY History
+http://65.95.162.87:9981/stream/channelid/52676185?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/investigation.discovery.usa.eastern.us.png" tvg-id="edd823ba4aa050290ec96b128c5045ef",DISCOVERY ID EAST US
+http://65.95.162.87:9981/stream/channelid/975427821?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/investigation.discovery.gb.png" tvg-id="751a3504378ab9d1eb077913b2fa1074",DISCOVERY Investigation
+http://65.95.162.87:9981/stream/channelid/70589045?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/discovery.science.gb.png" tvg-id="a063d2e305bba4ada3bce1bbd06f017e",DISCOVERY Science
+http://65.95.162.87:9981/stream/channelid/1674732448?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/do.it.yourself.network.usa.us.png" tvg-id="599d1364616d72f31cca23801f9e51a6",DIY HD
+http://65.95.162.87:9981/stream/channelid/1679007065?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/e.entertainment.usa.east.us.png" tvg-id="fc6e2b21dce717202cdc08bd8aa1bc58",E!
+http://65.95.162.87:9981/stream/channelid/556494588?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/e4.gb.png" tvg-id="1540579a6f65f494c0be336c6a083b12",E4
+http://65.95.162.87:9981/stream/channelid/441925653?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/el.rey.network.us.png" tvg-id="30279fd7737a4ef92ffd84c50c8eb82d",EL REY
+http://65.95.162.87:9981/stream/channelid/1470048048?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.ecran.1.ca.png" tvg-id="9c7d85180afe0a4501c5b3f274b91256",ENCORE 1 EAST
+http://65.95.162.87:9981/stream/channelid/411401628?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.ecran.2.ca.png" tvg-id="32809f75f45055c8caf6df4a479b074e",ENCORE 2 EAST
+http://65.95.162.87:9981/stream/channelid/1973387314?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/epix2.east.us.png" tvg-id="b67284bbcb9b89d6adfbccc3b59e48b4",EPIX 2
+http://65.95.162.87:9981/stream/channelid/998535862?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/epix.drive.in.us.png" tvg-id="d4eecec36e164603c57645f660fe8e40",EPIX DRIVE-IN'S
+http://65.95.162.87:9981/stream/channelid/1137635028?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/epix.hits.us.png" tvg-id="ffd7095f7541ad5cabe2d218b1dea751",EPIX HITS
+http://65.95.162.87:9981/stream/channelid/1594480639?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/epix.east.us.png" tvg-id="cf736dc0141066efa67c2589bef3e379",EPIX US
+http://65.95.162.87:9981/stream/channelid/1080914895?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/espn2.us.png" tvg-id="a77cd20f47e4e0dc073f704f80726c09",ESPN 2 HD
+http://65.95.162.87:9981/stream/channelid/265452711?profile=pass
+#EXTINF:-1 tvg-id="ab0135056a10464f3c49ffffa840e7c6",ESPN ACC
+http://65.95.162.87:9981/stream/channelid/87359915?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/espn.us.png" tvg-id="9da0028623e86699bb64f8d62dd0af04",ESPN HD
+http://65.95.162.87:9981/stream/channelid/100835485?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/espn.news.us.png" tvg-id="60cbeae52d50260f7e63061aa938e264",ESPN NEWS HD
+http://65.95.162.87:9981/stream/channelid/1709886304?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/espn.u.us.png" tvg-id="3d96d60731d1d7f08b80d18a1c6b197f",ESPN U
+http://65.95.162.87:9981/stream/channelid/131503677?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/eurosport.2.gb.png" tvg-id="73d5c1dd1078c409eb8f928e38861558",Eurosport 2
+http://65.95.162.87:9981/stream/channelid/1572984179?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/eurosport.1.gb.png" tvg-id="0a406cda2d1d2417b0563247b43129ec",Eurosport1
+http://65.95.162.87:9981/stream/channelid/1517043722?profile=pass
+#EXTINF:-1 tvg-id="036db05b72c3af234e078398940eb50f",FIGHT NETWORK
+http://65.95.162.87:9981/stream/channelid/1538288899?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/film4.gb.png" tvg-id="ced865eb23e2b7af6f4c9503f862842a",Film 4
+http://65.95.162.87:9981/stream/channelid/1801836750?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/food.network.gb.png" tvg-id="6afbbe14437a107b32024e657a94c5c4",FOOD Network
+http://65.95.162.87:9981/stream/channelid/348060522?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/fox.gb.png" tvg-id="970a8168618dbf4a59e6e99cba28dfd3",FOX
+http://65.95.162.87:9981/stream/channelid/1753287319?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.college.sports.atlantic.us.png" tvg-id="28bb783619b0cf6e943709959fb17265",FOX COLLEGE ATLANTIC
+http://65.95.162.87:9981/stream/channelid/913881896?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.college.sports.pacific.us.png" tvg-id="e0e5ecd7d205c573316677fbc7e387d0",FOX COLLEGE PACIFIC
+http://65.95.162.87:9981/stream/channelid/1475143136?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.news.us.png" tvg-id="c1f080bd8e5b98d1498068e6abcd0efd",FOX NEWS HD
+http://65.95.162.87:9981/stream/channelid/1031860417?profile=pass
+#EXTINF:-1 tvg-id="bae2c44f9495197210f019aa1457808a",FOX Sport north west
+http://65.95.162.87:9981/stream/channelid/1338303162?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.sports.1.us.png" tvg-id="5bf63c9ab7e5f854b7d990d63be06df4",FOX SPORTS 1
+http://65.95.162.87:9981/stream/channelid/440202843?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.sports.2.us.png" tvg-id="8d01a907c8d1f154d5741f24a797113e",FOX SPORTS 2
+http://65.95.162.87:9981/stream/channelid/128516493?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.sports.arizona.us.png" tvg-id="bb231f05f39844800b47ea0a0f0aa669",Fox Sports Arizona HD
+http://65.95.162.87:9981/stream/channelid/85926843?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.sports.detroit.us.png" tvg-id="91fecac0ecfecdfc47d858684dab1f14",Fox Sports Detroit
+http://65.95.162.87:9981/stream/channelid/1087045265?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.sports.florida.us.png" tvg-id="3eb01527a3c8b0d2ac409b58d3c86a75",Fox Sports Florida
+http://65.95.162.87:9981/stream/channelid/655732798?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.sports.midwest.us.png" tvg-id="8d7e755b712b9fbebecb96792026afd0",Fox Sports Midwest
+http://65.95.162.87:9981/stream/channelid/1534426765?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.sports.north.us.png" tvg-id="0d0df830d5e8760bebcef163209ba323",Fox Sports North
+http://65.95.162.87:9981/stream/channelid/821562637?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.sports.ohio.cleveland.us.png" tvg-id="309f90f589985f5635d20e846b219c92",Fox Sports Ohio
+http://65.95.162.87:9981/stream/channelid/1972412208?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.sports.san.diego.us.png" tvg-id="b2f44bfe87674479be4e8898970dd5ff",Fox Sports San Diego HD
+http://65.95.162.87:9981/stream/channelid/2118907058?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.sports.south.us.png" tvg-id="2d5d97546aaebeb0b6cd5a60b106d568",Fox Sports South
+http://65.95.162.87:9981/stream/channelid/1419205933?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.sports.south.carolinas.us.png" tvg-id="641c37194224fe875e94ab6d27314198",Fox Sports South - Carolinas
+http://65.95.162.87:9981/stream/channelid/423042148?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.sports.southwest.us.png" tvg-id="4712a34543dfc4ea6567079f2ec7a31a",Fox Sports Southwest
+http://65.95.162.87:9981/stream/channelid/1168314951?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.sports.southwest.plus.dallas.us.png" tvg-id="64a76b7dc9953ecd21898a77e7d67020",Fox Sports Southwest Plus Dallas
+http://65.95.162.87:9981/stream/channelid/2104207204?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.sports.sun.lightning.magic.us.png" tvg-id="643cc6bde3a029584adfca396766eac9",Fox Sports Sun - Lightning/Magic
+http://65.95.162.87:9981/stream/channelid/1036401764?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.sports.west.us.png" tvg-id="f0c0e6bc0808ffc4b14a3cc16d08f6d8",Fox Sports West
+http://65.95.162.87:9981/stream/channelid/1021755632?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.sports.west.prime.ticket.us.png" tvg-id="284d80e0cbcff85be5d6fe246b324636",Fox Sports West Prime Ticket
+http://65.95.162.87:9981/stream/channelid/1619021096?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fox.sports.wisconsin.us.png" tvg-id="0f792beb79a55a1a3efdcbf13dcae529",Fox Sports Wisconsin
+http://65.95.162.87:9981/stream/channelid/1798011151?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/france.24.france.gb.png" tvg-id="8fb1d259f34a5b2506ed3882c4d74272",FRANCE 24
+http://65.95.162.87:9981/stream/channelid/1506980239?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fx.networks.east.coast.us.png" tvg-id="52254525e9ce22c342d06234ec3270be",FX EAST US
+http://65.95.162.87:9981/stream/channelid/625288530?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fx.networks.east.coast.us.png" tvg-id="ccace34896ea98bd9df03385749e9154",FX EAST US
+http://65.95.162.87:9981/stream/channelid/1222880460?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fx.movie.us.png" tvg-id="27a6ef8ba5630930fb7a786eb22ee106",FX MOVIES US
+http://65.95.162.87:9981/stream/channelid/200255015?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fx.movie.us.png" tvg-id="894e178e21771a0d2f7212e6d43303cb",FXM US
+http://65.95.162.87:9981/stream/channelid/236408457?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/fxx.usa.eastern.us.png" tvg-id="81c5a5349ff0360dd20bafbf2053ced4",FXX HD
+http://65.95.162.87:9981/stream/channelid/883279233?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/golf.usa.us.png" tvg-id="48145006bbac98209f4e39ed68b65862",GOLF HD
+http://65.95.162.87:9981/stream/channelid/105911368?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/hallmark.eastern.us.png" tvg-id="3170c5cddf1b4ee4c6254600aa6ad2c7",HALLMARK
+http://65.95.162.87:9981/stream/channelid/1304784945?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/hallmark.drama.us.png" tvg-id="f1192dcfc5fa6348fc2c700558c00016",HALLMARK DRAMA
+http://65.95.162.87:9981/stream/channelid/1328355825?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/hallmark.movies.mysteries.eastern.us.png" tvg-id="ed3b7c83318e7dfadd8fd0847b7277a8",HALLMARK MOVIES MYSTERY
+http://65.95.162.87:9981/stream/channelid/58473453?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/hbo.canada.east.on.demand.ca.png" tvg-id="3a71f779440c6c7f490baf2bf30899ed",HBO 1
+http://65.95.162.87:9981/stream/channelid/2046259514?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/hbo.canada.2.west.ca.png" tvg-id="0a0124931594940b28197c6ef57f524c",HBO 2
+http://65.95.162.87:9981/stream/channelid/321126666?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/hbo.comedy.east.us.png" tvg-id="34cc1bf4d67a8d5e0c981b7cba57d69d",HBO COMEDY
+http://65.95.162.87:9981/stream/channelid/1947978804?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/hbo.eastern.us.png" tvg-id="11557610fab3cd06a89d2e7eb2289c12",HBO EAST US
+http://65.95.162.87:9981/stream/channelid/276190481?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/hbo.family.eastern.us.png" tvg-id="6ed6e030ea511ec60025a8c15b74e0dd",HBO FAMILY
+http://65.95.162.87:9981/stream/channelid/820041326?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/hbo.signature.hbo.3.eastern.us.png" tvg-id="b6e81b3cdca398f100c0eb8b01bbdb81",HBO SIGNATURE
+http://65.95.162.87:9981/stream/channelid/1008462006?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/hbo.zone.east.us.png" tvg-id="91515c8f9b0febfd99f1973489ee2914",HBO ZONE
+http://65.95.162.87:9981/stream/channelid/257708433?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/hgtv.canada.ca.png" tvg-id="76e097cf16589c6b6c9b6cd294516105",HGTV HD (CDN)
+http://65.95.162.87:9981/stream/channelid/1335353462?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/hgtv.usa.eastern.us.png" tvg-id="7835364436da11c4b121ef4bdfe24796",HGTV USA
+http://65.95.162.87:9981/stream/channelid/1144403320?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/history.2.gb.png" tvg-id="48b6ff45769ece5aa574c2e70b51f2ed",History 2
+http://65.95.162.87:9981/stream/channelid/1174386248?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.history.gb.png" tvg-id="e935ad1ff678b5b6fe8b236a8e5c1161",History HD
+http://65.95.162.87:9981/stream/channelid/531445225?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/history.east.us.png" tvg-id="29af5e4604219c62aed8a7ae90675b4e",HISTORY HD
+http://65.95.162.87:9981/stream/channelid/1180610345?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/itv1.central.sw.gb.png" tvg-id="1c694b5611a45240c34aa13a6d7255e7",Itv
+http://65.95.162.87:9981/stream/channelid/1447782684?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/itv2hd.gb.png" tvg-id="634ca7a1efa60ea00b38076ccf6a44ba",Itv 2
+http://65.95.162.87:9981/stream/channelid/564612195?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/itv3hd.gb.png" tvg-id="06711bcd3e41e7ecd63e98096babd0cc",Itv 3
+http://65.95.162.87:9981/stream/channelid/1293644038?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/itv4hd.gb.png" tvg-id="682cb2b5aebd3f8f90a62b504eedfb80",Itv 4
+http://65.95.162.87:9981/stream/channelid/900869224?profile=pass
+#EXTINF:-1 tvg-id="a626177eaeee95142c37159f981fc66a",JNN
+http://65.95.162.87:9981/stream/channelid/2115446438?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/leafs.nation.network.ca.png" tvg-id="ef3749b627535aee24876a85e32e0737",LEAFS TV
+http://65.95.162.87:9981/stream/channelid/910768111?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/lifetime.network.eastern.us.png" tvg-id="318e50074307c2bb35dd5dc92bad107a",LIFE HD
+http://65.95.162.87:9981/stream/channelid/122719793?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/lifetime.gb.png" tvg-id="10eddcd60a8b9ffddc6410f650a3fd2f",Life Time
+http://65.95.162.87:9981/stream/channelid/1457319184?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/lifetime.movies.east.us.png" tvg-id="87459bff30525d503e136817a31f9897",LIFETIME MOVIES
+http://65.95.162.87:9981/stream/channelid/2140882311?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/london.live.gb.png" tvg-id="91fedc24275b76e8c52b8d2a6fe9572a",London Live
+http://65.95.162.87:9981/stream/channelid/618462865?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/mc.hip.hop.and.r.b.us.png" tvg-id="3f784f3d1b86e36a4e622d268373dcf2",MC Video | Hip-Hop and R&B
+http://65.95.162.87:9981/stream/channelid/1028618303?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/mc.mexicana.us.png" tvg-id="14f7b9235b2619c469e49d84e6fc6176",MC Video | Mexicana
+http://65.95.162.87:9981/stream/channelid/599389972?profile=pass
+#EXTINF:-1 tvg-id="842de33340ad5d6ec449e8d606e37a52",MC Video | Musica Urbana
+http://65.95.162.87:9981/stream/channelid/870526340?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/mc.r.b.soul.us.png" tvg-id="e1053d5772cfb928fb7b616834ebad7f",MC Video | R&B Soul
+http://65.95.162.87:9981/stream/channelid/1463616993?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/mc.rap.us.png" tvg-id="9c8062ac9bf6759b4e5fed1a6e886bb7",MC Video | Rap
+http://65.95.162.87:9981/stream/channelid/744652956?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/mc.throwback.jamz.us.png" tvg-id="7d214d2a650aec608d9f0151acaa603a",MC Video | Throwback Jamz
+http://65.95.162.87:9981/stream/channelid/709697917?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/more4.gb.png" tvg-id="213a0048647809f8de88564040d53b4e",More 4
+http://65.95.162.87:9981/stream/channelid/1207974433?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/moremax.eastern.us.png" tvg-id="71121cb0602c0af0ad99eb57872bd58b",MORE MAX
+http://65.95.162.87:9981/stream/channelid/807146097?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/movietime.ca.png" tvg-id="6515bab371597df13aa5001969b8bcc6",MOVIETIME HD
+http://65.95.162.87:9981/stream/channelid/867833189?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/msg.madison.square.gardens.us.png" tvg-id="7d4a5deeb51ed414667e8f40a0111669",MSG
+http://65.95.162.87:9981/stream/channelid/1851607677?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/msg.plus.us.png" tvg-id="1c5c2ca1dba4bb7d20e909258f290e96",MSG PLUS HD
+http://65.95.162.87:9981/stream/channelid/556555292?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/msnbc.usa.us.png" tvg-id="fdb9d2f6dbfe07edb482d6147d0d4bc5",MSNBC
+http://65.95.162.87:9981/stream/channelid/1993521661?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/mtv.gb.png" tvg-id="f038f81e89762a10a333bfd61b975f8a",MTV
+http://65.95.162.87:9981/stream/channelid/519583984?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/national.geographic.gb.png" tvg-id="cc3533f25c9ea1c924d1050b11a18e20",National Geographic
+http://65.95.162.87:9981/stream/channelid/1915958732?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/national.geographic.wild.gb.png" tvg-id="ff3f4a26cf487a880313a7ee9a707b6d",National Geographic Wild
+http://65.95.162.87:9981/stream/channelid/642400255?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/directv.nba.league.pass.752.us.png" tvg-id="77c4817d23b527748b78ea46aaf48514",NBA HD
+http://65.95.162.87:9981/stream/channelid/2105656439?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/nbc.sports.network.us.png" tvg-id="252cb57884060d72be8149730223cdd8",NBC SPORTS
+http://65.95.162.87:9981/stream/channelid/2025139237?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/nbc.sports.bay.area.us.png" tvg-id="6bfb58a1c6f086d83707ff8c467dd9d2",NBC Sports Bay Area
+http://65.95.162.87:9981/stream/channelid/559479659?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/nbc.sports.boston.us.png" tvg-id="12750ef7bf6f2ae54b89b5dbb1989ca1",NBC Sports Boston HD
+http://65.95.162.87:9981/stream/channelid/1997436178?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/nbc.sports.california.us.png" tvg-id="eabaf22f7e395fbf833a61273ed3d556",NBC Sports California
+http://65.95.162.87:9981/stream/channelid/804436714?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/nbc.sports.northwest.us.png" tvg-id="f88a9f9b1cbf0889259d87bbb83c341a",NBC Sports NorthWest
+http://65.95.162.87:9981/stream/channelid/463440632?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/nbc.sports.philadelphia.us.png" tvg-id="edbe50baa89cc07d48c606b4b2198fba",NBC Sports Philadelphia
+http://65.95.162.87:9981/stream/channelid/978370285?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/nfl.network.us.png" tvg-id="7eb9ccad49b3fa9315c6d57222d84c2e",NFL NETWORK
+http://65.95.162.87:9981/stream/channelid/768391550?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/nhl.network.usa.us.png" tvg-id="d4218d782657bd7074b3badec2677041",NHL NETWORK
+http://65.95.162.87:9981/stream/channelid/2022515156?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/nicktoons.gb.png" tvg-id="f188368cb256eef3b642740095f52667",NICK Toons
+http://65.95.162.87:9981/stream/channelid/204900593?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/one.gb.png" tvg-id="b6bf8106c93b6487247beec09cedda4d",One HD
+http://65.95.162.87:9981/stream/channelid/109166518?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/pac.12.arizona.us.png" tvg-id="98f496a5423cea20a24b98aea20d8878",PAC 12 ARIZONA
+http://65.95.162.87:9981/stream/channelid/630650008?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/pac.12.bay.area.us.png" tvg-id="62066e4b6a5f22c59737126329043ece",PAC 12 BAY AREA
+http://65.95.162.87:9981/stream/channelid/1265501794?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/pac.12.la.us.png" tvg-id="d2b17333af7ce8335137b9e60a21a1b8",PAC 12 LOS ANGELES
+http://65.95.162.87:9981/stream/channelid/863220178?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/pac.12.mountain.us.png" tvg-id="2653ac6b70ab780da4f51cce9eef1f83",PAC 12 MOUNTAIN
+http://65.95.162.87:9981/stream/channelid/1806455590?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/pac.12.network.us.png" tvg-id="2d323cf0820e6036f81fe1dfe267c2b9",PAC 12 NETWORK
+http://65.95.162.87:9981/stream/channelid/1882993197?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/pac.12.oregon.us.png" tvg-id="90666a9ff38b5830ae523fb093ae1f49",PAC 12 OREGON
+http://65.95.162.87:9981/stream/channelid/527066768?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/paramount.gb.png" tvg-id="6bff1e107e9e7b90ac26413407fff059",Paramount Network
+http://65.95.162.87:9981/stream/channelid/270466923?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/paramount.network.usa.eastern.us.png" tvg-id="46955f76f847b26e49d404f89989e77a",PARAMOUNT NETWORK US
+http://65.95.162.87:9981/stream/channelid/1985975622?profile=pass
+#EXTINF:-1 tvg-id="7c608ace1d3dce4b5eaf30b5e588d991",PPV 1
+http://65.95.162.87:9981/stream/channelid/1317691516?profile=pass
+#EXTINF:-1 tvg-id="1b61a3ff2e11ea2af7b10e0659067f96",PPV 2
+http://65.95.162.87:9981/stream/channelid/2141413659?profile=pass
+#EXTINF:-1 tvg-id="0a446fe77b4867379b4ea44be71dc3fe",PPV 3
+http://65.95.162.87:9981/stream/channelid/1735345162?profile=pass
+#EXTINF:-1 tvg-id="4a40e342fd9f21064258cfb324530d17",PPV 4
+http://65.95.162.87:9981/stream/channelid/1122189386?profile=pass
+#EXTINF:-1 tvg-id="079174e8a446663c97ecdb3efd79698c",PPV 5
+http://65.95.162.87:9981/stream/channelid/1752469767?profile=pass
+#EXTINF:-1 tvg-id="3e76274a4aa22d0eb50895fa95ee3cd3",PPV 6
+http://65.95.162.87:9981/stream/channelid/1244100158?profile=pass
+#EXTINF:-1 tvg-id="5ddf7182dfa5628c1e10bf09be1d21be",PPV 7
+http://65.95.162.87:9981/stream/channelid/41017181?profile=pass
+#EXTINF:-1 tvg-id="43407c2c0f3be641aca401cb6ba3cd7f",PPV 8
+http://65.95.162.87:9981/stream/channelid/746340419?profile=pass
+#EXTINF:-1 tvg-id="94d9675e6c00622b7031bb5e47a496df",PPV Kids 1
+http://65.95.162.87:9981/stream/channelid/1583864212?profile=pass
+#EXTINF:-1 tvg-id="c58c7498eb6b988325c9035319c2d9d0",PPV Kids 2
+http://65.95.162.87:9981/stream/channelid/410291397?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/quest.gb.png" tvg-id="ded25255abc20d4ffc848e576c387d95",Quest
+http://65.95.162.87:9981/stream/channelid/1431491294?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/really.gb.png" tvg-id="a85fffdd667eaebebaa1660edb35a814",Really
+http://65.95.162.87:9981/stream/channelid/1577017256?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/nfl.red.zone.us.png" tvg-id="0c579d3b3e44111781ddc10a65518397",REDZONE HD
+http://65.95.162.87:9981/stream/channelid/1000167180?profile=pass
+#EXTINF:-1 tvg-id="afbeaf31c9600acbc1b553dd8439a3e8",RT NEWS US
+http://65.95.162.87:9981/stream/channelid/833601199?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/showtime.2.eastern.us.png" tvg-id="c5061f9711465a6e643acfaff73d506d",SHOWTIME 2
+http://65.95.162.87:9981/stream/channelid/387909317?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/showtime.beyond.eastern.us.png" tvg-id="413fdac4c6287dea646d099cef2dbefa",SHOWTIME BEYOND
+http://65.95.162.87:9981/stream/channelid/1155153729?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/showtime.eastern.us.png" tvg-id="02b38d549fc7aba24e86506817b5018f",SHOWTIME EAST
+http://65.95.162.87:9981/stream/channelid/1418572546?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/showtime.extreme.eastern.us.png" tvg-id="86a6490f87678c5a3d1202453b15c842",SHOWTIME EXTREME
+http://65.95.162.87:9981/stream/channelid/256484998?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/showtime.next.eastern.us.png" tvg-id="f443863fe76427ee129375d46b502793",SHOWTIME NEXT
+http://65.95.162.87:9981/stream/channelid/1065763828?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/showtime.women.eastern.us.png" tvg-id="e2842f16a23cba6eee1061d622f4eebe",SHOWTIME WOMEN
+http://65.95.162.87:9981/stream/channelid/372212962?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.arts.gb.png" tvg-id="9dd8d8c165695393b441d36d2870ba05",SKY Arts
+http://65.95.162.87:9981/stream/channelid/1104730269?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.atlantic.gb.png" tvg-id="86e29d878b493220dde04e7e342f6512",SKY Atlantic
+http://65.95.162.87:9981/stream/channelid/127787654?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/nowtv.sky.cinema.action.gb.png" tvg-id="c151e094a59c8e4256c2c5ddb2cf7f2a",SKY CINEMA Action
+http://65.95.162.87:9981/stream/channelid/350245313?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.cinema.comedy.united.kingdom.gb.png" tvg-id="bf86cd3eb0778b0b851096e5b1c41f58",SKY CINEMA Comedy
+http://65.95.162.87:9981/stream/channelid/1053656767?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.cinema.disney.gb.png" tvg-id="fbca1a4700d7ac672556b9c169874552",SKY CINEMA Disney
+http://65.95.162.87:9981/stream/channelid/1192938235?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.cinema.drama.gb.png" tvg-id="cb5f01a378eb71ed8c3761c08ebbdf10",SKY CINEMA Drama
+http://65.95.162.87:9981/stream/channelid/587292619?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.cinema.family.gb.png" tvg-id="9f4374bf512ec74b2c3a73724a66e3f8",SKY CINEMA Family
+http://65.95.162.87:9981/stream/channelid/1064584095?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.cinema.greats.gb.png" tvg-id="8729a3e699d22a48a72cb334af95abf8",SKY CINEMA Greats
+http://65.95.162.87:9981/stream/channelid/1721969031?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.cinema.premiere.gb.png" tvg-id="27b378d3f2311a9ccb6f2114586f234c",SKY CINEMA Premiere
+http://65.95.162.87:9981/stream/channelid/1400419111?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.cinema.scfi.horror.gb.png" tvg-id="5be6674e8e013c3870617e3e1c66a73f",SKY CINEMA Sci-Fi
+http://65.95.162.87:9981/stream/channelid/1315432027?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.cinema.select.gb.png" tvg-id="0ed5a16ad783a77e460f418ee5c840a6",SKY CINEMA Select
+http://65.95.162.87:9981/stream/channelid/1788990734?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.cinema.thriller.gb.png" tvg-id="a3941f9a26f3edf0c49ace13721ae3e6",SKY CINEMA Thriller
+http://65.95.162.87:9981/stream/channelid/438277283?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.crime.gb.png" tvg-id="a5adffde9d1db262e5de636ed186637b",SKY Crime
+http://65.95.162.87:9981/stream/channelid/1593814437?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.news.gb.png" tvg-id="10d77bf434e6ca887faffc17e39e9ee2",SKY News
+http://65.95.162.87:9981/stream/channelid/1954273040?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.one.gb.png" tvg-id="8680ba0a438545034a7fb4db09aa64c1",SKY One
+http://65.95.162.87:9981/stream/channelid/179994758?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.sports.arena.gb.png" tvg-id="1206c2a9fd29a63a85714a34f0e64889",SKY SPORT Arena
+http://65.95.162.87:9981/stream/channelid/700581394?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.sports.cricket.gb.png" tvg-id="723dad869334d7595bbc18c5168995a6",SKY SPORT Cricket HD
+http://65.95.162.87:9981/stream/channelid/112016754?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.sports.f1.gb.png" tvg-id="889f6ce086c161b85d237f8c421e9a19",SKY SPORT F1 HD
+http://65.95.162.87:9981/stream/channelid/1617731464?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.sports.football.gb.png" tvg-id="04ebb26a9ad6534e67b5335ed0e30872",SKY SPORT Football
+http://65.95.162.87:9981/stream/channelid/1790110468?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.sports.main.event.gb.png" tvg-id="6d5997cad44425572d18908dec92f2b1",SKY SPORT Main Event HD
+http://65.95.162.87:9981/stream/channelid/1251432813?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.sports.mix.gb.png" tvg-id="0a4f2125986b904f017f4e5f001ea1d5",SKY SPORT Mix
+http://65.95.162.87:9981/stream/channelid/622939914?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.sports.premier.league.gb.png" tvg-id="048b77c8f227d1adf52fbf6ce14d49e4",SKY SPORT Premier League
+http://65.95.162.87:9981/stream/channelid/1215793924?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.sports.action.gb.png" tvg-id="3459f4dd8ecc727ccdc81851fc3fb4d0",Sky Sports Action
+http://65.95.162.87:9981/stream/channelid/1576294708?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.sports.golf.gb.png" tvg-id="5f79b38a74510f616a2af70023af308a",Sky Sports Golf HD
+http://65.95.162.87:9981/stream/channelid/179534175?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.two.gb.png" tvg-id="47c7eae3a973efcbf2684e570e60044b",SKY Two
+http://65.95.162.87:9981/stream/channelid/1676330823?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/sky.witness.gb.png" tvg-id="81e4e208e8149f916dad0bb737080e80",SKY Witness
+http://65.95.162.87:9981/stream/channelid/149087361?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/smithsonian.usa.us.png" tvg-id="196f668edf44f500d7092a99666b92ef",SMITHSONIAN HD
+http://65.95.162.87:9981/stream/channelid/241594137?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/sportsnet.360.ca.png" tvg-id="3d54bd97ecd685a56f2fdb92a0c685e7",SPORTSNET 360
+http://65.95.162.87:9981/stream/channelid/398283837?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/sportsnet.one.ca.png" tvg-id="4b97dc1fb23d6baa5420f7adf93a9f1e",SPORTSNET ONE
+http://65.95.162.87:9981/stream/channelid/534550347?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/sportsnet.ontario.ca.png" tvg-id="d40f1a9e38683efdf90965a7dbfc3774",SPORTSNET ONT
+http://65.95.162.87:9981/stream/channelid/505024468?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/sportsnet.pacific.ca.png" tvg-id="624ad172180971fd49a74efbc6a499c0",SPORTSNET PACIFIC
+http://65.95.162.87:9981/stream/channelid/1926318690?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/sportsnet.west.ca.png" tvg-id="1c5e3c4a2e1988bf934da5d866cc5365",SPORTSNET WEST
+http://65.95.162.87:9981/stream/channelid/1245470236?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/sportsnet.west.ca.png" tvg-id="b56f0ad1633f8126451a88f30ad10e4a",SPORTSNET WORLD
+http://65.95.162.87:9981/stream/channelid/1359638453?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/starz.encore.black.eastern.us.png" tvg-id="d5c23586f9a28d3c280de710aee9089a",STARZ BLACK
+http://65.95.162.87:9981/stream/channelid/104186581?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/starz.comedy.eastern.us.png" tvg-id="7ea233246fc5c82d8ac48a5a2aa6831c",STARZ COMEDY
+http://65.95.162.87:9981/stream/channelid/607363710?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/starz.eastern.us.png" tvg-id="b4ebc93e02941654f59e2716ebd403ff",STARZ EAST US
+http://65.95.162.87:9981/stream/channelid/1053420468?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/starz.edge.eastern.us.png" tvg-id="caae3b29f22cfde982c18bd8bd7f2ac3",STARZ EDGE
+http://65.95.162.87:9981/stream/channelid/691777226?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/starz.encore.westerns.eastern.us.png" tvg-id="83ac27fcc5bbe47acd829abbc9fdd2cb",STARZ ENCORE WESTERN
+http://65.95.162.87:9981/stream/channelid/2082974851?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/sundancetv.usa.east.us.png" tvg-id="8cdebae225bd23ac5e974752150dfd88",SUNDANCE
+http://65.95.162.87:9981/stream/channelid/1656413836?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/super.fuse.ca.png" tvg-id="13b8289080d2a463a788f2b2d626fb8e",SUPER CHANNEL FUSE
+http://65.95.162.87:9981/stream/channelid/271104019?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/syfy.eastern.us.png" tvg-id="4761d4a925d06acd9e825db581426488",SYFY HD
+http://65.95.162.87:9981/stream/channelid/701784391?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/syfy.gb.png" tvg-id="1226d135880622712f0056b4c929eed8",SyFy HD
+http://65.95.162.87:9981/stream/channelid/902899218?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/tbs.east.us.png" tvg-id="a449d9131f8ed2b06978020006a89693",TBS
+http://65.95.162.87:9981/stream/channelid/333007268?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/tbs.east.us.png" tvg-id="1657a24db71c2113032b82a131ed2253",TBS HD
+http://65.95.162.87:9981/stream/channelid/1302484758?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/tg4.t.na.g.gb.png" tvg-id="d8f0ee567f55f4e55b42e716e6403d01",TG 4
+http://65.95.162.87:9981/stream/channelid/1458499800?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/thrillermax.east.us.png" tvg-id="1713bfee1d839c947448e5616251880c",THRILLER MAX
+http://65.95.162.87:9981/stream/channelid/1858016023?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/tlc.gb.png" tvg-id="c063429ecc74a6a45137845d5eebcf5b",TLC
+http://65.95.162.87:9981/stream/channelid/507667392?profile=pass
+#EXTINF:-1 tvg-id="7ba5b921aa9f9e1ddebce35079afca97",TMN 1 HD
+http://65.95.162.87:9981/stream/channelid/565814651?profile=pass
+#EXTINF:-1 tvg-id="14384a931ecdb42396ec1e45a23f126a",TMN 2 HD
+http://65.95.162.87:9981/stream/channelid/323631124?profile=pass
+#EXTINF:-1 tvg-id="244c524ecad7f8598659e938fc10dbb8",TMN 3 HD
+http://65.95.162.87:9981/stream/channelid/1314016292?profile=pass
+#EXTINF:-1 tvg-id="5baf6d4abf011e9c049c5c39f4f78c11",TMN 4 HD
+http://65.95.162.87:9981/stream/channelid/1248702299?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/tnt.east.us.png" tvg-id="68e2d2ccd74cd8a29b42f5adf0c5358b",TNT HD
+http://65.95.162.87:9981/stream/channelid/1288888936?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/travel.gb.png" tvg-id="510b996a0d7e33ef8e07d69495236e94",Travel
+http://65.95.162.87:9981/stream/channelid/1788414801?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/travel.east.us.png" tvg-id="0da50421da8a5de844d12e59a721f345",TRAVEL HD
+http://65.95.162.87:9981/stream/channelid/553952525?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/tsn1.ca.png" tvg-id="a426a4cebc9d8b8e2bee6918099bcc80",TSN 1 HD
+http://65.95.162.87:9981/stream/channelid/1319380644?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/tsn2.ca.png" tvg-id="a9df632fa1b77dc311f4120a036411e9",TSN 2 HD
+http://65.95.162.87:9981/stream/channelid/795074473?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/tsn3.ca.png" tvg-id="2acd18a84b7b8b2df5ef48dec80c30e1",TSN 3 HD
+http://65.95.162.87:9981/stream/channelid/672714026?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/tsn4.ca.png" tvg-id="0c811e7726e1f963767c5c4bf53e041f",TSN 4 HD
+http://65.95.162.87:9981/stream/channelid/1998487820?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/CA/tsn5.ca.png" tvg-id="1c0279f7f9b8fb0f28aa6584f4df0d4b",TSN 5 HD
+http://65.95.162.87:9981/stream/channelid/2004419100?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/tv.land.eastern.us.png" tvg-id="edd2923c7267982dd66efe9704ae2517",TV LAND
+http://65.95.162.87:9981/stream/channelid/1016255213?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/universal.gb.png" tvg-id="4b18939df406eb4f6b8174ea845823f5",Universal
+http://65.95.162.87:9981/stream/channelid/496179275?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/usa.network.east.us.png" tvg-id="a4fd7928975bb1107ed5aa558f22cb1b",USA NETWORK EAST
+http://65.95.162.87:9981/stream/channelid/679083428?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/viceland.usa.us.png" tvg-id="2cd94a290e2117c513b1ccc1b3ca78c8",VICELAND
+http://65.95.162.87:9981/stream/channelid/692771116?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/we.us.png" tvg-id="361b3b88b2804d5c747ae81aa704e659",WE TV HD
+http://65.95.162.87:9981/stream/channelid/138091318?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/wgn.america.eastern.us.png" tvg-id="9350f9134795f4a3eed92ebbf96e388a",WGN HD
+http://65.95.162.87:9981/stream/channelid/335106195?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/willow.cricket.us.png" tvg-id="c98b7daee0dd2e85e08398708b89c587",WILLOW CRICKET HD
+http://65.95.162.87:9981/stream/channelid/779979721?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/willow.cricket.us.png" tvg-id="58bb388fd81db290974c1eb5f8715092",WILLOW XTRA HD
+http://65.95.162.87:9981/stream/channelid/255376216?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/US/yes.network.us.png" tvg-id="f6aaddf9d049c038c93438d9e1bb4da9",YES TV
+http://65.95.162.87:9981/stream/channelid/2044570358?profile=pass
+#EXTINF:-1 logo="https://logo.koditvepg.com/GB/yesterday.gb.png" tvg-id="5ef190dcc47524aeccc137a1f1d6e408" group-title="*65.95*",Yesterday
+http://65.95.162.87:9981/stream/channelid/1553002846?profile=pass
+
 
 + + + + + 73.68.128.14:9981/playlist + + + + + 24/7 movie IT
 
