@@ -20891,10 +20891,12 @@ http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=201718&type=hls
 #EXTINF:-1,MY: Astro SuperSport Euro2020 1 HD
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=259876&type=hls
-https://www.dropbox.com/s/dl/x4m23kvr9wypmjq/astro_euro1&type=hls
+#EXTINF:-1,MY: Astro SuperSport Euro2020 1 HD'
+https://www.dropbox.com/s/dl/x4m23kvr9wypmjq/astro_euro1.m3u8
 #EXTINF:-1,MY: Astro SuperSport Euro2020 2 HD
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=259877&type=hls
-https://www.dropbox.com/s/dl/n5eqj1i6ldz81ma/astro_euro2&type=hls
+#EXTINF:-1,MY: Astro SuperSport Euro2020 2 HD'
+https://www.dropbox.com/s/dl/n5eqj1i6ldz81ma/astro_euro2.m3u8
 
 #EXTINF:-1 group-title="dmtn",DSTV: Supersport Blitz FHD
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=111530&type=hls
