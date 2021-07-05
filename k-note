@@ -20906,7 +20906,7 @@ http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=183117&type=hls
 #EXTINF:-1,DSTV: SuperSport Variety 4 FHD (AZ)
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=183127&type=hls
-#EXTINF:-1,DSTV: SuperSport Premier League FHD
+#EXTINF:-1 tvg-id="ss.premier.league.ze" tvg-name="ss.premier.league.ze" tvg-type="live" group-title="tv4" tvg-logo="https://media.tv4.live/ss.premier.league.ze.png",DSTV: SuperSport Premier League FHD
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=111536&type=hls
 #EXTINF:-1,DSTV: SuperSport Variety 1
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=119516&type=hls
@@ -20930,7 +20930,7 @@ http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=183177&type=hls
 #EXTINF:-1,DSTV: SuperSport MáXimo 1
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=199223&type=hls
-#EXTINF:-1,DSTV: SuperSport Premier League FHD (ZA)
+#EXTINF:-1 tvg-id="ss.premier.league.ze" tvg-name="ss.premier.league.ze" tvg-type="live" group-title="tv4" tvg-logo="https://media.tv4.live/ss.premier.league.ze.png",DSTV: SuperSport Premier League FHD (ZA)
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=111541&type=hls
 #EXTINF:-1,DSTV: SuperSport Rugby FHD (ZW)
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=183173&type=hls
@@ -20939,19 +20939,19 @@ http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&
 
 #EXTINF:-1 group-title="dmtn",DSTV: Supersport Blitz (NG)
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=111540&type=hls
-#EXTINF:-1,DSTV: SuperSport Football HD (ZA)
+#EXTINF:-1 tvg-id="ss.football.ze" tvg-name="ss.football.ze" tvg-type="live" group-title="tv4" tvg-logo="https://media.tv4.live/ss.football.ze.png",DSTV: SuperSport Football HD (ZA)
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=111537&type=hls
-#EXTINF:-1,DSTV: SuperSport Football HD (NG)
+#EXTINF:-1 tvg-id="ss.football.ze" tvg-name="ss.football.ze" tvg-type="live" group-title="tv4" tvg-logo="https://media.tv4.live/ss.football.ze.png",DSTV: SuperSport Football HD (NG)
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=111542&type=hls
-#EXTINF:-1,DSTV: SuperSport Football HD (UG)
+#EXTINF:-1 tvg-id="ss.football.ze" tvg-name="ss.football.ze" tvg-type="live" group-title="tv4" tvg-logo="https://media.tv4.live/ss.football.ze.png",DSTV: SuperSport Football HD (UG)
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=111539&type=hls
-#EXTINF:-1,DSTV: SuperSport Football Plus FHD (ZA)
+#EXTINF:-1 tvg-id="ss.football.plus.ze" tvg-name="ss.football.plus.ze" tvg-type="live" group-title="tv4" tvg-logo="https://media.tv4.live/ss.football.plus.ze.png",DSTV: SuperSport Football Plus FHD (ZA)
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=111534&type=hls
-#EXTINF:-1,DSTV: SuperSport Football Plus (Nigeria)
+#EXTINF:-1 tvg-id="ss.football.plus.ze" tvg-name="ss.football.plus.ze" tvg-type="live" group-title="tv4" tvg-logo="https://media.tv4.live/ss.football.plus.ze.png",DSTV: SuperSport Football Plus (Nigeria)
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=111533&type=hls
-#EXTINF:-1,DSTV: SuperSport Premier League FHD (UG)
+#EXTINF:-1 tvg-id="ss.premier.league.ze" tvg-name="ss.premier.league.ze" tvg-type="live" group-title="tv4" tvg-logo="https://media.tv4.live/ss.premier.league.ze.png",DSTV: SuperSport Premier League FHD (UG)
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=111532&type=hls
-#EXTINF:-1,DSTV: SuperSport EPL HD 
+#EXTINF:-1 tvg-id="ss.premier.league.ze" tvg-name="ss.premier.league.ze" tvg-type="live" group-title="tv4" tvg-logo="https://media.tv4.live/ss.premier.league.ze.png",DSTV: SuperSport EPL HD 
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=111531&type=hls
 #EXTINF:-1,DSTV: SuperSport LaLiga FHD (UG)
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=111529&type=hls
@@ -21001,9 +21001,9 @@ http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=199226&type=hls
 #EXTINF:-1,DSTV: SuperSport Motorsport (UG)
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=199227&type=hls
-#EXTINF:-1,DSTV: SuperSport MáXimo 1 HD (ZA)
+#EXTINF:-1 tvg-id="ss.mximo.1.ze" tvg-name="ss.mximo.1.ze" tvg-logo="https://media.tv4.live/ss.mximo.1.ze.png",DSTV: SuperSport MáXimo 1 HD (ZA)
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=199224&type=hls
-#EXTINF:-1,DSTV: SuperSport MáXimo 1 (UG)
+#EXTINF:-1 tvg-id="ss.mximo.1.ze" tvg-name="ss.mximo.1.ze" tvg-logo="https://media.tv4.live/ss.mximo.1.ze.png",DSTV: SuperSport MáXimo 1 (UG)
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=199225&type=hls
 #EXTINF:-1,DSTV: SuperSport WWE
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=199228&type=hls
