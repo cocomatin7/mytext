@@ -4,24 +4,18 @@ x-tvg-url="https://guidexl.tv4.live/"
 
 https://nonton.site:8443/live/yono22/ishak/2.m3u8
 http://45.141.58.67:80/live/lisa123/lisa123/646899.m3u8
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+
 http://192.99.54.242/ca_eng/FOOD_NETWORK/index.m3u8
 http://192.99.54.242/ind_tam/FOOD_NETWORK/index.m3u8
 http://192.99.54.242/uk/FOOD_NETWORK/index.m3u8
 http://192.99.54.242/spo/STAR_SPORTS_1/index.m3u8
 http://192.99.54.242/ca_eng/HGTV/index.m3u8
 
-http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
-http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
-http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-https://smart-tv.livedoomovie.com/02_EUROHD2_720pp/chunklist.m3u8
 
-https://www.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
+Euro HD1
+https://www.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8 
+Euro HD2
 https://www.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 
@@ -5872,11 +5866,11 @@ http://73.85.95.69:9981/stream/channelid/1276381117
 http://73.85.95.69:9981/stream/channelid/1579627856
 
 + + + + + 77.83.117.60:8888 [https://www.livedoomovie.com] + + + + +
+http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8 < OFFLINE
 
-#EXTINF:-1 group-title="77.83/TH",truesports HD 1 |77.83'
+#EXTINF:-1 group-title="77.83/TH",truesports HD 1 |77.83
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
-
-https://www.live77.83s.com/02_2sporthd2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_3HD_720p/chunklist.m3u8
@@ -5885,64 +5879,51 @@ http://77.83.117.60:8888/02_7HD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_8HD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_AMARINHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_AND_TV_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_AnimalPlanet/chunklist.m3u8
 http://77.83.117.60:8888/02_AXNHD_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_Baby_TV_HD_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_AnimalPlanet/chunklist.m3u8
 http://77.83.117.60:8888/02_BBCEARTH_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_Boomerang_720p/chunklist.m3u8
-
-#EXTINF:-1,BT SPORT HD 1 |77.83'
+#EXTINF:-1,BT SPORT HD 1 |77.83
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1,BT SPORT HD 2 |77.83'
+#EXTINF:-1,BT SPORT HD 2 |77.83
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-http://77.83.117.60:8888/02_CartoonNetwork_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_Baby_TV_HD_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_Boomerang_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_CCM_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_CH3FAMILY_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_CH3SD_480p/chunklist.m3u8
-http://77.83.117.60:8888/02_Channel_V_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_CNN_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_CartoonNetwork_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_Channel_V_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_Comedy_HD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_DiscoveryChannel/chunklist.m3u8
 http://77.83.117.60:8888/02_DiscoveryHDWorld/chunklist.m3u8
 http://77.83.117.60:8888/02_DiscoveryScience/chunklist.m3u8
 http://77.83.117.60:8888/02_DisneyXD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="beIN Sports 1", beIN SPORTS 1EN |77.83'
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-http://77.83.117.60:8888/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="beIN Sports 2", beIN SPORTS 2EN |77.83'
-http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-http://77.83.117.60:8888/02_epl2_720p/chunklist.m3u8
-
+#EXTINF:-1,EURO HD1 |77.83
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1,EURO HD2 |77.83
+http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FANMUSICHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FOX_Life_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FOX_Life_HD_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_FXThailand_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxActionHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxActionHD_TH_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxCrimeHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxCrimeHD_TH_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxFamilyHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxFamilyHD_TH_720p/Chunklist.m3u8
-#EXTINF:-1,Fox Movies HD
 http://77.83.117.60:8888/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1,Fox Movies TH
+#EXTINF:-1,FOX MOVIES TH |77.83
 http://77.83.117.60:8888/02_FoxMoviesTH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="beIN Sports 1",FOX SPORTS
-http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 1",FOX SPORTS 2
+#EXTINF:-1 tvg-id="beIN Sports 1",FOX SPORTS 2 |77.83
 http://77.83.117.60:8888/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 1",FOX SPORTS 3
+#EXTINF:-1 tvg-id="beIN Sports 1",FOX SPORTS 3 |77.83
 http://77.83.117.60:8888/02_FoxSport3_TH_720p/chunklist.m3u8
-
 http://77.83.117.60:8888/02_FoxThai_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxThai_TH_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_FXThailand_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_GMM_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_GMMONE_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_golfhd_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_GMM_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_H2HD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_HBOFamily_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_HBOHD_720p/chunklist.m3u8
@@ -5951,110 +5932,104 @@ http://77.83.117.60:8888/02_HBOSignature_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_HISTORYHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_KIX_Thailand_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_MANGORN_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_MChannel_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_MCOTFAMILY_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_MCOTHD_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_Miao_Mi_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_MChannel_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_MONO_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_MONO_Plus_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_MTV_Asia_720p/Chunklist.m3u8
 http://77.83.117.60:8888/02_MTV_China_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_MTV_Live_HD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_MYSCIHD_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_NatGeoHD_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_NatGeoHD_TH_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_NatGeoWild_720p/chunk.m3u8
-http://77.83.117.60:8888/02_NatGeoWild_TH_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_Miao_Mi_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_NATION_480p/chunklist.m3u8
-http://77.83.117.60:8888/02_NatPeopleHD_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_NBTSD_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_NEW_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_NFLNetwork_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_NHANG_DUNK_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_NHK_WORLD_TV_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_NatGeoHD_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_NatGeoHD_TH_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_NatGeoWild_720p/chunk.m3u8
+http://77.83.117.60:8888/02_NatGeoWild_TH_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_NatPeopleHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_Nick_Jr_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
-
+http://77.83.117.60:8888/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD1 |77
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8
 #EXTINF:-1,True Premiere Football HD2 |77
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |77
-http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD1 |77'
-http://77.83.117.60:8888/02_PremierHD1_480p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD2 |77'
-http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8
-#EXTINF:-1,True Premiere Football HD3 |77'
 http://77.83.117.60:8888/02_PremierHD3_480p/chunklist.m3u8
-
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD5_720p/Chunklist.m3u8
-
-#EXTINF:-1,SPORTTV1 |euro 20
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV3
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV4
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1,SPORTTV5
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-
-
 http://77.83.117.60:8888/02_RedbyHBO_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_SabaideeTV_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SCM_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SMM_TV_480p/chunklist.m3u8
+#EXTINF:-1,SPORTTV1 |77
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV2 |77
+http://77.83.117.60:8888/02_SPORTTV_2_720p /chunklist.m3u8
+#EXTINF:-1,SPORTTV3 |77
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV4 |77
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,SPORTTV5 |77
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SabaideeTV_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_Star_Gold_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_THAIPBS_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_THAIRATH_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_TNN24_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_TRUE4U_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_T_Sports_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_TennisHD_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_TennisHD_720p/chunklist2.m3u8
+http://77.83.117.60:8888/02_Thrill_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_TrueFilmHD1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_TrueFilmHD2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_VOICE_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_WORKPOINT_720p/chunklist.m3u8
+#EXTINF:-1,Warner TV |77.83
+http://77.83.117.60:8888/02_WarnerTVHD_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_Wish_Channel_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_Zee_Cinema_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_Zee_Nung_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_Zee_TV_720p/chunklist.m3u8
+
+http://77.83.117.60:8888/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 1", beIN SPORTS 1EN |77.83
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+http://77.83.117.60:8888/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 2", beIN SPORTS 2EN |77.83
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1,FOX SPORTS |77.83
+http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_golfhd_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_sport2_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_sport5_480p/chunklist .m3u8
 http://77.83.117.60:8888/02_sport6_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8
-http://77.83.117.60:8888/02_SPORTTV_2_720p /chunklist.m3u8
-http://77.83.117.60:8888/02_Star_Gold_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_T_Sports_480p/chunklist.m3u8
-http://77.83.117.60:8888/02_TennisHD_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_THAIPBS_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_THAIRATH_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_Thrill_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_TNN24_480p/chunklist.m3u8
-http://77.83.117.60:8888/02_TRUE4U_480p/chunklist.m3u8
-http://77.83.117.60:8888/02_TrueFilmHD1_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_TrueFilmHD2_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_VOICE_480p/chunklist.m3u8
-http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
 
-#EXTINF:-1,Warner TV
-http://77.83.117.60:8888/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1,*NBA HD
-http://77.83.117.60:8888/02_nbahd_720p/chunklist2.m3u8
-#EXTINF:-1,*True Tennis
-http://77.83.117.60:8888/02_TennisHD_720p/chunklist2.m3u8
-
-http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8 < OFFLINE
-
-http://77.83.117.60:8888/02_Wish_Channel_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_WORKPOINT_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_Zee_Cinema_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_Zee_Nung_720p/chunklist.m3u8
-http://77.83.117.60:8888/02_Zee_TV_720p/chunklist.m3u8
-http://77.83.117.60:8888/sumrujlok_goodtv/chunklist.m3u8
-#EXTINF:-1,SKYNET SPORTS 1 |77'
 http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1,SKYNET SPORTS 2 |77'
+#EXTINF:-1,SKYNET SPORTS 2 |77
 http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1,SKYNET SPORTS 3 |77'
+#EXTINF:-1,SKYNET SPORTS 3 |77
 http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1,SKYNET SPORTS 4 |77'
+#EXTINF:-1,SKYNET SPORTS 4 |77
 http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1,SKYNET SPORTS 5 |77'
+#EXTINF:-1,SKYNET SPORTS 5 |77
 http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1,SKYNET SPORTS 6 |77'
+#EXTINF:-1,SKYNET SPORTS 6 |77
 http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="77.83/TH",SKYNET SPORTS HD |77'
+#EXTINF:-1 group-title="77.83/TH",SKYNET SPORTS HD |77
 http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
+
+http://77.83.117.60:8888/sumrujlok_goodtv/chunklist.m3u8
+https://www.live77.83s.com/02_2sporthd2_720p/chunklist.m3u8
 
 + + + + + http://79.119.56.193:9981/extjs.html + + + + + DOWN
 
