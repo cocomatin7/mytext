@@ -13,18 +13,18 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
 https://raw.githubusercontent.com/dpch21/IPTV/main/dpCH-Free-IPTV
 http://gpc.my.id/vidio/champion-tv-1.m3u8
 http://mhiptv.com:8888/heshamyoussef/629131120/40802
+
+http://143.244.60.78/BEINSport1ENHD/tracks-v1a1/mono.m3u8?token=
+http://143.244.60.78/BEINSport2ENHD/tracks-v1a1/mono.m3u8?token=
 http://143.244.60.78/BEINSport3ENHD/tracks-v1a1/mono.m3u8?token=
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein1
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein2
+
 http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 http://103.153.39.34:8000/play/a05r/index.m3u8
 http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
-http://zalogitv.tech:8080/tony4/tony4/1755
-
-
-
 
 
 n.a. http://178.62.107.180/woh/index.m3u8?id=47850
@@ -90,14 +90,6 @@ http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 
 
-
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2859
-
-http://103.153.39.34:8000/playlist.m3u8
-
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 
 
 http://sofadad.co.uk:80/ibrar123/ibrar123/203415
@@ -212,7 +204,7 @@ https://streamspass.com/team/ukraine
 
 http://130.185.150.79:1935/trunk/SONY-SIX/playlist.m3u8 < to check
 
-http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
+
 
 #EXTINF:-1,HI NEWS
 http://159.192.73.198:1072/hinews
@@ -283,7 +275,9 @@ http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/100.m3u8
 http://local-xc.com:8080/get.php?username=thomas_arana&password=zqM3AtWFWc&type=m3u
 Real Url: buffing.ddns.net:8080     Status: Active    Created: 1/12/2020 10:21:17 AM     Expires: Null    Active Connections: 189     Maximum Connections: 350     Formats: "ts" < DOWN?
 
-http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+
+
+
 
 https://www.dropbox.com/s/dl/lmx3f8dnbe6xee4/hbo_omahtv.m3u8
 
@@ -1294,7 +1288,6 @@ https://tvlive.rtsh.dev/live/sport_ott_ppp2/playlist.m3u8
 https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/index.m3u8
 
 
-http://185.180.221.194:8278/streams/d/Fightsports/playlist.m3u8
 http://89.187.185.100/WWE/index.m3u8
 http://my.odtv.uk/live/iptvlover/128996/140.m3u8
 https://nonton.site:8443/live/yono22/ishak/37420.m3u8
@@ -8684,6 +8677,13 @@ http://185.180.221.194:8278/streams/d/Suntv/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Zeetamil/playlist.m3u8
+
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Fightsports/playlist.m3u8
 
 #EXTINF:-1,Foxhd
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
