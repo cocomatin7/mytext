@@ -12,39 +12,39 @@ n.a.http://178.62.107.180/woh/index.m3u8?id=47854
 n.a.http://178.62.107.180/woh/index.m3u8?id=47855
 http://178.62.107.180/woh/index.m3u8?id=47856
 n.a. http://178.62.107.180/woh/index.m3u8?id=47857
-STAR WORLD
+#EXTINF:-1,STAR WORLD
 http://178.62.107.180/woh/index.m3u8?id=47858
-STAR MOVIES SELECT
+#EXTINF:-1,STAR MOVIES SELECT
 http://178.62.107.180/woh/index.m3u8?id=47859
-STAR WORLD
+#EXTINF:-1,STAR WORLD
 http://178.62.107.180/woh/index.m3u8?id=47860
-STAR MOVIES SELECT
+#EXTINF:-1,STAR MOVIES SELECT
 http://178.62.107.180/woh/index.m3u8?id=47861
 na http://178.62.107.180/woh/index.m3u8?id=47862
-FOX life EN
+#EXTINF:-1,FOX life EN
 http://178.62.107.180/woh/index.m3u8?id=47863
 na http://178.62.107.180/woh/index.m3u8?id=47864
-NAT GEO EN
+#EXTINF:-1,NAT GEO EN
 http://178.62.107.180/woh/index.m3u8?id=47865
 na http://178.62.107.180/woh/index.m3u8?id=47866
 na http://178.62.107.180/woh/index.m3u8?id=47867
-ANIMAL PLANET EN
+#EXTINF:-1,ANIMAL PLANET EN
 http://178.62.107.180/woh/index.m3u8?id=47868
-BBC earth
+#EXTINF:-1,BBC earth
 http://178.62.107.180/woh/index.m3u8?id=47869
-H
+#EXTINF:-1,H
 http://178.62.107.180/woh/index.m3u8?id=47870
 http://178.62.107.180/woh/index.m3u8?id=47871
 http://178.62.107.180/woh/index.m3u8?id=47872
-NAT GEO WILD
+#EXTINF:-1,NAT GEO WILD
 http://178.62.107.180/woh/index.m3u8?id=47873
 Animal Planet
 http://178.62.107.180/woh/index.m3u8?id=47874
 http://178.62.107.180/woh/index.m3u8?id=47875
-TLC
+#EXTINF:-1,TLC
 http://178.62.107.180/woh/index.m3u8?id=47876
 http://178.62.107.180/woh/index.m3u8?id=47877
-Discovery
+#EXTINF:-1,Discovery
 http://178.62.107.180/woh/index.m3u8?id=47878
 http://178.62.107.180/woh/index.m3u8?id=47879
 
@@ -56,7 +56,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/SONY-MAX/tracks-v1a1/mono.m3u8
 http://221.120.204.4/STAR-SPORTS-SELECT-1-/tracks-v1a1/mono.m3u8
 http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
-YUPP EN
+#EXTINF:-1,YUPP EN
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 
 
