@@ -27,12 +27,6 @@ http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 
 
-
-
-
-
-
-
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
@@ -49,8 +43,6 @@ http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,YUPP EN
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
-
-
 
 
 http://sofadad.co.uk:80/ibrar123/ibrar123/203415
@@ -8698,6 +8690,9 @@ http://167.172.33.223:9981/stream/channel/5bd7e88f8916a9cd4a7057d908f335df
 
 
 + + + + + http://178.62.107.180/woh/ + + + + +
+
+https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
+
 
 n.a. http://178.62.107.180/woh/index.m3u8?id=47850
 http://178.62.107.180/woh/index.m3u8?id=47851
@@ -20702,6 +20697,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,&pictures SD
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
 #EXTINF:-1,&prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
@@ -24401,65 +24397,10 @@ http://one.d4k4u.com:8080/get.php?username=SADFFGGSQFDQSDF&password=rGMSeAaH&typ
 Real Url: one.d4k4u.com:8080     Status: Active    Created: 16/6/2021 7:28:30 PM     Expires: Null    Active Connections: 578     Maximum Connections: 100000     Formats: "m3u8","ts","rtmp" < DOWN
 
 http://one.d4k4u.com:8080/get.php?username=XXccqsdazeqsdaze&password=rGMSeAaH&type=m3u
-Real Url: one.d4k4u.com:8080     Status: Active    Created: 16/6/2021 7:28:30 PM     Expires: Null    Active Connections: 908     Maximum Connections: 100000     Formats: "m3u8","ts","rtmp"
+Real Url: one.d4k4u.com:8080     Status: Active    Created: 16/6/2021 7:28:30 PM     Expires: Null    Active Connections: 908     Maximum Connections: 100000     Formats: "m3u8","ts","rtmp" < DOWN
 
 http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=XXccqsdazeqsdaze&password=rGMSeAaH&stream=
 
-#EXTINF:-1 group-title="one",beIN_SPORTSMAX 1 HD
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289046
-#EXTINF:-1,beIN_SPORTSMAX 1 SD
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289047
-#EXTINF:-1,beIN_SPORTSMAX 2 HD
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289048
-#EXTINF:-1,beIN_SPORTSMAX 2 SD
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289049
-#EXTINF:-1,beIN_SPORTSMAX 3 HD
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289050
-#EXTINF:-1,beIN_SPORTSMAX 3 SD
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289051
-#EXTINF:-1,beIN_SPORTSMAX 4 HD
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289052
-#EXTINF:-1,beIN_SPORTSMAX 4 SD
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289053
-#EXTINF:-1,beIN_SPORTSMAX 5 HD
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289054
-#EXTINF:-1,beIN_SPORTSMAX 5 4K
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289055
-#EXTINF:-1,beIN_SPORTSMAX 6 HD
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289056
-#EXTINF:-1,beIN_SPORTSMAX 6 4K
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289057
-#EXTINF:-1,beIN_SPORTSMAX 1 4K
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289625
-#EXTINF:-1,beIN_SPORTSMAX 2 4K
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289626
-#EXTINF:-1,beIN_SPORTSMAX 3 4K
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289627
-#EXTINF:-1,beIN_SPORTSMAX 4 4K
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289628
-#EXTINF:-1,beIN_SPORTSMAX 5 4K
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289629
-#EXTINF:-1,beIN_SPORTSMAX 6 4K
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289630
-#EXTINF:-1,beIN_SPORTSMAX 2F
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289635
-#EXTINF:-1,beIN_SPORTSMAX 1F
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289636
-#EXTINF:-1,beIN_SPORTS 1 HD fr
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289637
-#EXTINF:-1,beIN_SPORTS 2 HD fr
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289638
-#EXTINF:-1,beIN_SPORTS 3 HD fr
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289639
-#EXTINF:-1,beIN_SPORTS 1F fr
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289640
-http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgEDI0J3bwNlbpVmQ
-#EXTINF:-1,beIN_SPORTS 2F fr
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289641
-http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgIDI0J3bwNlbpVmQ
-#EXTINF:-1 group-title="one",beIN_SPORTS 3F fr
-http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289642
-http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgMDI0J3bwNlbpVmQ
 
 
 + + + + + ottiptv.us:2095 + + + + + Null + + + + +
