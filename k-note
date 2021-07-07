@@ -4,6 +4,11 @@ x-tvg-url="https://guidexl.tv4.live/"
 
 *** to buy 1mth VIP at iptv.live and check INDIA VIP Channels
 
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=320x180,NAME="180p"
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
 http://www.reloltv.com/
 https://cdn.iptvmate.net/countries/uk.m3u
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
@@ -14,28 +19,62 @@ https://raw.githubusercontent.com/dpch21/IPTV/main/dpCH-Free-IPTV
 http://gpc.my.id/vidio/champion-tv-1.m3u8
 http://mhiptv.com:8888/heshamyoussef/629131120/40802
 
-offline http://143.244.60.78/BEINSport1ENHD/tracks-v1a1/mono.m3u8?token=
-offline http://143.244.60.78/BEINSport2ENHD/tracks-v1a1/mono.m3u8?token=
-offline http://143.244.60.78/BEINSport3ENHD/tracks-v1a1/mono.m3u8?token=
-offline http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein1
-offline http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein2
+http://143.244.60.78/BEINSport1ENHD/tracks-v1a1/mono.m3u8?token=
+http://143.244.60.78/BEINSport2ENHD/tracks-v1a1/mono.m3u8?token=
+http://143.244.60.78/BEINSport3ENHD/tracks-v1a1/mono.m3u8?token=
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein1
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein2
 
 http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-
-http://31.220.41.88:8081/live/klub1.stream/chunks.m3u8
-#EXTINF:-1,SK 2HD Euro
+http://103.153.39.34:8000/play/a05r/index.m3u8
 http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
-SK 3
-http://31.220.41.88:8081/live/klub3.stream/chunks.m3u8
-http://31.220.41.88:8081/live/klub4.stream/chunks.m3u8
-
-#EXTINF:-1,beIN 1FR
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
-#EXTINF:-1,beIN 2FR
-http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
-#EXTINF:-1,beIN 3FR
-http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+
+
+n.a. http://178.62.107.180/woh/index.m3u8?id=47850
+http://178.62.107.180/woh/index.m3u8?id=47851
+http://178.62.107.180/woh/index.m3u8?id=47852
+http://178.62.107.180/woh/index.m3u8?id=47853
+n.a.http://178.62.107.180/woh/index.m3u8?id=47854
+n.a.http://178.62.107.180/woh/index.m3u8?id=47855
+http://178.62.107.180/woh/index.m3u8?id=47856
+n.a. http://178.62.107.180/woh/index.m3u8?id=47857
+#EXTINF:-1,STAR WORLD
+http://178.62.107.180/woh/index.m3u8?id=47858
+#EXTINF:-1,STAR MOVIES SELECT
+http://178.62.107.180/woh/index.m3u8?id=47859
+#EXTINF:-1,STAR WORLD
+http://178.62.107.180/woh/index.m3u8?id=47860
+#EXTINF:-1,STAR MOVIES SELECT
+http://178.62.107.180/woh/index.m3u8?id=47861
+na http://178.62.107.180/woh/index.m3u8?id=47862
+#EXTINF:-1,FOX life EN
+http://178.62.107.180/woh/index.m3u8?id=47863
+na http://178.62.107.180/woh/index.m3u8?id=47864
+#EXTINF:-1,NAT GEO EN
+http://178.62.107.180/woh/index.m3u8?id=47865
+na http://178.62.107.180/woh/index.m3u8?id=47866
+na http://178.62.107.180/woh/index.m3u8?id=47867
+#EXTINF:-1,ANIMAL PLANET EN
+http://178.62.107.180/woh/index.m3u8?id=47868
+#EXTINF:-1,BBC earth
+http://178.62.107.180/woh/index.m3u8?id=47869
+#EXTINF:-1,H
+http://178.62.107.180/woh/index.m3u8?id=47870
+http://178.62.107.180/woh/index.m3u8?id=47871
+http://178.62.107.180/woh/index.m3u8?id=47872
+#EXTINF:-1,NAT GEO WILD
+http://178.62.107.180/woh/index.m3u8?id=47873
+Animal Planet
+http://178.62.107.180/woh/index.m3u8?id=47874
+http://178.62.107.180/woh/index.m3u8?id=47875
+#EXTINF:-1,TLC
+http://178.62.107.180/woh/index.m3u8?id=47876
+http://178.62.107.180/woh/index.m3u8?id=47877
+#EXTINF:-1,Discovery
+http://178.62.107.180/woh/index.m3u8?id=47878
+http://178.62.107.180/woh/index.m3u8?id=47879
 
 
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
@@ -48,11 +87,14 @@ http://221.120.204.4/STAR-SPORTS-SELECT-1-/tracks-v1a1/mono.m3u8
 TEN SPORT
 http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
 
+
 http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,YUPP EN
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
+
+
 
 
 http://sofadad.co.uk:80/ibrar123/ibrar123/203415
@@ -101,7 +143,7 @@ http://168.205.87.198:8555/get.php?username=viniciusvieira&password=vieira123&ty
 http://qqtv.nl:8080/get.php?username=sword&password=sword&type=m3u
 Real Url: qqtv.nl:8080     Status: Active    Created: 29/4/2021 3:43:12 PM     Expires: 29/7/2021 3:43:12 PM    Active Connections: 0     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
 
-
+http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/get.php?username=dOOULJsuIL&password=uEsV5ofcKA&type=m3u < 1-0 < quality beIN Channels
 
 https://nonton.site:8443/get.php?username=yono22&password=ishak&type=m3u
 Real Url: nonton.site:8888     Status: Active    Created: 4/1/2021 1:10:01 PM     Expires: 2/8/2021 11:34:03 AM    Active Connections: 4     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
@@ -2118,9 +2160,6 @@ https://dreamtv.livebox.co.in/bflixouthls/live.m3u8?Live-TV™
 #EXTINF:-1,crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
 https://crackle-plex.amagi.tv/playlist720p.m3u8
-
-CartoonNetwork Hindi
-http://pkr.cinepex.tv:8278/cartoonnetworkhindikdin/playlist.m3u8
 
 
 #EXTINF:-1,REDBOX
@@ -7600,7 +7639,6 @@ http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/140.m3u8
 
 + + + + http://103.153.39.34:8000/playlist.m3u8 + + + +
 
-
 #EXTINF:-1 group-title="103.153",&PRIVE HD-Rs 19
 http://103.153.39.34:8000/play/a06i/index.m3u8
 #EXTINF:-1,&flix HD-Rs19
@@ -8697,237 +8735,6 @@ http://167.172.33.223:9981/stream/channel/f6c657d39e8fd513306f7f2decb19fbb
 http://167.172.33.223:9981/stream/channel/5bd7e88f8916a9cd4a7057d908f335df
 
 + + + + + http://171.4.161.216:9981/extjs.html + + + + + DOWN
-
-
-+ + + + + http://178.62.107.180/woh/ + + + + +
-
-https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
-
-
-n.a. http://178.62.107.180/woh/index.m3u8?id=47850
-http://178.62.107.180/woh/index.m3u8?id=47851
-http://178.62.107.180/woh/index.m3u8?id=47852
-http://178.62.107.180/woh/index.m3u8?id=47853
-n.a.http://178.62.107.180/woh/index.m3u8?id=47854
-n.a.http://178.62.107.180/woh/index.m3u8?id=47855
-http://178.62.107.180/woh/index.m3u8?id=47856
-n.a. http://178.62.107.180/woh/index.m3u8?id=47857
-#EXTINF:-1 group-title="178.62",STAR WORLD
-http://178.62.107.180/woh/index.m3u8?id=47858
-#EXTINF:-1,STAR MOVIES SELECT
-http://178.62.107.180/woh/index.m3u8?id=47859
-#EXTINF:-1,STAR WORLD
-http://178.62.107.180/woh/index.m3u8?id=47860
-#EXTINF:-1,STAR MOVIES SELECT
-http://178.62.107.180/woh/index.m3u8?id=47861
-na http://178.62.107.180/woh/index.m3u8?id=47862
-#EXTINF:-1,FOX life EN
-http://178.62.107.180/woh/index.m3u8?id=47863
-na http://178.62.107.180/woh/index.m3u8?id=47864
-#EXTINF:-1,NAT GEO EN
-http://178.62.107.180/woh/index.m3u8?id=47865
-na http://178.62.107.180/woh/index.m3u8?id=47866
-na http://178.62.107.180/woh/index.m3u8?id=47867
-#EXTINF:-1,ANIMAL PLANET EN
-http://178.62.107.180/woh/index.m3u8?id=47868
-#EXTINF:-1,BBC earth
-http://178.62.107.180/woh/index.m3u8?id=47869
-#EXTINF:-1,H
-http://178.62.107.180/woh/index.m3u8?id=47870
-http://178.62.107.180/woh/index.m3u8?id=47871
-http://178.62.107.180/woh/index.m3u8?id=47872
-#EXTINF:-1,NAT GEO WILD
-http://178.62.107.180/woh/index.m3u8?id=47873
-Animal Planet
-http://178.62.107.180/woh/index.m3u8?id=47874
-http://178.62.107.180/woh/index.m3u8?id=47875
-#EXTINF:-1,TLC
-http://178.62.107.180/woh/index.m3u8?id=47876
-http://178.62.107.180/woh/index.m3u8?id=47877
-#EXTINF:-1,Discovery
-http://178.62.107.180/woh/index.m3u8?id=47878
-http://178.62.107.180/woh/index.m3u8?id=47879
-#EXTINF:-1,colors INFINITY EN
-http://178.62.107.180/woh/index.m3u8?id=47880
-na http://178.62.107.180/woh/index.m3u8?id=47881
-na http://178.62.107.180/woh/index.m3u8?id=47882
-na http://178.62.107.180/woh/index.m3u8?id=47883
-na http://178.62.107.180/woh/index.m3u8?id=47884
-na http://178.62.107.180/woh/index.m3u8?id=47885
-na http://178.62.107.180/woh/index.m3u8?id=47886
-na http://178.62.107.180/woh/index.m3u8?id=47887
-http://178.62.107.180/woh/index.m3u8?id=47888
-na http://178.62.107.180/woh/index.m3u8?id=47889
-
-http://178.62.107.180/woh/index.m3u8?id=47890
-http://178.62.107.180/woh/index.m3u8?id=47891
-http://178.62.107.180/woh/index.m3u8?id=47892
-na http://178.62.107.180/woh/index.m3u8?id=47893
-na http://178.62.107.180/woh/index.m3u8?id=47894
-na http://178.62.107.180/woh/index.m3u8?id=47895
-na http://178.62.107.180/woh/index.m3u8?id=47896
-na http://178.62.107.180/woh/index.m3u8?id=47897
-http://178.62.107.180/woh/index.m3u8?id=47898
-na http://178.62.107.180/woh/index.m3u8?id=47899
-
-na http://178.62.107.180/woh/index.m3u8?id=47900
-na http://178.62.107.180/woh/index.m3u8?id=47901
-STAR
-http://178.62.107.180/woh/index.m3u8?id=47902
-http://178.62.107.180/woh/index.m3u8?id=47903
-#EXTINF:-1,NAT GEO
-http://178.62.107.180/woh/index.m3u8?id=47904
-http://178.62.107.180/woh/index.m3u8?id=47905
-http://178.62.107.180/woh/index.m3u8?id=47906
-na http://178.62.107.180/woh/index.m3u8?id=47907
-http://178.62.107.180/woh/index.m3u8?id=47908
-http://178.62.107.180/woh/index.m3u8?id=47909
-
-na http://178.62.107.180/woh/index.m3u8?id=47910
-na http://178.62.107.180/woh/index.m3u8?id=47911
-http://178.62.107.180/woh/index.m3u8?id=47912
-na http://178.62.107.180/woh/index.m3u8?id=47913
-http://178.62.107.180/woh/index.m3u8?id=47914
-na http://178.62.107.180/woh/index.m3u8?id=47915
-http://178.62.107.180/woh/index.m3u8?id=47916
-na http://178.62.107.180/woh/index.m3u8?id=47917
-http://178.62.107.180/woh/index.m3u8?id=47918
-na http://178.62.107.180/woh/index.m3u8?id=47919
--/-/-/-/- NA -/-/-/-/-/-
-na http://178.62.107.180/woh/index.m3u8?id=47935
-http://178.62.107.180/woh/index.m3u8?id=47936
-http://178.62.107.180/woh/index.m3u8?id=47937
-na http://178.62.107.180/woh/index.m3u8?id=47938
-http://178.62.107.180/woh/index.m3u8?id=47939
-
-na http://178.62.107.180/woh/index.m3u8?id=47940
-na http://178.62.107.180/woh/index.m3u8?id=47941
-COLOR
-http://178.62.107.180/woh/index.m3u8?id=47942
-http://178.62.107.180/woh/index.m3u8?id=47943
-na http://178.62.107.180/woh/index.m3u8?id=47944
-na http://178.62.107.180/woh/index.m3u8?id=47945
-http://178.62.107.180/woh/index.m3u8?id=47946
-http://178.62.107.180/woh/index.m3u8?id=47947
-http://178.62.107.180/woh/index.m3u8?id=47948
-http://178.62.107.180/woh/index.m3u8?id=47949
-
-http://178.62.107.180/woh/index.m3u8?id=47950
-http://178.62.107.180/woh/index.m3u8?id=47951
-http://178.62.107.180/woh/index.m3u8?id=47952
-http://178.62.107.180/woh/index.m3u8?id=47953
-A PLUS
-http://178.62.107.180/woh/index.m3u8?id=47954
-na http://178.62.107.180/woh/index.m3u8?id=47955
-http://178.62.107.180/woh/index.m3u8?id=47956
-na http://178.62.107.180/woh/index.m3u8?id=47957
-http://178.62.107.180/woh/index.m3u8?id=47958
-na http://178.62.107.180/woh/index.m3u8?id=47959
-
-na http://178.62.107.180/woh/index.m3u8?id=47960
-na http://178.62.107.180/woh/index.m3u8?id=47961
-na http://178.62.107.180/woh/index.m3u8?id=47962
-na http://178.62.107.180/woh/index.m3u8?id=47963
-http://178.62.107.180/woh/index.m3u8?id=47964
-http://178.62.107.180/woh/index.m3u8?id=47965
-na http://178.62.107.180/woh/index.m3u8?id=47966
-na http://178.62.107.180/woh/index.m3u8?id=47967
-http://178.62.107.180/woh/index.m3u8?id=47968
-http://178.62.107.180/woh/index.m3u8?id=47969
-
-http://178.62.107.180/woh/index.m3u8?id=47970
-http://178.62.107.180/woh/index.m3u8?id=47971
-na http://178.62.107.180/woh/index.m3u8?id=47972
-na http://178.62.107.180/woh/index.m3u8?id=47973
-http://178.62.107.180/woh/index.m3u8?id=47974
-http://178.62.107.180/woh/index.m3u8?id=47975
-na http://178.62.107.180/woh/index.m3u8?id=47976
-na http://178.62.107.180/woh/index.m3u8?id=47977
-na http://178.62.107.180/woh/index.m3u8?id=47978
-na http://178.62.107.180/woh/index.m3u8?id=47979
-
-na http://178.62.107.180/woh/index.m3u8?id=47980
-#EXTINF:-1,H
-http://178.62.107.180/woh/index.m3u8?id=47981
-http://178.62.107.180/woh/index.m3u8?id=47982
-http://178.62.107.180/woh/index.m3u8?id=47983
-http://178.62.107.180/woh/index.m3u8?id=47984
-http://178.62.107.180/woh/index.m3u8?id=47985
-na http://178.62.107.180/woh/index.m3u8?id=47986
-http://178.62.107.180/woh/index.m3u8?id=47987
-http://178.62.107.180/woh/index.m3u8?id=47988
-http://178.62.107.180/woh/index.m3u8?id=47989
-
-http://178.62.107.180/woh/index.m3u8?id=47990
-http://178.62.107.180/woh/index.m3u8?id=47991
-http://178.62.107.180/woh/index.m3u8?id=47992
-http://178.62.107.180/woh/index.m3u8?id=47993
-na http://178.62.107.180/woh/index.m3u8?id=47994
-na http://178.62.107.180/woh/index.m3u8?id=47995
-na http://178.62.107.180/woh/index.m3u8?id=47996
-na http://178.62.107.180/woh/index.m3u8?id=47997
-http://178.62.107.180/woh/index.m3u8?id=47998
-http://178.62.107.180/woh/index.m3u8?id=47999
-
-na http://178.62.107.180/woh/index.m3u8?id=48000
-http://178.62.107.180/woh/index.m3u8?id=48001
-na http://178.62.107.180/woh/index.m3u8?id=48002
-na http://178.62.107.180/woh/index.m3u8?id=48003
-#EXTINF:-1,ZEE CINEMA HD
-http://178.62.107.180/woh/index.m3u8?id=48004
-#EXTINF:-1,STAR SPORTS 1
-http://178.62.107.180/woh/index.m3u8?id=48005
-STAR
-http://178.62.107.180/woh/index.m3u8?id=48006
-STAR
-http://178.62.107.180/woh/index.m3u8?id=48007
-ZEE
-http://178.62.107.180/woh/index.m3u8?id=48008
-#EXTINF:-1,WILD
-http://178.62.107.180/woh/index.m3u8?id=48009
-
-JAYA TV
-http://178.62.107.180/woh/index.m3u8?id=48010
-
-#EXTINF:-1,Discovery
-http://178.62.107.180/woh/index.m3u8?id=48011
-SUN TV
-http://178.62.107.180/woh/index.m3u8?id=48012
-SUN MUSIC
-http://178.62.107.180/woh/index.m3u8?id=48013
-K TV
-http://178.62.107.180/woh/index.m3u8?id=48014
-na http://178.62.107.180/woh/index.m3u8?id=48015
-#EXTINF:-1,NAT GEO
-http://178.62.107.180/woh/index.m3u8?id=48016
-#EXTINF:-1,SONY BBC earth
-http://178.62.107.180/woh/index.m3u8?id=48017
-#EXTINF:-1,H
-http://178.62.107.180/woh/index.m3u8?id=48018
-#EXTINF:-1 group-title="178.62",FOX life
-http://178.62.107.180/woh/index.m3u8?id=48019
-
-http://178.62.107.180/woh/index.m3u8?id=48020
-http://178.62.107.180/woh/index.m3u8?id=48021
-http://178.62.107.180/woh/index.m3u8?id=48022
-http://178.62.107.180/woh/index.m3u8?id=48023
-http://178.62.107.180/woh/index.m3u8?id=48024
-http://178.62.107.180/woh/index.m3u8?id=48025
-http://178.62.107.180/woh/index.m3u8?id=48026
-http://178.62.107.180/woh/index.m3u8?id=48027
-http://178.62.107.180/woh/index.m3u8?id=48028
-http://178.62.107.180/woh/index.m3u8?id=48029
-
-http://178.62.107.180/woh/index.m3u8?id=48030
-http://178.62.107.180/woh/index.m3u8?id=48031
-http://178.62.107.180/woh/index.m3u8?id=48032
-http://178.62.107.180/woh/index.m3u8?id=48033
-http://178.62.107.180/woh/index.m3u8?id=48034
-http://178.62.107.180/woh/index.m3u8?id=48035
-http://178.62.107.180/woh/index.m3u8?id=48036
-http://178.62.107.180/woh/index.m3u8?id=48037
-http://178.62.107.180/woh/index.m3u8?id=48038
-http://178.62.107.180/woh/index.m3u8?id=48039
 
 + + + + + http://184.82.147.223:9981/playlist/channels + + + + +
 
@@ -20707,7 +20514,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,&pictures SD
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
 #EXTINF:-1,&prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
@@ -24510,10 +24316,65 @@ http://one.d4k4u.com:8080/get.php?username=SADFFGGSQFDQSDF&password=rGMSeAaH&typ
 Real Url: one.d4k4u.com:8080     Status: Active    Created: 16/6/2021 7:28:30 PM     Expires: Null    Active Connections: 578     Maximum Connections: 100000     Formats: "m3u8","ts","rtmp" < DOWN
 
 http://one.d4k4u.com:8080/get.php?username=XXccqsdazeqsdaze&password=rGMSeAaH&type=m3u
-Real Url: one.d4k4u.com:8080     Status: Active    Created: 16/6/2021 7:28:30 PM     Expires: Null    Active Connections: 908     Maximum Connections: 100000     Formats: "m3u8","ts","rtmp" < DOWN
+Real Url: one.d4k4u.com:8080     Status: Active    Created: 16/6/2021 7:28:30 PM     Expires: Null    Active Connections: 908     Maximum Connections: 100000     Formats: "m3u8","ts","rtmp"
 
 http://one.d4k4u.com:8080/streaming/clients_live.php?extension=m3u8&username=XXccqsdazeqsdaze&password=rGMSeAaH&stream=
 
+#EXTINF:-1 group-title="one",beIN_SPORTSMAX 1 HD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289046
+#EXTINF:-1,beIN_SPORTSMAX 1 SD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289047
+#EXTINF:-1,beIN_SPORTSMAX 2 HD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289048
+#EXTINF:-1,beIN_SPORTSMAX 2 SD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289049
+#EXTINF:-1,beIN_SPORTSMAX 3 HD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289050
+#EXTINF:-1,beIN_SPORTSMAX 3 SD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289051
+#EXTINF:-1,beIN_SPORTSMAX 4 HD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289052
+#EXTINF:-1,beIN_SPORTSMAX 4 SD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289053
+#EXTINF:-1,beIN_SPORTSMAX 5 HD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289054
+#EXTINF:-1,beIN_SPORTSMAX 5 4K
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289055
+#EXTINF:-1,beIN_SPORTSMAX 6 HD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289056
+#EXTINF:-1,beIN_SPORTSMAX 6 4K
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289057
+#EXTINF:-1,beIN_SPORTSMAX 1 4K
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289625
+#EXTINF:-1,beIN_SPORTSMAX 2 4K
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289626
+#EXTINF:-1,beIN_SPORTSMAX 3 4K
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289627
+#EXTINF:-1,beIN_SPORTSMAX 4 4K
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289628
+#EXTINF:-1,beIN_SPORTSMAX 5 4K
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289629
+#EXTINF:-1,beIN_SPORTSMAX 6 4K
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289630
+#EXTINF:-1,beIN_SPORTSMAX 2F
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289635
+#EXTINF:-1,beIN_SPORTSMAX 1F
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289636
+#EXTINF:-1,beIN_SPORTS 1 HD fr
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289637
+#EXTINF:-1,beIN_SPORTS 2 HD fr
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289638
+#EXTINF:-1,beIN_SPORTS 3 HD fr
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289639
+#EXTINF:-1,beIN_SPORTS 1F fr
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289640
+http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgEDI0J3bwNlbpVmQ
+#EXTINF:-1,beIN_SPORTS 2F fr
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289641
+http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgIDI0J3bwNlbpVmQ
+#EXTINF:-1 group-title="one",beIN_SPORTS 3F fr
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289642
+http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgMDI0J3bwNlbpVmQ
 
 
 + + + + + ottiptv.us:2095 + + + + + Null + + + + +
@@ -25539,10 +25400,6 @@ Real Url: xtrastv.club:8080     Status: Active    Created: 4/2/2020 6:52:18 PM  
 
 http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/get.php?username=kjL9g1zbNL&password=XcrN4CAro5&type=m3u
 Real Url: sizlerdegeleceksinizbizlergibi.goldentv.eu:8899     Status: Active    Created: 10/2/2017 3:40:12 PM     Expires: 10/2/2022 5:40:00 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
-
-http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/get.php?username=dOOULJsuIL&password=uEsV5ofcKA&type=m3u < 13/12/21 < 1-0 < quality beIN Channels
-
-
 
 + + + + + sl.masterstv.net:1997 + + + + + null
 
