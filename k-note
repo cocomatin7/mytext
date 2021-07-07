@@ -21656,19 +21656,6 @@ Real Url: dolby.dubai4kip.com:80     Status: Active    Created: 6/2/2021 1:58:44
 http://dp.iptvport.com:7000/get.php?username=ppofibij&password=ppofibij&type=m3u
 Real Url: dp.iptvport.com:7000     Status: Active    Created: 25/12/2020 7:41:47 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
-+ + + + + dragoniptv / livegopanel + + + + +
-
-http://dragoniptv.iptf.me:8080/get.php?username=Piro30&password=h4hqN31m&type=m3u
-Real Url: dragoniptv.iptf.me:8080     Status: Active    Created: 18/2/2021 11:45:19 PM     Expires: Null    Active Connections: 201     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
-
-http://dragoniptv.iptf.me:8080/get.php?username=123&password=123&type=m3u
-Real Url: dragoniptv.iptf.me:8080     Status: Active    Created: 23/12/2020 1:54:23 AM     Expires: Null    Active Connections: 6    Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
-
-+ + + + + dreamsat-iptv.top:8080 + + + + +
-
-http://dreamsat-iptv.top:8080/get.php?username=SADFFGGSQFDQSDF&password=rGMSeAaH&type=m3u
-Real Url: dreamsat-iptv.top:8080     Status: Active    Created: 16/6/2021 7:28:30 PM     Expires: Null    Active Connections: 114     Maximum Connections: 100000     Formats: "m3u8","ts","rtmp" << to check
-
 
 + + + + + dlxfree.spdns.eu:21917 + + + + +
 
@@ -22221,6 +22208,122 @@ http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=78377&type=hls
 #EXTINF:-1 group-title="dmtn",beIN SPORTS 3 PREMIUM HD+ Ⓖ
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=78374&type=hls
+
++ + + + + dragoniptv / livegopanel + + + + +
+
+http://dragoniptv.iptf.me:8080/get.php?username=Piro30&password=h4hqN31m&type=m3u
+Real Url: dragoniptv.iptf.me:8080     Status: Active    Created: 18/2/2021 11:45:19 PM     Expires: Null    Active Connections: 201     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
+
+http://dragoniptv.iptf.me:8080/get.php?username=123&password=123&type=m3u
+Real Url: dragoniptv.iptf.me:8080     Status: Active    Created: 23/12/2020 1:54:23 AM     Expires: Null    Active Connections: 6    Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
++ + + + + dreamsat-iptv.top:8080 + + + + +
+
+http://dreamsat-iptv.top:8080/get.php?username=SADFFGGSQFDQSDF&password=rGMSeAaH&type=m3u
+Real Url: dreamsat-iptv.top:8080     Status: Active    Created: 16/6/2021 7:28:30 PM     Expires: Null    Active Connections: 114     Maximum Connections: 100000     Formats: "m3u8","ts","rtmp" << to check
+
++ + + + + driptvs.com:8080 + + + + + 
+
+http://driptvs.com:8080/get.php?username=amgextree2021&password=JqTFNPRqGw9e5JeG&type=m3u
+Real Url: driptvs.com:8080     Status: Active    Created: 22/12/2019 10:03:59 AM     Expires: Null    Active Connections: 447     Maximum Connections: 1200     Formats: "m3u8","ts"
+
+#EXTINF:-1,IDS: BeiN Sport 1
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135680.m3u8
+#EXTINF:-1,IDS: BeiN Sport 2
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135679.m3u8
+#EXTINF:-1,IDS: Fox Sports 1
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135678.m3u8
+#EXTINF:-1,IDS: Fox Sports 2
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135677.m3u8
+#EXTINF:-1,IDS: Fox Sports 3
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135676.m3u8
+#EXTINF:-1,IDS: Champion 1
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135675.m3u8
+#EXTINF:-1,IDS: Champion 2
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135674.m3u8
+#EXTINF:-1,MY: ASTRO SUPERSPORT 1 HD
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/46658.m3u8
+#EXTINF:-1,MY: ASTRO SUPERSPORT 2 HD
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/46659.m3u8
+#EXTINF:-1,MY: ASTRO SUPERSPORT 3 HD
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/46660.m3u8
+#EXTINF:-1,MY: ASTRO SUPERSPORT 4 HD
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/46661.m3u8
+#EXTINF:-1,AR: BEIN SPORTS Premium 3 HD
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/26215.m3u8
+#EXTINF:-1,AR: BEIN SPORTS ENGLISH 1 FHD
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/26216.m3u8
+#EXTINF:-1,AR: beIN SPORTS Premium 2 HD
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/74131.m3u8
+#EXTINF:-1,AR: beIN SPORTS ENGLISH 2 FHD
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/31446.m3u8
+
+#EXTINF:-1,AF: SuperSport Action
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135966.m3u8
+#EXTINF:-1,AF: SuperSport Blitz
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135965.m3u8
+#EXTINF:-1,AF: SuperSport Cricket
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135964.m3u8
+#EXTINF:-1,AF: SuperSport Football
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135963.m3u8
+#EXTINF:-1,AF: SuperSport Golf
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/165884.m3u8
+#EXTINF:-1,AF: SuperSport Grandstand
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135961.m3u8
+#EXTINF:-1,AF: SuperSport LaLiga
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135960.m3u8
+#EXTINF:-1,AF: SuperSport Motorsport
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135959.m3u8
+#EXTINF:-1,AF: SuperSport MáXimo 1
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135958.m3u8
+#EXTINF:-1,AF: SuperSport Play
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/165877.m3u8
+#EXTINF:-1,AF: SuperSport Premier League
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135956.m3u8
+#EXTINF:-1,AF: SuperSport PSL
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135955.m3u8
+#EXTINF:-1,AF: SuperSport Rugby
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135954.m3u8
+#EXTINF:-1,AF: SuperSport TENNIS HD
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/140560.m3u8
+#EXTINF:-1,AF: SuperSport Variety 1
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135952.m3u8
+#EXTINF:-1,AF: SuperSport Variety 3
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135950.m3u8
+#EXTINF:-1,AF: SuperSport Variety 2
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/4367.m3u8
+#EXTINF:-1,AF: SuperSport Variety 4
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/4371.m3u8
+#EXTINF:-1,AF: SuperSport WWE
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135948.m3u8
+
+#EXTINF:-1,UK: MTV HD
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/7891.m3u8
+#EXTINF:-1,UK: MTV Base
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/7892.m3u8
+#EXTINF:-1,UK: MTV Classic
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/7893.m3u8
+#EXTINF:-1,UK: MTV Dance
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/7894.m3u8
+#EXTINF:-1,UK: MTV HITS HD
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/7896.m3u8
+#EXTINF:-1,UK: MTV OMG
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/7898.m3u8
+#EXTINF:-1,UK: MTV Rocks
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/7899.m3u8
+#EXTINF:-1,UK: MTV 90s
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/46274.m3u8
+
+#EXTINF:-1,VOD: VH1 HD
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/147988.m3u8
+#EXTINF:-1,VOD: MTV CLASSIC USA (HQ)
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/147989.m3u8
+#EXTINF:-1,VOD: MTV LIVE USA (HQ)
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/147990.m3u8
+#EXTINF:-1,VOD: MTV 2 HD
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/147991.m3u8
+#EXTINF:-1,VOD: MTV
+http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/147992.m3u8
 
 + + + + + edge.multiplay.cl:25461 + + + + + Max Con: 0
 
