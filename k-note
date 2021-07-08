@@ -4,10 +4,22 @@ x-tvg-url="https://guidexl.tv4.live/"
 
 *** to buy 1mth VIP at iptv.live and check INDIA VIP Channels
 
-#EXTM3U 
-#EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=320x180,NAME="180p"
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+
+Utsav Gold EN
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+SONY SAB
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+n.a http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/SonY_Max_HD/tracks-v1a1/mono.m3u8
+SONY MAX
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
+n.a http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
+n.a http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
+ZEE CINEMA Audio
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+n.a http://77.166.114.98/scriptstar/mp.php/http://208.115.215.42/Sony_TV_HD_02/tracks-v1a1/mono.m3u8 < now can't
+
 
 http://www.reloltv.com/
 https://cdn.iptvmate.net/countries/uk.m3u
@@ -27367,5 +27379,4 @@ https://gratismkctv.net/film/hbo.m3u8
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=320x180,NAME="180p"
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-
 
