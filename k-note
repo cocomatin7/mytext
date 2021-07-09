@@ -23648,6 +23648,13 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
 
 http://iptv.kitv.live:1935/get.php?username=Shari&password=MTV-P&type=m3u < null < 1-0 < not play
 
++ + + + + iptv-line.com:8080 + + + + + not work
+
+http://iptv-line.com:8080/get.php?username=android1&password=android1&type=m3u
+Real Url: iptv-line.com:8080     Status: Active    Created: 8/9/2016 10:24:31 AM     Expires: Null    Active Connections: 0     Maximum Connections: 50     Formats: "m3u8","ts"
+http://m3ulink.com:7899/get.php?username=android1&password=android1&type=m3u
+
+
 + + + + + iptv.nonland.net:8080 + + + + +
 
 http://iptv.nonland.net:8080/get.php?username=KING_IPTV_xui&password=QtChUjfXPF&type=m3u
