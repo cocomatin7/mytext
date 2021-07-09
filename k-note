@@ -25865,6 +25865,9 @@ Real Url: romax.live:2086     Status: Active    Created: 7/4/2021 11:13:16 AM   
 
 + + + + + rv.therevenge.co:80 + + + + + 
 
+http://rv.flysat.live:80/get.php?username=691612147115657&password=691612147115657&type=m3u
+Real Url: rv.flysat.live:80     Status: Active    Created: Null     Expires: 6/1/2022 12:01:43 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
 http://rv.therevenge.co:80/get.php?username=307202171375&password=307202171375&type=m3u
 Real Url: rv.therevenge.co:80     Status: Active    Created: Null     Expires: 9/2/2022 4:28:14 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
@@ -26556,6 +26559,57 @@ http://sniperstv.vip:8080/live/jordan/jordan/4749.m3u8
 
 http://sofadad.co.uk:80/get.php?username=baldwin&password=baldwin1&type=m3u
 Real Url: sofadad.co.uk:80     Status: Active    Created: 1/4/2021 5:44:13 PM     Expires: 2/4/2022 5:44:13 PM    Active Connections: 1     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
++ + + + + solutionplay.xyz:8080 + + + + +
+
+http://solutionplay.xyz:8080/get.php?username=techruthes&password=89951662&type=m3u
+Real Url: solutionplay.xyz:8080     Status: Active    Created: 13/5/2021 2:24:33 PM     Expires: Null    Active Connections: 1     Maximum Connections: 500     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="sol",WARNER CHANNEL HD
+http://solutionplay.xyz:8080/live/techruthes/89951662/6486.m3u8
+#EXTINF:-1,MEGAPIX HD
+http://solutionplay.xyz:8080/live/techruthes/89951662/6457.m3u8
+#EXTINF:-1,A&E HD
+http://solutionplay.xyz:8080/live/techruthes/89951662/6427.m3u8
+#EXTINF:-1,RECORD SP HD
+http://solutionplay.xyz:8080/live/techruthes/89951662/6358.m3u8
+#EXTINF:-1,HGTV HD
+http://solutionplay.xyz:8080/live/techruthes/89951662/6081.m3u8
+#EXTINF:-1,NATGEO KIDS HD
+http://solutionplay.xyz:8080/live/techruthes/89951662/5973.m3u8
+#EXTINF:-1,HBO HD
+http://solutionplay.xyz:8080/live/techruthes/89951662/5948.m3u8
+#EXTINF:-1,ESPN HD
+http://solutionplay.xyz:8080/live/techruthes/89951662/5916.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://solutionplay.xyz:8080/live/techruthes/89951662/5860.m3u8
+#EXTINF:-1,SBT SP HD
+http://solutionplay.xyz:8080/live/techruthes/89951662/6368.m3u8
+#EXTINF:-1,BAND SP HD
+http://solutionplay.xyz:8080/live/techruthes/89951662/6326.m3u8
+#EXTINF:-1,GLOBO NEWS HD
+http://solutionplay.xyz:8080/live/techruthes/89951662/6108.m3u8
+#EXTINF:-1,RECORD NEWS FHD
+http://solutionplay.xyz:8080/live/techruthes/89951662/6104.m3u8
+#EXTINF:-1,GNT HD
+http://solutionplay.xyz:8080/live/techruthes/89951662/6076.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://solutionplay.xyz:8080/live/techruthes/89951662/6070.m3u8
+#EXTINF:-1,GLOOB HD
+http://solutionplay.xyz:8080/live/techruthes/89951662/5935.m3u8
+#EXTINF:-1,FOX SPORTS HD
+http://solutionplay.xyz:8080/live/techruthes/89951662/5932.m3u8
+#EXTINF:-1,TELECINE FUN FHD
+http://solutionplay.xyz:8080/live/techruthes/89951662/6034.m3u8
+#EXTINF:-1,REDE TV FHD
+http://solutionplay.xyz:8080/live/techruthes/89951662/6331.m3u8
+#EXTINF:-1,HISTORY CHANNEL FHD
+http://solutionplay.xyz:8080/live/techruthes/89951662/5965.m3u8
+#EXTINF:-1,ANIMAL PLANET FHD
+http://solutionplay.xyz:8080/live/techruthes/89951662/5847.m3u8
+#EXTINF:-1 group-title="sol",PrimePlay Music (EM FASE DE TESTES)
+http://solutionplay.xyz:8080/live/techruthes/89951662/13873.m3u8
+
 
 + + + + + sonyiptv.net:8080 + + + + + 6/12/2021
 
