@@ -4077,16 +4077,8 @@ http://27.254.130.61/live01/ch19.m3u8?p=st
 + + + + + http://50.7.75.182:9981/playlist/channels + + + + + NOT WORK
 
 
-+ + + + + http://50.7.75.182:9981/playlist/channels + + + + + login
++ + + + + http://50.7.75.182:9981/playlist/channels + + + + + login + NOT WORK
 
- group-title="50.7/TH",26511_ASSP1
-http://50.7.75.182:9981/stream/channelid/1967715841?ticket=E53A094875AEE2FAB4CE5D86314E86B39D2A2257&profile=pass
-,26512_ASSP2
-http://50.7.75.182:9981/stream/channelid/1006895579?ticket=62F0F7C45CF3F25CFF8877F33B99C1C18F9FF108&profile=pass
-,26513_ASSP3
-http://50.7.75.182:9981/stream/channelid/762672896?ticket=C799A907CEB08F6068C59895265C5CCAC083DE64&profile=pass
- group-title="50.7/TH",26514_ASSP4
-http://50.7.75.182:9981/stream/channelid/813529725?ticket=8E061EE7AF7F3254D597792FDB0BF6F38F10D660&profile=pass
 
 + + + + + 50.7/TH + + + + +
 
@@ -4201,9 +4193,6 @@ http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=15603472&tsum=9fdee5056a18d40
 http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=18654116&tsum=8ded2c86515f38caeeee732d7108eb55
 http://50.7.161.82:8278/bcointwo/playlist.m3u8?tid=18660802&tsum=16449d276a0a8179e9812bee9a057269
 http://50.7.161.82:8278/skynethd_pat/playlist.m3u8?tid=12128778&tsum=2e220cffb946fee14c0751afc62ba272
-
-
-
 
 
 #EXTINF:-1 group-title="50.7/TH",Astro SuperSport 1 |50.7
@@ -4324,75 +4313,6 @@ http://50.7.222.130:8278/supersports4/playlist.m3u8
 
 + + + + + http://62.249.165.216:9981/extjs.html + + + + + kas:lkab91gtt (91gtt) / tvh:tvh / bruker:bruker / Fjellet:Fjellet / user:user / + + + + + OFFLINE 
 
-http://62.249.165.216:9981/play/stream/service/20a6fc542feba946e2dd205192d90d8f?title=MTV%2080%27s%20%2F%20Canal%20Digital%20KTV
-http://62.249.165.216:9981/play/stream/service/bf734bbbf0df981cfbcd9657651d62ec?title=MTV%2090%27s%20%2F%20Telenor
-http://62.249.165.216:9981/play/stream/service/76fcd10652bf307ee97e015b95563df9?title=MTV%20Hits%20%2F%20Canal%20Digital%20KTV
-http://62.249.165.216:9981/play/stream/service/2057e577e3371d36c362eae15154fd8e?title=MTV%20Live%20HD%20%2F%20Canal%20Digital%20KTV
-http://62.249.165.216:9981/play/stream/service/1145e7c01a5e5c5eaeb0598f2c3324b3?title=MTV%20Live%20HD%20%2F%20Canal%20Digital%20KTV
-http://62.249.165.216:9981/play/stream/service/c1bb7a416118585f23a81e6552221e8e?title=MTV%20Music%2024%20%2F%20Canal%20Digital%20KTV
-http://62.249.165.216:9981/play/stream/service/c5a4ba7483ae657110a9b88aa85ef9c2?title=MTV%20Music%2024%20%2F%20Canal%20Digital%20KTV
-http://62.249.165.216:9981/play/stream/service/079196c9fd9342ce4de49afe0b89ee2f?title=V%20sport%20%2B%20%2F%20Canal%20Digital%20KTV
-http://62.249.165.216:9981/play/stream/service/1b9a86d9346daa7287cf26f2aea20adc?title=V%20sport%20%2B%20%2F%20Canal%20Digital%20KTV
-http://62.249.165.216:9981/play/stream/service/281cb1363581005ea610701f191c4003?title=V%20sport%201%20%2F%20Canal%20Digital%20KTV
-http://62.249.165.216:9981/play/stream/service/e9e0b68ea67609302f443c1e659d9d51?title=V%20sport%202%20%2F%20Telenor
-http://62.249.165.216:9981/play/stream/service/0a10bdd763a05d7bba3824d5a2943e92?title=V%20sport%203%20%2F%20Canal%20Digital%20KTV
-http://62.249.165.216:9981/play/stream/service/a36a9d974e06c465ab519fddb942bad9?title=VH-1%20%2F%20Canal%20Digital%20KTV
-
-http://62.249.165.216:9981/play/stream/channel/491f9ef785bb85404caac9e522288802?title=28%20%3A%20CNN%20International
-http://62.249.165.216:9981/play/stream/channel/c507e9d440626c29a225933a2e2b130e?title=139%20%3A%20FIGHT%20SPORTS
-http://62.249.165.216:9981/play/stream/channel/91b1fba75cce3c915adb2041e40a0a55?title=114%20%3A%20MTV%2080%27s
-http://62.249.165.216:9981/play/stream/channel/5b6b3bc0ba530ddb75492f661a462e7b?title=109%20%3A%20MTV%2090%27s
-http://62.249.165.216:9981/play/stream/channel/2bcccce1827ddd4901db8a6012f1df3e?title=108%20%3A%20MTV%20Hits
-http://62.249.165.216:9981/play/stream/channel/de1e650078bdd7db2dd4b5b03e2fbd98?title=110%20%3A%20MTV%20Live%20HD
-http://62.249.165.216:9981/play/stream/channel/925a31508b8d07ab2949f6629117f3b8?title=111%20%3A%20MTV%20Music%2024
-http://62.249.165.216:9981/play/stream/channel/66b0ae21d62538a04d2f8895617d3f4f?title=38%20%3A%20V%20sport%20%2B
-http://62.249.165.216:9981/play/stream/channel/48488d4cbb18a48ad85dc54f8fbe5426?title=39%20%3A%20V%20sport%201
-http://62.249.165.216:9981/play/stream/channel/ab933dbe3e6ff9c455390159e83002c8?title=40%20%3A%20V%20sport%202
-http://62.249.165.216:9981/play/stream/channel/af64792f1c8fef51c32f8682c7e48e32?title=41%20%3A%20V%20sport%203
-http://62.249.165.216:9981/play/stream/channel/d55775c406db20d02d7a557a6010a4a3?title=113%20%3A%20VH-1
-
-  group-title="62.249",BBC World News
-http://62.249.165.216:9981/stream/channelid/1062028339?ticket=D982C3F7A76A28E6FC2D81FB2AFFF478D8912A7F&profile=pass
- ,Bloomberg
-http://62.249.165.216:9981/stream/channelid/2120839712?ticket=4E96C44F76D165DB33068635C3D4DD8001DE25A7&profile=pass
- ,CNN International
-http://62.249.165.216:9981/stream/channelid/2006851401?ticket=5A930DBA126A20B8F7CF3E3E28C80C5E003FDBEA&profile=pass
-
- ,MTV
-http://62.249.165.216:9981/stream/channelid/441244791?ticket=8FF5E6FD2C8AB29463FFD7309DEDEF129B2EFE25&profile=pass
- ,MTV Hits
-http://62.249.165.216:9981/stream/channelid/1640811563?ticket=342F302035BD60BAC9683C15D3F0139C02AB7B69&profile=pass
- ,MTV 90's
-http://62.249.165.216:9981/stream/channelid/1077635931?ticket=3BE47C0E519C1BF0C02864E2CB5CA0939AA2B85E&profile=pass
- ,MTV Live HD
-http://62.249.165.216:9981/stream/channelid/6627038?ticket=50931694A56EB14956F5A02DC84D11520A0CA29B&profile=pass
- ,MTV Music 24
-http://62.249.165.216:9981/stream/channelid/1345411730?ticket=EFAAF855A1BD29E97D35321A20DD683F667AE09E&profile=pass
- ,Club MTV
-http://62.249.165.216:9981/stream/channelid/1443212240?ticket=B037652FADD8DD4B9CCFE7375BAAE1EE35CD9178&profile=pass
- ,VH-1
-http://62.249.165.216:9981/stream/channelid/1148540885?ticket=B5892C5BF8F1C300329623633DFD1C26AC815FF8&profile=pass
- ,MTV 80's
-http://62.249.165.216:9981/stream/channelid/670806417?ticket=7E42E59E53FF65E991D9009C7E02747288CB13CB&profile=pass
-
- ,TV2 Sport 1
-http://62.249.165.216:9981/stream/channelid/358941431?ticket=0A6FD38CF7C5F04298AEC0C981F7530503A0FBD5&profile=pass
- ,TV2 Sport 2
-http://62.249.165.216:9981/stream/channelid/1875509075?ticket=17799E80D44460C643931FA158AD69331BDF5884&profile=pass
- ,TV2 Sport Premium
-http://62.249.165.216:9981/stream/channelid/907704010?ticket=65A36FA7E94BAFF1547EDA510BC953F6C0ED08D2&profile=pass
- ,TV2 Sport Premium 2
-http://62.249.165.216:9981/stream/channelid/850098587?ticket=F20C79D436FA93890FF23308A59FB30720211833&profile=pass
- ,V sport +
-http://62.249.165.216:9981/stream/channelid/565096550?ticket=57CC6F2D33CB6CF541B9DAFC4984C94E176B4C40&profile=pass
- ,V sport 1
-http://62.249.165.216:9981/stream/channelid/1284327496?ticket=0BFF412D9C321CA39936239A9D5AA4E8DC23C3C0&profile=pass
- ,V sport 2
-http://62.249.165.216:9981/stream/channelid/1044222891?ticket=9A256704155472751FD2361F665930FC8EC50899&profile=pass
- ,V sport 3
-http://62.249.165.216:9981/stream/channelid/796484783?ticket=FC2BBFB5C5B7188E49EDD2BD5940282AD5231E86&profile=pass
-  group-title="62.249",FIGHT SPORTS
-http://62.249.165.216:9981/stream/channelid/1424558021?ticket=8609C3D6EC219A38F084D6FDE1DA2C8F196ED6C1&profile=pass
 
 
 + + + + + http://65.95.162.87:9981/extjs.html + + + + + dredmon1/mcslab20 + dredmon/mcslab20 + */*
