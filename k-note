@@ -211,7 +211,7 @@ http://api.queroassistir.tv:80/vod/marcos26/marcos26/series/max/14896.mp4
 #EXTINF:-1 logo="http://88.98.232.148:9981/imagecache/2" tvg-id="69bde3a827b4995fe11bfe1db8907edf",ITV FHD
 http://88.98.232.148:9981/stream/channelid/686013801?profile=pass
 
-https://n1.userdrive.me:183/d/z6jr7dat2as5ln23nxjonq3eedbqkhqqs4jxgne56gsl3bat2i5ytfbodrdrvvaokdr424bt/IIn%20This%20Corner%20of%20the%20World%20.720p(CM).mp4 K- - - OK
+https://n1.userdrive.me:183/d/z6jr7dat2as5ln23nxjonq3eedbqkhqqs4jxgne56gsl3bat2i5ytfbodrdrvvaokdr424bt/IIn%20This%20Corner%20of%20the%20World%20.720p(CM).mp4 K- - - for few hours
 
 https://drive.google.com/file/d/1FZvrmKl4cliccKnZrd1k47JEANkP9DW4/view?usp=sharing
 https://www.googleapis.com/drive/v3/files/1FZvrmKl4cliccKnZrd1k47JEANkP9DW4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -24020,53 +24020,6 @@ Real Url: sps1.tvmoip.com:18080     Status: Active    Created: 11/5/2020 12:35:3
 http://sps1.tvmoip.com:18080/get.php?username=localserver2&password=serverlocal2021&type=m3u
 Real Url: sps1.tvmoip.com:18080     Status: Active    Created: 29/9/2019 11:51:00 PM     Expires: Null    Active Connections: 46     Maximum Connections: 50     Formats: "m3u8","ts","rtmp"
 
-#EXTINF:-1 group-title="sps1",Bein Sports 1 FHD (TR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/73
-#EXTINF:-1,Bein Sport 2 (TR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/64
-#EXTINF:-1,Bein Sports 3 FHD (TR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/86
-#EXTINF:-1,Bein Sport 4 (TR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/87
-#EXTINF:-1,Bein Sport 6 (TR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/89
-#EXTINF:-1,Bein Sport 5 (TR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/88
-#EXTINF:-1,Bein Sport 7 (TR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/90
-#EXTINF:-1,Bein Sport 8 (TR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/91
-#EXTINF:-1,Bein Sport 9 (TR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/92
-#EXTINF:-1,Bein Sport 10 (TR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/93
-#EXTINF:-1,Bein Sports 1 HD (FR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/56
-#EXTINF:-1,Bein Sports 2 HD (FR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/57
-#EXTINF:-1,Bein Sports 3 HD (FR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/58
-#EXTINF:-1,Bein Sports 1 HD (AR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/94
-#EXTINF:-1,Bein Sports 2 HD (AR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/95
-#EXTINF:-1,Bein Sports 3 HD (AR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/96
-#EXTINF:-1,Bein Sports 4 HD (AR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/97
-#EXTINF:-1,Bein Sports 5 HD (AR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/98
-#EXTINF:-1,Bein Sports 6 HD (AR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/99
-#EXTINF:-1,Bein Sports 7 HD (AR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/100
-#EXTINF:-1,Bein Sports 8 HD (AR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/113
-#EXTINF:-1,Bein Sports 9 HD (AR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/114
-#EXTINF:-1 group-title="sps1",Bein Sports 10 HD (AR)
-http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/130
-
 
 + + + + + srb-iptv-munja.com:80 + + + + +
 
@@ -24111,6 +24064,10 @@ Real Url: titanmedia.one:2082     Status: Active    Created: 21/11/2020 10:26:54
 
 http://titanmedia.one:2082/get.php?username=UBfvYxNmhq&password=h8yrWCbDSO&type=m3u
 Real Url: clowniptv.com:2082     Status: Active    Created: 4/7/2021 1:13:35 AM     Expires: Null    Active Connections: 36     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
+
+http://clowniptv.com:2082/streaming/clients_live.php?extension=ts&username=UBfvYxNmhq&password=h8yrWCbDSO&stream=136
+
+http://streamwat.ch/custom/player/#http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/136.m3u8
 
 #EXTINF:-1 group-title="clown",UK: Sky Cinema Action & Adventure
 http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/136.m3u8
@@ -24385,7 +24342,7 @@ http://tv.dansk.live:8080/get.php?username=resell&password=nKTVSaaJ6f&type=m3u
 Real Url: tv.dansk.live:8080     Status: Active    Created: 23/5/2021 2:30:26 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1000     Formats: "ts" < DOWN
 
 http://tv.dansk.live:8080/get.php?username=T5ZYdgzEc6&password=3qYGesgNaG&type=m3u
-Real Url: tv.dansk.live:8080     Status: Active    Created: 26/6/2021 3:16:13 PM     Expires: Null    Active Connections: 1     Maximum Connections: 10000     Formats: "m3u8","ts","rtmp"
+Real Url: tv.dansk.live:8080     Status: Active    Created: 26/6/2021 3:16:13 PM     Expires: Null    Active Connections: 1     Maximum Connections: 10000     Formats: "m3u8","ts","rtmp" < NOT PLAY
 
 #EXTINF:-1 group-title="dansk",Boomerang
 http://tv.dansk.live:8080/live/T5ZYdgzEc6/3qYGesgNaG/32.m3u8
@@ -24517,41 +24474,7 @@ http://webo.asia:80/waleed/waleed/176351
 + + + + + wohuogai.com:37000 + + + + + xxx
 
 http://wohuogai.com:37000/get.php?username=Restreamex2020Vdfr&password=8hJsdyUIlT25102020&type=m3u
-Real Url: wohuogai.com:37000     Status: Active    Created: 14/12/2019 1:22:50 PM     Expires: Null    Active Connections: 613     Maximum Connections: 650     Formats: "m3u8","ts","rtmp" < not play well
-
-
-#EXTINF:-1 group-title="wohuogai",ES:BEIN LALIGA 1HD
-http://wohuogai.com:37000/live/Restreamex2020Vdfr/8hJsdyUIlT25102020/70229.m3u8
-#EXTINF:-1,ES:BEIN SPORTS LA LIGA HD
-http://wohuogai.com:37000/live/Restreamex2020Vdfr/8hJsdyUIlT25102020/70230.m3u8
-#EXTINF:-1,AR SPORTS: beIN SPORTS 11 FHD
-http://wohuogai.com:37000/live/Restreamex2020Vdfr/8hJsdyUIlT25102020/71491.m3u8
-#EXTINF:-1,AR SPORTS: beIN SPORTS 10 FHD
-http://wohuogai.com:37000/live/Restreamex2020Vdfr/8hJsdyUIlT25102020/71492.m3u8
-#EXTINF:-1,AR SPORTS: beIN SPORTS 9 FHD
-http://wohuogai.com:37000/live/Restreamex2020Vdfr/8hJsdyUIlT25102020/71493.m3u8
-#EXTINF:-1,AR SPORTS: beIN SPORTS 8 FHD
-http://wohuogai.com:37000/live/Restreamex2020Vdfr/8hJsdyUIlT25102020/71494.m3u8
-#EXTINF:-1,AR SPORTS: beIN SPORTS 7 FHD
-http://wohuogai.com:37000/live/Restreamex2020Vdfr/8hJsdyUIlT25102020/71495.m3u8
-#EXTINF:-1,AR SPORTS: beIN SPORTS 5 FHD
-http://wohuogai.com:37000/live/Restreamex2020Vdfr/8hJsdyUIlT25102020/71497.m3u8
-#EXTINF:-1,AR SPORTS: beIN SPORTS 2 FHD
-http://wohuogai.com:37000/live/Restreamex2020Vdfr/8hJsdyUIlT25102020/71500.m3u8
-#EXTINF:-1,AR SPORTS: beIN SPORTS 1 FHD
-http://wohuogai.com:37000/live/Restreamex2020Vdfr/8hJsdyUIlT25102020/71501.m3u8
-#EXTINF:-1,AR SPORTS: beIN SPORTS 3 FHD
-http://wohuogai.com:37000/live/Restreamex2020Vdfr/8hJsdyUIlT25102020/1499.m3u8
-#EXTINF:-1,AR SPORTS: beIN SPORTS 4 FHD
-http://wohuogai.com:37000/live/Restreamex2020Vdfr/8hJsdyUIlT25102020/1498.m3u8
-#EXTINF:-1,AR SPORTS: beIN SPORTS 6 FHD
-http://wohuogai.com:37000/live/Restreamex2020Vdfr/8hJsdyUIlT25102020/1496.m3u8
-#EXTINF:-1,AR SPORTS: beIN SPORTS 12 FHD
-http://wohuogai.com:37000/live/Restreamex2020Vdfr/8hJsdyUIlT25102020/1490.m3u8
-#EXTINF:-1,AR SPORTS: beIN SPORTS 13 FHD
-http://wohuogai.com:37000/live/Restreamex2020Vdfr/8hJsdyUIlT25102020/1489.m3u8
-#EXTINF:-1 group-title="wohuogai",US_HD:beIN Sports Ñ
-http://wohuogai.com:37000/live/Restreamex2020Vdfr/8hJsdyUIlT25102020/73635.m3u8
+Real Url: wohuogai.com:37000     Status: Active    Created: 14/12/2019 1:22:50 PM     Expires: Null    Active Connections: 650     Maximum Connections: 650     Formats: "m3u8","ts","rtmp" < not play well
 
 
 + + + + + women-bagswithcheapprice.com:8080 + + + + +
