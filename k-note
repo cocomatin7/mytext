@@ -25520,6 +25520,260 @@ Real Url: thespeedmedia.watch:2086     Status: Active    Created: 18/1/2021 6:18
 http://titanmedia.one:2082/get.php?username=5C8FFpy4mk&password=ZQ40RVwi1y&type=m3u
 Real Url: titanmedia.one:2082     Status: Active    Created: 21/11/2020 10:26:54 AM     Expires: Null    Active Connections: 216     Maximum Connections: 300     Formats: "m3u8","ts","rtmp" < DOWN
 
+http://titanmedia.one:2082/get.php?username=UBfvYxNmhq&password=h8yrWCbDSO&type=m3u
+Real Url: clowniptv.com:2082     Status: Active    Created: 4/7/2021 1:13:35 AM     Expires: Null    Active Connections: 36     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="clown",UK: Sky Cinema Action & Adventure
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/136.m3u8
+#EXTINF:-1,UK: Sky Cinema Action & Adventure HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/137.m3u8
+#EXTINF:-1,UK: Sky Cinema Comedy
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/139.m3u8
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/140.m3u8
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/142.m3u8
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/143.m3u8
+#EXTINF:-1,UK: Sky Cinema Disney
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/145.m3u8
+#EXTINF:-1,UK: Sky Cinema Disney HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/146.m3u8
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/148.m3u8
+#EXTINF:-1,UK: Sky Cinema Drama & Romance HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/149.m3u8
+#EXTINF:-1,UK: Sky Cinema Family
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/151.m3u8
+#EXTINF:-1,UK: Sky Cinema Family HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/152.m3u8
+#EXTINF:-1,UK: Sky Cinema Greats
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/154.m3u8
+#EXTINF:-1,UK: Sky Cinema Greats HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/155.m3u8
+#EXTINF:-1,UK: Sky Cinema Hits
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/157.m3u8
+#EXTINF:-1,UK: Sky Cinema Hits HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/158.m3u8
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/160.m3u8
+#EXTINF:-1,UK: Sky Cinema Premiere HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/161.m3u8
+#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/163.m3u8
+#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/164.m3u8
+#EXTINF:-1,UK: Sky Cinema Select
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/166.m3u8
+#EXTINF:-1,UK: Sky Cinema Select HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/167.m3u8
+
+#EXTINF:-1,UK: 4Music
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/455.m3u8
+#EXTINF:-1,UK: 4Music SD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/456.m3u8
+#EXTINF:-1,UK: Kiss TV
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/457.m3u8
+#EXTINF:-1,UK: Kiss TV UK
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/458.m3u8
+#EXTINF:-1,UK: Magic TV
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/459.m3u8
+#EXTINF:-1,UK: Magic TV UK
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/460.m3u8
+#EXTINF:-1,UK: MTV Base
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/461.m3u8
+#EXTINF:-1,UK: MTV Base UK
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/462.m3u8
+#EXTINF:-1,UK: MTV Classic
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/463.m3u8
+#EXTINF:-1,UK: MTV Classic UK
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/464.m3u8
+#EXTINF:-1,UK: MTV Hits
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/465.m3u8
+#EXTINF:-1,UK: MTV Hits UK
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/466.m3u8
+#EXTINF:-1,UK: MTV Rocks
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/467.m3u8
+#EXTINF:-1,UK: MTV Rocks UK
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/468.m3u8
+#EXTINF:-1,UK: MTV Music
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/469.m3u8
+#EXTINF:-1,UK: MTV Music UK
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/470.m3u8
+
+#EXTINF:-1,UK: & TV
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/532.m3u8
+#EXTINF:-1,UK: & TV HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/533.m3u8
+#EXTINF:-1,UK: & Pictures
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/534.m3u8
+#EXTINF:-1,UK: & Pictures HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/535.m3u8
+#EXTINF:-1,UK: B4U Movies
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/544.m3u8
+#EXTINF:-1,UK: B4U Movies HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/545.m3u8
+#EXTINF:-1,UK: Sony Max
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/582.m3u8
+#EXTINF:-1,UK: Sony Max HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/583.m3u8
+#EXTINF:-1,UK: Sony Max 2
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/584.m3u8
+#EXTINF:-1,UK: Sony Max 2 HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/585.m3u8
+#EXTINF:-1,UK: Zee Cinema
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/604.m3u8
+#EXTINF:-1,UK: Zee Cinema HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/605.m3u8
+
+#EXTINF:-1,USA | beIN Sports 01
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/39207.m3u8
+#EXTINF:-1,USA | beIN Sports 02
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/39208.m3u8
+#EXTINF:-1,USA | beIN Sports 04
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/39210.m3u8
+#EXTINF:-1,USA | beIN Sports 05
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/39211.m3u8
+#EXTINF:-1,USA | beIN Sports 06
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/39212.m3u8
+#EXTINF:-1,USA | beIN Sports 07
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/39213.m3u8
+#EXTINF:-1,USA | beIN Sports 08
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/39214.m3u8
+#EXTINF:-1,USA | beIN Sports 11
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/39216.m3u8
+#EXTINF:-1,USA | beIN Sports 12
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/39217.m3u8
+#EXTINF:-1,USA | beIN Sports 13
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/39218.m3u8
+#EXTINF:-1,USA | beIN Sports N
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/39219.m3u8
+#EXTINF:-1,USA | MTV 2
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/39403.m3u8
+#EXTINF:-1,USA | MTV Classic
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/39404.m3u8
+#EXTINF:-1,USA | MTV
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/39405.m3u8
+#EXTINF:-1,USA | MTV Live
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/39406.m3u8
+#EXTINF:-1,USA | NBCSN
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/39416.m3u8
+
+#EXTINF:-1,IN: & Picture HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/40087.m3u8
+#EXTINF:-1,IN: & FLIX
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/40088.m3u8
+#EXTINF:-1,IN: & PRIVE
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/40089.m3u8
+#EXTINF:-1,IN: B4U Movies
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/40095.m3u8
+#EXTINF:-1,IN: B4U Plus
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/40096.m3u8
+#EXTINF:-1,IN: SONY MAX HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/40152.m3u8
+#EXTINF:-1,IN: SONY SIX
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/40155.m3u8
+#EXTINF:-1,IN: TEN 1 HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/40171.m3u8
+#EXTINF:-1,IN: TEN 3 HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/40172.m3u8
+#EXTINF:-1,IN: Star Sports 1 Select HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/40161.m3u8
+#EXTINF:-1,IN: Star Sports 2 Select HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/40162.m3u8
+#EXTINF:-1,IN: ZEE CINEMA HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/40178.m3u8
+
+#EXTINF:-1,AF: Super Sport 1 HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/42561.m3u8
+#EXTINF:-1,AF: Super Sport 11 HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/42563.m3u8
+#EXTINF:-1,AF: Super Sport 12 HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/42564.m3u8
+#EXTINF:-1,AF: Super Sport 2 HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/42565.m3u8
+#EXTINF:-1,AF: Super Sport 3 HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/42566.m3u8
+#EXTINF:-1,AF: Super Sport 4 HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/42567.m3u8
+#EXTINF:-1,AF: Super Sport 5 HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/42568.m3u8
+#EXTINF:-1,AF: Super Sport 9 HD
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/42572.m3u8
+
+#EXTINF:-1,Music: HIT LIST
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/36715.m3u8
+#EXTINF:-1,Music: HIP HOP & R&B
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/36716.m3u8
+#EXTINF:-1,Music: TODAYS COUNTRY CMA AWARDS
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/36718.m3u8
+#EXTINF:-1,Music: 90'S
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/36719.m3u8
+#EXTINF:-1,Music: HIT LIST
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/36723.m3u8
+#EXTINF:-1,Music: TEEN BEATS
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/36727.m3u8
+#EXTINF:-1,Music: DANCE EDM
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/36728.m3u8
+#EXTINF:-1,Music: Y2K
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/36729.m3u8
+#EXTINF:-1,Music: BRITS AND HITS
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/36730.m3u8
+#EXTINF:-1,Music: POP LATINO
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/36731.m3u8
+#EXTINF:-1,Music: R&B SOUL
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/36732.m3u8
+#EXTINF:-1,Music: RAP
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/36733.m3u8
+#EXTINF:-1,Music: THROWBACK JAMZ
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/36734.m3u8
+#EXTINF:-1,Music: RAP 2K
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/36735.m3u8
+#EXTINF:-1,Music: MUSICA URBANA
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/36736.m3u8
+#EXTINF:-1,Music: LATINO
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/36737.m3u8
+#EXTINF:-1,Music: TROPICALS
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/36738.m3u8
+#EXTINF:-1,Music: ALTERNATIVE
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/36741.m3u8
+
+#EXTINF:-1,ZA | DSTV SuperSport Premier League
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/683093.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport PSL
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/683094.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Motorsport
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/683119.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Golf
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/683120.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Grandstand
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/683121.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport La Liga
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/683122.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Football
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/683123.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Variety 1
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/683124.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Variety 2
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/683125.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Variety 3
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/683126.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Variety 4
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/683127.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Action
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/683128.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Rugby
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/683129.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Cricket
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/683130.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Blitz
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/683133.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Play
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/683134.m3u8
+#EXTINF:-1 group-title="clown",ZA | DSTV SuperSport Máximo 1
+http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/683136.m3u8
+
+
 + + + + + topchantv.net:3456 + + + + +
 
 http://topchantv.net:3456/get.php?username=rahmat&password=rahmat&type=m3u
