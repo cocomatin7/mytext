@@ -20631,7 +20631,10 @@ http://auth.dmtn.tv:8080/get.php?username=dominic&password=dominic123&type=m3u
 Real Url: dmtn.tv:8080     Status: Active    Created: 21/1/2021 10:23:07 AM     Expires: 24/7/2021 9:59:59 AM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
 http://dmtn.tv:8080/get.php?username=gen-ress&password=TQK2KKVB4P&type=m3u
-Real Url: dmtn.tv:8080     Status: Active    Created: 24/6/2021 11:00:13 PM     Expires: Null    Active Connections: 618     Maximum Connections: 4000     Formats: "m3u8","ts","rtmp"
+Real Url: dmtn.tv:8080     Status: Active    Created: 24/6/2021 11:00:13 PM     Expires: Null    Active Connections: 618     Maximum Connections: 4000     Formats: "m3u8","ts","rtmp" <<
+
+http://vipmax-tv.net:8080/get.php?username=ultraserv365&password=ecgbQRQu95&type=m3u
+Real Url: dmtn.tv:8080     Status: Active    Created: 3/2/2021 4:59:04 PM     Expires: 3/2/2022 4:59:04 PM    Active Connections: 2     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
 #EXTINF:-1 group-title="dmtn",FR: beIN SPORTS 1 FHD ➂
 http://dmtn.tv:8080/streaming/clients_live.php?extension=m3u8&username=gen-ress&password=TQK2KKVB4P&stream=102538&type=hls
