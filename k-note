@@ -21251,7 +21251,7 @@ Real Url: index-off.xyz:8080     Status: Active    Created: 14/8/2020 9:49:02 AM
 + + + + + ip.newboss.site:80 + ip.bosszx.net:80 + bosstr.net:80 + + + Null + UK: SUPERSPORT + DSTV AFRICA| SuperSport 1 + + +
 
 http://ip.bosszx.net:80/get.php?username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&type=m3u
-Real Url: bosstr.net:80     Status: Active    Created: 25/4/2019 2:30:18 AM     Expires: Null    Active Connections: 136     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
+Real Url: bosstr.net:80     Status: Active    Created: 25/4/2019 2:30:18 AM     Expires: Null    Active Connections: 136     Maximum Connections: 200     Formats: "m3u8","ts","rtmp" < DOWN
 
 http://ip.trboss.net/get.php?username=dindin&password=sdfsjfujskrez&type=m3u
 Real Url: bosstr.net:80     Status: Active    Created: 24/1/2021 12:42:20 PM     Expires: Null    Active Connections: 61     Maximum Connections: 60     Formats: "m3u8","ts"
@@ -21259,72 +21259,6 @@ Real Url: bosstr.net:80     Status: Active    Created: 24/1/2021 12:42:20 PM    
 http://test.satlok.club/get.php?username=Amigo&password=do92Rd6x8yr3&type=m3u Real Url: ip.newboss.site:80 Expires: Null Connections: 200-200 < DOWN
 
 http://ip.bosszx.net:80/streaming/clients_live.php?extension=m3u8&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=15452&type=hls
-
-#EXTINF:-1 group-title="ip.newboss",|DSTV AFRICA|  S Grandstand
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=55828
-#EXTINF:-1,|DSTV AFRICA|  S Grandstand'
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=55829
-#EXTINF:-1,|DSTV AFRICA| S Cricket
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=55830
-#EXTINF:-1,|DSTV AFRICA| S Cricket'
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=55831
-#EXTINF:-1,|DSTV AFRICA| SuperSport 5
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=55832
-#EXTINF:-1,|DSTV AFRICA| SuperSport 6
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=55833
-#EXTINF:-1,|DSTV AFRICA| KC2
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=55834
-#EXTINF:-1,|DSTV AFRICA| SuperSport 8 |offline
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=55835
-#EXTINF:-1,|DSTV AFRICA| Benietv
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=55836
-#EXTINF:-1,|DSTV AFRICA| SuperSport Grandstand
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=55837
-#EXTINF:-1,|DSTV AFRICA| S Grandstand
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=55838
-#EXTINF:-1,|DSTV AFRICA| SuperSport 12
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=55839
-#EXTINF:-1,|DSTV AFRICA| S BLITZ |offline
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=55841
-#EXTINF:-1,|DSTV AFRICA| S MAXIMO |offline
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=55840
-
-#EXTINF:-1,USA: NBCSN
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=46925
-
-#EXTINF:-1,PAKISTANI | SONY TEN 1 HD
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=6045
-#EXTINF:-1,PAKISTANI | SONY TEN 2 HD
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=6046
-#EXTINF:-1,PAKISTANI | TEN 3 HD
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=6047
-
-#EXTINF:-1,HINDI | ZEE CINEMA HD
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=5048
-#EXTINF:-1 group-title="ip.newboss",HINDI | STAR MOVIES SELECT
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=56421
-
-#EXTINF:-1,|AL| Super Sport 1 HD
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=2202
-#EXTINF:-1,|AL| Super Sport 2 HD
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=2201
-#EXTINF:-1,|AL| Super Sport 3 HD
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=2200
-#EXTINF:-1,|AL| Super Sport 4 HD
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=2199
-#EXTINF:-1,|AL| SUPER SPORT 5 HD
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=2198
-#EXTINF:-1,|AL| SUPER SPORT 6 HD
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=2197
-
-#EXTINF:-1,|PL| ELEVENSPORT 1 HD
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=23782
-#EXTINF:-1,|PL| ELEVENSPORT 2 HD
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=23783
-#EXTINF:-1,|PL| ELEVENSPORT 3 HD
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=23784
-#EXTINF:-1 group-title="ip.newboss",|PL| ELEVENSPORT 4 HD
-http://ip.bosszx.net:80/streaming/clients_live.php?extension=ts&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=23785
 
 
 + + + + + ip.tv4all.top:12345 + + + + +
