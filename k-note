@@ -26,6 +26,21 @@ http://188.30.138.25:9981/extjs.html + + sky + + + +
 
 http://195.154.118.212:9981/extjs.html + + + CA + + Supersport + sky + adam:cirrus1991 + + + + +
 
+#EXTINF:-1,BT SPORT1
+http://116.202.245.40:9191/play/a03p
+#EXTINF:-1,BT SPORT2
+http://116.202.245.40:9191/play/a002
+
+http://116.206.186.183:9981/stream/channelid/982200088
+http://116.255.19.70:9981/stream/channelid/1497837135
+http://159.196.149.67:9981/stream/channelid/1754503102
+http://202.65.84.105:9981/stream/channelid/1497837135
+
+#EXTINF:-1,beIN SPORT1
+http://202.150.161.68:4000/play/a001/index.m3u8
+#EXTINF:-1,beIN SPORT2
+http://202.150.161.68:4000/play/a002/index.m3u8
+
 
 Utsav Gold EN
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
@@ -75,10 +90,7 @@ Real Url: mat4k.com:8080     Status: Active    Created: 14/12/2020 9:13:27 PM   
 http://officialtv.hopto.me:8000/get.php?username=3332010&password=3332010&type=m3u
 Real Url: officialtv.hopto.me:8000     Status: Active    Created: 18/10/2020 5:47:31 PM     Expires: 18/10/2021 5:47:31 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts" < INDIA CH
 
-http://116.255.19.70:9981/stream/channelid/1497837135
-http://202.65.84.105:9981/stream/channelid/1497837135
-http://116.206.186.183:9981/stream/channelid/982200088
-http://159.196.149.67:9981/stream/channelid/1754503102
+
 
 
 http://cobraa.in:8000/get.php?username=150110836751&password=6067d961998df.16041&type=m3u
@@ -1021,15 +1033,6 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=c_10005&key=84797b799ae18d1b
 Mediacorp cna
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10007&key=84797b799ae18d1b
 
-
-#EXTINF:-1,BT SPORT1
-http://116.202.245.40:9191/play/a03p
-#EXTINF:-1,BT SPORT2
-http://116.202.245.40:9191/play/a002
-#EXTINF:-1,beIN SPORT1
-http://202.150.161.68:4000/play/a001/index.m3u8
-#EXTINF:-1,beIN SPORT2
-http://202.150.161.68:4000/play/a002/index.m3u8
 
 
 #EXTINF:-1,beIN 1MAX
@@ -6991,536 +6994,558 @@ http://116.204.181.238:9981/stream/channel/f3ef5fea3cf8425665cacb7079fb3a9c?titl
 
 + + + +  http://116.255.19.70:9981/extjs.html + + + + + 
 
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/AE.png" tvg-id="979a7bb5e65f18715404302f47ede7ec" group-title="116.255/IN",A&E HD
-http://116.255.19.70:9981/stream/channelid/897292951?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/A%26E.png" tvg-id="77008abeb23141a0974b7b86237e1144",A&E | UHD ◉
-http://116.255.19.70:9981/stream/channelid/1049231479?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/ABC.png" tvg-id="d3b259edf3d000bbfd0db86249d85eb0",ABC | HD ◉
-http://116.255.19.70:9981/stream/channelid/1834595027?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/ABPNEWS.png" tvg-id="c65db721f8d27d61fedd983e0db8b017",ABP NEWS
-http://116.255.19.70:9981/stream/channelid/565665222?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/ALIBIHD.png" tvg-id="60314fa98e0268ae4f7b670878aca2e4",ALIBI
-http://116.255.19.70:9981/stream/channelid/693055840?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/ALIBIHD.png" tvg-id="ea4949eb21ddb59d6783e23623cbee53",ALIBI HD
-http://116.255.19.70:9981/stream/channelid/1799965162?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/AMC.png" tvg-id="f1ab1378818424a41ce3f4cb4804bf90",AMC PRESENTS
-http://116.255.19.70:9981/stream/channelid/2014555121?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/AMC.png" tvg-id="1392842eca81a1c2918d9210dd3eb0f3",AMC | HD
-http://116.255.19.70:9981/stream/channelid/780440083?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/AMC-PLUS.png" tvg-id="88ff962fe93cfbd6666bba7f733854a6",AMC+
-http://116.255.19.70:9981/stream/channelid/798424968?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/AMERICANHEROESANDICONS-1.png" tvg-id="c07729d610d63272899265fe10c6a7e6",AMERICAN HEROES CHANNEL | UHD
-http://116.255.19.70:9981/stream/channelid/1445558208?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/&privehd.png" tvg-id="0343f197b3f9a4ba5b759dc341082258",AND PRIVE HD
-http://116.255.19.70:9981/stream/channelid/401687299?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/AnimalPlanetWorldHD.png" tvg-id="2b8018f23a4d647541a8d9920ee1a8b3",ANIMAL PLANET WORLD HD
-http://116.255.19.70:9981/stream/channelid/1914208299?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/ANIMALPLANET-1.png" tvg-id="6c3849c2beb83a00ced39772f16f6298",ANIMAL PLANET | HD
-http://116.255.19.70:9981/stream/channelid/1112094828?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/AT%26TSPORTSNET.png" tvg-id="435cb13e42d3ba8e61ef311df013f630",AT&T SPORTSNET SOUTHWEST | HD
-http://116.255.19.70:9981/stream/channelid/1051810883?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/AWE.png" tvg-id="c379b6e7eceb73b6ac2cb3f020939cea",AWE | UHD
-http://116.255.19.70:9981/stream/channelid/1740011971?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/and-flix.png" tvg-id="60c5ba78085c4d48311a089eb74e3333",B-FLIX MOVIES
-http://116.255.19.70:9981/stream/channelid/2025506144?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/B4YOUMOVIES.png" tvg-id="18dbb79d692b5b01e0261ce433026025",B4U MOVIES
-http://116.255.19.70:9981/stream/channelid/498588440?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/b4u-music.png" tvg-id="2d40e9efe7c43deec6a58d5f290e2977",B4U MUSIC
-http://116.255.19.70:9981/stream/channelid/1877557293?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/BABYFIRSTTV.png" tvg-id="fbafa87becafdb6381a19f451ce2832f",BABY FIRST TV | HD
-http://116.255.19.70:9981/stream/channelid/2074652667?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/BABYTVHD.png" tvg-id="b951954ead84554b063d1b081b0a9feb",BABY TV | SD
-http://116.255.19.70:9981/stream/channelid/1318408633?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/BBC.png" tvg-id="d6b74d757d8274c6b01e56930d501ca2",BBC AMERICA | HD
-http://116.255.19.70:9981/stream/channelid/1968027606?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" tvg-id="930797bfe879bfe70b49b24eda61826f",BBC NEWS HD ◉
-http://116.255.19.70:9981/stream/channelid/1066862483?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" tvg-id="135a2285f6ffbe4d784eaf29ded996e8",BBC WORLD NEWS
-http://116.255.19.70:9981/stream/channelid/86137363?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AUSTRALIA/BBC-World-News.png" tvg-id="468df75bbf53dfffa7b09bd09bf21201",BBC WORLD NEWS | UHD
-http://116.255.19.70:9981/stream/channelid/1542950214?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" tvg-id="ce8a5d3e464cfed0be6351048d26617f",BBC2 ◉
-http://116.255.19.70:9981/stream/channelid/1046317774?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" tvg-id="4e96f33bd292daf19bc01d2a60948467",BBC3 ◉
-http://116.255.19.70:9981/stream/channelid/1005819470?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/BBC-1.png" tvg-id="6dd0341a7cce0ce499376510067333e3",BBC4 ◉
-http://116.255.19.70:9981/stream/channelid/439668845?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sportshd.png" tvg-id="d8a252126d3b0ff5cf1fb736553aafa9",BeIN SPORTS | HD
-http://116.255.19.70:9981/stream/channelid/307405528?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/Bindass.png" tvg-id="13e3b3a8b53f737383c6f66d97305919",BINDAS
-http://116.255.19.70:9981/stream/channelid/682877715?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/USA/BLOOMBERGLIVE.png" tvg-id="c1054f4507a65daef34b46ba7585643c",BLOOMBERG TV EUROPE | HD
-http://116.255.19.70:9981/stream/channelid/1162806721?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/USA/BLOOMBERGTV.png" tvg-id="87803a0fe1793f482fd46943899648e6",BLOOMBERG | HD
-http://116.255.19.70:9981/stream/channelid/255492231?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/BOOMERANGHD.png" tvg-id="eb572dc152337edf85c32822590022b0",BOOMERANG | HD
-http://116.255.19.70:9981/stream/channelid/1093490667?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/BRAVOFHD-1.png" tvg-id="dc76885a59edb46629b0697c4b8e1d8c",BRAVO WEST | HD
-http://116.255.19.70:9981/stream/channelid/1518892764?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/BRAVOFHD-1.png" tvg-id="3ebbe95c1c8b23142287d424d0923522",BRAVO | UHD ◉
-http://116.255.19.70:9981/stream/channelid/1558821694?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/CSPAN.png" tvg-id="eb96cc351a59703cf1ab2008b7e71254",C-SPAN 2 | HD
-http://116.255.19.70:9981/stream/channelid/902600427?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/CSPAN.png" tvg-id="ea70f32f0c98d3bcad313af426e6fa23",C-SPAN | HD
-http://116.255.19.70:9981/stream/channelid/804483306?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/ABCSPARKCANADA.png" tvg-id="68cce111a8a3e14044874a2aea7ec8f5",CA - ABC SPARK HD
-http://116.255.19.70:9981/stream/channelid/300010600?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/ACTION.png" tvg-id="1f0568c9bca59c20be2a6cddcfe73ca9",CA - ACTION HD
-http://116.255.19.70:9981/stream/channelid/1231553823?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/amc.png" tvg-id="61b4539d56d82f134b757f14043478f2",CA - AMC HD
-http://116.255.19.70:9981/stream/channelid/492024929?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/ANIMALPLANET.png" tvg-id="4f6ed613a534ee42f5ec8f78f65fc799",CA - ANIMAL PLANET HD
-http://116.255.19.70:9981/stream/channelid/332820047?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/BBC_World_News.png" tvg-id="b68862a28907309946d92f10e9fdae79",CA - BBC WORLD NEWS HD
-http://116.255.19.70:9981/stream/channelid/576882870?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/BRAVO.png" tvg-id="673c62860028edd84c45f059aa99e890",CA - Bravo HD
-http://116.255.19.70:9981/stream/channelid/107101287?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/CRIMEINVESTIGATION.png" tvg-id="9c9c4fb849cac36cc4cc36f8af1d4a9b",CA - CRIME INVESTIGATION HD
-http://116.255.19.70:9981/stream/channelid/944741532?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/INVESTIGATIONDISCOVERYHD-1.png" tvg-id="e4a1e1d8f83c9497148601f3d7a0a881",CA - DISCOVERY ID HD
-http://116.255.19.70:9981/stream/channelid/1491182052?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/DISCOVERYSCIENCECANADA.png" tvg-id="6862e15bfda0ace89944647beaa21d10",CA - DISCOVERY SCIENCE CANADA HD
-http://116.255.19.70:9981/stream/channelid/1541497448?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/DOCUMENTARY.png" tvg-id="11bcbbc73ed6c5e9ad321bac70bcf9d5",CA - DOCUMENTARY HD
-http://116.255.19.70:9981/stream/channelid/1203485713?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/FOODNETWORK.png" tvg-id="d52b57d30e54ce45c4248c7363db49cd",CA - FOOD NETWORK HD
-http://116.255.19.70:9981/stream/channelid/1398221781?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/gametv.png" tvg-id="3310ea2bfdc7c33b78f468264d498ab3",CA - Game TV HD
-http://116.255.19.70:9981/stream/channelid/736759859?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/GUSTO.png" tvg-id="d623540e5b00aee13512b5e1f31cd4a7",CA - GUSTO
-http://116.255.19.70:9981/stream/channelid/240395222?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/HGTV.png" tvg-id="e15a582ee0513fde34e77bad4972ca92",CA - HGTV HD
-http://116.255.19.70:9981/stream/channelid/777542369?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/HISTORY.png" tvg-id="7e865064245f76b0749b382cd4008500",CA - HISTORY HD
-http://116.255.19.70:9981/stream/channelid/1682998910?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/HLN.png" tvg-id="7006d559608323b186081ff6092e8e9f",CA - HLN UHD
-http://116.255.19.70:9981/stream/channelid/1507133040?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/IDCANADA.png" tvg-id="503a24f2edd98312f316a29e375ad899",CA - ID CANADA HD
-http://116.255.19.70:9981/stream/channelid/1914976848?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/MAKEFUL.png" tvg-id="3131d79ff4002dfce26cbd768c9fae63",CA - MAKEFUL HD
-http://116.255.19.70:9981/stream/channelid/534196529?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/SCANDINAVIAN/NATIONALGEOGRAPHICHD.png" tvg-id="04412c236c77515e638a3a8cfff98952",CA - NAT GEO HD
-http://116.255.19.70:9981/stream/channelid/590102788?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/USA/TLCHD.png" tvg-id="d26db2a25418f272e88447d4935e4e48",CA - TLC CANADA HD
-http://116.255.19.70:9981/stream/channelid/582118866?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/travel_escape.png" tvg-id="0525c0c4f757afa74a91185ce3515755",CA - TRAVEL + ESCAPE HD
-http://116.255.19.70:9981/stream/channelid/1153443077?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/FIGHTNETWORK.png" tvg-id="ba66a7529aafc64ecf28e08d3489fa17",CA - VIP FOOD NETWORK  HD
-http://116.255.19.70:9981/stream/channelid/1386702522?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/HLN.png" tvg-id="8650b96273d53032662016038c0cab4d",CA - VIP HLN HD
-http://116.255.19.70:9981/stream/channelid/1656311942?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/LIFETIME.png" tvg-id="428ad0874e2001309cc45ab1b38a885c",CA - VIP LIFETIME HD
-http://116.255.19.70:9981/stream/channelid/131107394?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/USA/TLCHD.png" tvg-id="d675ffe7af1a9d895ca25b0ef4c910fb",CA - VIP TLC HD
-http://116.255.19.70:9981/stream/channelid/1744795094?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/CARTOONNETWORK.png" tvg-id="3e27d03cae67b1ad594d85d770f7ba42",CARTOON NETWORK
-http://116.255.19.70:9981/stream/channelid/1020274494?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/CARTOONNETWORK.png" tvg-id="e4d3c59d32f09c9b94fa53a1b51bbdf8",CARTOON NETWORK EAST | HD
-http://116.255.19.70:9981/stream/channelid/499504100?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/CARTOONNETWORK.png" tvg-id="a89ae3e3817c3af6416afa55df353e14",CARTOON NETWORK EAST | UHD
-http://116.255.19.70:9981/stream/channelid/1675860648?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/CARTOONNETWORK.png" tvg-id="8acf0b22ce4e6099b337711a753f6255",CARTOON NETWORK WEST | HD
-http://116.255.19.70:9981/stream/channelid/571199370?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/CBS.png" tvg-id="379588509795803d0e53e9355474d8d9",CBS ACTION
-http://116.255.19.70:9981/stream/channelid/1351128375?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/CBS.png" tvg-id="ba7a29d1b604a2607cf655817f3157ff",CBS DRAMA
-http://116.255.19.70:9981/stream/channelid/1361672890?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/CBS.png" tvg-id="7c9e06692602986e4b2c1cecc1e5ee36",CBS REALITY
-http://116.255.19.70:9981/stream/channelid/1762041468?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/CBS.png" tvg-id="a690a0d84204c9e0afb26cefbaa9c7cc",CBS REALITY 1
-http://116.255.19.70:9981/stream/channelid/1486917798?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/CBS.png" tvg-id="5b9cec8bc398f53b6382c9ec9e01f094",CBS SPORTS NETWORK | HD
-http://116.255.19.70:9981/stream/channelid/200055899?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/CBS.png" tvg-id="8cf87b42bde00dc21f18f55b1ed7b8a6",CBS | HD ◉
-http://116.255.19.70:9981/stream/channelid/1115420812?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/CHEDDAR.png" tvg-id="68da2f99a8abcd54765dc9c4a6d8f7c1",CHEDDAR BUSINESS | HD
-http://116.255.19.70:9981/stream/channelid/422566504?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/CHEDDAR.png" tvg-id="4271788f7fbc5abbcf7d118bd5591a42",CHEDDAR NEWS | HD
-http://116.255.19.70:9981/stream/channelid/259551554?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/CNBC.png" tvg-id="01da84d1b0561bb17bca65b6fd24ab71",CNBC
-http://116.255.19.70:9981/stream/channelid/1367661057?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/cnbc-tv18.png" tvg-id="49b75b01e4678c806574ecb55b37270e",CNBC TV18 PRIME NEWS HD
-http://116.255.19.70:9981/stream/channelid/22787913?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/CNBCWORLD.png" tvg-id="98487e7e95530b4c3e5697fcdc4a7710",CNBC WORLD | HD
-http://116.255.19.70:9981/stream/channelid/2122205336?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AUSTRALIA/CNBC-2.png" tvg-id="ae4ca185907b91c04237e5477bb17dca",CNBC | HD ◉
-http://116.255.19.70:9981/stream/channelid/94457006?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/CNN.png" tvg-id="7ccea2952d9a5ff19722702bfdbd3896",CNN HD
-http://116.255.19.70:9981/stream/channelid/362991228?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/CNN.png" tvg-id="bf85d35eecb775c6e61f8d3e3f4d8852",CNN INTERNATIONAL | HD
-http://116.255.19.70:9981/stream/channelid/1590920639?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/CNN.png" tvg-id="69b59adab6ab2c764d3cd6fe446681f0",CNN | HD ◉
-http://116.255.19.70:9981/stream/channelid/1520088425?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/CNN.png" tvg-id="c88d2820b613a193c049fe30dff82455",CNN | UHD ◉
-http://116.255.19.70:9981/stream/channelid/539528648?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/CNN.png" tvg-id="3a21bd5f6a22549325748f4ebbf19f3e",CNN | UHD+ ◉
-http://116.255.19.70:9981/stream/channelid/1606230330?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/COLORS.png" tvg-id="85033d68221df1b3340fcc62c4ba4d1f",COLORS
-http://116.255.19.70:9981/stream/channelid/1748829061?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/Colors-Cineplex.png" tvg-id="2256a68ca333aa7289917e16a2dcdddc",COLORS CINEPLEX
-http://116.255.19.70:9981/stream/channelid/212227618?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/COLORS.png" tvg-id="e91f5dd9cb73410599871d9598a9edf1",COLORS HD ◉
-http://116.255.19.70:9981/stream/channelid/1499275241?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/Colors_Infinityhd.png" tvg-id="16185948a98f9f4074812175c276b41b",COLORS INFINITY HD
-http://116.255.19.70:9981/stream/channelid/1213798422?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/ColorsRisthey.png" tvg-id="168a2053bc9a02ec3521cd9ba0220ea4",COLORS RISHTEY TV
-http://116.255.19.70:9981/stream/channelid/1394641430?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/COMEDYCENTRALHD.png" tvg-id="b547691f117fb1161c157def23a6b4c1",COMEDY CENTRAL HD
-http://116.255.19.70:9981/stream/channelid/526993333?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/COOKINGCHANNEL-1.png" tvg-id="3615ba998e36e3c8725da2d60b9bc4ef",COOKING CHANNEL | HD
-http://116.255.19.70:9981/stream/channelid/431625526?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/CRIME%26INVESTIGATION.png" tvg-id="d8466cbbce850bad80d86b398d026ecd",CRIME & INVESTIGATION | HD
-http://116.255.19.70:9981/stream/channelid/996951768?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/CRIME%26INVESTIGATION.png" tvg-id="ea2c54aec5b51d868240ef468c47b907",CRIME&INVESTIGATION
-http://116.255.19.70:9981/stream/channelid/777268458?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/DDNEWS.png" tvg-id="23f0db1215f6bbd33789a69efc60267d",DD NEWS
-http://116.255.19.70:9981/stream/channelid/316403747?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/USA/DESTINATIONAMERICA.png" tvg-id="85365e447eab42a77258a993cde3658e",DESTINATION AMERICA UHD
-http://116.255.19.70:9981/stream/channelid/1147025029?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/DISCOVERY%20CANADA.png" tvg-id="480d0e57b8bae2327e6e44138d397a05",DISCOVERY CANADA
-http://116.255.19.70:9981/stream/channelid/1460538696?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/discovery-channel.png" tvg-id="f601e2d86b6be735c089cc1f6ed9ad2a",DISCOVERY CHANNEL | HD
-http://116.255.19.70:9981/stream/channelid/1491206646?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/discovery-family-1.png" tvg-id="a1a3c96ad696b7a964f4ec060318ad11",DISCOVERY FAMILY | HD
-http://116.255.19.70:9981/stream/channelid/1791599521?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/ITALY/DISCOVERYCHANNEL-1.png" tvg-id="08732e8bf4d56ba87a3c8c3ed1db013a",DISCOVERY HD
-http://116.255.19.70:9981/stream/channelid/187593480?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/ITALY/DISCOVERYCHANNEL-1.png" tvg-id="f8a0568a6d775bf9bb4bc46a77e6f864",DISCOVERY HISTORY
-http://116.255.19.70:9981/stream/channelid/173449464?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/Discovery_life.png" tvg-id="f730dc1832f79ca68160c6b5fa4cc7c1",DISCOVERY LIFE | HD
-http://116.255.19.70:9981/stream/channelid/417083639?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/ITALY/DISCOVERYCHANNEL-1.png" tvg-id="1eb16174fa02cfccceab9be5c95d2a4c",DISCOVERY SCIENCE
-http://116.255.19.70:9981/stream/channelid/1952559390?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AUSTRALIA/Discovery_Science.png" tvg-id="f4aac5347882a6f2d3549345881f7372",DISCOVERY SCIENCE | HD
-http://116.255.19.70:9981/stream/channelid/885369588?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AUSTRALIA/Discovery_Turbo-2.png" tvg-id="9014ed07d20da88a8cf5924a9e2522dd",DISCOVERY TURBO
-http://116.255.19.70:9981/stream/channelid/132977808?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/discovery-channel.png" tvg-id="f08d3fc0c243b75c49b8cda2878efb2d",DISCOVERY VELOCITY | HD
-http://116.255.19.70:9981/stream/channelid/1077906928?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/DISNEYCHANNELFHD.png" tvg-id="4337a6aed116bd74a3429110602c82f1",DISNEY CHANNEL EAST | HD
-http://116.255.19.70:9981/stream/channelid/782645059?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/DISNEYCHANNELFHD.png" tvg-id="40f2529e6ba151ac0e02365899a29cd0",DISNEY CHANNEL WEST | HD
-http://116.255.19.70:9981/stream/channelid/508752448?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/DISNEYJR.png" tvg-id="05e63f1ef122d984b17fd3e4207b59e1",DISNEY JR WEST | HD
-http://116.255.19.70:9981/stream/channelid/507504133?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/DISNEYJR.png" tvg-id="359c632d0af93a47553ad03cfcc9df51",DISNEY JR | HD
-http://116.255.19.70:9981/stream/channelid/761502773?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/DISNEYXD.png" tvg-id="9830cc794317bf52b8a12c5ace915144",DISNEY XD EAST | HD
-http://116.255.19.70:9981/stream/channelid/2043424920?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/DISNEYXD.png" tvg-id="ec7e890aad29181bf26d85f2957dc801",DISNEY XD WEST | HD
-http://116.255.19.70:9981/stream/channelid/176783084?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/DIYNETWORK.png" tvg-id="48b874d0d0ef3f99da54181efaf588c8",DIY NETWORK | HD
-http://116.255.19.70:9981/stream/channelid/1349826632?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/DRAMA-1.png" tvg-id="5afde525be44b6486c3ea2a7f989a50d",DRAMA
-http://116.255.19.70:9981/stream/channelid/635829594?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/CANADA/E.png" tvg-id="8f2101196c230e5b9223b06481e05055",E! CANADA
-http://116.255.19.70:9981/stream/channelid/419504527?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/E!.png" tvg-id="810a62680720f4e9cb315dd1d27a61ad",E! ENTERTAINMENT
-http://116.255.19.70:9981/stream/channelid/1751255681?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/E%21.png" tvg-id="ea8080cd0b5fb768b0160d2b0df3d281",E! WEST | HD
-http://116.255.19.70:9981/stream/channelid/1300267242?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/E%21.png" tvg-id="cdab35411e0d0e01ad02883145ff83da",E! | UHD ◉
-http://116.255.19.70:9981/stream/channelid/1094036429?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AUSTRALIA/espn.png" tvg-id="81acd3731b6d5ed7ad3c3d8ed4975265",ESPN 1 | UHD (AU)
-http://116.255.19.70:9981/stream/channelid/1943252097?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/ESPN.png" tvg-id="97f9cfd9343289049833a784a1ddcdfb",ESPN 2 | HD
-http://116.255.19.70:9981/stream/channelid/1506802071?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AUSTRALIA/espn.png" tvg-id="df15c02ebff3347239ef93198aa1f549",ESPN 2 | UHD (AU)
-http://116.255.19.70:9981/stream/channelid/784340447?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/ESPN.png" tvg-id="862422fbeb6154b03f64607524b8db5a",ESPN U | HD
-http://116.255.19.70:9981/stream/channelid/2065835142?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/ESPN.png" tvg-id="bcd356d3878bbe0a59f068c864fd0e95",ESPN | HD
-http://116.255.19.70:9981/stream/channelid/1398199228?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AUSTRALIA/espn.png" tvg-id="b0b3c87bc3607e2ea1729771f5053f09",ESPN | HD (AU)
-http://116.255.19.70:9981/stream/channelid/2076750768?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/ETNOWHD.png" tvg-id="00e2f240f20778122b52d36d7d19dcdb",ET NOW HD
-http://116.255.19.70:9981/stream/channelid/1089659392?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/Food_Food.png" tvg-id="b08eb33b6c56b809447faad0f22d6742",FOOD FOOD HD
-http://116.255.19.70:9981/stream/channelid/1001623216?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/FOODNETWORK.png" tvg-id="d30513f3c377bc98ea3682bda1e3edaf",FOOD NETWORK
-http://116.255.19.70:9981/stream/channelid/1930626515?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/FOODNETWORK.png" tvg-id="ad3c18cbd6f9d903e4ddb2c8483c8fe4",FOOD NETWORK | HD
-http://116.255.19.70:9981/stream/channelid/1259879597?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/FOX.png" tvg-id="46325db2bf4393a9af2cbdaa3085bca1",FOX BUSINESS NETWORK | HD
-http://116.255.19.70:9981/stream/channelid/844968518?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/FOXLIFE.png" tvg-id="c108df38d7b7016aaefdf4ddfe6d5419",FOX LIFE HD
-http://116.255.19.70:9981/stream/channelid/954140865?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/Fox_Life.png" tvg-id="f3b44110546df97cbe748a3ce59226f1",FOX LIFE | HD
-http://116.255.19.70:9981/stream/channelid/272741619?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/FOX.png" tvg-id="46460c56f609e2dcfb0ffdf6df4f0943",FOX NEWS CHANNEL | HD
-http://116.255.19.70:9981/stream/channelid/1443644998?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/FOXSPORT.png" tvg-id="34d68c7c8571274839d7738d1b93e87c",FOX SPORTS 1 | UHD
-http://116.255.19.70:9981/stream/channelid/2089604660?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/FOXSPORT.png" tvg-id="2c7c431466ad6738035cb20224b82d79",FOX SPORTS 2 | UHD
-http://116.255.19.70:9981/stream/channelid/339967020?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AUSTRALIA/FOX-505-2.png" tvg-id="a5bffe8f90ff6b3cb82f28f3b8d0f7cd",FOX SPORTS 503 | UHD (AU)
-http://116.255.19.70:9981/stream/channelid/268353445?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AUSTRALIA/FOX-505-2.png" tvg-id="a9d1c811863c5eecc164f79170a50412",FOX SPORTS 505 | UHD (AU)
-http://116.255.19.70:9981/stream/channelid/298373545?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AUSTRALIA/FOX-505-2.png" tvg-id="b258aa5ccc0eee00b3c1dd09e8a44b23",FOX SPORTS 506 | UHD (AU)
-http://116.255.19.70:9981/stream/channelid/1554667698?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/FOX.png" tvg-id="a307ad23992afba41271b0d513750664",FOX | HD ◉
-http://116.255.19.70:9981/stream/channelid/598542243?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/FREESPEECHTV.png" tvg-id="9129fbaa188c98b71c2164f2d4dfd5e8",FREE SPEECH TV | HD
-http://116.255.19.70:9981/stream/channelid/721103249?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/GAMESHOWNETWORK.png" tvg-id="b3ee030e1135413b128c313f82729e51",GAME SHOW NETWORK | HD
-http://116.255.19.70:9981/stream/channelid/235138739?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/USA/GREAT-AMERICAN-COUNTRY.png" tvg-id="bd2e61f92fb9f846f6aa9cda316c0ffb",GREAT AMERICAN COUNTRY | HD
-http://116.255.19.70:9981/stream/channelid/2036412093?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/HBOINDIAHD.png" tvg-id="a5f799b95a60e8ee437ad8970da77729",HBO INDIA HD
-http://116.255.19.70:9981/stream/channelid/966391717?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/BRASIL/HISTORY-2-1.png" tvg-id="568710b5bac94a1d30289806034fcc3d",HISTORY 2 HD
-http://116.255.19.70:9981/stream/channelid/890275670?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/HISTORY.png" tvg-id="520c0ccead4f2ea66ef35e42d046a17d",HISTORY CHANNEL | HD
-http://116.255.19.70:9981/stream/channelid/1309412434?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/HISTORY.png" tvg-id="311c1c978961361b8e26aa4c37d89206",HISTORY CHANNEL | UHD
-http://116.255.19.70:9981/stream/channelid/387718193?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/BRASIL/HISTORYHD-1.png" tvg-id="8480fea391035b8309711e31ce788481",HISTORY HD
-http://116.255.19.70:9981/stream/channelid/603881604?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/HISTORYTV18HD.png" tvg-id="a859780677b25427ed3d4223b257f087",HISTORY TV18 HD
-http://116.255.19.70:9981/stream/channelid/108550568?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/HLN.png" tvg-id="ab5466e82bc508c5396250d4f93d6d6a",HLN | HD
-http://116.255.19.70:9981/stream/channelid/1751536811?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/HORRORCHANNEL-1.png" tvg-id="d0df083437cf375e92144abf364f18bc",HORROR CHANNEL
-http://116.255.19.70:9981/stream/channelid/872996816?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/HORSE-AND-COUNTRY-1.png" tvg-id="5a35c6fdb33aa7621fa6bbced5d6d90a",HORSE AND COUNTRY
-http://116.255.19.70:9981/stream/channelid/2110141786?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/HOUSEFULLACTION.png" tvg-id="dda00fe3efe9904bb8d5561257dc2a55",HOUSEFULL ACTION
-http://116.255.19.70:9981/stream/channelid/1661968605?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/HOUSEFULLMOVIES.png" tvg-id="d9a67b147e3e047531c990df76425c1f",HOUSEFULL MOVIES
-http://116.255.19.70:9981/stream/channelid/343647961?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/INVESTIGATIONDISCOVERY-1.png" tvg-id="7358f1d3f00af85b06ef4306dcb8f70f",INVESTIGATION DISCOVERY (ID)
-http://116.255.19.70:9981/stream/channelid/1408325747?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/INVESTIGATIONDISCOVERYHD-1.png" tvg-id="88d320a0280b0e80022c945f31f85c77",INVESTIGATION DISCOVERY | HD
-http://116.255.19.70:9981/stream/channelid/539022216?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/JUSTICECENTRAL.png" tvg-id="addde31ebfce0ec8a8db7d17adf0a1e0",JUSTICE CENTRAL | HD
-http://116.255.19.70:9981/stream/channelid/518249901?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/BRASIL/LIFETIMEHD-1.png" tvg-id="0935a1d096c6c69a33a3c46acac055b3",LIFETIME HD
-http://116.255.19.70:9981/stream/channelid/1352742153?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/LIFETIME-1.png" tvg-id="12c11ab5d7d29775f34b3812d076e08a",LIFETIME | HD ◉
-http://116.255.19.70:9981/stream/channelid/890945810?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/LIVINGFOODZHD.png" tvg-id="edc102f9ec5d12c2e386e0fbd133fb02",LIVING FOODZ HD
-http://116.255.19.70:9981/stream/channelid/2030223853?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/LOGO-1.png" tvg-id="650577ef43fc867cfe6a5c9278a7eade",LOGO
-http://116.255.19.70:9981/stream/channelid/1870071141?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/MNPLUSHD.png" tvg-id="ab05c2110776b2ab55a9b06d3463acaf",MN PLUS HD
-http://116.255.19.70:9981/stream/channelid/297928107?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/MNXHD.png" tvg-id="853d8d8c52530ecf744aa118afd61ceb",MNX HD
-http://116.255.19.70:9981/stream/channelid/210582917?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/MOVIESNOWHD.png" tvg-id="f50517a0f6c787f3effa9484ea52f9aa",MOVIES NOW HD
-http://116.255.19.70:9981/stream/channelid/538379765?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/MSNBC.png" tvg-id="c5adda77d542af5de16d88fbcf41eae5",MSNBC | HD
-http://116.255.19.70:9981/stream/channelid/2010820037?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/Mtv.png" tvg-id="e37569927740b8f6499f3e2e45e7f565",MTV BEATS HD
-http://116.255.19.70:9981/stream/channelid/308901347?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/Mtv.png" tvg-id="68ef9d2089e7fdd2133645189281736f",MTV PLUS HD
-http://116.255.19.70:9981/stream/channelid/547221352?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/music-india-.png" tvg-id="0da741361abac7b584407e6862f8fe38",MUSIC INDIA
-http://116.255.19.70:9981/stream/channelid/910272269?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/ITALY/NATGEOGRAPHIC-1.png" tvg-id="11aa0d5758a2d01a1a37d5f5dcdcdbf6",NAT GEO HD
-http://116.255.19.70:9981/stream/channelid/1460513297?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AUSTRALIA/national-geographic.png" tvg-id="521f468ffa57078a18ad971305c4af11",NAT GEO USA
-http://116.255.19.70:9981/stream/channelid/256253778?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AUSTRALIA/Nat_Geo_Wild.png" tvg-id="7d2308d90a89180f3e16fb3998e8299c",NAT GEO WILD
-http://116.255.19.70:9981/stream/channelid/1493705597?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AUSTRALIA/Nat_Geo_Wild.png" tvg-id="8a758ca617d8807a8b2e10010723b76c",NAT GEO WILD EAST | HD
-http://116.255.19.70:9981/stream/channelid/646739338?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/ITALY/NATGEOWILD-1.png" tvg-id="34245af7e8705dde10ec2292be8f013d",NAT GEO WILD FHD
-http://116.255.19.70:9981/stream/channelid/2002396212?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/NATGEOWILDHDD.png" tvg-id="cc582f6fbf5fae71e98ebe5614cacbba",NAT GEO WILD HD
-http://116.255.19.70:9981/stream/channelid/1865373900?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AUSTRALIA/Nat_Geo_Wild.png" tvg-id="b259e594442b583d449b14c1985cfcec",NAT GEO WILD HD US
-http://116.255.19.70:9981/stream/channelid/350575026?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AUSTRALIA/national-geographic.png" tvg-id="a6e1d843a2d730afecd9c27e5aab0328",NATIONAL GEOGRAPHIC EAST | HD
-http://116.255.19.70:9981/stream/channelid/1138287014?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/NATIONIALGEOGRAPHICCHANNELHD.png" tvg-id="937cdb26ae084ce5927086c2bd3c3c7a",NATIONAL GEOGRAPHIC HD
-http://116.255.19.70:9981/stream/channelid/651918483?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/NBATV.png" tvg-id="07d842c99d0ac72a54c20770642f90d8",NBA TV | UHD
-http://116.255.19.70:9981/stream/channelid/1229117447?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/NBC.png" tvg-id="615f786ef6040d94892c94ca070ec592",NBC | HD ◉
-http://116.255.19.70:9981/stream/channelid/1853382497?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/NDTV.png" tvg-id="cc95d7e1f86ab5e5dc7761a989b3788e",NDTV
-http://116.255.19.70:9981/stream/channelid/1641518540?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/NESN_NATIONAL.png" tvg-id="f4c4e25d6714f1cd183d2ccdbd724e20",NESN | HD
-http://116.255.19.70:9981/stream/channelid/1575142644?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/News_18_India.png" tvg-id="837a63b107f2bc56b1cf100dcbb8d7ad",NEWS 18 INDIA
-http://116.255.19.70:9981/stream/channelid/828603011?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/news-nation.png" tvg-id="a5a12917061ef0c0439c05f448155ce5",NEWS NATION
-http://116.255.19.70:9981/stream/channelid/388604325?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/NEWSY.png" tvg-id="b1222100be923f63c7ae4a5edd5be03b",NEWSY | HD
-http://116.255.19.70:9981/stream/channelid/2171569?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/NFLNETWORK.png" tvg-id="d442960c7d27496344d601e20b7fcea0",NFL NETWORK | UHD
-http://116.255.19.70:9981/stream/channelid/211174100?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/NHLNETWORK.png" tvg-id="3bad8ef453cade585a29fdf5ded11a29",NHL NETWORK | HD
-http://116.255.19.70:9981/stream/channelid/1955507515?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/NICKJR.png" tvg-id="be33af0809f06eabbf43bd418f3de1fb",NICK JR | UHD
-http://116.255.19.70:9981/stream/channelid/145699774?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/NICKMUSIC-1.png" tvg-id="c7d613f8d516576c6249f5030cca1135",NICK MUSIC | HD
-http://116.255.19.70:9981/stream/channelid/2014566087?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/NICKTOONS.png" tvg-id="b6324fd2a7a1b181f0cf8ab5870d5320",NICK TOONS | UHD
-http://116.255.19.70:9981/stream/channelid/1380922038?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/NICK.png" tvg-id="b71be6106a33567860500743c21eaddb",NICK | HD
-http://116.255.19.70:9981/stream/channelid/283515831?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/NICKELODEON.png" tvg-id="cd177439520b5823efba065aa321fa5c",NICKELODEON | HD
-http://116.255.19.70:9981/stream/channelid/963909581?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/ONE-AMERICA-NEWS-NETWORK.png" tvg-id="12905773260bdf9e4cb305d016894759",ONE AMERICA NEWS NETWORK | HD
-http://116.255.19.70:9981/stream/channelid/1935118354?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/OWNHD-1.png" tvg-id="d0d8a2dda25d6defc7708cee318a9785",OWN | UHD
-http://116.255.19.70:9981/stream/channelid/1570953424?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/PBSKIDSEAS.png" tvg-id="af637d3f200c4fcff2ae6f50f679c8ef",PBS KIDS | HD
-http://116.255.19.70:9981/stream/channelid/1065182127?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/POP-1.png" tvg-id="4364dcc709837ec41c6fc14e691ece24",POP | HD
-http://116.255.19.70:9981/stream/channelid/1205625923?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/PURSUITCHANNEL.png" tvg-id="ce19d3982bb0a2220165816d77ef93a1",PURSUIT CHANNEL | UHD
-http://116.255.19.70:9981/stream/channelid/416487886?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/QUEST.png" tvg-id="2a06ce8adf789d5337fa6d4caa125a96",QUEST
-http://116.255.19.70:9981/stream/channelid/181274154?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/QUEST.png" tvg-id="46ee93b00cfac4d6394d40c4bd48d1d7",QUEST RED
-http://116.255.19.70:9981/stream/channelid/815001158?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/REALLY.png" tvg-id="9976ff6434d8baf635938e1850f9ec6e",REALLY
-http://116.255.19.70:9981/stream/channelid/1694463641?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/RFD-TV.png" tvg-id="8024cc5472ffe567672752af2bf9d02e",RFD TV | UHD
-http://116.255.19.70:9981/stream/channelid/1422664832?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" tvg-id="07967ab83a87b359f129122d0df6f91d",SKY CINEMA DRAMA & ROMANCE FHD
-http://116.255.19.70:9981/stream/channelid/947557895?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" tvg-id="bbd81160e8ab0135cf818e47e83ae5b2",SKY SPORTS ARENA FHD
-http://116.255.19.70:9981/stream/channelid/1611782331?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" tvg-id="976fa4ff33854a4cb2008987614f14eb",SKY SPORTS F1 FHD
-http://116.255.19.70:9981/stream/channelid/2141482903?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" tvg-id="853de86729aca40ffa5933da6c4028b1",SKY SPORTS MAIN EVENT FHD
-http://116.255.19.70:9981/stream/channelid/1743273349?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/SKY.png" tvg-id="cb0121047439372e711bb2eb46a340f2",SKY SPORTS MIX FHD
-http://116.255.19.70:9981/stream/channelid/69272011?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/SMITHSONIANCHANNEL-1.png" tvg-id="7b848a219480c6cb8a810734cfda6160",SMITHSONIAN CHANNEL
-http://116.255.19.70:9981/stream/channelid/562726011?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/smithsonian-.png" tvg-id="b31f0acfed8909a2691eddffc80a181e",SMITHSONIAN EAST | HD
-http://116.255.19.70:9981/stream/channelid/1326063539?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/SONYASIA.png" tvg-id="c9130c776babdd2dccefe384a7965b0b",SONY ASIA
-http://116.255.19.70:9981/stream/channelid/1997280201?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/SONYASIA.png" tvg-id="f827971ddabee1fd16592074da5b801f",SONY ASIA HD
-http://116.255.19.70:9981/stream/channelid/496445432?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/SONYBBCEARTHENGLISHHD.png" tvg-id="f3f6a4c245a52f952a201d39614370ba",SONY BBC EARTH ENGLISH HD
-http://116.255.19.70:9981/stream/channelid/1118107379?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/EUROPE/UK/SONYMOVIES.png" tvg-id="e5f57c652b84e582e06fd16eb27ff251",SONY CHANNEL
-http://116.255.19.70:9981/stream/channelid/1702688229?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/sony-hd.png" tvg-id="2487c56da8a13edc063412f9ba964a6f",SONY HD ◉
-http://116.255.19.70:9981/stream/channelid/1841661732?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/SONYMAX.png" tvg-id="57500b8c775e19672222e19f2812bf32",SONY MAX
-http://116.255.19.70:9981/stream/channelid/202068055?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/Sony_Max_2.png" tvg-id="cdf28f077e3d350e0be9c90693bb5577",SONY MAX 2
-http://116.255.19.70:9981/stream/channelid/126874317?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/sony-pix.png" tvg-id="fa68acf6ff141a0743a1a56a44f317b7",SONY MAX HD
-http://116.255.19.70:9981/stream/channelid/1991010554?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/SONYMAX.png" tvg-id="b085144306ad80316d30934bff8b2d34",SONY MAX HD (UK)
-http://116.255.19.70:9981/stream/channelid/1125418416?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/SONYHD.png" tvg-id="ebabae9a00e15254a601824ad317bb45",SONY PIX HD
-http://116.255.19.70:9981/stream/channelid/447654891?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/Sony_SAB.png" tvg-id="ba13d68a4ef9ed6a44892bc3f96940ba",SONY SAB
-http://116.255.19.70:9981/stream/channelid/181801914?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/sony-sab.png" tvg-id="0f6debe042e293b630a9926131363f7e",SONY SAB HD ◉
-http://116.255.19.70:9981/stream/channelid/1626041615?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/STARGOLDHD.png" tvg-id="5f251b5f25dd8f11c0f2a105362942fe",STAR GOLD HD
-http://116.255.19.70:9981/stream/channelid/1595614559?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/star-gold-select-.png" tvg-id="a131ea26060653ba947ca13ed7dac040",STAR GOLD SELECT HD
-http://116.255.19.70:9981/stream/channelid/652882337?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/STAR_Movies.png" tvg-id="12ac71eab49c57611adc0efc48bd6e8c",STAR MOVIES HD
-http://116.255.19.70:9981/stream/channelid/1785834514?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/StarMoviesSelectHD.png" tvg-id="a97a56082cf1369a5638baa475cfbf8d",STAR MOVIES SELECT HD
-http://116.255.19.70:9981/stream/channelid/139885225?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/STARPLUSHD.png" tvg-id="43b9ce340c75b17d3dcffe3ee66b000e",STAR PLUS HD (UK)
-http://116.255.19.70:9981/stream/channelid/885963075?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/STARPLUSHD.png" tvg-id="22076fe68d110ad78e09f4e778b9cba2",STAR PLUS HD ◉
-http://116.255.19.70:9981/stream/channelid/1718552354?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/starworldhdd.png" tvg-id="244aab0fa65c7449c2814e83f6a4b49c",STAR WORLD HD
-http://116.255.19.70:9981/stream/channelid/262883876?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/SWP_HD.png" tvg-id="89960f01d368a31f226a2fe4de54d056",STAR WORLD PREMIER HD
-http://116.255.19.70:9981/stream/channelid/17798793?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/TEENNICK.png" tvg-id="9c1636cae8dc5fb64e2abfefb74d85fb",TEEN NICK | SD
-http://116.255.19.70:9981/stream/channelid/1245058716?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/the-blaze-.png" tvg-id="ba10d93911d1874413e5f2c51f1b0d4f",THE BLAZE | HD
-http://116.255.19.70:9981/stream/channelid/970526906?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/THEQYOU.png" tvg-id="f66f61c062646d530a861a339827344c",THE QYOU
-http://116.255.19.70:9981/stream/channelid/1080127478?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/TIMESNOWNEWSHD.png" tvg-id="7ac3f6021a8139af4d3f278263455371",TIMES NOW NEWS HD
-http://116.255.19.70:9981/stream/channelid/49726330?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/UK/TLC.png" tvg-id="5a37825479cc97726592ccca236cdefa",TLC HD
-http://116.255.19.70:9981/stream/channelid/1417819994?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/TLCHD.png" tvg-id="fbd2fcc63b19f781650cf5fe02d58613",TLC WEST | HD
-http://116.255.19.70:9981/stream/channelid/1190974203?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/TLCWORLDHD.png" tvg-id="16d4b843b5ef5f3107936383008f7b19",TLC WORLD HD
-http://116.255.19.70:9981/stream/channelid/1136186390?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/TLCHD.png" tvg-id="dea7330e7161b854fa49d833219650f5",TLC | HD
-http://116.255.19.70:9981/stream/channelid/238266334?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/TLCFHD.png" tvg-id="7749ed9723aed72d0c00bbe00c55f4b8",TLC | UHD ◉
-http://116.255.19.70:9981/stream/channelid/401426807?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/TNTHD.png" tvg-id="bebd17c3571b7e00cf04d76a770598d9",TNT (East) | HD
-http://116.255.19.70:9981/stream/channelid/1125629374?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/TNTHD.png" tvg-id="d50a7393cf75f85139e8e7a24db30805",TNT (West) | HD
-http://116.255.19.70:9981/stream/channelid/326306517?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/THETRAVELCHANNEL.png" tvg-id="e19cc0f28ba22eb2034072eb71ab29b6",TRAVEL CHANNEL
-http://116.255.19.70:9981/stream/channelid/1925225697?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/THETRAVELCHANNEL.png" tvg-id="66b9230b55af0b67a1c07322de33697a",TRAVEL CHANNEL | HD
-http://116.255.19.70:9981/stream/channelid/186890598?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/TRAVELXPHD.png" tvg-id="f92afcbc9cf8b388f3b929b79a4f0ca3",TRAVEL XP HD
-http://116.255.19.70:9981/stream/channelid/1023159033?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/TRUTV.png" tvg-id="9c07037e9c3553641203f9b909b6444a",TRU TV EAST | UHD
-http://116.255.19.70:9981/stream/channelid/2114127772?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/TRUTV.png" tvg-id="c064234247ef7597855ffb3df1d08908",TRU TV WEST | HD
-http://116.255.19.70:9981/stream/channelid/1109615808?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/TVONE.png" tvg-id="82ef9258ae3e991556853680e79fca18",TV ONE | HD
-http://116.255.19.70:9981/stream/channelid/1486024578?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/universalkids.png" tvg-id="fe009de1bcd9f2d948945fd658b42531",UNIVERSAL KIDS WEST | HD
-http://116.255.19.70:9981/stream/channelid/1637679358?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/universalkids.png" tvg-id="01cf5da29450f51f749410d19bb32d65",UNIVERSAL KIDS | HD
-http://116.255.19.70:9981/stream/channelid/576573185?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/USANETWORK.png" tvg-id="31f7932f1d3ba83847af46af570c7f64",USA NETWORK WEST | HD
-http://116.255.19.70:9981/stream/channelid/798226225?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/USANETWORK.png" tvg-id="f0f24ef8fa0ae50ddac6170629d7ab42",USA NETWORK | HD
-http://116.255.19.70:9981/stream/channelid/2018439920?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/Utsav-Gold.png" tvg-id="057c6881f937b34d02cd53379a9266ec",USTAV GOLD
-http://116.255.19.70:9981/stream/channelid/23624709?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/Utsav-Gold.png" tvg-id="bf482e6bc586c78109fd3ab0385a4923",USTAV GOLD HD
-http://116.255.19.70:9981/stream/channelid/1798195391?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/Utsav-Plus.png" tvg-id="b431e38d62c042200511101822669ca3",UTSAV PLUS
-http://116.255.19.70:9981/stream/channelid/232993204?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/Utsav-Plus.png" tvg-id="9cd40e4e8b9f45ebd42ca9cdbf6cccd8",UTSAV PLUS HD
-http://116.255.19.70:9981/stream/channelid/1309594780?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/UTVACTION.png" tvg-id="baa9b2cf26d88708b2f20c66e26ea8b6",UTV ACTION
-http://116.255.19.70:9981/stream/channelid/1337108922?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/utv.png" tvg-id="55e88f0ae5f882a748ec4929cc2f3f1d",UTV HD
-http://116.255.19.70:9981/stream/channelid/177203285?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/VELOCITY-1.png" tvg-id="2a7ac0baf0702ff7612d06909174afed",VELOCITY | HD
-http://116.255.19.70:9981/stream/channelid/985692714?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/VENUS.png" tvg-id="b40da10ffdb3822d57d9f2eee1b23fb9",VENUS
-http://116.255.19.70:9981/stream/channelid/262213044?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/VH1HD.png" tvg-id="f0cf85506b7a894730f235978bef678f",VH1 HD
-http://116.255.19.70:9981/stream/channelid/1350946800?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/Vice.png" tvg-id="35a39730a48f8459c400bfdb88023cb4",VICELAND | UHD
-http://116.255.19.70:9981/stream/channelid/815244085?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/WOWCINEMA.png" tvg-id="bad9b8ac72ebef9cb44ffffb0034310c",WOW CINEMA
-http://116.255.19.70:9981/stream/channelid/750311866?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/AMERICA/USA/WWE.png" tvg-id="5dc4a1421352b6a85fc00750a790ee82",WWE NETWORK | HD
-http://116.255.19.70:9981/stream/channelid/1117897821?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/ZEEANMOLCINEMA.png" tvg-id="81a47ad6b36fceb0c409b906744f4c07",ZEE ANMOL CINEMA
-http://116.255.19.70:9981/stream/channelid/1450878081?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/ZEECAFEHD.png" tvg-id="e75ee75c92d23deffed0dc9476568405",ZEE CAFE HD
-http://116.255.19.70:9981/stream/channelid/1558666983?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/Zee_Cinema.png" tvg-id="178241f4e8ac88f2e516727851318fa7",ZEE CINEMA
-http://116.255.19.70:9981/stream/channelid/1950450199?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/ZEECINEMA-HD.png" tvg-id="a63dc1b19b9f79b40a9f3a38b066fd4e",ZEE CINEMA HD
-http://116.255.19.70:9981/stream/channelid/834747814?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/ZEENEWSBIHAR.png" tvg-id="7c4c41c5d8b9413df724419dd7db71d6",ZEE NEWS
-http://116.255.19.70:9981/stream/channelid/1161907324?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/ZEETV.png" tvg-id="1b74bb76b716b4ed6a6ae3856aa5a594",ZEE TV
-http://116.255.19.70:9981/stream/channelid/1991996443?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/ZEETVHD.png" tvg-id="23df40b0e57505b045e373a5eb0fe154",ZEE TV HD
-http://116.255.19.70:9981/stream/channelid/809557795?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIA/Zee_TV.png" tvg-id="d21d13fc4d9be6a3e513e15074140b07",ZEE TV HD ◉
-http://116.255.19.70:9981/stream/channelid/2081627602?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/ZING.png" tvg-id="b47ebe07e2be8d4babbf56dc890d0b31",ZING
-http://116.255.19.70:9981/stream/channelid/129924788?profile=pass
-#EXTINF:-1 logo="http://logo.panel.cx/logo/ASIA/INDIAN/ZOOMTVHD.png" tvg-id="8fd8c03d71e1b66c0cf0b8d5ebe922bc" group-title="116.255/IN",ZOOM TV HD
-http://116.255.19.70:9981/stream/channelid/1036048527?profile=pass
+#EXTINF:-1 group-title="116.255/IN",A&E HD
+http://116.255.19.70:9981/stream/channelid/897292951
+#EXTINF:-1,A&E | UHD ◉
+http://116.255.19.70:9981/stream/channelid/1049231479
+#EXTINF:-1,ABC | HD ◉
+http://116.255.19.70:9981/stream/channelid/1834595027
+#EXTINF:-1,ABP NEWS
+http://116.255.19.70:9981/stream/channelid/565665222
+#EXTINF:-1,ALIBI
+http://116.255.19.70:9981/stream/channelid/693055840
+#EXTINF:-1,ALIBI HD
+http://116.255.19.70:9981/stream/channelid/1799965162
+#EXTINF:-1,AMC PRESENTS
+http://116.255.19.70:9981/stream/channelid/2014555121
+#EXTINF:-1,AMC | HD
+http://116.255.19.70:9981/stream/channelid/780440083
+#EXTINF:-1,AMC+
+http://116.255.19.70:9981/stream/channelid/798424968
+#EXTINF:-1,AMERICAN HEROES CHANNEL | UHD
+http://116.255.19.70:9981/stream/channelid/1445558208
+#EXTINF:-1,AND PRIVE HD
+http://116.255.19.70:9981/stream/channelid/401687299
+#EXTINF:-1,ANIMAL PLANET WORLD HD
+http://116.255.19.70:9981/stream/channelid/1914208299
+#EXTINF:-1,ANIMAL PLANET | HD
+http://116.255.19.70:9981/stream/channelid/1112094828
+#EXTINF:-1,AT&T SPORTSNET SOUTHWEST | HD
+http://116.255.19.70:9981/stream/channelid/1051810883
+#EXTINF:-1,AWE | UHD
+http://116.255.19.70:9981/stream/channelid/1740011971
+#EXTINF:-1,B-FLIX MOVIES
+http://116.255.19.70:9981/stream/channelid/2025506144
+#EXTINF:-1,B4U MOVIES
+http://116.255.19.70:9981/stream/channelid/498588440
+#EXTINF:-1,B4U MUSIC
+http://116.255.19.70:9981/stream/channelid/1877557293
+#EXTINF:-1,BABY FIRST TV | HD
+http://116.255.19.70:9981/stream/channelid/2074652667
+#EXTINF:-1,BABY TV | SD
+http://116.255.19.70:9981/stream/channelid/1318408633
+#EXTINF:-1,BBC AMERICA | HD
+http://116.255.19.70:9981/stream/channelid/1968027606
+#EXTINF:-1,BBC NEWS HD ◉
+http://116.255.19.70:9981/stream/channelid/1066862483
+#EXTINF:-1,BBC WORLD NEWS
+http://116.255.19.70:9981/stream/channelid/86137363
+#EXTINF:-1,BBC WORLD NEWS | UHD
+http://116.255.19.70:9981/stream/channelid/1542950214
+#EXTINF:-1,BBC2 ◉
+http://116.255.19.70:9981/stream/channelid/1046317774
+#EXTINF:-1,BBC3 ◉
+http://116.255.19.70:9981/stream/channelid/1005819470
+#EXTINF:-1,BBC4 ◉
+http://116.255.19.70:9981/stream/channelid/439668845
+#EXTINF:-1,BeIN SPORTS | HD
+http://116.255.19.70:9981/stream/channelid/307405528
+#EXTINF:-1,BINDAS
+http://116.255.19.70:9981/stream/channelid/682877715
+#EXTINF:-1,BLOOMBERG TV EUROPE | HD
+http://116.255.19.70:9981/stream/channelid/1162806721
+#EXTINF:-1,BLOOMBERG | HD
+http://116.255.19.70:9981/stream/channelid/255492231
+#EXTINF:-1,BOOMERANG | HD
+http://116.255.19.70:9981/stream/channelid/1093490667
+#EXTINF:-1,BRAVO WEST | HD
+http://116.255.19.70:9981/stream/channelid/1518892764
+#EXTINF:-1,BRAVO | UHD ◉
+http://116.255.19.70:9981/stream/channelid/1558821694
+#EXTINF:-1,C-SPAN 2 | HD
+http://116.255.19.70:9981/stream/channelid/902600427
+#EXTINF:-1,C-SPAN | HD
+http://116.255.19.70:9981/stream/channelid/804483306
+#EXTINF:-1,CA - ABC SPARK HD
+http://116.255.19.70:9981/stream/channelid/300010600
+#EXTINF:-1,CA - ACTION HD
+http://116.255.19.70:9981/stream/channelid/1231553823
+#EXTINF:-1,CA - AMC HD
+http://116.255.19.70:9981/stream/channelid/492024929
+#EXTINF:-1,CA - ANIMAL PLANET HD
+http://116.255.19.70:9981/stream/channelid/332820047
+#EXTINF:-1,CA - BBC WORLD NEWS HD
+http://116.255.19.70:9981/stream/channelid/576882870
+#EXTINF:-1,CA - Bravo HD
+http://116.255.19.70:9981/stream/channelid/107101287
+#EXTINF:-1,CA - CRIME INVESTIGATION HD
+http://116.255.19.70:9981/stream/channelid/944741532
+#EXTINF:-1,CA - DISCOVERY ID HD
+http://116.255.19.70:9981/stream/channelid/1491182052
+#EXTINF:-1,CA - DISCOVERY SCIENCE CANADA HD
+http://116.255.19.70:9981/stream/channelid/1541497448
+#EXTINF:-1,CA - DOCUMENTARY HD
+http://116.255.19.70:9981/stream/channelid/1203485713
+#EXTINF:-1,CA - FOOD NETWORK HD
+http://116.255.19.70:9981/stream/channelid/1398221781
+#EXTINF:-1,CA - Game TV HD
+http://116.255.19.70:9981/stream/channelid/736759859
+#EXTINF:-1,CA - GUSTO
+http://116.255.19.70:9981/stream/channelid/240395222
+#EXTINF:-1,CA - HGTV HD
+http://116.255.19.70:9981/stream/channelid/777542369
+#EXTINF:-1,CA - HISTORY HD
+http://116.255.19.70:9981/stream/channelid/1682998910
+#EXTINF:-1,CA - HLN UHD
+http://116.255.19.70:9981/stream/channelid/1507133040
+#EXTINF:-1,CA - ID CANADA HD
+http://116.255.19.70:9981/stream/channelid/1914976848
+#EXTINF:-1,CA - MAKEFUL HD
+http://116.255.19.70:9981/stream/channelid/534196529
+#EXTINF:-1,CA - NAT GEO HD
+http://116.255.19.70:9981/stream/channelid/590102788
+#EXTINF:-1,CA - TLC CANADA HD
+http://116.255.19.70:9981/stream/channelid/582118866
+#EXTINF:-1,CA - TRAVEL + ESCAPE HD
+http://116.255.19.70:9981/stream/channelid/1153443077
+#EXTINF:-1,CA - VIP FOOD NETWORK HD
+http://116.255.19.70:9981/stream/channelid/1386702522
+#EXTINF:-1,CA - VIP HLN HD
+http://116.255.19.70:9981/stream/channelid/1656311942
+#EXTINF:-1,CA - VIP LIFETIME HD
+http://116.255.19.70:9981/stream/channelid/131107394
+#EXTINF:-1,CA - VIP TLC HD
+http://116.255.19.70:9981/stream/channelid/1744795094
+#EXTINF:-1,CARTOON NETWORK
+http://116.255.19.70:9981/stream/channelid/1020274494
+#EXTINF:-1,CARTOON NETWORK EAST | HD
+http://116.255.19.70:9981/stream/channelid/499504100
+#EXTINF:-1,CARTOON NETWORK EAST | UHD
+http://116.255.19.70:9981/stream/channelid/1675860648
+#EXTINF:-1,CARTOON NETWORK WEST | HD
+http://116.255.19.70:9981/stream/channelid/571199370
+#EXTINF:-1,CBS ACTION
+http://116.255.19.70:9981/stream/channelid/1351128375
+#EXTINF:-1,CBS DRAMA
+http://116.255.19.70:9981/stream/channelid/1361672890
+#EXTINF:-1,CBS REALITY
+http://116.255.19.70:9981/stream/channelid/1762041468
+#EXTINF:-1,CBS REALITY 1
+http://116.255.19.70:9981/stream/channelid/1486917798
+#EXTINF:-1,CBS SPORTS NETWORK | HD
+http://116.255.19.70:9981/stream/channelid/200055899
+#EXTINF:-1,CBS | HD ◉
+http://116.255.19.70:9981/stream/channelid/1115420812
+#EXTINF:-1,CHEDDAR BUSINESS | HD
+http://116.255.19.70:9981/stream/channelid/422566504
+#EXTINF:-1,CHEDDAR NEWS | HD
+http://116.255.19.70:9981/stream/channelid/259551554
+#EXTINF:-1,CNBC
+http://116.255.19.70:9981/stream/channelid/1367661057
+#EXTINF:-1,CNBC TV18 PRIME NEWS HD
+http://116.255.19.70:9981/stream/channelid/22787913
+#EXTINF:-1,CNBC WORLD | HD
+http://116.255.19.70:9981/stream/channelid/2122205336
+#EXTINF:-1,CNBC | HD ◉
+http://116.255.19.70:9981/stream/channelid/94457006
+#EXTINF:-1,CNN HD
+http://116.255.19.70:9981/stream/channelid/362991228
+#EXTINF:-1,CNN INTERNATIONAL | HD
+http://116.255.19.70:9981/stream/channelid/1590920639
+#EXTINF:-1,CNN | HD ◉
+http://116.255.19.70:9981/stream/channelid/1520088425
+#EXTINF:-1,CNN | UHD ◉
+http://116.255.19.70:9981/stream/channelid/539528648
+#EXTINF:-1,CNN | UHD+ ◉
+http://116.255.19.70:9981/stream/channelid/1606230330
+#EXTINF:-1,COLORS
+http://116.255.19.70:9981/stream/channelid/1748829061
+#EXTINF:-1,COLORS CINEPLEX
+http://116.255.19.70:9981/stream/channelid/212227618
+#EXTINF:-1,COLORS HD ◉
+http://116.255.19.70:9981/stream/channelid/1499275241
+#EXTINF:-1,COLORS INFINITY HD
+http://116.255.19.70:9981/stream/channelid/1213798422
+#EXTINF:-1,COLORS RISHTEY TV
+http://116.255.19.70:9981/stream/channelid/1394641430
+#EXTINF:-1,COMEDY CENTRAL HD
+http://116.255.19.70:9981/stream/channelid/526993333
+#EXTINF:-1,COOKING CHANNEL | HD
+http://116.255.19.70:9981/stream/channelid/431625526
+#EXTINF:-1,CRIME & INVESTIGATION | HD
+http://116.255.19.70:9981/stream/channelid/996951768
+#EXTINF:-1,CRIME&INVESTIGATION
+http://116.255.19.70:9981/stream/channelid/777268458
+#EXTINF:-1,DD NEWS
+http://116.255.19.70:9981/stream/channelid/316403747
+#EXTINF:-1,DESTINATION AMERICA UHD
+http://116.255.19.70:9981/stream/channelid/1147025029
+#EXTINF:-1,DISCOVERY CANADA
+http://116.255.19.70:9981/stream/channelid/1460538696
+#EXTINF:-1,DISCOVERY CHANNEL | HD
+http://116.255.19.70:9981/stream/channelid/1491206646
+#EXTINF:-1,DISCOVERY FAMILY | HD
+http://116.255.19.70:9981/stream/channelid/1791599521
+#EXTINF:-1,DISCOVERY HD
+http://116.255.19.70:9981/stream/channelid/187593480
+#EXTINF:-1,DISCOVERY HISTORY
+http://116.255.19.70:9981/stream/channelid/173449464
+#EXTINF:-1,DISCOVERY LIFE | HD
+http://116.255.19.70:9981/stream/channelid/417083639
+#EXTINF:-1,DISCOVERY SCIENCE
+http://116.255.19.70:9981/stream/channelid/1952559390
+#EXTINF:-1,DISCOVERY SCIENCE | HD
+http://116.255.19.70:9981/stream/channelid/885369588
+#EXTINF:-1,DISCOVERY TURBO
+http://116.255.19.70:9981/stream/channelid/132977808
+#EXTINF:-1,DISCOVERY VELOCITY | HD
+http://116.255.19.70:9981/stream/channelid/1077906928
+#EXTINF:-1,DISNEY CHANNEL EAST | HD
+http://116.255.19.70:9981/stream/channelid/782645059
+#EXTINF:-1,DISNEY CHANNEL WEST | HD
+http://116.255.19.70:9981/stream/channelid/508752448
+#EXTINF:-1,DISNEY JR WEST | HD
+http://116.255.19.70:9981/stream/channelid/507504133
+#EXTINF:-1,DISNEY JR | HD
+http://116.255.19.70:9981/stream/channelid/761502773
+#EXTINF:-1,DISNEY XD EAST | HD
+http://116.255.19.70:9981/stream/channelid/2043424920
+#EXTINF:-1,DISNEY XD WEST | HD
+http://116.255.19.70:9981/stream/channelid/176783084
+#EXTINF:-1,DIY NETWORK | HD
+http://116.255.19.70:9981/stream/channelid/1349826632
+#EXTINF:-1,DRAMA
+http://116.255.19.70:9981/stream/channelid/635829594
+#EXTINF:-1,E! CANADA
+http://116.255.19.70:9981/stream/channelid/419504527
+#EXTINF:-1,E! ENTERTAINMENT
+http://116.255.19.70:9981/stream/channelid/1751255681
+#EXTINF:-1,E! WEST | HD
+http://116.255.19.70:9981/stream/channelid/1300267242
+#EXTINF:-1,E! | UHD ◉
+http://116.255.19.70:9981/stream/channelid/1094036429
+#EXTINF:-1,ESPN 1 | UHD (AU)
+http://116.255.19.70:9981/stream/channelid/1943252097
+#EXTINF:-1,ESPN 2 | HD
+http://116.255.19.70:9981/stream/channelid/1506802071
+#EXTINF:-1,ESPN 2 | UHD (AU)
+http://116.255.19.70:9981/stream/channelid/784340447
+#EXTINF:-1,ESPN U | HD
+http://116.255.19.70:9981/stream/channelid/2065835142
+#EXTINF:-1,ESPN | HD
+http://116.255.19.70:9981/stream/channelid/1398199228
+#EXTINF:-1,ESPN | HD (AU)
+http://116.255.19.70:9981/stream/channelid/2076750768
+#EXTINF:-1,ET NOW HD
+http://116.255.19.70:9981/stream/channelid/1089659392
+#EXTINF:-1,FOOD FOOD HD
+http://116.255.19.70:9981/stream/channelid/1001623216
+#EXTINF:-1,FOOD NETWORK
+http://116.255.19.70:9981/stream/channelid/1930626515
+#EXTINF:-1,FOOD NETWORK | HD
+http://116.255.19.70:9981/stream/channelid/1259879597
+#EXTINF:-1,FOX BUSINESS NETWORK | HD
+http://116.255.19.70:9981/stream/channelid/844968518
+#EXTINF:-1,FOX LIFE HD
+http://116.255.19.70:9981/stream/channelid/954140865
+#EXTINF:-1,FOX LIFE | HD
+http://116.255.19.70:9981/stream/channelid/272741619
+#EXTINF:-1,FOX NEWS CHANNEL | HD
+http://116.255.19.70:9981/stream/channelid/1443644998
+#EXTINF:-1,FOX SPORTS 1 | UHD
+http://116.255.19.70:9981/stream/channelid/2089604660
+#EXTINF:-1,FOX SPORTS 2 | UHD
+http://116.255.19.70:9981/stream/channelid/339967020
+#EXTINF:-1,FOX SPORTS 503 | UHD (AU)
+http://116.255.19.70:9981/stream/channelid/268353445
+#EXTINF:-1,FOX SPORTS 505 | UHD (AU)
+http://116.255.19.70:9981/stream/channelid/298373545
+#EXTINF:-1,FOX SPORTS 506 | UHD (AU)
+http://116.255.19.70:9981/stream/channelid/1554667698
+#EXTINF:-1,FOX | HD ◉
+http://116.255.19.70:9981/stream/channelid/598542243
+#EXTINF:-1,FREE SPEECH TV | HD
+http://116.255.19.70:9981/stream/channelid/721103249
+#EXTINF:-1,GAME SHOW NETWORK | HD
+http://116.255.19.70:9981/stream/channelid/235138739
+#EXTINF:-1,GREAT AMERICAN COUNTRY | HD
+http://116.255.19.70:9981/stream/channelid/2036412093
+#EXTINF:-1,HBO INDIA HD
+http://116.255.19.70:9981/stream/channelid/966391717
+#EXTINF:-1,HISTORY 2 HD
+http://116.255.19.70:9981/stream/channelid/890275670
+#EXTINF:-1,HISTORY CHANNEL | HD
+http://116.255.19.70:9981/stream/channelid/1309412434
+#EXTINF:-1,HISTORY CHANNEL | UHD
+http://116.255.19.70:9981/stream/channelid/387718193
+#EXTINF:-1,HISTORY HD
+http://116.255.19.70:9981/stream/channelid/603881604
+#EXTINF:-1,HISTORY TV18 HD
+http://116.255.19.70:9981/stream/channelid/108550568
+#EXTINF:-1,HLN | HD
+http://116.255.19.70:9981/stream/channelid/1751536811
+#EXTINF:-1,HORROR CHANNEL
+http://116.255.19.70:9981/stream/channelid/872996816
+#EXTINF:-1,HORSE AND COUNTRY
+http://116.255.19.70:9981/stream/channelid/2110141786
+#EXTINF:-1,HOUSEFULL ACTION
+http://116.255.19.70:9981/stream/channelid/1661968605
+#EXTINF:-1,HOUSEFULL MOVIES
+http://116.255.19.70:9981/stream/channelid/343647961
+#EXTINF:-1,INVESTIGATION DISCOVERY (ID)
+http://116.255.19.70:9981/stream/channelid/1408325747
+#EXTINF:-1,INVESTIGATION DISCOVERY | HD
+http://116.255.19.70:9981/stream/channelid/539022216
+#EXTINF:-1,JUSTICE CENTRAL | HD
+http://116.255.19.70:9981/stream/channelid/518249901
+#EXTINF:-1,LIFETIME HD
+http://116.255.19.70:9981/stream/channelid/1352742153
+#EXTINF:-1,LIFETIME | HD ◉
+http://116.255.19.70:9981/stream/channelid/890945810
+#EXTINF:-1,LIVING FOODZ HD
+http://116.255.19.70:9981/stream/channelid/2030223853
+#EXTINF:-1,LOGO
+http://116.255.19.70:9981/stream/channelid/1870071141
+#EXTINF:-1,MN PLUS HD
+http://116.255.19.70:9981/stream/channelid/297928107
+#EXTINF:-1,MNX HD
+http://116.255.19.70:9981/stream/channelid/210582917
+#EXTINF:-1,MOVIES NOW HD
+http://116.255.19.70:9981/stream/channelid/538379765
+#EXTINF:-1,MSNBC | HD
+http://116.255.19.70:9981/stream/channelid/2010820037
+#EXTINF:-1,MTV BEATS HD
+http://116.255.19.70:9981/stream/channelid/308901347
+#EXTINF:-1,MTV PLUS HD
+http://116.255.19.70:9981/stream/channelid/547221352
+#EXTINF:-1,MUSIC INDIA
+http://116.255.19.70:9981/stream/channelid/910272269
+#EXTINF:-1,NAT GEO HD
+http://116.255.19.70:9981/stream/channelid/1460513297
+#EXTINF:-1,NAT GEO USA
+http://116.255.19.70:9981/stream/channelid/256253778
+#EXTINF:-1,NAT GEO WILD
+http://116.255.19.70:9981/stream/channelid/1493705597
+#EXTINF:-1,NAT GEO WILD EAST | HD
+http://116.255.19.70:9981/stream/channelid/646739338
+#EXTINF:-1,NAT GEO WILD FHD
+http://116.255.19.70:9981/stream/channelid/2002396212
+#EXTINF:-1,NAT GEO WILD HD
+http://116.255.19.70:9981/stream/channelid/1865373900
+#EXTINF:-1,NAT GEO WILD HD US
+http://116.255.19.70:9981/stream/channelid/350575026
+#EXTINF:-1,NATIONAL GEOGRAPHIC EAST | HD
+http://116.255.19.70:9981/stream/channelid/1138287014
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://116.255.19.70:9981/stream/channelid/651918483
+#EXTINF:-1,NBA TV | UHD
+http://116.255.19.70:9981/stream/channelid/1229117447
+#EXTINF:-1,NBC | HD ◉
+http://116.255.19.70:9981/stream/channelid/1853382497
+#EXTINF:-1,NDTV
+http://116.255.19.70:9981/stream/channelid/1641518540
+#EXTINF:-1,NESN | HD
+http://116.255.19.70:9981/stream/channelid/1575142644
+#EXTINF:-1,NEWS 18 INDIA
+http://116.255.19.70:9981/stream/channelid/828603011
+#EXTINF:-1,NEWS NATION
+http://116.255.19.70:9981/stream/channelid/388604325
+#EXTINF:-1,NEWSY | HD
+http://116.255.19.70:9981/stream/channelid/2171569
+#EXTINF:-1,NFL NETWORK | UHD
+http://116.255.19.70:9981/stream/channelid/211174100
+#EXTINF:-1,NHL NETWORK | HD
+http://116.255.19.70:9981/stream/channelid/1955507515
+#EXTINF:-1,NICK JR | UHD
+http://116.255.19.70:9981/stream/channelid/145699774
+#EXTINF:-1,NICK MUSIC | HD
+http://116.255.19.70:9981/stream/channelid/2014566087
+#EXTINF:-1,NICK TOONS | UHD
+http://116.255.19.70:9981/stream/channelid/1380922038
+#EXTINF:-1,NICK | HD
+http://116.255.19.70:9981/stream/channelid/283515831
+#EXTINF:-1,NICKELODEON | HD
+http://116.255.19.70:9981/stream/channelid/963909581
+#EXTINF:-1,ONE AMERICA NEWS NETWORK | HD
+http://116.255.19.70:9981/stream/channelid/1935118354
+#EXTINF:-1,OWN | UHD
+http://116.255.19.70:9981/stream/channelid/1570953424
+#EXTINF:-1,PBS KIDS | HD
+http://116.255.19.70:9981/stream/channelid/1065182127
+#EXTINF:-1,POP | HD
+http://116.255.19.70:9981/stream/channelid/1205625923
+#EXTINF:-1,PURSUIT CHANNEL | UHD
+http://116.255.19.70:9981/stream/channelid/416487886
+#EXTINF:-1,QUEST
+http://116.255.19.70:9981/stream/channelid/181274154
+#EXTINF:-1,QUEST RED
+http://116.255.19.70:9981/stream/channelid/815001158
+#EXTINF:-1,REALLY
+http://116.255.19.70:9981/stream/channelid/1694463641
+#EXTINF:-1,RFD TV | UHD
+http://116.255.19.70:9981/stream/channelid/1422664832
+#EXTINF:-1,SKY CINEMA DRAMA & ROMANCE FHD
+http://116.255.19.70:9981/stream/channelid/947557895
+#EXTINF:-1,SKY SPORTS ARENA FHD
+http://116.255.19.70:9981/stream/channelid/1611782331
+#EXTINF:-1,SKY SPORTS F1 FHD
+http://116.255.19.70:9981/stream/channelid/2141482903
+#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
+http://116.255.19.70:9981/stream/channelid/1743273349
+#EXTINF:-1,SKY SPORTS MIX FHD
+http://116.255.19.70:9981/stream/channelid/69272011
+#EXTINF:-1,SMITHSONIAN CHANNEL
+http://116.255.19.70:9981/stream/channelid/562726011
+#EXTINF:-1,SMITHSONIAN EAST | HD
+http://116.255.19.70:9981/stream/channelid/1326063539
+#EXTINF:-1,SONY ASIA
+http://116.255.19.70:9981/stream/channelid/1997280201
+#EXTINF:-1,SONY ASIA HD
+http://116.255.19.70:9981/stream/channelid/496445432
+#EXTINF:-1,SONY BBC EARTH ENGLISH HD
+http://116.255.19.70:9981/stream/channelid/1118107379
+#EXTINF:-1,SONY CHANNEL
+http://116.255.19.70:9981/stream/channelid/1702688229
+#EXTINF:-1,SONY HD ◉
+http://116.255.19.70:9981/stream/channelid/1841661732
+#EXTINF:-1,SONY MAX
+http://116.255.19.70:9981/stream/channelid/202068055
+#EXTINF:-1,SONY MAX 2
+http://116.255.19.70:9981/stream/channelid/126874317
+#EXTINF:-1,SONY MAX HD
+http://116.255.19.70:9981/stream/channelid/1991010554
+#EXTINF:-1,SONY MAX HD (UK)
+http://116.255.19.70:9981/stream/channelid/1125418416
+#EXTINF:-1,SONY PIX HD
+http://116.255.19.70:9981/stream/channelid/447654891
+#EXTINF:-1,SONY SAB
+http://116.255.19.70:9981/stream/channelid/181801914
+#EXTINF:-1,SONY SAB HD ◉
+http://116.255.19.70:9981/stream/channelid/1626041615
+#EXTINF:-1,STAR GOLD HD
+http://116.255.19.70:9981/stream/channelid/1595614559
+#EXTINF:-1,STAR GOLD SELECT HD
+http://116.255.19.70:9981/stream/channelid/652882337
+#EXTINF:-1,STAR MOVIES HD
+http://116.255.19.70:9981/stream/channelid/1785834514
+#EXTINF:-1,STAR MOVIES SELECT HD
+http://116.255.19.70:9981/stream/channelid/139885225
+#EXTINF:-1,STAR PLUS HD (UK)
+http://116.255.19.70:9981/stream/channelid/885963075
+#EXTINF:-1,STAR PLUS HD ◉
+http://116.255.19.70:9981/stream/channelid/1718552354
+#EXTINF:-1,STAR WORLD HD
+http://116.255.19.70:9981/stream/channelid/262883876
+#EXTINF:-1,STAR WORLD PREMIER HD
+http://116.255.19.70:9981/stream/channelid/17798793
+#EXTINF:-1,TEEN NICK | SD
+http://116.255.19.70:9981/stream/channelid/1245058716
+#EXTINF:-1,THE BLAZE | HD
+http://116.255.19.70:9981/stream/channelid/970526906
+#EXTINF:-1,THE QYOU
+http://116.255.19.70:9981/stream/channelid/1080127478
+#EXTINF:-1,TIMES NOW NEWS HD
+http://116.255.19.70:9981/stream/channelid/49726330
+#EXTINF:-1,TLC HD
+http://116.255.19.70:9981/stream/channelid/1417819994
+#EXTINF:-1,TLC WEST | HD
+http://116.255.19.70:9981/stream/channelid/1190974203
+#EXTINF:-1,TLC WORLD HD
+http://116.255.19.70:9981/stream/channelid/1136186390
+#EXTINF:-1,TLC | HD
+http://116.255.19.70:9981/stream/channelid/238266334
+#EXTINF:-1,TLC | UHD ◉
+http://116.255.19.70:9981/stream/channelid/401426807
+#EXTINF:-1,TNT (East) | HD
+http://116.255.19.70:9981/stream/channelid/1125629374
+#EXTINF:-1,TNT (West) | HD
+http://116.255.19.70:9981/stream/channelid/326306517
+#EXTINF:-1,TRAVEL CHANNEL
+http://116.255.19.70:9981/stream/channelid/1925225697
+#EXTINF:-1,TRAVEL CHANNEL | HD
+http://116.255.19.70:9981/stream/channelid/186890598
+#EXTINF:-1,TRAVEL XP HD
+http://116.255.19.70:9981/stream/channelid/1023159033
+#EXTINF:-1,TRU TV EAST | UHD
+http://116.255.19.70:9981/stream/channelid/2114127772
+#EXTINF:-1,TRU TV WEST | HD
+http://116.255.19.70:9981/stream/channelid/1109615808
+#EXTINF:-1,TV ONE | HD
+http://116.255.19.70:9981/stream/channelid/1486024578
+#EXTINF:-1,UNIVERSAL KIDS WEST | HD
+http://116.255.19.70:9981/stream/channelid/1637679358
+#EXTINF:-1,UNIVERSAL KIDS | HD
+http://116.255.19.70:9981/stream/channelid/576573185
+#EXTINF:-1,USA NETWORK WEST | HD
+http://116.255.19.70:9981/stream/channelid/798226225
+#EXTINF:-1,USA NETWORK | HD
+http://116.255.19.70:9981/stream/channelid/2018439920
+#EXTINF:-1,USTAV GOLD
+http://116.255.19.70:9981/stream/channelid/23624709
+#EXTINF:-1,USTAV GOLD HD
+http://116.255.19.70:9981/stream/channelid/1798195391
+#EXTINF:-1,UTSAV PLUS
+http://116.255.19.70:9981/stream/channelid/232993204
+#EXTINF:-1,UTSAV PLUS HD
+http://116.255.19.70:9981/stream/channelid/1309594780
+#EXTINF:-1,UTV ACTION
+http://116.255.19.70:9981/stream/channelid/1337108922
+#EXTINF:-1,UTV HD
+http://116.255.19.70:9981/stream/channelid/177203285
+#EXTINF:-1,VELOCITY | HD
+http://116.255.19.70:9981/stream/channelid/985692714
+#EXTINF:-1,VENUS
+http://116.255.19.70:9981/stream/channelid/262213044
+#EXTINF:-1,VH1 HD
+http://116.255.19.70:9981/stream/channelid/1350946800
+#EXTINF:-1,VICELAND | UHD
+http://116.255.19.70:9981/stream/channelid/815244085
+#EXTINF:-1,WOW CINEMA
+http://116.255.19.70:9981/stream/channelid/750311866
+#EXTINF:-1,WWE NETWORK | HD
+http://116.255.19.70:9981/stream/channelid/1117897821
+#EXTINF:-1,ZEE ANMOL CINEMA
+http://116.255.19.70:9981/stream/channelid/1450878081
+#EXTINF:-1,ZEE CAFE HD
+http://116.255.19.70:9981/stream/channelid/1558666983
+#EXTINF:-1,ZEE CINEMA
+http://116.255.19.70:9981/stream/channelid/1950450199
+#EXTINF:-1,ZEE CINEMA HD
+http://116.255.19.70:9981/stream/channelid/834747814
+#EXTINF:-1,ZEE NEWS
+http://116.255.19.70:9981/stream/channelid/1161907324
+#EXTINF:-1,ZEE TV
+http://116.255.19.70:9981/stream/channelid/1991996443
+#EXTINF:-1,ZEE TV HD
+http://116.255.19.70:9981/stream/channelid/809557795
+#EXTINF:-1,ZEE TV HD ◉
+http://116.255.19.70:9981/stream/channelid/2081627602
+#EXTINF:-1,ZING
+http://116.255.19.70:9981/stream/channelid/129924788
+#EXTINF:-1 group-title="116.255/IN",ZOOM TV HD
+http://116.255.19.70:9981/stream/channelid/1036048527
+
++ + + + + http://118.151.222.234:8000/playlist.m3u8 + + + + +
+
+#EXTINF:-1 group-title="118.151/ID",BloombergTV
+http://118.151.222.234:8000/play/BloombergTV
+#EXTINF:-1,ChannelV
+http://118.151.222.234:8000/play/ChannelV
+#EXTINF:-1,FoxActionMovies
+http://118.151.222.234:8000/play/FoxActionMovies
+#EXTINF:-1,FoxFamilyMovies
+http://118.151.222.234:8000/play/FoxFamilyMovies
+#EXTINF:-1,FoxMovies
+http://118.151.222.234:8000/play/FoxMovies
+#EXTINF:-1,FoxSports
+http://118.151.222.234:8000/play/FoxSports
+#EXTINF:-1,FoxSports2
+http://118.151.222.234:8000/play/FoxSports2
+#EXTINF:-1,FoxSports3
+http://118.151.222.234:8000/play/FoxSports3
+#EXTINF:-1 group-title="118.151/ID",KBSWorld
+http://118.151.222.234:8000/play/KBSWorld
+
 
 + + + + http://139.99.84.196:8822/extjs.html + + + + + SG + + + + + + DOWN
 
