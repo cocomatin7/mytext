@@ -365,47 +365,12 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 
 
-
 -/-/-/-/-
 http://www.reloltv.com/s/dG
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://www.reloltv.com/play.php?video=http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 <iframe src="//www.reloltv.com/embed-custom.php?video=http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8&image=&link=" width="100%" height="650" frameborder="0" scrollbar="no"></iframe>
 -/-/-/-/-
-
-SONY S HD
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-SONY SAB
-http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR WORLD
-http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR MOVIES 
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY MAX
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-
-http://221.120.204.4/SONY-HD/index.m3u8
-http://221.120.204.4/SONY-MAX/index.m3u8
-http://221.120.204.4/SONY-SAB/index.m3u8
-http://221.120.204.4/colours-hd/index.m3u8
-http://221.120.204.4/star-plus/index.m3u8
-http://221.120.204.4/SONY-MAX/tracks-v1a1/mono.m3u8
-http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8
-http://221.120.204.4/STAR-SPORTS-SELECT-1-/tracks-v1a1/mono.m3u8
-
-TEN SPORT
-http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
-http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,SONY SIX
-http://scontent.1xcdn.xyz/j2/Six_HD_HLS.m3u8
-NA
-http://scontent.1xcdn.xyz/j2/Ten1_HD_HLS.m3u8
-#EXTINF:-1,SONY TEN 2
-http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
-#EXTINF:-1,SONY TEN 3
-http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
-
 
   tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
@@ -18695,6 +18660,44 @@ B4U Movies
 http://185.246.209.207/HINDI_B4U_MOVIES_INDIA/tracks-v1a1/mono.m3u8
 ZEE CINEMA HD
 http://185.246.209.207/HINDI_ZEE_CINEMA_INDIA/tracks-v1a1/mono.m3u8
+
++ + + + + 221.120.204.4 + + + + +
+
+SONY S HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+SONY SAB
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="221.120/IN",STAR WORLD
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="221.120/IN",STAR MOVIES 
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="221.120/IN",SONY MAX
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+
+http://221.120.204.4/SONY-HD/index.m3u8
+http://221.120.204.4/SONY-MAX/index.m3u8
+http://221.120.204.4/SONY-SAB/index.m3u8
+http://221.120.204.4/colours-hd/index.m3u8
+http://221.120.204.4/star-plus/index.m3u8
+http://221.120.204.4/SONY-MAX/tracks-v1a1/mono.m3u8
+http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8
+http://221.120.204.4/STAR-SPORTS-SELECT-1-/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="221.120/IN",TEN SPORT
+http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
+http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+
++ + + + + http://scontent.1xcdn.xyz + + + + +
+
+#EXTINF:-1 group-title="scontent/IN",SONY SIX
+http://scontent.1xcdn.xyz/j2/Six_HD_HLS.m3u8
+NA
+http://scontent.1xcdn.xyz/j2/Ten1_HD_HLS.m3u8
+#EXTINF:-1,SONY TEN 2
+http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
+#EXTINF:-1 group-title="scontent/IN",SONY TEN 3
+http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
+
 
 + + + + + https://streamer-1.toffeelive.com + + + + +
 
