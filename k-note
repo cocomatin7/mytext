@@ -8221,7 +8221,6 @@ http://203.81.81.230:80/hls-live/livepkgr/_definst_/mrtv/mrtv3.m3u8
 + + + + + http://200.115.190.213:8000/playlist.m3u8 + + + + + DOWN
 
 
-
 + + + + + rtmp://203.81.81.230:80 + + + + +
 
  tvg-logo="https://www.skynetdth.com/images/channal_logo/mrtv.png" group-title="203.81", MRTV |rtmp
@@ -8247,45 +8246,45 @@ http://203.81.84.130/hls/mwd_shopping/index.m3u8
 http://203.81.84.130/hls/mwd_variety/index.m3u8
 
 
-+ + + + + http://203.135.57.173:8000/playlist.m3u8 + + + + + PK
++ + + + + http://203.135.57.173:8000/playlist.m3u8 + + + + + PK + + NOT PLAY
 
-#EXTINF:-1,Baby TV HD - Rs 1.00
+#EXTINF:-1 group-title="203.135",Baby TV HD - Rs 1.00
 http://203.135.57.173:8000/play/a011/index.m3u8
-#EXTINF:-1,Colors HD - Rs 19.00
+#EXTINF:-1 group-title="203.135",Colors HD - Rs 19.00
 http://203.135.57.173:8000/play/a00x/index.m3u8
-#EXTINF:-1,Disney International HD - Rs 12.00
+#EXTINF:-1 group-title="203.135",Disney International HD - Rs 12.00
 http://203.135.57.173:8000/play/a010/index.m3u8
-#EXTINF:-1,FOX life HD - Rs 1.00
+#EXTINF:-1 group-title="203.135",FOX life HD - Rs 1.00
 http://203.135.57.173:8000/play/a012/index.m3u8
-#EXTINF:-1,GOOD TiMES - Rs 1.50
+#EXTINF:-1 group-title="203.135",GOOD TiMES - Rs 1.50
 http://203.135.57.173:8000/play/a01q/index.m3u8
-#EXTINF:-1,Kairali TV - Free
+#EXTINF:-1 group-title="203.135",Kairali TV - Free
 http://203.135.57.173:8000/play/a00l/index.m3u8
-#EXTINF:-1,SET HD - Rs 19.00
+#EXTINF:-1 group-title="203.135",SET HD - Rs 19.00
 http://203.135.57.173:8000/play/a013/index.m3u8
-#EXTINF:-1,SONY SAB HD - Rs 19.00
+#EXTINF:-1 group-title="203.135",SONY SAB HD - Rs 19.00
 http://203.135.57.173:8000/play/a00b/index.m3u8
-#EXTINF:-1,SONY TEN 4 - Rs 17.00
+#EXTINF:-1 group-title="203.135",SONY TEN 4 - Rs 17.00
 http://203.135.57.173:8000/play/a01s/index.m3u8
-#EXTINF:-1,STAR GOLD HD - Rs 10.00
+#EXTINF:-1 group-title="203.135",STAR GOLD HD - Rs 10.00
 http://203.135.57.173:8000/play/a01j/index.m3u8
-#EXTINF:-1,STAR PLUS HD - Rs 19.00
+#EXTINF:-1 group-title="203.135",STAR PLUS HD - Rs 19.00
 http://203.135.57.173:8000/play/a01i/index.m3u8
-#EXTINF:-1,Star Bharat HD - Rs 19.00
+#EXTINF:-1 group-title="203.135",Star Bharat HD - Rs 19.00
 http://203.135.57.173:8000/play/a01f/index.m3u8
-#EXTINF:-1,Star Sports 1 HD - Rs 19.00
+#EXTINF:-1 group-title="203.135",Star Sports 1 HD - Rs 19.00
 http://203.135.57.173:8000/play/a01l/index.m3u8
-#EXTINF:-1,Star Suvarna HD - Rs 19.00
+#EXTINF:-1 group-title="203.135",Star Suvarna HD - Rs 19.00
 http://203.135.57.173:8000/play/a00e/index.m3u8
-#EXTINF:-1,Travelxp HD - Rs 9.00
+#EXTINF:-1 group-title="203.135",Travelxp HD - Rs 9.00
 http://203.135.57.173:8000/play/a00z/index.m3u8
-#EXTINF:-1,VH1 HD - Rs 2.00
+#EXTINF:-1 group-title="203.135",VH1 HD - Rs 2.00
 http://203.135.57.173:8000/play/a01h/index.m3u8
-#EXTINF:-1,Zee Kannada HD - Rs 19.00
+#EXTINF:-1 group-title="203.135",Zee Kannada HD - Rs 19.00
 http://203.135.57.173:8000/play/a00f/index.m3u8
-#EXTINF:-1,Zee TV HD - Rs 19.00
+#EXTINF:-1 group-title="203.135",Zee TV HD - Rs 19.00
 http://203.135.57.173:8000/play/a00y/index.m3u8
-#EXTINF:-1,Zee Zest HD - Rs 10.00
+#EXTINF:-1 group-title="203.135",Zee Zest HD - Rs 10.00
 http://203.135.57.173:8000/play/a00a/index.m3u8
 
 
@@ -8330,21 +8329,21 @@ http://203.154.177.124:8899/live/ch29/playlist.m3u8
 
 #EXTINF:-1 group-title="203.154",foxfam
 http://203.154.243.88:18005/tipcable/foxfam
-#EXTINF:-1,scm
+#EXTINF:-1 group-title="203.154",scm
 http://203.154.243.88:18005/tipcable/scm
-#EXTINF:-1,foxnews
+#EXTINF:-1 group-title="203.154",foxnews
 http://203.154.243.88:18005/tipcable/foxnews
-#EXTINF:-1,foxthai
+#EXTINF:-1 group-title="203.154",foxthai
 http://203.154.243.88:18005/tipcable/foxthai
-#EXTINF:-1,foxaction
+#EXTINF:-1 group-title="203.154",foxaction
 http://203.154.243.88:18005/tipcable/foxaction
-#EXTINF:-1,natgeo
+#EXTINF:-1 group-title="203.154",natgeo
 http://203.154.243.88:18005/tipcable/natgeo
-#EXTINF:-1,Fox Sport 2
+#EXTINF:-1 group-title="203.154",Fox Sport 2
 http://203.154.243.88:18002/kctv/foxsport2
-#EXTINF:-1,FOX Life HD
+#EXTINF:-1 group-title="203.154",FOX Life HD
 http://203.154.243.88:18005/tipcable/foxlife
-#EXTINF:-1,Fox Sport 1
+#EXTINF:-1 group-title="203.154",Fox Sport 1
 http://203.154.243.88:18002/kctv/foxsport1
 #EXTINF:-1 group-title="203.154",Fox Sport 3
 http://203.154.243.88:18002/kctv/foxsport3
