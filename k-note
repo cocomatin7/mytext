@@ -3815,16 +3815,16 @@ http://27.254.130.62/feed/LC10/index.m3u8
 
 SUN TH
 http://27.254.130.62/feed/LC11/index.m3u8
-#EXTINF:-1,DW
+#EXTINF:-1 group-title="27.254",DW
 http://27.254.130.62/feed/LC12/index.m3u8
-#EXTINF:-1,StarChineseMovie
+#EXTINF:-1 group-title="27.254",StarChineseMovie
 http://27.254.130.62/feed/LC13/index.m3u8
-#EXTINF:-1,[V]
+#EXTINF:-1 group-title="27.254",[V]
 http://27.254.130.62/feed/LC14/index.m3u8
 http://27.254.130.62/feed/LC15/index.m3u8
-#EXTINF:-1,CNA
+#EXTINF:-1 group-title="27.254",CNA
 http://27.254.130.62/feed/LC16/index.m3u8
-#EXTINF:-1,MRTV
+#EXTINF:-1 group-title="27.254",MRTV
 http://27.254.130.62/feed/LC17/index.m3u8
 http://27.254.130.62/feed/LC17/tracks-v1a1/mono.m3u8
 
@@ -3838,7 +3838,7 @@ http://27.254.130.62/feed/LC24/index.m3u8
 http://27.254.130.62/feed/LC25/index.m3u8
 http://27.254.130.62/feed/LC26/index.m3u8
 http://27.254.130.62/feed/LC27/index.m3u8
-#EXTINF:-1,WB TV
+#EXTINF:-1 group-title="27.254",WB TV
 http://27.254.130.62/feed/LC28/index.m3u8
 ER http://27.254.130.62/feed/LC29/index.m3u8
 ER http://27.254.130.62/feed/LC30/index.m3u8
