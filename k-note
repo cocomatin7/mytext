@@ -12756,9 +12756,9 @@ https://lnwlomtoe.atvlb.com/lnwlomtoe/ch68/playlist.m3u8
 
 + + + + + mediasv.online + + + + +
 
-#EXTINF:-1 group-title="mediasv",true EPL 1
+ group-title="mediasv",true EPL 1
 https://mediasv.online/live/trueepl1/playlist.m3u8
-#EXTINF:-1,true EPL 2
+,true EPL 2
 https://mediasv.online/live/trueepl2/playlist.m3u8
 ,true EPL 3
 https://mediasv.online/live/trueepl3/playlist.m3u8
@@ -12802,7 +12802,7 @@ https://mediasv.online/live7f/truepl1Fallback/playlist.m3u8
 https://mediasv.online/tvchannel_x1/true-filmhd/playlist.m3u8
 https://mediasv.online/tvchannel_x1/true-filmhd2/playlist.m3u8
 https://mediasv.online/tvchannel_x1/natgeo/playlist.m3u8
-#EXTINF:-1 group-title="mediasv",natgeowild
+ group-title="mediasv",natgeowild
 https://mediasv.online/tvchannel_x2/hd-natgeowild/playlist.m3u8
 
 + + + + + https://delivery.macan.live + + + + +
