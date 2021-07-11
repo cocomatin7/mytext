@@ -8247,12 +8247,15 @@ http://185.180.221.194:8278/streams/d/Zeeaction/playlist.m3u8
 #EXTINF:-1 group-title="185.180",Color Hd(TEST)
 http://185.180.221.194:8278/streams/d/Colorhd/playlist.m3u8
 
-+ + + + + 185.183.34.118/iptv + + + + +
++ + + + + 185.183.34.118/iptv + + + + + EDEM + + + 
 
 V4KSK3Y4Z8DVPM	latest!
 LZKA5RU8PUWYR3
 F59KKDMP2GN7ZB
 YSZEBB3QYC3TXF
+LZKA5RU8PUWYR3 latest!!
+F59KKDMP2GN7ZB new!
+YSZEBB3QYC3TXF Too many people know
 
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 
@@ -18799,6 +18802,47 @@ http://46.105.112.116/?watch=TN/extranews-ar/index.m3u8?token=
 http://46.105.112.116/?watch=TN/nileculture-ar/index.m3u8?token=
 http://46.105.112.116/?watch=TN/toktokaflam-ar/index.m3u8?token=
 http://46.105.112.116/?watch=VOD/redaction-br/index.m3u8?token= < NO
+
+http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/HINDI_ANIMAL_PLANET_WORLD_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/HINDI_BBC_EARTH_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/HINDI_EVERGREEN_CLASSIC-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/HINDI_FOX_LIFE_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/HINDI_HISTORY_TV_18_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/HINDI_NAT_GEO_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/KIDS_POGO-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_MOVIE-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/Star_Viyaj_Music-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/TAMIL_JAYA_TV_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/TAMIL_POLIMER_TV-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/TELUGU_BBC_EARTH_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/TELUGU_DISCOVERY_WORLD_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/TELUGU_ETV_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/TELUGU_ETV_LIFE-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/TELUGU_ETV_PLUS-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/TELUGU_GEMINI_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/TELUGU_HISTORY_TV_18_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/TELUGU_NAT_GEO_TELUGU_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
+http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
+
 
 -/-/-/-/-
  
