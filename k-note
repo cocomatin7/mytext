@@ -16635,13 +16635,13 @@ http://46.105.112.116/?watch=EX/A_La_Carte_6-fr/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",B4U Movies |46
 http://46.105.112.116/?watch=EX/b4umovie-in/index.m3u8?token=
 
-#EXTINF:-1 group-title="46/IN",beIN SPORT 1FHD |46
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" group-title="46/IN",beIN SPORT 1FHD |46
 http://46.105.112.116/?watch=EX/bein1FHD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",beIN SPORT 2FHD |46
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beINSports2.qa" group-title="46/IN",beIN SPORT 2FHD |46
 http://46.105.112.116/?watch=EX/bein2FHD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",beIN SPORT 3FHD |46
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beINSports3.qa" group-title="46/IN",beIN SPORT 3FHD |46
 http://46.105.112.116/?watch=EX/bein3FHD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",beIN SPORT 4FHD |46
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beINSports4.qa" group-title="46/IN",beIN SPORT 4FHD |46
 http://46.105.112.116/?watch=EX/bein4FHD-ar/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",beIN SPORT 5FHD |46
 http://46.105.112.116/?watch=EX/bein5FHD-ar/index.m3u8?token=
@@ -16656,16 +16656,16 @@ http://46.105.112.116/?watch=EX/bein9FHD-ar/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",beIN SPORT 3PRE' |46
 http://46.105.112.116/?watch=EX/bein10FHD-ar/index.m3u8?token=
 
-#EXTINF:-1 group-title="46/IN",beIN SPORT 1HD |46
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" group-title="46/IN",beIN SPORT 1HD |46
 http://46.105.112.116/?watch=EX/bein1hd-ar/index.m3u8?token=
 http://46.105.112.116/?watch=EX/bein1sd-ar/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",beIN SPORT 2HD |46
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beINSports2.qa" group-title="46/IN",beIN SPORT 2HD |46
 http://46.105.112.116/?watch=EX/bein2hd-ar/index.m3u8?token=
 http://46.105.112.116/?watch=EX/bein2sd-ar/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",beIN SPORT 3HD |46
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beINSports3.qa" group-title="46/IN",beIN SPORT 3HD |46
 http://46.105.112.116/?watch=EX/bein3hd-ar/index.m3u8?token=
 http://46.105.112.116/?watch=EX/bein3sd-ar/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",beIN SPORT 4HD |46
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beINSports4.qa" group-title="46/IN",beIN SPORT 4HD |46
 http://46.105.112.116/?watch=EX/bein4hd-ar/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",beIN SPORT 5HD |46
 http://46.105.112.116/?watch=EX/bein5hd-ar/index.m3u8?token=
