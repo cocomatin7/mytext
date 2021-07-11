@@ -3876,6 +3876,87 @@ ER http://27.254.130.62/feed/LC59/index.m3u8
 
 http://27.254.130.62/feed/chboomberang/tracks-v1a1/mono.m3u8
 
++ + + http://27.255.28.10:8278/ + + +
+
+http://27.255.28.10:8278/1/playlist.m3u8
+na http://27.255.28.10:8278/2/playlist.m3u8
+na http://27.255.28.10:8278/3/playlist.m3u8
+http://27.255.28.10:8278/4/playlist.m3u8
+http://27.255.28.10:8278/5/playlist.m3u8
+http://27.255.28.10:8278/6/playlist.m3u8
+http://27.255.28.10:8278/7/playlist.m3u8
+http://27.255.28.10:8278/8/playlist.m3u8
+http://27.255.28.10:8278/9/playlist.m3u8
+
+na http://27.255.28.10:8278/10/playlist.m3u8
+http://27.255.28.10:8278/11/playlist.m3u8
+http://27.255.28.10:8278/12/playlist.m3u8
+http://27.255.28.10:8278/13/playlist.m3u8
+na http://27.255.28.10:8278/14/playlist.m3u8
+http://27.255.28.10:8278/15/playlist.m3u8
+na http://27.255.28.10:8278/16/playlist.m3u8
+http://27.255.28.10:8278/17/playlist.m3u8
+na http://27.255.28.10:8278/18/playlist.m3u8
+http://27.255.28.10:8278/19/playlist.m3u8
+
+na http://27.255.28.10:8278/20/playlist.m3u8
+http://27.255.28.10:8278/21/playlist.m3u8
+http://27.255.28.10:8278/22/playlist.m3u8
+http://27.255.28.10:8278/23/playlist.m3u8
+http://27.255.28.10:8278/24/playlist.m3u8
+http://27.255.28.10:8278/25/playlist.m3u8
+http://27.255.28.10:8278/26/playlist.m3u8
+na http://27.255.28.10:8278/27/playlist.m3u8
+na http://27.255.28.10:8278/28/playlist.m3u8
+CINEMA 1
+http://27.255.28.10:8278/29/playlist.m3u8
+CINEMA 2
+http://27.255.28.10:8278/30/playlist.m3u8
+http://27.255.28.10:8278/31/playlist.m3u8
+http://27.255.28.10:8278/32/playlist.m3u8
+http://27.255.28.10:8278/33/playlist.m3u8
+http://27.255.28.10:8278/34/playlist.m3u8
+http://27.255.28.10:8278/35/playlist.m3u8
+http://27.255.28.10:8278/36/playlist.m3u8
+http://27.255.28.10:8278/37/playlist.m3u8
+http://27.255.28.10:8278/38/playlist.m3u8
+FILM WORLD
+http://27.255.28.10:8278/39/playlist.m3u8
+
+http://27.255.28.10:8278/40/playlist.m3u8
+na http://27.255.28.10:8278/41/playlist.m3u8
+na http://27.255.28.10:8278/42/playlist.m3u8
+na http://27.255.28.10:8278/43/playlist.m3u8
+http://27.255.28.10:8278/44/playlist.m3u8
+na http://27.255.28.10:8278/45/playlist.m3u8
+na http://27.255.28.10:8278/46/playlist.m3u8
+na http://27.255.28.10:8278/47/playlist.m3u8
+na http://27.255.28.10:8278/48/playlist.m3u8
+na http://27.255.28.10:8278/49/playlist.m3u8
+tv One
+http://27.255.28.10:8278/50/playlist.m3u8
+na http://27.255.28.10:8278/51/playlist.m3u8
+mbc action
+na http://27.255.28.10:8278/52/playlist.m3u8
+na http://27.255.28.10:8278/53/playlist.m3u8
+na http://27.255.28.10:8278/54/playlist.m3u8
+na http://27.255.28.10:8278/55/playlist.m3u8
+na http://27.255.28.10:8278/56/playlist.m3u8
+na http://27.255.28.10:8278/57/playlist.m3u8
+na http://27.255.28.10:8278/58/playlist.m3u8
+na http://27.255.28.10:8278/59/playlist.m3u8
+
+http://27.255.28.10:8278/60/playlist.m3u8
+http://27.255.28.10:8278/61/playlist.m3u8
+http://27.255.28.10:8278/62/playlist.m3u8
+http://27.255.28.10:8278/63/playlist.m3u8
+http://27.255.28.10:8278/64/playlist.m3u8
+http://27.255.28.10:8278/65/playlist.m3u8
+http://27.255.28.10:8278/66/playlist.m3u8
+http://27.255.28.10:8278/67/playlist.m3u8
+http://27.255.28.10:8278/68/playlist.m3u8
+http://27.255.28.10:8278/69/playlist.m3u8
+
 
 + + + http://31.220.41.87:8081 + + +
 
@@ -6495,7 +6576,7 @@ http://94.225.216.90:9981/stream/channelid/1264854802?profile=pass
 http://94.225.216.90:9981/stream/channelid/1935126174?profile=pass
 
 
-+ + + + + 103.65.184.145:8443 + + + + +
++ + + + + 103.65.184.145:8443 + + + + + */12345 + */12345678
 
 
 Fox Sports
@@ -6507,6 +6588,32 @@ http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/111.m3u8
 CNN
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/140.m3u8
 
+
++ + + + http://103.150.209.246:9981/extjs.html + + + + PK
+
+#EXTINF:-1 group-title="103.150",Movies 1
+http://103.150.209.246:9981/stream/channelid/724775219
+#EXTINF:-1 group-title="103.150",Movies 2
+http://103.150.209.246:9981/stream/channelid/1503848324
+#EXTINF:-1 group-title="103.150",Pak Movies
+http://103.150.209.246:9981/stream/channelid/469588200
+
+http://103.150.209.246:9981/play/stream/service/de5be2359e1752c8b7fa902a6a262a4c?title=%26%20Prive%20HD
+http://103.150.209.246:9981/play/stream/service/8762a8a31e4addc406cd3940d5ba7235?title=%26%20Prive%20HD
+http://103.150.209.246:9981/play/stream/service/146200fedc2a921fefccae5627ce012e?title=Fox%20Action%20%2F%20DVB
+http://103.150.209.246:9981/play/stream/service/7a4918ba3152dfafc942c20ac425e40e?title=Sony%20Pix%20%2F%20DVB
+http://103.150.209.246:9981/play/stream/service/54b9ab9d6b29887cfbc2ca4c0dcc8e63?title=Zee%20Cinema%20HD
+http://103.150.209.246:9981/play/stream/service/70f351dd628a2a7fa8547b64f892540a?title=Z%20TV%20HD
+#EXTINF:-1 group-title="103.150",&Prive HD
+http://103.150.209.246:9981/stream/service/de5be2359e1752c8b7fa902a6a262a4c
+#EXTINF:-1 group-title="103.150",Fox Action
+http://103.150.209.246:9981/stream/service/146200fedc2a921fefccae5627ce012e
+#EXTINF:-1 group-title="103.150",Sony Pix
+http://103.150.209.246:9981/stream/service/7a4918ba3152dfafc942c20ac425e40e
+#EXTINF:-1 group-title="103.150",Zee Cinema HD
+http://103.150.209.246:9981/stream/service/54b9ab9d6b29887cfbc2ca4c0dcc8e63
+#EXTINF:-1 group-title="103.150",Z TV HD
+http://103.150.209.246:9981/stream/service/70f351dd628a2a7fa8547b64f892540a
 
 + + + + http://103.153.39.34:8000/playlist.m3u8 + + + + PK + 
 
