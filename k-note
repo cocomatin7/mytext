@@ -3354,7 +3354,6 @@ http://101.127.128.44:9981/stream/channelnumber/5
 http://101.127.128.44:9981/stream/channelnumber/6 <
 
 
-
 #EXTINF:-1 group-title="SG",8新闻台
 https://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master.m3u8
 #EXTINF:-1 group-title="SG" group-title="SG",CH 8
@@ -3462,57 +3461,6 @@ http://103.47.132.164/PLTV/88888888/224/3221227171/1.m3u8
 #EXTINF:-1 group-title="GB",BBC World News |103.102
 http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
 
-+ + + + http://3.239.35.218:9981/extjs.html + + + + + + CAN'T WORK
-
- group-title="3.239", VEVO R&B (US)
-http://3.239.35.218:9981/stream/mux/708dd3af355cffb91920939669d0ec62
-, VEVO Hip Hop (US)
-http://3.239.35.218:9981/stream/mux/88ade14d1693cb59fed47c06b0a58797
-, VEVO Latino (US)
-http://3.239.35.218:9981/stream/mux/4da9c4b48681d46a9ce0e424e4ba6a26
-, VEVO Country (US)
-http://3.239.35.218:9981/stream/mux/3831f7bcda60b32d8c7ba49fe5178ac4
-, VEVO 2K (US)
-http://3.239.35.218:9981/stream/mux/a3c2d83a378466ea137db317f7360e85
-, MIX 24/7 Baladas
-http://3.239.35.218:9981/stream/mux/b29d6203cbb7d33acff97dd45dc2e608
-, MIX 24/7
-http://3.239.35.218:9981/stream/mux/ebf1e71ac86a9c70dfee527a7c20b2bd
-, MIX 24/7 Pop
-http://3.239.35.218:9981/stream/mux/1d96796fe35b838ba82e17425134cdc2
-, MIX 24/7 Conciertos Live
-http://3.239.35.218:9981/stream/mux/9531e1de9f6d3929c2f544e0f9baa240
-, MIX 24/7 Tropical
-http://3.239.35.218:9981/stream/mux/b93dcfd1a6815319dfaadc141d168c09
-, MTV Hits Europe
-http://3.239.35.218:9981/stream/mux/f712964927a545faf6b2dcd17e832b4c
-, MIX 24/7 Top 100
-http://3.239.35.218:9981/stream/mux/693a27d96ea66a97b2ac56be92ae5c11
-
-, MTV Hits Europe
-http://3.239.35.218:9981/stream/service/d55592d39cd47bd4a3c5dc2aecfa6c41
-, MIX 24/7 Baladas
-http://3.239.35.218:9981/stream/service/db2a69f5fbefef40dcb04d6d1a648286
-, MIX 24/7 Top 100
-http://3.239.35.218:9981/stream/service/3fa6eb587ba84398cc6b7afbe0f34232
-
-, VEVO R&B (US)
-http://3.239.35.218:9981/stream/service/f7a546bab698db8de87ac3496873d0ac
-, VEVO Hip Hop (US)
-http://3.239.35.218:9981/stream/service/66c6a3cc85d7bc3dc7e18a262f188287
-, VEVO Latino (US)
-http://3.239.35.218:9981/stream/service/703f8cdac1bd458f4420e02a52fc1dfa
-, VEVO Country (US)
-http://3.239.35.218:9981/stream/service/b08323eba0739c983c471433c6e1f4c8
-, VEVO 2K (US)
-http://3.239.35.218:9981/stream/service/a03f80b547d7e24fbd21cca97a7d04c7
-
-, MIX 24 Baladas
-http://3.239.35.218:9981/stream/service/db2a69f5fbefef40dcb04d6d1a648286
-, MIX 24
-http://3.239.35.218:9981/stream/service/dd7df1c9834f48b130a3c1b70926a251
- group-title="3.239", MIX 24 Conciertos Live
-http://3.239.35.218:9981/stream/service/4b7a2579d61c5f86590a2c8eae6c105e
 
 + + + + + http://4digital.ddns.net:9981/extjs.html + + + + + locked 
 
@@ -3801,6 +3749,7 @@ http://4digital.ddns.net:9981/stream/channelid/2097246791?ticket=4068219972CE699
 
 DOWN
 
+
 + + + http://3.0.20.58:8000/playlist.m3u8  + + +
 
 #EXTINF:-1 group-title="3.0/MY",ASSP1
@@ -3846,6 +3795,9 @@ http://3.0.20.58:8000/play/Bein-Sport-6/index.m3u8
 http://3.0.20.58:8000/play/Bein-Sport-7/index.m3u8
 #EXTINF:-1 group-title="3.0/MY",TVRI SPORT
 http://3.0.20.58:8000/play/TVRIHD/index.m3u8
+
+
++ + + + http://3.239.35.218:9981/extjs.html + + + + + + CAN'T WORK
 
 + + + + + 27.254.130.62/feed + + + + +
 
