@@ -7985,35 +7985,35 @@ http://184.82.147.223:9981/stream/channelid/1015658716?ticket=4FE92C8DCA9A134CD5
 
 #EXTINF:-1 group-title="185.180",Assp1 |185
 http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1,Assp2 |185
+#EXTINF:-1 group-title="185.180",Assp2 |185
 http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1,Assp3 |185
+#EXTINF:-1 group-title="185.180",Assp3 |185
 http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1,Assp4 |185
+#EXTINF:-1 group-title="185.180",Assp4 |185
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
-#EXTINF:-1,Bein1hd |185
+#EXTINF:-1 group-title="185.180",Bein1hd |185
 http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
-#EXTINF:-1,Bein2hd |185
+#EXTINF:-1 group-title="185.180",Bein2hd |185
 http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
 
-#EXTINF:-1,Foxsports |185
+#EXTINF:-1 group-title="185.180",Foxsports |185
 http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-#EXTINF:-1,Foxsports2 |185
+#EXTINF:-1 group-title="185.180",Foxsports2 |185
 http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
-#EXTINF:-1,Foxsports3 |185
+#EXTINF:-1 group-title="185.180",Foxsports3 |185
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 
-#EXTINF:-1,afc
+#EXTINF:-1 group-title="185.180",afc
 http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
 
-#EXTINF:-1,FOX family MOVIES |185
+#EXTINF:-1 group-title="185.180",FOX family MOVIES |185
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:-1,FOX ACTION MOVIES |185
+#EXTINF:-1 group-title="185.180",FOX ACTION MOVIES |185
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1,FOX MOVIES |185
+#EXTINF:-1 group-title="185.180",FOX MOVIES |185
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1,Natgeowild
+#EXTINF:-1 group-title="185.180",Natgeowild
 http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 group-title="185.180",Tvnmovie |185
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
@@ -8029,13 +8029,13 @@ http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Discovery/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1,Hbo
+#EXTINF:-1 group-title="185.180",Hbo
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1,Hbofamily
+#EXTINF:-1 group-title="185.180",Hbofamily
 http://185.180.221.194:8278/streams/d/Hbofamily/playlist.m3u8
-#EXTINF:-1,Hbohd
+#EXTINF:-1 group-title="185.180",Hbohd
 http://185.180.221.194:8278/streams/d/Hbohd/playlist.m3u8
-#EXTINF:-1,Hbohits
+#EXTINF:-1 group-title="185.180",Hbohits
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 group-title="185.180",Hbosignature
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
@@ -8081,61 +8081,61 @@ http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Fightsports/playlist.m3u8
 
-#EXTINF:-1,Foxhd
+#EXTINF:-1 group-title="185.180",Foxhd
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:-1,Foxlife
+#EXTINF:-1 group-title="185.180",Foxlife
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:-1,Foxcrime
+#EXTINF:-1 group-title="185.180",Foxcrime
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF:-1,Foxfamily
+#EXTINF:-1 group-title="185.180",Foxfamily
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:-1,Foxactionhd
+#EXTINF:-1 group-title="185.180",Foxactionhd
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1,Foxmovie
+#EXTINF:-1 group-title="185.180",Foxmovie
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1,astro supersport 1
+#EXTINF:-1 group-title="185.180",astro supersport 1
 http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1,astro supersport 2
+#EXTINF:-1 group-title="185.180",astro supersport 2
 http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1,astro supersport 3
+#EXTINF:-1 group-title="185.180",astro supersport 3
 http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1,astro supersport 4
+#EXTINF:-1 group-title="185.180",astro supersport 4
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1,Astro Ria
+#EXTINF:-1 group-title="185.180",Astro Ria
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-#EXTINF:-1,Astro Wlt
+#EXTINF:-1 group-title="185.180",Astro Wlt
 http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1,Astro Huahee
+#EXTINF:-1 group-title="185.180",Astro Huahee
 http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
-#EXTINF:-1,Astro AEC
+#EXTINF:-1 group-title="185.180",Astro AEC
 http://185.180.221.194:8278/streams/d/AEC/playlist.m3u8
-#EXTINF:-1,Xinhe
+#EXTINF:-1 group-title="185.180",Xinhe
 http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:-1,National Geographic Wild
+#EXTINF:-1 group-title="185.180",National Geographic Wild
 http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1,Ohk
+#EXTINF:-1 group-title="185.180",Ohk
 http://185.180.221.194:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1,Bernama
+#EXTINF:-1 group-title="185.180",Bernama
 http://185.180.221.194:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1,RTM Sport
+#EXTINF:-1 group-title="185.180",RTM Sport
 http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
-#EXTINF:-1,astro Ceria
+#EXTINF:-1 group-title="185.180",astro Ceria
 http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 group-title="185.180",Animal Planet
 http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1,KBS WORLD
+#EXTINF:-1 group-title="185.180",KBS WORLD
 http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:-1,Qiyi
+#EXTINF:-1 group-title="185.180",Qiyi
 http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
-#EXTINF:-1,Aod
+#EXTINF:-1 group-title="185.180",Aod
 http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-#EXTINF:-1,ZEE Tamil HD
+#EXTINF:-1 group-title="185.180",ZEE Tamil HD
 http://185.180.221.194:8278/streams/d/Zeetamil/playlist.m3u8
-#EXTINF:-1,SUN TV
+#EXTINF:-1 group-title="185.180",SUN TV
 http://185.180.221.194:8278/streams/d/Suntv/playlist.m3u8
-#EXTINF:-1,Zee Tv(TEST)
+#EXTINF:-1 group-title="185.180",Zee Tv(TEST)
 http://185.180.221.194:8278/streams/d/Zeetvhd/playlist.m3u8
-#EXTINF:-1,Zee Actions(TEST)
+#EXTINF:-1 group-title="185.180",Zee Actions(TEST)
 http://185.180.221.194:8278/streams/d/Zeeaction/playlist.m3u8
 #EXTINF:-1 group-title="185.180",Color Hd(TEST)
 http://185.180.221.194:8278/streams/d/Colorhd/playlist.m3u8
