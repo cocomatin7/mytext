@@ -7517,17 +7517,17 @@ http://159.192.73.198:1072/hchannel
 http://159.192.73.198:1072/hisport
 #EXTINF:-1,W ANIMAL
 http://159.192.73.198:1072/wanimal
-#EXTINF:-1,TOP FIGHT
+#EXTINF:-1 group-title="159.192",TOP FIGHT
 http://159.192.73.198:1072/topfight
-#EXTINF:-1,ASTRO 4
+#EXTINF:-1 group-title="159.192",ASTRO 4
 http://159.192.73.198:1072/astro4
 #EXTINF:-1,EURONEWS
 http://159.192.73.198:1072/euronews
 #EXTINF:-1,GOLF
 http://159.192.73.198:1072/golf
-#EXTINF:-1,*FOX SPORTS 1
+#EXTINF:-1 group-title="159.192",*FOX SPORTS 1
 http://159.192.73.198:1072/foxsport1
-#EXTINF:-1,*FOX SPORTS 2
+#EXTINF:-1 group-title="159.192",*FOX SPORTS 2
 http://159.192.73.198:1072/foxsport2
 #EXTINF:-1 group-title="159.192",*FOX SPORTS 3
 http://159.192.73.198:1072/foxsport3
@@ -7652,39 +7652,39 @@ http://178.62.107.180/woh/index.m3u8?id=47856
 n.a. http://178.62.107.180/woh/index.m3u8?id=47857
 #EXTINF:-1 group-title="178.62/IN",STAR WORLD
 http://178.62.107.180/woh/index.m3u8?id=47858
-#EXTINF:-1,STAR MOVIES SELECT
+#EXTINF:-1 group-title="178.62/IN",STAR MOVIES SELECT
 http://178.62.107.180/woh/index.m3u8?id=47859
-#EXTINF:-1,STAR WORLD
+#EXTINF:-1 group-title="178.62/IN",STAR WORLD
 http://178.62.107.180/woh/index.m3u8?id=47860
 http://178.62.107.180/woh/index.m3u8?id=47861
 na http://178.62.107.180/woh/index.m3u8?id=47862
-#EXTINF:-1,FOX life EN
+#EXTINF:-1 group-title="178.62/IN",FOX life EN
 http://178.62.107.180/woh/index.m3u8?id=47863
 na http://178.62.107.180/woh/index.m3u8?id=47864
-#EXTINF:-1,NAT GEO EN
+#EXTINF:-1 group-title="178.62/IN",NAT GEO EN
 http://178.62.107.180/woh/index.m3u8?id=47865
 na http://178.62.107.180/woh/index.m3u8?id=47866
 na http://178.62.107.180/woh/index.m3u8?id=47867
-#EXTINF:-1,ANIMAL PLANET EN
+#EXTINF:-1 group-title="178.62/IN",ANIMAL PLANET EN
 http://178.62.107.180/woh/index.m3u8?id=47868
-#EXTINF:-1,BBC earth
+#EXTINF:-1 group-title="178.62/IN",BBC earth
 http://178.62.107.180/woh/index.m3u8?id=47869
-#EXTINF:-1,H
+#EXTINF:-1 group-title="178.62/IN",H
 http://178.62.107.180/woh/index.m3u8?id=47870
 http://178.62.107.180/woh/index.m3u8?id=47871
 http://178.62.107.180/woh/index.m3u8?id=47872
-#EXTINF:-1,NAT GEO WILD
+#EXTINF:-1 group-title="178.62/IN",NAT GEO WILD
 http://178.62.107.180/woh/index.m3u8?id=47873
 Animal Planet
 http://178.62.107.180/woh/index.m3u8?id=47874
 http://178.62.107.180/woh/index.m3u8?id=47875
-#EXTINF:-1,TLC
+#EXTINF:-1 group-title="178.62/IN",TLC
 http://178.62.107.180/woh/index.m3u8?id=47876
 http://178.62.107.180/woh/index.m3u8?id=47877
-#EXTINF:-1,Discovery
+#EXTINF:-1 group-title="178.62/IN",Discovery
 http://178.62.107.180/woh/index.m3u8?id=47878
 http://178.62.107.180/woh/index.m3u8?id=47879
-#EXTINF:-1,colors INFINITY EN
+#EXTINF:-1 group-title="178.62/IN",colors INFINITY EN
 http://178.62.107.180/woh/index.m3u8?id=47880
 na http://178.62.107.180/woh/index.m3u8?id=47881
 na http://178.62.107.180/woh/index.m3u8?id=47882
@@ -7712,7 +7712,7 @@ na http://178.62.107.180/woh/index.m3u8?id=47901
 STAR
 http://178.62.107.180/woh/index.m3u8?id=47902
 http://178.62.107.180/woh/index.m3u8?id=47903
-#EXTINF:-1,NAT GEO
+#EXTINF:-1 group-title="178.62/IN",NAT GEO
 http://178.62.107.180/woh/index.m3u8?id=47904
 http://178.62.107.180/woh/index.m3u8?id=47905
 http://178.62.107.180/woh/index.m3u8?id=47906
@@ -7809,9 +7809,9 @@ na http://178.62.107.180/woh/index.m3u8?id=48000
 http://178.62.107.180/woh/index.m3u8?id=48001
 na http://178.62.107.180/woh/index.m3u8?id=48002
 na http://178.62.107.180/woh/index.m3u8?id=48003
-#EXTINF:-1,ZEE CINEMA HD
+#EXTINF:-1 group-title="178.62/IN",ZEE CINEMA HD
 http://178.62.107.180/woh/index.m3u8?id=48004
-#EXTINF:-1,STAR SPORTS 1
+#EXTINF:-1 group-title="178.62/IN",STAR SPORTS 1
 http://178.62.107.180/woh/index.m3u8?id=48005
 http://178.62.107.180/woh/index.m3u8?id=48006
 http://178.62.107.180/woh/index.m3u8?id=48007
@@ -7832,7 +7832,7 @@ K TV
 http://178.62.107.180/woh/index.m3u8?id=48014
 na http://178.62.107.180/woh/index.m3u8?id=48015
 http://178.62.107.180/woh/index.m3u8?id=48016
-#EXTINF:-1,SONY BBC earth
+#EXTINF:-1 group-title="178.62/IN",SONY BBC earth
 http://178.62.107.180/woh/index.m3u8?id=48017
 http://178.62.107.180/woh/index.m3u8?id=48018
 #EXTINF:-1 group-title="178.62/IN",FOX life
