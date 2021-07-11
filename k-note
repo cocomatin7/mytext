@@ -16733,20 +16733,20 @@ http://46.105.112.116/?watch=EX/beIN_NBA_HD-ar/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Boxnation |46
 http://46.105.112.116/?watch=EX/Boxnation-uk/index.m3u8?token=
 
-#EXTINF:-1 group-title="46/IN",BT SPORT 1HD |46
+#EXTINF:-1 tvg-id="bt.sport.1.uk" tvg-name="bt.sport.1.uk" group-title="46/IN",BT SPORT 1HD |46
 http://46.105.112.116/?watch=EX/BT_Sport_1_HD-uk/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",BT SPORT 2HD |46
+#EXTINF:-1 tvg-id="bt.sport.2.uk" tvg-name="bt.sport.2.uk" group-title="46/IN",BT SPORT 2HD |46
 http://46.105.112.116/?watch=EX/BT_Sport_2_HD-uk/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",BT SPORT 3HD |46
+#EXTINF:-1 tvg-id="bt.sport.3.uk" tvg-name="bt.sport.3.uk" group-title="46/IN",BT SPORT 3HD |46
 http://46.105.112.116/?watch=EX/BT_Sport_3_HD-uk/index.m3u8?token=
 http://46.105.112.116/?watch=EX/BT_Sport_ESPN_HD-uk/index.m3u8?token=
 
 CANAL+ SPORT2
 http://46.105.112.116/?watch=EX/canalplussport2hd-po/index.m3u8?token=
 
-#EXTINF:-1 group-title="46/IN",Channel 4 HD |46
+#EXTINF:-1 tvg-id="channel.4.uk" tvg-name="channel.4.uk" group-title="46/IN",Channel 4 HD |46
 http://46.105.112.116/?watch=EX/Channel_4_HD-uk/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Channel 5 HD |46
+#EXTINF:-1 tvg-id="channel.5.uk" tvg-name="channel.5.uk" group-title="46/IN",Channel 5 HD |46
 http://46.105.112.116/?watch=EX/Channel_5_HD-uk/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Eurosport 1HD |46
 http://46.105.112.116/?watch=EX/Eurosport_1_HD-uk/index.m3u8?token=
@@ -16783,34 +16783,36 @@ http://46.105.112.116/?watch=EX/setantasportshd-ru/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Setanta sports+
 http://46.105.112.116/?watch=EX/setantasportsplushd-ru/index.m3u8?token=
 
+#EXTINF:-1 tvg-id="sky.cinema.animation.uk" tvg-name="sky.cinema.animation.uk" group-title="46/IN",Sky Cinema Animation FHD |46
+http://46.105.112.116/?watch=EX/Sky_Cinema_Animation_FHD-uk/index.m3u8?token=
 http://46.105.112.116/?watch=EX/Sky_Cinema_Action_FHD-uk/index.m3u8?token= < N.A
-#EXTINF:-1 group-title="46/IN",Sky Cinema Comedy FHD |46
+#EXTINF:-1 tvg-id="sky.cinema.comedy.uk" tvg-name="sky.cinema.comedy.uk" group-title="46/IN",Sky Cinema Comedy FHD |46
 http://46.105.112.116/?watch=EX/Sky_Cinema_Comedy_FHD-uk/index.m3u8?token=
 http://46.105.112.116/?watch=EX/Sky_Cinema_Disney_FHD-uk < N.A
 http://46.105.112.116/?watch=EX/Sky_Cinema_Family_FHD-uk < N.A
 http://46.105.112.116/?watch=EX/Sky_Cinema_Greats_FHD-uk < N.A
-#EXTINF:-1 group-title="46/IN",Sky Cinema Hits FHD |46
+#EXTINF:-1 tvg-id="sky.cinema.hits.uk" tvg-name="sky.cinema.hits.uk" group-title="46/IN",Sky Cinema Hits FHD |46
 http://46.105.112.116/?watch=EX/Sky_Cinema_Hits_FHD-uk/index.m3u8?token=
 http://46.105.112.116/?watch=EX/Sky_Cinema_Premier_FHD-uk < N.A
 http://46.105.112.116/?watch=EX/Sky_Cinema_Romance_FHD-uk < N.A
-#EXTINF:-1 group-title="46/IN",Sky Cinema Select FHD |46
+#EXTINF:-1 tvg-id="sky.cinema.select.uk" tvg-name="sky.cinema.select.uk" group-title="46/IN",Sky Cinema Select FHD |46
 http://46.105.112.116/?watch=EX/Sky_Cinema_Select_FHD-uk/index.m3u8?token=
 http://46.105.112.116/?watch=EX/Sky_Cinema_Thriller_FHD-uk < N.A
 
-#EXTINF:-1 group-title="46/IN",Sky Cinema Action HD |46
-http://46.105.112.116/?watch=EX/Sky_Cinema_Action_HD-uk/index.m3u8?token= 
-#EXTINF:-1 group-title="46/IN",Sky Cinema Comedy HD |46
+#EXTINF:-1 tvg-id="sky.cinema.action.uk" tvg-name="sky.cinema.action.uk" group-title="46/IN",Sky Cinema Action HD |46
+http://46.105.112.116/?watch=EX/Sky_Cinema_Action_HD-uk/index.m3u8?token=
+#EXTINF:-1 tvg-id="sky.cinema.comedy.uk" tvg-name="sky.cinema.comedy.uk" group-title="46/IN",Sky Cinema Comedy HD |46
 http://46.105.112.116/?watch=EX/Sky_Cinema_Comedy_HD-uk/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Sky Cinema Disney HD |46
 http://46.105.112.116/?watch=EX/Sky_Cinema_Disney_HD-uk/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Sky Cinema Family HD |46
 http://46.105.112.116/?watch=EX/Sky_Cinema_Family_HD-uk/index.m3u8?token=
 http://46.105.112.116/?watch=EX/Sky_Cinema_Greats_HD-uk < N.A
-#EXTINF:-1 group-title="46/IN",Sky Cinema Hits HD |46
+#EXTINF:-1 tvg-id="sky.cinema.hits.uk" tvg-name="sky.cinema.hits.uk" group-title="46/IN",Sky Cinema Hits HD |46
 http://46.105.112.116/?watch=EX/Sky_Cinema_Hits_HD-uk/index.m3u8?token=
 http://46.105.112.116/?watch=EX/Sky_Cinema_Premier_HD-uk < N.A
 http://46.105.112.116/?watch=EX/Sky_Cinema_Romance_HD-uk < N.A
-#EXTINF:-1 group-title="46/IN",Sky Cinema Select HD |46
+#EXTINF:-1 tvg-id="sky.cinema.select.uk" tvg-name="sky.cinema.select.uk" group-title="46/IN",Sky Cinema Select HD |46
 http://46.105.112.116/?watch=EX/Sky_Cinema_Select_HD-uk/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Sky Cinema Thriller HD |46
 http://46.105.112.116/?watch=EX/Sky_Cinema_Thriller_HD-uk/index.m3u8?token=
@@ -16832,13 +16834,13 @@ http://46.105.112.116/?watch=EX/Sky_Sports_Arena_FHD-uk/index.m3u8?token=
 http://46.105.112.116/?watch=EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Sky Sports F1 HD |46
 http://46.105.112.116/?watch=EX/Sky_Sports_F1_HD-uk/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Sky Sports Football FHD |46
+#EXTINF:-1 tvg-id="lvupvmnk.ss" tvg-name="lvupvmnk.ss" group-title="46/IN",Sky Sports Football FHD |46
 http://46.105.112.116/?watch=EX/Sky_Sports_Football_FHD-uk/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Sky Sports Football HD |46
+#EXTINF:-1 tvg-id="lvupvmnk.ss" tvg-name="lvupvmnk.ss" group-title="46/IN",Sky Sports Football HD |46
 http://46.105.112.116/?watch=EX/Sky_Sports_Football_HD-uk/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",sky sports mainevent' |46
+#EXTINF:-1 tvg-id="eppvjpkd.ss" tvg-name="eppvjpkd.ss" group-title="46/IN",sky sports mainevent' |46
 http://46.105.112.116/?watch=EX/Sky_Sports_Main_Event_FHD-uk/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",sky sports mainevent |46
+#EXTINF:-1 tvg-id="eppvjpkd.ss" tvg-name="eppvjpkd.ss" group-title="46/IN",sky sports mainevent |46
 http://46.105.112.116/?watch=EX/Sky_Sports_Main_Event_HD-uk/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",sky sports mix |46
 http://46.105.112.116/?watch=EX/Sky_Sports_Mix_HD-uk/index.m3u8?token=
@@ -16847,7 +16849,7 @@ http://46.105.112.116/?watch=EX/Sky_Sports_News_FHD-uk/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Sky Sports News HD |46
 http://46.105.112.116/?watch=EX/Sky_Sports_News_HD-uk/index.m3u8?token=
 http://46.105.112.116/?watch=EX/Sky_Sports_NFL_HD-uk/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Sky Sports Premier League FHD |46
+#EXTINF:-1 tvg-id="diiefbxx.ss" tvg-name="diiefbxx.ss" group-title="46/IN",Sky Sports Premier League FHD |46
 http://46.105.112.116/?watch=EX/Sky_Sports_Premier_League_FHD-uk/index.m3u8?token=
 
 http://46.105.112.116/?watch=EX/skysportboxinghd-uk < DOWN
