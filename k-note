@@ -3881,35 +3881,35 @@ http://27.254.130.62/feed/chboomberang/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="31.220",DAZN 1IT
 http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
-#EXTINF:-1,DAZN 2IT
+#EXTINF:-1 group-title="31.220",DAZN 2IT
 http://31.220.41.87:8081/live/it-dazn2.stream/chunks.m3u8
-#EXTINF:-1,beIN LaLiga
+#EXTINF:-1 group-title="31.220",beIN LaLiga
 http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
-#EXTINF:-1,beIN ES
+#EXTINF:-1 group-title="31.220",beIN ES
 http://31.220.41.87:8081/live/es-bein.stream/playlist.m3u8
-#EXTINF:-1,beIN 1SD
+#EXTINF:-1 group-title="31.220",beIN 1SD
 http://31.220.41.87:8081/live/bein1.stream/playlist.m3u8
-#EXTINF:-1,beIN 2SD
+#EXTINF:-1 group-title="31.220",beIN 2SD
 http://31.220.41.87:8081/live/bein2.stream/playlist.m3u8
-#EXTINF:-1,beIN 3SD
+#EXTINF:-1 group-title="31.220",beIN 3SD
 http://31.220.41.87:8081/live/bein3.stream/playlist.m3u8
-#EXTINF:-1,beIN 4SD
+#EXTINF:-1 group-title="31.220",beIN 4SD
 http://31.220.41.87:8081/live/bein4.stream/playlist.m3u8
-#EXTINF:-1,beIN 5SD
+#EXTINF:-1 group-title="31.220",beIN 5SD
 http://31.220.41.87:8081/live/bein5.stream/playlist.m3u8
-#EXTINF:-1,beIN 6SD
+#EXTINF:-1 group-title="31.220",beIN 6SD
 http://31.220.41.87:8081/live/bein6.stream/playlist.m3u8
-#EXTINF:-1,beIN 7SD
+#EXTINF:-1 group-title="31.220",beIN 7SD
 http://31.220.41.87:8081/live/bein7.stream/playlist.m3u8
-#EXTINF:-1,beIN 8SD
+#EXTINF:-1 group-title="31.220",beIN 8SD
 http://31.220.41.87:8081/live/bein8.stream/playlist.m3u8
-#EXTINF:-1,beIN 9SD
+#EXTINF:-1 group-title="31.220",beIN 9SD
 http://31.220.41.87:8081/live/bein9.stream/playlist.m3u8
-#EXTINF:-1,beIN 10SD
+#EXTINF:-1 group-title="31.220",beIN 10SD
 http://31.220.41.87:8081/live/bein10.stream/playlist.m3u8
-#EXTINF:-1,beIN 1FR
+#EXTINF:-1 group-title="31.220",beIN 1FR
 http://31.220.41.90:8081/live/fr-beinsport1.stream/playlist.m3u8
-#EXTINF:-1,beIN 2FR
+#EXTINF:-1 group-title="31.220",beIN 2FR
 http://31.220.41.90:8081/live/fr-beinsport2.stream/playlist.m3u8
 #EXTINF:-1 group-title="31.220",beIN 3FR
 http://31.220.41.90:8081/live/fr-beinsport3.stream/playlist.m3u8
