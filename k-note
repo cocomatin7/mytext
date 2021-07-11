@@ -3149,8 +3149,6 @@ ER http://27.254.130.62/feed/LC59/index.m3u8
 http://27.254.130.62/feed/chboomberang/tracks-v1a1/mono.m3u8
 
 
-
-
 + + + http://31.220.41.87:8081 + + +
 
 #EXTINF:-1 group-title="31.220",DAZN 1IT
@@ -3190,7 +3188,7 @@ http://31.220.41.90:8081/live/fr-beinsport3.stream/playlist.m3u8
 
 + + + https://paste.in/fTsoqB + + +
 
-#EXTINF:-1 group-title="Sport/Bamar",beIN SPORT 1 |31
+#EXTINF:-1 group-title="31.220",beIN SPORT 1 |31
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 #EXTINF:-1,beIN SPORT 2 |31
 http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
@@ -3212,7 +3210,7 @@ http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
 http://31.220.41.88:8081/live/bein10.stream/playlist.m3u8
 #EXTINF:-1,beIN SPORT 11 |31
 http://31.220.41.88:8081/live/bein11.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport/Bamar",beIN SPORT 12 |31
+#EXTINF:-1 group-title="31.220",beIN SPORT 12 |31
 http://31.220.41.88:8081/live/bein12.stream/playlist.m3u8
 
 http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
