@@ -4871,6 +4871,34 @@ http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
 http://77.83.117.60:8888/sumrujlok_goodtv/chunklist.m3u8
 https://www.live77.83s.com/02_2sporthd2_720p/chunklist.m3u8
 
++ + + + + 159.192.73.198:1072 + + + + +
+
+#EXTINF:-1 group-title="159.192",HI NEWS
+http://159.192.73.198:1072/hinews
+#EXTINF:-1,IZAA
+http://159.192.73.198:1072/izaa
+#EXTINF:-1,H CHANNEL
+http://159.192.73.198:1072/hchannel
+#EXTINF:-1,HISPORT
+http://159.192.73.198:1072/hisport
+#EXTINF:-1,W ANIMAL
+http://159.192.73.198:1072/wanimal
+#EXTINF:-1 group-title="159.192",TOP FIGHT
+http://159.192.73.198:1072/topfight
+#EXTINF:-1 group-title="159.192",ASTRO 4
+http://159.192.73.198:1072/astro4
+#EXTINF:-1,EURONEWS
+http://159.192.73.198:1072/euronews
+#EXTINF:-1,GOLF
+http://159.192.73.198:1072/golf
+#EXTINF:-1 group-title="159.192",*FOX SPORTS 1
+http://159.192.73.198:1072/foxsport1
+#EXTINF:-1 group-title="159.192",*FOX SPORTS 2
+http://159.192.73.198:1072/foxsport2
+#EXTINF:-1 group-title="159.192",*FOX SPORTS 3
+http://159.192.73.198:1072/foxsport3
+
+
 + + + + + http://14.192.144.7:8000/ < PK + + not play 
 
 https://ritesh.ch/miniproxy/miniproxy.php/http://14.192.144.14:8000/play/a0mt/index.m3u8
@@ -6819,7 +6847,6 @@ http://103.153.39.34:8000/play/a06h/index.m3u8
 + + + + + http://109.193.229.153:9981/extjs.html + + + + + DE sky + + + DOWN
 
 
-
 + + + + + http://116.204.181.238:9981/extjs.html + + + + +
 
 #EXTINF:-1 group-title="116.204/TH",SKynet sport HD
@@ -7681,32 +7708,6 @@ http://144.48.122.22:9981/stream/channelid/1404082820
 #EXTINF:-1 group-title="144.48/IN",VH1
 http://144.48.122.22:9981/stream/channelid/1792209309
 
-+ + + + + 159.192.73.198:1072 + + + + +
-
-#EXTINF:-1 group-title="159.192",HI NEWS
-http://159.192.73.198:1072/hinews
-#EXTINF:-1,IZAA
-http://159.192.73.198:1072/izaa
-#EXTINF:-1,H CHANNEL
-http://159.192.73.198:1072/hchannel
-#EXTINF:-1,HISPORT
-http://159.192.73.198:1072/hisport
-#EXTINF:-1,W ANIMAL
-http://159.192.73.198:1072/wanimal
-#EXTINF:-1 group-title="159.192",TOP FIGHT
-http://159.192.73.198:1072/topfight
-#EXTINF:-1 group-title="159.192",ASTRO 4
-http://159.192.73.198:1072/astro4
-#EXTINF:-1,EURONEWS
-http://159.192.73.198:1072/euronews
-#EXTINF:-1,GOLF
-http://159.192.73.198:1072/golf
-#EXTINF:-1 group-title="159.192",*FOX SPORTS 1
-http://159.192.73.198:1072/foxsport1
-#EXTINF:-1 group-title="159.192",*FOX SPORTS 2
-http://159.192.73.198:1072/foxsport2
-#EXTINF:-1 group-title="159.192",*FOX SPORTS 3
-http://159.192.73.198:1072/foxsport3
 
 + + + + + http://167.172.33.223:9981/extjs.html + + + + + Viasat/ Canal+/ RMC beIN
 
