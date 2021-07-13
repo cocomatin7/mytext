@@ -6,11 +6,25 @@ x-tvg-url="https://guidexl.tv4.live/"
 
 http://209.145.63.229:25461/Alking/Plus/1
 
+http://209.145.63.229:25461/get.php?username=Alking&password=Plus&type=m3u
+Real Url: 209.145.63.229:25461     Status: Active    Created: 22/5/2021 2:58:41 PM     Expires: Null    Active Connections: 3     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
+
+https://my.odtv.uk:443/get.php?username=9186897972&password=4075991752&type=m3u
+Real Url: my.odtv.uk:80     Status: Active    Created: 19/5/2021 10:27:16 AM     Expires: 8/1/2022 4:31:48 AM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp" < SEA CH
+
 ZEE WORLD
 https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
 
+http://tigeriptv.vip:8080/get.php?username=600&password=600&type=m3u
+Real Url: sonyiptv.net:8080     Status: Active    Created: 4/6/2021 1:35:48 PM     Expires: 5/9/2021 1:35:00 PM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://tigeriptv.vip:8080/get.php?username=6162&password=6162&type=m3u
+Real Url: sonyiptv.net:8080     Status: Active    Created: 19/5/2021 7:58:16 AM     Expires: 19/8/2021 7:58:16 AM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://tigeriptv.vip:8080/get.php?username=500&password=500&type=m3u
+Real Url: sonyiptv.net:8080     Status: Active    Created: 6/7/2021 10:11:45 AM     Expires: 6/8/2021 10:11:45 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
 http://top.funtogether.xyz:8080/get.php?username=tomasiptv2021&password=hgHgyhg12hsgZX&type=m3u
 Real Url: top.funtogether.xyz:8080     Status: Active    Created: 6/5/2020 9:39:37 AM     Expires: Null    Active Connections: 646     Maximum Connections: 1000     Formats: "ts"
@@ -17785,7 +17799,7 @@ http://51.178.220.156/?watch=EX/bein10sd-ar/index.m3u8?token=
 #EXTINF:-1 tvg-id="beINSports11.qa" tvg-name="beINSports11.qa" group-title="46/IN",beIN SPORT 1EN |51
 http://51.178.220.156/?watch=EX/bein11hd-ar/index.m3u8?token=
 http://51.178.220.156/?watch=EX/bein11sd-ar/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",beIN SPORT 2EN |51
+#EXTINF:-1 tvg-id="beINSports12.qa" tvg-name="beINSports12.qa" group-title="46/IN",beIN SPORT 2EN |51
 http://51.178.220.156/?watch=EX/bein12hd-ar/index.m3u8?token=
 http://51.178.220.156/?watch=EX/bein12sd-ar/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",beIN SPORT 3EN |51
