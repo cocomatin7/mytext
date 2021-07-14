@@ -20294,67 +20294,67 @@ Real Url: 51.91.73.99:25461     Status: Active    Created: 30/5/2020 8:38:00 AM 
 #EXTINF:-1 group-title="51.91",US: MTV 2 HD |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
 http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/18077.m3u8
-#EXTINF:-1,US: MTV CLASSIC |51
+#EXTINF:-1 group-title="51.91",US: MTV CLASSIC |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18078&type=hls
-#EXTINF:-1,US: MTV EAST |51
+#EXTINF:-1 group-title="51.91",US: MTV EAST |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18080&type=hls
-#EXTINF:-1,US: MTV FHD |51
+#EXTINF:-1 group-title="51.91",US: MTV FHD |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18081&type=hls
-#EXTINF:-1,US: MTV Latino HD |51
+#EXTINF:-1 group-title="51.91",US: MTV Latino HD |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18082&type=hls
-#EXTINF:-1,US: MTV Live HD |51
+#EXTINF:-1 group-title="51.91",US: MTV Live HD |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18083&type=hls
-#EXTINF:-1,US: Music Choice - Dance EDM |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - Dance EDM |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18086&type=hls
-#EXTINF:-1,US: Music Choice - Hip-Hop R&B |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - Hip-Hop R&B |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18088&type=hls
-#EXTINF:-1,US: Music Choice - HIT LIST |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - HIT LIST |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18090&type=hls
-#EXTINF:-1,US: Music Choice - Indie |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - Indie |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18092&type=hls
-#EXTINF:-1,US: Music Choice - KIDZ BOP |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - KIDZ BOP |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18094&type=hls
-#EXTINF:-1,US: Music Choice - Kidz Only |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - Kidz Only |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18096&type=hls
-#EXTINF:-1,US: Music Choice - Mexicana |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - Mexicana |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18098&type=hls
-#EXTINF:-1,US: Music Choice - MUSICA URBANA |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - MUSICA URBANA |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18100&type=hls
-#EXTINF:-1,US: Music Choice - Pop & Country |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - Pop & Country |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18102&type=hls
-#EXTINF:-1,US: Music Choice - Pop Hits |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - Pop Hits |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18104&type=hls
-#EXTINF:-1,US: Music Choice - POP LATINO |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - POP LATINO |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18106&type=hls
-#EXTINF:-1,US: Music Choice - R&B Soul |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - R&B Soul |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18108&type=hls
-#EXTINF:-1,US: Music Choice - Rap |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - Rap |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18110&type=hls
-#EXTINF:-1,US: Music Choice - Rap 2K HD |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - Rap 2K HD |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18112&type=hls
-#EXTINF:-1,US: Music Choice - TEEN BEATS |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - TEEN BEATS |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18114&type=hls
-#EXTINF:-1,US: Music Choice - THROWBACK JAMZ |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - THROWBACK JAMZ |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18116&type=hls
-#EXTINF:-1,US: Music Choice - Todays Country |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - Todays Country |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18118&type=hls
-#EXTINF:-1,US: Music Choice - TODAYS COUNTRY CMA AWARDS |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - TODAYS COUNTRY CMA AWARDS |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18120&type=hls
-#EXTINF:-1,US: Music Choice - Tropicales |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - Tropicales |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18122&type=hls
-#EXTINF:-1,US: Music Choice - Y2K |51
+#EXTINF:-1 group-title="51.91",US: Music Choice - Y2K |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18124&type=hls
-#EXTINF:-1,US: MUSIC Choice 90S |51
+#EXTINF:-1 group-title="51.91",US: MUSIC Choice 90S |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18126&type=hls
-#EXTINF:-1,US: MUSIC Choice Alternative |51
+#EXTINF:-1 group-title="51.91",US: MUSIC Choice Alternative |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18127&type=hls
-#EXTINF:-1,US: MUSIC CHOICE BRITS & HITS |51
+#EXTINF:-1 group-title="51.91",US: MUSIC CHOICE BRITS & HITS |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18128&type=hls
-#EXTINF:-1,US: Music Choice Country |51
+#EXTINF:-1 group-title="51.91",US: Music Choice Country |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18130&type=hls
-#EXTINF:-1,US: Music Choice Rock |51
+#EXTINF:-1 group-title="51.91",US: Music Choice Rock |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18132&type=hls
-#EXTINF:-1,US: Music Choice Trowback Jamz |51
+#EXTINF:-1 group-title="51.91",US: Music Choice Trowback Jamz |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18134&type=hls
 #EXTINF:-1 group-title="51.91",US: Music Choince - HIT LIST |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18136&type=hls
@@ -20381,49 +20381,49 @@ http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livet
 
 #EXTINF:-1 group-title="62.182",UK: SKY CINEMA PREMIERE |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=1
-#EXTINF:-1,UK: SKY CINEMA ACTION |62
+#EXTINF:-1 group-title="62.182",UK: SKY CINEMA ACTION |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=2
-#EXTINF:-1,UK: SKY CINEMA CRIME & THRILLER |62
+#EXTINF:-1 group-title="62.182",UK: SKY CINEMA CRIME & THRILLER |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=3
-#EXTINF:-1,UK: SKY CINEMA FAMILY |62
+#EXTINF:-1 group-title="62.182",UK: SKY CINEMA FAMILY |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=4
-#EXTINF:-1,UK: SKY CINEMA DISNEY |62
+#EXTINF:-1 group-title="62.182",UK: SKY CINEMA DISNEY |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=5
-#EXTINF:-1,UK: SKY CINEMA DRAMA & ROMANCE |62
+#EXTINF:-1 group-title="62.182",UK: SKY CINEMA DRAMA & ROMANCE |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=6
-#EXTINF:-1,UK: SKY CINEMA SCIFI & HORROR |62
+#EXTINF:-1 group-title="62.182",UK: SKY CINEMA SCIFI & HORROR |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=7
-#EXTINF:-1,UK: SKY CINEMA COMEDY |62
+#EXTINF:-1 group-title="62.182",UK: SKY CINEMA COMEDY |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=8
-#EXTINF:-1,UK: BT SPORT 1 |62
+#EXTINF:-1 group-title="62.182",UK: BT SPORT 1 |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=12
-#EXTINF:-1,UK: BT SPORT 2 |62
+#EXTINF:-1 group-title="62.182",UK: BT SPORT 2 |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=13
-#EXTINF:-1,UK: BT SPORT 3 |62
+#EXTINF:-1 group-title="62.182",UK: BT SPORT 3 |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=52
-#EXTINF:-1,UK: SKY SPORTS RACING |62
+#EXTINF:-1 group-title="62.182",UK: SKY SPORTS RACING |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=16
-#EXTINF:-1,UK: SKY SPORTS NEWS |62
+#EXTINF:-1 group-title="62.182",UK: SKY SPORTS NEWS |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=17
-#EXTINF:-1,UK: SKY SPORTS GOLF |62
+#EXTINF:-1 group-title="62.182",UK: SKY SPORTS GOLF |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=19
-#EXTINF:-1,UK: SKY SPORTS F1 |62
+#EXTINF:-1 group-title="62.182",UK: SKY SPORTS F1 |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=20
-#EXTINF:-1,UK: SKY SPORTS CRICKET |62
+#EXTINF:-1 group-title="62.182",UK: SKY SPORTS CRICKET |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=21
-#EXTINF:-1,UK: BEIN SPORT 11 (ENGLISH ) |62
+#EXTINF:-1 group-title="62.182",UK: BEIN SPORT 11 (ENGLISH ) |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=22
-#EXTINF:-1,UK: BEIN SPORT 12 (ENGLISH) |62
+#EXTINF:-1 group-title="62.182",UK: BEIN SPORT 12 (ENGLISH) |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=23
-#EXTINF:-1,UK: BEIN SPORT 13 (ENGLISH) |62
+#EXTINF:-1 group-title="62.182",UK: BEIN SPORT 13 (ENGLISH) |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=24
-#EXTINF:-1,US: HBO |62
+#EXTINF:-1 group-title="62.182",US: HBO |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=39
-#EXTINF:-1,US: SHOWTIME |62
+#EXTINF:-1 group-title="62.182",US: SHOWTIME |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=40
-#EXTINF:-1,US: STARZ |62
+#EXTINF:-1 group-title="62.182",US: STARZ |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=41
-#EXTINF:-1,US: SONY MOVIE CHANNEL |62
+#EXTINF:-1 group-title="62.182",US: SONY MOVIE CHANNEL |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=42
 #EXTINF:-1 group-title="62.182",US: EPIX HITS |62
 http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=43
@@ -20495,62 +20495,62 @@ http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=sta
 
 #EXTINF:-1 group-title="144.76",UK_SKY_Sports_Football |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=162
-#EXTINF:-1,UK_SKY_Sports_Main_Event |144
+#EXTINF:-1 group-title="144.76",UK_SKY_Sports_Main_Event |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=163
-#EXTINF:-1,UK_SKY_Sports_Mix |144
+#EXTINF:-1 group-title="144.76",UK_SKY_Sports_Mix |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=164
-#EXTINF:-1,UK_SKY_Sports_News |144
+#EXTINF:-1 group-title="144.76",UK_SKY_Sports_News |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=165
-#EXTINF:-1,UK_SKY_Sports_Premier_League |144
+#EXTINF:-1 group-title="144.76",UK_SKY_Sports_Premier_League |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=166
-#EXTINF:-1,BT SPORT 1 |144
+#EXTINF:-1 group-title="144.76",BT SPORT 1 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=211
-#EXTINF:-1,BT Sport 2 |144
+#EXTINF:-1 group-title="144.76",BT Sport 2 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=82
-#EXTINF:-1,BT Sport 3 |144
+#EXTINF:-1 group-title="144.76",BT Sport 3 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=83
 
-#EXTINF:-1,FR_Bein_Sports_1 |144
+#EXTINF:-1 group-title="144.76",FR_Bein_Sports_1 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=139
-#EXTINF:-1,FR_Bein_Sports_2 |144
+#EXTINF:-1 group-title="144.76",FR_Bein_Sports_2 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=138
-#EXTINF:-1,FR_Bein_Sports_3 |144
+#EXTINF:-1 group-title="144.76",FR_Bein_Sports_3 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=137
-#EXTINF:-1,AR_Bein_Sports_1 |144
+#EXTINF:-1 group-title="144.76",AR_Bein_Sports_1 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=149
-#EXTINF:-1,AR_Bein_Sports_2 |144
+#EXTINF:-1 group-title="144.76",AR_Bein_Sports_2 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=147
-#EXTINF:-1,AR_Bein_Sports_8 |144
+#EXTINF:-1 group-title="144.76",AR_Bein_Sports_8 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=141
-#EXTINF:-1,AR_Bein_Sports_9 |144
+#EXTINF:-1 group-title="144.76",AR_Bein_Sports_9 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=140
-#EXTINF:-1,AR_Bein_Sports_10 |144
+#EXTINF:-1 group-title="144.76",AR_Bein_Sports_10 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=148
-#EXTINF:-1,AR_Bein_Sports_11 |144
+#EXTINF:-1 group-title="144.76",AR_Bein_Sports_11 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=186
-#EXTINF:-1,AR_Bein_Sports_12 |144
+#EXTINF:-1 group-title="144.76",AR_Bein_Sports_12 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=187
-#EXTINF:-1,AR_Bein_Sports_13 |144
+#EXTINF:-1 group-title="144.76",AR_Bein_Sports_13 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=188
-#EXTINF:-1,PT_Sport_TV_1 |144
+#EXTINF:-1 group-title="144.76",PT_Sport_TV_1 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=189
-#EXTINF:-1,PT_Sport_TV_2 |144
+#EXTINF:-1 group-title="144.76",PT_Sport_TV_2 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=190
-#EXTINF:-1,PT_Sport_TV_3 |144
+#EXTINF:-1 group-title="144.76",PT_Sport_TV_3 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=191
-#EXTINF:-1,PT_Sport_TV_4 |144
+#EXTINF:-1 group-title="144.76",PT_Sport_TV_4 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=192
-#EXTINF:-1,PT_Sport_TV_5 |144
+#EXTINF:-1 group-title="144.76",PT_Sport_TV_5 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=193
-#EXTINF:-1,MTV_Base |144
+#EXTINF:-1 group-title="144.76",MTV_Base |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=205
-#EXTINF:-1,VH1_Classic |144
+#EXTINF:-1 group-title="144.76",VH1_Classic |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=206
-#EXTINF:-1,VH1 |144
+#EXTINF:-1 group-title="144.76",VH1 |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=207
-#EXTINF:-1,MTV_Hits |144
+#EXTINF:-1 group-title="144.76",MTV_Hits |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=208
-#EXTINF:-1,MTV_80s |144
+#EXTINF:-1 group-title="144.76",MTV_80s |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=209
 #EXTINF:-1 group-title="144.76",MTV_Classic |144
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=210
@@ -20627,10 +20627,10 @@ http://191.243.149.178:25461/get.php?username=SNEAKER_Black&password=ZANA-is-fre
 Real Url: 191.243.149.178:25461     Status: Active    Created: 13/6/2021 11:28:53 AM     Expires: 12/7/2021 11:00:00 PM    Active Connections: 0     Maximum Connections: 200     Formats: "m3u8","ts","rtmp" < DOWN
 
 http://191.243.149.178:25461/get.php?username=SNEAKER_Black&password=ZANA-is-freeEE&type=m3u
-Real Url: 191.243.149.178:25461     Status: Active    Created: 13/6/2021 11:28:53 AM     Expires: 12/7/2021 11:00:00 PM    Active Connections: 16     Maximum Connections: 300     Formats: "m3u8","ts" << 
+Real Url: 191.243.149.178:25461     Status: Active    Created: 13/6/2021 11:28:53 AM     Expires: 12/7/2021 11:00:00 PM    Active Connections: 16     Maximum Connections: 300     Formats: "m3u8","ts" < DOWN
 
 http://191.243.149.178:25461/get.php?username=ZANA&password=IPTV&type=m3u
-Real Url: 191.243.149.178:25461     Status: Active    Created: 21/5/2021 9:29:19 PM     Expires: 21/7/2021 11:00:00 PM    Active Connections: 14     Maximum Connections: 3000     Formats: "m3u8","ts","rtmp"
+Real Url: 191.243.149.178:25461     Status: Active    Created: 21/5/2021 9:29:19 PM     Expires: 21/7/2021 11:00:00 PM    Active Connections: 14     Maximum Connections: 3000     Formats: "m3u8","ts","rtmp" < DOWN
 
 http://191.243.149.178:25461/get.php?username=ZANA&password=GOOD&type=m3u
 Real Url: 191.243.149.178:25461     Status: Active    Created: 21/5/2021 9:29:19 PM     Expires: 20/5/2025 11:00:00 PM    Active Connections: 0     Maximum Connections: 100000     Formats: "m3u8","ts","rtmp" < DOWN?
@@ -20640,196 +20640,6 @@ Real Url: 191.243.149.178:25461     Status: Active    Created: 13/6/2021 11:28:5
 
 http://191.243.149.178:25461/get.php?username=ASMTV&password=iptv&type=m3u
 Real Url: 191.243.149.178:25461     Status: Active    Created: 24/6/2021 10:11:02 PM     Expires: 23/7/2021 11:00:00 PM    Active Connections: 3     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp" < few sports channels
-
-
-#EXTINF:-1 group-title="191.243",BEIN SPORTS 6HD
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3191.m3u8
-#EXTINF:-1,fr-beinmax6
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3209.m3u8
-#EXTINF:-1,fr-beinmax7
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3210.m3u8
-#EXTINF:-1,BeIN SPORT 1 HD
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3474.m3u8
-#EXTINF:-1,BEIN SPORT MAX 1 H265.
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3229.m3u8
-#EXTINF:-1,BEIN SPORT MAX 2 H265.
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3230.m3u8
-#EXTINF:-1,BEIN SPORT MAX 3 H265.
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3913.m3u8
-#EXTINF:-1,BEIN SPORT MAX 4 H265.
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3776.m3u8
-#EXTINF:-1,BEIN SPORT MAX 5 H265.
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3192.m3u8
-#EXTINF:-1,beIN_SPORTS_1_4k
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3461.m3u8
-#EXTINF:-1,beIN SPORTS MAX 1 4k.
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3582.m3u8
-#EXTINF:-1,beIN SPORTS MAX 2 4k.
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3584.m3u8
-#EXTINF:-1,beIN SPORTS MAX 3 4K.
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3585.m3u8
-#EXTINF:-1,Bein SPORTS MAX 4  4k.
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3581.m3u8
-#EXTINF:-1,beIN_SPORTS_2 Premium 4k
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3458.m3u8
-#EXTINF:-1,BeIN Max HD 3
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3409.m3u8
-#EXTINF:-1,BeIN Max HD 4
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3410.m3u8
-#EXTINF:-1,BeIN Max HD 5
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3412.m3u8
-#EXTINF:-1,BeIN Max HD 5
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3411.m3u8
-#EXTINF:-1,beIN_SPORTS_1 Premium_512k
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3424.m3u8
-#EXTINF:-1,beIN_SPORTS_1 Premium_Low
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3438.m3u8
-#EXTINF:-1,beIN_SPORTS_1 Premium_sd
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3432.m3u8
-#EXTINF:-1,beIN_SPORTS_1_hd
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3445.m3u8
-#EXTINF:-1,beIN_SPORTS_1_Low
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3441.m3u8
-#EXTINF:-1,beIN_SPORTS_1_Premium_hd
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3442.m3u8
-#EXTINF:-1,beIN_SPORTS_2 Premium_Low
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3439.m3u8
-#EXTINF:-1,beIN_SPORTS_2_hd
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3446.m3u8
-#EXTINF:-1,beIN_SPORTS_2_Premium_hd
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3443.m3u8
-#EXTINF:-1,beIN_SPORTS_3 Premium_Low
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3440.m3u8
-#EXTINF:-1,beIN_SPORTS_3_Premium_4k
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3457.m3u8
-#EXTINF:-1,beIN_SPORTS_3_Premium_hd
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3444.m3u8
-#EXTINF:-1,beIN_SPORTS_4_hd
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3448.m3u8
-#EXTINF:-1,beIN_SPORTS_5_hd
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3449.m3u8
-#EXTINF:-1,beIN_SPORTS_6_hd
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3450.m3u8
-#EXTINF:-1,beIN_SPORTS_6_sd
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3436.m3u8
-#EXTINF:-1,beIN_SPORTS_7_hd
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3451.m3u8
-#EXTINF:-1,fr-beinmax4
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3467.m3u8
-#EXTINF:-1,Bein Sport 1 ENG
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3662.m3u8
-#EXTINF:-1,Bein Sport 2 ENG
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3663.m3u8
-#EXTINF:-1,Bein Sport 1 Max 1M
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/2924.m3u8
-#EXTINF:-1,Bein Sport 2 Max 1M
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/2923.m3u8
-#EXTINF:-1,BeIN Max SD 1
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3397.m3u8
-#EXTINF:-1,BeIN Max SD 2
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3398.m3u8
-#EXTINF:-1,BeIN Max SD 3
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3399.m3u8
-#EXTINF:-1,BeIN Max SD 4
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3400.m3u8
-#EXTINF:-1,BeIN Max SD 5
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3401.m3u8
-#EXTINF:-1,Bein sport 4 MAX SD.
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3577.m3u8
-#EXTINF:-1,BEIN SPORT MAX 1 H265
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3402.m3u8
-#EXTINF:-1,BEIN SPORT MAX 1 HD
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3187.m3u8
-#EXTINF:-1,BEIN SPORT MAX 2 HD
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3216.m3u8
-#EXTINF:-1,Bein sport max 2 sd
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3576.m3u8
-#EXTINF:-1,BEIN SPORT MAX 3 HD
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3217.m3u8
-#EXTINF:-1,BEIN SPORT MAX 4 HD
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3218.m3u8
-#EXTINF:-1,BEIN SPORT MAX 5 HD
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3219.m3u8
-#EXTINF:-1,BEIN SPORT MAX 6 HD
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3220.m3u8
-#EXTINF:-1,BeIN Sport Max HD 6
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/2687.m3u8
-#EXTINF:-1,BeIN Sport Max HD 6
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3413.m3u8
-#EXTINF:-1,BeIN Sport Max SD 4
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/2937.m3u8
-#EXTINF:-1,BeIN SPORTS MAX 1 4K
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3221.m3u8
-#EXTINF:-1,beIN SPORTS MAX 1 SD
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3583.m3u8
-#EXTINF:-1,beIN SPORTS MAX 1 SD  
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/4080.m3u8
-#EXTINF:-1,Bein SPORTS MAX 2 H265
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3579.m3u8
-#EXTINF:-1,beIN SPORTS MAX 3 HD
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3580.m3u8
-#EXTINF:-1,BEIN SPORTS MAX5 SD.
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3453.m3u8
-#EXTINF:-1,bein_max1 1200k
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/2934.m3u8
-#EXTINF:-1,bein_max1 1200k
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/2931.m3u8
-#EXTINF:-1,bein_max 2  
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/2932.m3u8
-#EXTINF:-1,bein_max5 1200k
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/2933.m3u8
-#EXTINF:-1,beIN_SPORTS_1_sd
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3595.m3u8
-#EXTINF:-1,BEIN_SPORTS_MAX 1 fHD
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3454.m3u8
-#EXTINF:-1,FR: BEIN EURO (MAX4 )
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/4052.m3u8
-#EXTINF:-1,BEIN SPORT MAX 6 H265.
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3189.m3u8
-#EXTINF:-1,BeIN MAX 1 4K
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3481.m3u8
-#EXTINF:-1, beIN SPORT MAX 1  HD
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/4134.m3u8
-#EXTINF:-1,beIN Sports Max HD 1
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3208.m3u8
-#EXTINF:-1,Bein Sport 3 Max 1M
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/2922.m3u8
-#EXTINF:-1,Bein Sport 4 Max 1M
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/2921.m3u8
-#EXTINF:-1,BeIN Max SD 2
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3403.m3u8
-#EXTINF:-1,Bein Sport 5 Max 1M
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/2920.m3u8
-#EXTINF:-1,BeIN Max SD 3
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3404.m3u8
-#EXTINF:-1,BeIN Max SD 4
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3405.m3u8
-#EXTINF:-1,BeIN Max HD 1
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3406.m3u8
-#EXTINF:-1,BeIN Max HD 2
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3408.m3u8
-#EXTINF:-1,BeIN Max HD 2
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3407.m3u8
-
-#EXTINF:-1,skynetsport1_480p
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3684.m3u8
-#EXTINF:-1,skynetsport2_480p
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3685.m3u8
-#EXTINF:-1,skynetsport3_480p
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3686.m3u8
-#EXTINF:-1,skynetsport4_480p
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3687.m3u8
-#EXTINF:-1,skynetsport5_480p
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3688.m3u8
-#EXTINF:-1,skynetsport6_480p
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3689.m3u8
-
-#EXTINF:-1,SONY TEN 1
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3793.m3u8
-#EXTINF:-1,SONY TEN 2
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3794.m3u8
-#EXTINF:-1 group-title="191.243",SONY TEN 3
-http://191.243.149.178:25461/live/SNEAKER_Black/ZANA-is-freeEE/3795.m3u8
 
 
 + + + + + 195.154.156.91:80 + + + + + Null + + + + +
@@ -20874,25 +20684,25 @@ Real Url: 209.145.58.109:25461     Status: Active    Created: 31/5/2021 2:00:35 
 
 #EXTINF:-1 group-title="209.145",Bein Sports 1
 http://209.145.58.109:25461/omohaktv/App/19
-#EXTINF:-1,BEIN Sports 2
+#EXTINF:-1 group-title="209.145",BEIN Sports 2
 http://209.145.58.109:25461/omohaktv/App/20
-#EXTINF:-1,BEIN Sports 3
+#EXTINF:-1 group-title="209.145",BEIN Sports 3
 http://209.145.58.109:25461/omohaktv/App/21
-#EXTINF:-1,Bein Sports 4
+#EXTINF:-1 group-title="209.145",Bein Sports 4
 http://209.145.58.109:25461/omohaktv/App/22
-#EXTINF:-1,Bein Sports 5
+#EXTINF:-1 group-title="209.145",Bein Sports 5
 http://209.145.58.109:25461/omohaktv/App/23
-#EXTINF:-1,Bein Sports 6
+#EXTINF:-1 group-title="209.145",Bein Sports 6
 http://209.145.58.109:25461/omohaktv/App/24
-#EXTINF:-1,Bein Sports 7
+#EXTINF:-1 group-title="209.145",Bein Sports 7
 http://209.145.58.109:25461/omohaktv/App/25
-#EXTINF:-1,Sony ten 2
+#EXTINF:-1 group-title="209.145",Sony ten 2
 http://209.145.58.109:25461/omohaktv/App/72
-#EXTINF:-1,Sony ten 3
+#EXTINF:-1 group-title="209.145",Sony ten 3
 http://209.145.58.109:25461/omohaktv/App/73
-#EXTINF:-1,Fox Soccer sports 
+#EXTINF:-1 group-title="209.145",Fox Soccer sports 
 http://209.145.58.109:25461/omohaktv/App/78
-#EXTINF:-1,UFC us
+#EXTINF:-1 group-title="209.145",UFC us
 http://209.145.58.109:25461/omohaktv/App/80
 #EXTINF:-1 group-title="209.145",SUPERSPORT Variety 3
 http://209.145.58.109:25461/omohaktv/App/86
@@ -21030,7 +20840,6 @@ http://basic-iptvesun.com:8080/streaming/clients_live.php?extension=m3u8&usernam
 http://basic-iptvesun.com:8080/streaming/clients_live.php?extension=m3u8&username=carter&password=GUV1bMq2VK&stream=2520
 #EXTINF:-1 group-title="basic",FR: BEINSPORT MAX 10
 http://basic-iptvesun.com:8080/streaming/clients_live.php?extension=m3u8&username=carter&password=GUV1bMq2VK&stream=2521
-
 
 #EXTINF:-1 group-title="basic",UK: B4U Movies
 http://basic-iptvesun.com:8080/streaming/clients_live.php?extension=m3u8&username=carter&password=GUV1bMq2VK&stream=2850
