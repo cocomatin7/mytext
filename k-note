@@ -21969,85 +21969,85 @@ http://gesrv01.betstream.tv/get.php?username=YMnS21043v&password=PKd9ks5SLd&type
 + + + + + getwhitakertv.org:25461 + + + + + null + + + Max Con: 0
 
 http://getwhitakertv.org:25461/get.php?username=23763235&password=36984944&type=m3u
-Real Url: getwhitakertv.org:25461     Status: Active    Created: 31/10/2020 4:00:00 AM     Expires: Null    Active Connections: 1     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
+Real Url: getwhitakertv.org:25461     Status: Active    Created: 31/10/2020 4:00:00 AM     Expires: Null    Active Connections: 3     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
 
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=15452&type=hls
 
 #EXTINF:-1 group-title="getwhi",MTV 2 HD
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=306
-#EXTINF:-1,MTV Classic
+#EXTINF:-1 group-title="getwhi",MTV Classic
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=420
-#EXTINF:-1,MTV Hits
+#EXTINF:-1 group-title="getwhi",MTV Hits
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=393
-#EXTINF:-1,MTV Live
+#EXTINF:-1 group-title="getwhi",MTV Live
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=422
-#EXTINF:-1,MTV U HD
+#EXTINF:-1 group-title="getwhi",MTV U HD
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=421
-#EXTINF:-1,MTV HD
+#EXTINF:-1 group-title="getwhi",MTV HD
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=382
-#EXTINF:-1,NBCSN
+#EXTINF:-1 group-title="getwhi",NBCSN
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=947
-#EXTINF:-1,WWE Network
+#EXTINF:-1 group-title="getwhi",WWE Network
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=1023
-#EXTINF:-1,UFC Network
+#EXTINF:-1 group-title="getwhi",UFC Network
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=11420
-#EXTINF:-1,BBC World News
+#EXTINF:-1 group-title="getwhi",BBC World News
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=931
-#EXTINF:-1,Bloomberg HD
+#EXTINF:-1 group-title="getwhi",Bloomberg HD
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=925
 
-#EXTINF:-1,Sky Sports Action
+#EXTINF:-1 group-title="getwhi",Sky Sports Action
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=10628
-#EXTINF:-1,Sky Sports Arena
+#EXTINF:-1 group-title="getwhi",Sky Sports Arena
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=10629
-#EXTINF:-1,Sky Sports Cricket
+#EXTINF:-1 group-title="getwhi",Sky Sports Cricket
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=10630
-#EXTINF:-1,Sky Sports F1
+#EXTINF:-1 group-title="getwhi",Sky Sports F1
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=10631
-#EXTINF:-1,Sky Sports Football
+#EXTINF:-1 group-title="getwhi",Sky Sports Football
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=10632
-#EXTINF:-1,Sky Sports Golf
+#EXTINF:-1 group-title="getwhi",Sky Sports Golf
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=10633
-#EXTINF:-1,Sky Sports Mix
+#EXTINF:-1 group-title="getwhi",Sky Sports Mix
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=10635
-#EXTINF:-1,Sky Sports News
+#EXTINF:-1 group-title="getwhi",Sky Sports News
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=10636
-#EXTINF:-1,Sky Sports Racing
+#EXTINF:-1 group-title="getwhi",Sky Sports Racing
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=10638
 
-#EXTINF:-1,Tom Hanks Collection Part 3
+#EXTINF:-1 group-title="getwhi",Tom Hanks Collection Part 3
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=12575
 
-#EXTINF:-1,Tom Hanks Collection 1
+#EXTINF:-1 group-title="getwhi",Tom Hanks Collection 1
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=12581
-#EXTINF:-1,Tom Hanks Collection 2
+#EXTINF:-1 group-title="getwhi",Tom Hanks Collection 2
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=12576
-#EXTINF:-1,Fast & Furious Collection
+#EXTINF:-1 group-title="getwhi",Fast & Furious Collection
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=12910
-#EXTINF:-1,Bourne Collection
+#EXTINF:-1 group-title="getwhi",Bourne Collection
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=13088
 
-#EXTINF:-1,90S
+#EXTINF:-1 group-title="getwhi",90S
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3122
-#EXTINF:-1,Alternative HD
+#EXTINF:-1 group-title="getwhi",Alternative HD
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3123
-#EXTINF:-1,Brit Hits
+#EXTINF:-1 group-title="getwhi",Brit Hits
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3124
-#EXTINF:-1,Dance-EDM
+#EXTINF:-1 group-title="getwhi",Dance-EDM
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3125
-#EXTINF:-1,MC: HIP-HOP AND R&B
+#EXTINF:-1 group-title="getwhi",MC: HIP-HOP AND R&B
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3126
-#EXTINF:-1,Hit List
+#EXTINF:-1 group-title="getwhi",Hit List
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3127
-#EXTINF:-1,INDIE HD
+#EXTINF:-1 group-title="getwhi",INDIE HD
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3128
-#EXTINF:-1,Pop & Country
+#EXTINF:-1 group-title="getwhi",Pop & Country
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3132
-#EXTINF:-1,Pop Hits
+#EXTINF:-1 group-title="getwhi",Pop Hits
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3133
-#EXTINF:-1,R&B Soul
+#EXTINF:-1 group-title="getwhi",R&B Soul
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3134
-#EXTINF:-1,Rap 2000'S
+#EXTINF:-1 group-title="getwhi",Rap 2000'S
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3135
 #EXTINF:-1 group-title="getwhi",Rock HD
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3136
@@ -22075,18 +22075,7 @@ Real Url: goiptv.co:8080     Status: Active    Created: 7/5/2021 10:17:45 AM    
 + + + + + goiptv.life:8080 + + + + + 
 
 http://goiptv.life:8080/get.php?username=MALIS-FO&password=MZjFmAGWxvKKKKKKK&type=m3u
-Real Url: goiptv.life:8080     Status: Active    Created: 3/12/2020 9:19:03 AM     Expires: Null    Active Connections: 0     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp" < series only
-
-#EXTINF:-1,MY: AFN HD
-http://goiptv.life:8080/MALIS-FO/MZjFmAGWxvKKKKKKK/39398
-#EXTINF:-1,MY: WARNER TV
-http://goiptv.life:8080/MALIS-FO/MZjFmAGWxvKKKKKKK/39400
-#EXTINF:-1,MY: FOX Movies HD
-http://goiptv.life:8080/MALIS-FO/MZjFmAGWxvKKKKKKK/39428
-#EXTINF:-1,MY: FOX Action Movies
-http://goiptv.life:8080/MALIS-FO/MZjFmAGWxvKKKKKKK/39412
-#EXTINF:-1,MY: FOX Family Movies
-http://goiptv.life:8080/MALIS-FO/MZjFmAGWxvKKKKKKK/39414
+Real Url: goiptv.life:8080     Status: Active    Created: 3/12/2020 9:19:03 AM     Expires: Null    Active Connections: 0     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp" < series only < EMPTY
 
 
 + + + + + gooserace.xyz:2052 + + + + + 2/9/2021
@@ -22475,6 +22464,7 @@ http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&usern
 #EXTINF:-1 group-title="allkai",[SPO*] SuperSport Cricket
 http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3071
 
+
 + + + + + iptbest.xyz:8000 + + + + +
 
 http://iptbest.xyz:8000/get.php?username=wbigDMsuJH&password=GVb2JEpHHj&type=m3u
@@ -22496,9 +22486,11 @@ Real Url: iptv.icsnleb.com:25461     Status: Active    Created: 9/6/2032 7:38:08
 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
 
+
 + + + + + http://iptv.kitv.live:1935/live/Shari/MTV-P / Disabled + + + + +
 
 http://iptv.kitv.live:1935/get.php?username=Shari&password=MTV-P&type=m3u < null < 1-0 < not play
+
 
 + + + + + iptv.nonland.net:8080 + + + + +
 
@@ -22987,21 +22979,23 @@ Real Url: iptv.starhd.pk:8880     Status: Active    Created: 12/12/2020 2:42:53 
 
 http://iptv8.premium-stv.com:2052/get.php?username=SPORTPORTpro1&password=vgadJThhsjdfw33&type=m3u < N
 
+
 + + + + + iptvlink.ga:8888 + + + + + null / 100000-3
 
 http://iptvlink.ga:8888/get.php?username=nasvpn&password=prem&type=m3u&output=hls < null < 0-16 < DOWN?
 http://iptvlink.ga:8888/get.php?username=join&password=@iptvfreenet&type=m3u < N
 http://iptvlink.ga:8888/get.php?username=foruservpn&password=premiumonly&type=m3u < null < 0-0 < not play
 
+
 + + + + + iptvlogin + + + + +
 
 http://links.iptvlogin.com:80/get.php?username=tomaslineexchange&password=H69dbcR5673Sxz8d53&type=m3u < N
+
 
 + + + + + iptvnow.me:8080 + + + + +
 
 http://iptvnow.me:8080/get.php?username=dindin-3505&password=RAp0L4nWBm&type=m3u
 Real Url: iptvnow.me:8080     Status: Active    Created: 4/12/2020 7:22:20 AM     Expires: Null     Maximum Connections: 25     Formats: "m3u8","ts","rtmp"
-
 
 
 + + + + + iptvtree.net:8080 [SEA] + + + + +
@@ -23033,6 +23027,7 @@ Real Url: iptvtree.net:8080     Status: Active    Created: 6/11/2020 5:43:43 PM 
 
 https://jo.sarhantv.com:443/get.php?username=sarhanapp&password=wwe5151&type=m3u Real Url: jo.sarhantv.com:8880 Expires: Null    Active Connections: 2     Maximum Connections: 0 < N
 
+
 + + + + + live.fauconteam.com:8080 + + + + + null + + + DOWN
 
 http://live.fauconteam.com:8080/get.php?username=Amigotv_online&password=gNCQEXF40sC2&type=m3u Expires: Null Connections: 1000-821 < DOWN
@@ -23042,6 +23037,7 @@ Real Url: live.fauconteam.com:8080     Status: Active    Created: 12/12/2019 4:1
 + + + + + maxx-iptv10.ddns.net:8080 + + + + +
 
 http://kstv.us:8080/get.php?username=maxx015&password=7857585044&type=m3u < maxx-iptv10.ddns.net:8080 < null < 5-1 < N
+
 
 + + + + + kmx.kolpax.de:80 + + + + +
 
@@ -23056,11 +23052,14 @@ Real Url: la.iptvdinmax.eu:2052     Status: Active    Created: 11/4/2021 10:47:2
 http://latinchannel.tv:8080/get.php?username=anual280221&password=652113568095&type=m3u
 Real Url: latinchannel.tv:8080     Status: Banned    Created: 28/2/2021 3:06:05 PM     Expires: 28/2/2022 3:06:05 PM    Active Connections: 0     Maximum Connections: 5     Formats: "m3u8","ts"
 
+
 + + + + + local-iptv.myddns.me:8000 + + + + + null / 0-913 + + + + +
 
 http://local-iptv.myddns.me:8000/get.php?username=239021AM4884820&password=47212021AMM4784345&type=m3u < DOWN
 
+
 + + + + + https://m3u-editor.com [SEA] + + + + +
+
 
 KIX
 https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776400
@@ -23195,6 +23194,7 @@ https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776477
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776478
 offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776479
+
 -/-/-/-/-/- n a -/-/-/-/-
 https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776499
 
@@ -23277,7 +23277,7 @@ Real Url: myskype.eu:8880     Status: Active    Created: 1/11/2019 12:31:24 PM  
 
 http://mytv.fun:808/get.php?username=828ek2bb7g&password=padet80m3v&type=m3u < DOWN?
 
-+ + + + + neczbm.to:80 + + + + + 
++ + + + + neczbm.to:80 + + + + + BANNED + + + + +
 
  group-title="necz",UK: BBC One FHD
 http://neczbm.to:80/play/qFcc9C8u0out7we936bVD5b8S95zJjWRDspTVTpyf52SET9PYUM3RAFroU9Hw1_C/m3u8
