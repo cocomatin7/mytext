@@ -20921,30 +20921,30 @@ Real Url: 209.145.58.109:25461     Status: Active    Created: 18/4/2021 6:26:25 
 http://209.145.58.109:25461/get.php?username=omohaktv&password=App&type=m3u
 Real Url: 209.145.58.109:25461     Status: Active    Created: 31/5/2021 2:00:35 PM     Expires: Null    Active Connections: 1     Maximum Connections: 2000     Formats: "m3u8","ts","rtmp" < NOT PLAY
 
-#EXTINF:-1 group-title="209.145",Bein Sports 1
-http://209.145.58.109:25461/omohaktv/App/19
-#EXTINF:-1 group-title="209.145",BEIN Sports 2
-http://209.145.58.109:25461/omohaktv/App/20
-#EXTINF:-1 group-title="209.145",BEIN Sports 3
-http://209.145.58.109:25461/omohaktv/App/21
-#EXTINF:-1 group-title="209.145",Bein Sports 4
-http://209.145.58.109:25461/omohaktv/App/22
-#EXTINF:-1 group-title="209.145",Bein Sports 5
-http://209.145.58.109:25461/omohaktv/App/23
-#EXTINF:-1 group-title="209.145",Bein Sports 6
-http://209.145.58.109:25461/omohaktv/App/24
-#EXTINF:-1 group-title="209.145",Bein Sports 7
-http://209.145.58.109:25461/omohaktv/App/25
-#EXTINF:-1 group-title="209.145",Sony ten 2
+http://209.145.58.109:25461/get.php?username=omohakapp&password=App1&type=m3u
+Real Url: 209.145.58.109:25461     Status: Active    Created: 22/6/2021 3:25:42 PM     Expires: Null    Active Connections: 1     Maximum Connections: 500     Formats: "m3u8","ts","rtmp" < few CH
+
+http://209.145.58.109:25461/get.php?username=omohaktv&password=App&type=m3u
+Real Url: 209.145.58.109:25461     Status: Active    Created: 31/5/2021 2:00:35 PM     Expires: Null    Active Connections: 20     Maximum Connections: 2000     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="209.145",Sony ten 1
 http://209.145.58.109:25461/omohaktv/App/72
-#EXTINF:-1 group-title="209.145",Sony ten 3
+#EXTINF:-1 group-title="209.145",Sony ten 2
 http://209.145.58.109:25461/omohaktv/App/73
 #EXTINF:-1 group-title="209.145",Fox Soccer sports 
 http://209.145.58.109:25461/omohaktv/App/78
 #EXTINF:-1 group-title="209.145",UFC us
 http://209.145.58.109:25461/omohaktv/App/80
-#EXTINF:-1 group-title="209.145",SUPERSPORT Variety 3
-http://209.145.58.109:25461/omohaktv/App/86
+#EXTINF:-1 group-title="209.145",Netflix comedy 
+http://209.145.58.109:25461/omohaktv/App/148
+#EXTINF:-1 group-title="209.145",Netflix Drama 
+http://209.145.58.109:25461/omohaktv/App/107
+#EXTINF:-1 group-title="209.145",Netflix Horror 
+http://209.145.58.109:25461/omohaktv/App/122
+#EXTINF:-1 group-title="209.145",Netflix Kids 
+http://209.145.58.109:25461/omohaktv/App/121
+#EXTINF:-1 group-title="209.145",Netflix Movie
+http://209.145.58.109:25461/omohaktv/App/105
 
 
 + + + + + 209.222.101.100:25461 + + + + + 10/10/2021 / 5-5 + + + + +
