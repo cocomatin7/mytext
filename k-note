@@ -3096,14 +3096,6 @@ http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 
 http://62.112.9.63:88/Brazzers/index.m3u8?token=test
 
-http://91.212.150.248:80/PinkErotic1/index.m3u8
-http://91.212.150.248:80/PinkErotic2/index.m3u8
-http://91.212.150.248:80/PinkErotic3/index.m3u8
-http://91.212.150.248:80/PinkErotic4/index.m3u8
-http://91.212.150.248:80/PinkErotic5/index.m3u8
-http://91.212.150.248:80/PinkErotic6/index.m3u8
-http://91.212.150.248:80/PinkErotic7/index.m3u8
-http://91.212.150.248:80/PinkErotic8/index.m3u8
 
 http://185.52.77.67:8080/Candy/index.m3u8
 
@@ -3195,8 +3187,6 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1,Yahoo! Finance (1080p)
 http://yahoo-samsung.amagi.tv/playlist.m3u8
-
-
 
 
 #EXTINF:-1,Europa Plus TV |RU
@@ -3605,36 +3595,6 @@ https://bucketdaily02.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 https://bucketdaily02.s3.eu-west-2.amazonaws.com/e2/2.m3u8
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/f66c9ac57cf0482ca54c5cdc86e68854/index4.m3u8
 https://dailyb0.s3.amazonaws.com/e1/1.m3u8
-
-
-Loop TGIF 
- 3 months ago
-https://7d6f1eaab26244879085a9c647097af7.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_plex/master.m3u8
-Loop Electronica 
- 3 months ago
-https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/master.m3u8
-Loop Trending 
- 3 months ago
-https://8f8959ec0c604ae0aac98fe0cda060eb.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_plex/master.m3u8
-Loop Bedroom 
- 3 months ago
-https://eb8029576dd74625b1d49e34afc1febb.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_plex/master.m3u8
-Loop Texas Tunes 
- 3 months ago
-https://8d1615d8ec69435ea11a3e039f9e3771.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_plex/master.m3u8
-Loop Far Out 
- 3 months ago
-https://18a6ff4fa5424e6797030b139ca98e6c.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_plex/master.m3u8
-Latin x Loop 
- 3 months ago
-https://c6db63f2ab884b40b3ff31e8a64bfcbb.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_plex/master.m3u8
-Loop Flashback 
- 3 months ago
-https://7b65d9c562ad41b4b6efeaf1f598093d.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_plex/master.m3u8
-Loop Thats Hot 
-https://fd80a2d7c3fb4580b4cb8ef661a96d49.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_plex/master.m3u8
-Loop Hottest 
-https://942aece530c1422894fddbd5867984d1.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_plex/master.m3u8
 
 
 #EXTINF:-1 group-title="BamarTV", 80s party |loop.tv
@@ -4539,12 +4499,12 @@ http://27.254.130.62/feed/LC10/tracks-v1a1/mono.m3u8
 http://27.254.130.62/feed/LC11/tracks-v1a1/mono.m3u8
 http://27.254.130.62/feed/LC12/tracks-v1a1/mono.m3u8
 http://27.254.130.62/feed/LC13/tracks-v1a1/mono.m3u8
-[V]
+#EXTINF:-1 group-title="27.254",[V]
 http://27.254.130.62/feed/LC14/tracks-v1a1/mono.m3u8
 http://27.254.130.62/feed/LC15/tracks-v1a1/mono.m3u8
-CNA
+#EXTINF:-1 group-title="27.254",CNA
 http://27.254.130.62/feed/LC16/tracks-v1a1/mono.m3u8
-MRTV
+#EXTINF:-1 group-title="27.254",MRTV
 http://27.254.130.62/feed/LC17/tracks-v1a1/mono.m3u8
 http://27.254.130.62/feed/LC18/tracks-v1a1/mono.m3u8
 n.a http://27.254.130.62/feed/LC19/tracks-v1a1/mono.m3u8
@@ -4554,10 +4514,10 @@ n.a http://27.254.130.62/feed/LC22/tracks-v1a1/mono.m3u8
 http://27.254.130.62/feed/LC23/tracks-v1a1/mono.m3u8
 http://27.254.130.62/feed/LC24/tracks-v1a1/mono.m3u8
 http://27.254.130.62/feed/LC25/tracks-v1a1/mono.m3u8
-thrill EN
+#EXTINF:-1 group-title="27.254",thrill EN
 http://27.254.130.62/feed/LC26/tracks-v1a1/mono.m3u8
 http://27.254.130.62/feed/LC27/tracks-v1a1/mono.m3u8
-WB TV TH
+#EXTINF:-1 group-title="27.254",WB TV TH
 http://27.254.130.62/feed/LC28/tracks-v1a1/mono.m3u8
 n.a http://27.254.130.62/feed/LC29/tracks-v1a1/mono.m3u8
 n.a http://27.254.130.62/feed/LC30/tracks-v1a1/mono.m3u8
