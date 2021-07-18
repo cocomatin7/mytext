@@ -13551,7 +13551,7 @@ http://520574.xyz/dl/htv.php?id=223
 
 + + + + + ftp/VN + + + + +
 
-#EXTINF:-1 group-title="ftp/VN",V HD |ftp
+#EXTINF: group-title="htv/VN"V HD |ftp
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="FOX Movies HD",Fox Movies |ftp
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
@@ -13588,7 +13588,7 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/world/afchd_hls.smil/index.m3u8
 #EXTINF: group-title="htv/VN"NHK World Japan |ftp
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="ftp/VN",CNA |ftp
+#EXTINF: group-title="htv/VN"CNA |ftp
 https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
  tvg-logo = "http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title = "VN|H+", FOX SPORT 1
 https://cloud-service.best/hplus.php?play&id=3681
