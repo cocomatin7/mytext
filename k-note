@@ -13555,25 +13555,25 @@ http://520574.xyz/dl/htv.php?id=223
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="FOX Movies HD",Fox Movies |ftp
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
-#EXTINF:-1,National Geographic HD |ftp
+#EXTINF: group-title="htv/VN"National Geographic HD |ftp
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="FOX Family Movies HD",Fox Family Movies |ftp
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="FOX Family Movies HD",Fox Family Movies |ftp'
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/index.m3u8
-#EXTINF:-1,KIX |ftp
+#EXTINF: group-title="htv/VN"KIX |ftp
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
-#EXTINF:-1,Animal Planet |ftp
+#EXTINF: group-title="htv/VN"Animal Planet |ftp
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
-#EXTINF:-1,BBC World News |ftp
+#EXTINF: group-title="htv/VN"BBC World News |ftp
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 ,Bloomberg /offline
 https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/playlist.m3u8
 ,CNN |ftp /offline
 https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/playlist.m3u8
-#EXTINF:-1,Discovery |ftp
+#EXTINF: group-title="htv/VN"Discovery |ftp
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
-#EXTINF:-1,Discovery Asia |ftp
+#EXTINF: group-title="htv/VN"Discovery Asia |ftp
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
@@ -13586,7 +13586,7 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Asian Food Network",Asian Food Network |ftp'
 https://livecdn.fptplay.net/world/afchd_hls.smil/index.m3u8
-#EXTINF:-1,NHK World Japan |ftp
+#EXTINF: group-title="htv/VN"NHK World Japan |ftp
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="ftp/VN",CNA |ftp
 https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
@@ -13622,12 +13622,12 @@ https://cloud-service.best/hplus.php?play&id=27081
 https://cloud-service.best/hplus.php?play&id=73423
 #EXTINF:-1 group-title="htv/VN",ASIAN FOOD NETWORK |htv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
-#EXTINF:-1,CHANNEL V |htv
+#EXTINF: group-title="htv/VN"CHANNEL V |htv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8
-#EXTINF:-1,FOX FAMILY MOVIES |htv
+#EXTINF: group-title="htv/VN"FOX FAMILY MOVIES |htv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:-1,FOX MOVIES |htv
+#EXTINF: group-title="htv/VN"FOX MOVIES |htv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="htv/VN",PARAMOUNT CHANNEL |htv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
