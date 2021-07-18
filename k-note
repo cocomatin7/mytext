@@ -21945,6 +21945,10 @@ Real Url: dp.iptvport.com:7000     Status: Active    Created: 25/12/2020 7:41:47
 http://dlxfree.spdns.eu:21917/get.php?username=dlxfree.spdns.eu&password=dlxfree.spdns.eu&type=m3u
 Real Url: dlxfree.spdns.eu:21917     Status: Active    Created: 16/5/2021 8:50:23 PM     Expires: Null    Active Connections: 8     Maximum Connections: 200     Formats: "m3u8","ts","rtmp" < to check
 
+http://dlxfree.spdns.eu:21917/get.php?username=neon4tech123123&password=dlxfree.spdns.eu&type=m3u
+Real Url: dlxfree.spdns.eu:21917     Status: Active    Created: 5/7/2021 1:53:01 PM     Expires: Null    Active Connections: 2     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp"
+
+
 + + + + + dmtn.tv:8080 + + + + +
 
 http://auth.dmtn.tv:8080/get.php?username=dominic&password=dominic123&type=m3u
@@ -22078,6 +22082,118 @@ http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/147992.m3u8
 
 http://138.117.71.80:25461/get.php?username=test&password=test&type=m3u
 Real Url: edge.multiplay.cl:25461     Status: Active    Created: 21/11/2019 6:10:31 PM     Expires: Null    Active Connections: 53     Maximum Connections: 0 < DOWN
+
+
++ + + + + elattar-tv.org:8080 + + + + +
+
+http://elattar-tv.org:8080/get.php?username=dazexchange&password=b4mg5uu7eY&type=m3u
+Real Url: elattar-tv.org:8080     Status: Active    Created: 25/6/2021 2:29:02 PM     Expires: Null    Active Connections: 167     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="elattar",IN: StarPlus HD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33221.m3u8
+#EXTINF:-1 group-title="elattar",UK@ Star Bharat HD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33222.m3u8
+#EXTINF:-1 group-title="elattar",UK@ Utsav GOLD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33223.m3u8
+#EXTINF:-1 group-title="elattar",UK@ Colors TV (UK)
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33224.m3u8
+#EXTINF:-1 group-title="elattar",UK@ Colors  SD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33225.m3u8
+#EXTINF:-1 group-title="elattar",UK@ Zee Cinema HD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33226.m3u8
+#EXTINF:-1 group-title="elattar",UK@ Sony TV
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33227.m3u8
+#EXTINF:-1 group-title="elattar",UK@ Sony Max HD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33228.m3u8
+#EXTINF:-1 group-title="elattar",UK@ Sony Mix
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33229.m3u8
+#EXTINF:-1 group-title="elattar",UK@ Sony Max 2
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33230.m3u8
+#EXTINF:-1 group-title="elattar",UK@ Sony Sab HD (UK)
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33231.m3u8
+#EXTINF:-1 group-title="elattar",IN: Sony Sab (IN)
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33232.m3u8
+#EXTINF:-1 group-title="elattar",UK@ B4U Music
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33233.m3u8
+#EXTINF:-1 group-title="elattar",UK@ B4U Movies
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33234.m3u8
+#EXTINF:-1 group-title="elattar",UK@ B4U PLUS  UK
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33235.m3u8
+#EXTINF:-1 group-title="elattar",UK@ & TV
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33236.m3u8
+#EXTINF:-1 group-title="elattar",IN: Sony Mix
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33255.m3u8
+#EXTINF:-1 group-title="elattar",IN: Sony Pix HD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33256.m3u8
+#EXTINF:-1 group-title="elattar",IN: SONY BBC Earth
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33257.m3u8
+#EXTINF:-1 group-title="elattar",IN: Utsav Plus HD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33258.m3u8
+#EXTINF:-1 group-title="elattar",IN: Utsav Bharat
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33259.m3u8
+#EXTINF:-1 group-title="elattar",IN: Zee Cinema SD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33260.m3u8
+#EXTINF:-1 group-title="elattar",IN: Sony Six
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33282.m3u8
+#EXTINF:-1 group-title="elattar",IN: B4U Music
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33283.m3u8
+#EXTINF:-1 group-title="elattar",IN: Zee TV
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33284.m3u8
+#EXTINF:-1 group-title="elattar",IN: Zee Action HD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33285.m3u8
+#EXTINF:-1 group-title="elattar",IN: Zee Bangla
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33286.m3u8
+#EXTINF:-1 group-title="elattar",IN: Zee TV
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33287.m3u8
+#EXTINF:-1 group-title="elattar",IN: Zee Salaam
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33288.m3u8
+#EXTINF:-1 group-title="elattar",IN: Zee Bollywood
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33289.m3u8
+#EXTINF:-1 group-title="elattar",IN: Zee Anmol Cinema
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33290.m3u8
+#EXTINF:-1 group-title="elattar",IN: Colors Rishtey
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33291.m3u8
+#EXTINF:-1 group-title="elattar",IN: SONY SIX HD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33292.m3u8
+#EXTINF:-1 group-title="elattar",IN: & TV
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33293.m3u8
+#EXTINF:-1 group-title="elattar",IN: & Picture HD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33294.m3u8
+#EXTINF:-1 group-title="elattar",IN: & Picture SD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33295.m3u8
+#EXTINF:-1 group-title="elattar",IN: & PRIVE HD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33296.m3u8
+#EXTINF:-1 group-title="elattar",IN: B4U PLUS SD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33303.m3u8
+#EXTINF:-1 group-title="elattar",IN: SONY TEN 3 SD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33307.m3u8
+#EXTINF:-1 group-title="elattar",Channel NewsAsia
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/32992.m3u8
+#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport Variety 1 HD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16852.m3u8
+#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport Variety 2 HD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16853.m3u8
+#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport Variety 3 HD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16854.m3u8
+#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport Variety 4 HD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16855.m3u8
+#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport 5
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16856.m3u8
+#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport 6
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16857.m3u8
+#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport 8
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16858.m3u8
+#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport 9
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16859.m3u8
+#EXTINF:-1 group-title="elattar",DSTV-AF: SUPERSPORT 10 HD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16860.m3u8
+#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport 12
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16861.m3u8
+#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport Blitz
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16862.m3u8
+#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport maximo
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16863.m3u8
+
 
 + + + + + endoftheworldisnigh.sytes.net:8989 [MTV] + + + + +
 
@@ -24873,115 +24989,6 @@ http://clowniptv.com:2082/streaming/clients_live.php?extension=ts&username=UBfvY
 http://streamwat.ch/custom/player/#http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/136.m3u8
 
 
-+ + + + + elattar-tv.org:8080 + + + + +
-
-http://elattar-tv.org:8080/get.php?username=dazexchange&password=b4mg5uu7eY&type=m3u
-Real Url: elattar-tv.org:8080     Status: Active    Created: 25/6/2021 2:29:02 PM     Expires: Null    Active Connections: 167     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
-
-#EXTINF:-1 group-title="elattar",IN: StarPlus HD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33221.m3u8
-#EXTINF:-1 group-title="elattar",UK@ Star Bharat HD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33222.m3u8
-#EXTINF:-1 group-title="elattar",UK@ Utsav GOLD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33223.m3u8
-#EXTINF:-1 group-title="elattar",UK@ Colors TV (UK)
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33224.m3u8
-#EXTINF:-1 group-title="elattar",UK@ Colors  SD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33225.m3u8
-#EXTINF:-1 group-title="elattar",UK@ Zee Cinema HD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33226.m3u8
-#EXTINF:-1 group-title="elattar",UK@ Sony TV
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33227.m3u8
-#EXTINF:-1 group-title="elattar",UK@ Sony Max HD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33228.m3u8
-#EXTINF:-1 group-title="elattar",UK@ Sony Mix
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33229.m3u8
-#EXTINF:-1 group-title="elattar",UK@ Sony Max 2
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33230.m3u8
-#EXTINF:-1 group-title="elattar",UK@ Sony Sab HD (UK)
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33231.m3u8
-#EXTINF:-1 group-title="elattar",IN: Sony Sab (IN)
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33232.m3u8
-#EXTINF:-1 group-title="elattar",UK@ B4U Music
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33233.m3u8
-#EXTINF:-1 group-title="elattar",UK@ B4U Movies
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33234.m3u8
-#EXTINF:-1 group-title="elattar",UK@ B4U PLUS  UK
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33235.m3u8
-#EXTINF:-1 group-title="elattar",UK@ & TV
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33236.m3u8
-#EXTINF:-1 group-title="elattar",IN: Sony Mix
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33255.m3u8
-#EXTINF:-1 group-title="elattar",IN: Sony Pix HD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33256.m3u8
-#EXTINF:-1 group-title="elattar",IN: SONY BBC Earth
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33257.m3u8
-#EXTINF:-1 group-title="elattar",IN: Utsav Plus HD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33258.m3u8
-#EXTINF:-1 group-title="elattar",IN: Utsav Bharat
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33259.m3u8
-#EXTINF:-1 group-title="elattar",IN: Zee Cinema SD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33260.m3u8
-#EXTINF:-1 group-title="elattar",IN: Sony Six
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33282.m3u8
-#EXTINF:-1 group-title="elattar",IN: B4U Music
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33283.m3u8
-#EXTINF:-1 group-title="elattar",IN: Zee TV
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33284.m3u8
-#EXTINF:-1 group-title="elattar",IN: Zee Action HD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33285.m3u8
-#EXTINF:-1 group-title="elattar",IN: Zee Bangla
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33286.m3u8
-#EXTINF:-1 group-title="elattar",IN: Zee TV
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33287.m3u8
-#EXTINF:-1 group-title="elattar",IN: Zee Salaam
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33288.m3u8
-#EXTINF:-1 group-title="elattar",IN: Zee Bollywood
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33289.m3u8
-#EXTINF:-1 group-title="elattar",IN: Zee Anmol Cinema
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33290.m3u8
-#EXTINF:-1 group-title="elattar",IN: Colors Rishtey
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33291.m3u8
-#EXTINF:-1 group-title="elattar",IN: SONY SIX HD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33292.m3u8
-#EXTINF:-1 group-title="elattar",IN: & TV
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33293.m3u8
-#EXTINF:-1 group-title="elattar",IN: & Picture HD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33294.m3u8
-#EXTINF:-1 group-title="elattar",IN: & Picture SD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33295.m3u8
-#EXTINF:-1 group-title="elattar",IN: & PRIVE HD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33296.m3u8
-#EXTINF:-1 group-title="elattar",IN: B4U PLUS SD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33303.m3u8
-#EXTINF:-1 group-title="elattar",IN: SONY TEN 3 SD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33307.m3u8
-#EXTINF:-1 group-title="elattar",Channel NewsAsia
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/32992.m3u8
-#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport Variety 1 HD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16852.m3u8
-#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport Variety 2 HD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16853.m3u8
-#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport Variety 3 HD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16854.m3u8
-#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport Variety 4 HD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16855.m3u8
-#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport 5
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16856.m3u8
-#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport 6
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16857.m3u8
-#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport 8
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16858.m3u8
-#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport 9
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16859.m3u8
-#EXTINF:-1 group-title="elattar",DSTV-AF: SUPERSPORT 10 HD
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16860.m3u8
-#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport 12
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16861.m3u8
-#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport Blitz
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16862.m3u8
-#EXTINF:-1 group-title="elattar",DSTV-AF: SuperSport maximo
-http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16863.m3u8
 
 + + + + + topchantv.net:3456 + + + + +
 
