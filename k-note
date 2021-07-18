@@ -6240,17 +6240,6 @@ http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 group-title="185.180",Tvnmovie |185
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 
-http://185.180.221.194:8278/streams/d/Animalplanet/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
-http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Cinemax/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Discovery/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
-http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 group-title="185.180",Hbo
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="185.180",Hbofamily
@@ -6261,106 +6250,83 @@ http://185.180.221.194:8278/streams/d/Hbohd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 group-title="185.180",Hbosignature
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
-http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
-http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
-http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
-http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
-http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
-http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-http://185.180.221.194:8278/streams/d/truepre1_pat/playlist.m3u8
-http://185.180.221.194:8278/streams/d/truepre2_pat/playlist.m3u8
-http://185.180.221.194:8278/streams/d/truepre3_pat/playlist.m3u8
-http://185.180.221.194:8278/streams/d/truepre4_pat/playlist.m3u8
-http://185.180.221.194:8278/streams/d/truepre5_pat/playlist.m3u8
 
-http://185.180.221.194:8278/streams/d/AEC/playlist.m3u8
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Bernama/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Ohk/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Suntv/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Zeetamil/playlist.m3u8
-
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Fightsports/playlist.m3u8
-
-#EXTINF:-1 group-title="185.180",Foxhd
-http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:-1 group-title="185.180",Foxlife
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:-1 group-title="185.180",Foxcrime
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF:-1 group-title="185.180",Foxfamily
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:-1 group-title="185.180",Foxactionhd
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1 group-title="185.180",Foxmovie
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 group-title="185.180",astro supersport 1
-http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 group-title="185.180",astro supersport 2
-http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 group-title="185.180",astro supersport 3
-http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 group-title="185.180",astro supersport 4
-http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1 group-title="185.180",Astro Ria
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-#EXTINF:-1 group-title="185.180",Astro Wlt
-http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1 group-title="185.180",Astro Huahee
-http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
-#EXTINF:-1 group-title="185.180",Astro AEC
-http://185.180.221.194:8278/streams/d/AEC/playlist.m3u8
-#EXTINF:-1 group-title="185.180",Xinhe
-http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:-1 group-title="185.180",National Geographic Wild
-http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 group-title="185.180",Ohk
-http://185.180.221.194:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1 group-title="185.180",Bernama
-http://185.180.221.194:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 group-title="185.180",RTM Sport
-http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
-#EXTINF:-1 group-title="185.180",astro Ceria
-http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 group-title="185.180",Animal Planet
-http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 group-title="185.180",KBS WORLD
-http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:-1 group-title="185.180",Qiyi
-http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
-#EXTINF:-1 group-title="185.180",Aod
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-#EXTINF:-1 group-title="185.180",ZEE Tamil HD
-http://185.180.221.194:8278/streams/d/Zeetamil/playlist.m3u8
-#EXTINF:-1 group-title="185.180",SUN TV
-http://185.180.221.194:8278/streams/d/Suntv/playlist.m3u8
 #EXTINF:-1 group-title="185.180",Zee Tv(TEST)
 http://185.180.221.194:8278/streams/d/Zeetvhd/playlist.m3u8
 #EXTINF:-1 group-title="185.180",Zee Actions(TEST)
 http://185.180.221.194:8278/streams/d/Zeeaction/playlist.m3u8
 #EXTINF:-1 group-title="185.180",Color Hd(TEST)
 http://185.180.221.194:8278/streams/d/Colorhd/playlist.m3u8
+http://185.180.221.194:8278/streams/d/AEC/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Animalplanet/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Bernama/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Cbeebies/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
+http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Cinemaworld/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Cinemax/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Discovery/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Fightsports/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+http://185.180.221.194:8278/streams/d/History/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
+http://185.180.221.194:8278/streams/d/KiX/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Lifetime/playlist.m3u8
+http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Ohk/playlist.m3u8
+http://185.180.221.194:8278/streams/d/One/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Suntv/playlist.m3u8
+http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
+http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Zeetamil/playlist.m3u8
+http://185.180.221.194:8278/streams/d/truepre1_pat/playlist.m3u8
+http://185.180.221.194:8278/streams/d/truepre2_pat/playlist.m3u8
+http://185.180.221.194:8278/streams/d/truepre3_pat/playlist.m3u8
+http://185.180.221.194:8278/streams/d/truepre4_pat/playlist.m3u8
+http://185.180.221.194:8278/streams/d/truepre5_pat/playlist.m3u8
+
 
 + + + + + 203.150.107.30:8081 + + + + +
 
