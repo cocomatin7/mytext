@@ -9532,48 +9532,48 @@ DOWN
 
 + + + http://3.0.20.58:8000/playlist.m3u8  + + +
 
-#EXTINF:-1 group-title="3.0/MY",ASSP1
+ group-title="3.0/MY",ASSP1
 http://3.0.20.58:8000/play/ASSP1/index.m3u8
 https://www.dropbox.com/s/dl/nyyi90mu7q94u59/assp.m3u8
-#EXTINF:-1 group-title="3.0/MY",ASSP2
+ group-title="3.0/MY",ASSP2
 http://3.0.20.58:8000/play/ASSP2/index.m3u8
 https://www.dropbox.com/s/dl/rjqhq2py7rv14r7/assp2.m3u8
 http://3.0.20.58:8000/play/ASSP2/index.mpegts
-#EXTINF:-1 group-title="3.0/MY",ASSP3
+ group-title="3.0/MY",ASSP3
 http://3.0.20.58:8000/play/ASSP3/index.m3u8
 https://www.dropbox.com/s/dl/tn9y6ijp1fa2f38/assp3.m3u8
-#EXTINF:-1 group-title="3.0/MY",ASSP4
+ group-title="3.0/MY",ASSP4
 http://3.0.20.58:8000/play/ASSP4/index.m3u8
 https://www.dropbox.com/s/dl/xtzv3j00opoem51/assp4.m3u8
-#EXTINF:-1 group-title="3.0/MY",Arena
+ group-title="3.0/MY",Arena
 http://3.0.20.58:8000/play/Arena/index.m3u8
-#EXTINF:-1 group-title="3.0/MY",Bein 2 MAX
+ group-title="3.0/MY",Bein 2 MAX
 http://3.0.20.58:8000/play/BeinMax2/index.m3u8
-#EXTINF:-1 group-title="3.0/MY",Bein 3 MAX
+ group-title="3.0/MY",Bein 3 MAX
 http://3.0.20.58:8000/play/BeinMax3/index.m3u8
-#EXTINF:-1 group-title="3.0/MY",Bein 4 MAX
+ group-title="3.0/MY",Bein 4 MAX
 http://3.0.20.58:8000/play/BeinMax4/index.m3u8
-#EXTINF:-1 group-title="3.0/MY",Bein Premium 1
+ group-title="3.0/MY",Bein Premium 1
 http://3.0.20.58:8000/play/Bein1Premium/index.m3u8
-#EXTINF:-1 group-title="3.0/MY",Bein Premium 2
+ group-title="3.0/MY",Bein Premium 2
 http://3.0.20.58:8000/play/Bein2Premium/index.m3u8
-#EXTINF:-1 group-title="3.0/MY",Bein Premium 3
+ group-title="3.0/MY",Bein Premium 3
 http://3.0.20.58:8000/play/Bein3Premium/index.m3u8
-#EXTINF:-1 group-title="3.0/MY",Bein Sport 1
+ group-title="3.0/MY",Bein Sport 1
 http://3.0.20.58:8000/play/Bein-Sport-1/index.m3u8
-#EXTINF:-1 group-title="3.0/MY",Bein Sport 2
+ group-title="3.0/MY",Bein Sport 2
 http://3.0.20.58:8000/play/Bein-Sport-2/index.m3u8
-#EXTINF:-1 group-title="3.0/MY",Bein Sport 3
+ group-title="3.0/MY",Bein Sport 3
 http://3.0.20.58:8000/play/Bein-Sport-3/index.m3u8
-#EXTINF:-1 group-title="3.0/MY",Bein Sport 4
+ group-title="3.0/MY",Bein Sport 4
 http://3.0.20.58:8000/play/Bein-Sport-4/index.m3u8
-#EXTINF:-1 group-title="3.0/MY",Bein Sport 5
+ group-title="3.0/MY",Bein Sport 5
 http://3.0.20.58:8000/play/Bein-Sport-5/index.m3u8
-#EXTINF:-1 group-title="3.0/MY",Bein Sport 6
+ group-title="3.0/MY",Bein Sport 6
 http://3.0.20.58:8000/play/Bein-Sport-6/index.m3u8
-#EXTINF:-1 group-title="3.0/MY",Bein Sport 7
+ group-title="3.0/MY",Bein Sport 7
 http://3.0.20.58:8000/play/Bein-Sport-7/index.m3u8
-#EXTINF:-1 group-title="3.0/MY",TVRI SPORT
+ group-title="3.0/MY",TVRI SPORT
 http://3.0.20.58:8000/play/TVRIHD/index.m3u8
 
 
