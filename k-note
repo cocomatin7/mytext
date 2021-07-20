@@ -17438,7 +17438,6 @@ http://46.105.112.116/?watch=EX/bein1hd-ar/index.m3u8?token= K- - -
 http://46.105.112.116/?watch=EX/bein1FHD-ar/tracks-v1a1/mono.m3u8?token=
 http://46.105.112.116/?watch=EX/beinsports1uhd-tr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/Sky_Cinema_Comedy_FHD-uk/index.m3u8?token=
-http://46.105.112.116/?watch=EX/Sky_Cinema_Action_HD-uk/index.m3u8?token= 
 http://46.105.112.116/?watch=EX/Sky_Sports_F1_HD-uk/index.m3u8?token=
 http://46.105.112.116/?watch=EX/Sport_Klub_1-balkan/tracks-v1a1/mono.m3u8?token=
 http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=
@@ -17578,6 +17577,8 @@ http://46.105.112.116/?watch=R-EX/TAMIL_SUN_MUSIC_HD-in/tracks-v1a1/mono.m3u8?to
 
 #EXTINF:-1 group-title="46/IN",SuperSport Action |46
 http://46.105.112.116/?watch=AFR-EX/SuperSport_Action_FHD-dstv/index.m3u8?token=%2Findex.m3u8%3Ftoken%3D
+#EXTINF:-1 group-title="46/IN",SuperSport Action |46
+http://46.105.112.116/?watch=AFR-EX/SuperSport_Action_FHD-dstv/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",SuperSport Cricket |46
 http://46.105.112.116/?watch=AFR-EX/SuperSport_Cricket_FHD-dstv/index.m3u8?token=
 #EXTINF:-1 tvg-id="ss.football.ze" tvg-name="ss.football.ze" group-title="46/IN",SuperSport Football |46
@@ -17621,13 +17622,16 @@ http://46.105.112.116/?watch=BR/cnninternational-br/index.m3u8?token=
 
 #EXTINF:-1 tvg-id="fox.premium.2.br" tvg-name="fox.premium.2.br" group-title="46/IN",Fox Premium 2_HD |46
 http://46.105.112.116/?watch=BR/Fox_Premium_2_HD-br/index.m3u8?token=
-
 #EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="fox.sports.2.br" group-title="46/IN",Fox Sports 2HD |46
 http://46.105.112.116/?watch=BR/Fox_Sports_2_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/Fox_Sports_2_HD-br/index.m3u8?token=RED&m3u8
 #EXTINF:-1 tvg-id="fox.sports.br" tvg-name="fox.sports.br" group-title="46/IN",Fox Sports HD |46
 http://46.105.112.116/?watch=BR/Fox_Sports_HD-br/index.m3u8?token=
 http://212.224.98.211:2200/BR/Fox_Sports_HD-br/index.m3u8?token=
+
+#EXTINF:-1 tvg-id="mtv.brasil.br" tvg-name="mtv.brasil.br" group-title="46/IN",MTV_HD |46
+http://46.105.112.116/?watch=BR/MTV_HD-br/index.m3u8?token=
+
 #EXTINF:-1 group-title="46/IN",Premiere Clubes HD |46
 http://46.105.112.116/?watch=BR/Premiere_Clubes_HD-br/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Premiere 1 HD |46
@@ -17645,8 +17649,6 @@ http://46.105.112.116/?watch=BR/Premiere_6_HD-br/index.m3u8?token=
 #EXTINF:-1 tvg-id="premiere.7.br" tvg-name="premiere.7.br" group-title="46/IN",Premiere 7 HD |46
 http://46.105.112.116/?watch=BR/Premiere_7_HD-br/index.m3u8?token=
 
-#EXTINF:-1 tvg-id="mtv.brasil.br" tvg-name="mtv.brasil.br" group-title="46/IN",MTV_HD |46
-http://46.105.112.116/?watch=BR/MTV_HD-br/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",WB TV |46
 http://46.105.112.116/?watch=BR/Warner_Channel_HD-br/index.m3u8?token=
 
@@ -17789,13 +17791,13 @@ http://46.105.112.116/?watch=EX/Optus_Sports_1_HD_-uk/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",OPTUS SPORT 2 |46
 http://46.105.112.116/?watch=EX/Optus_Sports_2_HD_-uk/index.m3u8?token=
 
-#EXTINF:-1 group-title="46/IN",RishteyCineplex |46
-http://46.105.112.116/?watch=EX/RishteyCineplex-in/index.m3u8?token=
-
 #EXTINF:-1 group-title="46/IN",Premier Sports 1HD |46
 http://46.105.112.116/?watch=EX/Premier_Sports_1_HD-uk/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Premier Sports 2HD |46
 http://46.105.112.116/?watch=EX/Premier_Sports_2_HD-uk/index.m3u8?token=
+
+#EXTINF:-1 group-title="46/IN",RishteyCineplex |46
+http://46.105.112.116/?watch=EX/RishteyCineplex-in/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",Setanta sports
 http://46.105.112.116/?watch=EX/setantasportshd-ru/index.m3u8?token=
@@ -17873,6 +17875,10 @@ http://46.105.112.116/?watch=EX/Sky_Sports_Premier_League_FHD-uk/index.m3u8?toke
 
 #EXTINF:-1 group-title="46/IN",SONY MAX UK |46
 http://46.105.112.116/?watch=EX/sonymaxuk-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",SONY S MAX EN
+http://46.105.112.116/?watch=EX/sonysetmax-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",SONY TV EN
+http://46.105.112.116/?watch=EX/sonytv-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-id="sk.1.hr" tvg-name="sk.1.hr" group-title="46/IN",SK 1HD |46
 http://46.105.112.116/?watch=EX/Sport_Klub_1-balkan/index.m3u8?token=
@@ -17886,6 +17892,11 @@ http://46.105.112.116/?watch=EX/Sport_Klub_4-balkan/index.m3u8?token=
 http://46.105.112.116/?watch=EX/Sport_Klub_5-balkan/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",SK 6HD |46
 http://46.105.112.116/?watch=EX/Sport_Klub_6-balkan/index.m3u8?token=
+
+#EXTINF:-1 group-title="46/IN",Utsav Bharat EN
+http://46.105.112.116/?watch=EX/starbharat-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",Utsav Gold
+http://46.105.112.116/?watch=EX/stargold-in/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",starsports 1hd |46
 http://46.105.112.116/?watch=EX/starsports1hd-in/index.m3u8?token=
@@ -17901,15 +17912,6 @@ http://46.105.112.116/?watch=EX/zeeaction-in/index.m3u8?token=
 http://46.105.112.116/?watch=EX/zeecinema-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",ZEETV HD |46
 http://46.105.112.116/?watch=EX/zeetvhd-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="46/IN",SONY S MAX EN
-http://46.105.112.116/?watch=EX/sonysetmax-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",SONY TV EN
-http://46.105.112.116/?watch=EX/sonytv-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Utsav Bharat EN
-http://46.105.112.116/?watch=EX/starbharat-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Utsav Gold
-http://46.105.112.116/?watch=EX/stargold-in/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN", B4U MOVIES
 http://46.105.112.116/?watch=NL/b4umovies-in/index.m3u8?token=
@@ -17951,12 +17953,15 @@ http://46.105.112.116/?watch=NL/elevensports5-por/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",ELEVEN 6 |46
 http://46.105.112.116/?watch=NL/elevensports6-por/index.m3u8?token=
 
+#EXTINF:-1 group-title="46/IN",FOX MOVIES |46
+http://46.105.112.116/?watch=NL/foxmovies-por/index.m3u8?token=
+
 #EXTINF:-1 group-title="46/IN",DAZN F1 |46
 http://46.105.112.116/?watch=NL/mformula1hd-esp/index.m3u8?token=
 http://46.105.112.116/?watch=NL/mformula1hd-esp/tracks-v1/mono.m3u8?token=
 
-#EXTINF:-1 group-title="46/IN",FOX MOVIES |46
-http://46.105.112.116/?watch=NL/foxmovies-por/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",SONY SAB EN
+http://46.105.112.116/?watch=NL/sonysab-uk/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",SPORT.TV |46
 http://46.105.112.116/?watch=NL/sportingtv-por/index.m3u8?token=
@@ -17972,12 +17977,6 @@ http://46.105.112.116/?watch=NL/sporttv3-por/index.m3u8?token=
 http://46.105.112.116/?watch=NL/sporttv4-por/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",SPORT.TV5 |46
 http://46.105.112.116/?watch=NL/sporttv5-por/index.m3u8?token=
-
-#EXTINF:-1 group-title="46/IN",SONY SAB EN
-http://46.105.112.116/?watch=NL/sonysab-uk/index.m3u8?token=
-
-#EXTINF:-1 group-title="46/IN",MTV LIVEHD
-http://46.105.112.116/?watch=NLH/Mtv_HD_NL-nl/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",Sport.TV1 HD |46
 http://46.105.112.116/?watch=NL-N/Sport_TV_1_HD-por/index.m3u8?token=
@@ -17996,6 +17995,9 @@ http://46.105.112.116/?watch=NL-N/Eleven_Sports_1_HD-por/index.m3u8?token=
 http://46.105.112.116/?watch=NL-N/Eleven_Sports_2_HD-por/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",EUROSPORT1 |46
 http://46.105.112.116/?watch=NL-N/Eurosport_1_HD-por/index.m3u8?token=
+
+#EXTINF:-1 group-title="46/IN",MTV LIVEHD
+http://46.105.112.116/?watch=NLH/Mtv_HD_NL-nl/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",Fox Premium 1 |46
 http://46.105.112.116/?watch=PY-N/Fox_Premium_1_HD-br/index.m3u8?token=
@@ -18031,16 +18033,34 @@ http://46.105.112.116/?watch=PY-N/Viva_HD-br/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Warner Channel |46
 http://46.105.112.116/?watch=PY-N/Warner_Channel_HD-br/index.m3u8?token=
 
+#EXTINF:-1 group-title="46/IN",&xplor HD |46
+http://46.105.112.116/?watch=R-EX/ANDXPLOR_HD_-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="46/IN",Star Jalsha HD Bengali |46
+http://46.105.112.116/?watch=R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",ZEE BANGLA HD |46
 http://46.105.112.116/?watch=R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
 
+#EXTINF:-1 group-title="46/IN",BBC earth |46
+http://46.105.112.116/?watch=R-EX/ENGLISH_BBC_EARTH_HD-in/index.m3u8?token=
+HBO HD |offline
+http://46.105.112.116/?watch=R-EX/ENGLISH_HBO_HD-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="46/IN",STAR MOVIES HD |46
+http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",STAR MOVIES |46
 http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=RED_&m3u8
+
+#EXTINF:-1 group-title="46/IN",STAR MOVIES SELECT HD |46
+http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",STAR MOVIES SELECT |46
 http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=RED_&m3u8
 http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=
+
 #EXTINF:-1 group-title="46/IN",STAR WORLD |46
 http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=RED_&m3u8
+#EXTINF:-1 group-title="46/IN",Star World HD En |46
+http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",STAR WORLD PREMIER |46
 http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_WORLD_PREMIER_HD-in/index.m3u8?token=RED_&m3u8
 
@@ -18049,6 +18069,11 @@ http://46.105.112.116/?watch=R-EX/FHD_AND_PICTURES_-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/FHD_AND_PRIVE_-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",AND TV FHD |46
 http://46.105.112.116/?watch=R-EX/FHD_AND_TV_-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="46/IN",MOVIES ACTIVE |46
+http://46.105.112.116/?watch=R-EX/FHD_MOVIES_ACTIVE-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",nick HD |46
+http://46.105.112.116/?watch=R-EX/FHD_NICK_-in/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",STAR MOVIES FHD |46
 http://46.105.112.116/?watch=R-EX/FHD_STAR_MOVIES_-in/index.m3u8?token=RED_&m3u8
@@ -18065,26 +18090,39 @@ http://46.105.112.116/?watch=R-EX/HINDI_AND_TV_HD-in/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",ANIMAL PLANET WORLD |46
 http://46.105.112.116/?watch=R-EX/HINDI_ANIMAL_PLANET_WORLD_HD-in/index.m3u8?token=
-
+#EXTINF:-1 group-title="46/IN",B4U MOVIES |46
 http://46.105.112.116/?watch=R-EX/HINDI_B4U_MOVIES-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",B4U MUSIC |46
 http://46.105.112.116/?watch=R-EX/HINDI_B4U_MUSIC-in/index.m3u8?token=
-
-http://46.105.112.116/?watch=R-EX/HINDI_CINEMA_TV_-in < NO
+#EXTINF:-1 group-title="46/IN",Sony BBC Earth HD Hindi |46
+http://46.105.112.116/?watch=R-EX/HINDI_BBC_EARTH_HD-in/index.m3u8?token=
+CINEMA TV |OFFLINE
+http://46.105.112.116/?watch=R-EX/HINDI_CINEMA_TV_-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",CINEPLEX HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",COLORS HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_COLORS_HD-in/index.m3u8?token=
-
+#EXTINF:-1 group-title="46/IN",Dish Evergreen Classics Active Hindi |46
+http://46.105.112.116/?watch=R-EX/HINDI_EVERGREEN_CLASSIC-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",Fox Life |46
+http://46.105.112.116/?watch=R-EX/HINDI_FOX_LIFE_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",HISTORY TV |46
 http://46.105.112.116/?watch=R-EX/HINDI_HISTORY_TV_18_HD-in/index.m3u8?token=
 
+#EXTINF:-1 group-title="46/IN",Miniplex Hindi |46
+http://46.105.112.116/?watch=R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",MN+ HD English |46
+http://46.105.112.116/?watch=R-EX/HINDI_MN_PLUS_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",MOVIES NOW HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_MOVIES_NOW_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",MTV BEATS HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",MTV+ HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_MTV_PLUS_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",Nat Geo HD Hindi |46
+http://46.105.112.116/?watch=R-EX/HINDI_NAT_GEO_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",Nat Geo Wild Hindi |46
+http://46.105.112.116/?watch=R-EX/HINDI_NAT_GEO_WILD_HD-in/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",SONY MAX HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=
@@ -18095,23 +18133,47 @@ http://46.105.112.116/?watch=R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",SONY SAB HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_SONY_SAB_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="star.gold.in" tvg-name="star.gold.in" group-title="46/IN",STAR GOLD HD |46
+
+#EXTINF:-1 group-title="46/IN",Star Bharat HD Hindi |46
+http://46.105.112.116/?watch=R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
+STAR GOLD HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="star.gold.select.in" tvg-name="star.gold.select.in" group-title="46/IN",STAR GOLD SELECT HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",StarPlus HD |46
+http://46.105.112.116/?watch=R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",Star Movies HD En |46
+http://46.105.112.116/?watch=R-EX/HINDI_STAR_UTSAV_MOVIES-in/index.m3u8?token=
 
-#EXTINF:-1,UTV Action Hindi
+#EXTINF:-1,UTV Action Hindi |46
 http://46.105.112.116/?watch=R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=
-#EXTINF:-1,UTV HD Hindi
+#EXTINF:-1,UTV HD Hindi |46
 http://46.105.112.116/?watch=R-EX/HINDI_UTV_HD-in/index.m3u8?token=
-#EXTINF:-1,UTV Movies Hindi
+#EXTINF:-1,UTV Movies Hindi |46
 http://46.105.112.116/?watch=R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=
 
+#EXTINF:-1 group-title="46/IN",ZEE ACTION |46
+http://46.105.112.116/?watch=R-EX/HINDI_ZEE_ACTION-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",ZEE ANMOL CINEMA |46
+http://46.105.112.116/?watch=R-EX/HINDI_ZEE_ANMOL_CINEMA-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="zee.cinema.in" tvg-name="zee.cinema.in" group-title="46/IN",ZEE CINEMA HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_ZEE_CINEMA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="zee.tv.in" tvg-name="zee.tv.in" group-title="46/IN",ZEE TV HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_ZEE_TV_HD-in/index.m3u8?token=
 
+ASIANET HD |46
 http://46.105.112.116/?watch=R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",Asianet Movies Malayalam |46
+http://46.105.112.116/?watch=R-EX/MALAYALAM_ASIANET_MOVIE-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",Asianet plus HD Malayalam |46
+http://46.105.112.116/?watch=R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",Surya HD Malayalam |46
+http://46.105.112.116/?watch=R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",Surya Movies Malayalam |46
+http://46.105.112.116/?watch=R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="46/IN",ZEE PUNJABI |46
+http://46.105.112.116/?watch=R-EX/PUNJABI_ZEE_PUNJABI-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-id="sony.six.in" tvg-name="sony.six.in" group-title="46/IN",SONY SIX HD |46
 http://46.105.112.116/?watch=R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=
@@ -18121,12 +18183,20 @@ http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?
 http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_3_-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",STAR SPORTS HD1 |46
-http://46.105.112.116/?watch=R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=
+
 #EXTINF:-1 tvg-id="star.sports.select.1.hd.in" tvg-name="star.sports.select.1.hd.in" group-title="46/IN",STAR SPORTS SELECT 1HD |46
 http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="star.sports.select.2.hd.in" tvg-name="star.sports.select.2.hd.in" group-title="46/IN",STAR SPORTS SELECT 2HD |46
 http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="46/IN",Star Sports Tamil |46
+http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="46/IN",STAR GOLD 2 |46
+http://46.105.112.116/?watch=R-EX/STAR_GOLD_2-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="46/IN",STAR SPORTS HD1 |46
+http://46.105.112.116/?watch=R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-id="sony.ten.1.in" tvg-name="sony.ten.1.in" group-title="46/IN",TEN 1HD |46
 http://46.105.112.116/?watch=R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
@@ -18135,47 +18205,12 @@ http://46.105.112.116/?watch=R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="sony.ten.3.in" tvg-name="sony.ten.3.in" group-title="46/IN",TEN 3HD |46
 http://46.105.112.116/?watch=R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
 
-#EXTINF:-1 group-title="46/IN",T Sports |46
-http://46.105.112.116/?watch=R-EX/T_SPORTS_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Star Jalsha HD Bengali |46
-http://46.105.112.116/?watch=R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Star World HD English |46
-http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="46/IN",Sony BBC Earth HD Hindi |46
-http://46.105.112.116/?watch=R-EX/HINDI_BBC_EARTH_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Dish Evergreen Classics Active Hindi |46
-http://46.105.112.116/?watch=R-EX/HINDI_EVERGREEN_CLASSIC-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Fox Life |46
-http://46.105.112.116/?watch=R-EX/HINDI_FOX_LIFE_HD-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="46/IN",Miniplex Hindi |46
-http://46.105.112.116/?watch=R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",MN+ HD English |46
-http://46.105.112.116/?watch=R-EX/HINDI_MN_PLUS_HD-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="46/IN",Nat Geo HD Hindi |46
-http://46.105.112.116/?watch=R-EX/HINDI_NAT_GEO_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Nat Geo Wild Hindi |46
-http://46.105.112.116/?watch=R-EX/HINDI_NAT_GEO_WILD_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Star Bharat HD Hindi |46
-http://46.105.112.116/?watch=R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Star Movies HD English |46
-http://46.105.112.116/?watch=R-EX/HINDI_STAR_UTSAV_MOVIES-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="46/IN",Asianet Movies Malayalam |46
-http://46.105.112.116/?watch=R-EX/MALAYALAM_ASIANET_MOVIE-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Asianet plus HD Malayalam |46
-http://46.105.112.116/?watch=R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Surya HD Malayalam |46
-http://46.105.112.116/?watch=R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Surya Movies Malayalam |46
-http://46.105.112.116/?watch=R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Star Sports Tamil |46
-http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Star Sports 1 Hindi
 #EXTINF:-1 group-title="46/IN",Vijay Music Tamil |46
 http://46.105.112.116/?watch=R-EX/Star_Viyaj_Music-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="46/IN",T Sports |46
+http://46.105.112.116/?watch=R-EX/T_SPORTS_HD-in/index.m3u8?token=
+
 #EXTINF:-1 group-title="46/IN",Colors Tamil HD |46
 http://46.105.112.116/?watch=R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",J Movie Tamil |46
@@ -18206,6 +18241,7 @@ http://46.105.112.116/?watch=R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Zee Tamil |46
 http://46.105.112.116/?watch=R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=
+
 #EXTINF:-1 group-title="46/IN",ETV HD Telugu |46
 http://46.105.112.116/?watch=R-EX/TELUGU_ETV_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",ETV CINEMA HD Telugu |46
@@ -18214,48 +18250,14 @@ http://46.105.112.116/?watch=R-EX/TELUGU_ETV_CINEMA_TELUGU_-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/TELUGU_ETV_LIFE-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",ETV Plus Telugu |46
 http://46.105.112.116/?watch=R-EX/TELUGU_ETV_PLUS-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",GEMINI |46
+http://46.105.112.116/?watch=R-EX/TELUGU_GEMINI_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",History TV18 HD Telugu |46
 http://46.105.112.116/?watch=R-EX/TELUGU_HISTORY_TV_18_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Star Maa HD Telugu |46
 http://46.105.112.116/?watch=R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Star Maa Movies HD Telugu |46
 http://46.105.112.116/?watch=R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="46/IN",&xplor HD |46
-http://46.105.112.116/?watch=R-EX/ANDXPLOR_HD_-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",BBC earth |46
-http://46.105.112.116/?watch=R-EX/ENGLISH_BBC_EARTH_HD-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/ENGLISH_HBO_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",STAR MOVIES HD |46
-http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",STAR MOVIES SELECT HD |46
-http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",MOVIES ACTIVE |46
-http://46.105.112.116/?watch=R-EX/FHD_MOVIES_ACTIVE-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",nick HD |46
-http://46.105.112.116/?watch=R-EX/FHD_NICK_-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="46/IN",StarPlus HD |46
-http://46.105.112.116/?watch=R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",ZEE ACTION |46
-http://46.105.112.116/?watch=R-EX/HINDI_ZEE_ACTION-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",ZEE ANMOL CINEMA |46
-http://46.105.112.116/?watch=R-EX/HINDI_ZEE_ANMOL_CINEMA-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="46/IN",ZEE PUNJABI |46
-http://46.105.112.116/?watch=R-EX/PUNJABI_ZEE_PUNJABI-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="46/IN",STAR GOLD 2 |46
-http://46.105.112.116/?watch=R-EX/STAR_GOLD_2-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="46/IN",GEMINI |46
-http://46.105.112.116/?watch=R-EX/TELUGU_GEMINI_HD-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="46/IN",SuperSport Action |46
-http://46.105.112.116/?watch=AFR-EX/SuperSport_Action_FHD-dstv/index.m3u8?token=
-
-#EXTINF:-1 group-title="46/IN",Sky Cinema Action HD |46
-http://46.105.112.116/?watch=EX/Sky_Cinema_Action_HD-uk/index.m3u8?token= 
 
 
 -/-/-/-/- http://51.178.220.156/?watch= -/-/-/-/- 
@@ -21340,7 +21342,10 @@ check later now emply screen
 http://168.205.87.198:8555/get.php?username=elienecp&password=123456&type=m3u < null < 5-9
 http://168.205.87.198:8555/get.php?username=viniciusvieira&password=vieira123&type=m3u < null < 1-29 
 http://178.18.245.114:8080/get.php?username=Test-123&password=Test-123&type=m3u Real Url: 178.18.245.114:8080     Status: Active    Created: 14/7/2021 8:12:29 AM     Expires: Null    Active Connections: 4     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
-http://209.145.58.109:25461/get.php?username=omohaktv&password=App&type=m3u Real Url: 209.145.58.109:25461     Status: Active    Created: 31/5/2021 2:00:35 PM     Expires: Null    Active Connections: 21     Maximum Connections: 2000     Formats: "m3u8","ts","rtmp"
+
+
+
+
 http://209.145.63.229:25461/get.php?username=Alking&password=Plus&type=m3u Real Url: 209.145.63.229:25461     Status: Active    Created: 22/5/2021 2:58:41 PM     Expires: Null    Active Connections: 3     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
 http://45.141.58.67:80/get.php?username=lisa123&password=lisa123&type=m3u < 1-1
 http://51.158.144.144:25461/get.php?username=MetiTV-telegrm&password=Falas-@Metitv&type=m3u Real Url: 51.158.144.144:25461     Status: Active    Created: 3/7/2021 8:52:21 PM     Expires: Null    Active Connections: 17     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
@@ -21360,7 +21365,7 @@ http://rv.bleutv.net:80/get.php?username=307206155225&password=307206155225&type
 http://rv.therevenge.co:80/get.php?username=307200401051&password=307200401051&type=m3u Real Url: rv.therevenge.co:80     Status: Active    Created: Null     Expires: 18/2/2022 11:58:16 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
 http://s2.famousiptv.com:8080/get.php?username=princeT2021&password=T7p2Tm9qgTduKnhq&type=m3u Real Url: s2.famousiptv.com:8080     Status: Active    Created: 2/6/2021 2:08:59 PM     Expires: Null    Active Connections: 66     Maximum Connections: 400     Formats: "m3u8","ts","rtmp"
 http://serivcestv.xyz/get.php?username=3143244310072655&password=2598854265&type=m3u Real Url: mat4k.com:8080     Status: Active    Created: 14/12/2020 9:13:27 PM     Expires: 14/12/2021 9:15:29 PM    Active Connections: 0     Maximum Connections: 3     Formats: "m3u8","ts","rtmp" < INDIA CH
-http://sindoro.axc.my.id:25461/get.php?username=oxygen&password=VU5ZBKiIBr&type=m3u Real Url: sindoro.axc.my.id:25461     Status: Active    Created: 21/6/2021 2:22:19 AM     Expires: Null    Active Connections: 7     Maximum Connections: 50     Formats: "m3u8","ts","rtmp"
+
 http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/get.php?username=dOOULJsuIL&password=uEsV5ofcKA&type=m3u < 1-0 < quality beIN Channels
 http://smart.hdtv112.com:8080/get.php?username=flussonicperveeti&password=uWRmys3E6r&type=m3u Real Url: tv.smartalb.com:8080     Status: Active    Created: 19/4/2021 11:08:08 PM     Expires: Null    Active Connections: 184     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
 http://sofadad.co.uk:80/ibrar123/ibrar123/203415
@@ -21821,6 +21826,12 @@ Real Url: 209.145.58.109:25461     Status: Active    Created: 22/6/2021 3:25:42 
 http://209.145.58.109:25461/get.php?username=omohaktv&password=App&type=m3u
 Real Url: 209.145.58.109:25461     Status: Active    Created: 31/5/2021 2:00:35 PM     Expires: Null    Active Connections: 20     Maximum Connections: 2000     Formats: "m3u8","ts","rtmp"
 
+http://209.145.58.109:25461/get.php?username=omohaktv&password=App&type=m3u Real Url: 209.145.58.109:25461     Status: Active    Created: 31/5/2021 2:00:35 PM     Expires: Null    Active Connections: 21     Maximum Connections: 2000     Formats: "m3u8","ts","rtmp"
+
+http://209.145.58.109:25461/get.php?username=omohakapp&password=App1&type=m3u
+Real Url: 209.145.58.109:25461     Status: Active    Created: 22/6/2021 3:25:42 PM     Expires: Null    Active Connections: 3     Maximum Connections: 500     Formats: "m3u8","ts","rtmp"
+
+
 #EXTINF:-1 group-title="209.145",Sony ten 1
 http://209.145.58.109:25461/omohaktv/App/72
 #EXTINF:-1 group-title="209.145",Sony ten 2
@@ -21880,6 +21891,11 @@ Real Url: aloka-iptv.xyz:80     Status: Active    Created: 31/5/2021 11:35:09 AM
 
 https://aloka-iptv.xyz:443/get.php?username=MEGA-TV51&password=TELEGRAM&type=m3u
 Real Url: aloka-iptv.xyz:80     Status: Active    Created: 1/5/2021 3:00:24 PM     Expires: Null    Active Connections: 0     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
+
+https://aloka-iptv.xyz:443/get.php?username=APP&password=ALOKA-TV&type=m3u
+Real Url: aloka-iptv.xyz:80     Status: Active    Created: 10/7/2021 2:03:12 PM     Expires: 10/7/2024 4:02:00 PM    Active Connections: 0     Maximum Connections: 100     Formats: "m3u8","ts","rtmp" <<
+
+
 
 
 + + + + + ankastream.com:8080 + + + + +
@@ -24766,14 +24782,6 @@ Real Url: serv.mediaking.fi:8080     Status: Active    Created: 30/11/2018 5:50:
 http://xtr1.com:80/get.php?username=Iptvtree200telg&password=fUfRHGxBm8&type=m3u
 Real Url: ses.ma:80     Status: Active    Created: 28/5/2021 3:33:58 PM     Expires: Null    Active Connections: 37     Maximum Connections: 200     Formats: "ts","m3u8","rtmp" < DOWN
 
-http://sps1.tvmoip.com:18080/get.php?username=localserver2&password=serverlocal2021&type=m3u
-Real Url: sps1.tvmoip.com:18080     Status: Active    Created: 29/9/2019 11:51:00 PM     Expires: Null    Active Connections: 46     Maximum Connections: 50     Formats: "m3u8","ts","rtmp"
-
-http://xtrastv.club:8080/get.php?username=cat54_2&password=9fr3T8J6dsw&type=m3u
-Real Url: xtrastv.club:8080     Status: Active    Created: 4/2/2020 6:52:18 PM     Expires: Null    Active Connections: 21     Maximum Connections: 20     Formats: "m3u8","ts","rtmp"
-
-+ + + + + starshare.live:8080 [MY+MM] + + + + +
-
 
 + + + + + sizlerdegeleceksinizbizlergibi.goldentv.eu:8899 + + + + +
 
@@ -24783,6 +24791,43 @@ Real Url: sizlerdegeleceksinizbizlergibi.goldentv.eu:8899     Status: Active    
 + + + + + sl.masterstv.net:1997 + + + + + null
 
 http://sl.masterstv.net:1997/get.php?username=Rku0iA0DXO&password=s9Bp800MfN&type=m3u Expires: Null    Active Connections: 100     Maximum Connections: 100 < DOWN
+
+
++ + + + + sindoro.axc.my.id:25461 + + + + +
+
+http://sindoro.axc.my.id:25461/get.php?username=oxygen&password=VU5ZBKiIBr&type=m3u Real Url: sindoro.axc.my.id:25461     Status: Active    Created: 21/6/2021 2:22:19 AM     Expires: Null    Active Connections: 7     Maximum Connections: 50     Formats: "m3u8","ts","rtmp"
+
+http://sindoro.axc.my.id:25461/get.php?username=oxygen&password=VU5ZBKiIBr&type=m3u
+Real Url: sindoro.axc.my.id:25461     Status: Active    Created: 21/6/2021 2:22:19 AM     Expires: Null    Active Connections: 5     Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="sindoro",CNA
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/77.m3u8
+#EXTINF:-1 group-title="sindoro",tVN Movies
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/73.m3u8
+#EXTINF:-1 group-title="sindoro",HBO
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/50.m3u8
+#EXTINF:-1 group-title="sindoro",HBO Hits
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/51.m3u8
+#EXTINF:-1 group-title="sindoro",HBO Signature
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/52.m3u8
+#EXTINF:-1 group-title="sindoro",HBO Family
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/53.m3u8
+#EXTINF:-1 group-title="sindoro",FOX Action Movies
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/2.m3u8
+#EXTINF:-1 group-title="sindoro",FOX Family Movies 
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/3.m3u8
+#EXTINF:-1 group-title="sindoro",FOX Movies
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/4.m3u8
+#EXTINF:-1 group-title="sindoro",Star Movies
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/24.m3u8
+#EXTINF:-1 group-title="sindoro",AFN
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/10.m3u8
+#EXTINF:-1 group-title="sindoro",Sony One
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/59.m3u8
+#EXTINF:-1 group-title="sindoro",tVN
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/60.m3u8
+#EXTINF:-1 group-title="sindoro",Channel V
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/86.m3u8
 
 
 + + + + + sniperstv.vip:8080 + + + + + 
@@ -25156,6 +25201,9 @@ Real Url: sps1.tvmoip.com:18080     Status: Active    Created: 11/5/2020 12:35:3
 http://sps1.tvmoip.com:18080/get.php?username=localserver2&password=serverlocal2021&type=m3u
 Real Url: sps1.tvmoip.com:18080     Status: Active    Created: 29/9/2019 11:51:00 PM     Expires: Null    Active Connections: 46     Maximum Connections: 50     Formats: "m3u8","ts","rtmp"
 
+http://sps1.tvmoip.com:18080/get.php?username=localserver2&password=serverlocal2021&type=m3u
+Real Url: sps1.tvmoip.com:18080     Status: Active    Created: 29/9/2019 11:51:00 PM     Expires: Null    Active Connections: 46     Maximum Connections: 50     Formats: "m3u8","ts","rtmp"
+
 
 + + + + + srb-iptv-munja.com:80 + + + + +
 
@@ -25166,6 +25214,7 @@ Real Url: srb-iptv-munja.com:80     Status: Active    Created: 30/4/2020 11:30:5
 + + + + + srv.cybergroup.top:14170 + + + + +
 
 + + + + + starshare.live:8080 + + + + + not work but trap
++ + + + + starshare.live:8080 [MY+MM] + + + + +
 
 https://media.haxed.net/get.php?username=Tay&password=Tay&type=m3u
 Real Url: starshare.live:8080     Status: Active    Created: 29/7/2020 7:23:35 AM     Expires: 1/7/2021 12:38:36 PM    Active Connections: 4     Maximum Connections: 3
@@ -25645,6 +25694,12 @@ Real Url: x122.club:8080     Status: Active    Created: 8/8/2020 11:21:12 AM    
 + + + + + xtream-ui03.feel-tv.com:25461-null + + + + +
 
 http://xtream-ui03.feel-tv.com:25461/get.php?username=stalker&password=qmGbZacuLw&type=m3u Real Url: xtream-ui03.feel-tv.com:25461 Expires: Null    Active Connections: 216     Maximum Connections: 10000 < DOWN
+
+
++ + + + + xtrastv.club:8080 + + + + +
+
+http://xtrastv.club:8080/get.php?username=cat54_2&password=9fr3T8J6dsw&type=m3u
+Real Url: xtrastv.club:8080     Status: Active    Created: 4/2/2020 6:52:18 PM     Expires: Null    Active Connections: 21     Maximum Connections: 20     Formats: "m3u8","ts","rtmp"
 
 + + + + + xxxxlocal.com:8080 + + + + +
 
