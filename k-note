@@ -95,10 +95,6 @@ http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 
 
-
-
-
-
 http://192.99.54.242/ca_eng/FOOD_NETWORK/index.m3u8
 http://192.99.54.242/ind_tam/FOOD_NETWORK/index.m3u8
 http://192.99.54.242/uk/FOOD_NETWORK/index.m3u8
@@ -1063,6 +1059,63 @@ https://b.pscdn.live/hls/bein-sports-3.m3u8
 https://b.pscdn.live/hls/bein-sports-4.m3u8
 https://b.pscdn.live/hls/bein-sports-max-1.m3u8
 https://b.pscdn.live/hls/bein-sports-max-2.m3u8
+
+beIN 1PRE LD
+http://directn.mrnova.online/live/60010_.m3u8?token=ndirect50k
+n.a http://directn.mrnova.online/live/60019_.m3u8?token=ndirect50k
+n.a. http://directn.mrnova.online/live/60020_.m3u8?token=ndirect50k
+beIN 1 SD
+http://directn.mrnova.online/live/60030_.m3u8?token=ndirect50k
+beIN 1 PURE
+http://directn.mrnova.online/live/60040_.m3u8?token=ndirect50k
+n.a. http://directn.mrnova.online/live/60050_.m3u8?token=ndirect50k
+
+#EXTINF:-1 group-title="nova",beIN 1PRE MD
+http://directn.mrnova.online/live/60060_.m3u8?token=ndirect50k
+#EXTINF:-1 group-title="nova",beIN 2PRE MD
+http://directn.mrnova.online/live/60061_.m3u8?token=ndirect50k
+#EXTINF:-1 group-title="nova",beIN 3PRE MD
+http://directn.mrnova.online/live/60062_.m3u8?token=ndirect50k
+#EXTINF:-1 group-title="nova",beIN 1 MD
+http://directn.mrnova.online/live/60063_.m3u8?token=ndirect50k
+#EXTINF:-1 group-title="nova",beIN 2 MD
+http://directn.mrnova.online/live/60064_.m3u8?token=ndirect50k
+#EXTINF:-1 group-title="nova",beIN 3 MD
+http://directn.mrnova.online/live/60065_.m3u8?token=ndirect50k
+#EXTINF:-1 group-title="nova",beIN 4 MD
+http://directn.mrnova.online/live/60066_.m3u8?token=ndirect50k
+#EXTINF:-1 group-title="nova",beIN 5 MD
+http://directn.mrnova.online/live/60067_.m3u8?token=ndirect50k
+#EXTINF:-1 group-title="nova",beIN 6 MD
+http://directn.mrnova.online/live/60068_.m3u8?token=ndirect50k
+#EXTINF:-1 group-title="nova",beIN 7 MD
+http://directn.mrnova.online/live/60069_.m3u8?token=ndirect50k
+
+beIN 1
+http://directn.mrnova.online/live/60070_.m3u8?token=ndirect50k
+beIN 1
+http://directn.mrnova.online/live/60080_.m3u8?token=ndirect50k
+
+#EXTINF:-1 group-title="nova",beIN 1PRE HD
+http://directn.mrnova.online/live/60090_.m3u8?token=ndirect50k
+#EXTINF:-1 group-title="nova",beIN 2PRE HD
+http://directn.mrnova.online/live/60091_.m3u8?token=ndirect50k
+#EXTINF:-1 group-title="nova",beIN 3PRE HD
+http://directn.mrnova.online/live/60092_.m3u8?token=ndirect50k
+#EXTINF:-1 group-title="nova",beIN 1 HD
+http://directn.mrnova.online/live/60093_.m3u8?token=ndirect50k
+#EXTINF:-1 group-title="nova",beIN 2 HD
+http://directn.mrnova.online/live/60094_.m3u8?token=ndirect50k
+#EXTINF:-1 group-title="nova",beIN 3 HD
+http://directn.mrnova.online/live/60095_.m3u8?token=ndirect50k
+#EXTINF:-1 group-title="nova",beIN 4 HD
+http://directn.mrnova.online/live/60096_.m3u8?token=ndirect50k
+#EXTINF:-1 group-title="nova",beIN 5 HD
+http://directn.mrnova.online/live/60097_.m3u8?token=ndirect50k
+#EXTINF:-1 group-title="nova",beIN 6 HD
+http://directn.mrnova.online/live/60098_.m3u8?token=ndirect50k
+#EXTINF:-1 group-title="nova",beIN 7 HD
+http://directn.mrnova.online/live/60099_.m3u8?token=ndirect50k
 
 #EXTINF:-1,BBC SPORTS
 http://eu.mazystreams.xyz/live/1/playlist.m3u8
