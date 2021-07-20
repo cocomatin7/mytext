@@ -22178,6 +22178,29 @@ Real Url: edge.multiplay.cl:25461     Status: Active    Created: 21/11/2019 6:10
 http://elattar-tv.org:8080/get.php?username=dazexchange&password=b4mg5uu7eY&type=m3u
 Real Url: elattar-tv.org:8080     Status: Active    Created: 25/6/2021 2:29:02 PM     Expires: Null    Active Connections: 167     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
 
+#EXTINF:-1 group-title="elattar",UK: MTV 90s
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25166.m3u8
+#EXTINF:-1 group-title="elattar",UK: MTV Base
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25167.m3u8
+#EXTINF:-1 group-title="elattar",UK: MTV Classic
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25168.m3u8
+#EXTINF:-1 group-title="elattar",UK: MTV Dance
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25169.m3u8
+#EXTINF:-1 group-title="elattar",UK: MTV HD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25170.m3u8
+#EXTINF:-1 group-title="elattar",UK: MTV Hits
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25171.m3u8
+#EXTINF:-1 group-title="elattar",UK: MTV LIVE HD
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25172.m3u8
+#EXTINF:-1 group-title="elattar",UK: MTV Music
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25173.m3u8
+#EXTINF:-1 group-title="elattar",UK: MTV OMG
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25174.m3u8
+#EXTINF:-1 group-title="elattar",UK: MTV Rocks
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25175.m3u8
+#EXTINF:-1 group-title="elattar",UK: Now 90s
+http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25185.m3u8
+
 #EXTINF:-1 group-title="elattar",IN: StarPlus HD
 http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/33221.m3u8
 #EXTINF:-1 group-title="elattar",UK@ Star Bharat HD
