@@ -17987,6 +17987,8 @@ http://46.105.112.116/?watch=NL/mformula1hd-esp/tracks-v1/mono.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",SONY SAB EN |46
 http://46.105.112.116/?watch=NL/sonysab-uk/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",SONY TV  ASIA |46
+http://46.105.112.116/?watch=NL/sonytvasia-in/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",SPORT.TV |46
 http://46.105.112.116/?watch=NL/sportingtv-por/index.m3u8?token=
@@ -18065,34 +18067,38 @@ http://46.105.112.116/?watch=PY-N/Warner_Channel_HD-br/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",&xplor HD |46
 http://46.105.112.116/?watch=R-EX/ANDXPLOR_HD_-in/index.m3u8?token=
-
+#EXTINF:-1 group-title="46/IN",ENTER 10 BANGLA
+http://46.105.112.116/?watch=R-EX/BANGLA_ENTER_10_BANGLA-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",NAT GEO BENGALI
+http://46.105.112.116/?watch=R-EX/BENGALI_NAT_GEO_BENGALI_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Star Jalsha HD Bengali |46
 http://46.105.112.116/?watch=R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",ZEE BANGLA HD |46
 http://46.105.112.116/?watch=R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",ZEE BANGLA CINEMA
+http://46.105.112.116/?watch=R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",COLOR RISHTEY
+http://46.105.112.116/?watch=R-EX/COLOR_RISHTEY_-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",DANGAL
+http://46.105.112.116/?watch=R-EX/DANGAL_-in/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",BBC earth |46
 http://46.105.112.116/?watch=R-EX/ENGLISH_BBC_EARTH_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",COLORS INFINITY
+http://46.105.112.116/?watch=R-EX/ENGLISH_COLORS_INFINITY_HD-in/index.m3u8?token=
 HBO HD |offline
 http://46.105.112.116/?watch=R-EX/ENGLISH_HBO_HD-in/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",STAR MOVIES HD |46
 http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",STAR MOVIES |46
-http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=RED_&m3u8
-
-#EXTINF:-1 group-title="46/IN",STAR MOVIES SELECT HD |46
-http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",STAR MOVIES SELECT |46
-http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=RED_&m3u8
+http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=
 
-#EXTINF:-1 group-title="46/IN",STAR WORLD |46
-http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=RED_&m3u8
 #EXTINF:-1 group-title="46/IN",Star World HD En |46
 http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",STAR WORLD PREMIER |46
-http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_WORLD_PREMIER_HD-in/index.m3u8?token=RED_&m3u8
+http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_WORLD_PREMIER_HD-in/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",AND PICTURES FHD |46
 http://46.105.112.116/?watch=R-EX/FHD_AND_PICTURES_-in/index.m3u8?token=
@@ -18106,7 +18112,9 @@ http://46.105.112.116/?watch=R-EX/FHD_MOVIES_ACTIVE-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/FHD_NICK_-in/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",STAR MOVIES FHD |46
-http://46.105.112.116/?watch=R-EX/FHD_STAR_MOVIES_-in/index.m3u8?token=RED_&m3u8
+http://46.105.112.116/?watch=R-EX/FHD_STAR_MOVIES_-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",STAR PLUS
+http://46.105.112.116/?watch=R-EX/FHD_STAR_PLUS_-in/index.m3u8?token=
 
 http://46.105.112.116/?watch=R-EX/HINDI_AND_EXPLORE_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",AND FLIX HD |46
@@ -18291,17 +18299,7 @@ http://46.105.112.116/?watch=R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
 
 
 
-http://46.105.112.116/?watch=NL/sonytvasia-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/BANGLA_ENTER_10_BANGLA-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/BENGALI_NAT_GEO_BENGALI_HD-in/index.m3u8?token=samitvhd.com
-http://46.105.112.116/?watch=R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/COLOR_RISHTEY_-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/DANGAL_-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/ENGLISH_COLORS_INFINITY_HD-in/index.m3u8?token=samitvhd.com
-http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=samitvhd.com
-http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=samitvhd.com
-http://46.105.112.116/?watch=R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=samitvhd.com
-http://46.105.112.116/?watch=R-EX/FHD_STAR_PLUS_-in/index.m3u8?token=
+
 http://46.105.112.116/?watch=R-EX/GUJARATI_COLORS_GUJARATI_CINEMA-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/HINDI_BBC_EARTH_HD-in/index.m3u8?token=samitvhd.com
 http://46.105.112.116/?watch=R-EX/HINDI_ENTER_10_MOVIES-in/index.m3u8?token=
