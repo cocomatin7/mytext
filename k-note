@@ -17758,6 +17758,10 @@ http://46.105.112.116/?watch=EX/beinsports4hd-tr/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",beIN NBA HD |46
 http://46.105.112.116/?watch=EX/beIN_NBA_HD-ar/index.m3u8?token=
 
+#EXTINF:-1 group-title="46/IN",ZEE BANGLA |46
+http://46.105.112.116/?watch=EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
+http://46.105.112.116/?watch=EX/BENGALI_ZEE_BANGLA_HD-in/tracks-v1a1/index.m3u8?token=
+
 #EXTINF:-1 group-title="46/IN",Boxnation |46
 http://46.105.112.116/?watch=EX/Boxnation-uk/index.m3u8?token=
 
@@ -17892,6 +17896,8 @@ http://46.105.112.116/?watch=EX/sonymaxuk-in/index.m3u8?token=
 http://46.105.112.116/?watch=EX/sonysetmax-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",SONY TV EN
 http://46.105.112.116/?watch=EX/sonytv-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",StarPlus
+http://46.105.112.116/?watch=EX/starplus-in/index.m3u8?token=?token=
 
 #EXTINF:-1 tvg-id="sk.1.hr" tvg-name="sk.1.hr" group-title="46/IN",SK 1HD |46
 http://46.105.112.116/?watch=EX/Sport_Klub_1-balkan/index.m3u8?token=
@@ -17905,6 +17911,9 @@ http://46.105.112.116/?watch=EX/Sport_Klub_4-balkan/index.m3u8?token=
 http://46.105.112.116/?watch=EX/Sport_Klub_5-balkan/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",SK 6HD |46
 http://46.105.112.116/?watch=EX/Sport_Klub_6-balkan/index.m3u8?token=
+
+#EXTINF:-1 group-title="46/IN",StarPlus UK
+http://46.105.112.116/?watch=EX/UKSD_Star_Plus-uk/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",Utsav Bharat EN
 http://46.105.112.116/?watch=EX/starbharat-in/index.m3u8?token=
@@ -17925,8 +17934,6 @@ http://46.105.112.116/?watch=EX/zeeaction-in/index.m3u8?token=
 http://46.105.112.116/?watch=EX/zeecinema-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",ZEETV HD |46
 http://46.105.112.116/?watch=EX/zeetvhd-in/index.m3u8?token=
-
-
 
 #EXTINF:-1 group-title="46/IN", B4U MOVIES |46
 http://46.105.112.116/?watch=NL/b4umovies-in/index.m3u8?token=
@@ -18283,10 +18290,7 @@ http://46.105.112.116/?watch=R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
 
 
-http://46.105.112.116/?watch=EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
-http://46.105.112.116/?watch=EX/BENGALI_ZEE_BANGLA_HD-in/tracks-v1a1/index.m3u8?token=
-http://46.105.112.116/?watch=EX/UKSD_Star_Plus-uk/index.m3u8?token=
-http://46.105.112.116/?watch=EX/starplus-in/index.m3u8?token=?token=
+
 http://46.105.112.116/?watch=NL/sonytvasia-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/BANGLA_ENTER_10_BANGLA-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/BENGALI_NAT_GEO_BENGALI_HD-in/index.m3u8?token=samitvhd.com
