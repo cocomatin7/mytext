@@ -20649,6 +20649,7 @@ http://46.105.112.116/?watch=VOD/redaction-br/index.m3u8?token= < NO
 
 -/-/-/-/-/- 84.17.41.7/ -/-/-/-/-/- WORK
 
+http://xlx723.dyndns.org/iproxy/miniProxy.php/
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 http://84.17.41.7/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
@@ -20656,6 +20657,9 @@ http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 http://84.17.41.7/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
 
 -/-/-/-/-/- 185.246.209.207 -/-/-/-/-/- NOT WORK > TO TEST WITH MINI PROXY
+
+http://xlx723.dyndns.org/iproxy/miniProxy.php/
+https://ritesh.ch/miniproxy/miniproxy.php/
 
 & Picture HD
 http://185.246.209.207/HINDI_AND_PICTURES_HD_INDIA/tracks-v1a1/mono.m3u8
@@ -20667,14 +20671,26 @@ ZEE CINEMA HD
 http://185.246.209.207/HINDI_ZEE_CINEMA_INDIA/tracks-v1a1/mono.m3u8
 
 
--/-/-/-/-/- 208.115.215.42/ -/-/-/-/-/- NOT WORK > TO TEST WITH MINI PROXY
+-/-/-/-/-/- 208.115.215.42/ -/-/-/-/-/- NOT WORK > TO CHECK LATER
 
-http://208.115.215.42/SonY_Sab_HD/tracks-v1a1/mono.m3u8
-http://208.115.215.42/Sony_Tv_HD_01/tracks-v1a1/mono.m3u8
-http://208.115.215.42/Sony_Tv_HD_02/tracks-v1a1/mono.m3u8
-http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
-http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
-http://208.115.215.42/Utsav_Plus_UK/tracks-v1a1/mono.m3u8
+http://xlx723.dyndns.org/iproxy/miniProxy.php/
+
+#EXTINF:-1 group-title="208.155",Sony Max HD
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="208.155",Sony Sab HD
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+
+n.a. http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/SonY_Sab_HD/tracks-v1a1/mono.m3u8
+n.a. http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Sony_Tv_HD_01/tracks-v1a1/mono.m3u8
+n.a. http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Sony_Tv_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="208.155",Utsav Gold HD
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="208.155",Utsav Plus HD
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="208.155",Utsav Plus UK
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Utsav_Plus_UK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="208.155",ZEE CInema HD
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 
 
 + + + + + 221.120.204.4 + + + + +
@@ -20711,7 +20727,7 @@ offline http://221.120.204.4/star-plus/index.m3u8
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 
 
--/-/-/-/-/- http://tiny.one/ -/-/-/-/-/- 
+-/-/-/-/-/- http://tiny.one/ -/-/-/-/-/- short url *
 
 http://tiny.one/Rede-Canais/Globo_HD_Minas-br/tracks-a1v1/playlist.m3u8?token= > http://50.7.34.155:2200/BR/Globo_HD_Minas-br/tracks-a1v1/playlist.m3u8?hl=20&token=
 http://tiny.one/Rede-Canais/Globo_HD_Minas-br/tracks-a1v1/playlist.m3u8?token=TxQVBFGBCFVDGFDFFDFGFHDDGBDDFHFDFHHGFFHJHGFFHGFVHGFHHGFBGFTTYHGRRFHYTFHHTGHTRFHYTRHGFTYHGFRTYHGFFHYRRHYTRGHHTRFHHTRFHYTRFHGFRTHGFHJUYTFHTREYTRFHYTRERHYTRHYTRFHYRERTYJHGFFGHYTRFHTRERTYTRFHHYTTRRHGFRTYGFFYTTEFGHGFDRTHGFDRTGFDGFDRTRGFRTGF&username=janildo@Rede-Canais.com&password=jani102030
