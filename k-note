@@ -18204,6 +18204,10 @@ http://46.105.112.116/?watch=R-EX/HINDI_ZEE_ANMOL_CINEMA-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/HINDI_ZEE_CINEMA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="zee.tv.in" tvg-name="zee.tv.in" group-title="46/IN",ZEE TV HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_ZEE_TV_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",JALSA MOVIES
+http://46.105.112.116/?watch=R-EX/JALSA_MOVIES_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",UDAYA MOVIES
+http://46.105.112.116/?watch=R-EX/KANNADA_UDAYA_MOVIES-in/index.m3u8?token=
 
 ASIANET HD |46
 http://46.105.112.116/?watch=R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=
@@ -18218,6 +18222,11 @@ http://46.105.112.116/?watch=R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",ZEE PUNJABI |46
 http://46.105.112.116/?watch=R-EX/PUNJABI_ZEE_PUNJABI-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",RISHTY CINEPLEX
+http://46.105.112.116/?watch=R-EX/RISHTY_CINEPLEX-in/index.m3u8?token=
+
+#EXTINF:-1 group-title="46/IN",SONY HD
+http://46.105.112.116/?watch=R-EX/SONY_HD_-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-id="sony.six.in" tvg-name="sony.six.in" group-title="46/IN",SONY SIX HD |46
 http://46.105.112.116/?watch=R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=
@@ -18296,20 +18305,14 @@ http://46.105.112.116/?watch=R-EX/TELUGU_ETV_LIFE-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/TELUGU_ETV_PLUS-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",GEMINI |46
 http://46.105.112.116/?watch=R-EX/TELUGU_GEMINI_HD-in/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",GEMINI MOVIES |46
+http://46.105.112.116/?watch=R-EX/TELUGU_GEMINI_MOVIES_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",History TV18 HD Telugu |46
 http://46.105.112.116/?watch=R-EX/TELUGU_HISTORY_TV_18_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Star Maa HD Telugu |46
 http://46.105.112.116/?watch=R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Star Maa Movies HD Telugu |46
 http://46.105.112.116/?watch=R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
-
-
-http://46.105.112.116/?watch=R-EX/JALSA_MOVIES_HD-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/KANNADA_UDAYA_MOVIES-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/MALAYALAM_ASIANET_MOVIE-in/index.m3u8?token=?token=
-http://46.105.112.116/?watch=R-EX/RISHTY_CINEPLEX-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/SONY_HD_-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/TELUGU_GEMINI_MOVIES_HD-in/index.m3u8?token=
 
 
 -/-/-/-/- http://51.178.220.156/?watch= -/-/-/-/- 
