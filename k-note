@@ -12,29 +12,7 @@ http://sonyiptv.net:8080/saleem/saleem/147744
 
 
 
-DISCOVERY HD
-http://tv.pmcon.net/hls/stream9.m3u8
-STAR SPORTS SELECT 1
-http://tv.pmcon.net/hls/stream12.m3u8
 
-&pictures HD
-http://tv.pmcon.net/hls/stream14.m3u8
-ZEE CINEMA HD
-http://tv.pmcon.net/hls/stream25.m3u8
-colors HD
-http://tv.pmcon.net/hls/stream28.m3u8
-colors CINEPLEX
-http://tv.pmcon.net/hls/stream29.m3u8
-BBC WORLD NEWS
-http://tv.pmcon.net/hls/stream36.m3u8
-travelxp
-http://tv.pmcon.net/hls/stream37.m3u8
-StarPlus HD
-http://tv.pmcon.net/hls/stream38.m3u8
-SONY TEN 2
-http://tv.pmcon.net/hls/stream39.m3u8
-SONY TEN 1
-http://tv.pmcon.net/hls/stream40.m3u8
 
 http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
@@ -21140,39 +21118,41 @@ https://f8e7y4c6.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
 
 + + + + + http://tv.pmcon.net + + + + +
 
-#EXTINF:-1,&prive
+#EXTINF:-1 group-title="IN/pmcon",&prive
 http://tv.pmcon.net/hls/stream1.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1 group-title="IN/pmcon",AXN
 http://tv.pmcon.net/hls/stream2.m3u8
-#EXTINF:-1,STAR MOVIES
+#EXTINF:-1 group-title="IN/pmcon",STAR MOVIES
 http://tv.pmcon.net/hls/stream3.m3u8
-#EXTINF:-1,9XM
+#EXTINF:-1 group-title="IN/pmcon",9XM
 http://tv.pmcon.net/hls/stream4.m3u8
-#EXTINF:-1,pogo
+#EXTINF:-1 group-title="IN/pmcon",pogo
 http://tv.pmcon.net/hls/stream5.m3u8
-#EXTINF:-1,animal planet
+#EXTINF:-1 group-title="IN/pmcon",animal planet
 http://tv.pmcon.net/hls/stream6.m3u8
 UTV Action
 http://tv.pmcon.net/hls/stream7.m3u8
-#EXTINF:-1,zoom
+#EXTINF:-1 group-title="IN/pmcon",zoom
 http://tv.pmcon.net/hls/stream8.m3u8
-#EXTINF:-1,Discovery
+#EXTINF:-1 group-title="IN/pmcon",Discovery
 http://tv.pmcon.net/hls/stream9.m3u8
-#EXTINF:-1,CH 10
+#EXTINF:-1 group-title="IN/pmcon",CH 10
 http://tv.pmcon.net/hls/stream10.m3u8
-#EXTINF:-1,PTV Sport
+#EXTINF:-1 group-title="IN/pmcon",PTV Sport
 http://tv.pmcon.net/hls/stream11.m3u8
-#EXTINF:-1,ER
+#EXTINF:-1 group-title="IN/pmcon",ER
 http://tv.pmcon.net/hls/stream12.m3u8
-#EXTINF:-1,NAT GEO EN
+#EXTINF:-1 group-title="IN/pmcon",NAT GEO EN
 http://tv.pmcon.net/hls/stream13.m3u8
-#EXTINF:-1,STAR SPORTS 1
+#EXTINF:-1 group-title="IN/pmcon",&pictures HD
+http://tv.pmcon.net/hls/stream14.m3u8
+#EXTINF:-1 group-title="IN/pmcon",STAR SPORTS 1
 http://tv.pmcon.net/hls/stream15.m3u8
-#EXTINF:-1,STAR SPORTS 2
+#EXTINF:-1 group-title="IN/pmcon",STAR SPORTS 2
 http://tv.pmcon.net/hls/stream16.m3u8
 http://tv.pmcon.net/hls/stream17.m3u8
 http://tv.pmcon.net/hls/stream18.m3u8
-#EXTINF:-1,STAR GOLD
+#EXTINF:-1 group-title="IN/pmcon",STAR GOLD
 http://tv.pmcon.net/hls/stream19.m3u8
 
 http://tv.pmcon.net/hls/stream20.m3u8
@@ -21180,13 +21160,13 @@ http://tv.pmcon.net/hls/stream21.m3u8
 http://tv.pmcon.net/hls/stream22.m3u8
 http://tv.pmcon.net/hls/stream23.m3u8
 http://tv.pmcon.net/hls/stream24.m3u8
-#EXTINF:-1,ZEE CINEMA
+#EXTINF:-1 group-title="IN/pmcon",ZEE CINEMA
 http://tv.pmcon.net/hls/stream25.m3u8
 http://tv.pmcon.net/hls/stream26.m3u8
 http://tv.pmcon.net/hls/stream27.m3u8
-#EXTINF:-1,color
+#EXTINF:-1 group-title="IN/pmcon",color
 http://tv.pmcon.net/hls/stream28.m3u8
-#EXTINF:-1,color CINEPLEX
+#EXTINF:-1 group-title="IN/pmcon",color CINEPLEX
 http://tv.pmcon.net/hls/stream29.m3u8
 
 http://tv.pmcon.net/hls/stream30.m3u8
@@ -21197,12 +21177,13 @@ http://tv.pmcon.net/hls/stream34.m3u8
 http://tv.pmcon.net/hls/stream35.m3u8
 http://tv.pmcon.net/hls/stream36.m3u8
 http://tv.pmcon.net/hls/stream37.m3u8
-#EXTINF:-1,STAR PLUS
+#EXTINF:-1 group-title="IN/pmcon",STAR PLUS
 http://tv.pmcon.net/hls/stream38.m3u8
-#EXTINF:-1,SONY TEN 2
+#EXTINF:-1 group-title="IN/pmcon",SONY TEN 2
 http://tv.pmcon.net/hls/stream39.m3u8
-#EXTINF:-1,SONY TEN 1
+#EXTINF:-1 group-title="IN/pmcon",SONY TEN 1
 http://tv.pmcon.net/hls/stream40.m3u8
+
 
 + + + + + http://samitvhd.com/free-tv-streaming-android-mobile/ + + + + + 
 
