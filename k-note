@@ -17761,6 +17761,12 @@ http://46.105.112.116/?watch=BR/Premiere_5_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/Premiere_6_HD-br/index.m3u8?token=
 #EXTINF:-1 tvg-id="premiere.7.br" tvg-name="premiere.7.br" group-title="46/IN",Premiere 7 HD |46
 http://46.105.112.116/?watch=BR/Premiere_7_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",Sportv 1
+http://46.105.112.116/?watch=BR/Sportv_1_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",Sportv 2
+http://46.105.112.116/?watch=BR/Sportv_2_HD-br/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",Sportv 3
+http://46.105.112.116/?watch=BR/Sportv_3_HD-br/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",WB TV |46
 http://46.105.112.116/?watch=BR/Warner_Channel_HD-br/index.m3u8?token=
@@ -17893,6 +17899,15 @@ http://46.105.112.116/?watch=EX/Channel_5_HD-uk/index.m3u8?token=
 http://46.105.112.116/?watch=EX/Eurosport_1_HD-uk/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Eurosport 2HD |46
 http://46.105.112.116/?watch=EX/Eurosport_2_HD-uk/index.m3u8?token=
+
+#EXTINF:-1 group-title="46/IN",RMC SPORT1
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT1_HD-fr/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",RMC SPORT2
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT2_HD-fr/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",RMC SPORT3
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT3_HD-fr/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",RMC SPORT4
+http://46.105.112.116/?watch=EX/FR_RMC_SPORT4_HD-fr/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",MATCH |46
 http://46.105.112.116/?watch=EX/match-ru/index.m3u8?token=
@@ -18353,6 +18368,7 @@ http://46.105.112.116/?watch=R-EX/STAR_GOLD_2-in/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",STAR SPORTS HD1 |46
 http://46.105.112.116/?watch=R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=
+http://46.105.112.116/?watch=R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-id="sony.ten.1.in" tvg-name="sony.ten.1.in" group-title="46/IN",TEN 1HD |46
 http://46.105.112.116/?watch=R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
@@ -18416,15 +18432,6 @@ http://46.105.112.116/?watch=R-EX/TELUGU_HISTORY_TV_18_HD-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Star Maa Movies HD Telugu |46
 http://46.105.112.116/?watch=R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
-
-http://46.105.112.116/?watch=R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?token=
-http://46.105.112.116/?watch=EX/FR_RMC_SPORT1_HD-fr/index.m3u8?token=
-http://46.105.112.116/?watch=EX/FR_RMC_SPORT2_HD-fr/index.m3u8?token=
-http://46.105.112.116/?watch=EX/FR_RMC_SPORT3_HD-fr/index.m3u8?token=
-http://46.105.112.116/?watch=EX/FR_RMC_SPORT4_HD-fr/index.m3u8?token=
-http://46.105.112.116/?watch=BR/Sportv_1_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=BR/Sportv_2_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=BR/Sportv_3_HD-br/index.m3u8?token=
 
 -/-/-/-/- http://51.178.220.156/?watch= -/-/-/-/- 
  
