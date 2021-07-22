@@ -162,7 +162,7 @@ http://143.244.60.78/BEINSport3ENHD/tracks-v1a1/mono.m3u8?token=
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein1
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein2
 
-http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
@@ -8351,202 +8351,6 @@ http://stream.tvtap.live:8081/live/us-abc.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/us-amc.stream/playlist.m3u8
 #EXTINF:-1,BBC News
 http://stream.tvtap.live:8081/live/bbcnews.stream/playlist.m3u8
-
-#EXTINF:-1,beIN SPORTS 1 |tap
-http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
-#EXTINF:-1,beIN SPORTS 2 |tap
-http://stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8
-#EXTINF:-1,beIN SPORTS 3 |tap
-http://stream.tvtap.live:8081/live/bein3.stream/chunks.m3u8
-http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
-http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
-http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
-http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
-Offline
-http://stream.tvtap.live:8081/live/bein8.stream/chunks.m3u8
-Offline
-http://stream.tvtap.live:8081/live/bein9.stream/chunks.m3u8
-#EXTINF:-1,beIN SPORTS 10 |tap
-http://stream.tvtap.live:8081/live/bein10.stream/chunks.m3u8
-#EXTINF:-1,beIN SPORTS 11 |tap
-http://stream.tvtap.live:8081/live/bein11.stream/chunks.m3u8
-#EXTINF:-1,beIN SPORTS 3EN |tap
-http://stream.tvtap.live:8081/live/bein12.stream/chunks.m3u8
-
-#EXTINF:-1,Box Nation
-http://stream.tvtap.live:8081/live/boxnation.stream/playlist.m3u8
-#EXTINF:-1,beIN SPORTS |tap
-http://stream.tvtap.live:8081/live/beinus.stream/playlist.m3u8
-#EXTINF:-1,BT Sport 1 |tap
-http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
-#EXTINF:-1,BT Sport 2 |tap
-http://stream.tvtap.live:8081/live/bt2.stream/playlist.m3u8
-#EXTINF:-1,BT Sport 3 |tap
-http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
-#EXTINF:-1,BT Sport ESPN
-http://stream.tvtap.live:8081/live/espnuk.stream/playlist.m3u8
-#EXTINF:-1,CBS Sports Network
-http://stream.tvtap.live:8081/live/cbssports.stream/playlist.m3u8
-#EXTINF:-1,DAZN 1DE |tap
-http://stream.tvtap.live:8081/live/de-dazn1.stream/chunks.m3u8
-#EXTINF:-1,DAZN 2DE |tap
-http://stream.tvtap.live:8081/live/de-dazn2.stream/chunks.m3u8
-http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/skysports-premier-league.stream/chunks.m3u8
-http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
-
-#EXTINF:-1,Cinemax
-http://stream.tvtap.live:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:-1,Cinemax 5Star
-http://stream.tvtap.live:8081/live/us-cinemax-5starmax.stream/playlist.m3u8
-#EXTINF:-1,Cinemax Action
-http://stream.tvtap.live:8081/live/us-cinemaxaction.stream/playlist.m3u8
-#EXTINF:-1,CNN |tap
-http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
-#EXTINF:-1,Crime & Investigation
-http://stream.tvtap.live:8081/live/uk-crime-invest.stream/playlist.m3u8
-#EXTINF:-1,Discovery
-http://stream.tvtap.live:8081/live/us-discovery.stream/playlist.m3u8
-#EXTINF:-1,Discovery
-http://stream.tvtap.live:8081/live/discovery.stream/playlist.m3u8
-#EXTINF:-1,Discovery Science
-http://stream.tvtap.live:8081/live/us-discoveryscience.stream/playlist.m3u8
-#EXTINF:-1,ESPN
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
-#EXTINF:-1,ESPN 2
-http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
-#EXTINF:-1,Fox
-http://stream.tvtap.live:8081/live/us-fox.stream/playlist.m3u8
-#EXTINF:-1,Fox Sports 1 |tap
-http://stream.tvtap.live:8081/live/foxsports1.stream/playlist.m3u8
-#EXTINF:-1,Fox Sports 2 |tap
-http://stream.tvtap.live:8081/live/foxsports2.stream/playlist.m3u8
-#EXTINF:-1,FX
-http://stream.tvtap.live:8081/live/us-fx.stream/playlist.m3u8
-#EXTINF:-1,H2
-http://stream.tvtap.live:8081/live/uk-h2.stream/playlist.m3u8
-#EXTINF:-1,HBO
-http://stream.tvtap.live:8081/live/us-hbo.stream/playlist.m3u8
-#EXTINF:-1,HBO Family
-http://stream.tvtap.live:8081/live/hbofamily.stream/playlist.m3u8
-#EXTINF:-1,HBO Zone
-http://stream.tvtap.live:8081/live/us-hbozone.stream/playlist.m3u8
-#EXTINF:-1,History
-http://stream.tvtap.live:8081/live/history.stream/playlist.m3u8
-#EXTINF:-1,History US
-http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
-#EXTINF:-1,Investigation Discovery
-http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
-#EXTINF:-1,MUTV
-http://stream.tvtap.live:8081/live/mutv.stream/playlist.m3u8
-#EXTINF:-1,Nat Geo
-http://stream.tvtap.live:8081/live/us-natgeo/playlist.m3u8
-#EXTINF:-1,Nat Geo
-http://stream.tvtap.live:8081/live/natgeo/playlist.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://stream.tvtap.live:8081/live/us-natgeowild/playlist.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://stream.tvtap.live:8081/live/natgeowild/playlist.m3u8
-#EXTINF:-1,NBA TV
-http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
-#EXTINF:-1,NBC
-http://stream.tvtap.live:8081/live/us-nbcback.stream/playlist.m3u8
-#EXTINF:-1,NBCSN |tap
-http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
-#EXTINF:-1,Paramount Networks
-http://stream.tvtap.live:8081/live/us-paramount.stream/playlist.m3u8
-#EXTINF:-1,Showtime
-http://stream.tvtap.live:8081/live/us-showtime.stream/playlist.m3u8
-#EXTINF:-1,Sky News
-http://stream.tvtap.live:8081/live/skynews.stream/playlist.m3u8
-#EXTINF:-1,Sky Sports Arena
-http://stream.tvtap.live:8081/live/skysports-arena.stream/playlist.m3u8
-#EXTINF:-1,Sky Sports F1
-http://stream.tvtap.live:8081/live/skysportsf1.stream/playlist.m3u8
-#EXTINF:-1,Sky Sports Football |tap
-http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
-#EXTINF:-1,Sky Sports Main Event |tap
-http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8
-#EXTINF:-1,Sky Sports Mix
-http://stream.tvtap.live:8081/live/skysportsmix.stream/playlist.m3u8
-#EXTINF:-1,Sky Sports Premier League |tap
-http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
-#EXTINF:-1,Sportsnet One
-http://stream.tvtap.live:8081/live/snone.stream/playlist.m3u8
-#EXTINF:-1,Sportsnet World
-http://stream.tvtap.live:8081/live/sno.stream/playlist.m3u8
-#EXTINF:-1,Starz
-http://stream.tvtap.live:8081/live/us-starz.stream/playlist.m3u8
-#EXTINF:-1,TNT
-http://stream.tvtap.live:8081/live/us-tnt.stream/playlist.m3u8
-#EXTINF:-1,TSN 1
-http://stream.tvtap.live:8081/live/tsn1.stream/playlist.m3u8
-#EXTINF:-1,TSN 2
-http://stream.tvtap.live:8081/live/tsn2.stream/playlist.m3u8
-#EXTINF:-1,TSN 3
-http://stream.tvtap.live:8081/live/tsn3.stream/playlist.m3u8
-#EXTINF:-1,TSN 4
-http://stream.tvtap.live:8081/live/tsn4.stream/playlist.m3u8
-#EXTINF:-1,TSN 5
-http://stream.tvtap.live:8081/live/tsn5.stream/playlist.m3u8
-#EXTINF:-1,WWE |tap
-http://stream.tvtap.live:8081/live/wwe.stream/playlist.m3u8
-#EXTINF:-1,BBC 1
-http://stream.tvtap.live:8081/live/bbc1.stream/playlist.m3u8
-#EXTINF:-1,Eurosport 1
-http://stream.tvtap.live:8081/live/eurosport1.stream/playlist.m3u8
-#EXTINF:-1,Eurosport 2
-http://stream.tvtap.live:8081/live/eurosport2.stream/playlist.m3u8
-#EXTINF:-1,Cartoon Network
-http://stream.tvtap.live:8081/live/us-cartoon.stream/playlist.m3u8
-#EXTINF:-1,VH1
-http://stream.tvtap.live:8081/live/us-vh1.stream/playlist.m3u8
-#EXTINF:-1,Disney
-http://stream.tvtap.live:8081/live/us-disney.stream/playlist.m3u8
-#EXTINF:-1,Disney XD
-http://stream.tvtap.live:8081/live/us-disneyxd.stream/playlist.m3u8
-#EXTINF:-1,Nick
-http://stream.tvtap.live:8081/live/us-nick.stream/playlist.m3u8
-#EXTINF:-1,SyFy
-http://stream.tvtap.live:8081/live/us-syfy.stream/playlist.m3u8
-#EXTINF:-1,Animal Planet
-http://stream.tvtap.live:8081/live/us-animal.stream/playlist.m3u8
-#EXTINF:-1,TBS
-http://stream.tvtap.live:8081/live/us-tbs.stream/playlist.m3u8
-#EXTINF:-1,NBC
-http://stream.tvtap.live:8081/live/us-nbc.stream/playlist.m3u8
-#EXTINF:-1,MS NBC
-http://stream.tvtap.live:8081/live/us-msnbc.stream/playlist.m3u8
-#EXTINF:-1,Hallmark
-http://stream.tvtap.live:8081/live/us-hallmark.stream/playlist.m3u8
-#EXTINF:-1,Freeform
-http://stream.tvtap.live:8081/live/us-freeform.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="tvtap",skysports pl |tap
-http://stream.tvtap.live:8081/live/skysports-premier-league.stream/chunks.m3u8
-http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
-#EXTINF:-1 group-title="tvtap",skysports football |tap
-http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/golf.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgOTo1MDozMiBQTSZoYXNoX3ZhbHVlPWdGakZNWm1QK1lnQmZrV2ZwZVZMd2c9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:-1 group-title="tvtap",laligatv |tap
-http://stream.tvtap.live:8081/live/es-laligatvbar.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIxIDI6NDI6NDcgUE0maGFzaF92YWx1ZT1vSHZWMXlrN1poaEEzZE5qaTNpSjR3PT0mdmFsaWRtaW51dGVzPTIw
-
-http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
-
-http://stream.tvtap.live:8081/live/us-ae.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDIxIDEwOjAzOjAzIEFNJmhhc2hfdmFsdWU9Z3
-http://stream.tvtap.live:8081/live/us-hallmark.stream/playlist.m3u8
-#EXTINF:-1 group-title="tvtap",MTV Classic |tap
-http://stream.tvtap.live:8081/live/mtvclassic.stream/chunks.m3u8
-#EXTINF:-1 group-title="tvtap",MTV Hits |tap
-http://stream.tvtap.live:8081/live/mtvhits.stream/chunks.m3u8
-
-#EXTINF:-1,ABC 7
-http://stream.tvtap.live:8081/live/us-abc.stream/playlist.m3u8
-#EXTINF:-1,AMC
-http://stream.tvtap.live:8081/live/us-amc.stream/playlist.m3u8
-#EXTINF:-1,BBC News
-http://stream.tvtap.live:8081/live/bbcnews.stream/playlist.m3u8
 #EXTINF:-1,Box Nation
 http://stream.tvtap.live:8081/live/boxnation.stream/playlist.m3u8
 #EXTINF:-1,beIN SPORTS
@@ -8573,7 +8377,6 @@ http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/uk-crime-invest.stream/playlist.m3u8
 #EXTINF:-1,Discovery
 http://stream.tvtap.live:8081/live/us-discovery.stream/playlist.m3u8
-#EXTINF:-1,Discovery
 http://stream.tvtap.live:8081/live/discovery.stream/playlist.m3u8
 #EXTINF:-1,Discovery Science
 http://stream.tvtap.live:8081/live/us-discoveryscience.stream/playlist.m3u8
@@ -8599,7 +8402,6 @@ http://stream.tvtap.live:8081/live/hbofamily.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/us-hbozone.stream/playlist.m3u8
 #EXTINF:-1,History
 http://stream.tvtap.live:8081/live/history.stream/playlist.m3u8
-#EXTINF:-1,History
 http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
 #EXTINF:-1,Investigation Discovery
 http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
@@ -8607,11 +8409,9 @@ http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3
 http://stream.tvtap.live:8081/live/mutv.stream/playlist.m3u8
 #EXTINF:-1,Nat Geo
 http://stream.tvtap.live:8081/live/us-natgeo/playlist.m3u8
-#EXTINF:-1,Nat Geo
 http://stream.tvtap.live:8081/live/natgeo/playlist.m3u8
 #EXTINF:-1,Nat Geo Wild
 http://stream.tvtap.live:8081/live/us-natgeowild/playlist.m3u8
-#EXTINF:-1,Nat Geo Wild
 http://stream.tvtap.live:8081/live/natgeowild/playlist.m3u8
 #EXTINF:-1,NBA TV
 http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
@@ -8679,7 +8479,6 @@ http://stream.tvtap.live:8081/live/us-syfy.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/us-animal.stream/playlist.m3u8
 #EXTINF:-1,TBS
 http://stream.tvtap.live:8081/live/us-tbs.stream/playlist.m3u8
-#EXTINF:-1,NBC
 http://stream.tvtap.live:8081/live/us-nbc.stream/playlist.m3u8
 #EXTINF:-1,MS NBC
 http://stream.tvtap.live:8081/live/us-msnbc.stream/playlist.m3u8
@@ -8713,6 +8512,65 @@ http://stream.tvtap.live:8081/live/espnu.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/de-sport1.stream/playlist.m3u8
 #EXTINF:-1,BT SPORTS 2
 http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8
+#EXTINF:-1,ee HD
+http://stream.tvtap.live:8081/live/ee.stream/playlist.m3u8
+#EXTINF:-1,travel
+http://stream.tvtap.live:8081/live/travel.stream/playlist.m3u8
+#EXTINF:-1,natgeo
+http://stream.tvtap.live:8081/live/natgeo.stream/playlist.m3u8
+#EXTINF:-1,natgeowild
+http://stream.tvtap.live:8081/live/natgeowild.stream/playlist.m3u8
+#EXTINF:-1,mtvrocks
+http://stream.tvtap.live:8081/live/mtvrocks.stream/playlist.m3u8
+#EXTINF:-1,mtvdance
+http://stream.tvtap.live:8081/live/mtvdance.stream/playlist.m3u8
+#EXTINF:-1,disney HD
+http://stream.tvtap.live:8081/live/disney.stream/playlist.m3u8
+#EXTINF:-1,cn
+http://stream.tvtap.live:8081/live/cn.stream/playlist.m3u8
+#EXTINF:-1,cbsreality
+http://stream.tvtap.live:8081/live/cbsreality.stream/playlist.m3u8
+#EXTINF:-1,cbsdrama
+http://stream.tvtap.live:8081/live/cbsdrama.stream/playlist.m3u8
+
+#EXTINF:-1,beIN SPORTS 1 |tap
+http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
+#EXTINF:-1,beIN SPORTS 2 |tap
+http://stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8
+#EXTINF:-1,beIN SPORTS 3 |tap
+http://stream.tvtap.live:8081/live/bein3.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
+Offline
+http://stream.tvtap.live:8081/live/bein8.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/bein9.stream/chunks.m3u8
+#EXTINF:-1,beIN SPORTS 10 |tap
+http://stream.tvtap.live:8081/live/bein10.stream/chunks.m3u8
+#EXTINF:-1,beIN SPORTS 11 |tap
+http://stream.tvtap.live:8081/live/bein11.stream/chunks.m3u8
+#EXTINF:-1,beIN SPORTS 3EN |tap
+http://stream.tvtap.live:8081/live/bein12.stream/chunks.m3u8
+
+#EXTINF:-1,DAZN 1DE |tap
+http://stream.tvtap.live:8081/live/de-dazn1.stream/chunks.m3u8
+#EXTINF:-1,DAZN 2DE |tap
+http://stream.tvtap.live:8081/live/de-dazn2.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/skysports-premier-league.stream/chunks.m3u8
+
+http://stream.tvtap.live:8081/live/golf.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgOTo1MDozMiBQTSZoYXNoX3ZhbHVlPWdGakZNWm1QK1lnQmZrV2ZwZVZMd2c9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1 group-title="tvtap",laligatv |tap
+http://stream.tvtap.live:8081/live/es-laligatvbar.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIxIDI6NDI6NDcgUE0maGFzaF92YWx1ZT1vSHZWMXlrN1poaEEzZE5qaTNpSjR3PT0mdmFsaWRtaW51dGVzPTIw
+
+http://stream.tvtap.live:8081/live/us-ae.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDIxIDEwOjAzOjAzIEFNJmhhc2hfdmFsdWU9Z3
+#EXTINF:-1 group-title="tvtap",MTV Classic |tap
+http://stream.tvtap.live:8081/live/mtvclassic.stream/chunks.m3u8
+#EXTINF:-1 group-title="tvtap",MTV Hits |tap
+http://stream.tvtap.live:8081/live/mtvhits.stream/chunks.m3u8
+
+http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
 
 + + + + + https://freetvdd.com*/TH + + + + + +
 
@@ -21749,7 +21607,15 @@ http://client.ksporttv.com:88/get.php?username=bajrami12&password=8SgZlCQLH9&typ
 http://cobraa.in:8000/get.php?username=150110836751&password=6067d961998df.16041&type=m3u Real Url: cobraa.in:8000     Status: Active    Created: 3/4/2021 2:56:33 AM     Expires: 3/4/2022 2:56:33 AM    Active Connections: 4     Maximum Connections: 1     Formats: "m3u8","ts" < INDIA CH
 http://coqtv.tv:8080/get.php?username=admin_262664&password=22315304&type=m3u Real Url: wagmaott.com:8080     Status: Active    Created: 22/2/2021 12:00:00 AM     Expires: Null    Active Connections: 5     Maximum Connections: 1     Formats: "m3u8","ts" < INDIA CH
 http://dreamtv.to:2082/get.php?username=zineeddinetop_389450&password=PntFmxmtid&type=m3u < 1-0 < INDIA CH
+
+http://exchange.goodiptv.stream:13520/get.php?username=aydar4545&password=dv5FbdU91X&type=m3u
+Real Url: exchange.goodiptv.stream:13520     Status: Active    Created: 18/12/2020 9:36:56 PM     Expires: Null    Active Connections: 198     Maximum Connections: 220     Formats: "m3u8","ts","rtmp"
+
 http://eyetv.site:8080/get.php?username=eyetvpro21&password=eye123zz&type=m3u Real Url: eyetv.site:8080     Status: Active    Created: 7/7/2021 1:16:34 PM     Expires: 14/7/2021 1:07:00 PM    Active Connections: 1     Maximum Connections: 10     Formats: "m3u8","ts","rtmp"
+
+http://207.244.228.10:8080/get.php?username=chimera&password=331199&type=m3u
+Real Url: iptvhere.xyz:8080     Status: Active    Created: 5/6/2021 10:48:29 PM     Expires: Null    Active Connections: 6     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
+
 http://local-xc.com:8080/get.php?username=thomas_arana&password=zqM3AtWFWc&type=m3u Real Url: buffing.ddns.net:8080     Status: Active    Created: 1/12/2020 10:21:17 AM     Expires: Null    Active Connections: 189     Maximum Connections: 350     Formats: "ts" < DOWN?
 http://main.tvstreamzone.com:8080/get.php?username=stk&password=fABtG6FdXs&type=m3u Real Url: 195.154.150.141:8080     Status: Active    Created: 2/4/2021 11:45:36 PM     Expires: Null    Active Connections: 197     Maximum Connections: 3500     Formats: "m3u8","ts","rtmp" < ALB Channels
 http://officialtv.hopto.me:8000/get.php?username=3332010&password=3332010&type=m3u Real Url: officialtv.hopto.me:8000     Status: Active    Created: 18/10/2020 5:47:31 PM     Expires: 18/10/2021 5:47:31 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts" < INDIA CH
