@@ -10,10 +10,7 @@ http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
 http://sonyiptv.net:8080/saleem/saleem/147744
 
-http://cdn.ihub.live:8080/&privatehd/index.m3u8
-http://cdn.ihub.live:8080/j-Sony-MAX-HD/tracks-v1a1/mono.m3u8
-http://cdn.ihub.live:8080/j-star-gold-hd/tracks-v1a1/mono.m3u8
-http://cdn.ihub.live:8080/TLCHD/tracks-v1a1/mono.m3u8
+
 
 DISCOVERY HD
 http://tv.pmcon.net/hls/stream9.m3u8
@@ -20901,6 +20898,14 @@ http://212.224.98.212:2200/BR/Fox_Sports_2_HD-br/index.m3u8?token=
 
 http://5.255.94.248:8080/IN:STAR-SPORTS-HINDI/tracks-v1a1/mono.m3u8?token=JuylOjZl90 < ac deactivated
 
+#EXTINF:-1,&privatehd
+http://cdn.ihub.live:8080/&privatehd/index.m3u8
+http://cdn.ihub.live:8080/TLCHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony-MAX-HD
+http://cdn.ihub.live:8080/j-Sony-MAX-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,star-gold-hd
+http://cdn.ihub.live:8080/j-star-gold-hd/tracks-v1a1/mono.m3u8
+
 
 + + + + + http://scontent.1xcdn.xyz + + + + +
 
@@ -21219,7 +21224,6 @@ http://77.83.117.60:8888/02_WarnerTVHD_720p/chunklist.m3u8
 
 
 
-http://cdn.ihub.live:8080/j-Sony-MAX-HD/tracks-v1a1/mono.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8
 http://d2whc8q9z2af8n.cloudfront.net/MO1.m3u8
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
