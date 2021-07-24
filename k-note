@@ -14446,29 +14446,29 @@ http://520574.xyz/dl/htv.php?id=223
 
 + + + + + ftp/VN + + + + +
 
-#EXTINF: group-title="htv/VN"V HD |ftp
+#EXTINF: group-title="htv/VN",V HD |ftp
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="FOX Movies HD",Fox Movies |ftp
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
-#EXTINF: group-title="htv/VN"National Geographic HD |ftp
+#EXTINF: group-title="htv/VN",National Geographic HD |ftp
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="FOX Family Movies HD",Fox Family Movies |ftp
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="FOX Family Movies HD",Fox Family Movies |ftp'
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/index.m3u8
-#EXTINF: group-title="htv/VN"KIX |ftp
+#EXTINF: group-title="htv/VN",KIX |ftp
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
-#EXTINF: group-title="htv/VN"Animal Planet |ftp
+#EXTINF: group-title="htv/VN",Animal Planet |ftp
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/playlist.m3u8
-#EXTINF: group-title="htv/VN"BBC World News |ftp
+#EXTINF: group-title="htv/VN",BBC World News |ftp
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 ,Bloomberg /offline
 https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/playlist.m3u8
 ,CNN |ftp /offline
 https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/playlist.m3u8
-#EXTINF: group-title="htv/VN"Discovery |ftp
+#EXTINF: group-title="htv/VN",Discovery |ftp
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
-#EXTINF: group-title="htv/VN"Discovery Asia |ftp
+#EXTINF: group-title="htv/VN",Discovery Asia |ftp
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
@@ -14481,48 +14481,48 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/world/afchd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Asian Food Network",Asian Food Network |ftp'
 https://livecdn.fptplay.net/world/afchd_hls.smil/index.m3u8
-#EXTINF: group-title="htv/VN"NHK World Japan |ftp
+#EXTINF: group-title="htv/VN",NHK World Japan |ftp
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/playlist.m3u8
-#EXTINF: group-title="htv/VN"CNA |ftp
+#EXTINF: group-title="htv/VN",CNA |ftp
 https://livecdn.fptplay.net/world/newsasia_hls.smil/playlist.m3u8
- tvg-logo = "http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title = "VN|H+", FOX SPORT 1
+ tvg-logo = "http://img.hplus.com.vn/wxh/banner/2019/08/16/775945-FOXsport.png" group-title = "VN|H+",FOX SPORT 1
 https://cloud-service.best/hplus.php?play&id=3681
- tvg-logo = "http://img.hplus.com.vn/wxh/banner/2019/08/16/813474-foxsport2.png", FOX SPORT 2
+ tvg-logo = "http://img.hplus.com.vn/wxh/banner/2019/08/16/813474-foxsport2.png",FOX SPORT 2
 https://cloud-service.best/hplus.php?play&id=3781
- tvg-logo = "http://img.hplus.com.vn/wxh/banner/2019/07/16/894184-foxsport_3.png", Fox Sport 3
+ tvg-logo = "http://img.hplus.com.vn/wxh/banner/2019/07/16/894184-foxsport_3.png",Fox Sport 3
 https://cloud-service.best/hplus.php?play&id=87672
- tvg-logo = "http://img.hplus.com.vn/355x200/poster/2019/07/16/198549-nat_geo_wild.png", Natgeo wild
+ tvg-logo = "http://img.hplus.com.vn/355x200/poster/2019/07/16/198549-nat_geo_wild.png",Natgeo wild
 https://cloud-service.best/hplus.php?play&id=87674
- tvg-logo = "http://img.hplus.com.vn/355x200/poster/2019/11/06/471769-kenh_discovery.png", Discovery
+ tvg-logo = "http://img.hplus.com.vn/355x200/poster/2019/11/06/471769-kenh_discovery.png",Discovery
 https://cloud-service.best/hplus.php?play&id=83481
- tvg-logo = "http://img.hplus.com.vn/355x200/poster/2019/02/14/136186-davinci.png", Davinci
+ tvg-logo = "http://img.hplus.com.vn/355x200/poster/2019/02/14/136186-davinci.png",Davinci
 https://cloud-service.best/hplus.php?play&id=85418
- tvg-logo = "http://img.hplus.com.vn/355x200/poster/2019/11/29/312449-asian_food_network_new.png", AFN
+ tvg-logo = "http://img.hplus.com.vn/355x200/poster/2019/11/29/312449-asian_food_network_new.png",AFN
 https://cloud-service.best/hplus.php?play&id=79042
- tvg-logo = "http://img.hplus.com.vn/355x200/poster/2018/06/05/800823-FoxLife.png", Foxlife
+ tvg-logo = "http://img.hplus.com.vn/355x200/poster/2018/06/05/800823-FoxLife.png",Foxlife
 https://cloud-service.best/hplus.php?play&id=366
- tvg-logo = "http://img.hplus.com.vn/355x200/poster/2018/09/06/121093-FoxFamily_3.png", Fox Family Movies
+ tvg-logo = "http://img.hplus.com.vn/355x200/poster/2018/09/06/121093-FoxFamily_3.png",Fox Family Movies
 https://cloud-service.best/hplus.php?play&id=74757
- tvg-logo = "http://img.hplus.com.vn/355x200/poster/2018/06/05/101479-Foxmovie.png", FoxMovies
+ tvg-logo = "http://img.hplus.com.vn/355x200/poster/2018/06/05/101479-Foxmovie.png",FoxMovies
 https://cloud-service.best/hplus.php?play&id=358
- tvg-logo = "http://img.hplus.com.vn/355x200/poster/2018/06/05/516849-ciname.png", Cinemaworld
+ tvg-logo = "http://img.hplus.com.vn/355x200/poster/2018/06/05/516849-ciname.png",Cinemaworld
 https://cloud-service.best/hplus.php?play&id=73415
- tvg-logo = "http://img.hplus.com.vn/355x200/poster/2018/06/05/766824-CNN.png", CNN
- tvg-logo = "http://img.hplus.com.vn/355x200/poster/2018/06/05/337391-BBC-WN.png", BBC world news
+ tvg-logo = "http://img.hplus.com.vn/355x200/poster/2018/06/05/766824-CNN.png",CNN
+ tvg-logo = "http://img.hplus.com.vn/355x200/poster/2018/06/05/337391-BBC-WN.png",BBC world news
  tvg-logo = "http://img.hplus.com.vn/355x200/poster/2018/06/05/907213-bloom1.png", Bloomberg
 https://cloud-service.best/hplus.php?play&id=73426
- tvg-logo = "http://img.hplus.com.vn/355x200/poster/2018/06/05/728166-KBS.png", KBS world 
+ tvg-logo = "http://img.hplus.com.vn/355x200/poster/2018/06/05/728166-KBS.png",KBS world 
 https://cloud-service.best/hplus.php?play&id=27081
- tvg-logo = "http://img.hplus.com.vn/355x200/poster/2018/06/05/140735-WarnerTV.png" group-title = "VN|H+", WarnerTV
+ tvg-logo = "http://img.hplus.com.vn/355x200/poster/2018/06/05/140735-WarnerTV.png" group-title = "VN|H+",WarnerTV
 https://cloud-service.best/hplus.php?play&id=73423
 #EXTINF:-1 group-title="htv/VN",ASIAN FOOD NETWORK |htv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
-#EXTINF: group-title="htv/VN"CHANNEL V |htv
+#EXTINF: group-title="htv/VN",CHANNEL V |htv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/CHANNELV-HD-1080p/chunks.m3u8
-#EXTINF: group-title="htv/VN"FOX FAMILY MOVIES |htv
+#EXTINF: group-title="htv/VN",FOX FAMILY MOVIES |htv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF: group-title="htv/VN"FOX MOVIES |htv
+#EXTINF: group-title="htv/VN",FOX MOVIES |htv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="htv/VN",PARAMOUNT CHANNEL |htv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
@@ -18191,11 +18191,9 @@ http://46.105.112.116/?watch=PY-N/Premiere_6_HD-br/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Premiere 7 |46
 http://46.105.112.116/?watch=PY-N/Premiere_7_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Premiere_Clubes_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",VH1 HD |46
+
 http://46.105.112.116/?watch=PY-N/VH1_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Viva HD |46
 http://46.105.112.116/?watch=PY-N/Viva_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="46/IN",Warner Channel |46
 http://46.105.112.116/?watch=PY-N/Warner_Channel_HD-br/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",&xplor HD |46
