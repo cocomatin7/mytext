@@ -17859,6 +17859,13 @@ http://46.105.112.116/?watch=EX/BENGALI_ZEE_BANGLA_HD-in/tracks-v1a1/index.m3u8?
 
 #EXTINF:-1 group-title="46/IN",Boxnation |46
 http://46.105.112.116/?watch=EX/Boxnation-uk/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",E4
+http://46.105.112.116/?watch=EX/E4_HD-uk/index.m3u8?token=
+
+#EXTINF:-1 group-title="46/IN",EUROSPORT 1RU
+http://46.105.112.116/?watch=EX/eurosport1hd-ru/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",EUROSPORT 2RU
+http://46.105.112.116/?watch=EX/eurosport2hd-ru/index.m3u8?token=
 
 #EXTINF:-1 tvg-id="bt.sport.1.uk" tvg-name="bt.sport.1.uk" group-title="46/IN",BT SPORT 1UHD |46
 http://46.105.112.116/?watch=EX/UK_BT_SPORTS_1_FHD-uk/index.m3u8?token=
@@ -17920,6 +17927,9 @@ http://46.105.112.116/?watch=EX/Premier_Sports_2_HD-uk/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",RishteyCineplex |46
 http://46.105.112.116/?watch=EX/RishteyCineplex-in/index.m3u8?token=
 
+#EXTINF:-1 group-title="46/IN",S SPORT 2
+http://46.105.112.116/?watch=EX/S_SPORT_2_FHD-tr/index.m3u8?token=
+
 #EXTINF:-1 group-title="46/IN",Setanta sports
 http://46.105.112.116/?watch=EX/setantasportshd-ru/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Setanta sports+
@@ -17980,6 +17990,7 @@ http://46.105.112.116/?watch=EX/Sky_Sports_F1_HD-uk/index.m3u8?token=
 http://46.105.112.116/?watch=EX/Sky_Sports_Football_FHD-uk/index.m3u8?token=
 #EXTINF:-1 tvg-id="lvupvmnk.ss" tvg-name="lvupvmnk.ss" group-title="46/IN",Sky Sports Football HD |46
 http://46.105.112.116/?watch=EX/Sky_Sports_Football_HD-uk/index.m3u8?token=
+
 #EXTINF:-1 tvg-id="eppvjpkd.ss" tvg-name="eppvjpkd.ss" group-title="46/IN",sky sports mainevent' |46
 http://46.105.112.116/?watch=EX/Sky_Sports_Main_Event_FHD-uk/index.m3u8?token=
 #EXTINF:-1 tvg-id="eppvjpkd.ss" tvg-name="eppvjpkd.ss" group-title="46/IN",sky sports mainevent |46
@@ -18092,7 +18103,12 @@ http://46.105.112.116/?watch=NL/eurosport2-esp/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",FOX MOVIES |46
 http://46.105.112.116/?watch=NL/foxmovies-por/index.m3u8?token=
-
+#EXTINF:-1 group-title="46/IN",GOL |46
+http://46.105.112.116/?watch=NL/gol-esp/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",la 1
+http://46.105.112.116/?watch=NL/la1hd-esp/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",mDeportes
+http://46.105.112.116/?watch=NL/mdeporteshd-esp/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",DAZN F1 |46
 http://46.105.112.116/?watch=NL/mformula1hd-esp/index.m3u8?token=
 http://46.105.112.116/?watch=NL/mformula1hd-esp/tracks-v1/mono.m3u8?token=
