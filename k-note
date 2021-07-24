@@ -8,7 +8,7 @@ x-tvg-url="https://guidexl.tv4.live/"
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+
 
 http://sonyiptv.net:8080/saleem/saleem/147744
 
@@ -3163,6 +3163,47 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 #EXTINF:-1,UK!Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
+#EXTINF:-1,bloomberg
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg AU
+https://bloomberg-bloomberg-2-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg Europe
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg GB
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,CNN International DE
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,CNN International Europe
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,CNN International GB
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,Crackle TV
+https://crackle-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Loop 80s
+https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Loop 80s Geo-blocked
+https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Loop 90s
+https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Loop Country
+https://loop-country-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Loop Hip-Hop
+https://loop-hip-hop-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Loop Hottest
+https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Loop Party
+https://loop-party-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,MMA TV ES
+https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,MMA TV GB
+https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,MMA TV IT
+https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1,PBS America (720p)
 http://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,PBS America (720p)
@@ -5641,6 +5682,16 @@ http://50.7.161.82:8278/streams/d/truepre2_pat/playlist.m3u8
 http://50.7.161.82:8278/streams/d/truepre3_pat/playlist.m3u8
 http://50.7.161.82:8278/streams/d/truepre4_pat/playlist.m3u8
 http://50.7.161.82:8278/streams/d/truepre5_pat/playlist.m3u8
+
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 + + + + + 50.7.222.130:8278/streams/d + + + + + offline + + + + +
 
@@ -21229,10 +21280,7 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 
 http://209.126.120.153/hls/andpicture.m3u8
 
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+
 http://77.83.117.60:8888/02_WarnerTVHD_720p/chunklist.m3u8
 
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8
@@ -24009,16 +24057,16 @@ https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776469
 http://210.210.129.106/session/8ebe6ece-c01d-11eb-8a60-a05ab2ecf90f/uq2663/h/h22/01.m3u8
 astro SUPERSPORT
 https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776470
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+
 astro SUPERSPORT2
 https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776471
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+
 astro SUPERSPORT3
 https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776472
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+
 astro SUPERSPORT4
 https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776473
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+
 ESPN FC
 https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776474
 FIGHT
