@@ -18215,7 +18215,6 @@ http://46.105.112.116/?watch=NL/elevensports6-por/index.m3u8?token=
 http://46.105.112.116/?watch=NL/eurosport1-esp/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",EUROSPORT 2
 http://46.105.112.116/?watch=NL/eurosport2-esp/index.m3u8?token=
-
 #EXTINF:-1 group-title="46/IN",FOX MOVIES |46
 http://46.105.112.116/?watch=NL/foxmovies-por/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",GOL |46
@@ -18229,12 +18228,16 @@ http://46.105.112.116/?watch=NL/mformula1hd-esp/index.m3u8?token=
 http://46.105.112.116/?watch=NL/mformula1hd-esp/tracks-v1/mono.m3u8?token=
 #EXTINF:-1 group-title="46/IN",M LaLiga
 http://46.105.112.116/?watch=NL/mlaligahd-esp/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",M LaLiga2
+http://46.105.112.116/?watch=NL/mlaliga2hd-esp/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",M Champeones
 http://46.105.112.116/?watch=NL/mlcampeonhd-esp/playlist.m3u8?token=
 #EXTINF:-1 group-title="46/IN",M Champeones 1
 http://46.105.112.116/?watch=NL/mlcampeon1hd-esp/playlist.m3u8?token=
 #EXTINF:-1 group-title="46/IN",M Champeones 2
 http://46.105.112.116/?watch=NL/mlcampeon2hd-esp/playlist.m3u8?token=
+#EXTINF:-1 group-title="46/IN",RealMadrid TV
+http://46.105.112.116/?watch=NL/realmadridtv-esp/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",SONY SAB EN |46
 http://46.105.112.116/?watch=NL/sonysab-uk/index.m3u8?token=
@@ -18360,6 +18363,8 @@ http://46.105.112.116/?watch=R-EX/FHD_MOVIES_ACTIVE-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",nick HD |46
 http://46.105.112.116/?watch=R-EX/FHD_NICK_-in/index.m3u8?token=
 
+#EXTINF:-1 group-title="46/IN",STAR GOLD FHD |46
+http://46.105.112.116/?watch=R-EX/FHD_STAR_GOLD_-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",STAR MOVIES FHD |46
 http://46.105.112.116/?watch=R-EX/FHD_STAR_MOVIES_-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",STAR PLUS
@@ -18429,7 +18434,7 @@ http://46.105.112.116/?watch=R-EX/HINDI_SONY_SAB_HD-in/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",Star Bharat HD Hindi |46
 http://46.105.112.116/?watch=R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
-STAR GOLD HD |46
+#EXTINF:-1 group-title="46/IN",STAR GOLD HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="star.gold.select.in" tvg-name="star.gold.select.in" group-title="46/IN",STAR GOLD SELECT HD |46
 http://46.105.112.116/?watch=R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=
@@ -18564,6 +18569,7 @@ http://46.105.112.116/?watch=R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",Star Maa Movies HD Telugu |46
 http://46.105.112.116/?watch=R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
 
+
 -/-/-/-/- http://51.178.220.156/?watch= -/-/-/-/- 
  
 %2Findex.m3u8%3Ftoken%3D => /index.m3u8?token=
@@ -18572,666 +18578,11 @@ http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.180.15.17:2200/
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://212.224.98.208:2200/
 http://51.178.220.156/?watch=AFR-EX/SuperSport_Action_FHD-dstv&token= < http://51.178.220.156/?watch=AFR-EX/SuperSport_Action_FHD-dstv/index.m3u8?token=
 
-#EXTINF:-1 group-title="51/IN",SuperSport Action |51
-http://51.178.220.156/?watch=AFR-EX/SuperSport_Action_FHD-dstv/index.m3u8?token=%2Findex.m3u8%3Ftoken%3D
-#EXTINF:-1 group-title="51/IN",SuperSport Cricket |51
-http://51.178.220.156/?watch=AFR-EX/SuperSport_Cricket_FHD-dstv/index.m3u8?token=
-#EXTINF:-1 tvg-id="ss.football.ze" tvg-name="ss.football.ze" group-title="51/IN",SuperSport Football |51
-http://51.178.220.156/?watch=AFR-EX/SuperSport_Football_FHD-dstv/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SuperSport Golf |51
-http://51.178.220.156/?watch=AFR-EX/Supersport_Golf_FHD-dstv/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SuperSport Grandstand |51
-http://51.178.220.156/?watch=AFR-EX/SuperSport_Grandstand_FHD-dstv/index.m3u8?token=
-#EXTINF:-1 tvg-id="ss.la.liga.ze" tvg-name="ss.la.liga.ze" group-title="51/IN",SuperSport LaLiga |51
-http://51.178.220.156/?watch=AFR-EX/SuperSport_LaLiga_FHD-dstv/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SuperSport PSL |51
-http://51.178.220.156/?watch=AFR-EX/SuperSport_PSL_FHD-dstv/index.m3u8?token=
-#EXTINF:-1 tvg-id="ss.premier.league.ze" tvg-name="ss.premier.league.ze" group-title="51/IN",SuperSport Premier League |51
-http://51.178.220.156/?watch=AFR-EX/SuperSport_Premier_League_FHD-dstv/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SuperSport Rugby |51
-http://51.178.220.156/?watch=AFR-EX/SuperSport_Rugby_FHD-dstv/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SuperSport Tennis |51
-http://51.178.220.156/?watch=AFR-EX/SuperSport_Tennis_FHD-dstv/index.m3u8?token=
-#EXTINF:-1 tvg-id="ss.variety.1.ze" tvg-name="ss.variety.1.ze" group-title="51/IN",SuperSport Variety_1 |51
-http://51.178.220.156/?watch=AFR-EX/SuperSport_Variety_1_FHD-dstv/index.m3u8?token=
-#EXTINF:-1 tvg-id="ss.variety.2.ze" tvg-name="ss.variety.2.ze" group-title="51/IN",SuperSport Variety_2 |51
-http://51.178.220.156/?watch=AFR-EX/SuperSport_Variety_2_FHD-dstv/index.m3u8?token=
-#EXTINF:-1 tvg-id="ss.variety.4.ze" tvg-name="ss.variety.4.ze" group-title="51/IN",SuperSport Variety_4 |51
-http://51.178.220.156/?watch=AFR-EX/SuperSport_Variety_4_FHD-dstv/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SuperSport WWE |51
-http://51.178.220.156/?watch=AFR-EX/SuperSport_WWE_FHD-dstv/index.m3u8?token=
-http://51.178.220.156/?watch=AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/index.m3u8?token=
-#EXTINF:-1 tvg-id="ss.mximo.1.ze" tvg-name="ss.mximo.1.ze" group-title="51/IN",SuperSport Maximo 1 |51
-http://51.178.220.156/?watch=AFR-EX/SuperSport_Maximo_1_HD-dstv/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SuperSport MotorSport |51
-http://51.178.220.156/?watch=AFR-EX/SuperSport_MotorSport_HD-dstv/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SuperSport Play |51
-http://51.178.220.156/?watch=AFR-EX/Super_Sport_Play_HD_-dstv/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SuperSport Blitz |51
-http://51.178.220.156/?watch=AFR-EX/Supersport_Blitz_FHD-dstv/index.m3u8?token=
-
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="bandsports.br" group-title="51/IN",Band Sports HD |51
-http://51.178.220.156/?watch=BR/Band_Sports_HD-br/index.m3u8?token=
-http://212.224.98.212:2200/BR/cnninternational-br/index.m3u8?token=
-http://51.178.220.156/?watch=BR/cnninternational-br/index.m3u8?token=
-#EXTINF:-1 tvg-id="fox.premium.2.br" tvg-name="fox.premium.2.br" group-title="51/IN",Fox Premium 2_HD |51
-http://51.178.220.156/?watch=BR/Fox_Premium_2_HD-br/index.m3u8?token=
-
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="fox.sports.2.br" group-title="51/IN",Fox Sports 2HD |51
-http://51.178.220.156/?watch=BR/Fox_Sports_2_HD-br/index.m3u8?token=
-http://51.178.220.156/?watch=BR/Fox_Sports_2_HD-br/index.m3u8?token=RED&m3u8
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="fox.sports.br" group-title="51/IN",Fox Sports HD |51
-http://51.178.220.156/?watch=BR/Fox_Sports_HD-br/index.m3u8?token=
-http://212.224.98.211:2200/BR/Fox_Sports_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Premiere Clubes HD |51
-http://51.178.220.156/?watch=BR/Premiere_Clubes_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Premiere 1 HD |51
-http://51.178.220.156/?watch=BR/Premiere_1_HD-br/index.m3u8?token=
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="premiere.2.br" group-title="51/IN",Premiere 2 HD |51
-http://51.178.220.156/?watch=BR/Premiere_2_HD-br/index.m3u8?token=
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="premiere.3.br" group-title="51/IN",Premiere 3 HD |51
-http://51.178.220.156/?watch=BR/Premiere_3_HD-br/index.m3u8?token=
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="premiere.4.br" group-title="51/IN",Premiere 4 HD |51
-http://51.178.220.156/?watch=BR/Premiere_4_HD-br/index.m3u8?token=
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="premiere.5.br" group-title="51/IN",Premiere 5 HD |51
-http://51.178.220.156/?watch=BR/Premiere_5_HD-br/index.m3u8?token=
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="premiere.6.br" group-title="51/IN",Premiere 6 HD |51
-http://51.178.220.156/?watch=BR/Premiere_6_HD-br/index.m3u8?token=
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="premiere.7.br" group-title="51/IN",Premiere 7 HD |51
-http://51.178.220.156/?watch=BR/Premiere_7_HD-br/index.m3u8?token=
-
-#EXTINF:-1 tvg-id="mtv.brasil.br" tvg-name="mtv.brasil.br" group-title="51/IN",MTV_HD |51
-http://51.178.220.156/?watch=BR/MTV_HD-br/index.m3u8?token=
-
-#EXTINF:-1 tvg-id="b4u.movies.in" tvg-name="b4u.movies.in" group-title="51/IN",B4U Movies |51
-http://51.178.220.156/?watch=EX/b4umovie-in/index.m3u8?token=
-
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" group-title="51/IN",beIN SPORT 1FHD |51
-http://51.178.220.156/?watch=EX/bein1FHD-ar/index.m3u8?token=
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beINSports2.qa" group-title="51/IN",beIN SPORT 2FHD |51
-http://51.178.220.156/?watch=EX/bein2FHD-ar/index.m3u8?token=
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beINSports3.qa" group-title="51/IN",beIN SPORT 3FHD |51
-http://51.178.220.156/?watch=EX/bein3FHD-ar/index.m3u8?token=
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beINSports4.qa" group-title="51/IN",beIN SPORT 4FHD |51
-http://51.178.220.156/?watch=EX/bein4FHD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT 5FHD |51
-http://51.178.220.156/?watch=EX/bein5FHD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT 6FHD |51
-http://51.178.220.156/?watch=EX/bein6FHD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT 7FHD |51
-http://51.178.220.156/?watch=EX/bein7FHD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT 1PRE' |51
-http://51.178.220.156/?watch=EX/bein8FHD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT 2PRE' |51
-http://51.178.220.156/?watch=EX/bein9FHD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT 3PRE' |51
-http://51.178.220.156/?watch=EX/bein10FHD-ar/index.m3u8?token=
-
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" group-title="51/IN",beIN SPORT 1HD |51
-http://51.178.220.156/?watch=EX/bein1hd-ar/index.m3u8?token=
-http://51.178.220.156/?watch=EX/bein1sd-ar/index.m3u8?token=
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beINSports2.qa" group-title="51/IN",beIN SPORT 2HD |51
-http://51.178.220.156/?watch=EX/bein2hd-ar/index.m3u8?token=
-http://51.178.220.156/?watch=EX/bein2sd-ar/index.m3u8?token=
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beINSports3.qa" group-title="51/IN",beIN SPORT 3HD |51
-http://51.178.220.156/?watch=EX/bein3hd-ar/index.m3u8?token=
-http://51.178.220.156/?watch=EX/bein3sd-ar/index.m3u8?token=
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beINSports4.qa" group-title="51/IN",beIN SPORT 4HD |51
-http://51.178.220.156/?watch=EX/bein4hd-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT 5HD |51
-http://51.178.220.156/?watch=EX/bein5hd-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT 6HD |51
-http://51.178.220.156/?watch=EX/bein6hd-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT 7HD |51
-http://51.178.220.156/?watch=EX/bein7hd-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT 1PRE |51
-http://51.178.220.156/?watch=EX/bein8hd-ar/index.m3u8?token=
-http://51.178.220.156/?watch=EX/bein8sd-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT 2PRE |51
-http://51.178.220.156/?watch=EX/bein9hd-ar/index.m3u8?token=
-http://51.178.220.156/?watch=EX/bein9sd-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT 3PRE |51
-http://51.178.220.156/?watch=EX/bein10hd-ar/index.m3u8?token=
-http://51.178.220.156/?watch=EX/bein10sd-ar/index.m3u8?token=
-#EXTINF:-1 tvg-id="beINSports11.qa" tvg-name="beINSports11.qa" group-title="51/IN",beIN SPORT 1EN |51
-http://51.178.220.156/?watch=EX/bein11hd-ar/index.m3u8?token=
-http://51.178.220.156/?watch=EX/bein11sd-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT 2EN |51
-http://51.178.220.156/?watch=EX/bein12hd-ar/index.m3u8?token=
-http://51.178.220.156/?watch=EX/bein12sd-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT 3EN |51
-http://51.178.220.156/?watch=EX/beIN_Sports_13_HD-ar/index.m3u8?token=
-http://51.178.220.156/?watch=EX/beIN_Sports_13_HD-ar/mpegts?token=
-http://51.178.220.156/?watch=EX/bein13sd-ar/index.m3u8?token=
-
-
-#EXTINF:-1 group-title="51/IN",beIN SPORT MAX 1HD |51
-http://51.178.220.156/?watch=EX/BEIN_SPORTS_MAX1HD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT MAX 2HD |51
-http://51.178.220.156/?watch=EX/BEIN_SPORTS_MAX2HD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT MAX 3HD |51
-http://51.178.220.156/?watch=EX/BEIN_SPORTS_MAX3HD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT MAX 4HD |51
-http://51.178.220.156/?watch=EX/BEIN_SPORTS_MAX4HD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT MAX 5HD |51
-http://51.178.220.156/?watch=EX/BEIN_SPORTS_MAX5HD-ar/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORT MAX 6HD |51
-http://51.178.220.156/?watch=EX/BEIN_SPORTS_MAX6HD-ar/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",beIN SPORTS 1TR' |51
-http://51.178.220.156/?watch=EX/beinsports1uhd-tr/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORTS 1TR |51
-http://51.178.220.156/?watch=EX/beinsports1hd-tr/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORTS 2TR' |51
-http://51.178.220.156/?watch=EX/beinsports2uhd-tr/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORTS 2TR |51
-http://51.178.220.156/?watch=EX/beinsports2hd-tr/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORTS 3TR' |51
-http://51.178.220.156/?watch=EX/beinsports3uhd-tr/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORTS 3TR |51
-http://51.178.220.156/?watch=EX/beinsports3hd-tr/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORTS 4TR' |51
-http://51.178.220.156/?watch=EX/beinsports4uhd-tr/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN SPORTS 4TR |51
-http://51.178.220.156/?watch=EX/beinsports4hd-tr/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",beIN NBA HD |51
-http://51.178.220.156/?watch=EX/beIN_NBA_HD-ar/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",Boxnation |51
-http://51.178.220.156/?watch=EX/Boxnation-uk/index.m3u8?token=
-
-#EXTINF:-1 tvg-id="bt.sport.1.uk" tvg-name="bt.sport.1.uk" group-title="51/IN",BT SPORT 1HD |51
-http://51.178.220.156/?watch=EX/BT_Sport_1_HD-uk/index.m3u8?token=
-#EXTINF:-1 tvg-id="bt.sport.2.uk" tvg-name="bt.sport.2.uk" group-title="51/IN",BT SPORT 2HD |51
-http://51.178.220.156/?watch=EX/BT_Sport_2_HD-uk/index.m3u8?token=
-#EXTINF:-1 tvg-id="bt.sport.3.uk" tvg-name="bt.sport.3.uk" group-title="51/IN",BT SPORT 3HD |51
-http://51.178.220.156/?watch=EX/BT_Sport_3_HD-uk/index.m3u8?token=
-http://51.178.220.156/?watch=EX/BT_Sport_ESPN_HD-uk/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",CANAL+ SPORT2
-http://51.178.220.156/?watch=EX/canalplussport2hd-po/index.m3u8?token=
-
-#EXTINF:-1 tvg-id="channel.4.uk" tvg-name="channel.4.uk" group-title="51/IN",Channel 4 HD |51
-http://51.178.220.156/?watch=EX/Channel_4_HD-uk/index.m3u8?token=
-#EXTINF:-1 tvg-id="channel.5.uk" tvg-name="channel.5.uk" group-title="51/IN",Channel 5 HD |51
-http://51.178.220.156/?watch=EX/Channel_5_HD-uk/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Eurosport 1HD |51
-http://51.178.220.156/?watch=EX/Eurosport_1_HD-uk/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Eurosport 2HD |51
-http://51.178.220.156/?watch=EX/Eurosport_2_HD-uk/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",MATCH |51
-http://51.178.220.156/?watch=EX/match-ru/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",FOOTBALL 1 |51
-http://51.178.220.156/?watch=EX/matchfutbol1-ru/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",FOOTBALL 2 |51
-http://51.178.220.156/?watch=EX/matchfutbol2-ru/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",FOOTBALL 3 |51
-http://51.178.220.156/?watch=EX/matchfutbol3-ru/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",Nick Jr Too |51
-http://51.178.220.156/?watch=EX/Nick_Jr_Too-uk/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",OPTUS SPORT 1 |51
-http://51.178.220.156/?watch=EX/Optus_Sports_1_HD_-uk/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",OPTUS SPORT 2 |51
-http://51.178.220.156/?watch=EX/Optus_Sports_2_HD_-uk/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",RishteyCineplex |51
-http://51.178.220.156/?watch=EX/RishteyCineplex-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",Premier Sports 1HD |51
-http://51.178.220.156/?watch=EX/Premier_Sports_1_HD-uk/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Premier Sports 2HD |51
-http://51.178.220.156/?watch=EX/Premier_Sports_2_HD-uk/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",Setanta sports
-http://51.178.220.156/?watch=EX/setantasportshd-ru/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Setanta sports+
-http://51.178.220.156/?watch=EX/setantasportsplushd-ru/index.m3u8?token=
-
-#EXTINF:-1 tvg-id="sky.cinema.animation.uk" tvg-name="sky.cinema.animation.uk" group-title="51/IN",Sky Cinema Animation FHD |51
-http://51.178.220.156/?watch=EX/Sky_Cinema_Animation_FHD-uk/index.m3u8?token=
-http://51.178.220.156/?watch=EX/Sky_Cinema_Action_FHD-uk/index.m3u8?token= < N.A
-#EXTINF:-1 tvg-id="sky.cinema.comedy.uk" tvg-name="sky.cinema.comedy.uk" group-title="51/IN",Sky Cinema Comedy FHD |51
-http://51.178.220.156/?watch=EX/Sky_Cinema_Comedy_FHD-uk/index.m3u8?token=
-http://51.178.220.156/?watch=EX/Sky_Cinema_Disney_FHD-uk < N.A
-http://51.178.220.156/?watch=EX/Sky_Cinema_Family_FHD-uk < N.A
-http://51.178.220.156/?watch=EX/Sky_Cinema_Greats_FHD-uk < N.A
-#EXTINF:-1 tvg-id="sky.cinema.hits.uk" tvg-name="sky.cinema.hits.uk" group-title="51/IN",Sky Cinema Hits FHD |51
-http://51.178.220.156/?watch=EX/Sky_Cinema_Hits_FHD-uk/index.m3u8?token=
-http://51.178.220.156/?watch=EX/Sky_Cinema_Premier_FHD-uk < N.A
-http://51.178.220.156/?watch=EX/Sky_Cinema_Romance_FHD-uk < N.A
-#EXTINF:-1 tvg-id="sky.cinema.select.uk" tvg-name="sky.cinema.select.uk" group-title="51/IN",Sky Cinema Select FHD |51
-http://51.178.220.156/?watch=EX/Sky_Cinema_Select_FHD-uk/index.m3u8?token=
-http://51.178.220.156/?watch=EX/Sky_Cinema_Thriller_FHD-uk < N.A
-
-#EXTINF:-1 tvg-id="sky.cinema.action.uk" tvg-name="sky.cinema.action.uk" group-title="51/IN",Sky Cinema Action HD |51
-http://51.178.220.156/?watch=EX/Sky_Cinema_Action_HD-uk/index.m3u8?token=
-#EXTINF:-1 tvg-id="sky.cinema.comedy.uk" tvg-name="sky.cinema.comedy.uk" group-title="51/IN",Sky Cinema Comedy HD |51
-http://51.178.220.156/?watch=EX/Sky_Cinema_Comedy_HD-uk/index.m3u8?token=
-#EXTINF:-1 tvg-id="sky.cinema.disney.uk" tvg-name="sky.cinema.disney.uk" group-title="51/IN",Sky Cinema Disney HD |51
-http://51.178.220.156/?watch=EX/Sky_Cinema_Disney_HD-uk/index.m3u8?token=
-#EXTINF:-1 tvg-id="sky.cinema.family.uk" tvg-name="sky.cinema.family.uk" group-title="51/IN",Sky Cinema Family HD |51
-http://51.178.220.156/?watch=EX/Sky_Cinema_Family_HD-uk/index.m3u8?token=
-http://51.178.220.156/?watch=EX/Sky_Cinema_Greats_HD-uk < N.A
-#EXTINF:-1 tvg-id="sky.cinema.hits.uk" tvg-name="sky.cinema.hits.uk" group-title="51/IN",Sky Cinema Hits HD |51
-http://51.178.220.156/?watch=EX/Sky_Cinema_Hits_HD-uk/index.m3u8?token=
-http://51.178.220.156/?watch=EX/Sky_Cinema_Premier_HD-uk < N.A
-http://51.178.220.156/?watch=EX/Sky_Cinema_Romance_HD-uk < N.A
-#EXTINF:-1 tvg-id="sky.cinema.select.uk" tvg-name="sky.cinema.select.uk" group-title="51/IN",Sky Cinema Select HD |51
-http://51.178.220.156/?watch=EX/Sky_Cinema_Select_HD-uk/index.m3u8?token=
-#EXTINF:-1 tvg-id="sky.cinema.thriller.uk" tvg-name="sky.cinema.thriller.uk" group-title="51/IN",Sky Cinema Thriller HD |51
-http://51.178.220.156/?watch=EX/Sky_Cinema_Thriller_HD-uk/index.m3u8?token=
-
-http://51.178.220.156/?watch=EX/Sky_Cinema_Action_SD-uk < N.A
-http://51.178.220.156/?watch=EX/Sky_Cinema_Comedy_SD-uk/index.m3u8?token=
-http://51.178.220.156/?watch=EX/Sky_Cinema_Disney_SD-uk/index.m3u8?token=
-http://51.178.220.156/?watch=EX/Sky_Cinema_Family_SD-uk/index.m3u8?token=
-http://51.178.220.156/?watch=EX/Sky_Cinema_Greats_SD-uk < N.A
-http://51.178.220.156/?watch=EX/Sky_Cinema_Hits_SD-uk < N.A
-http://51.178.220.156/?watch=EX/Sky_Cinema_Premier_SD-uk < N.A
-http://51.178.220.156/?watch=EX/Sky_Cinema_Romance_SD-uk < N.A
-http://51.178.220.156/?watch=EX/Sky_Cinema_Select_SD-uk/index.m3u8?token=
-http://51.178.220.156/?watch=EX/Sky_Cinema_Thriller_SD-uk/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",Sky Sports Arena FHD |51
-http://51.178.220.156/?watch=EX/Sky_Sports_Arena_FHD-uk/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Sky Sports Cricket HD |51
-http://51.178.220.156/?watch=EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Sky Sports F1 HD |51
-http://51.178.220.156/?watch=EX/Sky_Sports_F1_HD-uk/index.m3u8?token=
-#EXTINF:-1 tvg-id="lvupvmnk.ss" tvg-name="lvupvmnk.ss" group-title="51/IN",Sky Sports Football FHD |51
-http://51.178.220.156/?watch=EX/Sky_Sports_Football_FHD-uk/index.m3u8?token=
-#EXTINF:-1 tvg-id="lvupvmnk.ss" tvg-name="lvupvmnk.ss" group-title="51/IN",Sky Sports Football HD |51
-http://51.178.220.156/?watch=EX/Sky_Sports_Football_HD-uk/index.m3u8?token=
-#EXTINF:-1 tvg-id="eppvjpkd.ss" tvg-name="eppvjpkd.ss" group-title="51/IN",sky sports mainevent' |51
-http://51.178.220.156/?watch=EX/Sky_Sports_Main_Event_FHD-uk/index.m3u8?token=
-#EXTINF:-1 tvg-id="eppvjpkd.ss" tvg-name="eppvjpkd.ss" group-title="51/IN",sky sports mainevent |51
-http://51.178.220.156/?watch=EX/Sky_Sports_Main_Event_HD-uk/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",sky sports mix |51
-http://51.178.220.156/?watch=EX/Sky_Sports_Mix_HD-uk/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Sky Sports News FHD |51
-http://51.178.220.156/?watch=EX/Sky_Sports_News_FHD-uk/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Sky Sports News HD |51
-http://51.178.220.156/?watch=EX/Sky_Sports_News_HD-uk/index.m3u8?token=
-http://51.178.220.156/?watch=EX/Sky_Sports_NFL_HD-uk/index.m3u8?token=
-#EXTINF:-1 tvg-id="diiefbxx.ss" tvg-name="diiefbxx.ss" group-title="51/IN",Sky Sports Premier League FHD |51
-http://51.178.220.156/?watch=EX/Sky_Sports_Premier_League_FHD-uk/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",SONY MAX UK |51
-http://51.178.220.156/?watch=EX/sonymaxuk-in/index.m3u8?token=
-
-#EXTINF:-1 tvg-id="sk.1.hr" tvg-name="sk.1.hr" group-title="51/IN",SK 1HD |51
-http://51.178.220.156/?watch=EX/Sport_Klub_1-balkan/index.m3u8?token=
-#EXTINF:-1 tvg-id="sk.2.hr" tvg-name="sk.2.hr" group-title="51/IN",SK 2HD |51
-http://51.178.220.156/?watch=EX/Sport_Klub_2-balkan/index.m3u8?token=
-#EXTINF:-1 tvg-id="sk.3.hr" tvg-name="sk.3.hr" group-title="51/IN",SK 3HD |51
-http://51.178.220.156/?watch=EX/Sport_Klub_3-balkan/index.m3u8?token=
-#EXTINF:-1 tvg-id="sk.4.hr" tvg-name="sk.4.hr" group-title="51/IN",SK 4HD |51
-http://51.178.220.156/?watch=EX/Sport_Klub_4-balkan/index.m3u8?token=
-#EXTINF:-1 tvg-id="sk.5.hr" tvg-name="sk.5.hr" group-title="51/IN",SK 5HD |51
-http://51.178.220.156/?watch=EX/Sport_Klub_5-balkan/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SK 6HD |51
-http://51.178.220.156/?watch=EX/Sport_Klub_6-balkan/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",starsports 1hd |51
-http://51.178.220.156/?watch=EX/starsports1hd-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",starsports 2hd |51
-http://51.178.220.156/?watch=EX/starsports2hd-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",Sky Nature |51
-http://51.178.220.156/?watch=EX/UKFHD_Sky_Nature-uk/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",ZEE ACTION
-http://51.178.220.156/?watch=EX/zeeaction-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",ZEE CINEMA
-http://51.178.220.156/?watch=EX/zeecinema-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",ZEETV HD |51
-http://51.178.220.156/?watch=EX/zeetvhd-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",SONY S MAX EN
-http://51.178.220.156/?watch=EX/sonysetmax-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SONY TV EN
-http://51.178.220.156/?watch=EX/sonytv-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Utsav Bharat EN
-http://51.178.220.156/?watch=EX/starbharat-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Utsav Gold
-http://51.178.220.156/?watch=EX/stargold-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",Sport.TV1 HD |51
-http://51.178.220.156/?watch=NL-N/Sport_TV_1_HD-por/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Sport.TV2 HD |51
-http://51.178.220.156/?watch=NL-N/Sport_TV_2_HD-por/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Sport.TV3 HD |51
-http://51.178.220.156/?watch=NL-N/Sport_TV_3_HD-por/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Sport.TV4 HD |51
-http://51.178.220.156/?watch=NL-N/Sport_TV_4_HD-por/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Sport.TV5 HD |51
-http://51.178.220.156/?watch=NL-N/Sport_TV_5_HD-por/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",ELEVEN 1 |51
-http://51.178.220.156/?watch=NL-N/Eleven_Sports_1_HD-por/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",ELEVEN 2 |51
-http://51.178.220.156/?watch=NL-N/Eleven_Sports_2_HD-por/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",EUROSPORT1 |51
-http://51.178.220.156/?watch=NL-N/Eurosport_1_HD-por/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN", B4U MOVIES
-http://51.178.220.156/?watch=NL/b4umovies-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN", BBC NEWS
-http://51.178.220.156/?watch=NL/bbcnews-uk/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN", 4 |51
-http://51.178.220.156/?watch=NL/channel4-uk/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN", 5 |51
-http://51.178.220.156/?watch=NL/channel5-uk/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",CNBC
-http://51.178.220.156/?watch=NL/cnbc-uk/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",CNN
-http://51.178.220.156/?watch=NL/cnn-uk/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",ELEVEN 1HD |51
-http://51.178.220.156/?watch=NL/elevensports1hd-por/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",ELEVEN 2HD |51
-http://51.178.220.156/?watch=NL/elevensports2hd-por/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",ELEVEN 3 |51
-http://51.178.220.156/?watch=NL/elevensports3-por/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",ELEVEN 4 |51
-http://51.178.220.156/?watch=NL/elevensports4-por/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",ELEVEN 5 |51
-http://51.178.220.156/?watch=NL/elevensports5-por/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",ELEVEN 6 |51
-http://51.178.220.156/?watch=NL/elevensports6-por/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",FOX MOVIES |51
-http://51.178.220.156/?watch=NL/foxmovies-por/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",SPORT.TV |51
-http://51.178.220.156/?watch=NL/sportingtv-por/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SPORT.TV+ |51
-http://51.178.220.156/?watch=NL/sporttvplus-por/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SPORT.TV1 |51
-http://51.178.220.156/?watch=NL/sporttv1-por/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SPORT.TV2 |51
-http://51.178.220.156/?watch=NL/sporttv2-por/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SPORT.TV3 |51
-http://51.178.220.156/?watch=NL/sporttv3-por/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SPORT.TV4 NBA |51
-http://51.178.220.156/?watch=NL/sporttv4-por/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SPORT.TV5 |51
-http://51.178.220.156/?watch=NL/sporttv5-por/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",SONY SAB EN
-http://51.178.220.156/?watch=NL/sonysab-uk/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",MTV LIVEHD
-http://51.178.220.156/?watch=NLH/Mtv_HD_NL-nl/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",Fox Premium 1 |51
-http://51.178.220.156/?watch=PY-N/Fox_Premium_1_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Fox Premium 2 |51
-http://51.178.220.156/?watch=PY-N/Fox_Premium_2_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Fox Sports 2 |51
-http://51.178.220.156/?watch=PY-N/Fox_Sports_2_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Fox Sports |51
-http://51.178.220.156/?watch=PY-N/Fox_Sports_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",MTV HD |51
-http://51.178.220.156/?watch=PY-N/MTV_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Music Box |51
-http://51.178.220.156/?watch=PY-N/Music_Box_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Premiere  |51
-http://51.178.220.156/?watch=PY-N/Premiere_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Premiere 2 |51
-http://51.178.220.156/?watch=PY-N/Premiere_2_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Premiere 3 |51
-http://51.178.220.156/?watch=PY-N/Premiere_3_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Premiere 4 |51
-http://51.178.220.156/?watch=PY-N/Premiere_4_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Premiere 5 |51
-http://51.178.220.156/?watch=PY-N/Premiere_5_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Premiere 6 |51
-http://51.178.220.156/?watch=PY-N/Premiere_6_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Premiere 7 |51
-http://51.178.220.156/?watch=PY-N/Premiere_7_HD-br/index.m3u8?token=
-http://51.178.220.156/?watch=PY-N/Premiere_Clubes_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",VH1 HD |51
-http://51.178.220.156/?watch=PY-N/VH1_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Viva HD |51
-http://51.178.220.156/?watch=PY-N/Viva_HD-br/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Warner Channel |51
-http://51.178.220.156/?watch=PY-N/Warner_Channel_HD-br/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",ZEE BANGLA HD |51
-http://51.178.220.156/?watch=R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",STAR MOVIES |51
-http://51.178.220.156/?watch=R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=RED_&m3u8
-#EXTINF:-1 group-title="51/IN",STAR MOVIES SELECT |51
-http://51.178.220.156/?watch=R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=RED_&m3u8
-#EXTINF:-1 group-title="51/IN",STAR WORLD |51
-http://51.178.220.156/?watch=R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=RED_&m3u8
-#EXTINF:-1 group-title="51/IN",STAR WORLD PREMIER |51
-http://51.178.220.156/?watch=R-EX/ENGLISH_STAR_WORLD_PREMIER_HD-in/index.m3u8?token=RED_&m3u8
-
-#EXTINF:-1 group-title="51/IN",AND PICTURES FHD |51
-http://51.178.220.156/?watch=R-EX/FHD_AND_PICTURES_-in/index.m3u8?token=
-http://51.178.220.156/?watch=R-EX/FHD_AND_PRIVE_-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",AND TV FHD |51
-http://51.178.220.156/?watch=R-EX/FHD_AND_TV_-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",STAR MOVIES FHD |51
-http://51.178.220.156/?watch=R-EX/FHD_STAR_MOVIES_-in/index.m3u8?token=RED_&m3u8
-
-http://51.178.220.156/?watch=R-EX/HINDI_AND_EXPLORE_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",AND FLIX HD |51
-http://51.178.220.156/?watch=R-EX/HINDI_AND_FLIX_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",AND PICTURES HD |51
-http://51.178.220.156/?watch=R-EX/HINDI_AND_PICTURES_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",AND PRIVE HD |51
-http://51.178.220.156/?watch=R-EX/HINDI_AND_PRIVE_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",AND TV |51
-http://51.178.220.156/?watch=R-EX/HINDI_AND_TV_HD-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",ANIMAL PLANET WORLD |51
-http://51.178.220.156/?watch=R-EX/HINDI_ANIMAL_PLANET_WORLD_HD-in/index.m3u8?token=
-
-http://51.178.220.156/?watch=R-EX/HINDI_B4U_MOVIES-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",B4U MUSIC |51
-http://51.178.220.156/?watch=R-EX/HINDI_B4U_MUSIC-in/index.m3u8?token=
-
-http://51.178.220.156/?watch=R-EX/HINDI_CINEMA_TV_-in < NO
-#EXTINF:-1 group-title="51/IN",CINEPLEX HD |51
-http://51.178.220.156/?watch=R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",COLORS HD |51
-http://51.178.220.156/?watch=R-EX/HINDI_COLORS_HD-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",HISTORY TV |51
-http://51.178.220.156/?watch=R-EX/HINDI_HISTORY_TV_18_HD-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",MOVIES NOW HD |51
-http://51.178.220.156/?watch=R-EX/HINDI_MOVIES_NOW_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",MTV BEATS HD |51
-http://51.178.220.156/?watch=R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",MTV+ HD |51
-http://51.178.220.156/?watch=R-EX/HINDI_MTV_PLUS_HD-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",SONY MAX HD |51
-http://51.178.220.156/?watch=R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="sony.max.2.in" tvg-name="sony.max.2.in" group-title="51/IN",SONY MAX 2 |51
-http://51.178.220.156/?watch=R-EX/HINDI_SONY_MAX_2-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SONY PIX HD |51
-http://51.178.220.156/?watch=R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",SONY SAB HD |51
-http://51.178.220.156/?watch=R-EX/HINDI_SONY_SAB_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="star.gold.in" tvg-name="star.gold.in" group-title="51/IN",STAR GOLD HD |51
-http://51.178.220.156/?watch=R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="star.gold.select.in" tvg-name="star.gold.select.in" group-title="51/IN",STAR GOLD SELECT HD |51
-http://51.178.220.156/?watch=R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=
-
-#EXTINF:-1,UTV Action Hindi
-http://51.178.220.156/?watch=R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=
-#EXTINF:-1,UTV HD Hindi
-http://51.178.220.156/?watch=R-EX/HINDI_UTV_HD-in/index.m3u8?token=
-#EXTINF:-1,UTV Movies Hindi
-http://51.178.220.156/?watch=R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=
-
-#EXTINF:-1 tvg-id="zee.cinema.in" tvg-name="zee.cinema.in" group-title="51/IN",ZEE CINEMA HD |51
-http://51.178.220.156/?watch=R-EX/HINDI_ZEE_CINEMA_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="zee.tv.in" tvg-name="zee.tv.in" group-title="51/IN",ZEE TV HD |51
-http://51.178.220.156/?watch=R-EX/HINDI_ZEE_TV_HD-in/index.m3u8?token=
-
-http://51.178.220.156/?watch=R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=
-
-#EXTINF:-1 tvg-id="sony.six.in" tvg-name="sony.six.in" group-title="51/IN",SONY SIX HD |51
-http://51.178.220.156/?watch=R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",STAR SPORTS 1EN |51
-http://51.178.220.156/?watch=R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?token=
-http://51.178.220.156/?watch=R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=
-http://51.178.220.156/?watch=R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=
-http://51.178.220.156/?watch=R-EX/SPORTS_STAR_SPORTS_3_-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",STAR SPORTS HD1 |51
-http://51.178.220.156/?watch=R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="star.sports.select.1.hd.in" tvg-name="star.sports.select.1.hd.in" group-title="51/IN",STAR SPORTS SELECT 1HD |51
-http://51.178.220.156/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="star.sports.select.2.hd.in" tvg-name="star.sports.select.2.hd.in" group-title="51/IN",STAR SPORTS SELECT 2HD |51
-http://51.178.220.156/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
-
-#EXTINF:-1 tvg-id="sony.ten.1.in" tvg-name="sony.ten.1.in" group-title="51/IN",TEN 1HD |51
-http://51.178.220.156/?watch=R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="sony.ten.2.in" tvg-name="sony.ten.2.in" group-title="51/IN",TEN 2HD |51
-http://51.178.220.156/?watch=R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
-#EXTINF:-1 tvg-id="sony.ten.3.in" tvg-name="sony.ten.3.in" group-title="51/IN",TEN 3HD |51
-http://51.178.220.156/?watch=R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",T Sports
-http://51.178.220.156/?watch=R-EX/T_SPORTS_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Star Jalsha HD Bengali
-http://51.178.220.156/?watch=R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Star World HD English
-http://51.178.220.156/?watch=R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",Sony BBC Earth HD Hindi
-http://51.178.220.156/?watch=R-EX/HINDI_BBC_EARTH_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Dish Evergreen Classics Active Hindi
-http://51.178.220.156/?watch=R-EX/HINDI_EVERGREEN_CLASSIC-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Fox Life
-http://51.178.220.156/?watch=R-EX/HINDI_FOX_LIFE_HD-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",Miniplex Hindi
-http://51.178.220.156/?watch=R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",MN+ HD English
-http://51.178.220.156/?watch=R-EX/HINDI_MN_PLUS_HD-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",Nat Geo HD Hindi
-http://51.178.220.156/?watch=R-EX/HINDI_NAT_GEO_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Nat Geo Wild Hindi
-http://51.178.220.156/?watch=R-EX/HINDI_NAT_GEO_WILD_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Star Bharat HD Hindi
-http://51.178.220.156/?watch=R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Star Movies HD English
-http://51.178.220.156/?watch=R-EX/HINDI_STAR_UTSAV_MOVIES-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",Asianet Movies Malayalam
-http://51.178.220.156/?watch=R-EX/MALAYALAM_ASIANET_MOVIE-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Asianet plus HD Malayalam
-http://51.178.220.156/?watch=R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Surya HD Malayalam
-http://51.178.220.156/?watch=R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Surya Movies Malayalam
-http://51.178.220.156/?watch=R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Star Sports Tamil
-http://51.178.220.156/?watch=R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Star Sports 1 Hindi
-#EXTINF:-1 group-title="51/IN",Vijay Music Tamil
-http://51.178.220.156/?watch=R-EX/Star_Viyaj_Music-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Colors Tamil HD
-http://51.178.220.156/?watch=R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",J Movie Tamil
-http://51.178.220.156/?watch=R-EX/TAMIL_J_MOVIES-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Jaya Max Tamil
-http://51.178.220.156/?watch=R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Jaya Plus Tamil
-http://51.178.220.156/?watch=R-EX/TAMIL_JAYA_PLUS-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Jaya TV HD Tamil
-http://51.178.220.156/?watch=R-EX/TAMIL_JAYA_TV_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",KTV HD Tamil
-http://51.178.220.156/?watch=R-EX/TAMIL_KTV_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Polimer TV Tamil
-http://51.178.220.156/?watch=R-EX/TAMIL_POLIMER_TV-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Raj Digital Plus Tamil
-http://51.178.220.156/?watch=R-EX/TAMIL_RAJ_DIGITAL_PLUS-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Raj Musix Tamil
-http://51.178.220.156/?watch=R-EX/TAMIL_RAJ_MUSIX-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Raj TV Tamil
-http://51.178.220.156/?watch=R-EX/TAMIL_RAJ_TV-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Star Vijay Tamil
-http://51.178.220.156/?watch=R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Sun Music HD Tamil
-http://51.178.220.156/?watch=R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Sun TV Tamil
-http://51.178.220.156/?watch=R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Vijay Super Tamil
-http://51.178.220.156/?watch=R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Zee Tamil
-http://51.178.220.156/?watch=R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",ETV HD Telugu
-http://51.178.220.156/?watch=R-EX/TELUGU_ETV_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",ETV Life Telugu
-http://51.178.220.156/?watch=R-EX/TELUGU_ETV_LIFE-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",ETV Plus Telugu
-http://51.178.220.156/?watch=R-EX/TELUGU_ETV_PLUS-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",History TV18 HD Telugu
-http://51.178.220.156/?watch=R-EX/TELUGU_HISTORY_TV_18_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Star Maa HD Telugu
-http://51.178.220.156/?watch=R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",Star Maa Movies HD Telugu
-http://51.178.220.156/?watch=R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",&xplor HD
-http://51.178.220.156/?watch=R-EX/ANDXPLOR_HD_-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",BBC earth
-http://51.178.220.156/?watch=R-EX/ENGLISH_BBC_EARTH_HD-in/index.m3u8?token=
-http://51.178.220.156/?watch=R-EX/ENGLISH_HBO_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",STAR MOVIES HD
-http://51.178.220.156/?watch=R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",STAR MOVIES SELECT HD
-http://51.178.220.156/?watch=R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",MOVIES ACTIVE
-http://51.178.220.156/?watch=R-EX/FHD_MOVIES_ACTIVE-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",nick HD
-http://51.178.220.156/?watch=R-EX/FHD_NICK_-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",StarPlus HD
-http://51.178.220.156/?watch=R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",ZEE ACTION
-http://51.178.220.156/?watch=R-EX/HINDI_ZEE_ACTION-in/index.m3u8?token=
-#EXTINF:-1 group-title="51/IN",ZEE ANMOL CINEMA
-http://51.178.220.156/?watch=R-EX/HINDI_ZEE_ANMOL_CINEMA-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",ZEE PUNJABI
-http://51.178.220.156/?watch=R-EX/PUNJABI_ZEE_PUNJABI-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",STAR GOLD 2
-http://51.178.220.156/?watch=R-EX/STAR_GOLD_2-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",GEMINI
-http://51.178.220.156/?watch=R-EX/TELUGU_GEMINI_HD-in/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",SuperSport Action |51
-http://51.178.220.156/?watch=AFR-EX/SuperSport_Action_FHD-dstv/index.m3u8?token=
-
-#EXTINF:-1 group-title="51/IN",Sky Cinema Action HD |51
-http://51.178.220.156/?watch=EX/Sky_Cinema_Action_HD-uk/index.m3u8?token= 
 
 
 -/-/-/-/- http://46.105.112.116/?watch= -/-/-/-/- check later -/-/-/-/-
 
-
-http://46.105.112.116/?watch=BR/CNN_International_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=BR/Fox_Sports_HD-br
-http://46.105.112.116/?watch=BR/ID_-_Investi_Discovery_HD
-http://46.105.112.116/?watch=BR/VH1_HD-br/index.m3u8?token= |down
+http://46.105.112.116/?watch=AFR-EX/SuperSport_Action_FHD-dstv/index.m3u8?token=%2Findex.m3u8%3Ftoken%3D
 http://46.105.112.116/?watch=BR/aehd-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/animalplanethd-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/arte1-br/index.m3u8?token=
@@ -19251,7 +18602,7 @@ http://46.105.112.116/?watch=BR/canalsonyhd-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/canaluniversitario-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/cartoonnetwork-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/cinemaxhd-br/index.m3u8?token=
-http://46.105.112.116/?watch=BR/cnninternational-br/index.m3u8?token=
+http://46.105.112.116/?watch=BR/CNN_International_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/cnt-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/combatehd-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/cultura-br/index.m3u8?token=
@@ -19276,6 +18627,7 @@ http://46.105.112.116/?watch=BR/espnplushd-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/fishtv-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/fishtvhd-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/foodnetworkhd-br/index.m3u8?token=
+http://46.105.112.116/?watch=BR/Fox_Sports_HD-br
 http://46.105.112.116/?watch=BR/foxpremium2hd-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/foxsports2hd-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/foxsportshd-br/index.m3u8?token=
@@ -19286,6 +18638,7 @@ http://46.105.112.116/?watch=BR/gloobhd-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/gnthd-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/h2hd-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/historyhd-br/index.m3u8?token=
+http://46.105.112.116/?watch=BR/ID_-_Investi_Discovery_HD
 http://46.105.112.116/?watch=BR/idealtv-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/lifetimehd-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/maisglobosat-br/index.m3u8?token=
@@ -19345,6 +18698,7 @@ http://46.105.112.116/?watch=BR/tvsenado-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/universalchannelhd-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/variedades-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/venus-br/index.m3u8?token=
+http://46.105.112.116/?watch=BR/VH1_HD-br/index.m3u8?token= |down
 http://46.105.112.116/?watch=BR/vh1hd-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/vh1megahits-br/index.m3u8?token=
 http://46.105.112.116/?watch=BR/viva-br/index.m3u8?token=
@@ -19371,30 +18725,13 @@ http://46.105.112.116/?watch=EX/6ter-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/8kanal-ru/index.m3u8?token=
 http://46.105.112.116/?watch=EX/92hd-pa/index.m3u8?token=
 http://46.105.112.116/?watch=EX/9xtashan-in/index.m3u8?token=
+http://46.105.112.116/?watch=EX/a3series-sp/index.m3u8?token=
 http://46.105.112.116/?watch=EX/A_La_Carte_1-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/A_La_Carte_2-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/A_La_Carte_3-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/A_La_Carte_4-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/A_La_Carte_5-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/A_La_Carte_6-fr/index.m3u8?token=
-http://46.105.112.116/?watch=EX/BBC_World_News-uk/index.m3u8?token=
-http://46.105.112.116/?watch=EX/BBC_World_News_HD-uk/index.m3u8?token=
-http://46.105.112.116/?watch=EX/BeinJeem-ar/index.m3u8?token= < NO
-http://46.105.112.116/?watch=EX/CANAL_PLUS-fr/index.m3u8?token=
-http://46.105.112.116/?watch=EX/CANAL_PLUS_CINEMA-fr&token=
-http://46.105.112.116/?watch=EX/CANAL_PLUS_CINEMA-fr/index.m3u8?token=
-http://46.105.112.116/?watch=EX/CANAL_PLUS_FAMILY-fr/index.m3u8?token=
-http://46.105.112.116/?watch=EX/CANAL_PLUS_SERIES-fr/index.m3u8?token=
-http://46.105.112.116/?watch=EX/CARTOON_NETWORK-uk/index.m3u8?token= < N
-http://46.105.112.116/?watch=EX/CNN-uk/index.m3u8?token= < N
-http://46.105.112.116/?watch=EX/CNN_HD-uk/index.m3u8?token= < N
-http://46.105.112.116/?watch=EX/DISCOVERY_FAMILLY-fr/index.m3u8?token=
-http://46.105.112.116/?watch=EX/ETB-sp/index.m3u8?token=
-http://46.105.112.116/?watch=EX/Eurosport_2_HD-uk/index.m3u8?token= < N
-http://46.105.112.116/?watch=EX/FR_E_ENTERTAINMENT_HD-fr/index.m3u8?token=
-http://46.105.112.116/?watch=EX/PARAMOUNT_CHANNE_FR-fr/index.m3u8?token=
-http://46.105.112.116/?watch=EX/Sky_Cinema_Action_SD-uk/index.m3u8?token= < N
-http://46.105.112.116/?watch=EX/a3series-sp/index.m3u8?token=
 http://46.105.112.116/?watch=EX/aajnews-pa/index.m3u8?token=
 http://46.105.112.116/?watch=EX/aajtaknews-in/index.m3u8?token=
 http://46.105.112.116/?watch=EX/ab1-fr/index.m3u8?token=
@@ -19422,6 +18759,9 @@ http://46.105.112.116/?watch=EX/axnspinhd-po/index.m3u8?token=
 http://46.105.112.116/?watch=EX/b4umusic-in/index.m3u8?token=
 http://46.105.112.116/?watch=EX/b4uplus-in/index.m3u8?token= < N
 http://46.105.112.116/?watch=EX/babytv-uk/index.m3u8?token=
+http://46.105.112.116/?watch=EX/BBC_World_News-uk/index.m3u8?token=
+http://46.105.112.116/?watch=EX/BBC_World_News_HD-uk/index.m3u8?token=
+http://46.105.112.116/?watch=EX/BeinJeem-ar/index.m3u8?token= < NO
 http://46.105.112.116/?watch=EX/beinsport1-fr/index.m3u8?token= < N
 http://46.105.112.116/?watch=EX/beinsport2-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/beinsport3-fr/index.m3u8?token=
@@ -19437,6 +18777,11 @@ http://46.105.112.116/?watch=EX/boomerang-uk/index.m3u8?token=
 http://46.105.112.116/?watch=EX/bridgehd-ru/index.m3u8?token=
 http://46.105.112.116/?watch=EX/britishmuslim-pa/index.m3u8?token=
 http://46.105.112.116/?watch=EX/canal8-fr/index.m3u8?token=
+http://46.105.112.116/?watch=EX/CANAL_PLUS-fr/index.m3u8?token=
+http://46.105.112.116/?watch=EX/CANAL_PLUS_CINEMA-fr&token=
+http://46.105.112.116/?watch=EX/CANAL_PLUS_CINEMA-fr/index.m3u8?token=
+http://46.105.112.116/?watch=EX/CANAL_PLUS_FAMILY-fr/index.m3u8?token=
+http://46.105.112.116/?watch=EX/CANAL_PLUS_SERIES-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/canale5hd-it/index.m3u8?token=
 http://46.105.112.116/?watch=EX/canalj-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/canalnews-fr/index.m3u8?token=
@@ -19450,6 +18795,7 @@ http://46.105.112.116/?watch=EX/canalplusserialehd-po/index.m3u8?token=
 http://46.105.112.116/?watch=EX/canalplusseries-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/canalplussport-fr/index.m3u8?token= < NO
 http://46.105.112.116/?watch=EX/capitaltv-pa/index.m3u8?token=
+http://46.105.112.116/?watch=EX/CARTOON_NETWORK-uk/index.m3u8?token= < N
 http://46.105.112.116/?watch=EX/cartoonnetwork-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/cartoonnetwork-it/index.m3u8?token=
 http://46.105.112.116/?watch=EX/cartoonnetwork-ru/index.m3u8?token=
@@ -19476,6 +18822,8 @@ http://46.105.112.116/?watch=EX/cineplusfrisson-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/cinepluspremier-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/cinepolar-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/clubrtl-be/index.m3u8?token=
+http://46.105.112.116/?watch=EX/CNN-uk/index.m3u8?token= < N
+http://46.105.112.116/?watch=EX/CNN_HD-uk/index.m3u8?token= < N
 http://46.105.112.116/?watch=EX/cnninternational-ru/index.m3u8?token= < N
 http://46.105.112.116/?watch=EX/colorsuk-in/index.m3u8?token=
 http://46.105.112.116/?watch=EX/comedieplus-fr/index.m3u8?token=
@@ -19483,6 +18831,7 @@ http://46.105.112.116/?watch=EX/cstar-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/detskimirteleklub-ru/index.m3u8?token=
 http://46.105.112.116/?watch=EX/detskiy-ru/index.m3u8?token=
 http://46.105.112.116/?watch=EX/discovery-in/index.m3u8?token=
+http://46.105.112.116/?watch=EX/DISCOVERY_FAMILLY-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/discoverychannel-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/discoveryhdrussia-ru/index.m3u8?token=
 http://46.105.112.116/?watch=EX/discoveryindia-in/index.m3u8?token=
@@ -19514,11 +18863,11 @@ http://46.105.112.116/?watch=EX/ellegirl-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/entertainment-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/equidialife-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/equidialive-fr/index.m3u8?token=
+http://46.105.112.116/?watch=EX/ETB-sp/index.m3u8?token=
 http://46.105.112.116/?watch=EX/euronews-ru/index.m3u8?token=
 http://46.105.112.116/?watch=EX/eurosport1-fr/index.m3u8?token=
-http://46.105.112.116/?watch=EX/eurosport1hd-ru/index.m3u8?token=
 http://46.105.112.116/?watch=EX/eurosport2-fr/index.m3u8?token=
-http://46.105.112.116/?watch=EX/eurosport2hd-ru/index.m3u8?token=
+http://46.105.112.116/?watch=EX/Eurosport_2_HD-uk/index.m3u8?token= < N
 http://46.105.112.116/?watch=EX/evrokino-ru/index.m3u8?token=
 http://46.105.112.116/?watch=EX/expressnews-pa/index.m3u8?token=
 http://46.105.112.116/?watch=EX/extremesports-fr/index.m3u8?token=
@@ -19535,6 +18884,7 @@ http://46.105.112.116/?watch=EX/foxhd-ru/index.m3u8?token=
 http://46.105.112.116/?watch=EX/foxlife-it/index.m3u8?token=
 http://46.105.112.116/?watch=EX/foxlife-ru/index.m3u8?token=
 http://46.105.112.116/?watch=EX/foxsport-it/index.m3u8?token=
+http://46.105.112.116/?watch=EX/FR_E_ENTERTAINMENT_HD-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/france2-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/france3-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/france4-fr/index.m3u8?token=
@@ -19679,6 +19029,7 @@ http://46.105.112.116/?watch=EX/o-ru/index.m3u8?token=
 http://46.105.112.116/?watch=EX/oceantv-ru/index.m3u8?token=
 http://46.105.112.116/?watch=EX/ostrosyuzhetnoye-ru/index.m3u8?token=
 http://46.105.112.116/?watch=EX/outdoorchannel-ru/index.m3u8?token=
+http://46.105.112.116/?watch=EX/PARAMOUNT_CHANNE_FR-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/paramountchannel-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/paramountchannel-ru/index.m3u8?token=
 http://46.105.112.116/?watch=EX/paramountcomedy-ru/index.m3u8?token=
@@ -19779,6 +19130,8 @@ http://46.105.112.116/?watch=EX/sfrsport2-fr/index.m3u8?token=
 http://46.105.112.116/?watch=EX/shradhatv-in/index.m3u8?token=
 http://46.105.112.116/?watch=EX/sikhchannel-in/index.m3u8?token=
 http://46.105.112.116/?watch=EX/sikhchanneluk-in/index.m3u8?token=
+http://46.105.112.116/?watch=EX/Sky_Cinema_Action_HD-uk/index.m3u8?token= 
+http://46.105.112.116/?watch=EX/Sky_Cinema_Action_SD-uk/index.m3u8?token= < N
 http://46.105.112.116/?watch=EX/skyarts-uk/index.m3u8?token=
 http://46.105.112.116/?watch=EX/skyatlantic-uk/index.m3u8?token=
 http://46.105.112.116/?watch=EX/skyatlantichd-uk/index.m3u8?token=
@@ -19930,7 +19283,6 @@ http://46.105.112.116/?watch=EX/tvphistoria-po/index.m3u8?token=
 http://46.105.112.116/?watch=EX/tvpkultura-po/index.m3u8?token=
 http://46.105.112.116/?watch=EX/tvppolonia-po/index.m3u8?token=
 http://46.105.112.116/?watch=EX/tvpseriale-po/index.m3u8?token=
-http://46.105.112.116/?watch=EX/tvpsporthd-po/index.m3u8?token=
 http://46.105.112.116/?watch=EX/tvs-po/index.m3u8?token=
 http://46.105.112.116/?watch=EX/tvts-ru/index.m3u8?token=
 http://46.105.112.116/?watch=EX/tvxxi-ru/index.m3u8?token=
@@ -19960,9 +19312,9 @@ http://46.105.112.116/?watch=EX/zinguk-in/index.m3u8?token=
 http://46.105.112.116/?watch=EX/zoomuk-in/index.m3u8?token=
 http://46.105.112.116/?watch=EX/zoopark-ru/index.m3u8?token=
 http://46.105.112.116/?watch=EX/zvezda-ru/index.m3u8?token=
-http://46.105.112.116/?watch=KN/ASport-kr/index.m3u8?token=
 http://46.105.112.116/?watch=KN/AlMas-kr/index.m3u8?token=
 http://46.105.112.116/?watch=KN/AsoSport-kr/index.m3u8?token=
+http://46.105.112.116/?watch=KN/ASport-kr/index.m3u8?token=
 http://46.105.112.116/?watch=KN/Astera-kr/index.m3u8?token=
 http://46.105.112.116/?watch=KN/Biaban-Sport-kr/index.m3u8?token=
 http://46.105.112.116/?watch=KN/Chara-TV-kr/index.m3u8?token=
@@ -20003,8 +19355,6 @@ http://46.105.112.116/?watch=NL/artehd-fr/index.m3u8?token=
 http://46.105.112.116/?watch=NL/artv-por/index.m3u8?token=
 http://46.105.112.116/?watch=NL/bangla-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/bbcfour-uk/index.m3u8?token=
-http://46.105.112.116/?watch=NL/bbcnews-uk/index.m3u8?token=
-http://46.105.112.116/?watch=NL/bbcone-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/bbcparliament-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/bbctwo-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/ben-uk/index.m3u8?token=
@@ -20040,8 +19390,6 @@ http://46.105.112.116/?watch=NL/cbsaction-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/cbsdrama-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/cbsreality-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/challenge-uk/index.m3u8?token=
-http://46.105.112.116/?watch=NL/channel4-uk/index.m3u8?token=
-http://46.105.112.116/?watch=NL/channel5-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/channelaka-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/channelstv-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/cherie25hd-fr/index.m3u8?token=
@@ -20051,9 +19399,7 @@ http://46.105.112.116/?watch=NL/cineplusfamizhd-fr/index.m3u8?token=
 http://46.105.112.116/?watch=NL/cineplusfrissonhd-fr/index.m3u8?token=
 http://46.105.112.116/?watch=NL/cinepluspremierhd-fr/index.m3u8?token=
 http://46.105.112.116/?watch=NL/cmtv-por/index.m3u8?token=
-http://46.105.112.116/?watch=NL/cnbc-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/cnews-fr/index.m3u8?token=
-http://46.105.112.116/?watch=NL/cnn-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/colors-uk/index.m3u8?token= < N
 http://46.105.112.116/?watch=NL/cstar-fr/index.m3u8?token=
 http://46.105.112.116/?watch=NL/dave-uk/index.m3u8?token=
@@ -20072,7 +19418,6 @@ http://46.105.112.116/?watch=NL/eden-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/eenhd-be/index.m3u8?token=
 http://46.105.112.116/?watch=NL/eirsport1-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/eirsport2-uk/index.m3u8?token=
-http://46.105.112.116/?watch=NL/elevensports1hd-por/index.m3u8?token=
 http://46.105.112.116/?watch=NL/entertainment-por/index.m3u8?token=
 http://46.105.112.116/?watch=NL/espn-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/eurosport1-por/index.m3u8?token=
@@ -20178,8 +19523,6 @@ http://46.105.112.116/?watch=NL/skynews-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/sonychannel-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/sonymax-uk/index.m3u8?token= < N
 http://46.105.112.116/?watch=NL/sonymovies-uk/index.m3u8?token=
-http://46.105.112.116/?watch=NL/sonysab-uk/index.m3u8?token=
-http://46.105.112.116/?watch=NL/sonytvasia-in/index.m3u8?token=
 http://46.105.112.116/?watch=NL/starbharat-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/stargold-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/starlifeok-uk/index.m3u8?token=
@@ -20226,13 +19569,13 @@ http://46.105.112.116/?watch=NL/w9hd-fr/index.m3u8?token=
 http://46.105.112.116/?watch=NL/yesterday-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NL/zee-uk/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/24_Kitchen_NL-nl/index.m3u8?token=
-http://46.105.112.116/?watch=NLH/AT_5_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Ajax_TV-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Animal_Planet_HD_NL-nl/index.m3u8?token=
+http://46.105.112.116/?watch=NLH/AT_5_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Baby_TV_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Boomerang_NL-nl/index.m3u8?token=
-http://46.105.112.116/?watch=NLH/CI_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Cartoon_Network_NL-nl/index.m3u8?token=
+http://46.105.112.116/?watch=NLH/CI_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Comedy_Central_Extra_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Comedy_Central_Family_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Comedy_Central_NL-nl/index.m3u8?token=
@@ -20260,6 +19603,9 @@ http://46.105.112.116/?watch=NLH/Fox_Sport_3_HD_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Fox_Sport_4_HD_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Fox_Sport_5_HD_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Fox_Sport_6_HD_NL-nl/index.m3u8?token=
+http://46.105.112.116/?watch=NLH/hbo1-nl/index.m3u8?token=
+http://46.105.112.116/?watch=NLH/hbo2-nl/index.m3u8?token=
+http://46.105.112.116/?watch=NLH/hbo3-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/History_HD_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/ID_HD_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Ketnet_NL-nl/index.m3u8?token=
@@ -20299,6 +19645,8 @@ http://46.105.112.116/?watch=NLH/Rtv_Utrecht_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Sbs_6_HD_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Sbs_9_HD_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Spike_HD_NL-nl/index.m3u8?token=
+http://46.105.112.116/?watch=NLH/Tlc_NL-nl/index.m3u8?token=
+http://46.105.112.116/?watch=NLH/Travel_Channel_HD_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/TV_192_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/TV_Drenthe_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/TV_Gelderland_NL-nl/index.m3u8?token=
@@ -20307,8 +19655,6 @@ http://46.105.112.116/?watch=NLH/TV_Oost_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/TV_Oranje_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/TV_Rijnmond_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/TV_West_NL-nl/index.m3u8?token=
-http://46.105.112.116/?watch=NLH/Tlc_NL-nl/index.m3u8?token=
-http://46.105.112.116/?watch=NLH/Travel_Channel_HD_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Veronica_Disney_XD_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Ziggo_Sport_Extra_1_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Ziggo_Sport_Extra_2_NL-nl/index.m3u8?token=
@@ -20317,21 +19663,18 @@ http://46.105.112.116/?watch=NLH/Ziggo_Sport_HD_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Ziggo_Sport_Racing_HD_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Ziggo_Sport_Select_HD_NL-nl/index.m3u8?token=
 http://46.105.112.116/?watch=NLH/Ziggo_Sport_Voetbal_HD_NL-nl/index.m3u8?token=
-http://46.105.112.116/?watch=NLH/hbo1-nl/index.m3u8?token=
-http://46.105.112.116/?watch=NLH/hbo2-nl/index.m3u8?token=
-http://46.105.112.116/?watch=NLH/hbo3-nl/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/AE_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/AMC_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Animal_Planet_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Arte_1_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=PY-N/BIS_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Band_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Band_News_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Band_Sports_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=PY-N/CNN_Brasil_HD-br/index.m3u8?token=
+http://46.105.112.116/?watch=PY-N/BIS_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Canal_Brasil_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Canal_Sony_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Cinemax_HD-br/index.m3u8?token=
+http://46.105.112.116/?watch=PY-N/CNN_Brasil_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Combate_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Comedy_Central_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Curta_HD-br/index.m3u8?token=
@@ -20341,30 +19684,30 @@ http://46.105.112.116/?watch=PY-N/Discovery_Science_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Discovery_Theater_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Discovery_Turbo_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Discovery_World_HD-br/index.m3u8?token=
+http://46.105.112.116/?watch=PY-N/E_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/EPTV_HD_Campinas-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/ESPN2_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/ESPN_Brasil_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/ESPN_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=PY-N/E_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=PY-N/FX_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Film_Arts_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Food_Network_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Fox_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Fox_Life_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Futura_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=PY-N/GNT_HD-br/index.m3u8?token=
+http://46.105.112.116/?watch=PY-N/FX_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Globo_Brasilia_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Globo_HD_Minas-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Globo_HD_RJ-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Globo_HD_SP-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Globo_News_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Globo_Nordeste_HD-br/index.m3u8?token=
+http://46.105.112.116/?watch=PY-N/GNT_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/HBO_2_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/HBO_Family_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/HBO_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/HBO_MUNDI_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=PY-N/HBO_POP_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/HBO_Plus_HD-br/index.m3u8?token=
+http://46.105.112.116/?watch=PY-N/HBO_POP_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/HBO_Signature_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/HBO_Xtreme_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/History_2_HD-br/index.m3u8?token=
@@ -20374,32 +19717,25 @@ http://46.105.112.116/?watch=PY-N/Like_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Mais_Globosat_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Megapix_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Multishow_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=PY-N/NatGeo_Wild_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Nat_Geo_HD-br/index.m3u8?token=
+http://46.105.112.116/?watch=PY-N/NatGeo_Wild_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/OFF_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Paramount_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Prime_Box_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/RBS_TV_HD_Porto_Alegre-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/RECORDTV_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=PY-N/RPC_TV_Curitiba_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Rede_TV_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Rede_Va_HD-br/index.m3u8?token=
+http://46.105.112.116/?watch=PY-N/RPC_TV_Curitiba_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/SBT_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Space_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=PY-N/SporTV_HD_Alternativo-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Sportv_2_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Sportv_3_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Sportv_HD-br/index.m3u8?token=
+http://46.105.112.116/?watch=PY-N/SporTV_HD_Alternativo-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Studio_Universal_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/SyFy_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/TBS_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=PY-N/TLC_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=PY-N/TNT_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=PY-N/TNT_Series_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=PY-N/TV_Anhanguera_Gonia_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=PY-N/TV_Bahia_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=PY-N/TV_RA_Tim_Bum_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=PY-N/TV_Verdes_Mares_HD_Fortaleza-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Telecine_Action_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Telecine_Cult_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Telecine_Fun_HD-br/index.m3u8?token=
@@ -20407,13 +19743,18 @@ http://46.105.112.116/?watch=PY-N/Telecine_Pipoca_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Telecine_Premium_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Telecine_Touch_HD-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/The_History_Channel_HD-br/index.m3u8?token=
+http://46.105.112.116/?watch=PY-N/TLC_HD-br/index.m3u8?token=
+http://46.105.112.116/?watch=PY-N/TNT_HD-br/index.m3u8?token=
+http://46.105.112.116/?watch=PY-N/TNT_Series_HD-br/index.m3u8?token=
+http://46.105.112.116/?watch=PY-N/TV_Anhanguera_Gonia_HD-br/index.m3u8?token=
+http://46.105.112.116/?watch=PY-N/TV_Bahia_HD-br/index.m3u8?token=
+http://46.105.112.116/?watch=PY-N/TV_RA_Tim_Bum_HD-br/index.m3u8?token=
+http://46.105.112.116/?watch=PY-N/TV_Verdes_Mares_HD_Fortaleza-br/index.m3u8?token=
 http://46.105.112.116/?watch=PY-N/Universal_TV_HD-br/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/ENGLISH_HBO_HD-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/FHD_AND_EXPLORE_-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/FHD_AND_FLIX_-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/HINDI_AND_PRIVE_HD-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/HINDI_BINDAS_MOVIES-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/HINDI_CINEMA_TV_-in/index.m3u8?token=
+http://46.105.112.116/?watch=R-EX/HINDI_CINEMA_TV_-in < NO
 http://46.105.112.116/?watch=R-EX/HINDI_DD_MP-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/HINDI_DD_NATIONAL_HD-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/HINDI_DD_NEWS_HD-in/index.m3u8?token=
@@ -20428,23 +19769,14 @@ http://46.105.112.116/?watch=R-EX/HINDI_MOVIE_HOUSE-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/HINDI_SONY_HD-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/HINDI_SONY_PAL-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/HINDI_SONY_PIX_HD_S-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/HINDI_STAR_MOVIES_HD-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/HINDI_UTV_GOLD-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/HINDI_UTV_HD-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/HINDI_ZOOM_TV-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/KIDS_Hungama_TV-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/KIDS_POGO-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/SPORTS_D_SPORTS_HD-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1
 http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_3_-in/tracks-v1a1
-http://46.105.112.116/?watch=R-EX/TAMIL_JAYA_TV_HD-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/TAMIL_KTV_HD-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=
-http://46.105.112.116/?watch=R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/TAMIL_ZEE_CINEMA_HD-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/TAMIL_ZEE_THIRAI-in/index.m3u8?token=
 http://46.105.112.116/?watch=R-EX/TELUGU_BBC_EARTH_HD-in/index.m3u8?token=
@@ -20479,8 +19811,6 @@ http://46.105.112.116/?watch=TR/24tv-tr/index.m3u8?token=
 http://46.105.112.116/?watch=TR/360tv-tr/index.m3u8?token=
 http://46.105.112.116/?watch=TR/365tv-tr/index.m3u8?token=
 http://46.105.112.116/?watch=TR/3sat-de/index.m3u8?token=
-http://46.105.112.116/?watch=TR/France24-fr/index.m3u8?token=
-http://46.105.112.116/?watch=TR/France24-uk/index.m3u8?token=
 http://46.105.112.116/?watch=TR/a2tv-tr/index.m3u8?token=
 http://46.105.112.116/?watch=TR/aande-esp/index.m3u8?token=
 http://46.105.112.116/?watch=TR/actionplushd-bul/index.m3u8?token=
@@ -20626,6 +19956,8 @@ http://46.105.112.116/?watch=TR/foxlife-esp/index.m3u8?token=
 http://46.105.112.116/?watch=TR/foxtv-tr/index.m3u8?token=
 http://46.105.112.116/?watch=TR/foxtvhd-tr/index.m3u8?token=
 http://46.105.112.116/?watch=TR/fplus-bul/index.m3u8?token=
+http://46.105.112.116/?watch=TR/France24-fr/index.m3u8?token=
+http://46.105.112.116/?watch=TR/France24-uk/index.m3u8?token=
 http://46.105.112.116/?watch=TR/gaziantepolaytv-tr/index.m3u8?token=
 http://46.105.112.116/?watch=TR/gemaz-az/index.m3u8?token=
 http://46.105.112.116/?watch=TR/gemkurd-kr/index.m3u8?token=
@@ -20928,6 +20260,7 @@ http://46.105.112.116/?watch=TR/zaroktv-kr/index.m3u8?token=
 http://46.105.112.116/?watch=TR/zdf-de/index.m3u8?token=
 http://46.105.112.116/?watch=TR/zeeone-de/index.m3u8?token=
 http://46.105.112.116/?watch=VOD/redaction-br/index.m3u8?token= < NO
+
 
 -/-/-/-/-/- 84.17.41.7/ -/-/-/-/-/- WORK
 
