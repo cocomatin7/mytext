@@ -17941,6 +17941,10 @@ http://46.105.112.116/?watch=EX/BEIN_SPORTS_MAX4HD-ar/index.m3u8?token=
 http://46.105.112.116/?watch=EX/BEIN_SPORTS_MAX5HD-ar/index.m3u8?token=
 #EXTINF:-1 group-title="46/IN",beIN SPORT MAX 6HD |46
 http://46.105.112.116/?watch=EX/BEIN_SPORTS_MAX6HD-ar/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",beIN MAX 1TR
+http://46.105.112.116/?watch=EX/beinmax1hd-tr/index.m3u8?token=
+#EXTINF:-1 group-title="46/IN",beIN MAX 2TR
+http://46.105.112.116/?watch=EX/beinmax2hd-tr/index.m3u8?token=
 
 #EXTINF:-1 group-title="46/IN",beIN SPORTS 1TR' |46
 http://46.105.112.116/?watch=EX/beinsports1uhd-tr/index.m3u8?token=
@@ -18699,6 +18703,7 @@ http://51.178.220.156/?watch=EX/bein12sd-ar/index.m3u8?token=
 http://51.178.220.156/?watch=EX/beIN_Sports_13_HD-ar/index.m3u8?token=
 http://51.178.220.156/?watch=EX/beIN_Sports_13_HD-ar/mpegts?token=
 http://51.178.220.156/?watch=EX/bein13sd-ar/index.m3u8?token=
+
 
 #EXTINF:-1 group-title="51/IN",beIN SPORT MAX 1HD |51
 http://51.178.220.156/?watch=EX/BEIN_SPORTS_MAX1HD-ar/index.m3u8?token=
