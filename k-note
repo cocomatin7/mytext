@@ -21705,8 +21705,6 @@ http://168.205.87.198:8555/get.php?username=viniciusvieira&password=vieira123&ty
 http://178.18.245.114:8080/get.php?username=Test-123&password=Test-123&type=m3u Real Url: 178.18.245.114:8080     Status: Active    Created: 14/7/2021 8:12:29 AM     Expires: Null    Active Connections: 4     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
 
 
-
-
 http://209.145.63.229:25461/get.php?username=Alking&password=Plus&type=m3u Real Url: 209.145.63.229:25461     Status: Active    Created: 22/5/2021 2:58:41 PM     Expires: Null    Active Connections: 3     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
 http://45.141.58.67:80/get.php?username=lisa123&password=lisa123&type=m3u < 1-1
 http://51.158.144.144:25461/get.php?username=MetiTV-telegrm&password=Falas-@Metitv&type=m3u Real Url: 51.158.144.144:25461     Status: Active    Created: 3/7/2021 8:52:21 PM     Expires: Null    Active Connections: 17     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
@@ -21869,7 +21867,7 @@ http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usac
 + + + + + 51.158.144.144:25461 + + + + + null + + + + few sports channels
 
 http://51.158.144.144:25461/get.php?username=MetiTV-telegram&password=@Metitv&type=m3u
-Real Url: 51.158.144.144:25461     Status: Active    Created: 19/6/2021 8:14:47 AM     Expires: Null    Active Connections: 17     Maximum Connections: 300     Formats: "m3u8","ts","rtmp"
+Real Url: 51.158.144.144:25461     Status: Active    Created: 19/6/2021 8:14:47 AM     Expires: Null    Active Connections: 17     Maximum Connections: 300     Formats: "m3u8","ts","rtmp" < DOWN?
 
 
 + + + + + 54k.top:8000 + + + + + null + + + +  Max Con: 10000
@@ -21882,58 +21880,9 @@ http://54k.top:8000/streaming/clients_live.php?extension=m3u8&username=to44j&pas
 + + + + + 62.182.80.153:80 + + + + + Null + + + + + Max Con: 0
 
 http://62.182.80.153:80/get.php?username=Livetv&password=master&type=m3u
-Real Url: 62.182.80.153:80     Status: Active    Created: 7/11/2020 2:59:04 AM     Expires: Null    Active Connections: 228     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
+Real Url: 62.182.80.153:80     Status: Active    Created: 7/11/2020 2:59:04 AM     Expires: Null    Active Connections: 228     Maximum Connections: 0     Formats: "m3u8","ts","rtmp" < DOWN?
 
 http://62.182.80.153:80/streaming/clients_live.php?extension=m3u8&username=Livetv&password=master&stream=
-
-#EXTINF:-1 group-title="62.182",UK: SKY CINEMA PREMIERE |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=1
-#EXTINF:-1 group-title="62.182",UK: SKY CINEMA ACTION |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=2
-#EXTINF:-1 group-title="62.182",UK: SKY CINEMA CRIME & THRILLER |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=3
-#EXTINF:-1 group-title="62.182",UK: SKY CINEMA FAMILY |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=4
-#EXTINF:-1 group-title="62.182",UK: SKY CINEMA DISNEY |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=5
-#EXTINF:-1 group-title="62.182",UK: SKY CINEMA DRAMA & ROMANCE |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=6
-#EXTINF:-1 group-title="62.182",UK: SKY CINEMA SCIFI & HORROR |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=7
-#EXTINF:-1 group-title="62.182",UK: SKY CINEMA COMEDY |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=8
-#EXTINF:-1 group-title="62.182",UK: BT SPORT 1 |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=12
-#EXTINF:-1 group-title="62.182",UK: BT SPORT 2 |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=13
-#EXTINF:-1 group-title="62.182",UK: BT SPORT 3 |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=52
-#EXTINF:-1 group-title="62.182",UK: SKY SPORTS RACING |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=16
-#EXTINF:-1 group-title="62.182",UK: SKY SPORTS NEWS |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=17
-#EXTINF:-1 group-title="62.182",UK: SKY SPORTS GOLF |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=19
-#EXTINF:-1 group-title="62.182",UK: SKY SPORTS F1 |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=20
-#EXTINF:-1 group-title="62.182",UK: SKY SPORTS CRICKET |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=21
-#EXTINF:-1 group-title="62.182",UK: BEIN SPORT 11 (ENGLISH ) |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=22
-#EXTINF:-1 group-title="62.182",UK: BEIN SPORT 12 (ENGLISH) |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=23
-#EXTINF:-1 group-title="62.182",UK: BEIN SPORT 13 (ENGLISH) |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=24
-#EXTINF:-1 group-title="62.182",US: HBO |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=39
-#EXTINF:-1 group-title="62.182",US: SHOWTIME |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=40
-#EXTINF:-1 group-title="62.182",US: STARZ |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=41
-#EXTINF:-1 group-title="62.182",US: SONY MOVIE CHANNEL |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=42
-#EXTINF:-1 group-title="62.182",US: EPIX HITS |62
-http://62.182.80.153:80/streaming/clients_live.php?extension=ts&username=Livetv&password=master&stream=43
 
 
 + + + + + 62.210.141.53:80 + + + + + null + + + + + DE & TR
