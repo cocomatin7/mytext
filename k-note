@@ -22569,7 +22569,7 @@ http://test.satlok.club/get.php?username=Amigo&password=do92Rd6x8yr3&type=m3u Re
 
 http://ip.bosszx.net:80/streaming/clients_live.php?extension=m3u8&username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcvxcvx&stream=15452&type=hls
 
-#EXTINF:-1,UK: MTV
+#EXTINF:-1 group-title="trboss",UK: MTV
 http://ip.trboss.net:80/nomoreacble/dsfsdfsfds/56548
 #EXTINF:-1,UK: MTV BASE
 http://ip.trboss.net:80/nomoreacble/dsfsdfsfds/56549
@@ -22655,7 +22655,7 @@ http://ip.trboss.net:80/nomoreacble/dsfsdfsfds/16285
 http://ip.trboss.net:80/nomoreacble/dsfsdfsfds/16283
 #EXTINF:-1,HINDI | STAR MOVIES SELECT
 http://ip.trboss.net:80/nomoreacble/dsfsdfsfds/56421
-#EXTINF:-1,HINDI | STAR WORLD
+#EXTINF:-1 group-title="trboss",HINDI | STAR WORLD
 http://ip.trboss.net:80/nomoreacble/dsfsdfsfds/56422
 
 
