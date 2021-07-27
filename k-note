@@ -23279,7 +23279,7 @@ Real Url: edge.multiplay.cl:25461     Status: Active    Created: 21/11/2019 6:10
 + + + + + elattar-tv.org:8080 + + + + +
 
 http://elattar-tv.org:8080/get.php?username=dazexchange&password=b4mg5uu7eY&type=m3u
-Real Url: elattar-tv.org:8080     Status: Active    Created: 25/6/2021 2:29:02 PM     Expires: Null    Active Connections: 167     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
+Real Url: elattar-tv.org:8080     Status: Active    Created: 25/6/2021 2:29:02 PM     Expires: Null    Active Connections: 198     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
 
 #EXTINF:-1 group-title="elattar",UK: MTV 90s
 http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/25166.m3u8
@@ -23415,7 +23415,7 @@ http://elattar-tv.org:8080/live/dazexchange/b4mg5uu7eY/16863.m3u8
 + + + + + exchange.jinbox.nl:1339 + + + + +
 
 http://exchange.jinbox.nl:1339/get.php?username=tex2021t&password=w3pqg4SvT97hJXYD&type=m3u
-Real Url: exchange.jinbox.nl:1339     Status: Active    Created: 26/8/2020 1:07:13 PM     Expires: Null    Active Connections: 233     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp"
+Real Url: exchange.jinbox.nl:1339     Status: Active    Created: 26/8/2020 1:07:13 PM     Expires: Null    Active Connections: 406     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp"
 
 #EXTINF:-1 group-title="exchange",(UK) MTV 4K+
 http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/8171
@@ -23517,7 +23517,7 @@ http://gesrv01.betstream.tv/get.php?username=YMnS21043v&password=PKd9ks5SLd&type
 + + + + + getwhitakertv.org:25461 + + + + + null + + + Max Con: 0
 
 http://getwhitakertv.org:25461/get.php?username=23763235&password=36984944&type=m3u
-Real Url: getwhitakertv.org:25461     Status: Active    Created: 31/10/2020 4:00:00 AM     Expires: Null    Active Connections: 3     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
+Real Url: getwhitakertv.org:25461     Status: Active    Created: 31/10/2020 4:00:00 AM     Expires: Null    Active Connections: 4     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
 
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=15452&type=hls
 
@@ -23821,10 +23821,10 @@ http://ip.bosszx.net:80/get.php?username=yamahasdfsdsd&password=2NYlY9V1Eocxvxcv
 Real Url: bosstr.net:80     Status: Active    Created: 25/4/2019 2:30:18 AM     Expires: Null    Active Connections: 136     Maximum Connections: 200     Formats: "m3u8","ts","rtmp" < DOWN
 
 http://ip.trboss.net/get.php?username=dindin&password=sdfsjfujskrez&type=m3u
-Real Url: bosstr.net:80     Status: Active    Created: 24/1/2021 12:42:20 PM     Expires: Null    Active Connections: 61     Maximum Connections: 60     Formats: "m3u8","ts"
+Real Url: bosstr.net:80     Status: Active    Created: 24/1/2021 12:42:20 PM     Expires: Null    Active Connections: 61     Maximum Connections: 60     Formats: "m3u8","ts" < DOWN
 
 http://ip.trboss.net:80/get.php?username=nomoreacble&password=dsfsdfsfds&type=m3u
-Real Url: ip.trboss.net:80     Status: Active    Created: 11/1/2021 11:17:44 PM     Expires: Null    Active Connections: 929     Maximum Connections: 1000     Formats: "m3u8","ts" << to check
+Real Url: ip.trboss.net:80     Status: Active    Created: 11/1/2021 11:17:44 PM     Expires: Null    Active Connections: 937     Maximum Connections: 1000     Formats: "m3u8","ts" << OK
 
 http://test.satlok.club/get.php?username=Amigo&password=do92Rd6x8yr3&type=m3u Real Url: ip.newboss.site:80 Expires: Null Connections: 200-200 < DOWN
 
@@ -23920,7 +23920,6 @@ http://ip.trboss.net:80/nomoreacble/dsfsdfsfds/56421
 http://ip.trboss.net:80/nomoreacble/dsfsdfsfds/56422
 
 
-
 + + + + + ip.tv4all.top:12345 + + + + +
 
 http://ip.tv4all.top:12345/get.php?username=Z94baSrf5s1w&password=qWTrXkW7ejUs&type=m3u
@@ -23952,165 +23951,13 @@ http://ipeteve.com/php/SR_REGIO_8585/regio3.php?c=a02i
 + + + + + iptv.allkaicerteam.com:8080 + + + + +
 
 http://iptv.allkaicerteam.com:8080/get.php?username=tomas400ex21&password=dDSKrvNtUn2D4ke2&type=m3u
-Real Url: iptv.allkaicerteam.com:8080     Status: Active    Created: 14/4/2021 1:09:40 PM     Expires: Null    Active Connections: 91     Maximum Connections: 200     Formats: "m3u8","ts","rtmp" < to check
+Real Url: iptv.allkaicerteam.com:8080     Status: Active    Created: 14/4/2021 1:09:40 PM     Expires: Null    Active Connections: 91     Maximum Connections: 200     Formats: "m3u8","ts","rtmp" < DOWN
 
 http://iptv.allkaicerteam.com:8080/get.php?username=tomasexch200&password=SHRB8AM8AgQSbxpc&type=m3u
-Real Url: iptv.allkaicerteam.com:8080     Status: Active    Created: 4/6/2021 2:08:25 PM     Expires: Null    Active Connections: 70     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
+Real Url: iptv.allkaicerteam.com:8080     Status: Active    Created: 4/6/2021 2:08:25 PM     Expires: Null    Active Connections: 70     Maximum Connections: 200     Formats: "m3u8","ts","rtmp" < DOWN
 
 
 http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3763&type=hls
-
-#EXTINF:-1 group-title="allkai",BeIN Sport Max hevc 1
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3763
-#EXTINF:-1,BeIN Sport Max hevc 2
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3764
-#EXTINF:-1,BeIN Sport Max hevc 3
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3765
-#EXTINF:-1,BeIN Sport Max hevc 4
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3766
-#EXTINF:-1,beIN.sport MAX 5 HEVC
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3789
-#EXTINF:-1,beIN.sport MAX 6 HEVC
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3790
-#EXTINF:-1,beIN SPORTS MAX1 FHD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3767
-#EXTINF:-1,beIN SPORTS MAX2 FHD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3768
-#EXTINF:-1,beIN SPORTS MAX3 FHD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3769
-#EXTINF:-1,beIN SPORTS MAX4 FHD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3770
-#EXTINF:-1,beIN SPORTS MAX5 FHD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3787
-#EXTINF:-1,beIN SPORTS MAX6 FHD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3788
-#EXTINF:-1,BEIN. MAX 1 FHD S2
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3771
-#EXTINF:-1,BEIN. MAX 1 HEVC S2
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3772
-#EXTINF:-1,BEIN. MAX 1 HD S2
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3773
-#EXTINF:-1,BEIN. MAX 1 SD S2
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3774
-#EXTINF:-1,BEIN. MAX 2 FHD S2
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3775
-#EXTINF:-1,BEIN. MAX 2 HEVC S2
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3776
-#EXTINF:-1,BEIN. MAX 2 HD S2
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3777
-#EXTINF:-1,BEIN. MAX 2 SD S2
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3778
-
-#EXTINF:-1,beIN SPORTS MAX1 HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3739
-#EXTINF:-1,beIN SPORTS MAX2 HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3741
-#EXTINF:-1,beIN SPORTS MAX3 HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3743
-#EXTINF:-1,beIN SPORTS MAX4 HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3745
-#EXTINF:-1,beIN SPORTS MAX5 HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3749
-#EXTINF:-1,beIN SPORTS MAX6 HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3752
-
-#EXTINF:-1,beIN SPORTS PREMIUM1 FullHD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3221
-#EXTINF:-1,beIN SPORTS PREMIUM2 FullHD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3222
-#EXTINF:-1,beIN SPORTS PREMIUM3 FullHD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3223
-#EXTINF:-1,beIN SPORTS FullHD1
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3224
-#EXTINF:-1,beIN SPORTS FullHD2
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3225
-#EXTINF:-1,beIN SPORTS FullHD3
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3226
-#EXTINF:-1,beIN SPORTS FullHD4
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3227
-#EXTINF:-1,beIN SPORTS FullHD5
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3228
-#EXTINF:-1,beIN SPORTS FullHD6
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3230
-#EXTINF:-1,beIN SPORTS FullHD7
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3229
-
-#EXTINF:-1,beIN SPORTS PREMIUM1 HEVC
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=459
-#EXTINF:-1,beIN SPORTS PREMIUM2 HEVC
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=450
-#EXTINF:-1,beIN SPORTS PREMIUM3 HEVC
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=451
-#EXTINF:-1,beIN SPORTS1 H265
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=452
-#EXTINF:-1,beIN SPORTS2 H265
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=453
-#EXTINF:-1,beIN SPORTS3 H265
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=454
-#EXTINF:-1,beIN SPORTS4 H265
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=455
-#EXTINF:-1,beIN SPORTS5 H265
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=456
-#EXTINF:-1,beIN SPORTS6 H265
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=457
-#EXTINF:-1,beIN SPORTS7 H265
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=458
-
-#EXTINF:-1,beIN SPORTS HD (Global)
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=960
-#EXTINF:-1,beIN Sport XTRA 1 HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3620
-#EXTINF:-1,beIN Sport XTRA 2 HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3621
-#EXTINF:-1,beIN SPORTS PREMIUM1 HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=46
-#EXTINF:-1,beIN SPORTS PREMIUM2 HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=47
-#EXTINF:-1,beIN SPORTS PREMIUM3 HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=48
-#EXTINF:-1,beIN SPORTS 1HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=49
-#EXTINF:-1,beIN SPORTS 2HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=50
-#EXTINF:-1,beIN SPORTS 3HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=51
-#EXTINF:-1,beIN SPORTS 4HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=52
-#EXTINF:-1,beIN SPORTS 5HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=53
-#EXTINF:-1,beIN SPORTS 6HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=54
-#EXTINF:-1,beIN SPORTS 7HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=55
-#EXTINF:-1, beIN SPORTS 1 ENGLISH HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3001
-#EXTINF:-1, beIN SPORTS 2 ENGLISH HD
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3002
-
-#EXTINF:-1,[SPO*] SuperSport Grandstand
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3060
-#EXTINF:-1,[SPO*] SuperSport Variety 4
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3061
-#EXTINF:-1,[SPO*] SuperSport Variety 3
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3062
-#EXTINF:-1,[SPO*] SuperSport 04
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3064
-#EXTINF:-1,[SPO*] SuperSport 05
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3063
-#EXTINF:-1,[SPO*] SuperSport Variety 1
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3065
-#EXTINF:-1,[SPO*] SuperSport 07
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3066
-#EXTINF:-1,[SPO*] SuperSport Variety 3
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3067
-#EXTINF:-1,[SPO*] SuperSport Variety 3
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3068
-#EXTINF:-1,[SPO*] KC2
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3069
-#EXTINF:-1,[SPO*] SuperSport 11
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3070
-#EXTINF:-1 group-title="allkai",[SPO*] SuperSport Cricket
-http://iptv.allkaicerteam.com:8080/streaming/clients_live.php?extension=ts&username=tomasexch200&password=SHRB8AM8AgQSbxpc&stream=3071
 
 
 + + + + + iptbest.xyz:8000 + + + + +
