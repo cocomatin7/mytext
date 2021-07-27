@@ -15984,7 +15984,9 @@ http://103.253.72.107:9997/Premier5/index.m3u8
 
 
 + + + + + http://176.170.240.98:9981/extjs.html + + + + + @amin:amin2020
++ + + + + http://176.170.240.98:9981/extjs.html + + + + + file:///config/amin2020.m3u + + +
 
+http://176.170.240.98:9981/playlist/channels
 
 #EXTINF:-1 group-title="176.170",FR - M6 MUSIC FHD
 http://176.170.240.98:9981/stream/channelid/758596690?profile=pass
@@ -22607,7 +22609,7 @@ http://51.15.1.11:25461/get.php?username=MEGA-TV&password=TELEGRAM&type=m3u < DO
 + + + + + 51.91.73.99:25461 + + + + + null + + + +
 
 http://51.91.73.99:25461/get.php?username=usachannel&password=ngZnG8PD5i&type=m3u
-Real Url: 51.91.73.99:25461     Status: Active    Created: 30/5/2020 8:38:00 AM     Expires: Null    Active Connections: 99     Maximum Connections: 100     Formats: "m3u8","ts","rtmp" < FR, DE, US
+Real Url: 51.91.73.99:25461     Status: Active    Created: 30/5/2020 8:38:00 AM     Expires: Null    Active Connections: 72    Maximum Connections: 100     Formats: "m3u8","ts","rtmp" < FR, DE, US
 
 #EXTINF:-1 group-title="51.91",US: MTV 2 HD |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
@@ -22630,10 +22632,6 @@ http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usac
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18090&type=hls
 #EXTINF:-1 group-title="51.91",US: Music Choice - Indie |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18092&type=hls
-#EXTINF:-1 group-title="51.91",US: Music Choice - KIDZ BOP |51
-http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18094&type=hls
-#EXTINF:-1 group-title="51.91",US: Music Choice - Kidz Only |51
-http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18096&type=hls
 #EXTINF:-1 group-title="51.91",US: Music Choice - Mexicana |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=18098&type=hls
 #EXTINF:-1 group-title="51.91",US: Music Choice - MUSICA URBANA |51
@@ -22758,7 +22756,7 @@ http://104.218.61.161:83/get.php?username=directline76598&password=35222AM020342
 + + + + + 144.76.86.51:57060 + + + + + null + + + xxx
 
 http://144.76.86.51:57060/get.php?username=stalker&password=zacj5NaQuQ7P3oPI&type=m3u
-Real Url: 144.76.86.51:57060     Status: Active    Created: 13/11/2019 11:04:04 PM     Expires: Null    Active Connections: 15     Maximum Connections: 999     Formats: "m3u8","ts","rtmp"
+Real Url: 144.76.86.51:57060     Status: Active    Created: 13/11/2019 11:04:04 PM     Expires: Null    Active Connections: 46     Maximum Connections: 999     Formats: "m3u8","ts","rtmp"
 
 http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=stalker&password=zacj5NaQuQ7P3oPI&stream=15452&type=hls
 
@@ -22831,7 +22829,7 @@ https://xc.gt-app.tk:2083/get.php?username=GThn&password=qLzpvNzf04JgYjTwKgHrMgR
 
 + + + + + 168.205.87.198:8555 + + + + +
 
-http://168.205.87.198:8555/get.php?username=elienecp&password=123456&type=m3u < null < 5-7 < to check
+http://168.205.87.198:8555/get.php?username=elienecp&password=123456&type=m3u < null < 5-7 < BR FTA
 
 
 + + + + + 173.198.198.102:25461 + + + + +
@@ -22845,10 +22843,6 @@ http://176.98.26.37:8000/streaming/clients_live.php?extension=m3u8&username=tivi
 
 http://176.9.31.213:7080/get.php?username=live_channel&password=e71sq94uo8&type=m3u < to check < N
 
-
-+ + + + + http://176.170.240.98:9981/extjs.html + + + + + file:///config/amin2020.m3u + + +
-
-http://176.170.240.98:9981/playlist/channels < to check later
 
 
 + + + + + 185.8.176.227:25461 [IN] + + + + +
@@ -22946,41 +22940,21 @@ Real Url: 209.145.54.100:25461     Status: Active    Created: 4/5/2021 10:10:54 
 + + + + + 209.145.58.109:25461 + + + + + Null + + + + + DOWN
 
 http://209.145.58.109:25461/get.php?username=0SmzsfBiue&password=bD5ry59Og9&type=m3u
-Real Url: 209.145.58.109:25461     Status: Active    Created: 18/4/2021 6:26:25 PM     Expires: Null    Active Connections: 11     Maximum Connections: 1000     < DOWN
+Real Url: 209.145.58.109:25461     Status: Active    Created: 18/4/2021 6:26:25 PM     Expires: Null    Active Connections: 11     Maximum Connections: 1000 < DOWN
 
 http://209.145.58.109:25461/get.php?username=omohaktv&password=App&type=m3u
-Real Url: 209.145.58.109:25461     Status: Active    Created: 31/5/2021 2:00:35 PM     Expires: Null    Active Connections: 1     Maximum Connections: 2000     Formats: "m3u8","ts","rtmp" < NOT PLAY
+Real Url: 209.145.58.109:25461     Status: Active    Created: 31/5/2021 2:00:35 PM     Expires: Null    Active Connections: 1     Maximum Connections: 2000     Formats: "m3u8","ts","rtmp" < DOWN
 
 http://209.145.58.109:25461/get.php?username=omohakapp&password=App1&type=m3u
-Real Url: 209.145.58.109:25461     Status: Active    Created: 22/6/2021 3:25:42 PM     Expires: Null    Active Connections: 1     Maximum Connections: 500     Formats: "m3u8","ts","rtmp" < few CH
+Real Url: 209.145.58.109:25461     Status: Active    Created: 22/6/2021 3:25:42 PM     Expires: Null    Active Connections: 1     Maximum Connections: 500     Formats: "m3u8","ts","rtmp" < DOWN
 
 http://209.145.58.109:25461/get.php?username=omohaktv&password=App&type=m3u
-Real Url: 209.145.58.109:25461     Status: Active    Created: 31/5/2021 2:00:35 PM     Expires: Null    Active Connections: 20     Maximum Connections: 2000     Formats: "m3u8","ts","rtmp"
+Real Url: 209.145.58.109:25461     Status: Active    Created: 31/5/2021 2:00:35 PM     Expires: Null    Active Connections: 20     Maximum Connections: 2000     Formats: "m3u8","ts","rtmp" < DOWN
 
-http://209.145.58.109:25461/get.php?username=omohaktv&password=App&type=m3u Real Url: 209.145.58.109:25461     Status: Active    Created: 31/5/2021 2:00:35 PM     Expires: Null    Active Connections: 21     Maximum Connections: 2000     Formats: "m3u8","ts","rtmp"
+http://209.145.58.109:25461/get.php?username=omohaktv&password=App&type=m3u Real Url: 209.145.58.109:25461     Status: Active    Created: 31/5/2021 2:00:35 PM     Expires: Null    Active Connections: 21     Maximum Connections: 2000     Formats: "m3u8","ts","rtmp" < DOWN
 
 http://209.145.58.109:25461/get.php?username=omohakapp&password=App1&type=m3u
-Real Url: 209.145.58.109:25461     Status: Active    Created: 22/6/2021 3:25:42 PM     Expires: Null    Active Connections: 3     Maximum Connections: 500     Formats: "m3u8","ts","rtmp"
-
-
-#EXTINF:-1 group-title="209.145",Sony ten 1
-http://209.145.58.109:25461/omohaktv/App/72
-#EXTINF:-1 group-title="209.145",Sony ten 2
-http://209.145.58.109:25461/omohaktv/App/73
-#EXTINF:-1 group-title="209.145",Fox Soccer sports 
-http://209.145.58.109:25461/omohaktv/App/78
-#EXTINF:-1 group-title="209.145",UFC us
-http://209.145.58.109:25461/omohaktv/App/80
-#EXTINF:-1 group-title="209.145",Netflix comedy 
-http://209.145.58.109:25461/omohaktv/App/148
-#EXTINF:-1 group-title="209.145",Netflix Drama 
-http://209.145.58.109:25461/omohaktv/App/107
-#EXTINF:-1 group-title="209.145",Netflix Horror 
-http://209.145.58.109:25461/omohaktv/App/122
-#EXTINF:-1 group-title="209.145",Netflix Kids 
-http://209.145.58.109:25461/omohaktv/App/121
-#EXTINF:-1 group-title="209.145",Netflix Movie
-http://209.145.58.109:25461/omohaktv/App/105
+Real Url: 209.145.58.109:25461     Status: Active    Created: 22/6/2021 3:25:42 PM     Expires: Null    Active Connections: 3     Maximum Connections: 500     Formats: "m3u8","ts","rtmp" < DOWN
 
 
 + + + + + 209.222.101.100:25461 + + + + + 10/10/2021 / 5-5 + + + + +
