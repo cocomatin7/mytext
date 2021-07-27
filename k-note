@@ -23022,7 +23022,7 @@ http://b1g.me:80/get.php?username=devin&password=devin&type=m3u Expires: Null Co
 + + + + + basic-iptvesun.com:8080 + + + + + null + + + + +
 
 http://basic-iptvesun.com:8080/get.php?username=carter&password=GUV1bMq2VK&type=m3u
-Real Url: basic-iptvesun.com:8080     Status: Active    Created: 9/10/2019 11:16:18 PM     Expires: Null    Active Connections: 44     Maximum Connections: 50     Formats: "m3u8","ts"
+Real Url: basic-iptvesun.com:8080     Status: Active    Created: 9/10/2019 11:16:18 PM     Expires: Null    Active Connections: 50     Maximum Connections: 50     Formats: "m3u8","ts"
 
 http://basic-iptvesun.com:8080/streaming/clients_live.php?extension=m3u8&username=carter&password=GUV1bMq2VK&stream=6872
 
@@ -23253,172 +23253,21 @@ Real Url: dragoniptv.iptf.me:8080     Status: Active    Created: 18/2/2021 11:45
 http://dragoniptv.iptf.me:8080/get.php?username=123&password=123&type=m3u
 Real Url: dragoniptv.iptf.me:8080     Status: Active    Created: 23/12/2020 1:54:23 AM     Expires: Null    Active Connections: 6    Maximum Connections: 5     Formats: "m3u8","ts","rtmp"
 
-+ + + + + dream4k.co:8080 + + + + +
++ + + + + dream4k.co:8080 + + + + + beIN CH
 
 http://dream4k.co:8080/get.php?username=fsdfsgfsgs&password=rGMSeAaH&type=m3u
-Real Url: dream4k.co:8080     Status: Active    Created: 16/6/2021 7:28:30 PM     Expires: Null    Active Connections: 52     Maximum Connections: 100000     Formats: "m3u8","ts","rtmp"
-
-#EXTINF:-1 group-title="d4k",B S MAX 1 HD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289046
-#EXTINF:-1 group-title="d4k",B S MAX 1 SD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289047
-#EXTINF:-1 group-title="d4k",B S MAX 2 HD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289048
-#EXTINF:-1 group-title="d4k",B S MAX 2 SD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289049
-#EXTINF:-1 group-title="d4k",B S MAX 3 HD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289050
-#EXTINF:-1 group-title="d4k",B S MAX 3 SD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289051
-#EXTINF:-1 group-title="d4k",B S MAX 4 HD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289052
-#EXTINF:-1 group-title="d4k",B S MAX 4 SD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289053
-#EXTINF:-1 group-title="d4k",B S MAX 5 HD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289054
-#EXTINF:-1 group-title="d4k",B S MAX 5 4K
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289055
-#EXTINF:-1 group-title="d4k",B S MAX 6 HD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289056
-#EXTINF:-1 group-title="d4k",B S MAX 6 4K
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289057
-#EXTINF:-1 group-title="d4k",B S MAX 1 4K
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289625
-#EXTINF:-1 group-title="d4k",B S MAX 2 4K 
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289626
-#EXTINF:-1 group-title="d4k",B S MAX 3 4K 
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289627
-#EXTINF:-1 group-title="d4k",B S MAX 4 4K 
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289628
-#EXTINF:-1 group-title="d4k",B S MAX 5 4K
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289629
-#EXTINF:-1 group-title="d4k",B S MAX 6 4K
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289630
-#EXTINF:-1 group-title="d4k",B S MAX  2F
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289635
-#EXTINF:-1 group-title="d4k",B S MAX  1F
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289636
-#EXTINF:-1 group-title="d4k",BS 1 HD fr
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289637
-#EXTINF:-1 group-title="d4k",BS 2 HD fr
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289638
-#EXTINF:-1 group-title="d4k",BS 3 HD fr
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289639
-#EXTINF:-1 group-title="d4k",BS 1F fr
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289640
-#EXTINF:-1 group-title="d4k",BS 2F fr
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289641
-#EXTINF:-1 group-title="d4k",BS 3F fr
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289642
+Real Url: dream4k.co:8080     Status: Active    Created: 16/6/2021 7:28:30 PM     Expires: Null    Active Connections: 52     Maximum Connections: 100000     Formats: "m3u8","ts","rtmp" < DOWN
 
 
 + + + + + dreamsat-iptv.top:8080 + + + + +
 
 http://dreamsat-iptv.top:8080/get.php?username=SADFFGGSQFDQSDF&password=rGMSeAaH&type=m3u
-Real Url: dreamsat-iptv.top:8080     Status: Active    Created: 16/6/2021 7:28:30 PM     Expires: Null    Active Connections: 114     Maximum Connections: 100000     Formats: "m3u8","ts","rtmp" << to check
+Real Url: dreamsat-iptv.top:8080     Status: Active    Created: 16/6/2021 7:28:30 PM     Expires: Null    Active Connections: 114     Maximum Connections: 100000     Formats: "m3u8","ts","rtmp" << DOWN
 
 + + + + + driptvs.com:8080 + + + + + 
 
 http://driptvs.com:8080/get.php?username=amgextree2021&password=JqTFNPRqGw9e5JeG&type=m3u
-Real Url: driptvs.com:8080     Status: Active    Created: 22/12/2019 10:03:59 AM     Expires: Null    Active Connections: 447     Maximum Connections: 1200     Formats: "m3u8","ts"
-
-#EXTINF:-1 group-title="driptvs",IDS: BeiN Sport 1
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135680.m3u8
-#EXTINF:-1 group-title="driptvs",IDS: BeiN Sport 2
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135679.m3u8
-#EXTINF:-1 group-title="driptvs",IDS: Fox Sports 1
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135678.m3u8
-#EXTINF:-1 group-title="driptvs",IDS: Fox Sports 2
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135677.m3u8
-#EXTINF:-1 group-title="driptvs",IDS: Fox Sports 3
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135676.m3u8
-#EXTINF:-1 group-title="driptvs",IDS: Champion 1
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135675.m3u8
-#EXTINF:-1 group-title="driptvs",IDS: Champion 2
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135674.m3u8
-#EXTINF:-1 group-title="driptvs",MY: ASTRO SUPERSPORT 1 HD
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/46658.m3u8
-#EXTINF:-1 group-title="driptvs",MY: ASTRO SUPERSPORT 2 HD
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/46659.m3u8
-#EXTINF:-1 group-title="driptvs",MY: ASTRO SUPERSPORT 3 HD
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/46660.m3u8
-#EXTINF:-1 group-title="driptvs",MY: ASTRO SUPERSPORT 4 HD
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/46661.m3u8
-#EXTINF:-1 group-title="driptvs",AR: BEIN SPORTS Premium 3 HD
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/26215.m3u8
-#EXTINF:-1 group-title="driptvs",AR: BEIN SPORTS ENGLISH 1 FHD
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/26216.m3u8
-#EXTINF:-1 group-title="driptvs",AR: beIN SPORTS Premium 2 HD
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/74131.m3u8
-#EXTINF:-1 group-title="driptvs",AR: beIN SPORTS ENGLISH 2 FHD
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/31446.m3u8
-
-#EXTINF:-1 group-title="driptvs",AF: SuperSport Action
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135966.m3u8
-#EXTINF:-1 group-title="driptvs",AF: SuperSport Blitz
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135965.m3u8
-#EXTINF:-1 group-title="driptvs",AF: SuperSport Cricket
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135964.m3u8
-#EXTINF:-1 group-title="driptvs",AF: SuperSport Football
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135963.m3u8
-#EXTINF:-1 group-title="driptvs",AF: SuperSport Golf
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/165884.m3u8
-#EXTINF:-1 group-title="driptvs",AF: SuperSport Grandstand
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135961.m3u8
-#EXTINF:-1 group-title="driptvs",AF: SuperSport LaLiga
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135960.m3u8
-#EXTINF:-1 group-title="driptvs",AF: SuperSport Motorsport
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135959.m3u8
-#EXTINF:-1 group-title="driptvs",AF: SuperSport MáXimo 1
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135958.m3u8
-#EXTINF:-1 group-title="driptvs",AF: SuperSport Play
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/165877.m3u8
-#EXTINF:-1 group-title="driptvs",AF: SuperSport Premier League
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135956.m3u8
-#EXTINF:-1 group-title="driptvs",AF: SuperSport PSL
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135955.m3u8
-#EXTINF:-1 group-title="driptvs",AF: SuperSport Rugby
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135954.m3u8
-#EXTINF:-1 group-title="driptvs",AF: SuperSport TENNIS HD
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/140560.m3u8
-#EXTINF:-1 group-title="driptvs",AF: SuperSport Variety 1
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135952.m3u8
-#EXTINF:-1 group-title="driptvs",AF: SuperSport Variety 3
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135950.m3u8
-#EXTINF:-1 group-title="driptvs",AF: SuperSport Variety 2
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/4367.m3u8
-#EXTINF:-1 group-title="driptvs",AF: SuperSport Variety 4
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/4371.m3u8
-#EXTINF:-1 group-title="driptvs",AF: SuperSport WWE
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/135948.m3u8
-
-#EXTINF:-1 group-title="driptvs",UK: MTV HD
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/7891.m3u8
-#EXTINF:-1 group-title="driptvs",UK: MTV Base
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/7892.m3u8
-#EXTINF:-1 group-title="driptvs",UK: MTV Classic
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/7893.m3u8
-#EXTINF:-1 group-title="driptvs",UK: MTV Dance
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/7894.m3u8
-#EXTINF:-1 group-title="driptvs",UK: MTV HITS HD
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/7896.m3u8
-#EXTINF:-1 group-title="driptvs",UK: MTV OMG
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/7898.m3u8
-#EXTINF:-1 group-title="driptvs",UK: MTV Rocks
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/7899.m3u8
-#EXTINF:-1 group-title="driptvs",UK: MTV 90s
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/46274.m3u8
-
-#EXTINF:-1 group-title="driptvs",VOD: VH1 HD
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/147988.m3u8
-#EXTINF:-1 group-title="driptvs",VOD: MTV CLASSIC USA (HQ)
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/147989.m3u8
-#EXTINF:-1 group-title="driptvs",VOD: MTV LIVE USA (HQ)
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/147990.m3u8
-#EXTINF:-1 group-title="driptvs",VOD: MTV 2 HD
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/147991.m3u8
-#EXTINF:-1 group-title="driptvs",VOD: MTV
-http://driptvs.com:8080/live/amgextree2021/JqTFNPRqGw9e5JeG/147992.m3u8
+Real Url: driptvs.com:8080     Status: Active    Created: 22/12/2019 10:03:59 AM     Expires: Null    Active Connections: 447     Maximum Connections: 1200     Formats: "m3u8","ts" < DOWN
 
 
 + + + + + edge.multiplay.cl:25461 + + + + + Max Con: 0
