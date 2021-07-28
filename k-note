@@ -4,6 +4,13 @@ x-tvg-url="https://guidexl.tv4.live/"
 
 
 
+http://199.127.62.234:8880/streams/13_.m3u8
+http://199.127.62.234:8880/streams/86_.m3u8?PEDROJUNIORTUTORIAIS
+http://199.127.62.234:8880/streams/220_.m3u8?PEDROJUNIORTUTORIAIS
+http://199.127.62.234:8880/streams/230_.m3u8?PEDROJUNIORTUTORIAIS
+http://199.127.62.234:8880/streams/329_.m3u8?PEDROJUNIORTUTORIAIS
+http://199.127.62.234:8880/streams/368_.m3u8?PEDROJUNIORTUTORIAIS
+http://199.127.62.234:8880/streams/424_.m3u8?PEDROJUNIORTUTORIAIS
 
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
@@ -13683,6 +13690,10 @@ http://198.16.106.58:8278/supersports2/playlist.m3u8
 http://198.16.106.58:8278/supersports3/playlist.m3u8
 http://198.16.106.58:8278/supersports4/playlist.m3u8
 
+
+http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+
+
 + + + + + TV Headend + + + + +
 
 Congiguration > DVB Inputs > Muxes
@@ -14556,8 +14567,12 @@ http://520574.xyz/dl/htv.php?id=223
 
 + + + + + ftp/VN + + + + +
 
-#EXTINF: group-title="htv/VN",V HD |ftp
+#EXTINF: group-title="htv/VN",[V] HD |ftp
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist.m3u8
+#EXTINF: group-title="htv/VN",afc hd
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist.m3u8
+#EXTINF: group-title="htv/VN",CINEMAX
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="FOX Movies HD",Fox Movies |ftp
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
 #EXTINF: group-title="htv/VN",National Geographic HD |ftp
@@ -14566,6 +14581,9 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="FOX Family Movies HD",Fox Family Movies |ftp'
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/index.m3u8
+#EXTINF: group-title="htv/VN",HBO
+https://livecdn.fptplay.net/hda1/hbo_1000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/hda1/hbo_1000.stream/chunklist.m3u8
 #EXTINF: group-title="htv/VN",KIX |ftp
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
 #EXTINF: group-title="htv/VN",Animal Planet |ftp
