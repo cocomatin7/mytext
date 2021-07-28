@@ -3119,6 +3119,9 @@ https://rush-redbox.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1,[V]
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+#EXTINF:-1,MTV RU
+http://188.40.68.167/russia/mtv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="BamarTV",Canal+
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_==gUGByc1xGUgwWYuF2Q
@@ -22537,6 +22540,9 @@ http://eyetv.site:8080/get.php?username=eyetvpro21&password=eye123zz&type=m3u Re
 
 http://207.244.228.10:8080/get.php?username=chimera&password=331199&type=m3u
 Real Url: iptvhere.xyz:8080     Status: Active    Created: 5/6/2021 10:48:29 PM     Expires: Null    Active Connections: 6     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
+
+
+http://kstv.xyz:8080/get.php?username=Admluda192&password=0046096196&type=m3u < kstv.us:8080 < null < 3-2 K- - - 
 
 http://local-xc.com:8080/get.php?username=thomas_arana&password=zqM3AtWFWc&type=m3u Real Url: buffing.ddns.net:8080     Status: Active    Created: 1/12/2020 10:21:17 AM     Expires: Null    Active Connections: 189     Maximum Connections: 350     Formats: "ts" < DOWN?
 http://main.tvstreamzone.com:8080/get.php?username=stk&password=fABtG6FdXs&type=m3u Real Url: 195.154.150.141:8080     Status: Active    Created: 2/4/2021 11:45:36 PM     Expires: Null    Active Connections: 197     Maximum Connections: 3500     Formats: "m3u8","ts","rtmp" < ALB Channels
