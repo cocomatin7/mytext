@@ -24647,6 +24647,10 @@ Real Url: iptvtree.net:8080     Status: Active    Created: 13/3/2020 1:01:43 PM 
 http://iptvtree.net:8080/get.php?username=resplice&password=534db280&type=m3u
 Real Url: iptvtree.net:8080     Status: Active    Created: 6/11/2020 5:43:43 PM     Expires: 6/6/2021 12:00:00 AM    Active Connections: 1729     Maximum Connections: 3000     Formats: "m3u8","ts","rtmp"
 
+http://iptvtree.net:8080/get.php?username=aumaleiptv&password=d051xyzaef399hp56&type=m3u
+Real Url: iptvtree.net:8080     Status: Active    Created: 29/5/2021 2:29:15 PM     Expires: Null    Active Connections: 74     Maximum Connections: 100     Formats: "m3u8","ts","rtmp" << 
+
+
 
 + + + + + jo.sarhantv.com:8880 + + + + + beIN CH + + + + + DOWN
 
@@ -26418,6 +26422,10 @@ http://wagnet.club:7000/get.php?username=test1234&password=test1234&type=m3u < n
 + + + + + watchindia.net:8443 + + + + + 
 
 https://watchindia.net:8443/get.php?username=33253&password=72963&type=m3u < DOWN?
+http://watchindia.net:8880/get.php?username=33253&password=72963&type=m3u
+Real Url: watchindia.net:8880     Status: Active    Created: 25/8/2020 12:00:00 AM     Expires: 25/8/2021 10:00:00 AM    Active Connections: 2     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
+
 
 + + + + + webo.asia:80 + + + + + to check
 
