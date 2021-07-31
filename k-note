@@ -14488,6 +14488,9 @@ http://103.130.186.138:8800/oxygenplay/mtvchina/index.m3u8
  group-title="oxygenplay",nhk world |oxygen
 http://103.130.186.138:8800/oxygenplay/nhkworld/index.m3u8
 
+
+
+
 + + + + + 203/VN + + + + +
 
 #EXTINF:-1 group-title="203/VN",NHK |203
@@ -22201,6 +22204,26 @@ https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 
 + + + + + http://tv.pmcon.net + + + + +
 
+
+http://103.81.104.118/hls/stream16.m3u8
+
+http://hitectv.live/hls/stream16.m3u8
+
+&prive
+http://180.210.191.2/hls/stream1.m3u8
+http://180.210.191.2/hls/stream2.m3u8
+http://180.210.191.2/hls/stream3.m3u8
+http://180.210.191.2/hls/stream4.m3u8
+http://180.210.191.2/hls/stream5.m3u8
+http://180.210.191.2/hls/stream6.m3u8
+http://180.210.191.2/hls/stream7.m3u8
+http://180.210.191.2/hls/stream8.m3u8
+Discovery HD
+http://180.210.191.2/hls/stream9.m3u8
+ZEE CINEMA
+http://180.210.191.2/hls/stream25.m3u8
+
+
 #EXTINF:-1 group-title="IN/pmcon",&prive
 http://tv.pmcon.net/hls/stream1.m3u8
 #EXTINF:-1 group-title="IN/pmcon",AXN
@@ -22674,13 +22697,22 @@ http://officialtv.hopto.me:8000/get.php?username=3332010&password=3332010&type=m
 http://oqab.life:8080/get.php?username=58585858&password=58585858&type=m3u Real Url: oqab.life:8080     Status: Active    Created: 23/11/2020 5:31:13 AM     Expires: 24/11/2021 3:07:46 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp" < INDIA CH
 http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 http://rv.bleutv.net:80/get.php?username=307206155225&password=307206155225&type=m3u Real Url: rv.bleutv.net:80     Status: Active    Created: Null     Expires: 23/9/2021 1:45:55 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+http://portal.geniptv.com:8080/get.php?username=greenpoison8&password=GZprWONABH&type=m3u < to check later 
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/4754.ts
+
+
 http://rv.therevenge.co:80/get.php?username=307200401051&password=307200401051&type=m3u Real Url: rv.therevenge.co:80     Status: Active    Created: Null     Expires: 18/2/2022 11:58:16 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
 http://s2.famousiptv.com:8080/get.php?username=princeT2021&password=T7p2Tm9qgTduKnhq&type=m3u Real Url: s2.famousiptv.com:8080     Status: Active    Created: 2/6/2021 2:08:59 PM     Expires: Null    Active Connections: 66     Maximum Connections: 400     Formats: "m3u8","ts","rtmp"
 http://serivcestv.xyz/get.php?username=3143244310072655&password=2598854265&type=m3u Real Url: mat4k.com:8080     Status: Active    Created: 14/12/2020 9:13:27 PM     Expires: 14/12/2021 9:15:29 PM    Active Connections: 0     Maximum Connections: 3     Formats: "m3u8","ts","rtmp" < INDIA CH
 
 http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/get.php?username=dOOULJsuIL&password=uEsV5ofcKA&type=m3u < 1-0 < quality beIN Channels
 http://smart.hdtv112.com:8080/get.php?username=flussonicperveeti&password=uWRmys3E6r&type=m3u Real Url: tv.smartalb.com:8080     Status: Active    Created: 19/4/2021 11:08:08 PM     Expires: Null    Active Connections: 184     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
-http://sofadad.co.uk:80/ibrar123/ibrar123/203415
+
+http://smartntv.pro:25461/get.php?username=nadorsatexchange&password=KSQtKqY3Fh3GSQtKqSJ3hgn&type=m3u
+Real Url: smartntv.pro:25461     Status: Active    Created: 27/7/2020 11:59:23 AM     Expires: Null    Active Connections: 8     Maximum Connections: 50     Formats: "m3u8","ts","rtmp"
+
+
 http://sps1.tvmoip.com:18080/get.php?username=localserver2&password=serverlocal2021&type=m3u Real Url: sps1.tvmoip.com:18080     Status: Active    Created: 29/9/2019 11:51:00 PM     Expires: Null    Active Connections: 47     Maximum Connections: 50     Formats: "m3u8","ts","rtmp"
 http://tigeriptv.vip:8080/get.php?username=500&password=500&type=m3u Real Url: sonyiptv.net:8080     Status: Active    Created: 6/7/2021 10:11:45 AM     Expires: 6/8/2021 10:11:45 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 http://tigeriptv.vip:8080/get.php?username=600&password=600&type=m3u Real Url: sonyiptv.net:8080     Status: Active    Created: 4/6/2021 1:35:48 PM     Expires: 5/9/2021 1:35:00 PM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
