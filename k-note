@@ -33,7 +33,8 @@ http://212.224.98.208:2200/EX/FR_RMC_SPORT8_HD-fr/index.m3u8?token=
 http://212.224.98.208:2200/EX/FR_RMC_SPORT9_HD-fr/index.m3u8?token=
 http://212.224.98.208:2200/EX/FR_RMC_SPORT10_HD-fr/index.m3u8?token=
 
-http://portal.geniptv.com/get.php?username=greenpoison8&password=GZprWONABH&type=m3u
+
+
 http://titanmedia.one:2082/get.php?username=UDASHBOARD&password=NAoSDAdVcP&type=m3u
 Real Url: titanmedia.one:2082     Status: Active    Created: 1/10/2020 7:25:01 PM     Expires: Null    Active Connections: 99     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
 
@@ -930,6 +931,51 @@ http://93.157.62.180/Supersport6/index.m3u8
 #EXTINF:-1 group-title="Sport/Bamar",Supersport7
 http://93.157.62.180/Supersport7/index.m3u8
 
+
+n.a http://134.19.182.131:8080/edg1_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",E2
+http://134.19.182.131:8080/edg2_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",E3
+http://134.19.182.131:8080/edg3_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",E4
+http://134.19.182.131:8080/edg4_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",E5
+http://134.19.182.131:8080/edg5_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",E6
+http://134.19.182.131:8080/edg6_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",E7
+http://134.19.182.131:8080/edg7_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",ESPN Live
+http://134.19.182.131:8080/edg8_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",E9
+http://134.19.182.131:8080/edg9_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",E10
+http://134.19.182.131:8080/edg10_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",FOX SOCCER PLUS
+http://134.19.182.131:8080/edg11_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",E12
+http://134.19.182.131:8080/edg12_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",E13
+http://134.19.182.131:8080/edg13_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",TSN1
+http://134.19.182.131:8080/edg14_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",E15
+http://134.19.182.131:8080/edg15_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",E16
+http://134.19.182.131:8080/edg16_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",E17
+http://134.19.182.131:8080/edg17_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",E18
+http://134.19.182.131:8080/edg18_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",E19
+http://134.19.182.131:8080/edg19_2.m3u8
+
+n.a http://134.19.182.131:8080/edg20_2.m3u8
+n.a http://134.19.182.131:8080/edg21_2.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",ESPN 3
+http://134.19.182.131:8080/edg22_2.m3u8
+
+
 ASSP 1 |96
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
 ASSP 2 |96
@@ -945,6 +991,27 @@ https://lon-haproxy.angelthump.com/hls/treddd03/index.m3u8
 https://lon-haproxy.angelthump.com/hls/formulaonline/index.m3u8?stream=formulaonline
 N.A
 https://lon-haproxy.angelthump.com/hls/korskks/index.m3u8
+
+Olympic 1
+http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
+Olympic 10
+http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
+http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
+Olympic 16
+http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
+
 
  True Premiere Football HD1 |185
 http://185.238.0.145:1313/c/livedo/truepremierfootball1-hd.m3u8
@@ -22315,8 +22382,7 @@ http://oqab.life:8080/get.php?username=58585858&password=58585858&type=m3u Real 
 http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 http://rv.bleutv.net:80/get.php?username=307206155225&password=307206155225&type=m3u Real Url: rv.bleutv.net:80     Status: Active    Created: Null     Expires: 23/9/2021 1:45:55 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
-http://portal.geniptv.com:8080/get.php?username=greenpoison8&password=GZprWONABH&type=m3u < to check later 
-http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/4754.ts
+
 
 
 http://rv.therevenge.co:80/get.php?username=307200401051&password=307200401051&type=m3u Real Url: rv.therevenge.co:80     Status: Active    Created: Null     Expires: 18/2/2022 11:58:16 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
@@ -25040,6 +25106,77 @@ Real Url: placa.work:5115     Status: Active    Created: 27/4/2021 3:24:27 PM   
 
 http://portal.alliptv.tv:8080/get.php?username=530354021348&password=397532457292&type=m3u
 Real Url: portal.alliptv.tv:8080     Status: Active    Created: 6/2/2021 2:00:00 PM     Expires: Null    Active Connections: 50     Maximum Connections: 50     Formats: "m3u8","ts","rtmp"
+
+
+
++ + + + + portal.geniptv.com:8080 + + + + + 
+
+http://portal.geniptv.com/get.php?username=greenpoison8&password=GZprWONABH&type=m3u
+
+http://portal.geniptv.com:8080/get.php?username=greenpoison8&password=GZprWONABH&type=m3u < to check later 
+http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/4754.ts
+
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/920.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/921.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/922.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/923.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/924.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/925.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/926.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/927.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/928.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/929.m3u8
+
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/920.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/921.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/922.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/923.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/924.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/925.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/926.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/927.m3u8
+EURO SPORT 1
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/928.m3u8
+ELEVEN SPORTS 4
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/929.m3u8
+ELEVEN SPORTS 3
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/930.m3u8
+ELEVEN SPORTS 2
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/931.m3u8
+ELEVEN SPORTS 1
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/932.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/933.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/934.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/935.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/936.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/937.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/938.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/939.m3u8
+
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/940.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/941.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/942.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/943.m3u8
+CANAL+ SP
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/944.m3u8
+CANAL+ SPORT
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/945.m3u8
+CANAL+ SPORT 1
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/946.m3u8
+NA http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/947.m3u8
+NA http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/948.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/949.m3u8
+
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/950.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/951.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/952.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/953.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/954.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/955.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/956.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/957.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/958.m3u8
+http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/959.m3u8
 
 
 + + + + + portal.maxtviptv.com:80 + + + + + AR Channels
