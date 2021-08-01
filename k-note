@@ -2201,24 +2201,6 @@ http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/12192/index.m3u8
 http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/12193/index.m3u8
  group-title="EDEM" tvg-id="5001" tvg-logo="http://epg.it999.ru/img/5001.png" tvg-rec="0",MAD SEX PARTY
 http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/12194/index.m3u8
- group-title="EDEM" tvg-id="5002" tvg-logo="http://epg.it999.ru/img/5002.png" tvg-rec="0",FILMAX ADULT 2 HD
-http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/12195/index.m3u8
- group-title="EDEM" tvg-id="5003" tvg-logo="http://epg.it999.ru/img/5003.png" tvg-rec="0",FILMAX ADULT 3 HD
-http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/12196/index.m3u8
- group-title="EDEM" tvg-id="5004" tvg-logo="http://epg.it999.ru/img/5004.png" tvg-rec="0",FILMAX ADULT 4 HD
-http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/12197/index.m3u8
- group-title="EDEM" tvg-id="5005" tvg-logo="http://epg.it999.ru/img/5005.png" tvg-rec="0",FILMAX ADULT 5 HD
-http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/12198/index.m3u8
- group-title="EDEM" tvg-id="5006" tvg-logo="http://epg.it999.ru/img/5006.png" tvg-rec="0",FILMAX ADULT 6 HD
-http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/12199/index.m3u8
- group-title="EDEM" tvg-id="5007" tvg-logo="http://epg.it999.ru/img/5007.png" tvg-rec="0",FILMAX ADULT 7 HD
-http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/12200/index.m3u8
- group-title="EDEM" tvg-id="5008" tvg-logo="http://epg.it999.ru/img/5008.png" tvg-rec="0",FILMAX ADULT 8 HD
-http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/12201/index.m3u8
- group-title="EDEM" tvg-id="5009" tvg-logo="http://epg.it999.ru/img/5009.png" tvg-rec="0",FILMAX ADULT 9 HD
-http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/12202/index.m3u8
- group-title="EDEM" tvg-id="5010" tvg-logo="http://epg.it999.ru/img/5010.png" tvg-rec="0",FILMAX ADULT 10 HD
-http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/12203/index.m3u8
 
 #EXTINF:0 group-title="EDEM" tvg-id="2057" tvg-logo="http://epg.it999.ru/img/2057.png" tvg-rec="3",Food Network
 http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/1107/index.m3u8
@@ -2241,17 +2223,17 @@ http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/6977/index.m3u8
 http://185.183.34.118/iptv/V4KSK3Y4Z8DVPM/6978/index.m3u8
 
 
-#EXTINF:-1,Матч! Футбол 1 |RU
+#EXTINF:0 group-title="EDEM",Матч! Футбол 1 |RU
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/124/index.m3u8
-#EXTINF:-1,Матч! Футбол 1 HD |RU
+#EXTINF:0 group-title="EDEM",Матч! Футбол 1 HD |RU
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/222/index.m3u8
-#EXTINF:-1,Матч! Футбол 2 |RU
+#EXTINF:0 group-title="EDEM",Матч! Футбол 2 |RU
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/530/index.m3u8
-#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD |RU
+#EXTINF:0 group-title="EDEM",МАТЧ! ФУТБОЛ 2 HD |RU
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/211/index.m3u8
-#EXTINF:-1,Матч! Футбол 3 |RU
+#EXTINF:0 group-title="EDEM",Матч! Футбол 3 |RU
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/522/index.m3u8
-#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD |RU
+#EXTINF:0 group-title="EDEM",МАТЧ! ФУТБОЛ 3 HD |RU
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/206/index.m3u8
 
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6123/index.m3u8
@@ -2280,18 +2262,19 @@ http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6067/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6068/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6069/index.m3u8
 
-#EXTINF:-1,M Deportes
+#EXTINF:0 group-title="EDEM",M Deportes
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6070/index.m3u8
-#EXTINF:-1,DAZN F1
+#EXTINF:0 group-title="EDEM",DAZN F1
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6071/index.m3u8
-#EXTINF:-1,LaLiga TV
+#EXTINF:0 group-title="EDEM",LaLiga TV
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6072/index.m3u8
-#EXTINF:-1,M LaLiga
+#EXTINF:0 group-title="EDEM",M LaLiga
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6073/index.m3u8
-#EXTINF:-1,M Liga de
+#EXTINF:0 group-title="EDEM",M Liga de
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6074/index.m3u8
-#EXTINF:-1,M Golf
+#EXTINF:0 group-title="EDEM",M Golf
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6075/index.m3u8
+
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6076/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6077/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6078/index.m3u8
@@ -2300,10 +2283,11 @@ http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6079/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6080/index.m3u8
 COMEDY CENTRAL
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6081/index.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2
+#EXTINF:0 group-title="EDEM",ELEVEN SPORTS 2
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6082/index.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1
+#EXTINF:0 group-title="EDEM",ELEVEN SPORTS 1
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6083/index.m3u8
+
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6084/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6085/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6086/index.m3u8
@@ -2322,9 +2306,9 @@ Tennis
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6096/index.m3u8
 skysport 1
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6097/index.m3u8
-#EXTINF:-1,CANAL+ SPORT
+#EXTINF:0 group-title="EDEM",CANAL+ SPORT
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6098/index.m3u8
-#EXTINF:-1,CANAL+ SPORT2
+#EXTINF:0 group-title="EDEM",CANAL+ SPORT2
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6099/index.m3u8
 
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6100/index.m3u8
@@ -2340,36 +2324,36 @@ FOX SPORT
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6121/index.m3u8
 RACING.COM
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6122/index.m3u8
-#EXTINF:-1,beIN SPORTS 1 |RU
+#EXTINF:0 group-title="EDEM",beIN SPORTS 1 |RU
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6123/index.m3u8
-#EXTINF:-1,beIN SPORTS 3SD |RU
+#EXTINF:0 group-title="EDEM",beIN SPORTS 3SD |RU
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6124/index.m3u8
-#EXTINF:-1,beIN SPORTS 4SD |RU
+#EXTINF:0 group-title="EDEM",beIN SPORTS 4SD |RU
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6125/index.m3u8
-#EXTINF:-1,beIN SPORTS 5 4K |RU
+#EXTINF:0 group-title="EDEM",beIN SPORTS 5 4K |RU
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6126/index.m3u8
-#EXTINF:-1,beIN SPORTS 6 4K |RU
+#EXTINF:0 group-title="EDEM",beIN SPORTS 6 4K |RU
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6127/index.m3u8
-#EXTINF:-1,beIN SPORTS 6 |RU
+#EXTINF:0 group-title="EDEM",beIN SPORTS 6 |RU
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6128/index.m3u8
-#EXTINF:-1,beIN SPORTS 5 |RU
+#EXTINF:0 group-title="EDEM",beIN SPORTS 5 |RU
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6129/index.m3u8
-#EXTINF:-1,beIN SPORTS 2 FR |RU
+#EXTINF:0 group-title="EDEM",beIN SPORTS 2 FR |RU
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6130/index.m3u8
-#EXTINF:-1,beIN SPORTS 1PRE |RU
+#EXTINF:0 group-title="EDEM",beIN SPORTS 1PRE |RU
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6131/index.m3u8
-#EXTINF:-1,beIN SPORTS HD11 EN |RU
+#EXTINF:0 group-title="EDEM",beIN SPORTS HD11 EN |RU
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6132/index.m3u8
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6132/index.m3u8
-#EXTINF:-1,beIN SPORTS HD12 EN |RU
+#EXTINF:0 group-title="EDEM",beIN SPORTS HD12 EN |RU
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6133/index.m3u8
-#EXTINF:-1,beIN MOVIES 2 |RU
+#EXTINF:0 group-title="EDEM",beIN MOVIES 2 |RU
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6134/index.m3u8
-#EXTINF:-1,beIN MOVIES 3 |RU
+#EXTINF:0 group-title="EDEM",beIN MOVIES 3 |RU
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6135/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6136/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6137/index.m3u8
-#EXTINF:-1,beIN MOVIES 2 |RU
+#EXTINF:0 group-title="EDEM",beIN MOVIES 2 |RU
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6138/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6139/index.m3u8
 
@@ -2463,28 +2447,28 @@ http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6227/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6228/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/YSZEBB3QYC3TXF/6229/index.m3u8
 
-#EXTINF:-1,VH1 Classic |RU
+#EXTINF:0 group-title="EDEM",VH1 Classic |RU
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/724/index.m3u8
-#EXTINF:-1,MTV |RU*
+#EXTINF:0 group-title="EDEM",MTV |RU*
 http://188.40.68.167/russia/mtv/playlist.m3u8
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/142/index.m3u8
-#EXTINF:-1,MTV Live HD |RU
+#EXTINF:0 group-title="EDEM",MTV Live HD |RU
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/221/index.m3u8
-#EXTINF:-1,MTV Dance |RU*
+#EXTINF:0 group-title="EDEM",MTV Dance |RU*
 http://188.40.68.167/russia/mtv_dance/playlist.m3u8
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/558/index.m3u8
-#EXTINF:-1,Europa Plus |RU
+#EXTINF:0 group-title="EDEM",Europa Plus |RU
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/115/index.m3u8
-#EXTINF:-1,Europa Plus* |RU
+#EXTINF:0 group-title="EDEM",Europa Plus* |RU
 http://7341035e.edemist.com/iptv/YSZEBB3QYC3TXF/115/index.m3u8
-#EXTINF:-1,MTV Hits |RU*
+#EXTINF:0 group-title="EDEM",MTV Hits |RU*
 http://188.40.68.167/russia/mtv_hits/playlist.m3u8
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/153/index.m3u8
-#EXTINF:-1,VH1 European |RU
+#EXTINF:0 group-title="EDEM",VH1 European |RU
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/536/index.m3u8
-#EXTINF:-1,Музыка |RU
+#EXTINF:0 group-title="EDEM",Музыка |RU
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/155/index.m3u8
-#EXTINF:-1,Mezzo Live |RU
+#EXTINF:0 group-title="EDEM",Mezzo Live |RU
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/217/index.m3u8
 
 
