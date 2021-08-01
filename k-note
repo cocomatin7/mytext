@@ -21762,61 +21762,61 @@ https://f8e7y4c6.ssl.hwcdn.net/ztvme/tracks-v2a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztvme/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1,Zee Mundo
+#EXTINF:-1 group-title="IN/f8",Zee Mundo
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
-#EXTINF:-1,&Flix
+#EXTINF:-1 group-title="IN/f8",&Flix
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
-#EXTINF:-1,&Pictures
+#EXTINF:-1 group-title="IN/f8",&Pictures
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
-#EXTINF:-1,&privé HD
+#EXTINF:-1 group-title="IN/f8",&privé HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-#EXTINF:-1,Zee Action
+#EXTINF:-1 group-title="IN/f8",Zee Action
 https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
-#EXTINF:-1,Zee magic
+#EXTINF:-1 group-title="IN/f8",Zee magic
 https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
-#EXTINF:-1,Zee Anmol Cinema
+#EXTINF:-1 group-title="IN/f8",Zee Anmol Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
-#EXTINF:-1,Zee Bihar Jharkhand
+#EXTINF:-1 group-title="IN/f8",Zee Bihar Jharkhand
 https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/index.m3u8
-#EXTINF:-1,Zee Cafe
+#EXTINF:-1 group-title="IN/f8",Zee Cafe
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
-#EXTINF:-1,Zee Cinema Middle East
+#EXTINF:-1 group-title="IN/f8",Zee Cinema Middle East
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
-#EXTINF:-1,Zee Cinema UK
+#EXTINF:-1 group-title="IN/f8",Zee Cinema UK
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
-#EXTINF:-1,Zee Classic
+#EXTINF:-1 group-title="IN/f8",Zee Classic
 https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
-#EXTINF:-1,Zee Living USA
+#EXTINF:-1 group-title="IN/f8",Zee Living USA
 https://f8e7y4c6.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-#EXTINF:-1,Zee Marathi USA
+#EXTINF:-1 group-title="IN/f8",Zee Marathi USA
 https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
-#EXTINF:-1,Zee News MPCG
+#EXTINF:-1 group-title="IN/f8",Zee News MPCG
 https://f8e7y4c6.ssl.hwcdn.net/newsmpcg/playlist.m3u8
-#EXTINF:-1,Zee Punjabi
+#EXTINF:-1 group-title="IN/f8",Zee Punjabi
 https://f8e7y4c6.ssl.hwcdn.net/punjabi/playlist.m3u8
-#EXTINF:-1,Zee Rajasthan
+#EXTINF:-1 group-title="IN/f8",Zee Rajasthan
 https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
-#EXTINF:-1,Zee Smile USA
+#EXTINF:-1 group-title="IN/f8",Zee Smile USA
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
-#EXTINF:-1,Zee Talkies
+#EXTINF:-1 group-title="IN/f8",Zee Talkies
 https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
-#EXTINF:-1,Zee TV APAC
+#EXTINF:-1 group-title="IN/f8",Zee TV APAC
 https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
-#EXTINF:-1,Zee TV Canada HD
+#EXTINF:-1 group-title="IN/f8",Zee TV Canada HD
 https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
-#EXTINF:-1,Zee TV Middle East
+#EXTINF:-1 group-title="IN/f8",Zee TV Middle East
 https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
-#EXTINF:-1,Zee TV Russia
+#EXTINF:-1 group-title="IN/f8",Zee TV Russia
 https://f8e7y4c6.ssl.hwcdn.net/russia/playlist.m3u8
-#EXTINF:-1,Zee TV USA HD
+#EXTINF:-1 group-title="IN/f8",Zee TV USA HD
 https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/playlist.m3u8
-#EXTINF:-1,Zee World
+#EXTINF:-1 group-title="IN/f8",Zee World
 https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
-#EXTINF:-1,Zee Zest HD
+#EXTINF:-1 group-title="IN/f8",Zee Zest HD
 https://f8e7y4c6.ssl.hwcdn.net/zzesthd/playlist.m3u8
-#EXTINF:-1,Zee5 Originals
+#EXTINF:-1 group-title="IN/f8",Zee5 Originals
 https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
-#EXTINF:-1,Zee5 Romance
+#EXTINF:-1 group-title="IN/f8",Zee5 Romance
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 
 + + + + + http://tv.pmcon.net + + + + +
@@ -22026,22 +22026,22 @@ https://y5w8j4a9.ssl.hwcdn.net/24ghanta/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 group-title="IN/y5",&flix
 https://y5w8j4a9.ssl.hwcdn.net/andflix/tracks-v1a1/index.m3u8
-#EXTINF:-1,&flix HD
+#EXTINF:-1 group-title="IN/y5",&flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v3a1/index.m3u8
-#EXTINF:-1,&pictures HD
+#EXTINF:-1 group-title="IN/y5",&pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
-#EXTINF:-1,&prive HD
+#EXTINF:-1 group-title="IN/y5",&prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v3a1/index.m3u8
-#EXTINF:-1,&TV HD |offline
+#EXTINF:-1 group-title="IN/y5",&TV HD |offline
 https://y5w8j4a9.ssl.hwcdn.net/andtvhd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andtvhd/tracks-v1a1/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andtvsd/tracks-v1a1/index.m3u8
@@ -22054,16 +22054,16 @@ https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/biharjharkh/tracks-v2a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/canadahd/index.m3u8
-#EXTINF:-1,ZEE CINEMA UK
+#EXTINF:-1 group-title="IN/y5",ZEE CINEMA UK
 https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEE CINEMA US*
+#EXTINF:-1 group-title="IN/y5",ZEE CINEMA US*
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v2a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,ZEE BOLLYWOOD
+#EXTINF:-1 group-title="IN/y5",ZEE BOLLYWOOD
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/etcpnjbiusa/index.m3u8
@@ -22082,13 +22082,13 @@ https://y5w8j4a9.ssl.hwcdn.net/newsmpcg/tracks-v2a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/punjabi/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/russia/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/russia/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEE SMILE US*
+#EXTINF:-1 group-title="IN/y5",ZEE SMILE US*
 https://y5w8j4a9.ssl.hwcdn.net/smileusa/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/smileusa/tracks-v2a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v2a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
-#EXTINF:-1,ZEE CINEMA HD
+#EXTINF:-1 group-title="IN/y5",ZEE CINEMA HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/mono.m3u8
@@ -22096,7 +22096,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zeebanglahd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEE CINEMA ME
+#EXTINF:-1 group-title="IN/y5",ZEE CINEMA ME
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v2a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/playlist.m3u8
@@ -22113,7 +22113,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/ztalkieshd/index.m3u8
-#EXTINF:-1,ZEETV HD US
+#EXTINF:-1 group-title="IN/y5",ZEETV HD US
 https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/mono.m3u8
