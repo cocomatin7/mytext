@@ -3144,18 +3144,32 @@ https://crackle-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,Loop 80s
 https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Loop 80s'
+http://loop-80s-1.roku.wurl.com/manifest/4300.m3u8
 #EXTINF:-1,Loop 80s Geo-blocked
 https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1,Loop 90s
 https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Loop 90s'
+http://loop-90s-1.roku.wurl.com/manifest/4300.m3u8
 #EXTINF:-1,Loop Country
 https://loop-country-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Loop Country'
+http://loop-country-1.roku.wurl.com/manifest/4300.m3u8
 #EXTINF:-1,Loop Hip-Hop
 https://loop-hip-hop-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Loop Hip-Hop'
+http://loop-hip-hop-1.roku.wurl.com/manifest/4300.m3u8
 #EXTINF:-1,Loop Hottest
 https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Loop Hottest'
+http://loop-hottest-1.roku.wurl.com/manifest/4300.m3u8
 #EXTINF:-1,Loop Party
 https://loop-party-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Loop Party'
+http://loop-party-1.roku.wurl.com/manifest/4300.m3u8
+
 
 #EXTINF:-1,MMA TV ES
 https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -24917,10 +24931,11 @@ http://portal.alliptv.tv:8080/get.php?username=530354021348&password=39753245729
 Real Url: portal.alliptv.tv:8080     Status: Active    Created: 6/2/2021 2:00:00 PM     Expires: Null    Active Connections: 50     Maximum Connections: 50     Formats: "m3u8","ts","rtmp"
 
 
-+ + + + + portal.maxtviptv.com:80 + + + + + DOWN
++ + + + + portal.maxtviptv.com:80 + + + + + AR Channels
 
-http://portal.maxtviptv.com:80/get.php?username=showflix9809d56Yq&password=oyubndUY978VSN37hgnsn4&type=m3u
-Real Url: portal.maxtviptv.com:80     Status: Active    Created: 10/10/2020 12:33:14 PM     Expires: Null    Active Connections: 36     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
+http://portal.maxtviptv.com:80/get.php?username=showflix-98jhG67Hh&password=JHK7nSDSgSJG875fns&type=m3u
+Real Url: portal.maxtviptv.com:80     Status: Active    Created: 10/10/2020 12:33:14 PM     Expires: Null    Active Connections: 18     Maximum Connections: 200     Formats: "m3u8","ts","rtmp"
+
 
 
 + + + + + portal.simiptv.co.uk:8080 + + + + +
