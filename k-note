@@ -21914,13 +21914,13 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
 
 + + + + + http://scontent.1xcdn.xyz + + + + +
 
-#EXTINF:-1 group-title="scontent/IN",SONY SIX
+#EXTINF:-1 group-title="misc/IN",SONY SIX
 http://scontent.1xcdn.xyz/j2/Six_HD_HLS.m3u8
 NA
 http://scontent.1xcdn.xyz/j2/Ten1_HD_HLS.m3u8
 #EXTINF:-1,SONY TEN 2
 http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
-#EXTINF:-1 group-title="scontent/IN",SONY TEN 3
+#EXTINF:-1 group-title="misc/IN",SONY TEN 3
 http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
 
 
