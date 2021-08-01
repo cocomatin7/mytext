@@ -213,7 +213,7 @@ http://streamwat.ch/custom/player/
 
 
 http://iptv.repl.co/streamlink?url=https://www.dropbox.com/s/dl/o4mn66m5w7xgc7c/hhbo-mm.m3u8 < NOT?
-http://streamwat.ch/custom/player/#https://www.dropbox.com/s/dl/o4mn66m5w7xgc7c/hhbo-mm.m3u8 K- - - working
+http://streamwat.ch/custom/player/# K- - - working
 https://ritesh.ch/miniproxy/miniproxy.php/ < NOT?
 http://xlx723.dyndns.org/iproxy/miniProxy.php/
 
@@ -902,14 +902,14 @@ https://www.dropbox.com/s/dl/dllbdpdkssknyjp/HBOSIGX.m3u8
 
 #EXTINF:-1 group-title="Sport/Bamar",Canal+ Sport
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_==gUGBCdy9GcTByc1xGUgwWYuF2Q
-#EXTINF:-1,Bein Sport 1 Fr
+#EXTINF:-1 group-title="Sport/Bamar",Bein Sport 1 Fr
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgEDI0J3bwNlbpVmQ
-#EXTINF:-1,Bein Sport 2 Fr
+#EXTINF:-1 group-title="Sport/Bamar",Bein Sport 2 Fr
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgIDI0J3bwNlbpVmQ
 #EXTINF:-1 group-title="Sport/Bamar",Bein Sport 3 Fr
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgMDI0J3bwNlbpVmQ
 
-#EXTINF:-1,TNT SPORTS
+#EXTINF:-1 group-title="Sport/Bamar",TNT SPORTS
 https://akamai2-br.cdn.booyah.live/hls/1000048/71112076.m3u8
 
  tvg-id="99466fe13dad61bf4fa932c8eae29755",BS 2 AR
@@ -931,25 +931,25 @@ http://5.101.174.206:9981/stream/channelid/811966825?ticket=4B2F3677ED6FC808E57F
 
 #EXTINF:-1 group-title="Sport/Bamar",StarSportsSelect1FHD |87
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist.m3u8
-#EXTINF:-1,StarSportsSelect1FHD |87
+#EXTINF:-1 group-title="Sport/Bamar",StarSportsSelect1FHD |87
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/chunklist.m3u8
 
-#EXTINF:-1,Free sports
+#EXTINF:-1 group-title="Sport/Bamar",Free sports
 http://89.187.189.58/1195/mono.m3u8
-#EXTINF:-1,Premier sports 2
+#EXTINF:-1 group-title="Sport/Bamar",Premier sports 2
 http://89.187.189.58/1194/mono.m3u8
-#EXTINF:-1,Laliga TV HD
+#EXTINF:-1 group-title="Sport/Bamar",Laliga TV HD
 http://89.187.189.58/1187/mono.m3u8
 
-#EXTINF:-1,Supersport1
+#EXTINF:-1 group-title="Sport/Bamar",Supersport1
 http://93.157.62.180/Supersport1/index.m3u8
-#EXTINF:-1,Supersport2 EPL
+#EXTINF:-1 group-title="Sport/Bamar",Supersport2 EPL
 http://93.157.62.180/Supersport2/index.m3u8
-#EXTINF:-1,Supersport3
+#EXTINF:-1 group-title="Sport/Bamar",Supersport3
 http://93.157.62.180/Supersport3/index.m3u8
-#EXTINF:-1,Supersport4
+#EXTINF:-1 group-title="Sport/Bamar",Supersport4
 http://93.157.62.180/Supersport4/index.m3u8
-#EXTINF:-1,Supersport5
+#EXTINF:-1 group-title="Sport/Bamar",Supersport5
 http://93.157.62.180/Supersport5/index.m3u8
 
 ASSP 1 |96
@@ -975,30 +975,31 @@ Mediacorp cna
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10007&key=84797b799ae18d1b
 
 
++ + + + + misc/beIN + + + + + + 
 
-#EXTINF:-1,beIN 1MAX
+#EXTINF:-1 group-title="misc/beIN",beIN 1MAX
 http://adnaraoun.xyz:80/live/05500021500/index.m3u8
 http://adnaraoun.xyz/live/05500021500/index.m3u8
 http://6.amroutras.xyz/live/05500021500/index.m3u8
 
-#EXTINF:-1,beIN 2MAX
+#EXTINF:-1 group-title="misc/beIN",beIN 2MAX
 http://adnaraoun.xyz:80/live/331210000/index.m3u8
 http://1.adnaraoun.xyz:80/live/331210000/index.m3u8
 http://2.adnaraoun.xyz:80/live/331210000/index.m3u8
 http://5.amroutras.xyz/live/331210000/index.m3u8
 
-#EXTINF:-1,beIN 1MAX
+#EXTINF:-1 group-title="misc/beIN",beIN 1MAX
 http://7.anbdaouras.xyz/live/9889900/index.m3u8
 http://8.anbdaouras.xyz/live/9889900/index.m3u8
 http://9.anbdaouras.xyz/live/9889900/index.m3u8
 
-#EXTINF:-1,beIN 1MAX
+#EXTINF:-1 group-title="misc/beIN",beIN 1MAX
 http://7.anbdaouras.xyz:80/live/6262622200/index.m3u8
 http://8.anbdaouras.xyz:80/live/6262622200/index.m3u8
 http://9.anbdaouras.xyz:80/live/6262622200/index.m3u8
 http://8.anbdaouras.xyz/live/6262622200/index.m3u8
 
-#EXTINF:-1,beIN 2MAX
+#EXTINF:-1 group-title="misc/beIN",beIN 2MAX
 http://adnaraoun.xyz:80/live/00002500/index.m3u8
 http://1.adnaraoun.xyz:80/live/00002500/index.m3u8
 http://2.adnaraoun.xyz:80/live/00002500/index.m3u8
@@ -1023,7 +1024,7 @@ http://5.amroutras.xyz/live/00002500/index.m3u8
 
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
-#EXTINF:-1,beIN 3
+#EXTINF:-1 group-title="misc/beIN",beIN 3
 http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
 http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
 http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
@@ -1116,25 +1117,25 @@ beIN 1 PURE
 http://directn.mrnova.online/live/60040_.m3u8?token=ndirect50k
 n.a. http://directn.mrnova.online/live/60050_.m3u8?token=ndirect50k
 
-#EXTINF:-1 group-title="nova",beIN 1PRE MD
+#EXTINF:-1 group-title="misc/beIN",beIN 1PRE MD
 http://directn.mrnova.online/live/60060_.m3u8?token=ndirect50k
-#EXTINF:-1 group-title="nova",beIN 2PRE MD
+#EXTINF:-1 group-title="misc/beIN",beIN 2PRE MD
 http://directn.mrnova.online/live/60061_.m3u8?token=ndirect50k
-#EXTINF:-1 group-title="nova",beIN 3PRE MD
+#EXTINF:-1 group-title="misc/beIN",beIN 3PRE MD
 http://directn.mrnova.online/live/60062_.m3u8?token=ndirect50k
-#EXTINF:-1 group-title="nova",beIN 1 MD
+#EXTINF:-1 group-title="misc/beIN",beIN 1 MD
 http://directn.mrnova.online/live/60063_.m3u8?token=ndirect50k
-#EXTINF:-1 group-title="nova",beIN 2 MD
+#EXTINF:-1 group-title="misc/beIN",beIN 2 MD
 http://directn.mrnova.online/live/60064_.m3u8?token=ndirect50k
-#EXTINF:-1 group-title="nova",beIN 3 MD
+#EXTINF:-1 group-title="misc/beIN",beIN 3 MD
 http://directn.mrnova.online/live/60065_.m3u8?token=ndirect50k
-#EXTINF:-1 group-title="nova",beIN 4 MD
+#EXTINF:-1 group-title="misc/beIN",beIN 4 MD
 http://directn.mrnova.online/live/60066_.m3u8?token=ndirect50k
-#EXTINF:-1 group-title="nova",beIN 5 MD
+#EXTINF:-1 group-title="misc/beIN",beIN 5 MD
 http://directn.mrnova.online/live/60067_.m3u8?token=ndirect50k
-#EXTINF:-1 group-title="nova",beIN 6 MD
+#EXTINF:-1 group-title="misc/beIN",beIN 6 MD
 http://directn.mrnova.online/live/60068_.m3u8?token=ndirect50k
-#EXTINF:-1 group-title="nova",beIN 7 MD
+#EXTINF:-1 group-title="misc/beIN",beIN 7 MD
 http://directn.mrnova.online/live/60069_.m3u8?token=ndirect50k
 
 beIN 1
@@ -1142,125 +1143,125 @@ http://directn.mrnova.online/live/60070_.m3u8?token=ndirect50k
 beIN 1
 http://directn.mrnova.online/live/60080_.m3u8?token=ndirect50k
 
-#EXTINF:-1 group-title="nova",beIN 1PRE HD
+#EXTINF:-1 group-title="misc/beIN",beIN 1PRE HD
 http://directn.mrnova.online/live/60090_.m3u8?token=ndirect50k
-#EXTINF:-1 group-title="nova",beIN 2PRE HD
+#EXTINF:-1 group-title="misc/beIN",beIN 2PRE HD
 http://directn.mrnova.online/live/60091_.m3u8?token=ndirect50k
-#EXTINF:-1 group-title="nova",beIN 3PRE HD
+#EXTINF:-1 group-title="misc/beIN",beIN 3PRE HD
 http://directn.mrnova.online/live/60092_.m3u8?token=ndirect50k
-#EXTINF:-1 group-title="nova",beIN 1 HD
+#EXTINF:-1 group-title="misc/beIN",beIN 1 HD
 http://directn.mrnova.online/live/60093_.m3u8?token=ndirect50k
-#EXTINF:-1 group-title="nova",beIN 2 HD
+#EXTINF:-1 group-title="misc/beIN",beIN 2 HD
 http://directn.mrnova.online/live/60094_.m3u8?token=ndirect50k
-#EXTINF:-1 group-title="nova",beIN 3 HD
+#EXTINF:-1 group-title="misc/beIN",beIN 3 HD
 http://directn.mrnova.online/live/60095_.m3u8?token=ndirect50k
-#EXTINF:-1 group-title="nova",beIN 4 HD
+#EXTINF:-1 group-title="misc/beIN",beIN 4 HD
 http://directn.mrnova.online/live/60096_.m3u8?token=ndirect50k
-#EXTINF:-1 group-title="nova",beIN 5 HD
+#EXTINF:-1 group-title="misc/beIN",beIN 5 HD
 http://directn.mrnova.online/live/60097_.m3u8?token=ndirect50k
-#EXTINF:-1 group-title="nova",beIN 6 HD
+#EXTINF:-1 group-title="misc/beIN",beIN 6 HD
 http://directn.mrnova.online/live/60098_.m3u8?token=ndirect50k
-#EXTINF:-1 group-title="nova",beIN 7 HD
+#EXTINF:-1 group-title="misc/beIN",beIN 7 HD
 http://directn.mrnova.online/live/60099_.m3u8?token=ndirect50k
 
-#EXTINF:-1,BeIn Sports 1 HD (1080p)
+#EXTINF:-1 group-title="misc/beIN",BeIn Sports 1 HD (1080p)
 http://directn.mrnova.online/live/60093_.m3u8?token=ndirect50k?ZaNa_iptv.m3u8
-#EXTINF:-1,BeIn Sports 1 Premium HD (720p)
+#EXTINF:-1 group-title="misc/beIN",BeIn Sports 1 Premium HD (720p)
 http://directn.mrnova.online/live/60060_.m3u8?token=ndirect50k?ZaNa_iptv.m3u8
-#EXTINF:-1,BeIn Sports 2 Premium HD (720p)
+#EXTINF:-1 group-title="misc/beIN",BeIn Sports 2 Premium HD (720p)
 http://directn.mrnova.online/live/60061_.m3u8?token=ndirect50k?ZaNa_iptv.m3u8
-#EXTINF:-1,BeIn Sports 3 Premium HD (720p)
+#EXTINF:-1 group-title="misc/beIN",BeIn Sports 3 Premium HD (720p)
 http://directn.mrnova.online/live/60062_.m3u8?token=ndirect50k?ZaNa_iptv.m3u8
-#EXTINF:-1,BeIn Sports 4 HD (720p)
+#EXTINF:-1 group-title="misc/beIN",BeIn Sports 4 HD (720p)
 http://directn.mrnova.online/live/60066_.m3u8?token=ndirect50k?ZaNa_iptv.m3u8
-#EXTINF:-1,BeIn Sports 2 Premium HD (1080p)
+#EXTINF:-1 group-title="misc/beIN",BeIn Sports 2 Premium HD (1080p)
 http://directn.mrnova.online/live/60091_.m3u8?token=ndirect50k?ZaNa_iptv.m3u8
-#EXTINF:-1,BeIn Sports 1 Premium HD (1080p)
+#EXTINF:-1 group-title="misc/beIN",BeIn Sports 1 Premium HD (1080p)
 http://directn.mrnova.online/live/60090_.m3u8?token=ndirect50k?ZaNa_iptv.m3u8
-#EXTINF:-1,BeIn Sports 2 HD (1080p)
+#EXTINF:-1 group-title="misc/beIN",BeIn Sports 2 HD (1080p)
 http://directn.mrnova.online/live/60094_.m3u8?token=ndirect50k?ZaNa_iptv.m3u8
-#EXTINF:-1,BeIn Sports 3 Premium HD (1080p)
+#EXTINF:-1 group-title="misc/beIN",BeIn Sports 3 Premium HD (1080p)
 http://directn.mrnova.online/live/60092_.m3u8?token=ndirect50k?ZaNa_iptv.m3u8
 
 
-#EXTINF:-1,BBC SPORTS
+#EXTINF:-1 group-title="misc/beIN",BBC SPORTS
 http://eu.mazystreams.xyz/live/1/playlist.m3u8
-#EXTINF:-1,FS 1
+#EXTINF:-1 group-title="misc/beIN",FS 1
 http://eu.mazystreams.xyz/live/2/playlist.m3u8
-#EXTINF:-1,FS 2
+#EXTINF:-1 group-title="misc/beIN",FS 2
 http://eu.mazystreams.xyz/live/3/playlist.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="misc/beIN",ESPN
 http://eu.mazystreams.xyz/live/4/playlist.m3u8
 
-#EXTINF:-1,beIN 6SD
+#EXTINF:-1 group-title="misc/beIN",beIN 6SD
 http://ferrarico.referrari.com/live/60090_.m3u8
-#EXTINF:-1,beIN 1PRE
+#EXTINF:-1 group-title="misc/beIN",beIN 1PRE
 http://ferrarico.referrari.com/live/60091_.m3u8
-#EXTINF:-1,beIN 2PRE
+#EXTINF:-1 group-title="misc/beIN",beIN 2PRE
 http://ferrarico.referrari.com/live/60092_.m3u8
-#EXTINF:-1,beIN 3PRE
+#EXTINF:-1 group-title="misc/beIN",beIN 3PRE
 http://ferrarico.referrari.com/live/60093_.m3u8
-#EXTINF:-1,beIN 1PRE
+#EXTINF:-1 group-title="misc/beIN",beIN 1PRE
 http://ferrarico.referrari.com/live/60096_.m3u8
-#EXTINF:-1,beIN 2
+#EXTINF:-1 group-title="misc/beIN",beIN 2
 http://ferrarico.referrari.com/live/60097_.m3u8
-#EXTINF:-1,beIN 3| ferrarico
+#EXTINF:-1 group-title="misc/beIN",beIN 3| ferrarico
 http://ferrarico.referrari.com/live/60098_.m3u8
-#EXTINF:-1,beIN 4
+#EXTINF:-1 group-title="misc/beIN",beIN 4
 http://ferrarico.referrari.com/live/60099_.m3u8
-#EXTINF:-1,beIN 5
+#EXTINF:-1 group-title="misc/beIN",beIN 5
 http://ferrarico.referrari.com/live/60100_.m3u8
-#EXTINF:-1,beIN 6
+#EXTINF:-1 group-title="misc/beIN",beIN 6
 http://ferrarico.referrari.com/live/60101_.m3u8
-#EXTINF:-1,beIN 7
+#EXTINF:-1 group-title="misc/beIN",beIN 7
 http://ferrarico.referrari.com/live/60102_.m3u8
 
-#EXTINF:-1,beIN beIN SPORT1
+#EXTINF:-1 group-title="misc/beIN",beIN beIN SPORT1
 http://ferrarico.referrari.com/live/60108_.m3u8
-#EXTINF:-1,beIN 5MAX
+#EXTINF:-1 group-title="misc/beIN",beIN 5MAX
 http://ferrarico.referrari.com/live/60109_.m3u8
-#EXTINF:-1,beIN 6MAX
+#EXTINF:-1 group-title="misc/beIN",beIN 6MAX
 http://ferrarico.referrari.com/live/60110_.m3u8
-#EXTINF:-1,beIN 6
+#EXTINF:-1 group-title="misc/beIN",beIN 6
 http://ferrarico.referrari.com/live/60113_.m3u8
-#EXTINF:-1,beIN 3
+#EXTINF:-1 group-title="misc/beIN",beIN 3
 http://ferrarico.referrari.com/live/60122_.m3u8
-#EXTINF:-1,beIN 1PRE
+#EXTINF:-1 group-title="misc/beIN",beIN 1PRE
 http://ferrarico.referrari.com/live/60127_.m3u8
-#EXTINF:-1,beIN 3PRE
+#EXTINF:-1 group-title="misc/beIN",beIN 3PRE
 http://ferrarico.referrari.com/live/60129_.m3u8
-#EXTINF:-1,beIN 2
+#EXTINF:-1 group-title="misc/beIN",beIN 2
 http://ferrarico.referrari.com/live/60133_.m3u8
-#EXTINF:-1,beIN 2 MAX
+#EXTINF:-1 group-title="misc/beIN",beIN 2 MAX
 http://ferrarico.referrari.com/live/60137_.m3u8
 Olympic Channels
 http://ferrarico.referrari.com/live/60138_.m3u8
-#EXTINF:-1,beIN 1PRE SD
+#EXTINF:-1 group-title="misc/beIN",beIN 1PRE SD
 http://ferrarico.referrari.com/live/60139_.m3u8
-#EXTINF:-1,beIN 2PRE SD
+#EXTINF:-1 group-title="misc/beIN",beIN 2PRE SD
 http://ferrarico.referrari.com/live/60140_.m3u8
-#EXTINF:-1,beIN 3PRE SD
+#EXTINF:-1 group-title="misc/beIN",beIN 3PRE SD
 http://ferrarico.referrari.com/live/60141_.m3u8
-#EXTINF:-1,beIN 1
+#EXTINF:-1 group-title="misc/beIN",beIN 1
 http://ferrarico.referrari.com/live/60142_.m3u8
-#EXTINF:-1,beIN 2
+#EXTINF:-1 group-title="misc/beIN",beIN 2
 http://ferrarico.referrari.com/live/60143_.m3u8
-#EXTINF:-1,beIN 3
+#EXTINF:-1 group-title="misc/beIN",beIN 3
 http://ferrarico.referrari.com/live/60144_.m3u8
-#EXTINF:-1,beIN 4
+#EXTINF:-1 group-title="misc/beIN",beIN 4
 http://ferrarico.referrari.com/live/60145_.m3u8
-#EXTINF:-1,beIN 5
+#EXTINF:-1 group-title="misc/beIN",beIN 5
 http://ferrarico.referrari.com/live/60146_.m3u8
 
-#EXTINF:-1,beIN 1PRE
+#EXTINF:-1 group-title="misc/beIN",beIN 1PRE
 http://ferrarico.referrari.com/live/60173_.m3u8
-#EXTINF:-1,beIN 2PRE
+#EXTINF:-1 group-title="misc/beIN",beIN 2PRE
 http://ferrarico.referrari.com/live/60174_.m3u8
-#EXTINF:-1,beIN 2PRE
+#EXTINF:-1 group-title="misc/beIN",beIN 2PRE
 http://ferrarico.referrari.com/live/60176_.m3u8
-#EXTINF:-1,beIN 5 MAX
+#EXTINF:-1 group-title="misc/beIN",beIN 5 MAX
 http://ferrarico.referrari.com/live/60177_.m3u8
-#EXTINF:-1,beIN SPORT 1
+#EXTINF:-1 group-title="misc/beIN",beIN SPORT 1
 http://ferrarico.referrari.com/live/60179_.m3u
 = = = = not work = = = = = 
 CH 5 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
@@ -1319,9 +1320,9 @@ http://re.strah.video:1234/play/ohahhd/index.m3u8
 Шалун (18+)
 http://re.strah.video:1234/play/shalun/index.m3u8
 
-#EXTINF:-1,RTSH Sport
+#EXTINF:-1 group-title="misc/beIN",RTSH Sport
 https://tvlive.rtsh.dev/live/sport_ott_ppp2/playlist.m3u8
-#EXTINF:-1,tico sports
+#EXTINF:-1 group-title="misc/beIN",tico sports
 https://d1t6zcudgmh6wd.cloudfront.net/out/v1/88e67fc9be954233a769f97bada38a56/index.m3u8
 
 
@@ -1341,15 +1342,14 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
-#EXTINF:-1,CHAMPION TV 2
+#EXTINF:-1 group-title="misc/beIN",CHAMPION TV 2
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
-#EXTINF:-1,CHAMPION TV 3
+#EXTINF:-1 group-title="misc/beIN",CHAMPION TV 3
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
-#EXTINF:-1,tvN
+#EXTINF:-1 group-title="misc/beIN",tvN
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6362_720p/index.m3u8
-#EXTINF:-1,Zing
+#EXTINF:-1 group-title="misc/beIN",Zing
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6747_720p/index.m3u8
-
 
 
 + + + + + 185.183.34.118/iptv + + + + + EDEM OTT + + + 
