@@ -44,10 +44,7 @@ http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 
 http://103.205.133.21/hls/andpicture.m3u8
 
-http://84.17.41.7/MNXHD/HIN/tracks-v1a1/mono.m3u8
-http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
-http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
-http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
+
 
 http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
 http://31.220.41.88:8081/live/it-skysport-football.stream/playlist.m3u8
@@ -21791,14 +21788,22 @@ http://84.17.41.7:80/9XM-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="84.17",JS Movies
 http://84.17.41.7:80/JS_MoviesOK_Hin/mono.m3u8
 http://84.17.41.7:80/JS_MoviesOK_Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="84.17",MNX HD
+http://84.17.41.7:80/MNXHD/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="84.17",Rishtey Cineplex
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="84.17",StarGold HD
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="84.17",Star Movies HD
+http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="84.17",UTVACTION
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="84.17",UTVMOVIES
 http://84.17.41.7:80/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
+
+
+
+
 
 -/-/-/-/-/- 185.246.209.207 -/-/-/-/-/- NOT WORK > NOT WORK WITH MINI PROXY
 
