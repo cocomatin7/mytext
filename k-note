@@ -3,18 +3,18 @@ x-tvg-url="https://rebrand.ly/k-epg"
 x-tvg-url="https://guidexl.tv4.live/"
 
 
-http://14.199.164.20:4001/playlist.m3u8
-http://45.70.237.121:8000/playlist.m3u8
-http://45.92.69.244:8000/playlist.m3u8
-http://45.182.20.194:8000/play/32KrDbK8nSLJr5EN/index.m3u8 / http://45.182.20.194:8000/playlist.m3u8
-http://58.65.171.202:8000/play/15909/index.m3u8
-http://79.136.31.148:8000/playlist.m3u8
-http://81.15.110.54:8180/playlist.m3u8
-http://109.200.158.222:8000/playlist.m3u8
-http://138.0.229.88:8000/playlist.m3u8
-http://185.236.230.197:8000/playlist.m3u8
-http://194.76.186.32:8030/playlist.m3u8
-http://200.107.234.74:8000/playlist.m3u8
+http://14.199.164.20:4001/playlist.m3u8 < IN
+http://45.70.237.121:8000/playlist.m3u8 < Ecuador
+http://45.92.69.244:8000/playlist.m3u8 < IT
+http://45.182.20.194:8000/play/32KrDbK8nSLJr5EN/index.m3u8 / http://45.182.20.194:8000/playlist.m3u8 < IN
+http://58.65.171.202:8000/playlist.m3u8 < few CH
+http://79.136.31.148:8000/playlist.m3u8 < few Viasat
+http://81.15.110.54:8180/playlist.m3u8 < few XXX
+http://109.200.158.222:8000/playlist.m3u8 < web cam
+http://138.0.229.88:8000/playlist.m3u8 < few Spt
+http://185.236.230.197:8000/playlist.m3u8 < FTA
+http://194.76.186.32:8030/playlist.m3u8 < few Viasat
+http://200.107.234.74:8000/playlist.m3u8 < few US CH << 
 
 http://smart.hotfeb.xyz/get.php?username=h21041003&password=651032140&type=m3u
 Real Url: nicefly.xyz:80     Status: Active    Created: 10/4/2021 9:06:47 AM     Expires: 10/4/2022 9:06:47 AM    Active Connections: 1     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
@@ -10224,6 +10224,45 @@ http://39.62.59.102:8000/play/a054/index.m3u8
 http://39.62.59.102:8000/play/a0ma/index.m3u8
 #EXTINF:-1 group-title="39.62",Zhwandoon TV
 http://39.62.59.102:8000/play/a0lu/index.m3u8
+
++ + + + + http://45.182.20.194:8000/playlist.m3u8 + + + + + 
+
+#EXTINF:-1 group-title="45.182",5800 - SONY HD
+http://45.182.20.194:8000/play/wQWF578wnjn2Lnrz/index.m3u8
+#EXTINF:-1,5802 - HISTORY CHANNEL HD
+http://45.182.20.194:8000/play/hgRR6HGdf23As/index.m3u8
+#EXTINF:-1,5803 - INVESTIGATION DISCOVERY HD
+http://45.182.20.194:8000/play/8EVmhNhJHQUwrNKA/index.m3u8
+#EXTINF:-1,5807 - FOX SPORTS HD
+http://45.182.20.194:8000/play/zMbqBSS3gramuTPy/index.m3u8
+#EXTINF:-1,5864 - FOX SPORTS 2
+http://45.182.20.194:8000/play/eGhTK4fJJR5p5M3N/index.m3u8
+#EXTINF:-1,5865 - FOX SPORTS 3
+http://45.182.20.194:8000/play/G5zcc3HYpdc5AjMs/index.m3u8
+#EXTINF:-1,58100 - STARZ
+http://45.182.20.194:8000/play/tyuptHZqYdP3wcU7/index.m3u8
+#EXTINF:-1,58101 - Starz Comedy
+http://45.182.20.194:8000/play/d9wMw4hRpVVkXFmF/index.m3u8
+#EXTINF:-1,58102 - Starz Edge West
+http://45.182.20.194:8000/play/p1k0MqIlTnIdxS2d/index.m3u8
+#EXTINF:-1,58127 - WARNER CHANNEL HD (WB)
+http://45.182.20.194:8000/play/fz8MMVu2gP7JEEnF/index.m3u8
+#EXTINF:-1,5832 - CNN INTERNACIONAL
+http://45.182.20.194:8000/play/kbRr3ah49h2fTXNn/index.m3u8
+#EXTINF:-1,5833 - CNN USA
+http://45.182.20.194:8000/play/ZV59GS9TWebAFp8t/index.m3u8
+#EXTINF:-1,5854 - FOX ACTION HD
+http://45.182.20.194:8000/play/2QB37RxhyfbMBFWX/index.m3u8
+#EXTINF:-1,5855 - FOX CINEMA
+http://45.182.20.194:8000/play/HvwR5y6WWRzZc9Kv/index.m3u8
+#EXTINF:-1,5858 - FOX FAMILY HD
+http://45.182.20.194:8000/play/nLmfZ6YJY7uAhAYT/index.m3u8
+#EXTINF:-1,5861 - FOX MOVIES HD
+http://45.182.20.194:8000/play/fG79VXb6dpyJPLX8/index.m3u8
+#EXTINF:-1,5889 - NBC HD
+http://45.182.20.194:8000/play/ZAtkbM9v9JDDCwCh/index.m3u8
+#EXTINF:-1 group-title="45.182",5890 - NBCSN HD
+http://45.182.20.194:8000/play/95KZ3fsmfRhA387z/index.m3u8
 
 
 + + + + + http://50.7.75.182:9981/playlist/channels + + + + + NOT WORK
