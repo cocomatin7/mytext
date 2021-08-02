@@ -2,6 +2,20 @@
 x-tvg-url="https://rebrand.ly/k-epg"
 x-tvg-url="https://guidexl.tv4.live/"
 
+
+http://14.199.164.20:4001/playlist.m3u8
+http://45.70.237.121:8000/playlist.m3u8
+http://45.92.69.244:8000/playlist.m3u8
+http://45.182.20.194:8000/play/32KrDbK8nSLJr5EN/index.m3u8 / http://45.182.20.194:8000/playlist.m3u8
+http://58.65.171.202:8000/play/15909/index.m3u8
+http://79.136.31.148:8000/playlist.m3u8
+http://81.15.110.54:8180/playlist.m3u8
+http://109.200.158.222:8000/playlist.m3u8
+http://138.0.229.88:8000/playlist.m3u8
+http://185.236.230.197:8000/playlist.m3u8
+http://194.76.186.32:8030/playlist.m3u8
+http://200.107.234.74:8000/playlist.m3u8
+
 http://smart.hotfeb.xyz/get.php?username=h21041003&password=651032140&type=m3u
 Real Url: nicefly.xyz:80     Status: Active    Created: 10/4/2021 9:06:47 AM     Expires: 10/4/2022 9:06:47 AM    Active Connections: 1     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
 
@@ -3271,6 +3285,9 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1,Yahoo! Finance (1080p)
 http://yahoo-samsung.amagi.tv/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1,Europa Plus TV |RU
