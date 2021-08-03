@@ -21673,12 +21673,23 @@ http://212.224.98.212:2200/BR/Fox_Sports_2_HD-br/index.m3u8?token=
 
 http://5.255.94.248:8080/IN:STAR-SPORTS-HINDI/tracks-v1a1/mono.m3u8?token=JuylOjZl90 < ac deactivated
 
-#EXTINF:-1 group-title="misc/IN",&privatehd
+#EXTINF:-1 group-title="misc/IN",ANDPICTURES
+http://89.187.182.181:9090/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="misc/IN",ANDTV
+http://89.187.182.181:9090/SM_FHD-HINDI-ANDTV/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="misc/IN",and-picture-hd
+https://cdn.cinemabaaz.live/j-and-picture-hd/tracks-v1a1/mono.m3u8
+https://cdn.cinemabaaz.live/&privatehd/mono.m3u8
+#EXTINF:-1 group-title="misc/IN",SonyMaxHD
+https://cdn.cinemabaaz.live/SonyMaxHD/mono.m3u8
+
+ group-title="misc/IN",&privatehd
 http://cdn.ihub.live:8080/&privatehd/index.m3u8
 http://cdn.ihub.live:8080/TLCHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="misc/IN",Sony-MAX-HD
+ group-title="misc/IN",Sony-MAX-HD
 http://cdn.ihub.live:8080/j-Sony-MAX-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="misc/IN",star-gold-hd
+ group-title="misc/IN",star-gold-hd
 http://cdn.ihub.live:8080/j-star-gold-hd/tracks-v1a1/mono.m3u8
 
 
@@ -22495,7 +22506,9 @@ http://tigeriptv.vip:8080/get.php?username=500&password=500&type=m3u Real Url: s
 http://tigeriptv.vip:8080/get.php?username=600&password=600&type=m3u Real Url: sonyiptv.net:8080     Status: Active    Created: 4/6/2021 1:35:48 PM     Expires: 5/9/2021 1:35:00 PM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 http://tigeriptv.vip:8080/get.php?username=6162&password=6162&type=m3u Real Url: sonyiptv.net:8080     Status: Active    Created: 19/5/2021 7:58:16 AM     Expires: 19/8/2021 7:58:16 AM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 http://tigeriptv.vip:8080/get.php?username=6395&password=6395&type=m3u Real Url: sonyiptv.net:8080     Status: Active    Created: 8/4/2021 4:21:47 PM     Expires: 9/10/2021 4:21:47 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
-http://titanmedia.one:2082/get.php?username=UDASHBOARD&password=NAoSDAdVcP&type=m3u Real Url: titanmedia.one:2082     Status: Active    Created: 1/10/2020 7:25:01 PM     Expires: Null    Active Connections: 11     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
+
+
+
 http://top.funtogether.xyz:8080/get.php?username=tomasiptv2021&password=hgHgyhg12hsgZX&type=m3u Real Url: top.funtogether.xyz:8080     Status: Active    Created: 6/5/2020 9:39:37 AM     Expires: Null    Active Connections: 646     Maximum Connections: 1000     Formats: "ts"
 
 http://tv.jovialservices.me:826/get.php?username=Holden&password=K6ZIs9C9en&type=m3u Real Url: primestreams.tv:826     Status: Active    Created: 22/8/2019 3:44:04 PM     Expires: 22/2/2022 4:44:04 PM    Active Connections: 0     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
@@ -23092,6 +23105,50 @@ Real Url: test.satlok.club:80     Status: Active    Created: 18/1/2019 12:30:51 
 
 http://test.satlok.club:80/get.php?username=testskype1&password=6q60C0QwC4&type=m3u
 Real Url: bosstr.net:80     Status: Active    Created: 7/3/2020 2:04:43 AM     Expires: Null    Active Connections: 284     Maximum Connections: 500     Formats: "m3u8","ts"
+http://bosstr.net:80/get.php?username=testskype1&password=6q60C0QwC4&type=m3u
+Real Url: bosstr.net:80     Status: Active    Created: 7/3/2020 2:04:43 AM     Expires: Null    Active Connections: 425     Maximum Connections: 500     Formats: "m3u8","ts"
+
+#EXTINF:-1 group-title="bosstr",|DSTV AFRICA|  SUPERSPORT CRICKET
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/55829.m3u8
+#EXTINF:-1,|DSTV AFRICA| SUPERSPORT VARIETY 1
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/55830.m3u8
+#EXTINF:-1,|DSTV AFRICA| SUPERSPORT VARIETY 2
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/55834.m3u8
+#EXTINF:-1,|DSTV AFRICA| SUPERSPORT VARIETY 3
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/55835.m3u8
+#EXTINF:-1,|DSTV AFRICA| SUPERSPORT VARIETY 4
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/55836.m3u8
+#EXTINF:-1,|DSTV AFRICA| SUPERSPORT GOLF
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/55837.m3u8
+#EXTINF:-1,|DSTV AFRICA| SUPERSPORT TENNIS
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/55838.m3u8
+#EXTINF:-1,|DSTV AFRICA| SUPERSPORT GRANDSTAND
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/55841.m3u8
+#EXTINF:-1,|DSTV AFRICA| SUPERSPORT FOOTBALL
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/55840.m3u8
+
+#EXTINF:-1,HINDI | SONY MIX
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/5089.m3u8
+#EXTINF:-1,HINDI | SONY MAX
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/33965.m3u8
+#EXTINF:-1,HINDI | SONY PIX 4K
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/33956.m3u8
+#EXTINF:-1,HINDI | SONY SAB
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/33967.m3u8
+#EXTINF:-1,HINDI | SONY YAY
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/33968.m3u8
+#EXTINF:-1,HINDI | ZEE CINEMA HD
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/5048.m3u8
+#EXTINF:-1,HINDI | STAR SPORTS SELECT 1 HD
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/27083.m3u8
+#EXTINF:-1,HINDI | STAR SPORTS SELECT 2 HD
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/27084.m3u8
+#EXTINF:-1,HINDI | TEN 2 HD
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/16284.m3u8
+#EXTINF:-1,HINDI | TEN 3 HD
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/16285.m3u8
+#EXTINF:-1 group-title="bosstr",HINDI | TEN 1ᴴᴰ
+http://bosstr.net:80/live/testskype1/6q60C0QwC4/16283.m3u8
 
 
 + + + + + box.slweb.tv:8880 + + + + + Max Con: 400
@@ -26268,6 +26325,178 @@ http://clowniptv.com:2082/streaming/clients_live.php?extension=ts&username=UBfvY
 
 http://streamwat.ch/custom/player/#http://clowniptv.com:2082/live/UBfvYxNmhq/h8yrWCbDSO/136.m3u8
 
+http://titanmedia.one:2082/get.php?username=Rafa&password=ZY6MJn0jAp&type=m3u
+Real Url: titanmedia.one:2082     Status: Active    Created: 9/1/2021 10:28:27 AM     Expires: Null    Active Connections: 6     Maximum Connections: 300     Formats: "m3u8","ts","rtmp"
+
+http://titanmedia.one:2082/get.php?username=UDASHBOARD&password=NAoSDAdVcP&type=m3u Real Url: titanmedia.one:2082     Status: Active    Created: 1/10/2020 7:25:01 PM     Expires: Null    Active Connections: 11     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="titan",UK: Sky Cinema Action & Adventure
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/136.m3u8
+#EXTINF:-1,UK: Sky Cinema Comedy
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/139.m3u8
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/142.m3u8
+#EXTINF:-1,UK: Sky Cinema Disney
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/145.m3u8
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/148.m3u8
+#EXTINF:-1,UK: Sky Cinema Family
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/151.m3u8
+#EXTINF:-1,UK: Sky Cinema Greats
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/154.m3u8
+#EXTINF:-1,UK: Sky Cinema Hits
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/157.m3u8
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/160.m3u8
+#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/163.m3u8
+#EXTINF:-1,UK: Sky Cinema Select
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/166.m3u8
+
+#EXTINF:-1,UK: 4Music
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/455.m3u8
+#EXTINF:-1,UK: Kiss TV
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/457.m3u8
+#EXTINF:-1,UK: Magic TV
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/459.m3u8
+#EXTINF:-1,UK: MTV Base
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/461.m3u8
+#EXTINF:-1,UK: MTV Classic
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/463.m3u8
+#EXTINF:-1,UK: MTV Hits
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/465.m3u8
+#EXTINF:-1,UK: MTV Rocks
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/467.m3u8
+#EXTINF:-1,UK: MTV Music
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/469.m3u8
+
+#EXTINF:-1,UK: B4U Movies
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/544.m3u8
+#EXTINF:-1,UK: Rishtey Cineplex
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/574.m3u8
+#EXTINF:-1,UK: Rishtey Europe
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/576.m3u8
+#EXTINF:-1,UK: Sony Max
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/582.m3u8
+#EXTINF:-1,UK: Sony Max 2
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/584.m3u8
+#EXTINF:-1,UK: Sony TV Asia
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/588.m3u8
+#EXTINF:-1,UK: Zee Cinema
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/604.m3u8
+#EXTINF:-1,USA | beIN Sports 01
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/39207.m3u8
+#EXTINF:-1,USA | beIN Sports 02
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/39208.m3u8
+#EXTINF:-1,USA | beIN Sports 04
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/39210.m3u8
+#EXTINF:-1,USA | beIN Sports 05
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/39211.m3u8
+#EXTINF:-1,USA | beIN Sports 06
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/39212.m3u8
+#EXTINF:-1,USA | beIN Sports 07
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/39213.m3u8
+#EXTINF:-1,USA | beIN Sports 08
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/39214.m3u8
+#EXTINF:-1,USA | beIN Sports 11
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/39216.m3u8
+#EXTINF:-1,USA | beIN Sports 12
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/39217.m3u8
+#EXTINF:-1,USA | beIN Sports N
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/39219.m3u8
+#EXTINF:-1,USA | MTV 2
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/39403.m3u8
+#EXTINF:-1,USA | MTV Classic
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/39404.m3u8
+#EXTINF:-1,USA | MTV
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/39405.m3u8
+#EXTINF:-1,USA | MTV Live
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/39406.m3u8
+#EXTINF:-1,USA | NBCSN
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/39416.m3u8
+#EXTINF:-1,CA | CNN International
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/39592.m3u8
+#EXTINF:-1,CA | CNN
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/39593.m3u8
+
+#EXTINF:-1,IN: & Picture HD
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/40087.m3u8
+#EXTINF:-1,IN: & FLIX
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/40088.m3u8
+#EXTINF:-1,IN: & PRIVE
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/40089.m3u8
+#EXTINF:-1,IN: B4U Movies
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/40095.m3u8
+#EXTINF:-1,IN: B4U Plus
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/40096.m3u8
+#EXTINF:-1,IN: Movies Now
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/40138.m3u8
+#EXTINF:-1,IN: Romedy Now
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/40147.m3u8
+#EXTINF:-1,IN: SONY MAX HD
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/40152.m3u8
+#EXTINF:-1,IN: SONY SIX
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/40155.m3u8
+#EXTINF:-1,IN: Star Sports 1 Select HD
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/40161.m3u8
+#EXTINF:-1,IN: Star Sports 2 Select HD
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/40162.m3u8
+#EXTINF:-1,IN: TEN 1 HD
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/40171.m3u8
+#EXTINF:-1,IN: TEN 3 HD
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/40172.m3u8
+
+#EXTINF:-1,AF: Super Sport 1 HD
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/42561.m3u8
+#EXTINF:-1,AF: Super Sport 11 HD
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/42563.m3u8
+#EXTINF:-1,AF: Super Sport 12 HD
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/42564.m3u8
+#EXTINF:-1,AF: Super Sport 2 HD
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/42565.m3u8
+#EXTINF:-1,AF: Super Sport 3 HD
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/42566.m3u8
+#EXTINF:-1,AF: Super Sport 4 HD
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/42567.m3u8
+#EXTINF:-1,AF: Super Sport 5 HD
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/42568.m3u8
+#EXTINF:-1,AF: Super Sport 9 HD
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/42572.m3u8
+
+#EXTINF:-1,ZA | DSTV SuperSport Motorsport
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/683119.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Golf
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/683120.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Grandstand
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/683121.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport La Liga
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/683122.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Football
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/683123.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Variety 1
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/683124.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Variety 2
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/683125.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Variety 3
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/683126.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Variety 4
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/683127.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Action
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/683128.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Rugby
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/683129.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Cricket
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/683130.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Blitz
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/683133.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Play
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/683134.m3u8
+#EXTINF:-1,ZA | DSTV SuperSport Máximo 1
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/683136.m3u8
+#EXTINF:-1,ZA | DSTV MTV
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/683138.m3u8
+#EXTINF:-1 group-title="titan",ZA | DSTV MTV Base
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/683139.m3u8
 
 
 + + + + + topchantv.net:3456 + + + + +
