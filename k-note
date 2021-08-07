@@ -13457,6 +13457,7 @@ http://198.16.106.58:8278/supersports2/playlist.m3u8
 http://198.16.106.58:8278/supersports3/playlist.m3u8
 http://198.16.106.58:8278/supersports4/playlist.m3u8
 
+http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
 
 http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 
@@ -21705,6 +21706,34 @@ http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="misc/IN",STAR MOVIES SELECT FHD
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 group-title="misc/IN",9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 group-title="misc/IN",ZEE Bangla
+http://d2k667g61yse6h.cloudfront.net/101.m3u8
+#EXTINF:-1 group-title="misc/IN",Zee Cinema
+https://d1duaw1rs4anpp.cloudfront.net/102.m3u8
+#EXTINF:-1 group-title="misc/IN",Sun Bangla
+https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
+#EXTINF:-1 group-title="misc/IN",DD Bangla
+https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
+#EXTINF:-1 group-title="misc/IN",Sangeet Bangla
+https://dhauizqk3uwxi.cloudfront.net/SANGEET_BANGLA.m3u8
+#EXTINF:-1 group-title="misc/IN",Dhoom Music
+https://d3pf2g6avq2sfr.cloudfront.net/DHOOM_MUSIC.m3u8
+#EXTINF:-1 group-title="misc/IN",B4U Music
+https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
+#EXTINF:-1 group-title="misc/IN",BBC World News
+https://d2cuyje6aq0ny8.cloudfront.net/BBC_WORLD.m3u8
+#EXTINF:-1 group-title="misc/IN",MTV
+https://d3t60pmzggqymi.cloudfront.net/MTV.m3u8
+#EXTINF:-1 group-title="misc/IN",Sony Wah
+https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+#EXTINF:-1 group-title="misc/IN",Sony Yay
+https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+#EXTINF:-1 group-title="misc/IN",ZOOM
+https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
+#EXTINF:-1 group-title="misc/IN",Travel XP (Hinde)
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 
 
 #EXTINF:-1 group-title="misc/IN",Animal Planet HD Hindi | ecm
@@ -25013,6 +25042,8 @@ Real Url: myskype.eu:8880     Status: Active    Created: 1/11/2019 12:31:24 PM  
 http://mytv.fun:808/get.php?username=828ek2bb7g&password=padet80m3v&type=m3u < DOWN?
 
 + + + + + neczbm.to:80 + + + + + BANNED + + + + +
+
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwtiULHGmEFJwT308Cm0ibhmySmSRW9kBYZYqNoiRhsrF/ts
 
  group-title="necz",UK: BBC One FHD
 http://neczbm.to:80/play/qFcc9C8u0out7we936bVD5b8S95zJjWRDspTVTpyf52SET9PYUM3RAFroU9Hw1_C/m3u8
