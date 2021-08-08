@@ -10,8 +10,6 @@
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="mon",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="mon",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/15.m3u8"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="man",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="man",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/16.m3u8"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="vie",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="vie",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/17.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="eng",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="eng",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/18.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="bur",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="bur",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/20.m3u8"
 
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=480x270,AUDIO="audiod",SUBTITLES="subs"
 https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/1.m3u8
