@@ -69,8 +69,7 @@ http://199.127.62.234:8880/streams/329_.m3u8?PEDROJUNIORTUTORIAIS
 http://199.127.62.234:8880/streams/368_.m3u8?PEDROJUNIORTUTORIAIS
 http://199.127.62.234:8880/streams/424_.m3u8?PEDROJUNIORTUTORIAIS
 
-https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
 
 
 
@@ -327,6 +326,15 @@ http://mcsh.xyz:8080/live/mcshTV/zCNiETzMzd/54375.m3u8
 http://mcsh.xyz:8080/streaming/clients_live.php?extension=m3u8&username=mcshTV&password=zCNiETzMzd&stream=54375&type=hls
 
 + + + + + movies + + + + + 
+
+https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
+https://www.dropbox.com/s/dl/fjiausj8ex12737/index%20%28HB%29.m3u8
+https://www.dropbox.com/s/fjiausj8ex12737/index%20%28HB%29.m3u8?dl=0
+
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+https://www.dropbox.com/s/dl/u9vq7zw11238ulq/index%20%28max%29.m3u8
+
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX |org
 https://rebrand.ly/h-cin
