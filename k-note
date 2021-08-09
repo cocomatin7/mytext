@@ -22794,13 +22794,13 @@ http://cdn.ihub.live:8080/j-star-gold-hd/tracks-v1a1/mono.m3u8
 
 + + + + + http://scontent.1xcdn.xyz + + + + +
 
-#EXTINF:-1 group-title="misc/IN",SONY SIX
+ group-title="misc/IN",SONY SIX
 http://scontent.1xcdn.xyz/j2/Six_HD_HLS.m3u8
 NA
 http://scontent.1xcdn.xyz/j2/Ten1_HD_HLS.m3u8
-#EXTINF:-1,SONY TEN 2
+,SONY TEN 2
 http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
-#EXTINF:-1 group-title="misc/IN",SONY TEN 3
+ group-title="misc/IN",SONY TEN 3
 http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
 
 
@@ -22809,15 +22809,15 @@ http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
 http://89.41.180.253:8080/INDIA_HINDI/SONY_PAL/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="toffee",SONY ENT |tf
+ group-title="toffee",SONY ENT |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_entertainment/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY SAB |tf
+,SONY SAB |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_sab/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY MAX |tf
+,SONY MAX |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY MAX2 |tf
+,SONY MAX2 |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_max_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY PIX |tf
+,SONY PIX |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_pix/1/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/sony_pix/3/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/sony_pix/4/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -22830,9 +22830,9 @@ https://streamer-1.toffeelive.com/mobile_hls/sony_pix/9/04dfcf51f5f17bc7739a41f2
 
 https://streamer-1.toffeelive.com/mobile_hls/sony_yay/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
-#EXTINF:-1,SONY SIX HD |tf
+,SONY SIX HD |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_six_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY SIX |tf
+,SONY SIX |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_six/1/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/sony_six/2/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/sony_six/3/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -22843,9 +22843,9 @@ https://streamer-1.toffeelive.com/mobile_hls/sony_six/7/04dfcf51f5f17bc7739a41f2
 https://streamer-1.toffeelive.com/mobile_hls/sony_six/8/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/sony_six/9/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
-#EXTINF:-1,SONY TEN 1HD |tf
+,SONY TEN 1HD |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_ten1_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY TEN1 |tf
+,SONY TEN1 |tf
 https://streamer-1.toffeelive.com/mobile_hls/ten_1/4/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/ten_1/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/ten_1/8/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -22857,9 +22857,9 @@ OFFLINE https://streamer-1.toffeelive.com/mobile_hls/ten_1/7/04dfcf51f5f17bc7739
 OFFLINE https://streamer-1.toffeelive.com/mobile_hls/ten_1/9/04dfcf51f5f17bc7739a41f294e2adbb/auto
 OFFLINE https://streamer-1.toffeelive.com/mobile_hls/ten_1/10/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
-#EXTINF:-1,SONY TEN 2HD |tf
+,SONY TEN 2HD |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_ten2_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY TEN2 |tf
+,SONY TEN2 |tf
 https://streamer-1.toffeelive.com/mobile_hls/ten_2/1/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/ten_2/4/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/ten_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -22870,9 +22870,9 @@ https://streamer-1.toffeelive.com/mobile_hls/ten_2/3/04dfcf51f5f17bc7739a41f294e
 https://streamer-1.toffeelive.com/mobile_hls/ten_2/6/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/ten_2/9/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
-#EXTINF:-1,SONY TEN 3HD |tf
+,SONY TEN 3HD |tf
 https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,SONY TEN3 |tf
+,SONY TEN3 |tf
 https://streamer-1.toffeelive.com/mobile_hls/ten_3/1/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/ten_3/2/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/ten_3/3/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -22883,9 +22883,9 @@ https://streamer-1.toffeelive.com/mobile_hls/ten_3/6/04dfcf51f5f17bc7739a41f294e
 https://streamer-1.toffeelive.com/mobile_hls/ten_3/8/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/ten_3/9/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
-#EXTINF:-1,ZEE ACTION |tf
+,ZEE ACTION |tf
 https://streamer-1.toffeelive.com/mobile_hls/zee_action/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,ZEE CINEMA ME |tf
+,ZEE CINEMA ME |tf
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/1/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/3/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -22895,7 +22895,7 @@ https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/8/04dfcf51f5f17bc7739a41
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/2/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/6/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/9/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,ZEE TV HD |tf
+,ZEE TV HD |tf
 https://streamer-1.toffeelive.com/mobile_hls/zee_tv_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 http://streamwat.ch/custom/player/#
@@ -22903,9 +22903,7 @@ http://103.17.181.43/download_counter.php?url=
 https://ritesh.ch/miniproxy/miniproxy.php/
 
 
-
-
-#EXTINF:-1 group-title="toffee",SONY SIX |down
+ group-title="toffee",SONY SIX |down
 https://streamer-1.toffeelive.com/mobile_hls/six/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 https://streamer-1.toffeelive.com/mobile_hls/six_1/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
@@ -22915,9 +22913,7 @@ http://51.79.84.156:8082/ZeeTvIn/index.m3u8
 
 
 https://f8e7y4c6.ssl.hwcdn.net/24ghanta/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/24ghanta/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",Zee Action
-https://f8e7y4c6.ssl.hwcdn.net/action/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/action/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/action/tracks-v2a1/index.m3u8
@@ -22925,155 +22921,100 @@ https://f8e7y4c6.ssl.hwcdn.net/action/tracks-v2a1/playlist.m3u8
 #EXTINF:-1 group-title="IN/f8",&flix*
 https://f8e7y4c6.ssl.hwcdn.net/andflix/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andflix/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andflix/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andflix/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andflix/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",&flix HD
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v2a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v2a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v3a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",&pictures HD*
 https://f8e7y4c6.ssl.hwcdn.net/andpicshd/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andpicshd/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andpicshd/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andpicshd/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andpicshd/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",&prive HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v2a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v2a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v3a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",&TV HD
 https://f8e7y4c6.ssl.hwcdn.net/andtvhd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andtvhd/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andtvhd/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andtvhd/tracks-v1a1/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andtvhd/tracks-v1a1/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/andtvsd/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andtvsd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="IN/y5",ZEETV SEA
-https://f8e7y4c6.ssl.hwcdn.net/apacsea/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/apacsea/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/apacsea/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/apacsea/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/bigganga/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/bigganga/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/bigganga/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/bigganga/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/bigganga/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/bigganga/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/bigganga/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",Big Magic
 https://f8e7y4c6.ssl.hwcdn.net/bigmagic/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/bigmagic/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/bigmagic/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/bigmagic/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/bigmagic/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/tracks-v2a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="IN/f8",ZEETV CA
-https://f8e7y4c6.ssl.hwcdn.net/canadahd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/canadahd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/canadahd/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/canadahd/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",ZEE CINEMA UK
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/cinemauk/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/cinemauk/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/cinemauk/tracks-v1a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/tracks-v1a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",ZEE CINEMA US
 https://f8e7y4c6.ssl.hwcdn.net/cinemausa/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/cinemausa/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemausa/tracks-v1a1/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/cinemausa/tracks-v1a1/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/cinemausa/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemausa/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",ZEE BOLLYWOOD
 https://f8e7y4c6.ssl.hwcdn.net/classic/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/classic/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/classic/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/classic/tracks-v2a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/etcpnjbiusa/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/etcpnjbiusa/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/kalak/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/kalak/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/livingfoodzhd/tracks-v2a1/mono.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/magic/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/magic/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/magic/tracks-v1a1/mono.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/magic/tracks-v1a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/magic/tracks-v2a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/magic/tracks-v2a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/magic/tracks-v2a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/marathiusa/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/marathiusa/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/marathiusa/tracks-v2a1/mono.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/marathiusa/tracks-v2a1/mono.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index-1588722015-now.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index-1588722015-now.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1579562535-now.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1579562535-now.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/newsmpcg/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/newsmpcg/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/newsmpcg/tracks-v2a1/mono.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/newsmpcg/tracks-v2a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/punjabi/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/punjabi/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/punjabi/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/punjabi/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/russia/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/russia/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/russia/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/russia/tracks-v1a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/russia/tracks-v1a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/russia/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",Zee Smile US
@@ -23082,7 +23023,6 @@ https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/tracks-v2a1/mono.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/smileusa/tracks-v2a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/wion/index.m3u8
 #EXTINF:-1 group-title="IN/f8",Zee World
 https://f8e7y4c6.ssl.hwcdn.net/world/index.m3u8
@@ -23090,21 +23030,15 @@ https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/world/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/world/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/world/tracks-v2a1/mono.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/world/tracks-v2a1/mono.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",ZEE CINEMA HD
 https://f8e7y4c6.ssl.hwcdn.net/zcinemahd/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zcinemahd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zcinemahd/tracks-v1a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zcinemahd/tracks-v1a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zcinemahd/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zcinemalusd/tracks-v1a1/playlist.m3u8
@@ -23112,19 +23046,14 @@ https://f8e7y4c6.ssl.hwcdn.net/zcinemaus/index.m3u8
 #EXTINF:-1 group-title="IN/f8",Zee5 Originals
 https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeebanglahd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeebanglahd/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zeebanglahd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="IN/f8",Zee Cafe HD
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/tracks-v1a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/tracks-v1a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/tracks-v2a1/index.m3u8
@@ -23132,57 +23061,37 @@ https://f8e7y4c6.ssl.hwcdn.net/zeecafesd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeecafesd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="IN/f8",ZEE CINEMA ME
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/tracks-v3a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeetalkies/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeetvhd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeetvhd/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zeetvhd/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeevajwa/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zing/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zing/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zinguk/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zinguk/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zinguk/tracks-v1a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zingusa/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zingusa/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zingusa/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zliving-ord/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zliving-ord/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zlivingusa/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/tracks-v1a1/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/index.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/tracks-v2a1/mono.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/ztvme/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztvme/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
@@ -23194,9 +23103,9 @@ https://f8e7y4c6.ssl.hwcdn.net/ztvsdusa/tracks-v2a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zzesthd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zzesthd/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
-https://f8e7y4c6.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zzesthd/tracks-v3a1/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zzestsd/tracks-v3a1/index.m3u8
+
 
 + + + + + http://tv.pmcon.net + + + + +
 
