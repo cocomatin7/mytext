@@ -89,8 +89,6 @@ http://212.224.98.208:2200/EX/FR_RMC_SPORT10_HD-fr/index.m3u8?token=
 http://titanmedia.one:2082/get.php?username=UDASHBOARD&password=NAoSDAdVcP&type=m3u
 Real Url: titanmedia.one:2082     Status: Active    Created: 1/10/2020 7:25:01 PM     Expires: Null    Active Connections: 99     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
 
-http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 
 
 
@@ -238,7 +236,7 @@ http://re.strah.video:1234/play/extasyhd/index.m3u8
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
 
-http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
+
 
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
@@ -4770,6 +4768,7 @@ http://27.255.28.10:8278/67/playlist.m3u8
 http://27.255.28.10:8278/68/playlist.m3u8
 http://27.255.28.10:8278/69/playlist.m3u8
 
+
 + + + 31.220.41.88:8081 + + + https://paste.in/fTsoqB + + +
 
 #EXTINF:-1 group-title="31.220",beIN SPORT 1 |31
@@ -6417,6 +6416,7 @@ http://185.180.221.194:8278/streams/d/Zeetvhd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Zeeaction/playlist.m3u8
 #EXTINF:-1 group-title="185.180",Color Hd(TEST)
 http://185.180.221.194:8278/streams/d/Colorhd/playlist.m3u8
+
 http://185.180.221.194:8278/streams/d/AEC/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Animalplanet/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
@@ -6424,6 +6424,7 @@ http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Bernama/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Cbeebies/playlist.m3u8
@@ -6440,10 +6441,16 @@ http://185.180.221.194:8278/streams/d/Discovery/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Fightsports/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
@@ -6466,6 +6473,7 @@ http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Starplushd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Suntv/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
@@ -6475,29 +6483,23 @@ http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
+http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Zeeaction/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Zeetamil/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Zeetvhd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/truepre1_pat/playlist.m3u8
 http://185.180.221.194:8278/streams/d/truepre2_pat/playlist.m3u8
 http://185.180.221.194:8278/streams/d/truepre3_pat/playlist.m3u8
 http://185.180.221.194:8278/streams/d/truepre4_pat/playlist.m3u8
 http://185.180.221.194:8278/streams/d/truepre5_pat/playlist.m3u8
-
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Starplushd/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
-http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Zeeaction/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Zeetvhd/playlist.m3u8
-
 
 + + + + + 203.150.107.30:8081 + + + + +
 
@@ -13406,6 +13408,10 @@ http://188.30.138.25:9981/stream/channelid/194556025?ticket=0D9B8A40350590233935
 
 + + + + + 198.16.106.58:8278/streams/d + + + + + offline + + + + +
 
+BBC NEWS
+http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
+
+
 http://198.16.106.58:8278/streams/d/Animalplanet/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Arena/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
@@ -13452,9 +13458,42 @@ http://198.16.106.58:8278/supersports2/playlist.m3u8
 http://198.16.106.58:8278/supersports3/playlist.m3u8
 http://198.16.106.58:8278/supersports4/playlist.m3u8
 
-http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
 
++ + + + + 198.16.106.62:8278/streams/d + + + + +
+
+http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+asia food
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
+http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
+foxaction
+http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+foxfamily
+http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
+hbosignature
 http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+
+http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
+http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
+http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
+http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
+http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
+http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
+http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
+http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
+http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
+http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
+http://198.16.106.62:8278/sundance_twn/playlist.m3u8?tid=M200000000000519104841&ct=18639&tsum=c5edc8fc8db4672fc2f3f7111c99ec7b
 
 
 + + + + + TV Headend + + + + +
@@ -22636,6 +22675,8 @@ http://albauser.net:2235/get.php?username=antree-iptv&password=exchange&type=m3u
 http://www.adiltvcdn.xyz:8080/get.php?username=K1iQxeQHq&password=oD9Oh286VP&type=m3u
 Real Url: www.adiltvcdn.xyz:8080     Status: Active    Created: 28/7/2021 2:13:21 PM     Expires: Null    Active Connections: 6     Maximum Connections: 500     Formats: "ts"
 
+http://bestsave.ltd:8011/get.php?username=P1234567&password=P1234567&type=m3u < 1-1
+
 http://client.ksporttv.com:88/get.php?username=bajrami12&password=8SgZlCQLH9&type=m3u Real Url: client.ksporttv.com:88     Status: Active    Created: Null     Expires: 28/2/2022 1:00:00 AM    Active Connections: 2     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
 http://cobraa.in:8000/get.php?username=150110836751&password=6067d961998df.16041&type=m3u Real Url: cobraa.in:8000     Status: Active    Created: 3/4/2021 2:56:33 AM     Expires: 3/4/2022 2:56:33 AM    Active Connections: 4     Maximum Connections: 1     Formats: "m3u8","ts" < INDIA CH
@@ -22680,6 +22721,9 @@ Real Url: s1.ptvhost.com:80     Status: Active    Created: Null     Expires: Nul
 http://officialtv.hopto.me:8000/get.php?username=3332010&password=3332010&type=m3u Real Url: officialtv.hopto.me:8000     Status: Active    Created: 18/10/2020 5:47:31 PM     Expires: 18/10/2021 5:47:31 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts" < INDIA CH
 
 http://oqab.life:8080/get.php?username=58585858&password=58585858&type=m3u Real Url: oqab.life:8080     Status: Active    Created: 23/11/2020 5:31:13 AM     Expires: 24/11/2021 3:07:46 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp" < INDIA CH
+
+http://portal.alliptv.tv:8080/get.php?username=Malek_J&password=yv2Ad5AbL3ob8d&type=m3u
+Real Url: portal.alliptv.tv:8080     Status: Active    Created: 6/7/2021 2:00:00 PM     Expires: 6/10/2021 2:00:00 PM    Active Connections: 19     Maximum Connections: 50     Formats: "m3u8","ts","rtmp"
 
 http://qqtv.nl:8080/get.php?username=28734&password=28734&type=m3u < 2-1
 
@@ -22774,6 +22818,9 @@ http://51.15.1.11:25461/get.php?username=MEGA-TV&password=TELEGRAM&type=m3u < DO
 
 http://51.91.73.99:25461/get.php?username=usachannel&password=ngZnG8PD5i&type=m3u
 Real Url: 51.91.73.99:25461     Status: Active    Created: 30/5/2020 8:38:00 AM     Expires: Null    Active Connections: 72    Maximum Connections: 100     Formats: "m3u8","ts","rtmp" < FR, DE, US
+
+http://51.91.73.99:25461/get.php?username=usachannel&password=ngZnG8PD5i&type=m3u
+Real Url: 51.91.73.99:25461     Status: Active    Created: 30/5/2020 8:38:00 AM     Expires: Null    Active Connections: 73     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
 
 #EXTINF:-1 group-title="51.91",US: MTV 2 HD |51
 http://51.91.73.99:25461/streaming/clients_live.php?extension=m3u8&username=usachannel&password=ngZnG8PD5i&stream=15452&type=hls
@@ -22897,7 +22944,13 @@ Real Url: 85.203.33.88:80 Expires: 29/10/2021 6:41:31 PM    Active Connections: 
 http://cloudcdn.tk:8080/get.php?username=wZkgtvQF6G0800&password=aqE7hM928&type=m3u
 
 http://85.203.33.88:80/get.php?username=Sh85j1f69&password=ssnYzA43&type=m3u
-Real Url: mag.betaiptv.iptv.uno:80     Status: Active    Created: 27/4/2018 11:57:02 AM     Expires: 19/6/2022 11:57:01 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
+Real Url: mag.betaiptv.iptv.uno:80     Status: Active    Created: 27/4/2018 11:57:02 AM     Expires: 19/6/2022 11:57:01 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts" << 
+
+http://45.87.29.8:80/get.php?username=5RKDzSm63&password=wpL0vR60&type=m3u
+Real Url: 85.203.33.88:80     Status: Active    Created: 25/2/2019 3:16:00 PM     Expires: 23/2/2022 9:38:27 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
+
+http://45.87.29.8:8080/get.php?username=M0FPKNzUb2rp1831&password=aoTqcM9363&type=m3u < 1-0
+ 
 
 #EXTINF:-1 group-title="85.203",beIN SPORTS 1 4K QA
 http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/24697.m3u8
@@ -24918,7 +24971,7 @@ http://210.210.129.106/session/ae31dad4-c01d-11eb-b7b1-8a21952704f3/dr9445/h/h20
 offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776445
 tvnmovies
 https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776446
-http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+
 
 offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776447
 offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776448
@@ -24975,7 +25028,7 @@ https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776475
 https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776476
 FOX SPORT 3
 https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776477
-http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+
 offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776478
 offline https://m3u-editor.com:443/bo6mme2v/hx5rmfq7/290776479
 
