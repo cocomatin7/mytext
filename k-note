@@ -3189,6 +3189,18 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 #EXTINF:-1,MTV RU
 http://188.40.68.167/russia/mtv/playlist.m3u8
 
+#EXTINF:-1 group-title="BamarTV",foxfam
+http://203.154.243.88:11088/hi/foxfam
+#EXTINF:-1 group-title="BamarTV",scm
+http://203.154.243.88:11088/hi/scm
+#EXTINF:-1 group-title="BamarTV",foxaction
+http://203.154.243.88:11088/hi/foxaction
+#EXTINF:-1 group-title="BamarTV",foxsports1
+http://203.154.243.88:11088/hi/foxsports1
+#EXTINF:-1 group-title="BamarTV",foxsports2
+http://203.154.243.88:11088/hi/foxsports2
+#EXTINF:-1 group-title="BamarTV",foxsports3
+http://203.154.243.88:11088/hi/foxsports3
 
 #EXTINF:-1 group-title="BamarTV",Canal+
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_==gUGByc1xGUgwWYuF2Q
@@ -13158,6 +13170,47 @@ http://103.153.39.34:8000/play/a06h/index.m3u8
 
 
 + + + + http://103.223.12.154:8000/playlist.m3u8 + + + + DOWN
+
+#EXTINF:-1 group-title="103.223",& Pictures HD @ Rs 19
+http://103.223.12.154:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="103.223",& TV HD @ Rs 19
+http://103.223.12.154:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="103.223",Colors Cineplex HD @ Rs 5
+http://103.223.12.154:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="103.223",SET HD @ Rs 19
+http://103.223.12.154:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="103.223",SONY SIX HD @ Rs 19
+http://103.223.12.154:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="103.223",Sony MAX HD @ Rs 17
+http://103.223.12.154:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="103.223",Sony SAB HD @ Rs 19
+http://103.223.12.154:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="103.223",Sony Ten 1 HD @ Rs 19
+http://103.223.12.154:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="103.223",Sony Ten 3 HD @ Rs 17
+http://103.223.12.154:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="103.223",Star Bharat HD @ Rs 19
+http://103.223.12.154:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="103.223",Star Gold HD @ Rs 10
+http://103.223.12.154:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="103.223",Star Gold Select HD @ Rs 8
+http://103.223.12.154:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="103.223",Star Plus HD @ Rs 19
+http://103.223.12.154:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="103.223",Star Sports 1 HD @ Rs 19
+http://103.223.12.154:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="103.223",Star Sports 1 HD Hindi @ Rs 19
+http://103.223.12.154:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="103.223",Star Sports 2 HD @ Rs 19
+http://103.223.12.154:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="103.223",Star Sports Select 1 HD @ Rs 19
+http://103.223.12.154:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="103.223",Zee Cinema HD @ Rs 19
+http://103.223.12.154:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="103.223",Zee TV HD @ Rs 19
+http://103.223.12.154:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="103.223",aaj tak hd
+http://103.223.12.154:8000/play/a021/index.m3u8
 
 
 + + + + http://108.48.50.123:9981/extjs.html + + + + * | * + + + + + jayel:samsung7 or *:* + + + + + default:default$27 | PSe0WeZ4DuTCJAFY3b2g0uErXVYo + + one CH OK < DOWN
