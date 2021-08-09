@@ -25867,7 +25867,7 @@ http://pulsestreaming.uk:8080/streaming/clients_live.php?extension=m3u8&username
 
 http://qqtv.nl:8080/c | 00:1A:79:4B:FE:6D < 12/07/2021
 
-http://qqtv.nl:8080/get.php?username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&type=m3u&output=hls < null < 1100-1006 < xxx < N
+http://qqtv.nl:8080/get.php?username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&type=m3u&output=hls < null < 1120-727 < xxx < Active 
 http://54.39.158.38:8080/get.php?username=OrangeaAndApple&password=$eK7pYrSG5Cfffxxxxyz&type=m3u
 
 http://qqtv.nl:8080/get.php?username=sword&password=sword&type=m3u
@@ -25877,13 +25877,119 @@ http://qqtv.nl:8080/get.php?username=broom&password=broom&type=m3u
 
 http://qqtv.nl:8080/sword/sword/7258
 
+00:04:4B:CC:FF:2E < SHIELD
+http://qqtv.nl:8080/get.php?username=28734&password=28734&type=m3u < 01/10/21 < 2-0
+http://qqtv.nl:8080/get.php?username=3298&password=3298&type=m3u < 11/01/2022 < 2-0 << 
+http://qqtv.nl:8080/get.php?username=7556&password=7556&type=m3u < 11/08/21 < 2-2
+http://qqtv.nl:8080/get.php?username=broom&password=broom&type=m3u < 07/09/21 < 2-0
+http://qqtv.nl:8080/get.php?username=sword&password=sword&type=m3u < 29/08/21 < 2-1
 
-http://qqtv.nl:8080/get.php?username=28734&password=28734&type=m3u < 2-1
-http://qqtv.nl:8080/get.php?username=3298&password=3298&type=m3u
-http://qqtv.nl:8080/get.php?username=7556&password=7556&type=m3u
-http://qqtv.nl:8080/get.php?username=broom&password=broom&type=m3u
-http://qqtv.nl:8080/get.php?username=sword&password=sword&type=m3u
+#EXTINF:-1 group-title="qqtv",MTV
+http://qqtv.nl:8080/3298/3298/7921
+#EXTINF:-1,MTV LIVE
+http://qqtv.nl:8080/3298/3298/15455
+#EXTINF:-1,MTV CLASSIC
+http://qqtv.nl:8080/3298/3298/15452
+#EXTINF:-1,MTV U
+http://qqtv.nl:8080/3298/3298/15456
+#EXTINF:-1,CA: BBC WORLD NEWS HD
+http://qqtv.nl:8080/3298/3298/21139
+#EXTINF:-1,UK: BBC WORLD_NEWS
+http://qqtv.nl:8080/3298/3298/15544
+#EXTINF:-1,.NBCSN HD
+http://qqtv.nl:8080/3298/3298/5137
+#EXTINF:-1,.Optus 1 HD AU
+http://qqtv.nl:8080/3298/3298/319618
+#EXTINF:-1,.Optus 2 HD AU
+http://qqtv.nl:8080/3298/3298/319616
+#EXTINF:-1,.RSA SUPERSPORTS VARITY 01 HD
+http://qqtv.nl:8080/3298/3298/311868
+#EXTINF:-1,.RSA SUPERSPORTS VARITY 02 HD
+http://qqtv.nl:8080/3298/3298/30957
+#EXTINF:-1,.RSA SUPERSPORTS VARITY 03 HD
+http://qqtv.nl:8080/3298/3298/30330
+#EXTINF:-1,.RSA SUPERSPORTS VARITY 04 HD
+http://qqtv.nl:8080/3298/3298/397213
+#EXTINF:-1,.RSA SUPERSPORTS RUGBY HD AF
+http://qqtv.nl:8080/3298/3298/395599
+#EXTINF:-1,.RSA SUPERSPORTS PREMIER LEAGUE HD
+http://qqtv.nl:8080/3298/3298/269696
+#EXTINF:-1,AR: beIN SPORTS PREMIUM 01 HD
+http://qqtv.nl:8080/3298/3298/30241
+#EXTINF:-1,AR: beIN SPORTS PREMIUM 02 HD
+http://qqtv.nl:8080/3298/3298/30240
+#EXTINF:-1,AR: beIN SPORTS PREMIUM 03 HD
+http://qqtv.nl:8080/3298/3298/30239
+#EXTINF:-1,WC. STAR SPORTS SELECT 1 HD
+http://qqtv.nl:8080/3298/3298/30539
+#EXTINF:-1,WC. STAR SPORTS SELECT 2 HD
+http://qqtv.nl:8080/3298/3298/30538
+#EXTINF:-1,THAI: MYANMAR CHANNEL 7
+http://qqtv.nl:8080/3298/3298/313897
+#EXTINF:-1,THAI: MYANMAR MRTV 4
+http://qqtv.nl:8080/3298/3298/313900
 
+#EXTINF:-1,IN: SONY MAX HD USA
+http://qqtv.nl:8080/3298/3298/7230
+#EXTINF:-1,IN: ZEE BOLLYWOOD HD HINDI
+http://qqtv.nl:8080/3298/3298/3131
+#EXTINF:-1,IN: & TV HD
+http://qqtv.nl:8080/3298/3298/31801
+#EXTINF:-1,IN: AND TV HD
+http://qqtv.nl:8080/3298/3298/31796
+#EXTINF:-1,IN: COLORS HD UK
+http://qqtv.nl:8080/3298/3298/409668
+#EXTINF:-1,IN: COLORS HD IND
+http://qqtv.nl:8080/3298/3298/7289
+#EXTINF:-1,IN: SONY HD US
+http://qqtv.nl:8080/3298/3298/154602
+#EXTINF:-1,IN: SONY HD UK
+http://qqtv.nl:8080/3298/3298/409669
+#EXTINF:-1,IN: SONY HD IND
+http://qqtv.nl:8080/3298/3298/7283
+#EXTINF:-1,IN: ZEE HD CANADA
+http://qqtv.nl:8080/3298/3298/67568
+#EXTINF:-1,IN: ZEE HD UK
+http://qqtv.nl:8080/3298/3298/409672
+#EXTINF:-1,IN: ZEE HD USA
+http://qqtv.nl:8080/3298/3298/409673
+#EXTINF:-1,IN: ZEE HD IND
+http://qqtv.nl:8080/3298/3298/409674
+#EXTINF:-1,IN: & FLIX HD
+http://qqtv.nl:8080/3298/3298/7252
+#EXTINF:-1,IN: & PICTURES HD
+http://qqtv.nl:8080/3298/3298/3150
+#EXTINF:-1,IN: STAR MOVIES HD
+http://qqtv.nl:8080/3298/3298/30349
+#EXTINF:-1,IN: STAR SPORTS SELECT 1
+http://qqtv.nl:8080/3298/3298/7247
+#EXTINF:-1,IN: STAR SPORTS SELECT 2
+http://qqtv.nl:8080/3298/3298/7246
+#EXTINF:-1,IN: ZEE CINEMA HD (USA)
+http://qqtv.nl:8080/3298/3298/30540
+#EXTINF:-1,IN: ZEE CLASSIC HINDI
+http://qqtv.nl:8080/3298/3298/31810
+#EXTINF:-1,IN: SONY MAX2
+http://qqtv.nl:8080/3298/3298/30634
+#EXTINF:-1,IN: SONY PIX HD
+http://qqtv.nl:8080/3298/3298/7258
+#EXTINF:-1,IN: SONY SIX HD
+http://qqtv.nl:8080/3298/3298/30657
+#EXTINF:-1,IN: SONY TEN 1 HD
+http://qqtv.nl:8080/3298/3298/30625
+#EXTINF:-1,IN: SONY TEN 2 HD
+http://qqtv.nl:8080/3298/3298/30624
+#EXTINF:-1,IN: B4U PLUS
+http://qqtv.nl:8080/3298/3298/15551
+#EXTINF:-1,IN: B4U MOVIES (IND)
+http://qqtv.nl:8080/3298/3298/67557
+
+#EXTINF:-1,24/7 MOVIES | JAMES BOND SERIES
+http://qqtv.nl:8080/3298/3298/404257
+#EXTINF:-1,24/7 MOVIES | JACKIE CHAN SERIES
+http://qqtv.nl:8080/3298/3298/404262
+#EXTINF:-1 group-title="qqtv",24/7 SERIES | FAST & FURIOUS SPY RACERS
+http://qqtv.nl:8080/3298/3298/92495
 
 
 + + + + + rapid-cdn.net:8080 + + + + + null + + 
