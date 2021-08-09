@@ -9902,15 +9902,531 @@ http://3.0.20.58:8000/play/Bein-Sport-7/index.m3u8
 http://3.0.20.58:8000/play/TVRIHD/index.m3u8
 
 
-+ + + + http://3.239.35.218:9981/extjs.html + + + + + + CAN'T WORK
++ + + + http://3.239.35.218:9981/extjs.html + + + PK + + + CAN'T WORK
 
 
 + + + + + http://14.192.144.7:8000/ < PK + + not play 
 
 https://ritesh.ch/miniproxy/miniproxy.php/http://14.192.144.14:8000/play/a0mt/index.m3u8
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://14.192.144.14:8000/play/a0mt/index.m3u8
-
 http://xlx723.dyndns.org/iproxy/miniProxy.php/
+
+#EXTINF:-1 group-title="14.192",&PICUTRE HD
+http://14.192.144.14:8000/play/a0mt/index.m3u8
+#EXTINF:-1 group-title="14.192",&PRIVE HD
+http://14.192.144.14:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="14.192",&flix HD-Rs19
+http://14.192.144.14:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="14.192",&tv HD - Rs 19
+http://14.192.144.14:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="14.192",10 TV -Free
+http://14.192.144.14:8000/play/a0op/index.m3u8
+#EXTINF:-1 group-title="14.192",7S Music - Free
+http://14.192.144.14:8000/play/a0no/index.m3u8
+#EXTINF:-1 group-title="14.192",9X JALWA - Free
+http://14.192.144.14:8000/play/a0qq/index.m3u8
+#EXTINF:-1 group-title="14.192",9XM  - Free
+http://14.192.144.14:8000/play/a0rm/index.m3u8
+#EXTINF:-1 group-title="14.192",AAJ TAK - 75p
+http://14.192.144.14:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="14.192",ABP ANANDA- Free
+http://14.192.144.14:8000/play/a0ok/index.m3u8
+#EXTINF:-1 group-title="14.192",ABP ASMITHA-Free
+http://14.192.144.14:8000/play/a0qw/index.m3u8
+#EXTINF:-1 group-title="14.192",ABP MAJHA - Free
+http://14.192.144.14:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="14.192",ABP NEWS - Free
+http://14.192.144.14:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="14.192",ABZY COOL -Free
+http://14.192.144.14:8000/play/a0q4/index.m3u8
+#EXTINF:-1 group-title="14.192",ANIMAL PLANET HD
+http://14.192.144.14:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-& Pictures HD
+http://14.192.144.14:8000/play/a0o4/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Asianet HD
+http://14.192.144.14:8000/play/a0dj/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Asianet Plus
+http://14.192.144.14:8000/play/a0il/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Colors Bangla HD
+http://14.192.144.14:8000/play/a0ig/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Colors Cineplex HD
+http://14.192.144.14:8000/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Colors Gujarati
+http://14.192.144.14:8000/play/a0hw/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Colors HD
+http://14.192.144.14:8000/play/a0ib/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Colors Kannada HD
+http://14.192.144.14:8000/play/colorskanada/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Colors Marathi HD
+http://14.192.144.14:8000/play/a0ih/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Colors Odia
+http://14.192.144.14:8000/play/a0in/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Colors Tamil HD
+http://14.192.144.14:8000/play/a0g8/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-DD Sports
+http://14.192.144.14:8000/play/a0li/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Fox Life HD
+http://14.192.144.14:8000/play/a0la/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Gemini Music HD
+http://14.192.144.14:8000/play/a0ik/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Gemini TV HD
+http://14.192.144.14:8000/play/a0sb/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-JALSHA MOVIES HD
+http://14.192.144.14:8000/play/a0cw/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-KTV HD
+http://14.192.144.14:8000/play/a0g6/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Mazhavil Manorama HD
+http://14.192.144.14:8000/play/a0go/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-STAR MAA HD
+http://14.192.144.14:8000/play/starmaa/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Star Maa Movies HD
+http://14.192.144.14:8000/play/maamovies/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Star Plus HD
+http://14.192.144.14:8000/play/a0o3/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Star Pravah HD
+http://14.192.144.14:8000/play/a0cx/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Star S Select 1 HD
+http://14.192.144.14:8000/play/a0o5/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Star Sports 1 HD
+http://14.192.144.14:8000/play/a0dd/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Star Sports 2 HD
+http://14.192.144.14:8000/play/a0dc/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Star Sports Select 2HD
+http://14.192.144.14:8000/play/a0dl/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Star Vijay
+http://14.192.144.14:8000/play/a0im/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Sun Music HD
+http://14.192.144.14:8000/play/a0sa/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Sun TV HD
+http://14.192.144.14:8000/play/a0s9/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-UDAYA MJSIC
+http://14.192.144.14:8000/play/a0jy/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-UDAYA MOVIES
+http://14.192.144.14:8000/play/a0k3/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-UTV HD
+http://14.192.144.14:8000/play/a0m6/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Vijay HD
+http://14.192.144.14:8000/play/a0hy/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Vijay Music
+http://14.192.144.14:8000/play/a0o7/index.m3u8
+#EXTINF:-1 group-title="14.192",AT-Zee Bangla HD
+http://14.192.144.14:8000/play/a0i2/index.m3u8
+#EXTINF:-1 group-title="14.192",Asianet HD-Rs19
+http://14.192.144.14:8000/play/asianet/index.m3u8
+#EXTINF:-1 group-title="14.192",B4U Bhojpuri-Free
+http://14.192.144.14:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="14.192",BBC WORLD - Rs 1
+http://14.192.144.14:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="14.192",BIG MAGIC - 10p
+http://14.192.144.14:8000/play/a0oi/index.m3u8
+#EXTINF:-1 group-title="14.192",CARTOON-Rs4.25
+http://14.192.144.14:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="14.192",CHINTU TV- Rs 6
+http://14.192.144.14:8000/play/a0rc/index.m3u8
+#EXTINF:-1 group-title="14.192",CNBC AWAAZ-Rs 1
+http://14.192.144.14:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="14.192",CNBC Prime -Rs1
+http://14.192.144.14:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="14.192",CNBC TV18- Rs 4
+http://14.192.144.14:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="14.192",CNN INTL - 50p
+http://14.192.144.14:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="14.192",CNN NEWS 18-50p
+http://14.192.144.14:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="14.192",COLORS INFINITY HD
+http://14.192.144.14:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="14.192",Colors Guj Cinema-Rs1
+http://14.192.144.14:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="14.192",Colors HD-Rs 19
+http://14.192.144.14:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="14.192",Colors Tamil HD @ Rs 7
+http://14.192.144.14:8000/play/a0ta/index.m3u8
+#EXTINF:-1 group-title="14.192",D Tamil -Rs4
+http://14.192.144.14:8000/play/a0n3/index.m3u8
+#EXTINF:-1 group-title="14.192",D2H-SONY PAL
+http://14.192.144.14:8000/play/a0mn/index.m3u8
+#EXTINF:-1 group-title="14.192",DD NEWS - Free
+http://14.192.144.14:8000/play/a0qh/index.m3u8
+#EXTINF:-1 group-title="14.192",DD SPORTS- Free
+http://14.192.144.14:8000/play/a0ny/index.m3u8
+#EXTINF:-1 group-title="14.192",DD UP - Free
+http://14.192.144.14:8000/play/a0pq/index.m3u8
+#EXTINF:-1 group-title="14.192",DISCOVERY K-Rs3
+http://14.192.144.14:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="14.192",DY 365 - Free
+http://14.192.144.14:8000/play/a0qx/index.m3u8
+#EXTINF:-1 group-title="14.192",Devam @ FREE
+http://14.192.144.14:8000/play/a0tb/index.m3u8
+#EXTINF:-1 group-title="14.192",Discovery H-Rs6
+http://14.192.144.14:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="14.192",Discovery S-Rs1
+http://14.192.144.14:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="14.192",Discovery T-Rs1
+http://14.192.144.14:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="14.192",Disney Chan-Rs8
+http://14.192.144.14:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="14.192",Disney Jr.-Rs 4
+http://14.192.144.14:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="14.192",EPIC - Rs 2
+http://14.192.144.14:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="14.192",ET NOW - Rs 3
+http://14.192.144.14:8000/play/a0lh/index.m3u8
+#EXTINF:-1 group-title="14.192",ETV Abhiruc-Rs2
+http://14.192.144.14:8000/play/a0rf/index.m3u8
+#EXTINF:-1 group-title="14.192",ETV Cinema-Rs 6
+http://14.192.144.14:8000/play/a0or/index.m3u8
+#EXTINF:-1 group-title="14.192",ETV HD - Rs 19
+http://14.192.144.14:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="14.192",ETV Life - Rs 1
+http://14.192.144.14:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="14.192",ETV Telenga-Rs1
+http://14.192.144.14:8000/play/a0ri/index.m3u8
+#EXTINF:-1 group-title="14.192",EUROSPORT - Rs 4
+http://14.192.144.14:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="14.192",EuroSports HD-Rs 6
+http://14.192.144.14:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="14.192",FOX Life HD-Rs1
+http://14.192.144.14:8000/play/a0hp/index.m3u8
+#EXTINF:-1 group-title="14.192",Flowers- Rs10
+http://14.192.144.14:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="14.192",GEMINI LIFE -Rs5
+http://14.192.144.14:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="14.192",GEMINI TV -Rs19
+http://14.192.144.14:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="14.192",Gemini Music HD @ Rs 19
+http://14.192.144.14:8000/play/a0tj/index.m3u8
+#EXTINF:-1 group-title="14.192",Goodness TV @ FREE
+http://14.192.144.14:8000/play/a0td/index.m3u8
+#EXTINF:-1 group-title="14.192",HISTORY TV HD
+http://14.192.144.14:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="14.192",INDIA NEWS
+http://14.192.144.14:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="14.192",INDIA TD-Rs 1
+http://14.192.144.14:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="14.192",INDIA TV - Free
+http://14.192.144.14:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="14.192",Investigation Discovery-Rs1
+http://14.192.144.14:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="14.192",J MOVIE-Rs2.25
+http://14.192.144.14:8000/play/a0ld/index.m3u8
+#EXTINF:-1 group-title="14.192",JAYA MAX-Rs2.25
+http://14.192.144.14:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="14.192",JAYA PLUS- 50p
+http://14.192.144.14:8000/play/a0n6/index.m3u8
+#EXTINF:-1 group-title="14.192",Jalsha Mov-Rs19
+http://14.192.144.14:8000/play/a068/index.m3u8
+#EXTINF:-1 group-title="14.192",Jinvani TV- Free
+http://14.192.144.14:8000/play/a0p8/index.m3u8
+#EXTINF:-1 group-title="14.192",Jonack TV- Free
+http://14.192.144.14:8000/play/a0ou/index.m3u8
+#EXTINF:-1 group-title="14.192",Jothi TV - Free
+http://14.192.144.14:8000/play/a0nm/index.m3u8
+#EXTINF:-1 group-title="14.192",KAIRALI Free
+http://14.192.144.14:8000/play/a0mz/index.m3u8
+#EXTINF:-1 group-title="14.192",KOLKATA TV-Free
+http://14.192.144.14:8000/play/a0q7/index.m3u8
+#EXTINF:-1 group-title="14.192",KTV HD-Rs 19
+http://14.192.144.14:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="14.192",Kalinga TV-Free
+http://14.192.144.14:8000/play/a0pp/index.m3u8
+#EXTINF:-1 group-title="14.192",Kaumudy TV @ FREE
+http://14.192.144.14:8000/play/a0th/index.m3u8
+#EXTINF:-1 group-title="14.192",Lokshahi - Free
+http://14.192.144.14:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="14.192",Lokshahi @ FREE
+http://14.192.144.14:8000/play/a0tm/index.m3u8
+#EXTINF:-1 group-title="14.192",MARVEL HQ- Rs 4
+http://14.192.144.14:8000/play/a0nq/index.m3u8
+#EXTINF:-1 group-title="14.192",MAX HD
+http://14.192.144.14:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="14.192",MH ONE - Free
+http://14.192.144.14:8000/play/a0nc/index.m3u8
+#EXTINF:-1 group-title="14.192",MIRROR NOW-Rs 2
+http://14.192.144.14:8000/play/a0qp/index.m3u8
+#EXTINF:-1 group-title="14.192",MN+ HD-Rs 10
+http://14.192.144.14:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="14.192",MOVIES NO-Rs 10
+http://14.192.144.14:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="14.192",MTV - Rs 3
+http://14.192.144.14:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="14.192",MTV Beats- 10p
+http://14.192.144.14:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="14.192",Manjari TV -Free
+http://14.192.144.14:8000/play/a0p1/index.m3u8
+#EXTINF:-1 group-title="14.192",Manorama News @ FREE
+http://14.192.144.14:8000/play/a0sy/index.m3u8
+#EXTINF:-1 group-title="14.192",Mazhavil M- Free
+http://14.192.144.14:8000/play/a0nv/index.m3u8
+#EXTINF:-1 group-title="14.192",Movies Active HD- Rs 64
+http://14.192.144.14:8000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="14.192",Music Zone @ FREE
+http://14.192.144.14:8000/play/a0tl/index.m3u8
+#EXTINF:-1 group-title="14.192",NAT Geo Wild HD-Rs 5
+http://14.192.144.14:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="14.192",ND24-Newsdaily24.in @ FREE
+http://14.192.144.14:8000/play/a0tn/index.m3u8
+#EXTINF:-1 group-title="14.192",NDTV 24X7- Rs 3
+http://14.192.144.14:8000/play/a0qs/index.m3u8
+#EXTINF:-1 group-title="14.192",NDTV INDIA-Rs 1
+http://14.192.144.14:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="14.192",NDTV India @ Rs 1
+http://14.192.144.14:8000/play/a0sz/index.m3u8
+#EXTINF:-1 group-title="14.192",NEPAL1- Free
+http://14.192.144.14:8000/play/a0oo/index.m3u8
+#EXTINF:-1 group-title="14.192",NEWS LIVE- Free
+http://14.192.144.14:8000/play/a0r0/index.m3u8
+#EXTINF:-1 group-title="14.192",NEWS NATION-Free
+http://14.192.144.14:8000/play/a0pi/index.m3u8
+#EXTINF:-1 group-title="14.192",NEWS18 Ind- 10p
+http://14.192.144.14:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="14.192",NEWS18 Lokm-10p
+http://14.192.144.14:8000/play/a0rp/index.m3u8
+#EXTINF:-1 group-title="14.192",National G-Rs10
+http://14.192.144.14:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="14.192",News18 Bang-10p
+http://14.192.144.14:8000/play/a0rg/index.m3u8
+#EXTINF:-1 group-title="14.192",News18 Guja-10p
+http://14.192.144.14:8000/play/a0qz/index.m3u8
+#EXTINF:-1 group-title="14.192",News18 Oriy-10p
+http://14.192.144.14:8000/play/a0rj/index.m3u8
+#EXTINF:-1 group-title="14.192",News18 Punj-10p
+http://14.192.144.14:8000/play/a0rt/index.m3u8
+#EXTINF:-1 group-title="14.192",News18 UP/U-10p
+http://14.192.144.14:8000/play/a0r1/index.m3u8
+#EXTINF:-1 group-title="14.192",News18 Urdu-10p
+http://14.192.144.14:8000/play/a0om/index.m3u8
+#EXTINF:-1 group-title="14.192",Nick Jr. - Rs1
+http://14.192.144.14:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="14.192",PIX HD - Rs 15
+http://14.192.144.14:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="14.192",PRAG NEWS - Free
+http://14.192.144.14:8000/play/a0r2/index.m3u8
+#EXTINF:-1 group-title="14.192",PRARTHANA -Rs 2
+http://14.192.144.14:8000/play/a0ov/index.m3u8
+#EXTINF:-1 group-title="14.192",PTC NEWS - Free
+http://14.192.144.14:8000/play/a0nh/index.m3u8
+#EXTINF:-1 group-title="14.192",PTC PUNJABI- Free
+http://14.192.144.14:8000/play/a0nf/index.m3u8
+#EXTINF:-1 group-title="14.192",PTC Simran
+http://14.192.144.14:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="14.192",PTC chakde-Free
+http://14.192.144.14:8000/play/a0ni/index.m3u8
+#EXTINF:-1 group-title="14.192",Panini
+http://14.192.144.14:8000/play/a0oy/index.m3u8
+#EXTINF:-1 group-title="14.192",Pogo - Rs 4.25
+http://14.192.144.14:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="14.192",Powervision @ FREE
+http://14.192.144.14:8000/play/a0tg/index.m3u8
+#EXTINF:-1 group-title="14.192",Public Movi- Free
+http://14.192.144.14:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="14.192",Public Musi- Free
+http://14.192.144.14:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="14.192",RAJ MUSIC K-Free
+http://14.192.144.14:8000/play/a0oj/index.m3u8
+#EXTINF:-1 group-title="14.192",REPUBLIC T-Free
+http://14.192.144.14:8000/play/a0qe/index.m3u8
+#EXTINF:-1 group-title="14.192",Raj  TV - Rs 3
+http://14.192.144.14:8000/play/a0nd/index.m3u8
+#EXTINF:-1 group-title="14.192",Raj MUSIX -Rs1
+http://14.192.144.14:8000/play/a0nu/index.m3u8
+#EXTINF:-1 group-title="14.192",Raj NEWS -25p
+http://14.192.144.14:8000/play/a0nt/index.m3u8
+#EXTINF:-1 group-title="14.192",Republic Bharat-Free
+http://14.192.144.14:8000/play/a0r3/index.m3u8
+#EXTINF:-1 group-title="14.192",Romedy NOW-Rs 6
+http://14.192.144.14:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="14.192",SAB HD - Rs 19
+http://14.192.144.14:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="14.192",SET HD - Rs 19
+http://14.192.144.14:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="14.192",SIRI Kannada-AllTime-Free
+http://14.192.144.14:8000/play/a0oz/index.m3u8
+#EXTINF:-1 group-title="14.192",SIRIPPOLI- Free
+http://14.192.144.14:8000/play/a0o1/index.m3u8
+#EXTINF:-1 group-title="14.192",SIX HD - Rs 19
+http://14.192.144.14:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="14.192",SONIC- Rs 2
+http://14.192.144.14:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="14.192",SONY AATH- Rs 4
+http://14.192.144.14:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="14.192",SONY MAX 2 - Rs 1
+http://14.192.144.14:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="14.192",SRI SANKARA- Free
+http://14.192.144.14:8000/play/a0on/index.m3u8
+#EXTINF:-1 group-title="14.192",STAR BHARA-Rs19
+http://14.192.144.14:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="14.192",STAR JALS-Rs 19
+http://14.192.144.14:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="14.192",STAR MOVI-Rs 19
+http://14.192.144.14:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="14.192",STAR WORLD -Rs9
+http://14.192.144.14:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="14.192",STAR WORLD P-Rs9
+http://14.192.144.14:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="14.192",SUN LIFE- Rs 9
+http://14.192.144.14:8000/play/a0n0/index.m3u8
+#EXTINF:-1 group-title="14.192",SUN MUSIC- Rs 6
+http://14.192.144.14:8000/play/a0n4/index.m3u8
+#EXTINF:-1 group-title="14.192",SUN MUSIC-Rs19
+http://14.192.144.14:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="14.192",SUN NEWS - Rs 1
+http://14.192.144.14:8000/play/a0n5/index.m3u8
+#EXTINF:-1 group-title="14.192",SUN TV HD-Rs 19 
+http://14.192.144.14:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="14.192",SURYA COMED-Rs4
+http://14.192.144.14:8000/play/a0my/index.m3u8
+#EXTINF:-1 group-title="14.192",SURYA HD- Rs 19
+http://14.192.144.14:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="14.192",SURYA MUSIC-Rs4
+http://14.192.144.14:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="14.192",Safari TV @ FREE
+http://14.192.144.14:8000/play/a0tf/index.m3u8
+#EXTINF:-1 group-title="14.192",Shemaroo TV- Free
+http://14.192.144.14:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="14.192",Sony BBC EarHD-Rs10
+http://14.192.144.14:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="14.192",Sony Marath-Rs4
+http://14.192.144.14:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="14.192",Sony Ten 1 HD- Rs 19
+http://14.192.144.14:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="14.192",Sony Ten 2 HD- Rs 17
+http://14.192.144.14:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="14.192",Sony Ten 3 HD- Rs 17
+http://14.192.144.14:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="14.192",Sony Ten 4 @ Rs 17
+http://14.192.144.14:8000/play/a0tc/index.m3u8
+#EXTINF:-1 tvg-id="STARGOLDHD.in",Star GOLD -Rs10
+http://14.192.144.14:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="14.192",Star Gold 2- Rs 1
+http://14.192.144.14:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="Star Gold Select",Star Gold SelHD-Rs10
+http://14.192.144.14:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="14.192",Star Maa HD - Rs 19
+http://14.192.144.14:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="14.192",Star Maa MovHD-Rs19
+http://14.192.144.14:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="14.192",Star Movi-Rs 10
+http://14.192.144.14:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="14.192",Star Plus -Rs19
+http://14.192.144.14:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="14.192",Star Pravah HD
+http://14.192.144.14:8000/play/pravahhd/index.m3u8
+#EXTINF:-1 group-title="14.192",Star Pravah SD
+http://14.192.144.14:8000/play/pravahsd/index.m3u8
+#EXTINF:-1 group-title="14.192",Star Sport- Rs19
+http://14.192.144.14:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="14.192",Star Sport- Rs19
+http://14.192.144.14:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="14.192",Star Sport-Rs10
+http://14.192.144.14:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="14.192",Star Sport-Rs17
+http://14.192.144.14:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="14.192",Star Sport-Rs19
+http://14.192.144.14:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="14.192",Star Sport-Rs19
+http://14.192.144.14:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="14.192",Star Sports 3 Rs 4
+http://14.192.144.14:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="14.192",Star Sports1 Kan Rs19 
+http://14.192.144.14:8000/play/a0ek/index.m3u8
+#EXTINF:-1 group-title="14.192",Star Suvarna HD-Rs 19
+http://14.192.144.14:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="14.192",Star Utsav -Rs1
+http://14.192.144.14:8000/play/a0pk/index.m3u8
+#EXTINF:-1 group-title="14.192",Star Utsav-Rs 1
+http://14.192.144.14:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="14.192",Sun Bangla - Free
+http://14.192.144.14:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="14.192",TIMES NOW- Rs 3
+http://14.192.144.14:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="14.192",TLC HD- Rs3
+http://14.192.144.14:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="14.192",UDAYA HD- Rs 19
+http://14.192.144.14:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="14.192",UTV ACTION-Rs 2
+http://14.192.144.14:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="14.192",UTV MOVIES-Rs 2
+http://14.192.144.14:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="14.192",VIJAY HD- Rs 19
+http://14.192.144.14:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="14.192",VIJAY SUPE-Rs 2
+http://14.192.144.14:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="14.192",Vendhar TV @ FREE
+http://14.192.144.14:8000/play/a0tk/index.m3u8
+#EXTINF:-1 group-title="14.192",Vh1 - Rs 1
+http://14.192.144.14:8000/play/a0rd/index.m3u8
+#EXTINF:-1 group-title="14.192",WION - Rs 1
+http://14.192.144.14:8000/play/a0qo/index.m3u8
+#EXTINF:-1 group-title="14.192",ZEE BAN CIN-Rs2
+http://14.192.144.14:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="14.192",ZEE BANGLA-Rs19
+http://14.192.144.14:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="14.192",ZEE BOLLYWO-Rs2
+http://14.192.144.14:8000/play/a0pz/index.m3u8
+#EXTINF:-1 group-title="14.192",ZEE CINEMA-Rs19
+http://14.192.144.14:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="14.192",ZEE CINEMALU HD-Rs 16 
+http://14.192.144.14:8000/play/a0hs/index.m3u8
+#EXTINF:-1 group-title="14.192",ZEE Cafe H-Rs19
+http://14.192.144.14:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="14.192",ZEE KERALAM HD-Rs 8
+http://14.192.144.14:8000/play/a0ht/index.m3u8
+#EXTINF:-1 group-title="14.192",ZEE MARATHI-Rs19
+http://14.192.144.14:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="14.192",ZEE NEWS - 10p
+http://14.192.144.14:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="14.192",ZEE Punjab -10p
+http://14.192.144.14:8000/play/a0ng/index.m3u8
+#EXTINF:-1 group-title="14.192",ZEE Punjabi- Rs. 3
+http://14.192.144.14:8000/play/a0q9/index.m3u8
+#EXTINF:-1 group-title="14.192",ZEE TALKIE-Rs19 
+http://14.192.144.14:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="14.192",ZEE TAMIL HD - Rs 19
+http://14.192.144.14:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="14.192",ZEE TELUGU HD-Rs 19 
+http://14.192.144.14:8000/play/a0hr/index.m3u8
+#EXTINF:-1 group-title="14.192",ZEE TV HD-Rs 19
+http://14.192.144.14:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="14.192",ZEE TV HD-Rs 19 (clone)
+http://14.192.144.14:8000/play/a0sr/index.m3u8
+#EXTINF:-1 group-title="14.192",ZEE TVnew41 
+http://14.192.144.14:8000/play/a0tz/index.m3u8
+#EXTINF:-1 group-title="14.192",Zee Anmol C-10p
+http://14.192.144.14:8000/play/a0pg/index.m3u8
+#EXTINF:-1 group-title="14.192",Zee Odisha @ Rs 0.1
+http://14.192.144.14:8000/play/a0t5/index.m3u8
+#EXTINF:-1 group-title="14.192",Zee Thirai- Rs 5
+http://14.192.144.14:8000/play/a0n9/index.m3u8
+#EXTINF:-1 group-title="14.192",Zee Vajwa
+http://14.192.144.14:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="14.192",Zoom - 50p
+http://14.192.144.14:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="14.192",bindass - Rs 1
+http://14.192.144.14:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="14.192",colors Ban-Rs14
+http://14.192.144.14:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="14.192",colors CINEPLEX-Rs3
+http://14.192.144.14:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="14.192",colors Guja-Rs5
+http://14.192.144.14:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="14.192",colors Kan-Rs19
+http://14.192.144.14:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="14.192",colors Mar-Rs10
+http://14.192.144.14:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="14.192",colors Mar-Rs17
+http://14.192.144.14:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="14.192",colors Sup-Rs 3
+http://14.192.144.14:8000/play/a0nn/index.m3u8
+#EXTINF:-1 group-title="14.192",colors rishtey -Rs 1
+http://14.192.144.14:8000/play/a0oh/index.m3u8
+#EXTINF:-1 group-title="14.192",hungama tv-Rs 6
+http://14.192.144.14:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="14.192",mega 24 - Rs 1
+http://14.192.144.14:8000/play/a0rq/index.m3u8
+#EXTINF:-1 group-title="14.192",nick - Rs 6
+http://14.192.144.14:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="14.192",nick HD+- Rs 10
+http://14.192.144.14:8000/play/a01u/index.m3u8
 
 
 + + + + + http://14.192.144.14:8000/playlist.m3u8 + + + + + PK + + not play 
@@ -10264,6 +10780,181 @@ http://39.62.59.102:8000/play/a0ma/index.m3u8
 #EXTINF:-1 group-title="39.62",Zhwandoon TV
 http://39.62.59.102:8000/play/a0lu/index.m3u8
 
+
++ + + + + http://42.201.169.159:8000/playlist.m3u8 + + + PK  + +
+
+#EXTINF:-1 group-title="42.201",&PRIVE HD-Rs 19
+http://42.201.169.159:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="42.201",&flix HD-Rs19
+http://42.201.169.159:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="42.201",&tv HD - Rs 19
+http://42.201.169.159:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="42.201",13 Ulica HD
+http://42.201.169.159:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="42.201",4Fun Dance
+http://42.201.169.159:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="42.201",4Fun Kids
+http://42.201.169.159:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="42.201",4Fun.TV
+http://42.201.169.159:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="42.201",ANIMAL PLAN-Rs
+http://42.201.169.159:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="42.201",AXN SPIN
+http://42.201.169.159:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="42.201",Amedia Premium HD
+http://42.201.169.159:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="42.201",B4U Music- Free
+http://42.201.169.159:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="42.201",BBC Earth HD
+http://42.201.169.159:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="42.201",BBC FIRST
+http://42.201.169.159:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="42.201",BRIDGE TV Classic
+http://42.201.169.159:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="42.201",BRIDGE TV HITS
+http://42.201.169.159:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="42.201",Boomerang HD
+http://42.201.169.159:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="42.201",Cartoon Network
+http://42.201.169.159:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="42.201",Colors HD-Rs 19
+http://42.201.169.159:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="42.201",DTX
+http://42.201.169.159:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="42.201",Discovery Channel
+http://42.201.169.159:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="42.201",Discovery Science
+http://42.201.169.159:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="42.201",Eska TV Extra
+http://42.201.169.159:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="42.201",EuroSports HD-Rs 6
+http://42.201.169.159:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="42.201",Eurosport 1 HD
+http://42.201.169.159:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="42.201",Extreme Sport
+http://42.201.169.159:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="42.201",Fashion HD
+http://42.201.169.159:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="42.201",Fightbox HD
+http://42.201.169.159:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="42.201",Golf Channel
+http://42.201.169.159:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="42.201",HBO2 HD
+http://42.201.169.159:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="42.201",HBO3 HD
+http://42.201.169.159:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="42.201",HISTORY TV1-Rs7
+http://42.201.169.159:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="42.201",History
+http://42.201.169.159:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="42.201",ID: Investigation Discovery
+http://42.201.169.159:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="42.201",JK 24x7 New-Free
+http://42.201.169.159:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="42.201",M NET 4 MOVIES
+http://42.201.169.159:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="42.201",M NET MOVIES 2
+http://42.201.169.159:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="42.201",MH ONE - Free
+http://42.201.169.159:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="42.201",MTV
+http://42.201.169.159:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="42.201",MTV Hits
+http://42.201.169.159:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="42.201",Mezzo Classic-Jazz TV
+http://42.201.169.159:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="42.201",Nick Jr.
+http://42.201.169.159:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="42.201",Nickelodeon
+http://42.201.169.159:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="42.201",OUTDOR
+http://42.201.169.159:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="42.201",Ocean TV
+http://42.201.169.159:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="42.201",PIX HD -
+http://42.201.169.159:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="42.201",PTC PUNJABI- Free
+http://42.201.169.159:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="42.201",PTC chakde-Free
+http://42.201.169.159:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="42.201",Paramount Channel
+http://42.201.169.159:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="42.201",Paramount Comedy
+http://42.201.169.159:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="42.201",Red Carpet TV
+http://42.201.169.159:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="42.201",SAB HD - Rs 19
+http://42.201.169.159:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="42.201",SET
+http://42.201.169.159:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="42.201",SET HD - Rs 19
+http://42.201.169.159:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="42.201",SKY CRICKET
+http://42.201.169.159:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="42.201",SONY TURBO
+http://42.201.169.159:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="42.201",SUPER SPORTS ACTION
+http://42.201.169.159:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="42.201",SUPER SPORTS CRICKET
+http://42.201.169.159:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="42.201",SciFi HD
+http://42.201.169.159:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="42.201",Sony BBC EarHD-Rs10
+http://42.201.169.159:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="42.201",Sony SciFi
+http://42.201.169.159:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="42.201",Sony Ten 2 HD- Rs 17
+http://42.201.169.159:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="42.201",Spike
+http://42.201.169.159:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="42.201",Star Plus -Rs19
+http://42.201.169.159:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="42.201",Star Sport-Rs10
+http://42.201.169.159:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="42.201",Star Sport-Rs19
+http://42.201.169.159:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="42.201",Sundance HD
+http://42.201.169.159:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="42.201",TELLY TRACK
+http://42.201.169.159:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="42.201",TEST
+http://42.201.169.159:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="42.201",TLC Russia
+http://42.201.169.159:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="42.201",TRAVEL CHANNEL
+http://42.201.169.159:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="42.201",TVP Sport HD
+http://42.201.169.159:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="42.201",UK-PREMIER SPORTS 1
+http://42.201.169.159:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="42.201",VH1 Classic
+http://42.201.169.159:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="42.201",WWE
+http://42.201.169.159:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="42.201",ZEE TV HD-Rs 19
+http://42.201.169.159:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="42.201",bindass - Rs 1
+http://42.201.169.159:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="42.201",colors INFINITY-Rs9
+http://42.201.169.159:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="42.201",nick HD+- Rs 10
+http://42.201.169.159:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="42.201",ptv
+http://42.201.169.159:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="42.201",test-ptv
+http://42.201.169.159:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="42.201",Мир Увлечений
+http://42.201.169.159:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="42.201",СТС Love
+http://42.201.169.159:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="42.201",ТНТ (+4)
+http://42.201.169.159:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="42.201",ТНТ Music
+http://42.201.169.159:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="42.201",ТНТ4
+http://42.201.169.159:8000/play/a02c/index.m3u8
+
+
 + + + + + http://45.182.20.194:8000/playlist.m3u8 + + + + + 
 
 #EXTINF:-1 group-title="45.182",5800 - SONY HD
@@ -10310,6 +11001,152 @@ http://45.182.20.194:8000/play/95KZ3fsmfRhA387z/index.m3u8
 + + + + + http://50.7.75.182:9981/playlist/channels + + + + + login + NOT WORK
 
 + + + + + http://58.27.219.166:8000/playlist.m3u8 + + + not play
+
+#EXTINF:-1 group-title="58.27",&PRIVE HD-Rs 19
+http://58.27.219.166:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="58.27",&flix HD-Rs19
+http://58.27.219.166:8000/play/a06w/index.m3u8
+#EXTINF:-1 group-title="58.27",&flix HD-Rs19
+http://58.27.219.166:8000/play/a0b1/index.m3u8
+#EXTINF:-1 group-title="58.27",&pictures -Rs19
+http://58.27.219.166:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="58.27",&tv HD - Rs 19
+http://58.27.219.166:8000/play/a09c/index.m3u8
+#EXTINF:-1 group-title="58.27",&tv HD - Rs 19 (clone)
+http://58.27.219.166:8000/play/a0db/index.m3u8
+#EXTINF:-1 group-title="58.27",&tv HD - Rs 19_EMM
+http://58.27.219.166:8000/play/a0b6/index.m3u8
+#EXTINF:-1 group-title="58.27",ANIMAL PLAN-Rs3
+http://58.27.219.166:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="58.27",BBC WORLD - Rs 1
+http://58.27.219.166:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="58.27",CARTOON-Rs4.25
+http://58.27.219.166:8000/play/a06e/index.m3u8
+#EXTINF:-1 group-title="58.27",COMEDY CEN-Rs 5
+http://58.27.219.166:8000/play/a066/index.m3u8
+#EXTINF:-1 group-title="58.27",Colors HD-Rs 19
+http://58.27.219.166:8000/play/a06v/index.m3u8
+#EXTINF:-1 group-title="58.27",DISCOVERY K-Rs3
+http://58.27.219.166:8000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="58.27",Discovery H-Rs6
+http://58.27.219.166:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="58.27",Discovery S-Rs1
+http://58.27.219.166:8000/play/a076/index.m3u8
+#EXTINF:-1 group-title="58.27",Discovery T-Rs1
+http://58.27.219.166:8000/play/a077/index.m3u8
+#EXTINF:-1 group-title="58.27",Disney Chan-Rs8
+http://58.27.219.166:8000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="58.27",Disney Jr.-Rs 4
+http://58.27.219.166:8000/play/a06i/index.m3u8
+#EXTINF:-1 group-title="58.27",EUROSPORT - Rs 4
+http://58.27.219.166:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="58.27",HISTORY TV1-Rs7
+http://58.27.219.166:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="58.27",MAX HD -Rs 17
+http://58.27.219.166:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="58.27",MN+ HD-Rs 10
+http://58.27.219.166:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="58.27",MOVIES NO-Rs 10
+http://58.27.219.166:8000/play/a069/index.m3u8
+#EXTINF:-1 group-title="58.27",MTV Beats- 10p
+http://58.27.219.166:8000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="58.27",NAT Geo Wild HD-Rs 5
+http://58.27.219.166:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="58.27",National G-Rs10
+http://58.27.219.166:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="58.27",Nick Jr. - Rs1
+http://58.27.219.166:8000/play/a06m/index.m3u8
+#EXTINF:-1 group-title="58.27",PIX HD - Rs 15
+http://58.27.219.166:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="58.27",Pogo - Rs 4.25
+http://58.27.219.166:8000/play/a06k/index.m3u8
+#EXTINF:-1 group-title="58.27",Romedy NOW-Rs 6
+http://58.27.219.166:8000/play/a06a/index.m3u8
+#EXTINF:-1 group-title="58.27",SAB HD - Rs 19
+http://58.27.219.166:8000/play/a09e/index.m3u8
+#EXTINF:-1 group-title="58.27",SET HD - Rs 19
+http://58.27.219.166:8000/play/a06x/index.m3u8
+#EXTINF:-1 group-title="58.27",SIX HD - Rs 19
+http://58.27.219.166:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="58.27",SONIC- Rs 2
+http://58.27.219.166:8000/play/a06j/index.m3u8
+#EXTINF:-1 group-title="58.27",SONY MAX 2 - Rs 1
+http://58.27.219.166:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="58.27",SONY PAL -Rs 1
+http://58.27.219.166:8000/play/a071/index.m3u8
+#EXTINF:-1 group-title="58.27",STAR BHARA-Rs19
+http://58.27.219.166:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="58.27",STAR MOVI-Rs 19
+http://58.27.219.166:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="58.27",STAR WORLD -Rs9
+http://58.27.219.166:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="58.27",STAR WORLD P-Rs9
+http://58.27.219.166:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="58.27",Sony BBC EarHD-Rs10
+http://58.27.219.166:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="58.27",Sony Ten 1 HD- Rs 19
+http://58.27.219.166:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="58.27",Sony Ten 2 HD- Rs 17
+http://58.27.219.166:8000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="58.27",Sony Ten 3 HD- Rs 17
+http://58.27.219.166:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="58.27",Star GOLD -Rs10
+http://58.27.219.166:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="58.27",Star Gold 2- Rs 1
+http://58.27.219.166:8000/play/a07b/index.m3u8
+#EXTINF:-1 group-title="58.27",Star Gold SelHD-Rs10
+http://58.27.219.166:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="58.27",Star Movi-Rs 10
+http://58.27.219.166:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="58.27",Star Plus -Rs19
+http://58.27.219.166:8000/play/a06t/index.m3u8
+#EXTINF:-1 group-title="58.27",Star Sport 1 HD Hindi- Rs19
+http://58.27.219.166:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="58.27",Star Sport 1 HD-Rs19
+http://58.27.219.166:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="58.27",Star Sport 2 HD- Rs19
+http://58.27.219.166:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="58.27",Star Sport-Rs10
+http://58.27.219.166:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="58.27",Star Sport-Rs19
+http://58.27.219.166:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="58.27",Star Sports 3 Rs 4
+http://58.27.219.166:8000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="58.27",Star Utsav-Rs 1
+http://58.27.219.166:8000/play/a070/index.m3u8
+#EXTINF:-1 group-title="58.27",TLC HD- Rs3
+http://58.27.219.166:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="58.27",UTV ACTION-Rs 2
+http://58.27.219.166:8000/play/a07a/index.m3u8
+#EXTINF:-1 group-title="58.27",UTV MOVIES-Rs 2
+http://58.27.219.166:8000/play/a079/index.m3u8
+#EXTINF:-1 group-title="58.27",ZEE ANMOL-Rs 10p
+http://58.27.219.166:8000/play/a072/index.m3u8
+#EXTINF:-1 group-title="58.27",ZEE BOLLYWO-Rs2
+http://58.27.219.166:8000/play/a0b5/index.m3u8
+#EXTINF:-1 group-title="58.27",ZEE CINEMA-Rs19
+http://58.27.219.166:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="58.27",ZEE CINEMA-Rs19 (clone)
+http://58.27.219.166:8000/play/a0d5/index.m3u8
+#EXTINF:-1 group-title="58.27",ZEE Cafe H-Rs19
+http://58.27.219.166:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="58.27",ZEE TV HD-Rs 19
+http://58.27.219.166:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="58.27",ZEE TV HD-Rs 19 (clone) (clone)
+http://58.27.219.166:8000/play/a0d7/index.m3u8
+#EXTINF:-1 group-title="58.27",Zoom - 50p
+http://58.27.219.166:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="58.27",colors INFIN-Rs9
+http://58.27.219.166:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="58.27",colors rishtey -Rs 1
+http://58.27.219.166:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="58.27",hungama tv-Rs 6
+http://58.27.219.166:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="58.27",nick - Rs 6
+http://58.27.219.166:8000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="58.27",nick HD+- Rs 10
+http://58.27.219.166:8000/play/a04z/index.m3u8
+
 
 + + + + + http://62.249.165.216:9981/extjs.html + + + + + kas:lkab91gtt (91gtt) / tvh:tvh / bruker:bruker / Fjellet:Fjellet / user:user / + + + + + OFFLINE 
 
@@ -22761,10 +23598,7 @@ http://tv.jovialservices.me:826/get.php?username=Holden&password=K6ZIs9C9en&type
 http://tvplaymundo.com:80/get.php?username=test0&password=test0&type=m3u
 Real Url: tvplaymundo.com:80     Status: Active    Created: 29/6/2020 5:24:13 AM     Expires: Null    Active Connections: 3     Maximum Connections: 3     Formats: "m3u8","ts"
 
-http://xxxxlocal.com:8080/get.php?username=ResTreameR2021&password=j78gWLZzY4EpmyHF&type=m3u Real Url: xxxxlocal.com:8080     Status: Active    Created: 5/12/2019 3:03:16 PM     Expires: Null    Active Connections: 159     Maximum Connections: 500     Formats: "m3u8","ts","rtmp"
 
-http://xxxxlocal.com:8080/get.php?username=xiptv0985&password=ptXv7hZ0xy&type=m3u
-Real Url: xxxxlocal.com:8080     Status: Active    Created: 21/9/2020 10:03:43 PM     Expires: Null    Active Connections: 101     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
 
 https://aloka-iptv.xyz:443/get.php?username=APP&password=ALOKA-TV&type=m3u Real Url: aloka-iptv.xyz:80     Status: Active    Created: 10/7/2021 2:03:12 PM     Expires: 10/7/2024 4:02:00 PM    Active Connections: 0     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
 
@@ -27282,6 +28116,14 @@ Real Url: xtrastv.club:8080     Status: Active    Created: 4/2/2020 6:52:18 PM  
 
 http://xxxxlocal.com:8080/get.php?username=Restreamer2340&password=L3N4JpTn2w&type=m3u
 Real Url: xxxxlocal.com:8080     Status: Active    Created: 5/12/2019 3:03:16 PM     Expires: Null    Active Connections: 312     Maximum Connections: 500     Formats: "m3u8","ts","rtmp" < to check
+http://xxxxlocal.com:8080/get.php?username=xiptv0985&password=ptXv7hZ0xy&type=m3u
+Real Url: xxxxlocal.com:8080     Status: Active    Created: 21/9/2020 10:03:43 PM     Expires: Null    Active Connections: 101     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
+
+http://xxxxlocal.com:8080/get.php?username=ResTreameR2021&password=j78gWLZzY4EpmyHF&type=m3u Real Url: xxxxlocal.com:8080     Status: Active    Created: 5/12/2019 3:03:16 PM     Expires: Null    Active Connections: 159     Maximum Connections: 500     Formats: "m3u8","ts","rtmp"
+
+http://xxxxlocal.com:8080/get.php?username=xiptv0985&password=ptXv7hZ0xy&type=m3u
+Real Url: xxxxlocal.com:8080     Status: Active    Created: 21/9/2020 10:03:43 PM     Expires: Null    Active Connections: 101     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
+
 
 + + + + + ytv.plus:25461-null + + + + +
 
