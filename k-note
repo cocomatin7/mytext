@@ -22628,7 +22628,13 @@ http://51.158.144.144:25461/get.php?username=MetiTV-telegrm&password=Falas-@Meti
 
 http://62.182.80.153/get.php?username=Livetv&password=master&type=m3u Real Url: 62.182.80.153:80     Status: Active    Created: 7/11/2020 2:59:04 AM     Expires: Null    Active Connections: 204     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
 
+
+
+
 http://albauser.net:2235/get.php?username=antree-iptv&password=exchange&type=m3u Real Url: albauser.net:2235     Status: Active    Created: 28/6/2020 11:26:53 AM     Expires: Null    Active Connections: 113     Maximum Connections: 300     Formats: "m3u8","ts","rtmp"
+
+http://www.adiltvcdn.xyz:8080/get.php?username=K1iQxeQHq&password=oD9Oh286VP&type=m3u
+Real Url: www.adiltvcdn.xyz:8080     Status: Active    Created: 28/7/2021 2:13:21 PM     Expires: Null    Active Connections: 6     Maximum Connections: 500     Formats: "ts"
 
 http://client.ksporttv.com:88/get.php?username=bajrami12&password=8SgZlCQLH9&type=m3u Real Url: client.ksporttv.com:88     Status: Active    Created: Null     Expires: 28/2/2022 1:00:00 AM    Active Connections: 2     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
@@ -22675,6 +22681,8 @@ http://officialtv.hopto.me:8000/get.php?username=3332010&password=3332010&type=m
 
 http://oqab.life:8080/get.php?username=58585858&password=58585858&type=m3u Real Url: oqab.life:8080     Status: Active    Created: 23/11/2020 5:31:13 AM     Expires: 24/11/2021 3:07:46 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp" < INDIA CH
 
+http://qqtv.nl:8080/get.php?username=28734&password=28734&type=m3u < 2-1
+
 http://rv.bleutv.net:80/get.php?username=307206155225&password=307206155225&type=m3u Real Url: rv.bleutv.net:80     Status: Active    Created: Null     Expires: 23/9/2021 1:45:55 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
 
@@ -22705,6 +22713,9 @@ http://tigeriptv.vip:8080/get.php?username=6395&password=6395&type=m3u Real Url:
 http://top.funtogether.xyz:8080/get.php?username=tomasiptv2021&password=hgHgyhg12hsgZX&type=m3u Real Url: top.funtogether.xyz:8080     Status: Active    Created: 6/5/2020 9:39:37 AM     Expires: Null    Active Connections: 646     Maximum Connections: 1000     Formats: "ts"
 
 http://tv.jovialservices.me:826/get.php?username=Holden&password=K6ZIs9C9en&type=m3u Real Url: primestreams.tv:826     Status: Active    Created: 22/8/2019 3:44:04 PM     Expires: 22/2/2022 4:44:04 PM    Active Connections: 0     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
+
+http://tvplaymundo.com:80/get.php?username=test0&password=test0&type=m3u
+Real Url: tvplaymundo.com:80     Status: Active    Created: 29/6/2020 5:24:13 AM     Expires: Null    Active Connections: 3     Maximum Connections: 3     Formats: "m3u8","ts"
 
 http://xxxxlocal.com:8080/get.php?username=ResTreameR2021&password=j78gWLZzY4EpmyHF&type=m3u Real Url: xxxxlocal.com:8080     Status: Active    Created: 5/12/2019 3:03:16 PM     Expires: Null    Active Connections: 159     Maximum Connections: 500     Formats: "m3u8","ts","rtmp"
 
@@ -22885,6 +22896,206 @@ http://cloudcdn.tk:8080/get.php?username=Ps1gfW661&password=fTeMeM99&type=m3u
 Real Url: 85.203.33.88:80 Expires: 29/10/2021 6:41:31 PM    Active Connections: 0     Maximum Connections: 1
 http://cloudcdn.tk:8080/get.php?username=wZkgtvQF6G0800&password=aqE7hM928&type=m3u
 
+http://85.203.33.88:80/get.php?username=Sh85j1f69&password=ssnYzA43&type=m3u
+Real Url: mag.betaiptv.iptv.uno:80     Status: Active    Created: 27/4/2018 11:57:02 AM     Expires: 19/6/2022 11:57:01 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
+
+#EXTINF:-1 group-title="85.203",beIN SPORTS 1 4K QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/24697.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 1 FHD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/22157.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 1 HD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14980.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 1 SD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14981.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 2 4K QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/24696.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 2 FHD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/22158.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 2 HD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14982.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 2 SD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14983.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 3 4K QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/24695.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 3 FHD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/22159.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 3 HD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14984.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 3 SD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14985.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 4 4K QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/24694.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 4 FHD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/22160.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 4 HD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14986.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 4 SD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14987.m3u8
+#EXTINF:-1 group-title="85.203",bein SPORTS 5 4K QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/24693.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 5 FHD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/22161.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 5 HD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14988.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 5 SD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14989.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 6 4K QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/24692.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 6 FHD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/22162.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 6 HD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14990.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 6 SD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14991.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 7 FHD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/22163.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 7 HD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14992.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 7 SD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14993.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 1 English HD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/15000.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 2 English HD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/15001.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 3 English HD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/21517.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS Premium 1 FHD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/75533.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS Premium 2 FHD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/75534.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS Premium 3 FHD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/75535.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 1 HD FR
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14977.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 1 FR
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/5522.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 2 FHD FR
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14978.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 2 HD FR
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/15637.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 3 FHD FR
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/4477.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS 3 HD FR
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14979.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS GLOBAL FHD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/21927.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS GLOBAL HD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/21926.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS MAX 1 FHD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/22164.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS MAX 2 FHD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/22167.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS MAX 3 FHD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/27394.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS MAX 4 FHD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/27395.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS MAX 5 FHD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/81407.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS MAX 6 FHD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/81408.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS MAX 2 HD TR
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/29048.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS MAX MY
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/27937.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS HD MY
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/27938.m3u8
+#EXTINF:-1 group-title="85.203",beIN SPORTS HD QA
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/29604.m3u8
+#EXTINF:-1 group-title="85.203",beIN LaLiga HD US
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/32747.m3u8
+
+#EXTINF:-1 group-title="85.203",MTV HD UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20031.m3u8
+#EXTINF:-1 group-title="85.203",MTV Base UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/7319.m3u8
+#EXTINF:-1 group-title="85.203",MTV Classic UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/7320.m3u8
+#EXTINF:-1 group-title="85.203",Club MTV UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/7318.m3u8
+#EXTINF:-1 group-title="85.203",MTV Hits UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/7317.m3u8
+#EXTINF:-1 group-title="85.203",MTV Live FHD UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/13090.m3u8
+#EXTINF:-1 group-title="85.203",MTV Music UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/7316.m3u8
+#EXTINF:-1 group-title="85.203",MTV 90s UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/7315.m3u8
+#EXTINF:-1 group-title="85.203",MTV 80s UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/17388.m3u8
+#EXTINF:-1 group-title="85.203",MTV UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/2670.m3u8
+#EXTINF:-1 group-title="85.203",MTV Classic HD US
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/27468.m3u8
+
+#EXTINF:-1 group-title="85.203",Sky Cinema Action & Adventure HD UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/1961.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Action & Adventure UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/3559.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Comedy FHD UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20109.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Comedy HD UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14924.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Comedy UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/3563.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Crime & Thriller FHD UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20118.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Crime & Thriller HD UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14936.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Crime & Thriller UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/1955.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Drama & Romance UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/1960.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Drama & Romance FHD UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20111.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Family HD UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/3926.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Family FHD UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20112.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Greats UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/1959.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Greats FHD UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20113.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Hits UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/16503.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Hits FHD UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20114.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Premiere HD UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/1958.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Premiere FHD UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20115.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Sci-Fi & Horror UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/1957.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Sci-Fi & Horror FHD UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20116.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Select HD UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14765.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Select FHD UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20117.m3u8
+#EXTINF:-1 group-title="85.203",Sky Cinema Animation FHD UK
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/72660.m3u8
+
+#EXTINF:-1 group-title="85.203",NBCSN HD US
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/9008.m3u8
+#EXTINF:-1 group-title="85.203",True Premier Football HD 1 TH
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/16956.m3u8
+#EXTINF:-1 group-title="85.203",True Premier Football HD 2 TH
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/16957.m3u8
+#EXTINF:-1 group-title="85.203",True Premier Football HD 3 TH
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/16958.m3u8
+#EXTINF:-1 group-title="85.203",True Premier Football HD 4 TH
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/16959.m3u8
+#EXTINF:-1 group-title="85.203",True Premier Football HD 5 TH
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/27936.m3u8
+#EXTINF:-1 group-title="85.203",EPL 1
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/19032.m3u8
+#EXTINF:-1 group-title="85.203",EPL 2
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/19033.m3u8
+#EXTINF:-1 group-title="85.203",EPL 3
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/19034.m3u8
+#EXTINF:-1 group-title="85.203",EPL 4
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/19035.m3u8
+#EXTINF:-1 group-title="85.203",EPL 5
+http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/19036.m3u8
 
 + + + + + 103.22.183.58:8888 [TH] + + + + +
 
