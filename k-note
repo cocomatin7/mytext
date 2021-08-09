@@ -3202,6 +3202,15 @@ http://203.154.243.88:11088/hi/foxsports2
 #EXTINF:-1 group-title="BamarTV",foxsports3
 http://203.154.243.88:11088/hi/foxsports3
 
+#EXTINF:-1 group-title="BamarTV",CH 150
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/150.m3u8
+#EXTINF:-1 group-title="BamarTV",CH 152
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/152.m3u8
+#EXTINF:-1 group-title="BamarTV",MOVIE 158
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+#EXTINF:-1 group-title="BamarTV",MOVIE 159
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/159.m3u8
+
 #EXTINF:-1 group-title="BamarTV",Canal+
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_==gUGByc1xGUgwWYuF2Q
 #EXTINF:-1,Cine+ Emotion
@@ -25649,6 +25658,9 @@ Real Url: iptvtree.net:8080     Status: Active    Created: 6/11/2020 5:43:43 PM 
 
 http://iptvtree.net:8080/get.php?username=aumaleiptv&password=d051xyzaef399hp56&type=m3u
 Real Url: iptvtree.net:8080     Status: Active    Created: 29/5/2021 2:29:15 PM     Expires: Null    Active Connections: 74     Maximum Connections: 100     Formats: "m3u8","ts","rtmp" << 
+
+http://iptvstream.xyz:8080/get.php?username=Mcnsi&password=7210db0d&type=m3u
+Real Url: iptvtree.net:8080     Status: Active    Created: 29/1/2021 2:11:03 AM     Expires: 29/1/2022 2:11:03 AM    Active Connections: 2     Maximum Connections: 2     Formats: "m3u8","ts","rtmp" << to check 
 
 
 
