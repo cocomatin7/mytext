@@ -24407,6 +24407,120 @@ http://box.slweb.tv:8880/streaming/clients_live.php?extension=ts&username=Kt2021
 http://boxhdtv.live:8080/get.php?username=tvboxhdtv21&password=6776477fdgg&type=m3u
 Real Url: boxhdtv.live:8080     Status: Active    Created: 12/4/2021 11:15:18 PM     Expires: Null    Active Connections: 19     Maximum Connections: 1000
 
++ + + + + bulltv.us:2999 + + + + +
+
+http://bulltv.us:2999/get.php?username=eventppv&password=ppvnew&type=m3u
+Real Url: bulltv.us:2999     Status: Active    Created: 16/6/2021 8:33:33 AM     Expires: Null    Active Connections: 0     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
+
+#EXTINF:-1 group-title="bulltv",TUDN EXTRA 1
+http://bulltv.us:2999/live/eventppv/ppvnew/282.m3u8
+#EXTINF:-1,TUDN EXTRA 2
+http://bulltv.us:2999/live/eventppv/ppvnew/283.m3u8
+#EXTINF:-1,TUDN EXTRA 3
+http://bulltv.us:2999/live/eventppv/ppvnew/284.m3u8
+#EXTINF:-1,TUDN EXTRA 4
+http://bulltv.us:2999/live/eventppv/ppvnew/285.m3u8
+#EXTINF:-1,TUDN EXTRA 5
+http://bulltv.us:2999/live/eventppv/ppvnew/286.m3u8
+#EXTINF:-1,TUDN EXTRA 6
+http://bulltv.us:2999/live/eventppv/ppvnew/287.m3u8
+#EXTINF:-1,TUDN EXTRA 7
+http://bulltv.us:2999/live/eventppv/ppvnew/288.m3u8
+#EXTINF:-1,TUDN EXTRA 8
+http://bulltv.us:2999/live/eventppv/ppvnew/289.m3u8
+#EXTINF:-1,TUDN EXTRA 9
+http://bulltv.us:2999/live/eventppv/ppvnew/290.m3u8
+#EXTINF:-1,TUDN EXTRA 11
+http://bulltv.us:2999/live/eventppv/ppvnew/292.m3u8
+
+#EXTINF:-1,Event 1
+http://bulltv.us:2999/live/eventppv/ppvnew/11061.m3u8
+#EXTINF:-1,Event 2
+http://bulltv.us:2999/live/eventppv/ppvnew/11062.m3u8
+#EXTINF:-1,Event 3
+http://bulltv.us:2999/live/eventppv/ppvnew/11063.m3u8
+#EXTINF:-1,Event 4
+http://bulltv.us:2999/live/eventppv/ppvnew/11064.m3u8
+#EXTINF:-1,Event 5
+http://bulltv.us:2999/live/eventppv/ppvnew/11065.m3u8
+#EXTINF:-1,Event 6:
+http://bulltv.us:2999/live/eventppv/ppvnew/16761.m3u8
+#EXTINF:-1,Event 7:
+http://bulltv.us:2999/live/eventppv/ppvnew/16762.m3u8
+
+#EXTINF:-1,LMP 1
+http://bulltv.us:2999/live/eventppv/ppvnew/16748.m3u8
+#EXTINF:-1,LMP 2
+http://bulltv.us:2999/live/eventppv/ppvnew/16749.m3u8
+#EXTINF:-1,LMP3
+http://bulltv.us:2999/live/eventppv/ppvnew/16750.m3u8
+#EXTINF:-1,LMP 4
+http://bulltv.us:2999/live/eventppv/ppvnew/16751.m3u8
+#EXTINF:-1,LMP 5
+http://bulltv.us:2999/live/eventppv/ppvnew/16752.m3u8
+
+#EXTINF:-1,11:00 Horse Racing : TVG Trackside Live ! 
+http://bulltv.us:2999/live/eventppv/ppvnew/16771.m3u8
+#EXTINF:-1,12:00 Horse Racing : Saratoga Live 
+http://bulltv.us:2999/live/eventppv/ppvnew/16772.m3u8
+
+#EXTINF:-1,13:00 Bundesliga : Borussia M'Gladbach vs FC Bayern
+http://bulltv.us:2999/live/eventppv/ppvnew/16774.m3u8
+#EXTINF:-1,13:30 Rugby Super League : Wigan Warriors vs Hull Kingston Rovers
+http://bulltv.us:2999/live/eventppv/ppvnew/16775.m3u8
+
+#EXTINF:-1,UNIVERSO
+http://bulltv.us:2999/live/eventppv/ppvnew/16777.m3u8
+#EXTINF:-1,NBCSN
+http://bulltv.us:2999/live/eventppv/ppvnew/16779.m3u8
+http://xlx723.dyndns.org/iproxy/miniProxy.php/http://bulltv.us:2999/live/eventppv/ppvnew/16779.m3u8
+
+#EXTINF:-1,14:00 Ligue 1 : Lorient vs Monaco
+http://bulltv.us:2999/live/eventppv/ppvnew/16781.m3u8
+#EXTINF:-1,14:00 Ligue 1 : Lorient vs Monaco ENG
+http://bulltv.us:2999/live/eventppv/ppvnew/16782.m3u8
+#EXTINF:-1,14:00 Ligue 1 : Lorient vs Monaco OP2
+http://bulltv.us:2999/live/eventppv/ppvnew/16783.m3u8
+
+#EXTINF:-1,14:15 Primeira Liga : Estoril Praia vs Vitoria SC
+http://bulltv.us:2999/live/eventppv/ppvnew/16784.m3u8
+#EXTINF:-1,16:00 Little League Basseball : Great Lakes Regional, Second Semifinal: Ohio vs TBA
+http://bulltv.us:2999/live/eventppv/ppvnew/16787.m3u8
+#EXTINF:-1,16:30 NASCAR Xfinity Series : Race at indianapolis RC, Practice
+http://bulltv.us:2999/live/eventppv/ppvnew/16789.m3u8
+#EXTINF:-1,17:00 Super Liga Argentina : Colon vs Gimnasia LP
+http://bulltv.us:2999/live/eventppv/ppvnew/16791.m3u8
+#EXTINF:-1,17:00 LIGA MX F. : Queretaro F. vs Leon F.
+http://bulltv.us:2999/live/eventppv/ppvnew/16793.m3u8
+#EXTINF:-1,17:00 Liga Ex. MX : Raya 2 vs Tapotio
+http://bulltv.us:2999/live/eventppv/ppvnew/16794.m3u8
+#EXTINF:-1,19:00 LIGA MX : Puebla vs Tigres UANL
+http://bulltv.us:2999/live/eventppv/ppvnew/16795.m3u8
+#EXTINF:-1,19:00 LIGA MX : Puebla vs Tigres UANL OP2
+http://bulltv.us:2999/live/eventppv/ppvnew/16797.m3u8
+#EXTINF:-1,19:00 Liga Pro Ecuatoriana : Tecnico Universitario vs U. Catolica
+http://bulltv.us:2999/live/eventppv/ppvnew/16799.m3u8
+#EXTINF:-1,19:00 BOXING : Federico Pedraza vs Jose Garcia; Yamil Peralta
+http://bulltv.us:2999/live/eventppv/ppvnew/16800.m3u8
+#EXTINF:-1,19:00 WWE Wrestling : Friday Night SmackDown
+http://bulltv.us:2999/live/eventppv/ppvnew/16803.m3u8
+#EXTINF:-1,19:15 Super Liga Argentina : Huracan vs Union Santa Fe
+http://bulltv.us:2999/live/eventppv/ppvnew/16804.m3u8
+#EXTINF:-1,19:40 Liga Colombiana : Deportes Tolima vs Deportivo Pasto
+http://bulltv.us:2999/live/eventppv/ppvnew/16805.m3u8
+#EXTINF:-1,20:00 Liga MX F. : Mazatlan FC vs Monterrey
+http://bulltv.us:2999/live/eventppv/ppvnew/16806.m3u8
+#EXTINF:-1,20:00 MMA Playoffs : Lightweinghts & Featherweinghts
+http://bulltv.us:2999/live/eventppv/ppvnew/16808.m3u8
+#EXTINF:-1,20:00 MMA , Bellator 264 : Mousasi vs Salter
+http://bulltv.us:2999/live/eventppv/ppvnew/16810.m3u8
+#EXTINF:-1,21:00 LIGA MX : Juarez vs Tijuana 
+http://bulltv.us:2999/live/eventppv/ppvnew/16811.m3u8
+#EXTINF:-1,21:00 LIGA MX : Juarez vs Tijuana OP2
+http://bulltv.us:2999/live/eventppv/ppvnew/16812.m3u8
+#EXTINF:-1 group-title="bulltv",21:00 LIGA MX : Juarez vs Tijuana OP3
+http://bulltv.us:2999/live/eventppv/ppvnew/16813.m3u8
+
 
 + + + + + client.vpnuser.ws:8080 [TH] + + + + +
 + + + + + clientbox.tv:80 [SEA] + + + + +
