@@ -92,16 +92,12 @@ http://titanmedia.one:2082/get.php?username=UDASHBOARD&password=NAoSDAdVcP&type=
 Real Url: titanmedia.one:2082     Status: Active    Created: 1/10/2020 7:25:01 PM     Expires: Null    Active Connections: 99     Maximum Connections: 100     Formats: "m3u8","ts","rtmp"
 
 
-
-
 http://103.205.133.21/hls/andpicture.m3u8
 
 
 https://catchup.yuppcdn.net/amazonv2/20/preview/colorsau/master/master.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/suntvhd/master/master.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
-
-
 
 
 http://207.244.229.66:25461/Mixtvrv/Mix/1
@@ -930,6 +926,7 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 #EXTINF:-1 group-title="Sport/Bamar",Bein Sport 3 Fr
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgMDI0J3bwNlbpVmQ
 
+
 #EXTINF:-1 group-title="Sport/Bamar",TNT SPORTS
 https://akamai2-br.cdn.booyah.live/hls/1000048/71112076.m3u8
 
@@ -949,6 +946,20 @@ http://5.101.174.206:9981/stream/channelid/472925085?ticket=567B86D437B5F4C72A9B
 http://5.101.174.206:9981/stream/channelid/627515210?ticket=2FCFA7B9B74429E407CCFE1BFF28BA8F809488F7&profile=webtv-h264-aac-matroska
  tvg-id="69a165b0060fa516887ff77b5b1d2fa7",BS8
 http://5.101.174.206:9981/stream/channelid/811966825?ticket=4B2F3677ED6FC808E57FF64461C9DA2EAFE2CE4D&profile=webtv-h264-aac-matroska
+
+
+#EXTINF:-1 group-title="Sport/Bamar",LFC TV
+http://77.83.117.60:8888/02_lfctv_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",MU TV
+http://77.83.117.60:8888/02_MUTV_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",ChelseaTV
+http://77.83.117.60:8888/02_ChelseaTV_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",WWE
+http://77.83.117.60:8888/02_WWE_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",Eurosport1
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sport/Bamar",Eurosport2
+http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sport/Bamar",StarSportsSelect1FHD |87
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist.m3u8
