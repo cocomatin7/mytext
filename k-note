@@ -24479,7 +24479,7 @@ http://bulltv.us:2999/live/eventppv/ppvnew/16775.m3u8
 http://bulltv.us:2999/live/eventppv/ppvnew/16777.m3u8
 #EXTINF:-1,NBCSN
 http://bulltv.us:2999/live/eventppv/ppvnew/16779.m3u8
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://bulltv.us:2999/live/eventppv/ppvnew/16779.m3u8
+http://bulltv.us:2999/streaming/clients_live.php?extension=m3u8&username=eventppv&password=ppvnew&stream=16777&type=hls
 
 #EXTINF:-1,14:00 Ligue 1 : Lorient vs Monaco
 http://bulltv.us:2999/live/eventppv/ppvnew/16781.m3u8
