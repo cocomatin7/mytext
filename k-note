@@ -22737,13 +22737,24 @@ https://jio.instream.ml/jio.php?c=Colors_Cineplex_HD&q=800&e=.m3u8
 #EXTINF:-1 group-title="misc/IN",Colors Infinity
 https://jio.instream.ml/jio.php?c=Colors_Infinity_HD&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=Living_Foodz&q=800&e=.m3u8
-#EXTINF:-1 group-title="misc/IN",Sony_SAB
+#EXTINF:-1 group-title="misc/IN",Sony MAX2
+https://jio.instream.ml/jio.php?c=Sony_MAX2&q=600&e=.m3u8
+#EXTINF:-1 group-title="misc/IN",Sony SAB
 https://jio.instream.ml/jio.php?c=Sony_SAB_HD&q=800&e=.m3u8
 #EXTINF:-1 group-title="misc/IN",Zee Classic
 https://jio.instream.ml/jio.php?c=Zee_Classic&q=600&e=.m3u8
 #EXTINF:-1 group-title="misc/IN",Zee Cinema
 https://jio.instream.ml/jio.php?c=Zee_Cinema&q=600&e=.m3u8
 
+
+
+
++ + + + + https://tvstream.space + + + + +
+
+https://tvstream.space/jtv/jtvjiotv.php?c=ABZY_Movies&q=1200&e=.m3u8
+https://tvstream.space/jtv/jtvjiotv.php?c=Box_Cinema&q=1200&e=.m3u8
+https://tvstream.space/jtv/jtvjiotv.php?c=Sony_MAX2&q=1200&e=.m3u8
+https://tvstream.space/jtv/lovE.php?c=Rishtey_Cineplex&q=1200&e=.m3u8
 
 -/-/-/-/-
 
@@ -23269,12 +23280,7 @@ https://z5ams.akamaized.net/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8?h
 https://z5ams.akamaized.net/out/v1/8cb6a17f49784fda88939f24b083af45/index.m3u8?hdnts=st=1626787160~exp=1626790160~acl=/*~hmac=23f3b235934145020ed57070fdfc0aa029ba48a52989428b6cb8fd5c01dc13bb
 https://z5ams.akamaized.net/out/v1/1d59d08fec89495584d2b7e4059492a4/index.m3u8?hdnts=st=1626787160~exp=1626790160~acl=/*~hmac=23f3b235934145020ed57070fdfc0aa029ba48a52989428b6cb8fd5c01dc13bb
 
-+ + + + + https://tvstream.space + + + + +
 
-https://tvstream.space/jtv/jtvjiotv.php?c=ABZY_Movies&q=1200&e=.m3u8
-https://tvstream.space/jtv/jtvjiotv.php?c=Box_Cinema&q=1200&e=.m3u8
-https://tvstream.space/jtv/jtvjiotv.php?c=Sony_MAX2&q=1200&e=.m3u8
-https://tvstream.space/jtv/lovE.php?c=Rishtey_Cineplex&q=1200&e=.m3u8
 
 + + + + + https://y5w8j4a9.ssl.hwcdn.net + + + + +
 
