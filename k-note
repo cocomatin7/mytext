@@ -2,7 +2,7 @@
 x-tvg-url="https://rebrand.ly/k-epg"
 x-tvg-url="https://guidexl.tv4.live/"
 
-
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
 http://14.199.164.20:4001/playlist.m3u8 < IN
 http://45.70.237.121:8000/playlist.m3u8 < Ecuador
@@ -906,6 +906,8 @@ http://ebqt.blogspot.com/p/a7.html
 Stream8
 http://ebqt.blogspot.com/p/a8.html
 
+https://sport.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 
 
 https://www.casptv.xyz/online/espn.php
@@ -5764,6 +5766,7 @@ http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1 group-title="50.7/TH",Astro SuperSport 2 |50.7
 http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+#EXTINF:-1 group-title="50.7/TH",Astro SuperSport 2 |50.7'
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 group-title="50.7/TH",Astro SuperSport 3 |50.7
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
