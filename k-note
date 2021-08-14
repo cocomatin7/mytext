@@ -1123,6 +1123,8 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.
 
 #EXTINF:-1 group-title="Sport/Bamar",NETSPORT HD' |sld
 https://smart-tv.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+https://eiei.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sport/Bamar",NETSPORT 1' |sld
 https://smart-tv.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Sport/Bamar",NETSPORT 2' |sld
@@ -8229,13 +8231,46 @@ https://lnwlomtoe.atvlb.com/lnwlomtoe/ch68/playlist.m3u8
 
 #EXTINF:-1 group-title="mediasv",true EPL 1
 https://mediasv.online/tvchannel_x1/truepl1Fallback/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgMTE6MjE6NTcgQU0maGFzaF92YWx1ZT00NnhVTFRSSU9xZFFlczY3V2ZCT2F3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTI4JmlkPWNoXzM1MDQz
+#EXTINF:-1 group-title="mediasv",true EPL 1'
+https://bit.ly/3AlPpFg
+https://mediasv.online/tvchannel_x1/truepl1Fallback/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIxIDM6MDQ6MTMgUE0maGFzaF92YWx1ZT12QzNOOWdENEVSVVZlTW81cThIYUlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzIwNjMw
 https://mediasv.online/live/trueepl1/playlist.m3u8
 
 #EXTINF:-1 group-title="mediasv",true EPL 2
 https://mediasv.online/tvchannel_x1/trueepl2/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgMTE6MjA6MDIgQU0maGFzaF92YWx1ZT16bndhczZDbTFBTlRQeEZkbVNXNGZnPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIxJmlkPWNoXzM0MTU3
 https://mediasv.online/live/trueepl2/playlist.m3u8
-,true EPL 3
+#EXTINF:-1 group-title="mediasv",true EPL 2'
+https://bit.ly/3lNOs4z
+https://mediasv.online/tvchannel_x1/trueepl2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIxIDM6MDc6NTQgUE0maGFzaF92YWx1ZT0zUVBWcU9VbGp5UDdTWGJmeVB6NUFnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIxJmlkPWNoXzY0MjMz
+
+#EXTINF:-1 group-title="mediasv",true EPL 3
+https://eiei.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 https://mediasv.online/live/trueepl3/playlist.m3u8
+#EXTINF:-1 group-title="mediasv",true EPL 4
+https://eiei.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="mediasv",true EPL 5
+https://eiei.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="mediasv",beIN EPL 1
+https://eiei.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="mediasv",beIN EPL 2
+https://eiei.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="mediasv",beIN SPORT 1
+https://bit.ly/3jHJXWA
+#EXTINF:-1 group-title="mediasv",beIN SPORT 2
+https://bit.ly/3lThD6b
+#EXTINF:-1 group-title="mediasv",beIN SPORT EXTRA
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+
+#EXTINF:-1 group-title="mediasv",FOX SPORT 1
+https://bit.ly/3ikd9mZ
+https://mediasv.online/tvchannel_x1/foxsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgODo0MTozOSBQTSZoYXNoX3ZhbHVlPVdNQ3cvOHVyOFU1cVFyYW0wVUsydHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjImaWQ9Y2hfNTkwOTY=
+#EXTINF:-1 group-title="mediasv",FOX SPORT 2
+https://bit.ly/37fxQdn
+https://mediasv.online/tvchannel_x1/foxsport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgODo0MzozMSBQTSZoYXNoX3ZhbHVlPWZvZndITTVreHFKbVFVQktuMjhUY0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjImaWQ9Y2hfNjMzMzg=
+#EXTINF:-1 group-title="mediasv",FOX SPORT 3
+https://bit.ly/2VtUbkH
+https://mediasv.online/tvchannel_x1/foxsport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgODo0NDo1NSBQTSZoYXNoX3ZhbHVlPU1uOEZiYWw2S0pnVkN1QmV5QmFoT2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjImaWQ9Y2hfNjE1Njg=
 
 #EXTINF:-1 group-title="mediasv",afc
 https://mediasv.online/tvchannel_x2/hd-afc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6Mjc6NTIgQU0maGFzaF92YWx1ZT0vUHhkdUFCNDY4Tkd3bVlVYWY4QXV3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE5JmlkPWNoXzUyNzE3
@@ -25862,7 +25897,7 @@ Real Url: latinchannel.tv:8080     Status: Banned    Created: 28/2/2021 3:06:05 
 + + + + + link.zozotv.xyz:8080 + + + + +
 
 https://link.zozotv.xyz/get.php?username=Freemium1&password=unlimited99&type=m3u
-Real Url: link.zozotv.xyz:8080     Status: Active    Created: 7/7/2021 9:57:20 AM     Expires: Null    Active Connections: 96     Maximum Connections: 200     Formats: "ts"
+Real Url: link.zozotv.xyz:8080     Status: Active    Created: 7/7/2021 9:57:20 AM     Expires: Null    Active Connections: 96     Maximum Connections: 200     Formats: "ts" < DOWN
 
 + + + + + local-iptv.myddns.me:8000 + + + + + null / 0-913 + + + + +
 
