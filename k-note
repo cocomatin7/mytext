@@ -17,10 +17,6 @@ http://194.76.186.32:8030/playlist.m3u8 < few Viasat
 http://200.107.234.74:8000/playlist.m3u8 < few US CH << 
 
 
-
-
-
-
 http://smart.hotfeb.xyz/get.php?username=h21041003&password=651032140&type=m3u
 Real Url: nicefly.xyz:80     Status: Active    Created: 10/4/2021 9:06:47 AM     Expires: 10/4/2022 9:06:47 AM    Active Connections: 1     Maximum Connections: 3     Formats: "m3u8","ts","rtmp"
 
@@ -22747,8 +22743,6 @@ https://jio.instream.ml/jio.php?c=Zee_Classic&q=600&e=.m3u8
 https://jio.instream.ml/jio.php?c=Zee_Cinema&q=600&e=.m3u8
 
 
-
-
 + + + + + https://tvstream.space + + + + +
 
 https://tvstream.space/jtv/jtvjiotv.php?c=ABZY_Movies&q=1200&e=.m3u8
@@ -25674,8 +25668,11 @@ http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=pe
 http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang210&password=penang210&stream=8822
 #EXTINF:-1,ASTRO Arena HD
 http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang210&password=penang210&stream=6707
+
 #EXTINF:-1,ASTRO SUPERSPORT HD
 http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang210&password=penang210&stream=6708
+#EXTINF:-1,ASTRO SUPERSPORT HD'
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=m3u8&username=penang210&password=penang210&stream=6708&type=hls
 #EXTINF:-1,ASTRO SUPERSPORT 2 HD
 http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang210&password=penang210&stream=6710
 #EXTINF:-1,ASTRO SUPERSPORT 3 HD
