@@ -3,6 +3,7 @@ x-tvg-url="https://rebrand.ly/k-epg"
 x-tvg-url="https://guidexl.tv4.live/"
 
 
+
 http://14.199.164.20:4001/playlist.m3u8 < IN
 http://45.70.237.121:8000/playlist.m3u8 < Ecuador
 http://45.92.69.244:8000/playlist.m3u8 < IT
@@ -873,6 +874,20 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgIDI0J3bwNlbpVmQ
 #EXTINF:-1 group-title="Sport/Bamar",Bein Sport 3 Fr
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgMDI0J3bwNlbpVmQ
+
+
+#EXTINF:-1 group-title="Sport/Bamar",beIN SPORTS 1EN
+https://wowzaprodhd9-lh.akamaihd.net/i/40ce7c2c_1@729045/index_2560000_av-p.m3u8?sd=10&rebase=on
+http://ebqt.blogspot.com/p/a2.html
+
+#EXTINF:-1 group-title="Sport/Bamar",NBCSN
+http://104.238.222.61/freeabr/bpb2mkrrcbr1s96/chunks.m3u8 
+http://ebqt.blogspot.com/p/a8.html
+
+http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+https://d2hjrfld3i5z2y.cloudfront.net/out/v1/55857eeba48c45f4be5b01cea490da78/index.m3u8 < DOWN?
 
 
 #EXTINF:-1 group-title="Sport/Bamar",TNT SPORTS
