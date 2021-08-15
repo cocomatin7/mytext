@@ -26001,8 +26001,38 @@ http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/945.m3u8
 CANAL+ 1
 http://portal.geniptv.com:8080/live/live:ackoace_new1/jhnb090bjhgnghd/949.m3u8
 
+
+
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1340
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1341
+STAR SPORT 3
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1342
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1343
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1344
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1345
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1346
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1347
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1348
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1349
 #EXTINF:-1 group-title="gen",Utsav Gold
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1350
+#EXTINF:-1 group-title="gen",1351
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1351
+#EXTINF:-1 group-title="gen",S WAH
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1352
+#EXTINF:-1 group-title="gen",1353
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1353
+#EXTINF:-1 group-title="gen",A PLUS
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1354
+#EXTINF:-1 group-title="gen",1355
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1355
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1356
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1357
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1358
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/1359
+
+
+
 #EXTINF:-1 group-title="gen",TEN SPORT BD
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/2805
 
@@ -26018,17 +26048,60 @@ http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/6506
 #EXTINF:-1 group-title="gen",EUROSPORT 1
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7069
 
-#EXTINF:-1 group-title="gen",beIN SPORT 2
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8505
-#EXTINF:-1 group-title="gen",beIN SPORT 3
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8504
 
-#EXTINF:-1 group-title="gen",BT SPORT 1
-http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10813
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8500
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8501
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8502
+#EXTINF:-1 group-title="gen",beIN SPORT 3 |offline
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8504
+#EXTINF:-1 group-title="gen",beIN SPORT 2 |offline
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8505
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8503
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8506
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8507
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8508
+#EXTINF:-1 group-title="gen",beIN SPORT 
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/8509
+
+
+#EXTINF:-1 group-title="gen",BT SPORT ESPN
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10810
 #EXTINF:-1 group-title="gen",BT SPORT 3
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10811
+#EXTINF:-1 group-title="gen",BT SPORT 2
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10812
+#EXTINF:-1 group-title="gen",BT SPORT 1
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10813
+F1
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10814
+FIA
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10815
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10816
+BBC NEWS
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10817
+BBC 4
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10818
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10819
+#EXTINF:-1 group-title="gen",BT SPORT 2
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10820
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10821
+UNIVERSAL
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10822
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10823
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10824
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10825
+skysports PL
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10826
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10827
+skysports mix
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10828
+skysports event
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10829
+
+
 #EXTINF:-1 group-title="gen",BT SPORT 3
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10877
+
 
 #EXTINF:-1 group-title="gen",SK1
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/10900
@@ -26043,7 +26116,16 @@ http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/15077
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/15097
 
 
-
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/16000
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/16001
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/16002
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/16003
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/16004
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/16005
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/16006
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/16007
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/16008
+na http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/16009
 TURBO
 http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/16010
 SCI
