@@ -26746,111 +26746,107 @@ http://qqtv.nl:8080/get.php?username=broom&password=broom&type=m3u < 07/09/21 < 
 http://qqtv.nl:8080/get.php?username=sword&password=sword&type=m3u < 29/08/21 < 2-1
 
 #EXTINF:-1 group-title="qqtv",MTV
-http://qqtv.nl:8080/3298/3298/7921
-#EXTINF:-1,MTV LIVE
-http://qqtv.nl:8080/3298/3298/15455
-#EXTINF:-1,MTV CLASSIC
-http://qqtv.nl:8080/3298/3298/15452
-#EXTINF:-1,MTV U
-http://qqtv.nl:8080/3298/3298/15456
-#EXTINF:-1,CA: BBC WORLD NEWS HD
-http://qqtv.nl:8080/3298/3298/21139
-#EXTINF:-1,UK: BBC WORLD_NEWS
-http://qqtv.nl:8080/3298/3298/15544
-#EXTINF:-1,.NBCSN HD
-http://qqtv.nl:8080/3298/3298/5137
-#EXTINF:-1,.Optus 1 HD AU
-http://qqtv.nl:8080/3298/3298/319618
-#EXTINF:-1,.Optus 2 HD AU
-http://qqtv.nl:8080/3298/3298/319616
-#EXTINF:-1,.RSA SUPERSPORTS VARITY 01 HD
-http://qqtv.nl:8080/3298/3298/311868
-#EXTINF:-1,.RSA SUPERSPORTS VARITY 02 HD
-http://qqtv.nl:8080/3298/3298/30957
-#EXTINF:-1,.RSA SUPERSPORTS VARITY 03 HD
-http://qqtv.nl:8080/3298/3298/30330
-#EXTINF:-1,.RSA SUPERSPORTS VARITY 04 HD
-http://qqtv.nl:8080/3298/3298/397213
-#EXTINF:-1,.RSA SUPERSPORTS RUGBY HD AF
-http://qqtv.nl:8080/3298/3298/395599
-#EXTINF:-1,.RSA SUPERSPORTS PREMIER LEAGUE HD
-http://qqtv.nl:8080/3298/3298/269696
-#EXTINF:-1,AR: beIN SPORTS PREMIUM 01 HD
-http://qqtv.nl:8080/3298/3298/30241
-#EXTINF:-1,AR: beIN SPORTS PREMIUM 02 HD
-http://qqtv.nl:8080/3298/3298/30240
-#EXTINF:-1,AR: beIN SPORTS PREMIUM 03 HD
-http://qqtv.nl:8080/3298/3298/30239
-#EXTINF:-1,WC. STAR SPORTS SELECT 1 HD
-http://qqtv.nl:8080/3298/3298/30539
-#EXTINF:-1,WC. STAR SPORTS SELECT 2 HD
-http://qqtv.nl:8080/3298/3298/30538
-#EXTINF:-1,THAI: MYANMAR CHANNEL 7
-http://qqtv.nl:8080/3298/3298/313897
-#EXTINF:-1,THAI: MYANMAR MRTV 4
-http://qqtv.nl:8080/3298/3298/313900
+http://qqtv.nl:8080/3298/live/3298/live/7921.m3u8
+#EXTINF:-1 group-title="qqtv",MTV LIVE
+http://qqtv.nl:8080/3298/live/3298/live/15455.m3u8
+#EXTINF:-1 group-title="qqtv",MTV CLASSIC
+http://qqtv.nl:8080/3298/live/3298/live/15452.m3u8
+#EXTINF:-1 group-title="qqtv",MTV U
+http://qqtv.nl:8080/3298/live/3298/live/15456.m3u8
+#EXTINF:-1 group-title="qqtv",CA: BBC WORLD NEWS HD
+http://qqtv.nl:8080/3298/live/3298/live/21139.m3u8
+#EXTINF:-1 group-title="qqtv",UK: BBC WORLD_NEWS
+http://qqtv.nl:8080/3298/live/3298/live/15544.m3u8
+#EXTINF:-1 group-title="qqtv",.NBCSN HD
+http://qqtv.nl:8080/3298/live/3298/live/5137.m3u8
+#EXTINF:-1 group-title="qqtv",.Optus 1 HD AU
+http://qqtv.nl:8080/3298/live/3298/live/319618.m3u8
+#EXTINF:-1 group-title="qqtv",.Optus 2 HD AU
+http://qqtv.nl:8080/3298/live/3298/live/319616.m3u8
+#EXTINF:-1 group-title="qqtv",.RSA SUPERSPORTS VARITY 01 HD
+http://qqtv.nl:8080/3298/live/3298/live/311868.m3u8
+#EXTINF:-1 group-title="qqtv",.RSA SUPERSPORTS VARITY 02 HD
+http://qqtv.nl:8080/3298/live/3298/live/30957.m3u8
+#EXTINF:-1 group-title="qqtv",.RSA SUPERSPORTS VARITY 03 HD
+http://qqtv.nl:8080/3298/live/3298/live/30330.m3u8
+#EXTINF:-1 group-title="qqtv",.RSA SUPERSPORTS VARITY 04 HD
+http://qqtv.nl:8080/3298/live/3298/live/397213.m3u8
+#EXTINF:-1 group-title="qqtv",.RSA SUPERSPORTS RUGBY HD AF
+http://qqtv.nl:8080/3298/live/3298/live/395599.m3u8
+#EXTINF:-1 group-title="qqtv",.RSA SUPERSPORTS PREMIER LEAGUE HD
+http://qqtv.nl:8080/3298/live/3298/live/269696.m3u8
+#EXTINF:-1 group-title="qqtv",AR: beIN SPORTS PREMIUM 01 HD
+http://qqtv.nl:8080/3298/live/3298/live/30241.m3u8
+#EXTINF:-1 group-title="qqtv",AR: beIN SPORTS PREMIUM 02 HD
+http://qqtv.nl:8080/3298/live/3298/live/30240.m3u8
+#EXTINF:-1 group-title="qqtv",AR: beIN SPORTS PREMIUM 03 HD
+http://qqtv.nl:8080/3298/live/3298/live/30239.m3u8
+#EXTINF:-1 group-title="qqtv",WC. STAR SPORTS SELECT 1 HD
+http://qqtv.nl:8080/3298/live/3298/live/30539.m3u8
+#EXTINF:-1 group-title="qqtv",WC. STAR SPORTS SELECT 2 HD
+http://qqtv.nl:8080/3298/live/3298/live/30538.m3u8
 
-#EXTINF:-1,IN: SONY MAX HD USA
-http://qqtv.nl:8080/3298/3298/7230
-#EXTINF:-1,IN: ZEE BOLLYWOOD HD HINDI
-http://qqtv.nl:8080/3298/3298/3131
-#EXTINF:-1,IN: & TV HD
-http://qqtv.nl:8080/3298/3298/31801
-#EXTINF:-1,IN: AND TV HD
-http://qqtv.nl:8080/3298/3298/31796
-#EXTINF:-1,IN: COLORS HD UK
-http://qqtv.nl:8080/3298/3298/409668
-#EXTINF:-1,IN: COLORS HD IND
-http://qqtv.nl:8080/3298/3298/7289
-#EXTINF:-1,IN: SONY HD US
-http://qqtv.nl:8080/3298/3298/154602
-#EXTINF:-1,IN: SONY HD UK
-http://qqtv.nl:8080/3298/3298/409669
-#EXTINF:-1,IN: SONY HD IND
-http://qqtv.nl:8080/3298/3298/7283
-#EXTINF:-1,IN: ZEE HD CANADA
-http://qqtv.nl:8080/3298/3298/67568
-#EXTINF:-1,IN: ZEE HD UK
-http://qqtv.nl:8080/3298/3298/409672
-#EXTINF:-1,IN: ZEE HD USA
-http://qqtv.nl:8080/3298/3298/409673
-#EXTINF:-1,IN: ZEE HD IND
-http://qqtv.nl:8080/3298/3298/409674
-#EXTINF:-1,IN: & FLIX HD
-http://qqtv.nl:8080/3298/3298/7252
-#EXTINF:-1,IN: & PICTURES HD
-http://qqtv.nl:8080/3298/3298/3150
-#EXTINF:-1,IN: STAR MOVIES HD
-http://qqtv.nl:8080/3298/3298/30349
-#EXTINF:-1,IN: STAR SPORTS SELECT 1
-http://qqtv.nl:8080/3298/3298/7247
-#EXTINF:-1,IN: STAR SPORTS SELECT 2
-http://qqtv.nl:8080/3298/3298/7246
-#EXTINF:-1,IN: ZEE CINEMA HD (USA)
-http://qqtv.nl:8080/3298/3298/30540
-#EXTINF:-1,IN: ZEE CLASSIC HINDI
-http://qqtv.nl:8080/3298/3298/31810
-#EXTINF:-1,IN: SONY MAX2
-http://qqtv.nl:8080/3298/3298/30634
-#EXTINF:-1,IN: SONY PIX HD
-http://qqtv.nl:8080/3298/3298/7258
-#EXTINF:-1,IN: SONY SIX HD
-http://qqtv.nl:8080/3298/3298/30657
-#EXTINF:-1,IN: SONY TEN 1 HD
-http://qqtv.nl:8080/3298/3298/30625
-#EXTINF:-1,IN: SONY TEN 2 HD
-http://qqtv.nl:8080/3298/3298/30624
-#EXTINF:-1,IN: B4U PLUS
-http://qqtv.nl:8080/3298/3298/15551
-#EXTINF:-1,IN: B4U MOVIES (IND)
-http://qqtv.nl:8080/3298/3298/67557
+#EXTINF:-1 group-title="qqtv",IN: SONY MAX HD USA
+http://qqtv.nl:8080/3298/live/3298/live/7230.m3u8
+#EXTINF:-1 group-title="qqtv",IN: ZEE BOLLYWOOD HD HINDI
+http://qqtv.nl:8080/3298/live/3298/live/3131.m3u8
+#EXTINF:-1 group-title="qqtv",IN: & TV HD
+http://qqtv.nl:8080/3298/live/3298/live/31801.m3u8
+#EXTINF:-1 group-title="qqtv",IN: AND TV HD
+http://qqtv.nl:8080/3298/live/3298/live/31796.m3u8
+#EXTINF:-1 group-title="qqtv",IN: COLORS HD UK
+http://qqtv.nl:8080/3298/live/3298/live/409668.m3u8
+#EXTINF:-1 group-title="qqtv",IN: COLORS HD IND
+http://qqtv.nl:8080/3298/live/3298/live/7289.m3u8
+#EXTINF:-1 group-title="qqtv",IN: SONY HD US
+http://qqtv.nl:8080/3298/live/3298/live/154602.m3u8
+#EXTINF:-1 group-title="qqtv",IN: SONY HD UK
+http://qqtv.nl:8080/3298/live/3298/live/409669.m3u8
+#EXTINF:-1 group-title="qqtv",IN: SONY HD IND
+http://qqtv.nl:8080/3298/live/3298/live/7283.m3u8
+#EXTINF:-1 group-title="qqtv",IN: ZEE HD CANADA
+http://qqtv.nl:8080/3298/live/3298/live/67568.m3u8
+#EXTINF:-1 group-title="qqtv",IN: ZEE HD UK
+http://qqtv.nl:8080/3298/live/3298/live/409672.m3u8
+#EXTINF:-1 group-title="qqtv",IN: ZEE HD USA
+http://qqtv.nl:8080/3298/live/3298/live/409673.m3u8
+#EXTINF:-1 group-title="qqtv",IN: ZEE HD IND
+http://qqtv.nl:8080/3298/live/3298/live/409674.m3u8
+#EXTINF:-1 group-title="qqtv",IN: & FLIX HD
+http://qqtv.nl:8080/3298/live/3298/live/7252.m3u8
+#EXTINF:-1 group-title="qqtv",IN: & PICTURES HD
+http://qqtv.nl:8080/3298/live/3298/live/3150.m3u8
+#EXTINF:-1 group-title="qqtv",IN: STAR MOVIES HD
+http://qqtv.nl:8080/3298/live/3298/live/30349.m3u8
+#EXTINF:-1 group-title="qqtv",IN: STAR SPORTS SELECT 1
+http://qqtv.nl:8080/3298/live/3298/live/7247.m3u8
+#EXTINF:-1 group-title="qqtv",IN: STAR SPORTS SELECT 2
+http://qqtv.nl:8080/3298/live/3298/live/7246.m3u8
+#EXTINF:-1 group-title="qqtv",IN: ZEE CINEMA HD (USA)
+http://qqtv.nl:8080/3298/live/3298/live/30540.m3u8
+#EXTINF:-1 group-title="qqtv",IN: ZEE CLASSIC HINDI
+http://qqtv.nl:8080/3298/live/3298/live/31810.m3u8
+#EXTINF:-1 group-title="qqtv",IN: SONY MAX2
+http://qqtv.nl:8080/3298/live/3298/live/30634.m3u8
+#EXTINF:-1 group-title="qqtv",IN: SONY PIX HD
+http://qqtv.nl:8080/3298/live/3298/live/7258.m3u8
+#EXTINF:-1 group-title="qqtv",IN: SONY SIX HD
+http://qqtv.nl:8080/3298/live/3298/live/30657.m3u8
+#EXTINF:-1 group-title="qqtv",IN: SONY TEN 1 HD
+http://qqtv.nl:8080/3298/live/3298/live/30625.m3u8
+#EXTINF:-1 group-title="qqtv",IN: SONY TEN 2 HD
+http://qqtv.nl:8080/3298/live/3298/live/30624.m3u8
+#EXTINF:-1 group-title="qqtv",IN: B4U PLUS
+http://qqtv.nl:8080/3298/live/3298/live/15551.m3u8
+#EXTINF:-1 group-title="qqtv",IN: B4U MOVIES (IND)
+http://qqtv.nl:8080/3298/live/3298/live/67557.m3u8
 
-#EXTINF:-1,24/7 MOVIES | JAMES BOND SERIES
-http://qqtv.nl:8080/3298/3298/404257
-#EXTINF:-1,24/7 MOVIES | JACKIE CHAN SERIES
-http://qqtv.nl:8080/3298/3298/404262
+#EXTINF:-1 group-title="qqtv",24/7 MOVIES | JAMES BOND SERIES
+http://qqtv.nl:8080/3298/live/3298/live/404257.m3u8
+#EXTINF:-1 group-title="qqtv",24/7 MOVIES | JACKIE CHAN SERIES
+http://qqtv.nl:8080/3298/live/3298/live/404262.m3u8
 #EXTINF:-1 group-title="qqtv",24/7 SERIES | FAST & FURIOUS SPY RACERS
-http://qqtv.nl:8080/3298/3298/92495
+http://qqtv.nl:8080/3298/live/3298/live/92495.m3u8
 
 
 + + + + + rapid-cdn.net:8080 + + + + + null + + 
@@ -26975,344 +26971,7 @@ http://sniperstv.vip:8080/get.php?username=iptvtree&password=p2q8H4Pqqp5fV8DW&ty
 Real Url: sniperstv.vip:8080     Status: Active    Created: 7/5/2021 9:23:54 PM     Expires: Null    Active Connections: 158     Maximum Connections: 300     Formats: "m3u8","ts","rtmp" < DOWN
 
 http://sniperstv.vip:8080/get.php?username=jordan&password=jordan&type=m3u
-Real Url: sniperstv.vip:8080     Status: Active    Created: 1/12/2020 1:49:15 AM     Expires: Null    Active Connections: 56     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
-
-#EXTINF:-1 group-title="sniper",beIN SPORTS Max HD 1
-http://sniperstv.vip:8080/live/jordan/jordan/32701.m3u8
-#EXTINF:-1,beIN SPORTS Max HD 2
-http://sniperstv.vip:8080/live/jordan/jordan/32702.m3u8
-#EXTINF:-1,BeIN Sports Max HD 3
-http://sniperstv.vip:8080/live/jordan/jordan/32703.m3u8
-#EXTINF:-1,BeIN Sports Max HD 4
-http://sniperstv.vip:8080/live/jordan/jordan/32704.m3u8
-#EXTINF:-1,BeIN Sports Max HD 5
-http://sniperstv.vip:8080/live/jordan/jordan/32705.m3u8
-#EXTINF:-1,BeIN Sports Max HD 6
-http://sniperstv.vip:8080/live/jordan/jordan/32706.m3u8
-
-#EXTINF:-1,beIN SPORTS Max HD 1
-http://sniperstv.vip:8080/live/jordan/jordan/32680.m3u8
-#EXTINF:-1,beIN SPORTS Max HD 2
-http://sniperstv.vip:8080/live/jordan/jordan/32681.m3u8
-#EXTINF:-1,BeIN Sports Max HD 3
-http://sniperstv.vip:8080/live/jordan/jordan/32682.m3u8
-#EXTINF:-1,BeIN Sports Max HD 4
-http://sniperstv.vip:8080/live/jordan/jordan/32683.m3u8
-#EXTINF:-1,BEIN SPORTS MAX 5 HD
-http://sniperstv.vip:8080/live/jordan/jordan/32709.m3u8
-#EXTINF:-1,BEIN SPORTS MAX 6 HD
-http://sniperstv.vip:8080/live/jordan/jordan/32710.m3u8
-
-#EXTINF:-1,BeIN Sports Max SD 1
-http://sniperstv.vip:8080/live/jordan/jordan/32695.m3u8
-#EXTINF:-1,BeIN Sports Max SD 2
-http://sniperstv.vip:8080/live/jordan/jordan/32696.m3u8
-#EXTINF:-1,BeIN Sports Max SD 3
-http://sniperstv.vip:8080/live/jordan/jordan/32697.m3u8
-#EXTINF:-1,BeIN Sports Max SD 4
-http://sniperstv.vip:8080/live/jordan/jordan/32698.m3u8
-#EXTINF:-1,BeIN Sports Max SD 5
-http://sniperstv.vip:8080/live/jordan/jordan/32699.m3u8
-#EXTINF:-1,BeIN Sports Max SD 6
-http://sniperstv.vip:8080/live/jordan/jordan/32700.m3u8
-
-#EXTINF:-1,BEIN SPORTS PREMIUM 1 HD  Local
-http://sniperstv.vip:8080/live/jordan/jordan/51.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HD Local
-http://sniperstv.vip:8080/live/jordan/jordan/54.m3u8
-#EXTINF:-1,BEIN SPORTS PREMIUM 2 HD  Local
-http://sniperstv.vip:8080/live/jordan/jordan/52.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HD Local
-http://sniperstv.vip:8080/live/jordan/jordan/55.m3u8
-#EXTINF:-1,BEIN SPORTS PREMIUM 3 HD  Local
-http://sniperstv.vip:8080/live/jordan/jordan/53.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HD Local
-http://sniperstv.vip:8080/live/jordan/jordan/56.m3u8
-#EXTINF:-1,BEIN SPORTS 4 HD Local
-http://sniperstv.vip:8080/live/jordan/jordan/57.m3u8
-#EXTINF:-1,BEIN SPORTS 5 HD Local
-http://sniperstv.vip:8080/live/jordan/jordan/58.m3u8
-#EXTINF:-1,BEIN SPORTS 6 HD LOCAL
-http://sniperstv.vip:8080/live/jordan/jordan/59.m3u8
-#EXTINF:-1,BEIN SPORTS 7 HD LOCAL
-http://sniperstv.vip:8080/live/jordan/jordan/60.m3u8
-
-#EXTINF:-1,BEIN SPORTS 1 Premium
-http://sniperstv.vip:8080/live/jordan/jordan/62.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://sniperstv.vip:8080/live/jordan/jordan/69.m3u8
-#EXTINF:-1,BEIN SPORTS 2 Premium
-http://sniperstv.vip:8080/live/jordan/jordan/63.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://sniperstv.vip:8080/live/jordan/jordan/70.m3u8
-#EXTINF:-1,BEIN SPORTS 3 Premium
-http://sniperstv.vip:8080/live/jordan/jordan/64.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://sniperstv.vip:8080/live/jordan/jordan/71.m3u8
-#EXTINF:-1,BEIN SPORTS 4
-http://sniperstv.vip:8080/live/jordan/jordan/65.m3u8
-#EXTINF:-1,BEIN SPORTS 5
-http://sniperstv.vip:8080/live/jordan/jordan/66.m3u8
-#EXTINF:-1,BEIN SPORTS 6
-http://sniperstv.vip:8080/live/jordan/jordan/67.m3u8
-#EXTINF:-1,BEIN SPORTS 7
-http://sniperstv.vip:8080/live/jordan/jordan/68.m3u8
-
-#EXTINF:-1,BEINSPORT AR 1 Premium
-http://sniperstv.vip:8080/live/jordan/jordan/73.m3u8
-#EXTINF:-1,BEINSPORT AR 1
-http://sniperstv.vip:8080/live/jordan/jordan/74.m3u8
-#EXTINF:-1,BEINSPORT AR 2 Premium
-http://sniperstv.vip:8080/live/jordan/jordan/75.m3u8
-#EXTINF:-1,BEINSPORT AR 2
-http://sniperstv.vip:8080/live/jordan/jordan/76.m3u8
-#EXTINF:-1,BEINSPORT AR 3 Premium
-http://sniperstv.vip:8080/live/jordan/jordan/77.m3u8
-#EXTINF:-1,BEINSPORT AR 3
-http://sniperstv.vip:8080/live/jordan/jordan/78.m3u8
-#EXTINF:-1,BEINSPORT AR 4
-http://sniperstv.vip:8080/live/jordan/jordan/79.m3u8
-#EXTINF:-1,BEINSPORT AR 5
-http://sniperstv.vip:8080/live/jordan/jordan/80.m3u8
-#EXTINF:-1,BEINSPORT AR 6
-http://sniperstv.vip:8080/live/jordan/jordan/81.m3u8
-#EXTINF:-1,BEINSPORT AR 7
-http://sniperstv.vip:8080/live/jordan/jordan/82.m3u8
-
-#EXTINF:-1,BEIN SPORTS 1  Premium
-http://sniperstv.vip:8080/live/jordan/jordan/86.m3u8
-#EXTINF:-1,BEIN SPORTS 1
-http://sniperstv.vip:8080/live/jordan/jordan/85.m3u8
-#EXTINF:-1,BEIN SPORTS 2 
-http://sniperstv.vip:8080/live/jordan/jordan/88.m3u8
-#EXTINF:-1,BEIN SPORTS 3
-http://sniperstv.vip:8080/live/jordan/jordan/87.m3u8
-#EXTINF:-1,BEIN SPORTS 3 Premium
-http://sniperstv.vip:8080/live/jordan/jordan/89.m3u8
-#EXTINF:-1,BEIN SPORTS 3
-http://sniperstv.vip:8080/live/jordan/jordan/90.m3u8
-#EXTINF:-1,BEIN SPORTS 4
-http://sniperstv.vip:8080/live/jordan/jordan/91.m3u8
-#EXTINF:-1,BEIN SPORTS 5
-http://sniperstv.vip:8080/live/jordan/jordan/92.m3u8
-#EXTINF:-1,BEIN SPORTS 6
-http://sniperstv.vip:8080/live/jordan/jordan/93.m3u8
-
-http://sniperstv.vip:8080/streaming/clients_live.php?extension=m3u8&username=jordan&password=jordan&stream=100
-
-#EXTINF:-1,BEIN SPORTS 1
-http://sniperstv.vip:8080/live/jordan/jordan/98.m3u8
-#EXTINF:-1,BEIN SPORTS 2
-http://sniperstv.vip:8080/live/jordan/jordan/99.m3u8
-#EXTINF:-1,BEIN SPORTS 2 PRE
-http://sniperstv.vip:8080/streaming/clients_live.php?extension=ts&username=jordan&password=jordan&stream=100
-#EXTINF:-1,BEIN SPORTS 4
-http://sniperstv.vip:8080/streaming/clients_live.php?extension=ts&username=jordan&password=jordan&stream=101
-#EXTINF:-1,BEIN SPORTS 5
-http://sniperstv.vip:8080/streaming/clients_live.php?extension=ts&username=jordan&password=jordan&stream=102
-#EXTINF:-1,BEIN SPORTS 6
-http://sniperstv.vip:8080/streaming/clients_live.php?extension=ts&username=jordan&password=jordan&stream=103
-#EXTINF:-1,BEIN SPORTS 7
-http://sniperstv.vip:8080/streaming/clients_live.php?extension=ts&username=jordan&password=jordan&stream=104
-#EXTINF:-1,BEIN SPORTS 2 EN
-http://sniperstv.vip:8080/streaming/clients_live.php?extension=ts&username=jordan&password=jordan&stream=105
-#EXTINF:-1,BEIN SPORTS 3 PRE
-http://sniperstv.vip:8080/live/jordan/jordan/106.m3u8
-#EXTINF:-1,BEIN SPORTS 10 |offline
-http://sniperstv.vip:8080/live/jordan/jordan/107.m3u8
-
-#EXTINF:-1,[USA]NBCSN HD
-http://sniperstv.vip:8080/live/jordan/jordan/14789.m3u8
-
-#EXTINF:-1,[FR*] Bein Sports 1 HD
-http://sniperstv.vip:8080/live/jordan/jordan/20255.m3u8
-#EXTINF:-1,[FR*] Bein Sports 2 HD
-http://sniperstv.vip:8080/live/jordan/jordan/20256.m3u8
-#EXTINF:-1,[FR*] Bein Sports 3 HD
-http://sniperstv.vip:8080/live/jordan/jordan/20257.m3u8
-#EXTINF:-1,[FR*] Bein Sports Max 04
-http://sniperstv.vip:8080/live/jordan/jordan/20258.m3u8
-#EXTINF:-1,[FR*] Bein Sports Max 05
-http://sniperstv.vip:8080/live/jordan/jordan/20259.m3u8
-#EXTINF:-1,[FR*] Bein Sports Max 06
-http://sniperstv.vip:8080/live/jordan/jordan/20260.m3u8
-#EXTINF:-1,[FR*] Bein Sports Max 07
-http://sniperstv.vip:8080/live/jordan/jordan/20261.m3u8
-#EXTINF:-1,[FR*] Bein Sports Max 08
-http://sniperstv.vip:8080/live/jordan/jordan/20262.m3u8
-#EXTINF:-1,[FR*] Bein Sports Max 09
-http://sniperstv.vip:8080/live/jordan/jordan/20263.m3u8
-#EXTINF:-1,[FR*] Bein Sports Max 10
-http://sniperstv.vip:8080/live/jordan/jordan/20264.m3u8
-
-#EXTINF:-1,|FR| BEIN SPORTS 1 HD
-http://sniperstv.vip:8080/live/jordan/jordan/20486.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 2 HD
-http://sniperstv.vip:8080/live/jordan/jordan/20487.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 3 HD
-http://sniperstv.vip:8080/live/jordan/jordan/20488.m3u8
-#EXTINF:-1,|FR| BEIN MAX 4 HD
-http://sniperstv.vip:8080/live/jordan/jordan/20489.m3u8
-#EXTINF:-1,|FR| BEIN MAX 5 HD
-http://sniperstv.vip:8080/live/jordan/jordan/20490.m3u8
-#EXTINF:-1,|FR| BEIN MAX 6 HD
-http://sniperstv.vip:8080/live/jordan/jordan/20491.m3u8
-#EXTINF:-1,|FR| BEIN MAX 7 HD
-http://sniperstv.vip:8080/live/jordan/jordan/20492.m3u8
-#EXTINF:-1,|FR| BEIN MAX 8 HD
-http://sniperstv.vip:8080/live/jordan/jordan/20493.m3u8
-#EXTINF:-1,|FR| BEIN MAX 9 HD
-http://sniperstv.vip:8080/live/jordan/jordan/20494.m3u8
-#EXTINF:-1,|FR| BEIN MAX 10 HD
-http://sniperstv.vip:8080/live/jordan/jordan/20495.m3u8
-
-#EXTINF:-1,BEIN SPORTS Premium 1 Low
-http://sniperstv.vip:8080/live/jordan/jordan/126.m3u8
-#EXTINF:-1,BEIN SPORTS Premium 2 Low
-http://sniperstv.vip:8080/live/jordan/jordan/127.m3u8
-#EXTINF:-1,BEIN SPORTS Premium 3 Low
-http://sniperstv.vip:8080/live/jordan/jordan/128.m3u8
-
-#EXTINF:-1,BEIN SPORTS MAX 1 FHD
-http://sniperstv.vip:8080/live/jordan/jordan/32685.m3u8
-#EXTINF:-1,BEIN SPORTS MAX 2 FHD
-http://sniperstv.vip:8080/live/jordan/jordan/32686.m3u8
-#EXTINF:-1,BEIN SPORTS MAX 3 FHD
-http://sniperstv.vip:8080/live/jordan/jordan/32687.m3u8
-#EXTINF:-1,BEIN SPORTS MAX 4 FHD
-http://sniperstv.vip:8080/live/jordan/jordan/32688.m3u8
-#EXTINF:-1,BEIN SPORTS MAX 5 FHD
-http://sniperstv.vip:8080/live/jordan/jordan/32707.m3u8
-#EXTINF:-1,BEIN SPORTS MAX 6 FHD
-http://sniperstv.vip:8080/live/jordan/jordan/32708.m3u8
-
-#EXTINF:-1,BEIN SPORTS Premium 1 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/2.m3u8
-#EXTINF:-1,BEIN SPORTS Premium 2 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/3.m3u8
-#EXTINF:-1,BEIN SPORTS Premium 3 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/4.m3u8
-#EXTINF:-1,BEIN SPORTS 1 UHD LOCAL
-http://sniperstv.vip:8080/live/jordan/jordan/9.m3u8
-#EXTINF:-1,BEIN SPORTS 2 UHD LOCAL
-http://sniperstv.vip:8080/live/jordan/jordan/10.m3u8
-#EXTINF:-1,BEIN SPORTS 3 UHD LOCAL
-http://sniperstv.vip:8080/live/jordan/jordan/11.m3u8
-#EXTINF:-1,BEIN SPORTS 4 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/5.m3u8
-#EXTINF:-1,BEIN SPORTS 5 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/6.m3u8
-#EXTINF:-1,BEIN SPORTS 6 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/7.m3u8
-#EXTINF:-1,BEIN SPORTS 7 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/8.m3u8
-
-#EXTINF:-1,BEIN SPORTS 1 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/13.m3u8
-#EXTINF:-1,BEIN SPORTS 1 UHD Premium
-http://sniperstv.vip:8080/live/jordan/jordan/21.m3u8
-#EXTINF:-1,BEIN SPORTS 2 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/20.m3u8
-#EXTINF:-1,BEIN SPORTS 2 UHD Premium
-http://sniperstv.vip:8080/live/jordan/jordan/14.m3u8
-#EXTINF:-1,BEIN SPORTS 3 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/22.m3u8
-#EXTINF:-1,BEIN SPORTS 3 UHD Premium
-http://sniperstv.vip:8080/live/jordan/jordan/15.m3u8
-#EXTINF:-1,BEIN SPORTS 4 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/16.m3u8
-#EXTINF:-1,BEIN SPORTS 5 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/17.m3u8
-#EXTINF:-1,BEIN SPORTS 6 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/18.m3u8
-#EXTINF:-1,BEIN SPORTS 7 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/19.m3u8
-
-#EXTINF:-1,BEIN SPORTS 1 Premium  UHD
-http://sniperstv.vip:8080/live/jordan/jordan/25.m3u8
-#EXTINF:-1,BEIN SPORTS 1 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/24.m3u8
-#EXTINF:-1,BEIN SPORTS 2 Premium UHD
-http://sniperstv.vip:8080/live/jordan/jordan/26.m3u8
-#EXTINF:-1,BEIN SPORTS 2 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/27.m3u8
-#EXTINF:-1,BEIN SPORTS 3 Premium UHD
-http://sniperstv.vip:8080/live/jordan/jordan/28.m3u8
-#EXTINF:-1,BEIN SPORTS 3 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/29.m3u8
-#EXTINF:-1,BEIN SPORTS 4 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/30.m3u8
-#EXTINF:-1,BEIN SPORTS 5 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/31.m3u8
-#EXTINF:-1,BEIN SPORTS 6 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/32.m3u8
-#EXTINF:-1,BEIN SPORTS 7 UHD
-http://sniperstv.vip:8080/live/jordan/jordan/33.m3u8
-#EXTINF:-1,AR: BeiN Sports 1 EN  FHD
-http://sniperstv.vip:8080/live/jordan/jordan/34.m3u8
-#EXTINF:-1,AR: BeiN Sports 2 EN  FHD
-http://sniperstv.vip:8080/live/jordan/jordan/35.m3u8
-#EXTINF:-1,AR: BeiN Sports XTRA FHD
-http://sniperstv.vip:8080/live/jordan/jordan/36.m3u8
-
-#EXTINF:-1,|UK| iCONCERTS
-http://sniperstv.vip:8080/live/jordan/jordan/13755.m3u8
-#EXTINF:-1,|UK| MTV CLASSIC
-http://sniperstv.vip:8080/live/jordan/jordan/13756.m3u8
-#EXTINF:-1,|UK| MTV LIVE
-http://sniperstv.vip:8080/live/jordan/jordan/13757.m3u8
-#EXTINF:-1,|UK| MTV ROCK
-http://sniperstv.vip:8080/live/jordan/jordan/13758.m3u8
-#EXTINF:-1,|UK| MTV BASE
-http://sniperstv.vip:8080/live/jordan/jordan/13759.m3u8
-#EXTINF:-1,|UK| MTV DANCE
-http://sniperstv.vip:8080/live/jordan/jordan/13760.m3u8
-#EXTINF:-1,|UK| MTV HITS
-http://sniperstv.vip:8080/live/jordan/jordan/13761.m3u8
-#EXTINF:-1,|UK| MTV MUSIC
-http://sniperstv.vip:8080/live/jordan/jordan/13762.m3u8
-#EXTINF:-1,|UK| MTV CLUB HD
-http://sniperstv.vip:8080/live/jordan/jordan/13763.m3u8
-#EXTINF:-1,|UK| VH1 HD
-http://sniperstv.vip:8080/live/jordan/jordan/13764.m3u8
-#EXTINF:-1,|UK| CHANNEL AKA
-http://sniperstv.vip:8080/live/jordan/jordan/13765.m3u8
-#EXTINF:-1,|UK| 4 MUSIC
-http://sniperstv.vip:8080/live/jordan/jordan/13766.m3u8
-
-#EXTINF:-1,SONY  FAST AND FURIOUS
-http://sniperstv.vip:8080/live/jordan/jordan/348.m3u8
-#EXTINF:-1,SONY BOLLYWOOD
-http://sniperstv.vip:8080/live/jordan/jordan/349.m3u8
-
-#EXTINF:-1,[SPO*] SuperSport 00 Blitz
-http://sniperstv.vip:8080/live/jordan/jordan/4736.m3u8
-#EXTINF:-1 tvg-id="ss.mximo.1.ze" tvg-name="ss.mximo.1.ze" tvg-logo="https://media.tv4.live/ss.mximo.1.ze.png",SuperSport MaXimo 1
-http://sniperstv.vip:8080/live/jordan/jordan/4737.m3u8
-#EXTINF:-1,[SPO*] SuperSport 01 |offline
-http://sniperstv.vip:8080/live/jordan/jordan/4738.m3u8
-#EXTINF:-1,[SPO*] SuperSport Cricket
-http://sniperstv.vip:8080/live/jordan/jordan/4739.m3u8
-#EXTINF:-1 tvg-id="ss.mximo.1.ze" tvg-name="ss.mximo.1.ze" tvg-logo="https://media.tv4.live/ss.mximo.1.ze.png",SuperSport MaXimo 1
-http://sniperstv.vip:8080/live/jordan/jordan/4740.m3u8
-#EXTINF:-1,[SPO*] SuperSport Variety 4
-http://sniperstv.vip:8080/live/jordan/jordan/4741.m3u8
-#EXTINF:-1,[SPO*] SuperSport 05
-http://sniperstv.vip:8080/live/jordan/jordan/4742.m3u8
-#EXTINF:-1,[SPO*] SuperSport Variety 1
-http://sniperstv.vip:8080/live/jordan/jordan/4743.m3u8
-#EXTINF:-1,[SPO*] SK 5
-http://sniperstv.vip:8080/live/jordan/jordan/4744.m3u8
-#EXTINF:-1,[SPO*] SuperSport Cricket
-http://sniperstv.vip:8080/live/jordan/jordan/4745.m3u8
-#EXTINF:-1,[SPO*] SuperSport Cricket
-http://sniperstv.vip:8080/live/jordan/jordan/4746.m3u8
-#EXTINF:-1,[SPO*] KC2
-http://sniperstv.vip:8080/live/jordan/jordan/4747.m3u8
-#EXTINF:-1,[SPO*] SuperSport 11 |offline
-http://sniperstv.vip:8080/live/jordan/jordan/4748.m3u8
-#EXTINF:-1 group-title="sniper",[SPO*] SuperSport Cricket
-http://sniperstv.vip:8080/live/jordan/jordan/4749.m3u8
+Real Url: sniperstv.vip:8080     Status: Active    Created: 1/12/2020 1:49:15 AM     Expires: Null    Active Connections: 56     Maximum Connections: 0     Formats: "m3u8","ts","rtmp" < BANNED
 
 
 + + + + + sofadad.co.uk:80 + + + + + 
