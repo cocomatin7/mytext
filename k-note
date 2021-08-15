@@ -24489,83 +24489,96 @@ Real Url: getwhitakertv.org:25461     Status: Active    Created: 31/10/2020 4:00
 http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=15452&type=hls
 
 #EXTINF:-1 group-title="getwhi",MTV 2 HD
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=306
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=306
 #EXTINF:-1 group-title="getwhi",MTV Classic
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=420
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=420
 #EXTINF:-1 group-title="getwhi",MTV Hits
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=393
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=393
 #EXTINF:-1 group-title="getwhi",MTV Live
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=422
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=422
 #EXTINF:-1 group-title="getwhi",MTV U HD
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=421
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=421
 #EXTINF:-1 group-title="getwhi",MTV HD
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=382
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=382
 #EXTINF:-1 group-title="getwhi",NBCSN
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=947
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=947
+#EXTINF:-1 group-title="getwhi",VH1 HD
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=312
 #EXTINF:-1 group-title="getwhi",WWE Network
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=1023
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=1023
 #EXTINF:-1 group-title="getwhi",UFC Network
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=11420
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=11420
 #EXTINF:-1 group-title="getwhi",BBC World News
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=931
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=931
 #EXTINF:-1 group-title="getwhi",Bloomberg HD
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=925
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=925
 
 #EXTINF:-1 group-title="getwhi",Sky Sports Action
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=10628
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=10628
 #EXTINF:-1 group-title="getwhi",Sky Sports Arena
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=10629
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=10629
 #EXTINF:-1 group-title="getwhi",Sky Sports Cricket
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=10630
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=10630
 #EXTINF:-1 group-title="getwhi",Sky Sports F1
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=10631
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=10631
 #EXTINF:-1 group-title="getwhi",Sky Sports Football
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=10632
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=10632
 #EXTINF:-1 group-title="getwhi",Sky Sports Golf
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=10633
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=10633
 #EXTINF:-1 group-title="getwhi",Sky Sports Mix
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=10635
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=10635
 #EXTINF:-1 group-title="getwhi",Sky Sports News
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=10636
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=10636
 #EXTINF:-1 group-title="getwhi",Sky Sports Racing
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=10638
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=10638
 
 #EXTINF:-1 group-title="getwhi",Tom Hanks Collection Part 3
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=12575
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=12575
 
 #EXTINF:-1 group-title="getwhi",Tom Hanks Collection 1
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=12581
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=12581
 #EXTINF:-1 group-title="getwhi",Tom Hanks Collection 2
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=12576
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=12576
 #EXTINF:-1 group-title="getwhi",Fast & Furious Collection
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=12910
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=12910
 #EXTINF:-1 group-title="getwhi",Bourne Collection
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=13088
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=13088
+
+#EXTINF:-1 group-title="getwhi",CA: TSN 1
+http://getwhitakertv.org:25461/live/23763235/36984944/10741.m3u8
+#EXTINF:-1 group-title="getwhi",CA: TSN 2
+http://getwhitakertv.org:25461/live/23763235/36984944/10742.m3u8
+#EXTINF:-1 group-title="getwhi",CA: TSN 3
+http://getwhitakertv.org:25461/live/23763235/36984944/10743.m3u8
+#EXTINF:-1 group-title="getwhi",CA: TSN 4
+http://getwhitakertv.org:25461/live/23763235/36984944/10744.m3u8
+#EXTINF:-1 group-title="getwhi",CA: TSN 5
+http://getwhitakertv.org:25461/live/23763235/36984944/10745.m3u8
 
 #EXTINF:-1 group-title="getwhi",90S
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3122
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=3122
 #EXTINF:-1 group-title="getwhi",Alternative HD
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3123
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=3123
 #EXTINF:-1 group-title="getwhi",Brit Hits
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3124
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=3124
 #EXTINF:-1 group-title="getwhi",Dance-EDM
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3125
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=3125
 #EXTINF:-1 group-title="getwhi",MC: HIP-HOP AND R&B
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3126
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=3126
 #EXTINF:-1 group-title="getwhi",Hit List
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3127
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=3127
 #EXTINF:-1 group-title="getwhi",INDIE HD
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3128
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=3128
 #EXTINF:-1 group-title="getwhi",Pop & Country
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3132
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=3132
 #EXTINF:-1 group-title="getwhi",Pop Hits
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3133
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=3133
 #EXTINF:-1 group-title="getwhi",R&B Soul
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3134
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=3134
 #EXTINF:-1 group-title="getwhi",Rap 2000'S
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3135
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=3135
 #EXTINF:-1 group-title="getwhi",Rock HD
-http://getwhitakertv.org:25461/streaming/clients_live.php?extension=ts&username=23763235&password=36984944&stream=3136
+http://getwhitakertv.org:25461/streaming/clients_live.php?extension=m3u8&username=23763235&password=36984944&stream=3136
 
 
 + + + + + globaliptv.ga:8080 + + + + +
