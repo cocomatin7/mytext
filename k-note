@@ -23190,8 +23190,6 @@ http://51.158.144.144:25461/get.php?username=MetiTV-telegrm&password=Falas-@Meti
 http://62.182.80.153/get.php?username=Livetv&password=master&type=m3u Real Url: 62.182.80.153:80     Status: Active    Created: 7/11/2020 2:59:04 AM     Expires: Null    Active Connections: 204     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
 
 
-
-
 http://albauser.net:2235/get.php?username=antree-iptv&password=exchange&type=m3u Real Url: albauser.net:2235     Status: Active    Created: 28/6/2020 11:26:53 AM     Expires: Null    Active Connections: 113     Maximum Connections: 300     Formats: "m3u8","ts","rtmp"
 
 http://www.adiltvcdn.xyz:8080/get.php?username=K1iQxeQHq&password=oD9Oh286VP&type=m3u
@@ -23217,8 +23215,6 @@ Real Url: hbox.cdnss.me:80     Status: Active    Created: Null     Expires: Null
 
 http://hbox.cdnss.me:80/get.php?username=tolgax1x&password=tolgax1x&type=m3u
 Real Url: hbox.cdnss.me:80     Status: Active    Created: Null     Expires: Null    Active Connections: 30     Maximum Connections: 30     Formats: "m3u8","ts","rtmp"
-
-
 
 
 http://207.244.228.10:8080/get.php?username=chimera&password=331199&type=m3u
@@ -23463,211 +23459,13 @@ Real Url: 85.203.33.88:80 Expires: 29/10/2021 6:41:31 PM    Active Connections: 
 http://cloudcdn.tk:8080/get.php?username=wZkgtvQF6G0800&password=aqE7hM928&type=m3u
 
 http://85.203.33.88:80/get.php?username=Sh85j1f69&password=ssnYzA43&type=m3u
-Real Url: mag.betaiptv.iptv.uno:80     Status: Active    Created: 27/4/2018 11:57:02 AM     Expires: 19/6/2022 11:57:01 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts" << 
+Real Url: mag.betaiptv.iptv.uno:80     Status: Active    Created: 27/4/2018 11:57:02 AM     Expires: 19/6/2022 11:57:01 AM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts" < DOWN
 
 http://45.87.29.8:80/get.php?username=5RKDzSm63&password=wpL0vR60&type=m3u
 Real Url: 85.203.33.88:80     Status: Active    Created: 25/2/2019 3:16:00 PM     Expires: 23/2/2022 9:38:27 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts"
 
 http://45.87.29.8:8080/get.php?username=M0FPKNzUb2rp1831&password=aoTqcM9363&type=m3u < 1-0
  
-
-#EXTINF:-1 group-title="85.203",beIN SPORTS 1 4K QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/24697.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 1 FHD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/22157.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 1 HD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14980.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 1 SD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14981.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 2 4K QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/24696.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 2 FHD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/22158.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 2 HD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14982.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 2 SD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14983.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 3 4K QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/24695.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 3 FHD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/22159.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 3 HD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14984.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 3 SD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14985.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 4 4K QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/24694.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 4 FHD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/22160.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 4 HD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14986.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 4 SD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14987.m3u8
-#EXTINF:-1 group-title="85.203",bein SPORTS 5 4K QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/24693.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 5 FHD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/22161.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 5 HD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14988.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 5 SD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14989.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 6 4K QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/24692.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 6 FHD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/22162.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 6 HD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14990.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 6 SD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14991.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 7 FHD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/22163.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 7 HD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14992.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 7 SD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14993.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 1 English HD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/15000.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 2 English HD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/15001.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 3 English HD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/21517.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS Premium 1 FHD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/75533.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS Premium 2 FHD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/75534.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS Premium 3 FHD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/75535.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 1 HD FR
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14977.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 1 FR
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/5522.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 2 FHD FR
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14978.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 2 HD FR
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/15637.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 3 FHD FR
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/4477.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS 3 HD FR
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14979.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS GLOBAL FHD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/21927.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS GLOBAL HD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/21926.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS MAX 1 FHD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/22164.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS MAX 2 FHD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/22167.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS MAX 3 FHD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/27394.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS MAX 4 FHD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/27395.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS MAX 5 FHD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/81407.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS MAX 6 FHD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/81408.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS MAX 2 HD TR
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/29048.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS MAX MY
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/27937.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS HD MY
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/27938.m3u8
-#EXTINF:-1 group-title="85.203",beIN SPORTS HD QA
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/29604.m3u8
-#EXTINF:-1 group-title="85.203",beIN LaLiga HD US
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/32747.m3u8
-
-#EXTINF:-1 group-title="85.203",MTV HD UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20031.m3u8
-#EXTINF:-1 group-title="85.203",MTV Base UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/7319.m3u8
-#EXTINF:-1 group-title="85.203",MTV Classic UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/7320.m3u8
-#EXTINF:-1 group-title="85.203",Club MTV UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/7318.m3u8
-#EXTINF:-1 group-title="85.203",MTV Hits UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/7317.m3u8
-#EXTINF:-1 group-title="85.203",MTV Live FHD UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/13090.m3u8
-#EXTINF:-1 group-title="85.203",MTV Music UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/7316.m3u8
-#EXTINF:-1 group-title="85.203",MTV 90s UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/7315.m3u8
-#EXTINF:-1 group-title="85.203",MTV 80s UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/17388.m3u8
-#EXTINF:-1 group-title="85.203",MTV UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/2670.m3u8
-#EXTINF:-1 group-title="85.203",MTV Classic HD US
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/27468.m3u8
-
-#EXTINF:-1 group-title="85.203",Sky Cinema Action & Adventure HD UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/1961.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Action & Adventure UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/3559.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Comedy FHD UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20109.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Comedy HD UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14924.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Comedy UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/3563.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Crime & Thriller FHD UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20118.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Crime & Thriller HD UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14936.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Crime & Thriller UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/1955.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Drama & Romance UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/1960.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Drama & Romance FHD UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20111.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Family HD UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/3926.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Family FHD UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20112.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Greats UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/1959.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Greats FHD UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20113.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Hits UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/16503.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Hits FHD UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20114.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Premiere HD UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/1958.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Premiere FHD UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20115.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Sci-Fi & Horror UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/1957.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Sci-Fi & Horror FHD UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20116.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Select HD UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/14765.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Select FHD UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/20117.m3u8
-#EXTINF:-1 group-title="85.203",Sky Cinema Animation FHD UK
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/72660.m3u8
-
-#EXTINF:-1 group-title="85.203",NBCSN HD US
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/9008.m3u8
-#EXTINF:-1 group-title="85.203",True Premier Football HD 1 TH
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/16956.m3u8
-#EXTINF:-1 group-title="85.203",True Premier Football HD 2 TH
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/16957.m3u8
-#EXTINF:-1 group-title="85.203",True Premier Football HD 3 TH
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/16958.m3u8
-#EXTINF:-1 group-title="85.203",True Premier Football HD 4 TH
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/16959.m3u8
-#EXTINF:-1 group-title="85.203",True Premier Football HD 5 TH
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/27936.m3u8
-#EXTINF:-1 group-title="85.203",EPL 1
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/19032.m3u8
-#EXTINF:-1 group-title="85.203",EPL 2
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/19033.m3u8
-#EXTINF:-1 group-title="85.203",EPL 3
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/19034.m3u8
-#EXTINF:-1 group-title="85.203",EPL 4
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/19035.m3u8
-#EXTINF:-1 group-title="85.203",EPL 5
-http://85.203.33.88:80/live/Sh85j1f69/ssnYzA43/19036.m3u8
 
 + + + + + 103.22.183.58:8888 [TH] + + + + +
 
@@ -24089,50 +23887,9 @@ Real Url: test.satlok.club:80     Status: Active    Created: 18/1/2019 12:30:51 
 
 http://test.satlok.club:80/get.php?username=testskype1&password=6q60C0QwC4&type=m3u
 Real Url: bosstr.net:80     Status: Active    Created: 7/3/2020 2:04:43 AM     Expires: Null    Active Connections: 284     Maximum Connections: 500     Formats: "m3u8","ts"
-http://bosstr.net:80/get.php?username=testskype1&password=6q60C0QwC4&type=m3u
-Real Url: bosstr.net:80     Status: Active    Created: 7/3/2020 2:04:43 AM     Expires: Null    Active Connections: 425     Maximum Connections: 500     Formats: "m3u8","ts"
+http://bosstr.net:80/get.php?username=testskype1&password=6q60C0QwC4&type=m3u 
+Real Url: bosstr.net:80     Status: Active    Created: 7/3/2020 2:04:43 AM     Expires: Null    Active Connections: 425     Maximum Connections: 500     Formats: "m3u8","ts" < DOWN
 
-#EXTINF:-1 group-title="bosstr",|DSTV AFRICA|  SUPERSPORT CRICKET
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/55829.m3u8
-#EXTINF:-1,|DSTV AFRICA| SUPERSPORT VARIETY 1
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/55830.m3u8
-#EXTINF:-1,|DSTV AFRICA| SUPERSPORT VARIETY 2
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/55834.m3u8
-#EXTINF:-1,|DSTV AFRICA| SUPERSPORT VARIETY 3
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/55835.m3u8
-#EXTINF:-1,|DSTV AFRICA| SUPERSPORT VARIETY 4
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/55836.m3u8
-#EXTINF:-1,|DSTV AFRICA| SUPERSPORT GOLF
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/55837.m3u8
-#EXTINF:-1,|DSTV AFRICA| SUPERSPORT TENNIS
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/55838.m3u8
-#EXTINF:-1,|DSTV AFRICA| SUPERSPORT GRANDSTAND
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/55841.m3u8
-#EXTINF:-1,|DSTV AFRICA| SUPERSPORT FOOTBALL
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/55840.m3u8
-
-#EXTINF:-1,HINDI | SONY MIX
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/5089.m3u8
-#EXTINF:-1,HINDI | SONY MAX
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/33965.m3u8
-#EXTINF:-1,HINDI | SONY PIX 4K
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/33956.m3u8
-#EXTINF:-1,HINDI | SONY SAB
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/33967.m3u8
-#EXTINF:-1,HINDI | SONY YAY
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/33968.m3u8
-#EXTINF:-1,HINDI | ZEE CINEMA HD
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/5048.m3u8
-#EXTINF:-1,HINDI | STAR SPORTS SELECT 1 HD
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/27083.m3u8
-#EXTINF:-1,HINDI | STAR SPORTS SELECT 2 HD
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/27084.m3u8
-#EXTINF:-1,HINDI | TEN 2 HD
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/16284.m3u8
-#EXTINF:-1,HINDI | TEN 3 HD
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/16285.m3u8
-#EXTINF:-1 group-title="bosstr",HINDI | TEN 1ᴴᴰ
-http://bosstr.net:80/live/testskype1/6q60C0QwC4/16283.m3u8
 
 
 + + + + + box.slweb.tv:8880 + + + + + Max Con: 400
@@ -24153,116 +23910,8 @@ Real Url: boxhdtv.live:8080     Status: Active    Created: 12/4/2021 11:15:18 PM
 + + + + + bulltv.us:2999 + + + + +
 
 http://bulltv.us:2999/get.php?username=eventppv&password=ppvnew&type=m3u
-Real Url: bulltv.us:2999     Status: Active    Created: 16/6/2021 8:33:33 AM     Expires: Null    Active Connections: 0     Maximum Connections: 0     Formats: "m3u8","ts","rtmp"
+Real Url: bulltv.us:2999     Status: Active    Created: 16/6/2021 8:33:33 AM     Expires: Null    Active Connections: 0     Maximum Connections: 0     Formats: "m3u8","ts","rtmp" < DOWN
 
-#EXTINF:-1 group-title="bulltv",TUDN EXTRA 1
-http://bulltv.us:2999/live/eventppv/ppvnew/282.m3u8
-#EXTINF:-1,TUDN EXTRA 2
-http://bulltv.us:2999/live/eventppv/ppvnew/283.m3u8
-#EXTINF:-1,TUDN EXTRA 3
-http://bulltv.us:2999/live/eventppv/ppvnew/284.m3u8
-#EXTINF:-1,TUDN EXTRA 4
-http://bulltv.us:2999/live/eventppv/ppvnew/285.m3u8
-#EXTINF:-1,TUDN EXTRA 5
-http://bulltv.us:2999/live/eventppv/ppvnew/286.m3u8
-#EXTINF:-1,TUDN EXTRA 6
-http://bulltv.us:2999/live/eventppv/ppvnew/287.m3u8
-#EXTINF:-1,TUDN EXTRA 7
-http://bulltv.us:2999/live/eventppv/ppvnew/288.m3u8
-#EXTINF:-1,TUDN EXTRA 8
-http://bulltv.us:2999/live/eventppv/ppvnew/289.m3u8
-#EXTINF:-1,TUDN EXTRA 9
-http://bulltv.us:2999/live/eventppv/ppvnew/290.m3u8
-#EXTINF:-1,TUDN EXTRA 11
-http://bulltv.us:2999/live/eventppv/ppvnew/292.m3u8
-
-#EXTINF:-1,Event 1
-http://bulltv.us:2999/live/eventppv/ppvnew/11061.m3u8
-#EXTINF:-1,Event 2
-http://bulltv.us:2999/live/eventppv/ppvnew/11062.m3u8
-#EXTINF:-1,Event 3
-http://bulltv.us:2999/live/eventppv/ppvnew/11063.m3u8
-#EXTINF:-1,Event 4
-http://bulltv.us:2999/live/eventppv/ppvnew/11064.m3u8
-#EXTINF:-1,Event 5
-http://bulltv.us:2999/live/eventppv/ppvnew/11065.m3u8
-#EXTINF:-1,Event 6:
-http://bulltv.us:2999/live/eventppv/ppvnew/16761.m3u8
-#EXTINF:-1,Event 7:
-http://bulltv.us:2999/live/eventppv/ppvnew/16762.m3u8
-
-#EXTINF:-1,LMP 1
-http://bulltv.us:2999/live/eventppv/ppvnew/16748.m3u8
-#EXTINF:-1,LMP 2
-http://bulltv.us:2999/live/eventppv/ppvnew/16749.m3u8
-#EXTINF:-1,LMP3
-http://bulltv.us:2999/live/eventppv/ppvnew/16750.m3u8
-#EXTINF:-1,LMP 4
-http://bulltv.us:2999/live/eventppv/ppvnew/16751.m3u8
-#EXTINF:-1,LMP 5
-http://bulltv.us:2999/live/eventppv/ppvnew/16752.m3u8
-
-#EXTINF:-1,11:00 Horse Racing : TVG Trackside Live ! 
-http://bulltv.us:2999/live/eventppv/ppvnew/16771.m3u8
-#EXTINF:-1,12:00 Horse Racing : Saratoga Live 
-http://bulltv.us:2999/live/eventppv/ppvnew/16772.m3u8
-
-#EXTINF:-1,13:00 Bundesliga : Borussia M'Gladbach vs FC Bayern
-http://bulltv.us:2999/live/eventppv/ppvnew/16774.m3u8
-#EXTINF:-1,13:30 Rugby Super League : Wigan Warriors vs Hull Kingston Rovers
-http://bulltv.us:2999/live/eventppv/ppvnew/16775.m3u8
-
-#EXTINF:-1,UNIVERSO
-http://bulltv.us:2999/live/eventppv/ppvnew/16777.m3u8
-#EXTINF:-1,NBCSN
-http://bulltv.us:2999/live/eventppv/ppvnew/16779.m3u8
-http://bulltv.us:2999/streaming/clients_live.php?extension=m3u8&username=eventppv&password=ppvnew&stream=16777&type=hls
-
-#EXTINF:-1,14:00 Ligue 1 : Lorient vs Monaco
-http://bulltv.us:2999/live/eventppv/ppvnew/16781.m3u8
-#EXTINF:-1,14:00 Ligue 1 : Lorient vs Monaco ENG
-http://bulltv.us:2999/live/eventppv/ppvnew/16782.m3u8
-#EXTINF:-1,14:00 Ligue 1 : Lorient vs Monaco OP2
-http://bulltv.us:2999/live/eventppv/ppvnew/16783.m3u8
-
-#EXTINF:-1,14:15 Primeira Liga : Estoril Praia vs Vitoria SC
-http://bulltv.us:2999/live/eventppv/ppvnew/16784.m3u8
-#EXTINF:-1,16:00 Little League Basseball : Great Lakes Regional, Second Semifinal: Ohio vs TBA
-http://bulltv.us:2999/live/eventppv/ppvnew/16787.m3u8
-#EXTINF:-1,16:30 NASCAR Xfinity Series : Race at indianapolis RC, Practice
-http://bulltv.us:2999/live/eventppv/ppvnew/16789.m3u8
-#EXTINF:-1,17:00 Super Liga Argentina : Colon vs Gimnasia LP
-http://bulltv.us:2999/live/eventppv/ppvnew/16791.m3u8
-#EXTINF:-1,17:00 LIGA MX F. : Queretaro F. vs Leon F.
-http://bulltv.us:2999/live/eventppv/ppvnew/16793.m3u8
-#EXTINF:-1,17:00 Liga Ex. MX : Raya 2 vs Tapotio
-http://bulltv.us:2999/live/eventppv/ppvnew/16794.m3u8
-#EXTINF:-1,19:00 LIGA MX : Puebla vs Tigres UANL
-http://bulltv.us:2999/live/eventppv/ppvnew/16795.m3u8
-#EXTINF:-1,19:00 LIGA MX : Puebla vs Tigres UANL OP2
-http://bulltv.us:2999/live/eventppv/ppvnew/16797.m3u8
-#EXTINF:-1,19:00 Liga Pro Ecuatoriana : Tecnico Universitario vs U. Catolica
-http://bulltv.us:2999/live/eventppv/ppvnew/16799.m3u8
-#EXTINF:-1,19:00 BOXING : Federico Pedraza vs Jose Garcia; Yamil Peralta
-http://bulltv.us:2999/live/eventppv/ppvnew/16800.m3u8
-#EXTINF:-1,19:00 WWE Wrestling : Friday Night SmackDown
-http://bulltv.us:2999/live/eventppv/ppvnew/16803.m3u8
-#EXTINF:-1,19:15 Super Liga Argentina : Huracan vs Union Santa Fe
-http://bulltv.us:2999/live/eventppv/ppvnew/16804.m3u8
-#EXTINF:-1,19:40 Liga Colombiana : Deportes Tolima vs Deportivo Pasto
-http://bulltv.us:2999/live/eventppv/ppvnew/16805.m3u8
-#EXTINF:-1,20:00 Liga MX F. : Mazatlan FC vs Monterrey
-http://bulltv.us:2999/live/eventppv/ppvnew/16806.m3u8
-#EXTINF:-1,20:00 MMA Playoffs : Lightweinghts & Featherweinghts
-http://bulltv.us:2999/live/eventppv/ppvnew/16808.m3u8
-#EXTINF:-1,20:00 MMA , Bellator 264 : Mousasi vs Salter
-http://bulltv.us:2999/live/eventppv/ppvnew/16810.m3u8
-#EXTINF:-1,21:00 LIGA MX : Juarez vs Tijuana 
-http://bulltv.us:2999/live/eventppv/ppvnew/16811.m3u8
-#EXTINF:-1,21:00 LIGA MX : Juarez vs Tijuana OP2
-http://bulltv.us:2999/live/eventppv/ppvnew/16812.m3u8
-#EXTINF:-1 group-title="bulltv",21:00 LIGA MX : Juarez vs Tijuana OP3
-http://bulltv.us:2999/live/eventppv/ppvnew/16813.m3u8
 
 
 + + + + + client.vpnuser.ws:8080 [TH] + + + + +
@@ -24382,62 +24031,8 @@ Real Url: elattar-tv.org:8080     Status: Active    Created: 25/6/2021 2:29:02 P
 + + + + + exchange.jinbox.nl:1339 + + + + +
 
 http://exchange.jinbox.nl:1339/get.php?username=tex2021t&password=w3pqg4SvT97hJXYD&type=m3u
-Real Url: exchange.jinbox.nl:1339     Status: Active    Created: 26/8/2020 1:07:13 PM     Expires: Null    Active Connections: 406     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp"
+Real Url: exchange.jinbox.nl:1339     Status: Active    Created: 26/8/2020 1:07:13 PM     Expires: Null    Active Connections: 406     Maximum Connections: 1000     Formats: "m3u8","ts","rtmp" < not play
 
-#EXTINF:-1 group-title="exchange",(UK) MTV 4K+
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/8171
-#EXTINF:-1 group-title="exchange",(UK) MTV Music
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/1580
-#EXTINF:-1 group-title="exchange",(UK) Club MTV
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/349
-#EXTINF:-1 group-title="exchange",(UK) MTV Hits
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/347
-#EXTINF:-1 group-title="exchange",(UK) MTV Rocks
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/348
-#EXTINF:-1 group-title="exchange",(UK) VH1 Classic
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/15876
-#EXTINF:-1 group-title="exchange",(UK) Sky Cinema Drama & Romance 4K+
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/565
-#EXTINF:-1 group-title="exchange",(UK) Sky Cinema Action 4K+
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/199
-#EXTINF:-1 group-title="exchange",(UK) Sky Cinema Comedy 4K+
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/201
-#EXTINF:-1 group-title="exchange",(UK) Sky Cinema Thriller 4K+
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/200
-#EXTINF:-1 group-title="exchange",(UK) Sky Cinema Disney 4K+
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/1577
-#EXTINF:-1 group-title="exchange",(UK) Sky Cinema Family 4K+
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/202
-#EXTINF:-1 group-title="exchange",(UK) Sky Cinema Select 4K+
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/569
-#EXTINF:-1 group-title="exchange",(UK) Sky Cinema Premiere 4K+
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/198
-#EXTINF:-1 group-title="exchange",(UK) Sky Cinema Sci-Fi & Horror 4K+
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/203
-#EXTINF:-1 group-title="exchange",(UK) Sky Cinema Greats 4K+
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/11432
-#EXTINF:-1 group-title="exchange",(IN) Zee Cinema
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/7915
-#EXTINF:-1 group-title="exchange",(IN) Zee Bangla Cinema 4K+
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/14856
-#EXTINF:-1 group-title="exchange",(IN) &TV 4K+
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/8070
-#EXTINF:-1 group-title="exchange",(IN) Sony Six
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/14910
-#EXTINF:-1 group-title="exchange",(IN) Sony MIX
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/14873
-#EXTINF:-1 group-title="exchange",(IN) B4U Movies
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/24772
-#EXTINF:-1 group-title="exchange",(IN) Sony Max 4K+
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/24773
-#EXTINF:-1 group-title="exchange",(IN) Sony Max 2
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/24774
-#EXTINF:-1 group-title="exchange",(IN) Ten 1 HD+
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/14795
-#EXTINF:-1 group-title="exchange",(IN) Ten 2 HD+
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/14794
-#EXTINF:-1 group-title="exchange",(IN) Ten 3
-http://exchange.jinbox.nl:1339/tex2021t/w3pqg4SvT97hJXYD/14798
 
 
 + + + + + flowfhd.xyz:25461 [SEA] + + + + +
