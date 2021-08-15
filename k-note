@@ -28326,13 +28326,13 @@ http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7907.m3u8
 
 
 #EXTINF:-1 group-title="wagma",SUPERSPORT LaLiga
-http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/30205.m3u8
 http://wagmaott.com:8080/streaming/clients_live.php?extension=m3u8&username=mag00:1A:79:A0:B7:0E&password=ReDcztTd01&stream=30205
+http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/30205.m3u8
 #EXTINF:-1 group-title="wagma",SUPERSPORT V1
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/30206.m3u8
 #EXTINF:-1 group-title="wagma",SUPERSPORT PL
-http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/30207.m3u8
 http://wagmaott.com:8080/streaming/clients_live.php?extension=m3u8&username=mag00:1A:79:A0:B7:0E&password=ReDcztTd01&stream=30207
+http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/30207.m3u8
 #EXTINF:-1 group-title="wagma",SUPERSPORT Grandstand
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/30208.m3u8
 #EXTINF:-1 group-title="wagma",SUPERSPORT V2
@@ -28340,8 +28340,8 @@ http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/30209.m3u8
 #EXTINF:-1 group-title="wagma",SUPERSPORT 6 |Down
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/30210.m3u8
 #EXTINF:-1 group-title="wagma",SUPERSPORT Action
-http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/30211.m3u8
 http://wagmaott.com:8080/streaming/clients_live.php?extension=m3u8&username=mag00:1A:79:A0:B7:0E&password=ReDcztTd01&stream=30211
+http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/30211.m3u8
 #EXTINF:-1 group-title="wagma",SUPERSPORT 8 |Down
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/30212.m3u8
 #EXTINF:-1 group-title="wagma",SUPERSPORT 9 |Down
@@ -28450,6 +28450,7 @@ http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7312.m3u8
 #EXTINF:-1 group-title="wagma",BEINSPORTS PREMIUM 1 HD
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7315.m3u8
 #EXTINF:-1 group-title="wagma",BEINSPORTS PREMIUM 1 HD²
+http://wagmaott.com:8080/streaming/clients_live.php?extension=m3u8&username=mag00:1A:79:A0:B7:0E&password=ReDcztTd01&stream=7316
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7316.m3u8
 #EXTINF:-1 group-title="wagma",BEINSPORTS PREMIUM 1 SD
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7317.m3u8
@@ -28458,6 +28459,7 @@ http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7318.m3u8
 #EXTINF:-1 group-title="wagma",BEINSPORTS PREMIUM 2 HD
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7321.m3u8
 #EXTINF:-1 group-title="wagma",BEINSPORTS PREMIUM 2 HD²
+http://wagmaott.com:8080/streaming/clients_live.php?extension=m3u8&username=mag00:1A:79:A0:B7:0E&password=ReDcztTd01&stream=7322
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7322.m3u8
 #EXTINF:-1 group-title="wagma",BEINSPORTS PREMIUM 2 SD
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7323.m3u8
@@ -28466,6 +28468,7 @@ http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7324.m3u8
 #EXTINF:-1 group-title="wagma",BEINSPORTS PREMIUM 3 HD
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7327.m3u8
 #EXTINF:-1 group-title="wagma",BEINSPORTS PREMIUM 3 HD²
+http://wagmaott.com:8080/streaming/clients_live.php?extension=m3u8&username=mag00:1A:79:A0:B7:0E&password=ReDcztTd01&stream=7328
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7328.m3u8
 #EXTINF:-1 group-title="wagma",BEINSPORTS PREMIUM 3 SD
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7329.m3u8
@@ -28538,23 +28541,24 @@ http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7372.m3u8
 #EXTINF:-1 group-title="wagma",BEINSPORTS ENGLISH 1 HD
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7388.m3u8
 #EXTINF:-1 group-title="wagma",BEINSPORTS ENGLISH 1 HD²
+http://wagmaott.com:8080/streaming/clients_live.php?extension=m3u8&username=mag00:1A:79:A0:B7:0E&password=ReDcztTd01&stream=7389
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7389.m3u8
 #EXTINF:-1 group-title="wagma",BEINSPORTS ENGLISH 1 SD
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7390.m3u8
 #EXTINF:-1 group-title="wagma",BEINSPORTS ENGLISH 1 SD²
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7391.m3u8
-http://wagmaott.com:8080/streaming/clients_live.php?extension=m3u8&username=mag00:1A:79:A0:B7:0E&password=ReDcztTd01&stream=7391
 #EXTINF:-1 group-title="wagma",BEINSPORTS ENGLISH 2 HD
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7394.m3u8
 #EXTINF:-1 group-title="wagma",BEINSPORTS ENGLISH 2 HD²
+http://wagmaott.com:8080/streaming/clients_live.php?extension=m3u8&username=mag00:1A:79:A0:B7:0E&password=ReDcztTd01&stream=7395
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7395.m3u8
 #EXTINF:-1 group-title="wagma",BEINSPORTS ENGLISH 2 SD
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7396.m3u8
-http://wagmaott.com:8080/streaming/clients_live.php?extension=m3u8&username=mag00:1A:79:A0:B7:0E&password=ReDcztTd01&stream=7396
 #EXTINF:-1 group-title="wagma",BEINSPORTS ENGLISH 3 HD
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7399.m3u8
 #EXTINF:-1 group-title="wagma",BEINSPORTS ENGLISH 3 SD
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7400.m3u8
+
 #EXTINF:-1 group-title="wagma",BEINSPORTS FRENCH 1 HD
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7380.m3u8
 #EXTINF:-1 group-title="wagma",BEINSPORTS FRENCH 1 SD
@@ -28565,8 +28569,6 @@ http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7384.m3u8
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7385.m3u8
 #EXTINF:-1 group-title="wagma",BEINSPORTS NBA HD
 http://wagmaott.com:8080/live/mag00:1A:79:A0:B7:0E/ReDcztTd01/7401.m3u8
-
-http://168.205.87.198:8555/streaming/clients_live.php?extension=m3u8&username=cesar&password=123456&stream=10&type=hls
 
 
 + + + + + wagnet.club:7000 + + + + +
