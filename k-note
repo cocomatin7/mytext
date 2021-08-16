@@ -8370,8 +8370,12 @@ https://eiei.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 https://eiei.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
 #EXTINF:-1 group-title="mediasv",beIN SPORT 1
-https://bit.ly/3jHJXWA
 https://mediasv.online/tvchannel_x1/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIxIDc6MzA6MjAgQU0maGFzaF92YWx1ZT13bGZTdUp2VThmWjVVa3EzaXp3eXFnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE4JmlkPWNoXzk0NTcx
+#EXTINF:-1 group-title="mediasv",beIN SPORT 1'
+https://mediasv.online/tvchannel_x1/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIxIDE6MTE6NDMgUE0maGFzaF92YWx1ZT1HTWFJU2dsT3ZBOHBTelBITTUvN1ZRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE4JmlkPWNoXzEwMjgz
+#EXTINF:-1 group-title="mediasv",beIN SPORT 1"
+https://mediasv.online/tvchannel_x1/bein1/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIxIDE6MzU6MzIgUE0maGFzaF92YWx1ZT1zN2k1emt0WDJuVWpLbUhMWFNmMTBnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE4JmlkPWNoXzQ2MjI3
+
 #EXTINF:-1 group-title="mediasv",beIN SPORT 2
 https://mediasv.online/tvchannel_x1/bein2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIxIDc6Mjc6NTAgQU0maGFzaF92YWx1ZT16SkwwQzdKT2JXbGsxV01WZ1FLMUJnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE4JmlkPWNoXzgyMDc1
 #EXTINF:-1 group-title="mediasv",beIN SPORT 2'
