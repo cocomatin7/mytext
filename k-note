@@ -5,6 +5,8 @@ x-tvg-url="https://guidexl.tv4.live/"
 00:04:4B:CC:FF:2E < Shield 
 
 
+http://123iptv.nl:88/get.php?username=test1&password=test2&type=m3u
+Real Url: 123iptv.nl:88     Status: Active    Created: 16/10/2020 1:53:41 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
 
 http://eurotv.vip:80/get.php?username=pretttiiivddcff&password=Frffgfrffc300&type=m3u
@@ -1368,8 +1370,23 @@ http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8?token=test
 -/-/-/-/-/- php -/-/-/-/-/- 
 
 
-https://daddylive.me/extra-embed/stream-1.php 
+https://daddylive.me/extra/extra-1.php
+https://daddylive.me/extra-embed/stream-1.php
+
 https://daddylive.me/extra-embed/stream-2.php
+https://daddylive.me/extra-embed/stream-3.php
+https://daddylive.me/extra-embed/stream-4.php
+https://daddylive.me/extra-embed/stream-5.php
+https://daddylive.me/extra-embed/stream-6.php
+https://daddylive.me/extra-embed/stream-7.php
+https://daddylive.me/extra-embed/stream-8.php
+https://daddylive.me/extra-embed/stream-9.php
+https://daddylive.me/extra-embed/stream-10.php
+https://daddylive.me/extra-embed/stream-11.php
+https://daddylive.me/extra-embed/stream-12.php
+https://daddylive.me/extra-embed/stream-13.php
+
+https://daddylive.me/extra/extra-2.php
 https://daddylive.me/extra/extra-3.php
 https://daddylive.me/extra/extra-4.php
 https://daddylive.me/extra/extra-5.php
@@ -1381,12 +1398,20 @@ https://daddylive.me/extra/extra-10.php
 https://daddylive.me/extra/extra-11.php
 https://daddylive.me/extra/extra-12.php
 https://daddylive.me/extra/extra-13.php
+-/-/-/-/-/-
 
+https://daddylive.live/embed/stream-1.php
+
+
+https://daddylive.live/embed/stream-50.php
+
+-/-/-/-/-/-
 
 https://daddylive.me/stream/stream-130.php ss pl
 
 https://daddylive.me/stream/stream-66.php TUDN US
 
+https://daddylive.me/channels/stream-31.php
 https://daddylive.me/embed/stream-31.php < BT SPORT 1
 https://daddylive.me/embed/stream-32.php < BT SPORT 2
 https://daddylive.me/embed/stream-33.php < BT SPORT 3
@@ -1451,6 +1476,15 @@ https://daddylive.me/embed/stream-136.php FOX Sports1
 https://daddylive.me/embed/stream-137.php FOX Sports2
 https://daddylive.me/embed/stream-138.php FOX Sports3
 
+https://daddylive.me/embed/stream-101.php SK2
+https://daddylive.me/embed/stream-102.php SK2
+https://daddylive.me/embed/stream-103.php SK3
+https://daddylive.me/embed/stream-104.php SK4
+
+https://daddylive.me/embed/stream-22.php Premier 1
+https://daddylive.me/embed/stream-23.php Premier 2
+
+-/-/-/-/-/-/-
 
 Live Gday1 http://nflscoop.net/gday1.html
 Live Gday2 http://nflscoop.net/gday2.html
@@ -2043,6 +2077,7 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 
 #EXTINF:-1 group-title="BamarTV",VEVO 2K (US) (1080p)
 https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
+
 #EXTINF:-1 group-title="BamarTV",VEVO Country (US) (1080p)
 https://5dcc69faf960dd5dcc551818-s-2.ssai.zype.com/5dcc69faf960dd5dcc551818-s-2/manifest.m3u8
 #EXTINF:-1 group-title="BamarTV",VEVO Hip Hop (US) (1080p)
@@ -24914,6 +24949,13 @@ http://hdhd.tk:80/5000/5000/15969
 http://hidraplay.tv:80/get.php?username=ekumkwis&password=O9a0p1r1lB&type=m3u
 Real Url: hidraplay.tv:80     Status: Active    Created: 9/5/2021 1:10:39 AM     Expires: Null    Active Connections: 2     Maximum Connections: 3     Formats: "m3u8","ts","rtmp" < DOWN
 
+
++ + + + +hypnotic-hosting.net:80 + + + + + SONY EN
+
+http://hypnotic-hosting.net:80/get.php?username=sheldon&password=sheldon&type=m3u
+Real Url: hypnotic-hosting.net:80     Status: Active    Created: 26/7/2021 5:45:04 PM     Expires: 26/10/2021 5:45:04 PM    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+
+
 + + + + + iiiptv.live:8080 + + + + +
 
 http://iiiptv.live:8080/get.php?username=amigo1980&password=HdT8yH7nZ4YKm7mN&type=m3u
@@ -27948,6 +27990,8 @@ https://watchindia.net:8443/get.php?username=33253&password=72963&type=m3u < DOW
 http://watchindia.net:8880/get.php?username=33253&password=72963&type=m3u
 Real Url: watchindia.net:8880     Status: Active    Created: 25/8/2020 12:00:00 AM     Expires: 25/8/2021 10:00:00 AM    Active Connections: 2     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
 
+http://watchindia.net:8880/get.php?username=60275&password=20486&type=m3u
+Real Url: watchindia.net:8880     Status: Active    Created: 17/2/2021 10:00:00 AM     Expires: 17/9/2021 10:00:00 AM    Active Connections: 3     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
 
 
 + + + + + webo.asia:80 + + + + + to check
