@@ -6,6 +6,7 @@ x-tvg-url="https://guidexl.tv4.live/"
 
 
 
+
 http://eurotv.vip:80/get.php?username=pretttiiivddcff&password=Frffgfrffc300&type=m3u
 Real Url: eurotv.vip:80     Status: Active    Created: 9/5/2021 2:04:03 PM     Expires: Null    Active Connections: 71     Maximum Connections: 300     Formats: "m3u8","ts","rtmp"
 
@@ -24102,6 +24103,81 @@ http://144.76.86.51:57060/streaming/clients_live.php?extension=m3u8&username=sta
 + + + + + 148.251.129.207:2083 + + + + +
 
 https://xc.gt-app.tk:2083/get.php?username=GThn&password=qLzpvNzf04JgYjTwKgHrMgRfLgXfWn&type=m3u < 148.251.129.207:2083 < null < 0-320 < Albdroid TV few CH
+
++ + + + + 152.89.61.12:25461 + + + + +
+
+http://152.89.61.12:25461/get.php?username=UUweNyPl3Z&password=LqUEgGeOO8&type=m3u
+Real Url: 152.89.61.12:25461     Status: Active    Created: 13/8/2021 6:14:48 AM     Expires: Null    Active Connections: 6     Maximum Connections: 300     Formats: "m3u8","ts"
+
+#EXTINF:-1 group-title="152.89",HBO
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/30.m3u8
+#EXTINF:-1,Cinemax
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/31.m3u8
+#EXTINF:-1,HBO SIgnature
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/32.m3u8
+#EXTINF:-1,FOX Action Movie
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/33.m3u8
+#EXTINF:-1,CALESTIAL Classic Movies
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/34.m3u8
+#EXTINF:-1,CALESTIAL Movies 
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/35.m3u8
+#EXTINF:-1,HBO (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/55.m3u8
+#EXTINF:-1,Cinemax (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/56.m3u8
+#EXTINF:-1,FOX Movies (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/57.m3u8
+#EXTINF:-1,FOX HD (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/59.m3u8
+#EXTINF:-1,FOX Life (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/60.m3u8
+#EXTINF:-1,Warner TV (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/61.m3u8
+#EXTINF:-1,tvN Movies (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/64.m3u8
+#EXTINF:-1,ASTRO Arena (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/65.m3u8
+#EXTINF:-1,ASTRO Supersport (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/66.m3u8
+#EXTINF:-1,ASTRO Supersport 2 (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/67.m3u8
+#EXTINF:-1,ASTRO Supersport 3 (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/68.m3u8
+#EXTINF:-1,ASTRO Supersport 4 (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/69.m3u8
+#EXTINF:-1,tvN (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/70.m3u8
+#EXTINF:-1,K PLUS (TEST)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/71.m3u8
+#EXTINF:-1,FOX Sports (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/76.m3u8
+#EXTINF:-1,FOX Sports 3 (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/78.m3u8
+#EXTINF:-1,Nat Geo (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/81.m3u8
+#EXTINF:-1,DISCOVERY Asia (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/82.m3u8
+#EXTINF:-1,HGTV (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/83.m3u8
+#EXTINF:-1,TLC (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/84.m3u8
+#EXTINF:-1,Asia Food Network (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/85.m3u8
+#EXTINF:-1,Sony SAB (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/87.m3u8
+#EXTINF:-1,Sony SetMAX (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/88.m3u8
+#EXTINF:-1,WWE Network (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/89.m3u8
+#EXTINF:-1,FAM Movies (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/90.m3u8
+#EXTINF:-1,FOX Sports 2 (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/77.m3u8
+#EXTINF:-1,beIN SPORTS (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/99.m3u8
+#EXTINF:-1 group-title="152.89",beIN MAX (test)
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/100.m3u8
+
 
 
 + + + + + 168.205.87.198:8555 + + + + +
