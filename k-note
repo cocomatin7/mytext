@@ -8605,36 +8605,46 @@ https://lnwlomtoe.atvlb.com/lnwlomtoe/ch65/playlist.m3u8
  group-title="lnwlomtoe/offline",digi spt 2 |atvlb
 https://lnwlomtoe.atvlb.com/lnwlomtoe/ch68/playlist.m3u8
 
-+ + + + + mediasv.online + + + + +
++ + + + + mediasv.online + + + + + https://wacth.tv/live-tv + + + 
 
 #EXTINF:-1 group-title="mediasv",true EPL 1
 https://mediasv.online/tvchannel_x1/truepl1Fallback/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgMTE6MjE6NTcgQU0maGFzaF92YWx1ZT00NnhVTFRSSU9xZFFlczY3V2ZCT2F3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTI4JmlkPWNoXzM1MDQz
-#EXTINF:-1 group-title="mediasv",true EPL 1'
+#EXTINF:-1 group-title="mediasv",true EPL 1*
 https://mediasv.online/tvchannel_x1/truepl1Fallback/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIxIDM6MDQ6MTMgUE0maGFzaF92YWx1ZT12QzNOOWdENEVSVVZlTW81cThIYUlnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzIwNjMw
-#EXTINF:-1 group-title="mediasv",true EPL 1"
-https://mediasv.online/live/trueepl1/playlist.m3u8
+#EXTINF:-1 group-title="mediasv",true EPL 1*'
 https://mediasv.online/tvchannel_x1/truepl1Fallback/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIxIDE6MjU6NTggUE0maGFzaF92YWx1ZT1JUzZNTHZ6MFlhanUxNGdvVlh0czN3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzI0NzE1
-#EXTINF:-1 group-title="mediasv",true EPL 1'"
+https://mediasv.online/live/trueepl1/playlist.m3u8
+#EXTINF:-1 group-title="mediasv",true EPL 1'
 https://mediasv.online/tvchannel_x1/truepl1Fallback/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIxIDE6MTg6NTEgUE0maGFzaF92YWx1ZT1zTS9uWlQ3SmVRM3g4RkFYNkRXY2t3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI4JmlkPWNoXzk2MzMy
+#EXTINF:-1 group-title="mediasv",true EPL 1*"
+https://mediasv.online/tvchannel_x1/truepl1Fallback/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEyOjE5OjU1IFBNJmhhc2hfdmFsdWU9MDQ0UFBZTzdnK2ZkYlphc1dqQWFmUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOCZpZD1jaF80ODUwNQ==
 
 #EXTINF:-1 group-title="mediasv",true EPL 2
 https://mediasv.online/tvchannel_x1/trueepl2/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjEgMTE6MjA6MDIgQU0maGFzaF92YWx1ZT16bndhczZDbTFBTlRQeEZkbVNXNGZnPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIxJmlkPWNoXzM0MTU3
 https://mediasv.online/live/trueepl2/playlist.m3u8
-#EXTINF:-1 group-title="mediasv",true EPL 2'
+#EXTINF:-1 group-title="mediasv",true EPL 2*
 https://mediasv.online/tvchannel_x1/trueepl2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDIxIDM6MDc6NTQgUE0maGFzaF92YWx1ZT0zUVBWcU9VbGp5UDdTWGJmeVB6NUFnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIxJmlkPWNoXzY0MjMz
-#EXTINF:-1 group-title="mediasv",true EPL 2"
+#EXTINF:-1 group-title="mediasv",true EPL 2*'
 https://mediasv.online/tvchannel_x1/trueepl2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIxIDE6MjE6NTQgUE0maGFzaF92YWx1ZT1nam5MSDhTemM4WUNDWkt3SGpHWVdnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIxJmlkPWNoXzg4ODQ5
-#EXTINF:-1 group-title="mediasv",true EPL 2'"
+#EXTINF:-1 group-title="mediasv",true EPL 2'
 https://mediasv.online/tvchannel_x1/trueepl2/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIxIDE6MTg6NTkgUE0maGFzaF92YWx1ZT12K2ZLeWUyUXltV2h1UjFJR1NMeGFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIxJmlkPWNoXzQwNzgy
+#EXTINF:-1 group-title="mediasv",true EPL 2*"
+https://mediasv.online/tvchannel_x1/trueepl2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEyOjE4OjM3IFBNJmhhc2hfdmFsdWU9RXNKM2o0TDEwc3hBQTFZT1luZ05iQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMSZpZD1jaF82NDU3OA==
 
 #EXTINF:-1 group-title="mediasv",true EPL 3
 https://mediasv.online/tvchannel_x1/trueepl3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIxIDE6MjA6NDIgUE0maGFzaF92YWx1ZT1wbDNCTnFOaUVnejJ0OE8yOWJCOVRBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIxJmlkPWNoXzI1NzE3
 #EXTINF:-1 group-title="mediasv",true EPL 3'
 https://mediasv.online/tvchannel_x1/trueepl3/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIxIDE6MTg6NTcgUE0maGFzaF92YWx1ZT1VOVR2bXdUSWNuTFNNQWVBdUU4c1dnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIxJmlkPWNoXzc5NDA1
+#EXTINF:-1 group-title="mediasv",true EPL 3"
+https://mediasv.online/tvchannel_x1/trueepl3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEyOjE3OjQ5IFBNJmhhc2hfdmFsdWU9R21qYzI0Q3ZqajhPdERxMi9WTmR1Zz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMSZpZD1jaF85ODkzNQ==
 
+#EXTINF:-1 group-title="mediasv",true EPL 4/2
+https://mediasv.online/tvchannel_x1/trueepl2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEyOjE2OjA1IFBNJmhhc2hfdmFsdWU9SXFXeGNaMlowY3hqMzJnc3ZHUmFaZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMSZpZD1jaF82NjY4MA==
 
 #EXTINF:-1 group-title="mediasv",true EPL 5
 https://mediasv.online/tvchannel_x1/trueepl5/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIxIDE6MTk6MDEgUE0maGFzaF92YWx1ZT1DUWR2ZjAwL21weXlOUnIrcGVSWTZ3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIxJmlkPWNoXzYzMTMw
+#EXTINF:-1 group-title="mediasv",true EPL 5'
+https://mediasv.online/tvchannel_x1/trueepl5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEyOjE0OjU3IFBNJmhhc2hfdmFsdWU9Z2UyeE1ZL0V1UVVMTmVjL2hZdjFZdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMSZpZD1jaF83MTg1NQ==
 
 #EXTINF:-1 group-title="mediasv",true EPL 3
 https://eiei.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
@@ -8777,14 +8787,35 @@ https://mediasv.online/live7f/hd-natgeowild/chunks.m3u8?wmsAuthSign=c2VydmVyX3Rp
 https://mediasv.online/live7f/starchinesemovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjE1OjUyIEFNJmhhc2hfdmFsdWU9amp3ZmRwc2IvSVFsbGYwc20vbEN0Zz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
 https://mediasv.online/tvchannel_x1/bbcworldnews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjE1OjUyIEFNJmhhc2hfdmFsdWU9amp3ZmRwc2IvSVFsbGYwc20vbEN0Zz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
 https://mediasv.online/tvchannel_x1/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjE1OjUyIEFNJmhhc2hfdmFsdWU9amp3ZmRwc2IvSVFsbGYwc20vbEN0Zz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
+
+cinemax
 https://mediasv.online/tvchannel_x1/fhd-cinemax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjE1OjUyIEFNJmhhc2hfdmFsdWU9amp3ZmRwc2IvSVFsbGYwc20vbEN0Zz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
+https://mediasv.online/tvchannel_x1/fhd-cinemax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjU5OjU4IEFNJmhhc2hfdmFsdWU9QmdkdTh1cDBrZkVmKzVRdGpCZ0R5QT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNCZpZD1jaF82Mzk1Mg==
+
 https://mediasv.online/tvchannel_x1/fox-family/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjE1OjUyIEFNJmhhc2hfdmFsdWU9amp3ZmRwc2IvSVFsbGYwc20vbEN0Zz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
+foxactionmovie
 https://mediasv.online/tvchannel_x1/foxactionmovie/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjE1OjUyIEFNJmhhc2hfdmFsdWU9amp3ZmRwc2IvSVFsbGYwc20vbEN0Zz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
+https://mediasv.online/tvchannel_x1/foxactionmovie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjUyOjQ2IEFNJmhhc2hfdmFsdWU9VWZxcDB6VDBzeDRvenNzc29ub2I1Zz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNyZpZD1jaF84OTg3Mw==
+
+hbo-family
 https://mediasv.online/tvchannel_x1/hbo-family/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjE1OjUyIEFNJmhhc2hfdmFsdWU9amp3ZmRwc2IvSVFsbGYwc20vbEN0Zz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
+https://mediasv.online/tvchannel_x1/hbo-family/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjU4OjAyIEFNJmhhc2hfdmFsdWU9dXorTkVrTGgyY2xzcGVXZ1FqWkk4dz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMyZpZD1jaF84NzMxMA==
+
 https://mediasv.online/tvchannel_x1/hd-discovery/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjE1OjUyIEFNJmhhc2hfdmFsdWU9amp3ZmRwc2IvSVFsbGYwc20vbEN0Zz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
+
+hbo-hit
 https://mediasv.online/tvchannel_x1/hd-hbo-hit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjE1OjUyIEFNJmhhc2hfdmFsdWU9amp3ZmRwc2IvSVFsbGYwc20vbEN0Zz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
+https://mediasv.online/tvchannel_x1/hd-hbo-hit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjU3OjIwIEFNJmhhc2hfdmFsdWU9K2gvaU5FRnFtM0VMekZSb0w4YnFmQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMyZpZD1jaF8yNDMyOQ==
+
+hbo-signature
 https://mediasv.online/tvchannel_x1/hd-hbo-signature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjE1OjUyIEFNJmhhc2hfdmFsdWU9amp3ZmRwc2IvSVFsbGYwc20vbEN0Zz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
+https://mediasv.online/tvchannel_x1/hd-hbo-signature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjU2OjMzIEFNJmhhc2hfdmFsdWU9N2k3b3dKaGd6Wkt5TElSQXZ4MkI5QT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yOSZpZD1jaF8xMDA1OA==
+
+hbo-thai
+https://mediasv.online/premium/hd-hbo-thai/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEyOjA0OjMzIFBNJmhhc2hfdmFsdWU9THdFK1hiK3QvVUYzdGIyYkhFNTQ2UT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0xOSZpZD1jaF8yOTMzOA==
+hbo-thai'
 https://mediasv.online/tvchannel_x1/hd-hbo-thai/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjE1OjUyIEFNJmhhc2hfdmFsdWU9amp3ZmRwc2IvSVFsbGYwc20vbEN0Zz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
+
 https://mediasv.online/tvchannel_x1/hd-tsport1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjE1OjUyIEFNJmhhc2hfdmFsdWU9amp3ZmRwc2IvSVFsbGYwc20vbEN0Zz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
 https://mediasv.online/tvchannel_x1/moviehits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjE1OjUyIEFNJmhhc2hfdmFsdWU9amp3ZmRwc2IvSVFsbGYwc20vbEN0Zz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
 https://mediasv.online/tvchannel_x1/natgeo/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjE1OjUyIEFNJmhhc2hfdmFsdWU9amp3ZmRwc2IvSVFsbGYwc20vbEN0Zz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
@@ -8803,6 +8834,16 @@ https://mediasv.online/tvchannel_x2/hd-afc/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 https://mediasv.online/tvchannel_x2/hd-tvn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDExOjE1OjUyIEFNJmhhc2hfdmFsdWU9amp3ZmRwc2IvSVFsbGYwc20vbEN0Zz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
 
 
+https://mediasv.online/tvchannel_x1/hd-tsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEyOjE0OjI4IFBNJmhhc2hfdmFsdWU9VUtiLzdBNW93VXVVRW1OOXNiVmJUQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMyZpZD1jaF8zNzUxMA==
+https://mediasv.online/tvchannel_x1/truesporthd3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEyOjEzOjIyIFBNJmhhc2hfdmFsdWU9ZkRBMGV5akhWdG5Cb0FqOHNROHVtdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNSZpZD1jaF8yMDQ3Nw==
+https://mediasv.online/tvchannel_x1/truesport5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEyOjEyOjUzIFBNJmhhc2hfdmFsdWU9K0hzNU9NNlNweXJnYTkvc3ZvdDNLdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMyZpZD1jaF83MTkzNQ==
+https://mediasv.online/tvchannel_x1/truesport7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEyOjEwOjE3IFBNJmhhc2hfdmFsdWU9d0YwRVZVd2dZSTF6UVJnMHpjVlkyQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMyZpZD1jaF84MjM5Ng==
+
+-/-/-/- offline -/-/-/-
+
+https://mediasv.online/live/prm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEyOjAxOjU5IFBNJmhhc2hfdmFsdWU9UmFSa2d5cXJ4aVdrdnRMRm1lWGhtQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj04JmlkPWNoXzY3MTI2 | N.A.
+https://mediasv.online/live/warner/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEyOjA2OjQwIFBNJmhhc2hfdmFsdWU9ZTFGNFpQZXZtZUV2Q2JycXhBV3FEUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0xMSZpZD1jaF83NDAxMQ==
+https://mediasv.online/tvchannel_x2/hd-redbyhbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEyOjA4OjIxIFBNJmhhc2hfdmFsdWU9MFhrTEZKUkR2SXhUazJ0UW9WRzNKdz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yNCZpZD1jaF84Nzg1Nw==
 
 
 https://mediasv.online/live/golfchannel/playlist.m3u8
