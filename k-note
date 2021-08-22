@@ -823,6 +823,9 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 #EXTINF:-1 group-title="BamarTV/Sports",Bein Sport 3 Fr
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgMDI0J3bwNlbpVmQ
 
+#EXTINF:-1 group-title="BamarTV/Sports",S PremierLeague
+https://d1q3hzp3rc6dxt.cloudfront.net/out/v1/1eecb7374661481180f1c6314590ff2d/index.m3u8
+
 
 #EXTINF:-1 group-title="BamarTV/Sports",beIN Sports Premium 1
 http://185.205.201.166:8000/play/MoFanoon_P1
@@ -1152,6 +1155,19 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.m3u8
 
 
+http://143.198.187.247/hls/ovochannel2/playlist.m3u8 offline
+http://143.198.187.247/hls/ovochannel3/playlist.m3u8 offline
+
+#EXTINF:-1 group-title="BamarTV/Sports",ovochannel1
+http://147.182.210.238/live/ovochannel1/playlist.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",ovochannel2
+http://147.182.210.238/live/ovochannel2/playlist.m3u8
+
+#EXTINF:-1 group-title="BamarTV/Sports",ovochannel1'
+http://159.89.82.102/live/ovochannel1/playlist.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",ovochannel2'
+http://159.89.82.102/live/ovochannel2/playlist.m3u8
+
 
 Mediacorp 5
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_10001&key=84797b799ae18d1b
@@ -1415,6 +1431,10 @@ http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8?token=test
 
 -/-/-/-/-/- php -/-/-/-/-/- 
 
+
+
+https://live.tab3live.us/p/1-bein-premium-1-hd-live-channel.html?m=0
+https://live.tab3live.us/p/1-bein-premium-1-hd-live-channel.html?m=0
 
 
 + + + + + channelstream.club + + + + + can't too much AD + + https://123sport.tv/ + + https://channelstream.watch/chaine-tv.php
