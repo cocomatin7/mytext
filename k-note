@@ -1060,6 +1060,22 @@ https://app.mb13.men/c/livedo/truepremierfootball2-hd.m3u8
 https://app.mb13.men/c/livedo/truepremierfootball3-hd.m3u8
 
 
+
+Football 2RU
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+
+
+UCL
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+TNT SPORTS
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+TNT SPORTS LIVE
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+
+
 ,afn
 https://home-tv.web.id/DASAR_MALING/homempd.m3u8?channel=afc
 ,bein 1
@@ -1369,6 +1385,41 @@ http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8?token=test
 -/-/-/-/-/- php -/-/-/-/-/- 
 
 
+
++ + + + + http://livesport24.net/ + + + + +
+
+https://all.ive.zone/ch1.php
+https://all.ive.zone/ch2.php
+https://all.ive.zone/ch3.php
+https://all.ive.zone/ch4.php
+https://all.ive.zone/ch5.php
+https://all.ive.zone/ch6.php
+https://all.ive.zone/ch7.php
+https://all.ive.zone/ch8.php
+https://all.ive.zone/ch9.php offline
+https://all.ive.zone/ch10.php
+https://all.ive.zone/ch11.php offline
+-/-/-/-
+https://all.ive.zone/ch19.php offline
+https://all.ive.zone/ch20.php ESPN DEPORTES
+https://all.ive.zone/ch21.php offline
+https://all.ive.zone/ch22.php GOLTV
+https://all.ive.zone/ch23.php offline
+-/-/-/-
+https://all.ive.zone/ch29.php offline
+https://all.ive.zone/ch30.php C MORE
+https://all.ive.zone/ch31.php sky SPORT1
+https://all.ive.zone/ch32.php sky SPORT2
+https://all.ive.zone/ch33.php sky SPORT3
+https://all.ive.zone/ch34.php sky SPORT4
+https://all.ive.zone/ch35.php TSN3
+https://all.ive.zone/ch36.php
+https://all.ive.zone/ch37.php sky SPORT7
+https://all.ive.zone/ch38.php ESPN
+https://all.ive.zone/ch39.php NFL
+https://all.ive.zone/ch40.php TUDN
+
+
 https://daddylive.me/extra/extra-1.php
 https://daddylive.me/extra-embed/stream-1.php
 
@@ -1404,13 +1455,13 @@ https://daddylive.me/embed/stream-2.php tico SPORTS
 https://daddylive.me/embed/stream-3.php GOLTV
 https://daddylive.me/embed/stream-4.php FOX SOCCER plus
 https://daddylive.me/embed/stream-5.php ALL STAR
-https://daddylive.me/embed/stream-6.php N.A
+https://daddylive.me/embed/stream-6.php S LaLiga << 
 https://daddylive.me/embed/stream-7.php N.A
 https://daddylive.me/embed/stream-8.php MLB?
 https://daddylive.me/embed/stream-9.php MLB
 https://daddylive.me/embed/stream-10.php MLB
 https://daddylive.me/embed/stream-11.php MLB
-https://daddylive.me/embed/stream-12.php MLB
+https://daddylive.me/embed/stream-12.php MLB / S Action
 https://daddylive.me/embed/stream-13.php MLB
 https://daddylive.me/embed/stream-14.php ROOT SPORT
 https://daddylive.me/embed/stream-15.php MLB
@@ -23047,6 +23098,8 @@ http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="221.120/IN",STAR MOVIES 
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
+
+http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="221.120/IN",STAR SPORTS SELECT 1
 http://221.120.204.4/STAR-SPORTS-SELECT-1-/tracks-v1a1/mono.m3u8
@@ -24059,6 +24112,10 @@ http://www.adiltvcdn.xyz:8080/get.php?username=K1iQxeQHq&password=oD9Oh286VP&typ
 Real Url: www.adiltvcdn.xyz:8080     Status: Active    Created: 28/7/2021 2:13:21 PM     Expires: Null    Active Connections: 6     Maximum Connections: 500     Formats: "ts"
 
 http://bestsave.ltd:8011/get.php?username=P1234567&password=P1234567&type=m3u < 1-1
+
+http://basic-iptvesun.com:8080/get.php?username=carter&password=GUV1bMq2VK&type=m3u
+Real Url: client-iptvmag.club:8080     Status: Active    Created: 9/10/2019 11:16:18 PM     Expires: Null    Active Connections: 50     Maximum Connections: 50     Formats: "m3u8","ts"
+
 
 http://client.ksporttv.com:88/get.php?username=bajrami12&password=8SgZlCQLH9&type=m3u Real Url: client.ksporttv.com:88     Status: Active    Created: Null     Expires: 28/2/2022 1:00:00 AM    Active Connections: 2     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
