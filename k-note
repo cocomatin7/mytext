@@ -1389,6 +1389,9 @@ http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BamarTV/Sports",FOX SPORT
 http://103.159.4.38:5868/SPORTS-13/tracks-v1a1/mono.m3u8
 
+http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+
+
 
 COSMOTE SPORT1
 http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8?token=test
@@ -23301,7 +23304,9 @@ http://tvflixvip01.ddns.net/HINDI_SONY_SAB_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="misc/IN",STAR_BHARAT_HD
 http://tvflixvip01.ddns.net/HINDI_STAR_BHARAT_HD/index.m3u8?token=test
 http://tvflixvip01.ddns.net/HINDI_STAR_GOLD_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="misc/IN",STAR_GOLD_SELECT_HD
 http://tvflixvip01.ddns.net/HINDI_STAR_GOLD_SELECT_HD/index.m3u8?token=test
+http://tvflixvip01.ddns.net//HINDI_STAR_GOLD_SELECT_HD/index.m3u8?token=test
 
 http://tvflixvip01.ddns.net/HINDI_STAR_PLUS_HD/index.m3u8?token=test
 http://tvflixvip01.ddns.net/HINDI_STAR_UTSAV_MOVIES/index.m3u8?token=test
