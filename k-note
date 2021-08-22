@@ -1786,100 +1786,42 @@ view-source:http://www.ovostreams.com/4.php
 view-source:http://www.ovostreams.com/5.php
 
 
-+ + + + + misc/beIN + + + + + + 
-
-#EXTINF:-1 group-title="misc/beIN",beIN 1MAX
-http://adnaraoun.xyz:80/live/05500021500/index.m3u8
-http://adnaraoun.xyz/live/05500021500/index.m3u8
-http://6.amroutras.xyz/live/05500021500/index.m3u8
-
-#EXTINF:-1 group-title="misc/beIN",beIN 2MAX
-http://adnaraoun.xyz:80/live/331210000/index.m3u8
-http://1.adnaraoun.xyz:80/live/331210000/index.m3u8
-http://2.adnaraoun.xyz:80/live/331210000/index.m3u8
-http://5.amroutras.xyz/live/331210000/index.m3u8
-
-http://7.anbdaouras.xyz/live/9889900/index.m3u8
-http://8.anbdaouras.xyz/live/9889900/index.m3u8
-http://9.anbdaouras.xyz/live/9889900/index.m3u8
-
-http://7.anbdaouras.xyz:80/live/6262622200/index.m3u8
-http://8.anbdaouras.xyz:80/live/6262622200/index.m3u8
-http://9.anbdaouras.xyz:80/live/6262622200/index.m3u8
-http://8.anbdaouras.xyz/live/6262622200/index.m3u8
-
-http://adnaraoun.xyz:80/live/00002500/index.m3u8
-http://1.adnaraoun.xyz:80/live/00002500/index.m3u8
-http://2.adnaraoun.xyz:80/live/00002500/index.m3u8
-
-http://adnaraoun.xyz/live/44619987700/index.m3u8
-http://5.amroutras.xyz/live/44619987700/index.m3u8
-
-NA
-http://3.amarteyyy.xyz/live/790006600/index.m3u8
-http://3.amarteyyy.xyz/live/001087800/index.m3u8
-http://3.amarteyyy.xyz/live/0679877700/index.m3u8
-
-http://11.ardounar.xyz/live/44619987700/index.m3u8
-
-beIN 2 MAX
-http://5.amroutras.xyz/live/00002500/index.m3u8
++ + + + + misc/beIN + + + + + + adnaraoun.xyz:80 + + + 1.adnaraoun.xyz:80 + + amarteyyy.xyz + + anbdaouras.xyz:80 + + amroutras.xyz 
 
 
-beIN SPORTS 1PRE |alha
-http://3.alhawalouh.xyz:80/live/6161655/index.m3u8
-beIN SPORTS 2PRE |alha
-http://3.alhawalouh.xyz:80/live/616194987/index.m3u8
-beIN SPORTS 3PRE |alha
-http://3.alhawalouh.xyz:80/live/6151278887/index.m3u8
-
-no signal
-http://3.alhawalouh.xyz:80/live/1515000000/index.m3u8
-
-Bein Sports 1 |alha
-http://3.alhawalouh.xyz:80/live/918454578/index.m3u8
-Bein Sports 2 |alha
-http://3.alhawalouh.xyz:80/live/69854211/index.m3u8
-beIN SPORTS 1PRE' |alha
-http://3.alhawalouh.xyz:80/live/88824257/index.m3u8
-beIN SPORTS 4 |alha
-http://3.alhawalouh.xyz:80/live/9787488847/index.m3u8
-beIN SPORTS 2' |alha
-http://3.alhawalouh.xyz:80/live/10011244/index.m3u8
-beIN SPORTS 7 |alha
-http://3.alhawalouh.xyz:80/live/100666696/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/6161655/index.m3u8
-http://2.alhawalouh.xyz:80/live/6161655/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/69854211/index.m3u8
-http://2.alhawalouh.xyz:80/live/69854211/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/9787488847/index.m3u8
-http://2.alhawalouh.xyz:80/live/9787488847/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/10011244/index.m3u8
-http://2.alhawalouh.xyz:80/live/10011244/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/100666696/index.m3u8
-http://2.alhawalouh.xyz:80/live/100666696/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/1515000000/index.m3u8
-http://2.alhawalouh.xyz:80/live/1515000000/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/616194987/index.m3u8
-http://2.alhawalouh.xyz:80/live/616194987/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/918454578/index.m3u8
-http://2.alhawalouh.xyz:80/live/918454578/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/6151278887/index.m3u8
-http://2.alhawalouh.xyz:80/live/6151278887/index.m3u8
-
-http://1.alhawalouh.xyz:80/live/88824257/index.m3u8
-http://2.alhawalouh.xyz:80/live/88824257/index.m3u8
+http://gog.daroudaraw.xyz/live/00002500/index.m3u8
+http://gog.daroudaraw.xyz/live/001087800/index.m3u8
+http://gog.daroudaraw.xyz/live/05500021500/index.m3u8
+http://gog.daroudaraw.xyz/live/0679877700/index.m3u8
+#EXTINF:-1 group-title="misc/beIN",beIN Movies
+http://gog.daroudaraw.xyz/live/10011244/index.m3u8
+#EXTINF:-1 group-title="misc/beIN",beIN 7
+http://gog.daroudaraw.xyz/live/100666696/index.m3u8
+#EXTINF:-1 group-title="misc/beIN",beIN 6
+http://gog.daroudaraw.xyz/live/1515000000/index.m3u8
+http://gog.daroudaraw.xyz/live/331210000/index.m3u8
+http://gog.daroudaraw.xyz/live/44619987700/index.m3u8
+#EXTINF:-1 group-title="misc/beIN",beIN 3PRE
+http://gog.daroudaraw.xyz/live/6151278887/index.m3u8
+#EXTINF:-1 group-title="misc/beIN",beIN 1PRE
+http://gog.daroudaraw.xyz/live/6161655/index.m3u8
+#EXTINF:-1 group-title="misc/beIN",beIN 2PRE
+http://gog.daroudaraw.xyz/live/616194987/index.m3u8
+http://gog.daroudaraw.xyz/live/6262622200/index.m3u8
+#EXTINF:-1 group-title="misc/beIN",beIN 2
+http://gog.daroudaraw.xyz/live/69854211/index.m3u8
+http://gog.daroudaraw.xyz/live/790006600/index.m3u8
+#EXTINF:-1 group-title="misc/beIN",beIN 1PRE'
+http://gog.daroudaraw.xyz/live/88824257/index.m3u8
+#EXTINF:-1 group-title="misc/beIN",beIN 1
+http://gog.daroudaraw.xyz/live/918454578/index.m3u8
+#EXTINF:-1 group-title="misc/beIN",beIN 4
+http://gog.daroudaraw.xyz/live/9787488847/index.m3u8
+http://gog.daroudaraw.xyz/live/9889900/index.m3u8
 
 http://zana@3.alhawalouh.xyz/live/88824257/index.m3u8
+
+-/-/-/-/-
 
 https://b.pscdn.live/hls/bein-sports-1.m3u8
 https://b.pscdn.live/hls/bein-sports-2.m3u8
