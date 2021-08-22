@@ -825,7 +825,8 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 
 #EXTINF:-1 group-title="BamarTV/Sports",S PremierLeague
 https://d1q3hzp3rc6dxt.cloudfront.net/out/v1/1eecb7374661481180f1c6314590ff2d/index.m3u8
-
+#EXTINF:-1 group-title="BamarTV/Sports",NBCSN
+https://d3vbcgey1ig0qy.cloudfront.net/out/v1/d41cf9357c2e49efa0ca6ace58c96084/index.m3u8
 
 #EXTINF:-1 group-title="BamarTV/Sports",beIN Sports Premium 1
 http://185.205.201.166:8000/play/MoFanoon_P1
