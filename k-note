@@ -1315,15 +1315,15 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/bbec2fcf9b5
  EPL 1
 https://d2qw5e19354vil.cloudfront.net/out/v1/31cf06a5948c488e85ddef08474e807d/index.m3u8
 
-#EXTINF:-1SPORT.TV1 |51
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV1 |51
 http://51.15.0.141:88/PT_SPORT_TV_1_HD/index.m3u8
-#EXTINF:-1SPORT.TV2 |51
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV2 |51
 http://51.15.0.141:88/PT_SPORT_TV_2_HD/index.m3u8
-#EXTINF:-1SPORT.TV3 |51
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV3 |51
 http://51.15.0.141:88/PT_SPORT_TV_3_HD/index.m3u8
-#EXTINF:-1SPORT.TV4 |51
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV4 |51
 http://51.15.0.141:88/PT_SPORT_TV_4_HD/index.m3u8
-#EXTINF:-1SPORT.TV5 |51
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV5 |51
 http://51.15.0.141:88/PT_SPORT_TV_5_HD/index.m3u8
 
 http://streamwat.ch/custom/player/#http://77.247.109.116/hls/sportek1.m3u8
@@ -1362,23 +1362,51 @@ http://v1.oldboz44.com/beinsport12/index.m3u8
 , BT SPORT 3 LIVE *
 https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/f2s41vu1evpyi2.m3u8?s=BFnbvI6UjrXV2t-rnwyxTg&e=1612724082
 
-#EXTINF:-1 group-title="BamarTV/Sports",COSMOTE SPORT1
+#EXTINF:-1 group-title="BamarTV/Sports",STAR SPORTS SELECT 1
+http://103.159.4.38:5868/SPORTS-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",STAR SPORTS SELECT 2
+http://103.159.4.38:5868/SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",ER
+http://103.159.4.38:5868/SPORTS-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",ER
+http://103.159.4.38:5868/SPORTS-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",beIN EXTRA
+http://103.159.4.38:5868/SPORTS-5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",beIN 2 PRE EPL
+http://103.159.4.38:5868/SPORTS-6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",SONY SIX
+http://103.159.4.38:5868/SPORTS-7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",SONY TEN 1 HD
+http://103.159.4.38:5868/SPORTS-8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",SONY TEN 2
+http://103.159.4.38:5868/SPORTS-9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",SONY TEN 2HD ER
+http://103.159.4.38:5868/SPORTS-10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",STADIUM
+http://103.159.4.38:5868/SPORTS-11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",YAS
+http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORT
+http://103.159.4.38:5868/SPORTS-13/tracks-v1a1/mono.m3u8
+
+
+COSMOTE SPORT1
 http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8?token=test
-#EXTINF:-1 group-title="BamarTV/Sports",COSMOTE SPORT2
+COSMOTE SPORT2
 http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8?token=test
-#EXTINF:-1 group-title="BamarTV/Sports",COSMOTE SPORT3
+COSMOTE SPORT3
 http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8?token=test
-#EXTINF:-1 group-title="BamarTV/Sports",COSMOTE SPORT4
+COSMOTE SPORT4
 http://185.132.177.110:8080/COSMOTESport4HD/video.m3u8?token=test
-#EXTINF:-1 group-title="BamarTV/Sports",COSMOTE SPORT5
+COSMOTE SPORT5
 http://185.132.177.110:8080/COSMOTESport5HD/video.m3u8?token=test
-#EXTINF:-1 group-title="BamarTV/Sports",COSMOTE SPORT6
+COSMOTE SPORT6
 http://185.132.177.110:8080/COSMOTESport6HD/video.m3u8?token=test
-#EXTINF:-1 group-title="BamarTV/Sports",COSMOTE SPORT7
+COSMOTE SPORT7
 http://185.132.177.110:8080/COSMOTESport7HD/video.m3u8?token=test
-#EXTINF:-1 group-title="BamarTV/Sports",COSMOTE SPORT8
+COSMOTE SPORT8
 http://185.132.177.110:8080/COSMOTESport8HD/video.m3u8?token=test
-#EXTINF:-1 group-title="BamarTV/Sports",COSMOTE SPORT9
+COSMOTE SPORT9
 http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8?token=test
 
 
@@ -1801,11 +1829,11 @@ http://gog.daroudaraw.xyz/live/100666696/index.m3u8
 http://gog.daroudaraw.xyz/live/1515000000/index.m3u8
 http://gog.daroudaraw.xyz/live/331210000/index.m3u8
 http://gog.daroudaraw.xyz/live/44619987700/index.m3u8
-#EXTINF:-1 group-title="misc/beIN",beIN 3PRE
+#EXTINF:-1 group-title="misc/beIN",beIN 3 PRE
 http://gog.daroudaraw.xyz/live/6151278887/index.m3u8
-#EXTINF:-1 group-title="misc/beIN",beIN 1PRE
+#EXTINF:-1 group-title="misc/beIN",beIN 1 PRE
 http://gog.daroudaraw.xyz/live/6161655/index.m3u8
-#EXTINF:-1 group-title="misc/beIN",beIN 2PRE
+#EXTINF:-1 group-title="misc/beIN",beIN 2 PRE
 http://gog.daroudaraw.xyz/live/616194987/index.m3u8
 http://gog.daroudaraw.xyz/live/6262622200/index.m3u8
 #EXTINF:-1 group-title="misc/beIN",beIN 2
