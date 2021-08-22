@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="HBO HD">
     <display-name lang="en">HBO HD</display-name>
     <url>http://www.singteltv.com.sg</url>
@@ -23,6 +23,26 @@
   <channel id="RED BY HBO (HD)">
     <display-name lang="en">RED BY HBO (HD)</display-name>
     <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <display-name lang="en">ทรู พรีเมียร์ ฟุตบอล เอชดี 1</display-name>
+    <url>http://www.tv.trueid.net</url>
+  </channel>
+  <channel id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <display-name lang="en">ทรู พรีเมียร์ ฟุตบอล เอชดี 2</display-name>
+    <url>http://www.tv.trueid.net</url>
+  </channel>
+  <channel id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <display-name lang="en">ทรู พรีเมียร์ ฟุตบอล เอชดี 3</display-name>
+    <url>http://www.tv.trueid.net</url>
+  </channel>
+  <channel id="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <display-name lang="en">ทรู พรีเมียร์ ฟุตบอล เอชดี 4</display-name>
+    <url>http://www.tv.trueid.net</url>
+  </channel>
+  <channel id="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <display-name lang="en">ทรู พรีเมียร์ ฟุตบอล เอชดี 5</display-name>
+    <url>http://www.tv.trueid.net</url>
   </channel>
   <channel id="FOX Movies HD">
     <display-name lang="en">FOX Movies HD</display-name>
@@ -59,18 +79,6 @@
   <channel id="Astro SuperSport 4 HD">
     <display-name lang="en">Astro SuperSport 4 HD</display-name>
     <url>http://www.astro.com.my.E</url>
-  </channel>
-  <channel id="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
-    <display-name lang="en">ทรู พรีเมียร์ ฟุตบอล เอชดี 1</display-name>
-    <url>http://www.tv.trueid.net</url>
-  </channel>
-  <channel id="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
-    <display-name lang="en">ทรู พรีเมียร์ ฟุตบอล เอชดี 2</display-name>
-    <url>http://www.tv.trueid.net</url>
-  </channel>
-  <channel id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
-    <display-name lang="en">ทรู พรีเมียร์ ฟุตบอล เอชดี 3</display-name>
-    <url>http://www.tv.trueid.net</url>
   </channel>
   <programme start="20210822004500 +0800" stop="20210822020500 +0800" channel="HBO HD">
     <title lang="en">CRANK</title>
@@ -2883,5 +2891,1982 @@
   <programme start="20210828000000 +0800" stop="20210828120000 +0800" channel="RED BY HBO (HD)">
     <title lang="en">RED BY HBO (HD) has been ceased.</title>
     <desc lang="en">RED BY HBO (HD) has been ceased.(n)</desc>
+  </programme>
+  <programme start="20210822013000 +0700" stop="20210822020000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Match Round Up 2021/22</title>
+  </programme>
+  <programme start="20210822020000 +0700" stop="20210822040000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210822040000 +0700" stop="20210822043000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">The Big Interview 2021/22</title>
+  </programme>
+  <programme start="20210822043000 +0700" stop="20210822063000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210822063000 +0700" stop="20210822083000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210822083000 +0700" stop="20210822093000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Fantasy Premier League 2021/22</title>
+  </programme>
+  <programme start="20210822093000 +0700" stop="20210822100000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Match Round Up 2021/22</title>
+  </programme>
+  <programme start="20210822100000 +0700" stop="20210822120000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210822120000 +0700" stop="20210822140000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210822140000 +0700" stop="20210822160000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210822160000 +0700" stop="20210822170000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Matchday Live Extra 2021/22</title>
+  </programme>
+  <programme start="20210822170000 +0700" stop="20210822190000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210822190000 +0700" stop="20210822200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">The Match Show Live 2021/22</title>
+  </programme>
+  <programme start="20210822200000 +0700" stop="20210822220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210822220000 +0700" stop="20210822223000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">The Match Show Live 2021/22</title>
+  </programme>
+  <programme start="20210822223000 +0700" stop="20210823003000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210823003000 +0700" stop="20210823010000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Match Round Up 2021/22</title>
+  </programme>
+  <programme start="20210823010000 +0700" stop="20210823013000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Premier League World 2021/22</title>
+  </programme>
+  <programme start="20210823013000 +0700" stop="20210823033000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210823033000 +0700" stop="20210823053000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210823053000 +0700" stop="20210823060000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">The Big Interview 2021/22</title>
+  </programme>
+  <programme start="20210823060000 +0700" stop="20210823063000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Match Pack 2021/22</title>
+  </programme>
+  <programme start="20210823063000 +0700" stop="20210823083000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210823083000 +0700" stop="20210823090000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Match Round Up 2021/22</title>
+  </programme>
+  <programme start="20210823090000 +0700" stop="20210823110000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210823110000 +0700" stop="20210823120000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Matchday Live Extra 2021/22</title>
+  </programme>
+  <programme start="20210823120000 +0700" stop="20210823140000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210823140000 +0700" stop="20210823160000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210823160000 +0700" stop="20210823170000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Today 2021/22</title>
+  </programme>
+  <programme start="20210823170000 +0700" stop="20210823190000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210823190000 +0700" stop="20210823200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Matchday Live Extra 2021/22</title>
+  </programme>
+  <programme start="20210823200000 +0700" stop="20210823220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210823220000 +0700" stop="20210824000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210824000000 +0700" stop="20210824010000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Today 2021/22</title>
+  </programme>
+  <programme start="20210824010000 +0700" stop="20210824013000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">The Big Interview 2021/22</title>
+  </programme>
+  <programme start="20210824013000 +0700" stop="20210824015000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Filler PL Goal</title>
+  </programme>
+  <programme start="20210824015000 +0700" stop="20210824040000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210824040000 +0700" stop="20210824043000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Premier League World 2021/22</title>
+  </programme>
+  <programme start="20210824043000 +0700" stop="20210824063000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210824063000 +0700" stop="20210824083000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210824083000 +0700" stop="20210824093000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Matchday Live Extra 2021/22</title>
+  </programme>
+  <programme start="20210824093000 +0700" stop="20210824113000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210824113000 +0700" stop="20210824133000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210824133000 +0700" stop="20210824153000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210824153000 +0700" stop="20210824160000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Netbuster 2021/22</title>
+  </programme>
+  <programme start="20210824160000 +0700" stop="20210824170000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Today 2021/22</title>
+  </programme>
+  <programme start="20210824170000 +0700" stop="20210824180000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Matchday Live Extra 2021/22</title>
+  </programme>
+  <programme start="20210824180000 +0700" stop="20210824193000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">The Analysis Show 2021/22</title>
+  </programme>
+  <programme start="20210824193000 +0700" stop="20210824213000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210824213000 +0700" stop="20210824233000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210824233000 +0700" stop="20210825000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Netbuster 2021/22</title>
+  </programme>
+  <programme start="20210825000000 +0700" stop="20210825010000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Today 2021/22</title>
+  </programme>
+  <programme start="20210825010000 +0700" stop="20210825030000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210825030000 +0700" stop="20210825040000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Matchday Live Extra 2021/22</title>
+  </programme>
+  <programme start="20210825040000 +0700" stop="20210825060000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210825060000 +0700" stop="20210825080000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210825080000 +0700" stop="20210825083000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">The Big Interview 2021/22</title>
+  </programme>
+  <programme start="20210825083000 +0700" stop="20210825103000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210825103000 +0700" stop="20210825120000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">The Analysis Show 2021/22</title>
+  </programme>
+  <programme start="20210825120000 +0700" stop="20210825140000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210825140000 +0700" stop="20210825160000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210825160000 +0700" stop="20210825170000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Today 2021/22</title>
+  </programme>
+  <programme start="20210825170000 +0700" stop="20210825173000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">The Big Interview 2021/22</title>
+  </programme>
+  <programme start="20210825173000 +0700" stop="20210825180000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Premier League World 2021/22</title>
+  </programme>
+  <programme start="20210825180000 +0700" stop="20210825190000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">1-To-11 2021/22</title>
+  </programme>
+  <programme start="20210825190000 +0700" stop="20210825193000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">20-In-20 2021/22</title>
+  </programme>
+  <programme start="20210825193000 +0700" stop="20210825200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Netbuster 2021/22</title>
+  </programme>
+  <programme start="20210825200000 +0700" stop="20210825220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210825220000 +0700" stop="20210825233000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">The Analysis Show 2021/22</title>
+  </programme>
+  <programme start="20210825233000 +0700" stop="20210826000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Premier League World 2021/22</title>
+  </programme>
+  <programme start="20210826000000 +0700" stop="20210826010000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Today 2021/22</title>
+  </programme>
+  <programme start="20210826010000 +0700" stop="20210826030000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210826030000 +0700" stop="20210826050000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210826050000 +0700" stop="20210826070000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210826070000 +0700" stop="20210826080000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Matchday Live Extra 2021/22</title>
+  </programme>
+  <programme start="20210826080000 +0700" stop="20210826100000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210826100000 +0700" stop="20210826103000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Netbuster 2021/22</title>
+  </programme>
+  <programme start="20210826103000 +0700" stop="20210826113000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">1-To-11 2021/22</title>
+  </programme>
+  <programme start="20210826113000 +0700" stop="20210826120000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">20-In-20 2021/22</title>
+  </programme>
+  <programme start="20210826120000 +0700" stop="20210826123000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">The Big Interview 2021/22</title>
+  </programme>
+  <programme start="20210826123000 +0700" stop="20210826143000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210826143000 +0700" stop="20210826153000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Matchday Live Extra 2021/22</title>
+  </programme>
+  <programme start="20210826153000 +0700" stop="20210826160000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Premier League World 2021/22</title>
+  </programme>
+  <programme start="20210826160000 +0700" stop="20210826170000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Today 2021/22</title>
+  </programme>
+  <programme start="20210826170000 +0700" stop="20210826190000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210826190000 +0700" stop="20210826210000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210826210000 +0700" stop="20210826220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">1-To-11 2021/22</title>
+  </programme>
+  <programme start="20210826220000 +0700" stop="20210827000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210827000000 +0700" stop="20210827010000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Today 2021/22</title>
+  </programme>
+  <programme start="20210827010000 +0700" stop="20210827030000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210827030000 +0700" stop="20210827033000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Premier League World 2021/22</title>
+  </programme>
+  <programme start="20210827033000 +0700" stop="20210827053000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210827053000 +0700" stop="20210827073000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210827073000 +0700" stop="20210827083000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">1-To-11 2021/22</title>
+  </programme>
+  <programme start="20210827083000 +0700" stop="20210827090000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">20-In-20 2021/22</title>
+  </programme>
+  <programme start="20210827090000 +0700" stop="20210827110000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210827110000 +0700" stop="20210827113000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Premier League World 2021/22</title>
+  </programme>
+  <programme start="20210827113000 +0700" stop="20210827133000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210827133000 +0700" stop="20210827153000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210827153000 +0700" stop="20210827160000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">The Big Interview 2021/22</title>
+  </programme>
+  <programme start="20210827160000 +0700" stop="20210827170000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Today 2021/22</title>
+  </programme>
+  <programme start="20210827170000 +0700" stop="20210827190000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210827190000 +0700" stop="20210827200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Fantasy Premier League 2021/22</title>
+  </programme>
+  <programme start="20210827200000 +0700" stop="20210827210000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Before the Game 2021/22</title>
+  </programme>
+  <programme start="20210827210000 +0700" stop="20210827213000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Match Pack 2021/22</title>
+  </programme>
+  <programme start="20210827213000 +0700" stop="20210827233000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210827233000 +0700" stop="20210828000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">The Big Interview 2021/22</title>
+  </programme>
+  <programme start="20210828000000 +0700" stop="20210828010000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Today 2021/22</title>
+  </programme>
+  <programme start="20210828010000 +0700" stop="20210828020000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Fantasy Premier League 2021/22</title>
+  </programme>
+  <programme start="20210828020000 +0700" stop="20210828030000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">1-To-11 2021/22</title>
+  </programme>
+  <programme start="20210828030000 +0700" stop="20210828050000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210828050000 +0700" stop="20210828070000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210828070000 +0700" stop="20210828090000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210828090000 +0700" stop="20210828100000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Before the Game 2021/22</title>
+  </programme>
+  <programme start="20210828100000 +0700" stop="20210828103000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Match Pack 2021/22</title>
+  </programme>
+  <programme start="20210828103000 +0700" stop="20210828113000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Fantasy Premier League 2021/22</title>
+  </programme>
+  <programme start="20210828113000 +0700" stop="20210828123000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Matchday Live Extra 2021/22</title>
+  </programme>
+  <programme start="20210828123000 +0700" stop="20210828130000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Premier League World 2021/22</title>
+  </programme>
+  <programme start="20210828130000 +0700" stop="20210828133000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Preview 2021/22</title>
+  </programme>
+  <programme start="20210828133000 +0700" stop="20210828153000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL Classic</title>
+  </programme>
+  <programme start="20210828153000 +0700" stop="20210828160000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">The Big Match Preview 2021/22</title>
+  </programme>
+  <programme start="20210828160000 +0700" stop="20210828170000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">Fantasy Premier League 2021/22</title>
+  </programme>
+  <programme start="20210828170000 +0700" stop="20210828173000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">The Big Interview 2021/22</title>
+  </programme>
+  <programme start="20210828173000 +0700" stop="20210828183000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">The Match Show Live 2021/22</title>
+  </programme>
+  <programme start="20210828183000 +0700" stop="20210828203000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210828203000 +0700" stop="20210828210000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">The Match Show Live 2021/22</title>
+  </programme>
+  <programme start="20210828210000 +0700" stop="20210828230000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210828230000 +0700" stop="20210828233000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">The Match Show Live 2021/22</title>
+  </programme>
+  <programme start="20210828233000 +0700" stop="20210829013000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 1">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210822020000 +0700" stop="20210822030000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday -  Live Extra</title>
+  </programme>
+  <programme start="20210822030000 +0700" stop="20210822050000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday</title>
+  </programme>
+  <programme start="20210822050000 +0700" stop="20210822060000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Review</title>
+  </programme>
+  <programme start="20210822060000 +0700" stop="20210822070000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday -  Live Extra</title>
+  </programme>
+  <programme start="20210822070000 +0700" stop="20210822090000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday</title>
+  </programme>
+  <programme start="20210822090000 +0700" stop="20210822110000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday</title>
+  </programme>
+  <programme start="20210822110000 +0700" stop="20210822120000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Review</title>
+  </programme>
+  <programme start="20210822120000 +0700" stop="20210822140000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday</title>
+  </programme>
+  <programme start="20210822140000 +0700" stop="20210822150000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday -  Live Extra</title>
+  </programme>
+  <programme start="20210822150000 +0700" stop="20210822170000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday</title>
+  </programme>
+  <programme start="20210822170000 +0700" stop="20210822180000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday -  Live Extra</title>
+  </programme>
+  <programme start="20210822180000 +0700" stop="20210822190000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Review</title>
+  </programme>
+  <programme start="20210822190000 +0700" stop="20210822220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday - Live</title>
+  </programme>
+  <programme start="20210822220000 +0700" stop="20210823013000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday - Live</title>
+  </programme>
+  <programme start="20210823013000 +0700" stop="20210823023000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday -  Live Extra</title>
+  </programme>
+  <programme start="20210823023000 +0700" stop="20210823043000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday</title>
+  </programme>
+  <programme start="20210823043000 +0700" stop="20210823053000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Review</title>
+  </programme>
+  <programme start="20210823053000 +0700" stop="20210823060000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">PL 100</title>
+  </programme>
+  <programme start="20210823060000 +0700" stop="20210823080000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday</title>
+  </programme>
+  <programme start="20210823080000 +0700" stop="20210823090000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Review</title>
+  </programme>
+  <programme start="20210823090000 +0700" stop="20210823110000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday</title>
+  </programme>
+  <programme start="20210823110000 +0700" stop="20210823120000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday -  Live Extra</title>
+  </programme>
+  <programme start="20210823120000 +0700" stop="20210823130000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Review</title>
+  </programme>
+  <programme start="20210823130000 +0700" stop="20210823150000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday</title>
+  </programme>
+  <programme start="20210823150000 +0700" stop="20210823160000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday -  Live Extra</title>
+  </programme>
+  <programme start="20210823160000 +0700" stop="20210823170000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Today</title>
+  </programme>
+  <programme start="20210823170000 +0700" stop="20210823173000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League World</title>
+  </programme>
+  <programme start="20210823173000 +0700" stop="20210823193000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Weekend Review</title>
+  </programme>
+  <programme start="20210823193000 +0700" stop="20210823200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Today</title>
+  </programme>
+  <programme start="20210823200000 +0700" stop="20210823210000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Fanzone</title>
+  </programme>
+  <programme start="20210823210000 +0700" stop="20210823213000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Match of the Weekend</title>
+  </programme>
+  <programme start="20210823213000 +0700" stop="20210823223000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Review</title>
+  </programme>
+  <programme start="20210823223000 +0700" stop="20210823230000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League World</title>
+  </programme>
+  <programme start="20210823230000 +0700" stop="20210824000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Headline Makers</title>
+  </programme>
+  <programme start="20210824000000 +0700" stop="20210824003000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Boss</title>
+  </programme>
+  <programme start="20210824003000 +0700" stop="20210824010000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Legends</title>
+  </programme>
+  <programme start="20210824010000 +0700" stop="20210824013000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">PL My Season</title>
+  </programme>
+  <programme start="20210824013000 +0700" stop="20210824043000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday - Live</title>
+  </programme>
+  <programme start="20210824043000 +0700" stop="20210824053000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday -  Live Extra</title>
+  </programme>
+  <programme start="20210824053000 +0700" stop="20210824060000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Match of the Weekend</title>
+  </programme>
+  <programme start="20210824060000 +0700" stop="20210824070000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Greatest Goals</title>
+  </programme>
+  <programme start="20210824070000 +0700" stop="20210824080000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Review</title>
+  </programme>
+  <programme start="20210824080000 +0700" stop="20210824083000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">PL My Season</title>
+  </programme>
+  <programme start="20210824083000 +0700" stop="20210824093000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Greatest Goals</title>
+  </programme>
+  <programme start="20210824093000 +0700" stop="20210824100000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Netbusters</title>
+  </programme>
+  <programme start="20210824100000 +0700" stop="20210824120000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday</title>
+  </programme>
+  <programme start="20210824120000 +0700" stop="20210824140000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday</title>
+  </programme>
+  <programme start="20210824140000 +0700" stop="20210824150000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Review</title>
+  </programme>
+  <programme start="20210824150000 +0700" stop="20210824160000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday -  Live Extra</title>
+  </programme>
+  <programme start="20210824160000 +0700" stop="20210824170000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Today</title>
+  </programme>
+  <programme start="20210824170000 +0700" stop="20210824180000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Review</title>
+  </programme>
+  <programme start="20210824180000 +0700" stop="20210824193000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Analysis Show</title>
+  </programme>
+  <programme start="20210824193000 +0700" stop="20210824200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Today</title>
+  </programme>
+  <programme start="20210824200000 +0700" stop="20210824210000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Fanzone</title>
+  </programme>
+  <programme start="20210824210000 +0700" stop="20210824213000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Match of the Weekend</title>
+  </programme>
+  <programme start="20210824213000 +0700" stop="20210824220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Boss</title>
+  </programme>
+  <programme start="20210824220000 +0700" stop="20210824223000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Gary Neville's Soccerbox</title>
+  </programme>
+  <programme start="20210824223000 +0700" stop="20210824230000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Match of the Weekend</title>
+  </programme>
+  <programme start="20210824230000 +0700" stop="20210825000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Headline Makers</title>
+  </programme>
+  <programme start="20210825000000 +0700" stop="20210825003000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Netbusters</title>
+  </programme>
+  <programme start="20210825003000 +0700" stop="20210825020000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Analysis Show</title>
+  </programme>
+  <programme start="20210825020000 +0700" stop="20210825023000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Match of the Weekend</title>
+  </programme>
+  <programme start="20210825023000 +0700" stop="20210825030000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Gary Neville's Soccerbox</title>
+  </programme>
+  <programme start="20210825030000 +0700" stop="20210825040000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Review</title>
+  </programme>
+  <programme start="20210825040000 +0700" stop="20210825043000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">PL 100</title>
+  </programme>
+  <programme start="20210825043000 +0700" stop="20210825050000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Netbusters</title>
+  </programme>
+  <programme start="20210825050000 +0700" stop="20210825053000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Fanzone</title>
+  </programme>
+  <programme start="20210825053000 +0700" stop="20210825060000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Match of the Weekend</title>
+  </programme>
+  <programme start="20210825060000 +0700" stop="20210825063000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Classic Match 97/98</title>
+  </programme>
+  <programme start="20210825063000 +0700" stop="20210825070000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Headline Makers</title>
+  </programme>
+  <programme start="20210825070000 +0700" stop="20210825083000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Analysis Show</title>
+  </programme>
+  <programme start="20210825083000 +0700" stop="20210825090000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">PL 100</title>
+  </programme>
+  <programme start="20210825090000 +0700" stop="20210825093000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Gary Neville's Soccerbox</title>
+  </programme>
+  <programme start="20210825093000 +0700" stop="20210825100000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Netbusters</title>
+  </programme>
+  <programme start="20210825100000 +0700" stop="20210825103000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Headline Makers</title>
+  </programme>
+  <programme start="20210825103000 +0700" stop="20210825110000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">PL 100</title>
+  </programme>
+  <programme start="20210825110000 +0700" stop="20210825120000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Review</title>
+  </programme>
+  <programme start="20210825120000 +0700" stop="20210825123000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Classic Match 14/15</title>
+  </programme>
+  <programme start="20210825123000 +0700" stop="20210825130000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Boss</title>
+  </programme>
+  <programme start="20210825130000 +0700" stop="20210825133000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Netbusters</title>
+  </programme>
+  <programme start="20210825133000 +0700" stop="20210825150000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Analysis Show</title>
+  </programme>
+  <programme start="20210825150000 +0700" stop="20210825153000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Headline Makers</title>
+  </programme>
+  <programme start="20210825153000 +0700" stop="20210825160000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Match of the Weekend</title>
+  </programme>
+  <programme start="20210825160000 +0700" stop="20210825170000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Today</title>
+  </programme>
+  <programme start="20210825170000 +0700" stop="20210825173000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Netbusters</title>
+  </programme>
+  <programme start="20210825173000 +0700" stop="20210825180000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Match of the Weekend</title>
+  </programme>
+  <programme start="20210825180000 +0700" stop="20210825190000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">1-To-11</title>
+  </programme>
+  <programme start="20210825190000 +0700" stop="20210825193000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">20-In-20</title>
+  </programme>
+  <programme start="20210825193000 +0700" stop="20210825200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Today</title>
+  </programme>
+  <programme start="20210825200000 +0700" stop="20210825210000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Fanzone</title>
+  </programme>
+  <programme start="20210825210000 +0700" stop="20210825213000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">PL 100</title>
+  </programme>
+  <programme start="20210825213000 +0700" stop="20210825220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Gary Neville's Soccerbox</title>
+  </programme>
+  <programme start="20210825220000 +0700" stop="20210825223000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Match of the Weekend</title>
+  </programme>
+  <programme start="20210825223000 +0700" stop="20210825230000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Netbusters</title>
+  </programme>
+  <programme start="20210825230000 +0700" stop="20210826000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Headline Makers</title>
+  </programme>
+  <programme start="20210826000000 +0700" stop="20210826003000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League World</title>
+  </programme>
+  <programme start="20210826003000 +0700" stop="20210826013000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">1-To-11</title>
+  </programme>
+  <programme start="20210826013000 +0700" stop="20210826020000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">20-In-20</title>
+  </programme>
+  <programme start="20210826020000 +0700" stop="20210826023000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Catch Up Show</title>
+  </programme>
+  <programme start="20210826023000 +0700" stop="20210826033000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Greatest Goals</title>
+  </programme>
+  <programme start="20210826033000 +0700" stop="20210826040000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Netbusters</title>
+  </programme>
+  <programme start="20210826040000 +0700" stop="20210826043000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">PL 100</title>
+  </programme>
+  <programme start="20210826043000 +0700" stop="20210826050000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League World</title>
+  </programme>
+  <programme start="20210826050000 +0700" stop="20210826053000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Fanzone</title>
+  </programme>
+  <programme start="20210826053000 +0700" stop="20210826060000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Catch Up Show</title>
+  </programme>
+  <programme start="20210826060000 +0700" stop="20210826063000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Classic Match 14/15</title>
+  </programme>
+  <programme start="20210826063000 +0700" stop="20210826070000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Headline Makers</title>
+  </programme>
+  <programme start="20210826070000 +0700" stop="20210826080000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">1-To-11</title>
+  </programme>
+  <programme start="20210826080000 +0700" stop="20210826083000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">20-In-20</title>
+  </programme>
+  <programme start="20210826083000 +0700" stop="20210826090000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Classic Match 97/98</title>
+  </programme>
+  <programme start="20210826090000 +0700" stop="20210826093000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Catch Up Show</title>
+  </programme>
+  <programme start="20210826093000 +0700" stop="20210826100000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League World</title>
+  </programme>
+  <programme start="20210826100000 +0700" stop="20210826103000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Headline Makers</title>
+  </programme>
+  <programme start="20210826103000 +0700" stop="20210826110000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Netbusters</title>
+  </programme>
+  <programme start="20210826110000 +0700" stop="20210826113000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Gary Neville's Soccerbox</title>
+  </programme>
+  <programme start="20210826113000 +0700" stop="20210826120000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Match of the Weekend</title>
+  </programme>
+  <programme start="20210826120000 +0700" stop="20210826130000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Greatest Goals</title>
+  </programme>
+  <programme start="20210826130000 +0700" stop="20210826133000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Catch Up Show</title>
+  </programme>
+  <programme start="20210826133000 +0700" stop="20210826143000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">1-To-11</title>
+  </programme>
+  <programme start="20210826143000 +0700" stop="20210826150000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">20-In-20</title>
+  </programme>
+  <programme start="20210826150000 +0700" stop="20210826153000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Headline Makers</title>
+  </programme>
+  <programme start="20210826153000 +0700" stop="20210826160000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Netbusters</title>
+  </programme>
+  <programme start="20210826160000 +0700" stop="20210826170000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Today</title>
+  </programme>
+  <programme start="20210826170000 +0700" stop="20210826173000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League World</title>
+  </programme>
+  <programme start="20210826173000 +0700" stop="20210826180000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Big Interview</title>
+  </programme>
+  <programme start="20210826180000 +0700" stop="20210826193000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Kelly &amp; Wrighty Show</title>
+  </programme>
+  <programme start="20210826193000 +0700" stop="20210826200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Today</title>
+  </programme>
+  <programme start="20210826200000 +0700" stop="20210826210000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Fantasy Premier League</title>
+  </programme>
+  <programme start="20210826210000 +0700" stop="20210826220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Fanzone</title>
+  </programme>
+  <programme start="20210826220000 +0700" stop="20210826223000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Classic Match 97/98</title>
+  </programme>
+  <programme start="20210826223000 +0700" stop="20210826230000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League World</title>
+  </programme>
+  <programme start="20210826230000 +0700" stop="20210827000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Headline Makers</title>
+  </programme>
+  <programme start="20210827000000 +0700" stop="20210827003000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Match Pack</title>
+  </programme>
+  <programme start="20210827003000 +0700" stop="20210827010000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Big Interview</title>
+  </programme>
+  <programme start="20210827010000 +0700" stop="20210827020000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Fantasy Premier League</title>
+  </programme>
+  <programme start="20210827020000 +0700" stop="20210827033000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Kelly &amp; Wrighty Show</title>
+  </programme>
+  <programme start="20210827033000 +0700" stop="20210827040000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League World</title>
+  </programme>
+  <programme start="20210827040000 +0700" stop="20210827043000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">PL 100</title>
+  </programme>
+  <programme start="20210827043000 +0700" stop="20210827050000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Match Pack</title>
+  </programme>
+  <programme start="20210827050000 +0700" stop="20210827053000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Fanzone</title>
+  </programme>
+  <programme start="20210827053000 +0700" stop="20210827063000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Fantasy Premier League</title>
+  </programme>
+  <programme start="20210827063000 +0700" stop="20210827070000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Headline Makers</title>
+  </programme>
+  <programme start="20210827070000 +0700" stop="20210827083000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Kelly &amp; Wrighty Show</title>
+  </programme>
+  <programme start="20210827083000 +0700" stop="20210827090000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Classic Match 14/15</title>
+  </programme>
+  <programme start="20210827090000 +0700" stop="20210827093000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Big Interview</title>
+  </programme>
+  <programme start="20210827093000 +0700" stop="20210827100000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Match Pack</title>
+  </programme>
+  <programme start="20210827100000 +0700" stop="20210827103000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Headline Makers</title>
+  </programme>
+  <programme start="20210827103000 +0700" stop="20210827123000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Classic Match 13/14</title>
+  </programme>
+  <programme start="20210827123000 +0700" stop="20210827140000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Kelly &amp; Wrighty Show</title>
+  </programme>
+  <programme start="20210827140000 +0700" stop="20210827150000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Fantasy Premier League</title>
+  </programme>
+  <programme start="20210827150000 +0700" stop="20210827153000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Headline Makers</title>
+  </programme>
+  <programme start="20210827153000 +0700" stop="20210827160000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League World</title>
+  </programme>
+  <programme start="20210827160000 +0700" stop="20210827170000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Today</title>
+  </programme>
+  <programme start="20210827170000 +0700" stop="20210827173000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Match Pack</title>
+  </programme>
+  <programme start="20210827173000 +0700" stop="20210827183000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Fanzone</title>
+  </programme>
+  <programme start="20210827183000 +0700" stop="20210827190000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Big Interview</title>
+  </programme>
+  <programme start="20210827190000 +0700" stop="20210827193000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Big Match Preview</title>
+  </programme>
+  <programme start="20210827193000 +0700" stop="20210827200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Today</title>
+  </programme>
+  <programme start="20210827200000 +0700" stop="20210827213000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Weekend Warm-Up</title>
+  </programme>
+  <programme start="20210827213000 +0700" stop="20210827220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Netbusters</title>
+  </programme>
+  <programme start="20210827220000 +0700" stop="20210827223000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Classic Match 14/15</title>
+  </programme>
+  <programme start="20210827223000 +0700" stop="20210827230000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Match Pack</title>
+  </programme>
+  <programme start="20210827230000 +0700" stop="20210828003000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Weekend Preview</title>
+  </programme>
+  <programme start="20210828003000 +0700" stop="20210828010000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League World</title>
+  </programme>
+  <programme start="20210828010000 +0700" stop="20210828013000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Preview</title>
+  </programme>
+  <programme start="20210828013000 +0700" stop="20210828020000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Big Interview</title>
+  </programme>
+  <programme start="20210828020000 +0700" stop="20210828033000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Weekend Warm-Up</title>
+  </programme>
+  <programme start="20210828033000 +0700" stop="20210828040000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Match Pack</title>
+  </programme>
+  <programme start="20210828040000 +0700" stop="20210828043000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">PL 100</title>
+  </programme>
+  <programme start="20210828043000 +0700" stop="20210828050000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Preview</title>
+  </programme>
+  <programme start="20210828050000 +0700" stop="20210828053000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Fanzone</title>
+  </programme>
+  <programme start="20210828053000 +0700" stop="20210828060000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Big Match Preview</title>
+  </programme>
+  <programme start="20210828060000 +0700" stop="20210828070000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Fantasy Premier League</title>
+  </programme>
+  <programme start="20210828070000 +0700" stop="20210828083000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Weekend Preview</title>
+  </programme>
+  <programme start="20210828083000 +0700" stop="20210828100000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Weekend Warm-Up</title>
+  </programme>
+  <programme start="20210828100000 +0700" stop="20210828103000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Big Match Preview</title>
+  </programme>
+  <programme start="20210828103000 +0700" stop="20210828110000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Preview</title>
+  </programme>
+  <programme start="20210828110000 +0700" stop="20210828123000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Weekend Preview</title>
+  </programme>
+  <programme start="20210828123000 +0700" stop="20210828130000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League World</title>
+  </programme>
+  <programme start="20210828130000 +0700" stop="20210828133000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Match Pack</title>
+  </programme>
+  <programme start="20210828133000 +0700" stop="20210828150000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Weekend Warm-Up</title>
+  </programme>
+  <programme start="20210828150000 +0700" stop="20210828153000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Big Match Preview</title>
+  </programme>
+  <programme start="20210828153000 +0700" stop="20210828170000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">The Weekend Preview</title>
+  </programme>
+  <programme start="20210828170000 +0700" stop="20210828173000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Premier League Preview</title>
+  </programme>
+  <programme start="20210828173000 +0700" stop="20210829020000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 2">
+    <title lang="th">Matchday - Live</title>
+  </programme>
+  <programme start="20210822000000 +0700" stop="20210822003000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">True Premier Football</title>
+  </programme>
+  <programme start="20210822003000 +0700" stop="20210822023000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210822023000 +0700" stop="20210822193000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">True Premier Football</title>
+  </programme>
+  <programme start="20210822193000 +0700" stop="20210822195000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">Filler PL Goal</title>
+  </programme>
+  <programme start="20210822195000 +0700" stop="20210822220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210822220000 +0700" stop="20210823000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210823000000 +0700" stop="20210823014500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">True Premier Football</title>
+  </programme>
+  <programme start="20210823014500 +0700" stop="20210823034500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210823034500 +0700" stop="20210823200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">True Premier Football</title>
+  </programme>
+  <programme start="20210823200000 +0700" stop="20210823203000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">The Big Interview 2021/22</title>
+  </programme>
+  <programme start="20210823203000 +0700" stop="20210823213000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">Matchday Live Extra 2021/22</title>
+  </programme>
+  <programme start="20210823213000 +0700" stop="20210823220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">Premier League World 2021/22</title>
+  </programme>
+  <programme start="20210823220000 +0700" stop="20210824000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">True Premier Football</title>
+  </programme>
+  <programme start="20210824000000 +0700" stop="20210824200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">True Premier Football</title>
+  </programme>
+  <programme start="20210824200000 +0700" stop="20210824203000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">PL Netbuster 2021/22</title>
+  </programme>
+  <programme start="20210824203000 +0700" stop="20210824210000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">Premier League World 2021/22</title>
+  </programme>
+  <programme start="20210824210000 +0700" stop="20210824220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">Matchday Live Extra 2021/22</title>
+  </programme>
+  <programme start="20210824220000 +0700" stop="20210825000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">True Premier Football</title>
+  </programme>
+  <programme start="20210825000000 +0700" stop="20210825200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">True Premier Football</title>
+  </programme>
+  <programme start="20210825200000 +0700" stop="20210825213000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">The Analysis Show 2020/21</title>
+  </programme>
+  <programme start="20210825213000 +0700" stop="20210825220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">PL Netbuster 2021/22</title>
+  </programme>
+  <programme start="20210825220000 +0700" stop="20210826000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">True Premier Football</title>
+  </programme>
+  <programme start="20210826000000 +0700" stop="20210826200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">True Premier Football</title>
+  </programme>
+  <programme start="20210826200000 +0700" stop="20210826210000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">1-To-11 2021/22</title>
+  </programme>
+  <programme start="20210826210000 +0700" stop="20210826213000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">20-In-20 2021/22</title>
+  </programme>
+  <programme start="20210826213000 +0700" stop="20210826220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">Premier League World 2021/22</title>
+  </programme>
+  <programme start="20210826220000 +0700" stop="20210827000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">True Premier Football</title>
+  </programme>
+  <programme start="20210827000000 +0700" stop="20210827200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">True Premier Football</title>
+  </programme>
+  <programme start="20210827200000 +0700" stop="20210827203000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">The Big Interview 2021/22</title>
+  </programme>
+  <programme start="20210827203000 +0700" stop="20210827210000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">Premier League World 2021/22</title>
+  </programme>
+  <programme start="20210827210000 +0700" stop="20210827220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">Fantasy Premier League 2021/22</title>
+  </programme>
+  <programme start="20210827220000 +0700" stop="20210828000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">True Premier Football</title>
+  </programme>
+  <programme start="20210828000000 +0700" stop="20210828203000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">True Premier Football</title>
+  </programme>
+  <programme start="20210828203000 +0700" stop="20210828205000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">Filler PL Goal</title>
+  </programme>
+  <programme start="20210828205000 +0700" stop="20210828230000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">PL 2021/22</title>
+  </programme>
+  <programme start="20210828230000 +0700" stop="20210829000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 3">
+    <title lang="th">True Premier Football</title>
+  </programme>
+  <programme start="20210822000000 +0700" stop="20210822002500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga Pre Match 2021/22</title>
+  </programme>
+  <programme start="20210822002500 +0700" stop="20210822023000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210822023000 +0700" stop="20210822025500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga Pre Match 2021/22</title>
+  </programme>
+  <programme start="20210822025500 +0700" stop="20210822050000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210822050000 +0700" stop="20210822060000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga Post Match 2021/22</title>
+  </programme>
+  <programme start="20210822060000 +0700" stop="20210822070500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">DTM Trophy 2021</title>
+  </programme>
+  <programme start="20210822070500 +0700" stop="20210822090500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Major League Soccer 2021</title>
+  </programme>
+  <programme start="20210822090500 +0700" stop="20210822111000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Major League Soccer 2021</title>
+  </programme>
+  <programme start="20210822111000 +0700" stop="20210822130000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210822130000 +0700" stop="20210822144500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210822144500 +0700" stop="20210822150000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210822150000 +0700" stop="20210822151000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210822151000 +0700" stop="20210822154500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">DTM Qualifying 2021</title>
+  </programme>
+  <programme start="20210822154500 +0700" stop="20210822160000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210822160000 +0700" stop="20210822175500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210822175500 +0700" stop="20210822200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">SPFL Premiership 2021/22</title>
+  </programme>
+  <programme start="20210822200000 +0700" stop="20210822215500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210822215500 +0700" stop="20210823000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210823000000 +0700" stop="20210823002500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga Pre Match 2021/22</title>
+  </programme>
+  <programme start="20210823002500 +0700" stop="20210823023000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210823023000 +0700" stop="20210823025500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga Pre Match 2021/22</title>
+  </programme>
+  <programme start="20210823025500 +0700" stop="20210823050000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210823050000 +0700" stop="20210823060000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga Post Match 2021/22</title>
+  </programme>
+  <programme start="20210823060000 +0700" stop="20210823080000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Major League Soccer 2021</title>
+  </programme>
+  <programme start="20210823080000 +0700" stop="20210823100000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Liverpool TV 2021/22</title>
+  </programme>
+  <programme start="20210823100000 +0700" stop="20210823110000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">LFC Trending 2021/22</title>
+  </programme>
+  <programme start="20210823110000 +0700" stop="20210823124500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210823124500 +0700" stop="20210823134500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">DTM Trophy 2021</title>
+  </programme>
+  <programme start="20210823134500 +0700" stop="20210823140000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210823140000 +0700" stop="20210823141000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210823141000 +0700" stop="20210823144000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Arsenal World 2021/22</title>
+  </programme>
+  <programme start="20210823144000 +0700" stop="20210823151000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Arsenal 360 2021/22</title>
+  </programme>
+  <programme start="20210823151000 +0700" stop="20210823171000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Arsenal TV 2021/22</title>
+  </programme>
+  <programme start="20210823171000 +0700" stop="20210823190000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210823190000 +0700" stop="20210823200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 Highlights 2021/22</title>
+  </programme>
+  <programme start="20210823200000 +0700" stop="20210823210000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga Highlights 2021/22</title>
+  </programme>
+  <programme start="20210823210000 +0700" stop="20210823220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 Highlights 2021/22</title>
+  </programme>
+  <programme start="20210823220000 +0700" stop="20210823230000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga Highlights 2021/22</title>
+  </programme>
+  <programme start="20210823230000 +0700" stop="20210824005500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Viva Laliga 2021/22</title>
+  </programme>
+  <programme start="20210824005500 +0700" stop="20210824025500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210824025500 +0700" stop="20210824050000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210824050000 +0700" stop="20210824053000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga Post Match 2021/22</title>
+  </programme>
+  <programme start="20210824053000 +0700" stop="20210824060000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">UEFA Champions League Highlights 2021/22</title>
+  </programme>
+  <programme start="20210824060000 +0700" stop="20210824070000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Football Rivalries</title>
+  </programme>
+  <programme start="20210824070000 +0700" stop="20210824080000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga Highlights 2021/22</title>
+  </programme>
+  <programme start="20210824080000 +0700" stop="20210824094500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210824094500 +0700" stop="20210824100000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210824100000 +0700" stop="20210824103000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Arsenal World 2021/22</title>
+  </programme>
+  <programme start="20210824103000 +0700" stop="20210824110000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Arsenal 360 2021/22</title>
+  </programme>
+  <programme start="20210824110000 +0700" stop="20210824130000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Arsenal TV 2021/22</title>
+  </programme>
+  <programme start="20210824130000 +0700" stop="20210824133000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">UEFA Champions League Highlights 2021/22</title>
+  </programme>
+  <programme start="20210824133000 +0700" stop="20210824151500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210824151500 +0700" stop="20210824170000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210824170000 +0700" stop="20210824184500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210824184500 +0700" stop="20210824190000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">SPFL Highlights 2021/22</title>
+  </programme>
+  <programme start="20210824190000 +0700" stop="20210824200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">SailGP 2021-22 Highlights</title>
+  </programme>
+  <programme start="20210824200000 +0700" stop="20210824210000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 Highlights 2021/22</title>
+  </programme>
+  <programme start="20210824210000 +0700" stop="20210824213000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">MLS Show 2021</title>
+  </programme>
+  <programme start="20210824213000 +0700" stop="20210824220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">UEFA Champions League Highlights 2021/22</title>
+  </programme>
+  <programme start="20210824220000 +0700" stop="20210824223000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">UEFA Champions League Highlights 2021/22</title>
+  </programme>
+  <programme start="20210824223000 +0700" stop="20210824230000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">MLS Show 2021</title>
+  </programme>
+  <programme start="20210824230000 +0700" stop="20210825000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 Highlights 2021/22</title>
+  </programme>
+  <programme start="20210825000000 +0700" stop="20210825012500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Viva Laliga 2021/22</title>
+  </programme>
+  <programme start="20210825012500 +0700" stop="20210825015500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">GP Confidential 2021</title>
+  </programme>
+  <programme start="20210825015500 +0700" stop="20210825040000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">UEFA Champions League 2021/22</title>
+  </programme>
+  <programme start="20210825040000 +0700" stop="20210825060000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Major League Soccer 2021</title>
+  </programme>
+  <programme start="20210825060000 +0700" stop="20210825070000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 Highlights 2021/22</title>
+  </programme>
+  <programme start="20210825070000 +0700" stop="20210825073000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">GP Confidential 2021</title>
+  </programme>
+  <programme start="20210825073000 +0700" stop="20210825080000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">MLS Show 2021</title>
+  </programme>
+  <programme start="20210825080000 +0700" stop="20210825095000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210825095000 +0700" stop="20210825114000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">UEFA Champions League 2021/22</title>
+  </programme>
+  <programme start="20210825114000 +0700" stop="20210825133000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210825133000 +0700" stop="20210825152000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210825152000 +0700" stop="20210825171000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210825171000 +0700" stop="20210825190000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210825190000 +0700" stop="20210825193000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">This is Paris 2021/22</title>
+  </programme>
+  <programme start="20210825193000 +0700" stop="20210825200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">MLS Show 2021</title>
+  </programme>
+  <programme start="20210825200000 +0700" stop="20210825203000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Serie a Full Impact 2021/22</title>
+  </programme>
+  <programme start="20210825203000 +0700" stop="20210825210000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Fastzone 2021</title>
+  </programme>
+  <programme start="20210825210000 +0700" stop="20210825213000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga World 2021/22</title>
+  </programme>
+  <programme start="20210825213000 +0700" stop="20210825220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">This is Paris 2021/22</title>
+  </programme>
+  <programme start="20210825220000 +0700" stop="20210825223000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">MLS Show 2021</title>
+  </programme>
+  <programme start="20210825223000 +0700" stop="20210825230000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Serie a Full Impact 2021/22</title>
+  </programme>
+  <programme start="20210825230000 +0700" stop="20210825233000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">UEFA Champions League Highlights 2021/22</title>
+  </programme>
+  <programme start="20210825233000 +0700" stop="20210826000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Fastzone 2021</title>
+  </programme>
+  <programme start="20210826000000 +0700" stop="20210826012500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Viva Laliga 2021/22</title>
+  </programme>
+  <programme start="20210826012500 +0700" stop="20210826015500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">The Outdoor Sports Show 2021</title>
+  </programme>
+  <programme start="20210826015500 +0700" stop="20210826040000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">UEFA Champions League 2021/22</title>
+  </programme>
+  <programme start="20210826040000 +0700" stop="20210826060000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Major League Soccer 2021</title>
+  </programme>
+  <programme start="20210826060000 +0700" stop="20210826070000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">DTM Highlights 2021</title>
+  </programme>
+  <programme start="20210826070000 +0700" stop="20210826073000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">MLS Show 2021</title>
+  </programme>
+  <programme start="20210826073000 +0700" stop="20210826080000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">This is Paris 2021/22</title>
+  </programme>
+  <programme start="20210826080000 +0700" stop="20210826083000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Serie a Full Impact 2021/22</title>
+  </programme>
+  <programme start="20210826083000 +0700" stop="20210826103000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Major League Soccer 2021</title>
+  </programme>
+  <programme start="20210826103000 +0700" stop="20210826113000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">DTM Highlights 2021</title>
+  </programme>
+  <programme start="20210826113000 +0700" stop="20210826114000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210826114000 +0700" stop="20210826133000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210826133000 +0700" stop="20210826152000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210826152000 +0700" stop="20210826153000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210826153000 +0700" stop="20210826160000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Arsenal World 2021/22</title>
+  </programme>
+  <programme start="20210826160000 +0700" stop="20210826163000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Arsenal 360 2021/22</title>
+  </programme>
+  <programme start="20210826163000 +0700" stop="20210826183000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Arsenal TV 2021/22</title>
+  </programme>
+  <programme start="20210826183000 +0700" stop="20210826190000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">SailGP 2021-22 Highlights</title>
+  </programme>
+  <programme start="20210826190000 +0700" stop="20210826191500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 Club Profiles 2021/22</title>
+  </programme>
+  <programme start="20210826191500 +0700" stop="20210826193000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 Club Profiles 2021/22</title>
+  </programme>
+  <programme start="20210826193000 +0700" stop="20210826213000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">UEFA Champions League 2021/22</title>
+  </programme>
+  <programme start="20210826213000 +0700" stop="20210826223000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga 2 Highlights 2021/22</title>
+  </programme>
+  <programme start="20210826223000 +0700" stop="20210826230000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">UEFA Champions League Highlights 2021/22</title>
+  </programme>
+  <programme start="20210826230000 +0700" stop="20210827000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Football Rivalries</title>
+  </programme>
+  <programme start="20210827000000 +0700" stop="20210827013000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Viva Laliga 2021/22</title>
+  </programme>
+  <programme start="20210827013000 +0700" stop="20210827020000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ultra-Trail World Tour 2021</title>
+  </programme>
+  <programme start="20210827020000 +0700" stop="20210827040000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">A-League 2020/21</title>
+  </programme>
+  <programme start="20210827040000 +0700" stop="20210827043000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Arsenal World 2021/22</title>
+  </programme>
+  <programme start="20210827043000 +0700" stop="20210827050000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Arsenal 360 2021/22</title>
+  </programme>
+  <programme start="20210827050000 +0700" stop="20210827070000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Arsenal TV 2021/22</title>
+  </programme>
+  <programme start="20210827070000 +0700" stop="20210827073000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">SailGP 2021-22 Highlights</title>
+  </programme>
+  <programme start="20210827073000 +0700" stop="20210827080000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga World 2021/22</title>
+  </programme>
+  <programme start="20210827080000 +0700" stop="20210827095000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210827095000 +0700" stop="20210827114000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210827114000 +0700" stop="20210827133000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210827133000 +0700" stop="20210827152000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210827152000 +0700" stop="20210827171000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210827171000 +0700" stop="20210827190000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210827190000 +0700" stop="20210827193000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga Show 2021/22</title>
+  </programme>
+  <programme start="20210827193000 +0700" stop="20210827200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Inside Serie a 2021/22</title>
+  </programme>
+  <programme start="20210827200000 +0700" stop="20210827203000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 Show 2021/22</title>
+  </programme>
+  <programme start="20210827203000 +0700" stop="20210827213000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">DTM Highlights 2021</title>
+  </programme>
+  <programme start="20210827213000 +0700" stop="20210827220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga Show 2021/22</title>
+  </programme>
+  <programme start="20210827220000 +0700" stop="20210827223000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Inside Serie a 2021/22</title>
+  </programme>
+  <programme start="20210827223000 +0700" stop="20210827230000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 Show 2021/22</title>
+  </programme>
+  <programme start="20210827230000 +0700" stop="20210828005500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Viva Laliga 2021/22</title>
+  </programme>
+  <programme start="20210828005500 +0700" stop="20210828030000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210828030000 +0700" stop="20210828031000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga Pre Match 2021/22</title>
+  </programme>
+  <programme start="20210828031000 +0700" stop="20210828051500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210828051500 +0700" stop="20210828054500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga Post Match 2021/22</title>
+  </programme>
+  <programme start="20210828054500 +0700" stop="20210828060000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210828060000 +0700" stop="20210828080000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210828080000 +0700" stop="20210828083000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 Show 2021/22</title>
+  </programme>
+  <programme start="20210828083000 +0700" stop="20210828090000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Inside Serie a 2021/22</title>
+  </programme>
+  <programme start="20210828090000 +0700" stop="20210828104500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210828104500 +0700" stop="20210828111500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Inside Serie a 2021/22</title>
+  </programme>
+  <programme start="20210828111500 +0700" stop="20210828130000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210828130000 +0700" stop="20210828133000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 Show 2021/22</title>
+  </programme>
+  <programme start="20210828133000 +0700" stop="20210828140000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Inside Serie a 2021/22</title>
+  </programme>
+  <programme start="20210828140000 +0700" stop="20210828143000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Silk Way Rally 2021</title>
+  </programme>
+  <programme start="20210828143000 +0700" stop="20210828150000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Silk Way Rally 2021</title>
+  </programme>
+  <programme start="20210828150000 +0700" stop="20210828153000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga Show 2021/22</title>
+  </programme>
+  <programme start="20210828153000 +0700" stop="20210828171500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210828171500 +0700" stop="20210828190000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Major League Soccer 2021</title>
+  </programme>
+  <programme start="20210828190000 +0700" stop="20210828193000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Inside Serie a 2021/22</title>
+  </programme>
+  <programme start="20210828193000 +0700" stop="20210828200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Ligue 1 Show 2021/22</title>
+  </programme>
+  <programme start="20210828200000 +0700" stop="20210828203000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga Show 2021/22</title>
+  </programme>
+  <programme start="20210828203000 +0700" stop="20210828210000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Fastzone 2021</title>
+  </programme>
+  <programme start="20210828210000 +0700" stop="20210828215500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga Pre Match 2021/22</title>
+  </programme>
+  <programme start="20210828215500 +0700" stop="20210829000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 4">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210822013500 +0700" stop="20210822034000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210822034000 +0700" stop="20210822040000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210822040000 +0700" stop="20210822045000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Pure ETCR Highlights 2021</title>
+  </programme>
+  <programme start="20210822045000 +0700" stop="20210822065000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Major League Soccer 2021</title>
+  </programme>
+  <programme start="20210822065000 +0700" stop="20210822072000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Kite Masters 2021</title>
+  </programme>
+  <programme start="20210822072000 +0700" stop="20210822092500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Major League Soccer 2021</title>
+  </programme>
+  <programme start="20210822092500 +0700" stop="20210822094000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 Club Profiles 2021/22</title>
+  </programme>
+  <programme start="20210822094000 +0700" stop="20210822113000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210822113000 +0700" stop="20210822131500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Major League Soccer 2021</title>
+  </programme>
+  <programme start="20210822131500 +0700" stop="20210822150000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Major League Soccer 2021</title>
+  </programme>
+  <programme start="20210822150000 +0700" stop="20210822170000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Liverpool TV 2021/22</title>
+  </programme>
+  <programme start="20210822170000 +0700" stop="20210822175500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">LFC Trending 2021/22</title>
+  </programme>
+  <programme start="20210822175500 +0700" stop="20210822195500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210822195500 +0700" stop="20210822220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210822220000 +0700" stop="20210822232000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Karate Combat Season 3</title>
+  </programme>
+  <programme start="20210822232000 +0700" stop="20210823013500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210823013500 +0700" stop="20210823034500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210823034500 +0700" stop="20210823040000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210823040000 +0700" stop="20210823055000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210823055000 +0700" stop="20210823074000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210823074000 +0700" stop="20210823093000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210823093000 +0700" stop="20210823110000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">DTM Race 2021</title>
+  </programme>
+  <programme start="20210823110000 +0700" stop="20210823111500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210823111500 +0700" stop="20210823130000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210823130000 +0700" stop="20210823144500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210823144500 +0700" stop="20210823163000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210823163000 +0700" stop="20210823170000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">GP Confidential 2021</title>
+  </programme>
+  <programme start="20210823170000 +0700" stop="20210823171000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210823171000 +0700" stop="20210823190000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210823190000 +0700" stop="20210823193000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Chelsea TV Specials 2021/22</title>
+  </programme>
+  <programme start="20210823193000 +0700" stop="20210823200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Inside Chelsea 2021/22</title>
+  </programme>
+  <programme start="20210823200000 +0700" stop="20210823220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Chelsea TV 2021/22</title>
+  </programme>
+  <programme start="20210823220000 +0700" stop="20210823230000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 Highlights 2021/22</title>
+  </programme>
+  <programme start="20210823230000 +0700" stop="20210823232000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 Club Profiles 2021/22</title>
+  </programme>
+  <programme start="20210823232000 +0700" stop="20210824013500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210824013500 +0700" stop="20210824034000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210824034000 +0700" stop="20210824040000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 Club Profiles 2021/22</title>
+  </programme>
+  <programme start="20210824040000 +0700" stop="20210824060000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210824060000 +0700" stop="20210824070000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 Highlights 2021/22</title>
+  </programme>
+  <programme start="20210824070000 +0700" stop="20210824073000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Chelsea TV Specials 2021/22</title>
+  </programme>
+  <programme start="20210824073000 +0700" stop="20210824080000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Inside Chelsea 2021/22</title>
+  </programme>
+  <programme start="20210824080000 +0700" stop="20210824100000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Chelsea TV 2021/22</title>
+  </programme>
+  <programme start="20210824100000 +0700" stop="20210824103000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">The Outdoor Sports Show 2021</title>
+  </programme>
+  <programme start="20210824103000 +0700" stop="20210824123000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210824123000 +0700" stop="20210824133000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Laliga Highlights 2021/22</title>
+  </programme>
+  <programme start="20210824133000 +0700" stop="20210824140500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">29th Pamesa Laliga PM-STD Nat'l TNM</title>
+  </programme>
+  <programme start="20210824140500 +0700" stop="20210824144000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">29th Pamesa Laliga PM-STD Nat'l TNM</title>
+  </programme>
+  <programme start="20210824144000 +0700" stop="20210824152000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">29th Pamesa Laliga PM-STD Nat'l TNM</title>
+  </programme>
+  <programme start="20210824152000 +0700" stop="20210824171000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210824171000 +0700" stop="20210824190000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210824190000 +0700" stop="20210824210000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Liverpool TV 2021/22</title>
+  </programme>
+  <programme start="20210824210000 +0700" stop="20210824220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">LFC Trending 2021/22</title>
+  </programme>
+  <programme start="20210824220000 +0700" stop="20210824223000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">MLS Show 2021</title>
+  </programme>
+  <programme start="20210824223000 +0700" stop="20210824230000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">GP Confidential 2021</title>
+  </programme>
+  <programme start="20210824230000 +0700" stop="20210825000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Laliga Highlights 2021/22</title>
+  </programme>
+  <programme start="20210825000000 +0700" stop="20210825015500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Major League Soccer 2021</title>
+  </programme>
+  <programme start="20210825015500 +0700" stop="20210825040000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">UEFA Champions League 2021/22</title>
+  </programme>
+  <programme start="20210825040000 +0700" stop="20210825043000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">The Outdoor Sports Show 2021</title>
+  </programme>
+  <programme start="20210825043000 +0700" stop="20210825060000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">DTM Race 2021</title>
+  </programme>
+  <programme start="20210825060000 +0700" stop="20210825075000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">UEFA Champions League 2021/22</title>
+  </programme>
+  <programme start="20210825075000 +0700" stop="20210825094500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">UEFA Champions League 2021/22</title>
+  </programme>
+  <programme start="20210825094500 +0700" stop="20210825100000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210825100000 +0700" stop="20210825114500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210825114500 +0700" stop="20210825121500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">The Outdoor Sports Show 2021</title>
+  </programme>
+  <programme start="20210825121500 +0700" stop="20210825123000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">SPFL Highlights 2021/22</title>
+  </programme>
+  <programme start="20210825123000 +0700" stop="20210825133000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">SailGP 2021-22 Highlights</title>
+  </programme>
+  <programme start="20210825133000 +0700" stop="20210825140500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">29th Pamesa Laliga PM-STD Nat'l TNM</title>
+  </programme>
+  <programme start="20210825140500 +0700" stop="20210825144000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">29th Pamesa Laliga PM-STD Nat'l TNM</title>
+  </programme>
+  <programme start="20210825144000 +0700" stop="20210825152000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">29th Pamesa Laliga PM-STD Nat'l TNM</title>
+  </programme>
+  <programme start="20210825152000 +0700" stop="20210825171000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210825171000 +0700" stop="20210825190000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">UEFA Champions League 2021/22</title>
+  </programme>
+  <programme start="20210825190000 +0700" stop="20210825193000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">UEFA Champions League Highlights 2021/22</title>
+  </programme>
+  <programme start="20210825193000 +0700" stop="20210825200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">This is Paris 2021/22</title>
+  </programme>
+  <programme start="20210825200000 +0700" stop="20210825220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">UEFA Champions League 2021/22</title>
+  </programme>
+  <programme start="20210825220000 +0700" stop="20210825223000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Serie a Full Impact 2021/22</title>
+  </programme>
+  <programme start="20210825223000 +0700" stop="20210825233000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Laliga 2 Highlights 2021/22</title>
+  </programme>
+  <programme start="20210825233000 +0700" stop="20210826000000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">UEFA Champions League Highlights 2021/22</title>
+  </programme>
+  <programme start="20210826000000 +0700" stop="20210826015500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Major League Soccer 2021</title>
+  </programme>
+  <programme start="20210826015500 +0700" stop="20210826040000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">UEFA Champions League 2021/22</title>
+  </programme>
+  <programme start="20210826040000 +0700" stop="20210826043000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">This is Paris 2021/22</title>
+  </programme>
+  <programme start="20210826043000 +0700" stop="20210826060000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">DTM Race 2021</title>
+  </programme>
+  <programme start="20210826060000 +0700" stop="20210826075000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">UEFA Champions League 2021/22</title>
+  </programme>
+  <programme start="20210826075000 +0700" stop="20210826094500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">UEFA Champions League 2021/22</title>
+  </programme>
+  <programme start="20210826094500 +0700" stop="20210826100000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210826100000 +0700" stop="20210826114500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210826114500 +0700" stop="20210826121500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">This is Paris 2021/22</title>
+  </programme>
+  <programme start="20210826121500 +0700" stop="20210826123000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210826123000 +0700" stop="20210826130000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Laliga World 2021/22</title>
+  </programme>
+  <programme start="20210826130000 +0700" stop="20210826133000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Silk Way Rally 2021</title>
+  </programme>
+  <programme start="20210826133000 +0700" stop="20210826152000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Major League Soccer 2021</title>
+  </programme>
+  <programme start="20210826152000 +0700" stop="20210826171000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">UEFA Champions League 2021/22</title>
+  </programme>
+  <programme start="20210826171000 +0700" stop="20210826190000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">UEFA Champions League 2021/22</title>
+  </programme>
+  <programme start="20210826190000 +0700" stop="20210826193000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">UEFA Champions League Highlights 2021/22</title>
+  </programme>
+  <programme start="20210826193000 +0700" stop="20210826213000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Liverpool TV 2021/22</title>
+  </programme>
+  <programme start="20210826213000 +0700" stop="20210826223000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">LFC TV Specials 2021/22</title>
+  </programme>
+  <programme start="20210826223000 +0700" stop="20210826230000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">The UCL Preview Show 2021/22</title>
+  </programme>
+  <programme start="20210826230000 +0700" stop="20210827003000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">UEFA Champions League Draw 2021/22</title>
+  </programme>
+  <programme start="20210827003000 +0700" stop="20210827010000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">The UCL Review Show 2021/22</title>
+  </programme>
+  <programme start="20210827010000 +0700" stop="20210827020000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Goodwood Highlights 2021</title>
+  </programme>
+  <programme start="20210827020000 +0700" stop="20210827023000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Laliga World 2021/22</title>
+  </programme>
+  <programme start="20210827023000 +0700" stop="20210827030500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">29th Pamesa Laliga PM-STD Nat'l TNM</title>
+  </programme>
+  <programme start="20210827030500 +0700" stop="20210827034000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">29th Pamesa Laliga PM-STD Nat'l TNM</title>
+  </programme>
+  <programme start="20210827034000 +0700" stop="20210827041500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">29th Pamesa Laliga PM-STD Nat'l TNM</title>
+  </programme>
+  <programme start="20210827041500 +0700" stop="20210827045000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">29th Pamesa Laliga PM-STD Nat'l TNM</title>
+  </programme>
+  <programme start="20210827045000 +0700" stop="20210827053000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">29th Pamesa Laliga PM-STD Nat'l TNM</title>
+  </programme>
+  <programme start="20210827053000 +0700" stop="20210827060000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">This is Paris 2021/22</title>
+  </programme>
+  <programme start="20210827060000 +0700" stop="20210827065000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">British Superbike Championship H/Ls 2021</title>
+  </programme>
+  <programme start="20210827065000 +0700" stop="20210827070000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210827070000 +0700" stop="20210827085000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210827085000 +0700" stop="20210827104000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210827104000 +0700" stop="20210827123000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210827123000 +0700" stop="20210827133000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">DTM Trophy 2021</title>
+  </programme>
+  <programme start="20210827133000 +0700" stop="20210827140500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">29th Pamesa Laliga PM-STD Nat'l TNM</title>
+  </programme>
+  <programme start="20210827140500 +0700" stop="20210827144000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">29th Pamesa Laliga PM-STD Nat'l TNM</title>
+  </programme>
+  <programme start="20210827144000 +0700" stop="20210827151500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">29th Pamesa Laliga PM-STD Nat'l TNM</title>
+  </programme>
+  <programme start="20210827151500 +0700" stop="20210827170000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210827170000 +0700" stop="20210827180000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">UEFA Europa League Draw 2021/22</title>
+  </programme>
+  <programme start="20210827180000 +0700" stop="20210827183000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ultra-Trail World Tour 2021</title>
+  </programme>
+  <programme start="20210827183000 +0700" stop="20210827193000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">UEFA Europa CFR League Draw 2021/22</title>
+  </programme>
+  <programme start="20210827193000 +0700" stop="20210827200000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Silk Way Rally 2021</title>
+  </programme>
+  <programme start="20210827200000 +0700" stop="20210827203000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Laliga Show 2021/22</title>
+  </programme>
+  <programme start="20210827203000 +0700" stop="20210827215000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Karate Combat 2021</title>
+  </programme>
+  <programme start="20210827215000 +0700" stop="20210827220000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210827220000 +0700" stop="20210827223000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 Show 2021/22</title>
+  </programme>
+  <programme start="20210827223000 +0700" stop="20210827230000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Inside Serie a 2021/22</title>
+  </programme>
+  <programme start="20210827230000 +0700" stop="20210827231000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210827231000 +0700" stop="20210827232000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210827232000 +0700" stop="20210828013500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210828013500 +0700" stop="20210828034500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210828034500 +0700" stop="20210828053000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210828053000 +0700" stop="20210828055000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 Talking Talents 2020/21</title>
+  </programme>
+  <programme start="20210828055000 +0700" stop="20210828074000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210828074000 +0700" stop="20210828094500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Major League Soccer 2021</title>
+  </programme>
+  <programme start="20210828094500 +0700" stop="20210828100000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Laliga Club Classic 2016/17</title>
+  </programme>
+  <programme start="20210828100000 +0700" stop="20210828103000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Laliga Show 2021/22</title>
+  </programme>
+  <programme start="20210828103000 +0700" stop="20210828110000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Fastzone 2021</title>
+  </programme>
+  <programme start="20210828110000 +0700" stop="20210828125000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 2021/22</title>
+  </programme>
+  <programme start="20210828125000 +0700" stop="20210828130000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210828130000 +0700" stop="20210828133000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Laliga Show 2021/22</title>
+  </programme>
+  <programme start="20210828133000 +0700" stop="20210828140000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ligue 1 Show 2021/22</title>
+  </programme>
+  <programme start="20210828140000 +0700" stop="20210828154500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Serie a 2021/22</title>
+  </programme>
+  <programme start="20210828154500 +0700" stop="20210828173000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Laliga 2021/22</title>
+  </programme>
+  <programme start="20210828173000 +0700" stop="20210828183000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">DTM Highlights 2021</title>
+  </programme>
+  <programme start="20210828183000 +0700" stop="20210828184500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210828184500 +0700" stop="20210828194500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ferrari Challenge Europe Race 2021</title>
+  </programme>
+  <programme start="20210828194500 +0700" stop="20210828195500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210828195500 +0700" stop="20210828202500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Inside Serie a 2021/22</title>
+  </programme>
+  <programme start="20210828202500 +0700" stop="20210828205500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">SailGP 2021-22 Highlights</title>
+  </programme>
+  <programme start="20210828205500 +0700" stop="20210828212500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Fastzone 2021</title>
+  </programme>
+  <programme start="20210828212500 +0700" stop="20210828222500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Ferrari Challenge Europe Race 2021</title>
+  </programme>
+  <programme start="20210828222500 +0700" stop="20210828224000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210828224000 +0700" stop="20210828225000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Great Goals</title>
+  </programme>
+  <programme start="20210828225000 +0700" stop="20210828232000 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Inside Serie a 2021/22</title>
+  </programme>
+  <programme start="20210828232000 +0700" stop="20210829013500 +0700" channel="ทรู พรีเมียร์ ฟุตบอล เอชดี 5">
+    <title lang="th">Serie a 2021/22</title>
   </programme>
 </tv>
