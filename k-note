@@ -25177,7 +25177,9 @@ http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="misc/IN",SONY PIX |89
 http://89.187.182.181:9090/SM_FHD-ENG-SONYPIX/index.m3u8
+#EXTINF:-1 group-title="misc/IN",SONY PIX |89'
 http://89.187.182.181:9090/SM_FHD-ENG-SONYPIX/playlist.m3u8
+#EXTINF:-1 group-title="misc/IN",SONY PIX |89"
 http://89.187.182.181:9090/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="misc/IN",SONY TV |89
