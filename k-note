@@ -25183,10 +25183,24 @@ http://89.187.182.181:9090/SM_FHD-ENG-SONYPIX/playlist.m3u8
 http://89.187.182.181:9090/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="misc/IN",SONY TV |89
+http://89.187.182.181:9090/SM_FHD_HINDI_SONYTV/index.m3u8
+#EXTINF:-1 group-title="misc/IN",SONY TV |89'
+http://89.187.182.181:9090/SM_FHD_HINDI_SONYTV/playlist.m3u8
+#EXTINF:-1 group-title="misc/IN",SONY TV |89"
 http://89.187.182.181:9090/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="misc/IN",STAR MOVIES FHD |89
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIES/index.m3u8
+#EXTINF:-1 group-title="misc/IN",STAR MOVIES FHD |89'
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIES/playlist.m3u8
+#EXTINF:-1 group-title="misc/IN",STAR MOVIES FHD |89"
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="misc/IN",STAR MOVIES SELECT FHD |89
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/index.m3u8
+#EXTINF:-1 group-title="misc/IN",STAR MOVIES SELECT FHD |89'
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/playlist.m3u8
+#EXTINF:-1 group-title="misc/IN",STAR MOVIES SELECT FHD |89"
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="misc/IN",9XM
