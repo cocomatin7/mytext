@@ -25166,24 +25166,24 @@ http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 http://84.17.41.7:80/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="misc/IN",ANDPICTURES
+#EXTINF:-1 group-title="misc/IN",ANDPICTURES |89
 http://89.187.182.181:9090/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="misc/IN",ANDTV
+#EXTINF:-1 group-title="misc/IN",ANDTV |89
 http://89.187.182.181:9090/SM_FHD-HINDI-ANDTV/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="misc/IN",Animal Planet HD
+#EXTINF:-1 group-title="misc/IN",Animal Planet HD |89
 http://89.187.182.181:9090/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="misc/IN",DISCOVERY
+#EXTINF:-1 group-title="misc/IN",DISCOVERY |89
 http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="misc/IN",SONY PIX
+#EXTINF:-1 group-title="misc/IN",SONY PIX |89
 http://89.187.182.181:9090/SM_FHD-ENG-SONYPIX/tracks-v2a1/index.m3u8
 http://89.187.182.181:9090/SM_FHD-ENG-SONYPIX/tracks-v3a1/index.m3u8
 http://89.187.182.181:9090/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="misc/IN",SONY TV
+#EXTINF:-1 group-title="misc/IN",SONY TV |89
 http://89.187.182.181:9090/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="misc/IN",STAR MOVIES FHD
+#EXTINF:-1 group-title="misc/IN",STAR MOVIES FHD |89
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="misc/IN",STAR MOVIES SELECT FHD
+#EXTINF:-1 group-title="misc/IN",STAR MOVIES SELECT FHD |89
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="misc/IN",9XM
