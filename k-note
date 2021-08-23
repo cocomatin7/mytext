@@ -1405,7 +1405,21 @@ http://51.15.0.141:88/PT_SPORT_TV_4_HD/index.m3u8
 #EXTINF:-1 group-title="BamarTV",PT_SPORT_TV_5_HD
 http://51.15.0.141:88/PT_SPORT_TV_5_HD/index.m3u8
 
-http://195.181.163.39:80/DEP_BEIN_DEPORTES/index.m3u8?SBN
+#EXTINF:-1 group-title="BamarTV",beIN SPORTS n'
+http://195.181.163.39:80/DEP_BEIN_DEPORTES/index.m3u8
+
+http://195.181.163.39/DEP_DIRECTV_PLUS/tracks-v1a1/mono.m3u8
+http://195.181.163.39/ECU-DIRECTTV_SP2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="BamarTV",ESPN
+http://195.181.163.39/DEP_ESPN_ARG/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BamarTV",ESPN_2A
+http://195.181.163.39/DEP_ESPN_2_ARG/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BamarTV",ESPN_3A
+http://195.181.163.39/DEP_ESPN_3_ARG/tracks-v1a1/mono.m3u8
+http://195.181.163.39:80/DEP_WIN_SPORTS/index.m3u8
+http://195.181.163.39:80/ESP_GOL_TV_HD/index.m3u8?token=
+
 
 COSMOTE SPORT1
 http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8?token=test
@@ -2592,6 +2606,8 @@ https://bucketdaily02.s3.eu-west-2.amazonaws.com/e1/1.m3u8
 https://bucketdaily02.s3.eu-west-2.amazonaws.com/e2/2.m3u8
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/f66c9ac57cf0482ca54c5cdc86e68854/index4.m3u8
 https://dailyb0.s3.amazonaws.com/e1/1.m3u8
+
+http://pkr.cinepex.tv:8278/marvelhqhindikdin/playlist.m3u8
 
 
 #EXTINF:-1 group-title="BamarTV", 80s party |loop.tv
@@ -5856,10 +5872,12 @@ http://77.83.117.60:8888/02_AND_TV_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_AXNHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_AnimalPlanet/chunklist.m3u8
 http://77.83.117.60:8888/02_BBCEARTH_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="77.83/TH",BT SPORT HD 1 |77.83
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="77.83/TH",BT SPORT HD 2 |77.83
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+
 http://77.83.117.60:8888/02_Baby_TV_HD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_Boomerang_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_CCM_720p/chunklist.m3u8
@@ -5887,6 +5905,7 @@ http://77.83.117.60:8888/02_FoxCrimeHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxCrimeHD_TH_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxFamilyHD_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_FoxFamilyHD_TH_720p/Chunklist.m3u8
+#EXTINF:-1 group-title="77.83/TH",FoxMoviesHD
 http://77.83.117.60:8888/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="77.83/TH",FOX MOVIES TH |77.83
 http://77.83.117.60:8888/02_FoxMoviesTH_720p/chunklist.m3u8
@@ -5971,6 +5990,7 @@ http://77.83.117.60:8888/02_VOICE_480p/chunklist.m3u8
 http://77.83.117.60:8888/02_WORKPOINT_720p/chunklist.m3u8
 #EXTINF:-1 group-title="77.83/TH",Warner TV |77.83
 http://77.83.117.60:8888/02_WarnerTVHD_720p/chunklist.m3u8
+
 http://77.83.117.60:8888/02_Wish_Channel_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_Zee_Cinema_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_Zee_Nung_720p/chunklist.m3u8
@@ -25869,7 +25889,7 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://209.126.120.153/hls/andpicture.m3u8
 
 
-http://77.83.117.60:8888/02_WarnerTVHD_720p/chunklist.m3u8
+
 
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8
 http://d2whc8q9z2af8n.cloudfront.net/MO1.m3u8
