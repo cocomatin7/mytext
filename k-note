@@ -25113,21 +25113,25 @@ http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
 
 + + + + + 221.120.204.4 + + + + +
 
-#EXTINF:-1 group-title="221.120/IN",SONY S HD
+#EXTINF:-1 group-title="221.120/IN",SONY S HD |221
+http://221.120.204.4/SONY-HD-LOCKLE/playlist.m3u8
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="221.120/IN",SONY S HD'
 http://221.120.204.4/SONY-HD/index.m3u8
-#EXTINF:-1 group-title="221.120/IN",SONY MAX
+#EXTINF:-1 group-title="221.120/IN",SONY MAX |221
+http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="221.120/IN",SONY MAX'
 http://221.120.204.4/SONY-MAX/index.m3u8
 http://221.120.204.4/SONY-MAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="221.120/IN",SONY SAB
+#EXTINF:-1 group-title="221.120/IN",SONY SAB |221
+http://221.120.204.4/SONY-SAB-LOCKLE/playlist.m3u8
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="221.120/IN",SONY SAB'
 http://221.120.204.4/SONY-SAB/index.m3u8
 http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="221.120/IN",STAR MOVIES 
+#EXTINF:-1 group-title="221.120/IN",STAR MOVIES |221 
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/playlist.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 
@@ -25139,11 +25143,13 @@ http://221.120.204.4/STAR-SPORTS-SELECT-1-/tracks-v1a1/mono.m3u8
 http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="221.120/IN",colors HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
 offline http://221.120.204.4/colours-hd/index.m3u8
-#EXTINF:-1 group-title="221.120/IN",Star Plus
+#EXTINF:-1 group-title="221.120/IN",Star Plus |221
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 offline http://221.120.204.4/star-plus/index.m3u8
-#EXTINF:-1 group-title="221.120/IN",STAR WORLD
+#EXTINF:-1 group-title="221.120/IN",STAR WORLD |221
+http://221.120.204.4/star-world-LOCKLE/playlist.m3u8
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 
 
@@ -25180,6 +25186,14 @@ ColorsIn
 http://51.79.84.156:8082/ColorsIn/index.m3u8
 http://51.79.84.156:8082/ZeeTvIn/index.m3u8
 http://51.79.84.156:8082/SabIn/index.m3u8
+
+https://piratesiptv.shortcm.li/andtv.m3u8 < not play
+http://103.205.133.21/hls/andtv.m3u8 < not play
+
+https://piratesiptv.shortcm.li/bpremier.m3u8
+https://piratesiptv.shortcm.li/travelxp.m3u8
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+
 
 #EXTINF:-1 group-title="misc/IN",9XM
 http://84.17.41.7:80/9XM-Hin/tracks-v1a1/mono.m3u8
