@@ -25176,9 +25176,10 @@ http://89.187.182.181:9090/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8
 http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="misc/IN",SONY PIX |89
-http://89.187.182.181:9090/SM_FHD-ENG-SONYPIX/tracks-v2a1/index.m3u8
-http://89.187.182.181:9090/SM_FHD-ENG-SONYPIX/tracks-v3a1/index.m3u8
+http://89.187.182.181:9090/SM_FHD-ENG-SONYPIX/index.m3u8
+http://89.187.182.181:9090/SM_FHD-ENG-SONYPIX/playlist.m3u8
 http://89.187.182.181:9090/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="misc/IN",SONY TV |89
 http://89.187.182.181:9090/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="misc/IN",STAR MOVIES FHD |89
