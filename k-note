@@ -897,10 +897,7 @@ https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/17/live.m3u8
 
 
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 
-http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 https://d2hjrfld3i5z2y.cloudfront.net/out/v1/55857eeba48c45f4be5b01cea490da78/index.m3u8 < DOWN?
 
@@ -926,18 +923,7 @@ http://5.101.174.206:9981/stream/channelid/627515210?ticket=2FCFA7B9B74429E407CC
 http://5.101.174.206:9981/stream/channelid/811966825?ticket=4B2F3677ED6FC808E57FF64461C9DA2EAFE2CE4D&profile=webtv-h264-aac-matroska
 
 
-#EXTINF:-1 group-title="BamarTV/Sports",LFC TV
-http://77.83.117.60:8888/02_lfctv_720p/chunklist.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",MU TV
-http://77.83.117.60:8888/02_MUTV_720p/chunklist.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",ChelseaTV
-http://77.83.117.60:8888/02_ChelseaTV_720p/chunklist.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",WWE
-http://77.83.117.60:8888/02_WWE_720p/chunklist.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",Eurosport1
-http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",Eurosport2
-http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
+
 
 #EXTINF:-1 group-title="BamarTV/Sports",StarSportsSelect1FHD |87
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist.m3u8
@@ -1408,7 +1394,18 @@ http://103.159.4.38:5868/SPORTS-13/tracks-v1a1/mono.m3u8
 
 http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="BamarTV",PT_SPORT_TV_1_HD
+http://51.15.0.141:88/PT_SPORT_TV_1_HD/index.m3u8
+#EXTINF:-1 group-title="BamarTV",PT_SPORT_TV_2_HD
+http://51.15.0.141:88/PT_SPORT_TV_2_HD/index.m3u8
+#EXTINF:-1 group-title="BamarTV",PT_SPORT_TV_3_HD
+http://51.15.0.141:88/PT_SPORT_TV_3_HD/index.m3u8
+#EXTINF:-1 group-title="BamarTV",PT_SPORT_TV_4_HD
+http://51.15.0.141:88/PT_SPORT_TV_4_HD/index.m3u8
+#EXTINF:-1 group-title="BamarTV",PT_SPORT_TV_5_HD
+http://51.15.0.141:88/PT_SPORT_TV_5_HD/index.m3u8
 
+http://195.181.163.39:80/DEP_BEIN_DEPORTES/index.m3u8?SBN
 
 COSMOTE SPORT1
 http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8?token=test
@@ -2162,15 +2159,29 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6747_720p/index.m3u8
 + + + + + BamarTV + + + + +
 
 http://31.134.132.245:8080/hustler_hd/index.m3u8
+
 http://31.134.132.245:8080/hustler_hd/tracks-v1a1/mono.m3u8?token=gelow74
 http://31.134.132.245:8080/shalun_hd/index.m3u8
 http://31.134.132.245:8080/shalun_hd/mpegts
 
+http://51.15.0.141:88/baby_tv/index.m3u8
+http://51.15.0.141:88/cartoon_network/index.m3u8
+http://51.15.0.141:88/disney_ch/index.m3u8
+http://51.15.0.141:88/disney_junior/index.m3u8
+http://51.15.0.141:88/nickelodeon/index.m3u8
+
+
+
+http://51.15.0.141:88/blacked_hd/index.m3u8
 http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 http://51.15.0.141:88/hustlerhd/tracks-v1a1/index.m3u8
 http://51.15.0.141:88/hustlerhd/index.m3u8
 http://51.15.0.141:88/redlightHD/index.m3u8
 http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
+
+
+
+
 
 http://62.112.9.63:88/Brazzers/index.m3u8?token=test
 
@@ -5996,6 +6007,27 @@ http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
 
 http://77.83.117.60:8888/sumrujlok_goodtv/chunklist.m3u8
+
+#EXTINF:-1 group-title="77.83/TH",LFC TV
+http://77.83.117.60:8888/02_lfctv_720p/chunklist.m3u8
+#EXTINF:-1 group-title="77.83/TH",MU TV
+http://77.83.117.60:8888/02_MUTV_720p/chunklist.m3u8
+#EXTINF:-1 group-title="77.83/TH",ChelseaTV
+http://77.83.117.60:8888/02_ChelseaTV_720p/chunklist.m3u8
+#EXTINF:-1 group-title="77.83/TH",WWE
+http://77.83.117.60:8888/02_WWE_720p/chunklist.m3u8
+#EXTINF:-1 group-title="77.83/TH",Eurosport1
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="77.83/TH",Eurosport2
+http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
+
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+
+http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+
 https://www.live77.83s.com/02_2sporthd2_720p/chunklist.m3u8
 
 + + + + + 159.192.73.198:1072 + + + + +
@@ -8789,9 +8821,13 @@ https://mediasv.online/tvchannel_x1/trueepl3/playlist.m3u8?wmsAuthSign=c2VydmVyX
 https://mediasv.online/tvchannel_x1/trueepl3/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIxIDE6MTg6NTcgUE0maGFzaF92YWx1ZT1VOVR2bXdUSWNuTFNNQWVBdUU4c1dnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIxJmlkPWNoXzc5NDA1
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3" group-title="mediasv",true EPL 3"
 https://mediasv.online/tvchannel_x1/trueepl3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEyOjE3OjQ5IFBNJmhhc2hfdmFsdWU9R21qYzI0Q3ZqajhPdERxMi9WTmR1Zz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMSZpZD1jaF85ODkzNQ==
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 3" group-title="mediasv",true EPL 3'"
+https://mediasv.online/tvchannel_x1/trueepl3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjEyOjE5IFBNJmhhc2hfdmFsdWU9ck1kQm9jSndtckpvWHNJZ1p6NGRVUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMSZpZD1jaF8zMTI0Mg==
 
 #EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 4" group-title="mediasv",true EPL 4/2
 https://mediasv.online/tvchannel_x1/trueepl2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEyOjE2OjA1IFBNJmhhc2hfdmFsdWU9SXFXeGNaMlowY3hqMzJnc3ZHUmFaZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMSZpZD1jaF82NjY4MA==
+#EXTINF:-1 tvg-id="ทรู พรีเมียร์ ฟุตบอล เอชดี 4" group-title="mediasv",true EPL 4'
+https://mediasv.online/tvchannel_x1/trueepl4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIxIDEyOjE3OjA0IFBNJmhhc2hfdmFsdWU9QUJiaG5jaVMvZFkyOUxacGxCR1YxQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMSZpZD1jaF82NTI5Nw==
 
 #EXTINF:-1 group-title="mediasv",true EPL 5
 https://mediasv.online/tvchannel_x1/trueepl5/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIxIDE6MTk6MDEgUE0maGFzaF92YWx1ZT1DUWR2ZjAwL21weXlOUnIrcGVSWTZ3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIxJmlkPWNoXzYzMTMw
@@ -25128,6 +25164,10 @@ https://feed.play.mv/live/10005200/7EsSDh7aX6/1.m3u8
 
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
+ColorsIn
+http://51.79.84.156:8082/ColorsIn/index.m3u8
+http://51.79.84.156:8082/ZeeTvIn/index.m3u8
+http://51.79.84.156:8082/SabIn/index.m3u8
 
 #EXTINF:-1 group-title="misc/IN",9XM
 http://84.17.41.7:80/9XM-Hin/tracks-v1a1/mono.m3u8
@@ -26220,8 +26260,12 @@ https://aloka-iptv.xyz:443/get.php?username=APP&password=ALOKA-TV&type=m3u Real 
 https://my.odtv.uk:443/get.php?username=9186897972&password=4075991752&type=m3u Real Url: my.odtv.uk:80     Status: Active    Created: 19/5/2021 10:27:16 AM     Expires: 8/1/2022 4:31:48 AM    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp" < SEA CH
 
 https://nonton.site:8443/get.php?username=yono22&password=ishak&type=m3u Real Url: nonton.site:8888     Status: Active    Created: 4/1/2021 1:10:01 PM     Expires: 2/8/2021 11:34:03 AM    Active Connections: 4     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
-https://streams.simpaisa.com:8443/pitvlive4/cartoonhindi.smil/playlist.m3u8
 
+https://nonton.site:8443/get.php?username=Athayamanja&password=SHFTZRKFrF&type=m3u
+Real Url: nonton.site:8888     Status: Active    Created: 9/12/2020 4:20:50 AM     Expires: 8/12/2021 3:37:38 PM    Active Connections: 5     Maximum Connections: 2     Formats: "m3u8","ts","rtmp"
+
+
+https://streams.simpaisa.com:8443/pitvlive4/cartoonhindi.smil/playlist.m3u8
 
 + + + + + 2.56.215.148:25461 + + + + + Max Con: 0
 
