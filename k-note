@@ -25177,6 +25177,8 @@ http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="misc/IN",SONY PIX
 http://89.187.182.181:9090/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8
+http://89.187.182.181:9090/SM_FHD-ENG-SONYPIX/tracks-v2a1/index.m3u8
+http://89.187.182.181:9090/SM_FHD-ENG-SONYPIX/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="misc/IN",SONY TV
 http://89.187.182.181:9090/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="misc/IN",STAR MOVIES FHD
@@ -25991,6 +25993,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/index.m3u8
 Zee Bangla*
 https://y5w8j4a9.ssl.hwcdn.net/zeebanglahd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeebanglahd/tracks-v1a1/index.m3u8
+
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="IN/y5",Zee Cafe HD En
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
