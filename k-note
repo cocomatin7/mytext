@@ -897,8 +897,6 @@ https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/17/live.m3u8
 
 
-
-
 https://d2hjrfld3i5z2y.cloudfront.net/out/v1/55857eeba48c45f4be5b01cea490da78/index.m3u8 < DOWN?
 
 
@@ -921,8 +919,6 @@ http://5.101.174.206:9981/stream/channelid/472925085?ticket=567B86D437B5F4C72A9B
 http://5.101.174.206:9981/stream/channelid/627515210?ticket=2FCFA7B9B74429E407CCFE1BFF28BA8F809488F7&profile=webtv-h264-aac-matroska
  tvg-id="69a165b0060fa516887ff77b5b1d2fa7",BS8
 http://5.101.174.206:9981/stream/channelid/811966825?ticket=4B2F3677ED6FC808E57FF64461C9DA2EAFE2CE4D&profile=webtv-h264-aac-matroska
-
-
 
 
 #EXTINF:-1 group-title="BamarTV/Sports",StarSportsSelect1FHD |87
@@ -1452,15 +1448,29 @@ http://185.132.177.110:8080/COSMOTESport9HD/video.m3u8?token=test
 
 
 https://live.tab3live.us/p/1-bein-premium-1-hd-live-channel.html?m=0
-https://live.tab3live.us/p/1-bein-premium-1-hd-live-channel.html?m=0
 
 
 + + + + + channelstream.club + + + + + can't too much AD + + https://123sport.tv/ + + https://channelstream.watch/chaine-tv.php
 
-https://channelstream.club/stream/bein_1.php
-https://href.li/?http://channelstream.club/stream/uk_btsport_1.php < ad block can't
+https://channelstream.club/stream/bein_1.php > https://embed-channel.stream/stream/bein_1.php
+https://embed-channel.stream/stream/bein_2.php
+https://embed-channel.stream/stream/bein_3.php
+
+https://href.li/?http://channelstream.club/stream/uk_btsport_1.php > https://embed-channel.stream/stream/uk_btsport_1.php < ad block can't
 https://embed-channel.stream/stream/uk_btsport_1.php
 https://href.li/?http://channelstream.club/stream/uk_skysport_pl.php < ad block can't
+
+https://channelstream.watch/canal_sport-1.php
+https://channelstream.watch/canal_sport_weekend.php
+https://channelstream.watch/canal_premier_league.php
+https://channelstream.watch/canal_ligue1.php
+https://channelstream.watch/foot_plus.php
+https://channelstream.watch/canal_top14.php
+
+https://channelstream.watch/skysport_pl.php
+https://channelstream.watch/skysport_football.php
+https://channelstream.watch/rmcsport_1.php
+https://channelstream.watch/rmcsport_2.php
 
 
 + + + + + https://www.usagoals.net/b/football.html + + + + + 
