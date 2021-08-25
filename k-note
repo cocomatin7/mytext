@@ -25689,6 +25689,22 @@ https://tvstream.space/jtv/lovE.php?c=Rishtey_Cineplex&q=1200&e=.m3u8
 -/-/-/-/-
 
 
+#EXTINF:-1 group-title="misc/IN",SonyMaxHD |103
+http://103.213.238.194:8080/SonyMaxHD/index.m3u8
+#EXTINF:-1 group-title="misc/IN",SonyPix |103
+http://103.213.238.194:8080/SonyPix/index.m3u8
+#EXTINF:-1 group-title="misc/IN",SonyTV |103
+http://103.213.238.194:8080/SonyTVHD/index.m3u8
+#EXTINF:-1 group-title="misc/IN",SonyTen1 |103
+http://103.213.238.194:8080/SonyTen1/index.m3u8
+#EXTINF:-1 group-title="misc/IN",SonyTen2 |103
+http://103.213.238.194:8080/SonyTen2/index.m3u8
+#EXTINF:-1 group-title="misc/IN",SonyTen3 |103
+http://103.213.238.194:8080/SonyTen3/index.m3u8
+#EXTINF:-1 group-title="misc/IN",SonySix |103
+http://103.213.238.194:8080/SonySix/index.m3u8
+
+
 #EXTINF:-1 group-title="misc/IN",and-picture-hd
 https://cdn.cinemabaaz.live/j-and-picture-hd/tracks-v1a1/mono.m3u8
 https://cdn.cinemabaaz.live/&privatehd/mono.m3u8
