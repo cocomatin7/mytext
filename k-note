@@ -1460,7 +1460,7 @@ https://href.li/?http://channelstream.club/stream/uk_btsport_1.php > https://emb
 https://embed-channel.stream/stream/uk_btsport_1.php
 https://href.li/?http://channelstream.club/stream/uk_skysport_pl.php < ad block can't
 
-https://channelstream.watch/canal_sport-1.php
+https://channelstream.watch/canal_sport-1.php > https://embed-channel.stream/stream/canal_sport.php
 https://channelstream.watch/canal_sport_weekend.php
 https://channelstream.watch/canal_premier_league.php
 https://channelstream.watch/canal_ligue1.php
@@ -1752,6 +1752,7 @@ Live Gday3 http://nflscoop.net/gday3.html
 Live Gday4 http://nflscoop.net/gday4.html
 Live Gday5 http://nflscoop.net/gday5.html
 Live Gday6 http://nflscoop.net/gday6.html
+
 OVO1 http://www.ovostreams.com/1.php << 
 OVO2 http://www.ovostreams.com/2.php
 OVO3 http://www.ovostreams.com/3.php
@@ -1893,12 +1894,6 @@ https://sportzonline.to/channels/hd/hd6.php
 https://sportzonline.to/channels/hd/hd7.php
 https://sportzonline.to/channels/hd/hd8.php < Live HD8
 
-https://teleriumtv.net/embed/25501.html
-https://teleriumtv.net/embed/25502.html
-https://teleriumtv.net/embed/25503.html
-https://teleriumtv.net/embed/25525.html
-https://teleriumtv.net/embed/25535.html
-https://teleriumtv.net/ingest09/25535.m3u8?sf=MzVwczEwU2JE&token=g-n-mYn-3ZICzSxvHg6IDQ&expires=1621125000&rnd=25535
 
 https://v1.sportzonline.to/channels/hd/hd1.php < N
 https://v2.sportzonline.to/channels/hd/hd1.php
@@ -1942,6 +1937,30 @@ https://v7.sportzonline.to/channels/pt/sporttv2.php
 https://v7.sportzonline.to/channels/pt/sporttv3.php
 https://v7.sportzonline.to/channels/pt/sporttv4.php
 https://v7.sportzonline.to/channels/pt/sporttv5.php
+
++ + + + https://telerium.me/ + + + + bamartv can't
+
+
+https://telerium.me/canal-5.php EFL
+https://telerium.me/canal-6.php EFL
+https://telerium.me/canal-7.php
+https://telerium.me/canal-8.php
+
+https://telerium.me/canal-21.php UEFA
+https://telerium.me/canal-22.php
+https://telerium.me/canal-23.php
+https://telerium.me/canal-24.php
+
+
+rtmp://ingest.telerium.tv:1935/live/
+
+https://teleriumtv.net/embed/25501.html
+https://teleriumtv.net/embed/25502.html
+https://teleriumtv.net/embed/25503.html
+https://teleriumtv.net/embed/25525.html
+https://teleriumtv.net/embed/25535.html
+https://teleriumtv.net/ingest09/25535.m3u8?sf=MzVwczEwU2JE&token=g-n-mYn-3ZICzSxvHg6IDQ&expires=1621125000&rnd=25535
+
 
 
 + + + + https://www.streamhd247.live/ + + + + + 
