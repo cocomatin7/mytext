@@ -25348,28 +25348,6 @@ http://5.255.94.248:8080/IN:STAR-SPORTS-HINDI/tracks-v1a1/mono.m3u8?token=JuylOj
 
 https://itvoign.multitvsolution.com/idvo/discoverykidshindi_240p/index.m3u8
 
-
-#EXTINF:-1 group-title="misc/IN",color CINEPLEX
-https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
-#EXTINF:-1 group-title="misc/IN",BBC earth
-https://feed.play.mv/live/10005200/7EsSDh7aX6/1.m3u8
-#EXTINF:-1 group-title="misc/IN",EUROSPORT
-https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
-#EXTINF:-1 group-title="misc/IN",SONY S
-https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
-
-#EXTINF:-1 group-title="misc/IN",SONY S PIX
-https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
-#EXTINF:-1 group-title="misc/IN",SONY TEN 1
-https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
-#EXTINF:-1 group-title="misc/IN",MARVEL HQ
-https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
-#EXTINF:-1 group-title="misc/IN",ANIMAX EN
-https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
-#EXTINF:-1 group-title="misc/IN",DIS CH
-https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
-
-
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
 ColorsIn
@@ -25405,7 +25383,6 @@ http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 http://84.17.41.7/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="misc/IN",Rishtey Cineplex
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="misc/IN",BBC Earth
 http://84.17.41.7:80/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="misc/IN",SONY SIX
@@ -25467,14 +25444,38 @@ http://89.187.182.181:9090/SM_FHD_HINDI_SONYTV/playlist.m3u8
 #EXTINF:-1 group-title="misc/IN",SONY TV |89"
 http://89.187.182.181:9090/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8
 
-
-
-http://89.187.182.181:9090/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8
-http://89.187.182.181:9090/SM_FHD-HINDI-ANDTV/tracks-v1a1/index.m3u8
-http://89.187.182.181:9090/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-STARBHARAT/tracks-v1a1/index.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-STARPLUS/tracks-v1a1/index.m3u8
+http://89.41.180.253:8080/INDIA_HINDI/SONY_MIX/tracks-v1a1/mono.m3u8
+
+-/-/-/-/-/- 143.244.60.10 -/-/-/-/-/-
+
+
+#EXTINF:-1 group-title="misc/IN",AND_PICTURES
+http://143.244.60.10/HINDI__AND_PICTURES_HD/mono.m3u8
+#EXTINF:-1 group-title="misc/IN",B4U_MOVIES
+http://143.244.60.10/HINDI__B4U_MOVIES/mono.m3u8
+#EXTINF:-1 group-title="misc/IN",MN_PLUS
+http://143.244.60.10/HINDI__MN_PLUS_HD/mono.m3u8
+#EXTINF:-1 group-title="misc/IN",MOVIES_NOW
+http://143.244.60.10/HINDI__MOVIES_NOW_HD/mono.m3u8
+#EXTINF:-1 group-title="misc/IN",SONY_MAX_2
+http://143.244.60.10/HINDI__SONY_MAX_2/mono.m3u8
+#EXTINF:-1 group-title="misc/IN",SONY_SAB
+http://143.244.60.10/HINDI__SONY_SAB_HD/mono.m3u8
+#EXTINF:-1 group-title="misc/IN",STAR_BHARAT
+http://143.244.60.10/HINDI__STAR_BHARAT_HD/mono.m3u8
+#EXTINF:-1 group-title="misc/IN",STAR_GOLD
+http://143.244.60.10/HINDI__STAR_GOLD_HD/mono.m3u8
+#EXTINF:-1 group-title="misc/IN",STAR_PLUS
+http://143.244.60.10/HINDI__STAR_PLUS_HD/mono.m3u8
+http://143.244.60.10/HINDI__UTV_HD/mono.m3u8
+#EXTINF:-1 group-title="misc/IN",UTV_MOVIES
+http://143.244.60.10/HINDI__UTV_MOVIES/mono.m3u8
+#EXTINF:-1 group-title="misc/IN",ZEE_ACTION
+http://143.244.60.10/HINDI__ZEE_ACTION/mono.m3u8
+
 
 
 http://cdn.ihub.live:8080/&privatehd/index.m3u8 offline
@@ -25498,7 +25499,6 @@ http://cdn.ihub.live:8080/TLCHD/tracks-v1a1/mono.m3u8
 http://cdn.ihub.live:8080/SonySix/playlist.m3u8
 http://cdn.ihub.live:8080/SonySix/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="misc/IN",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 group-title="misc/IN",ZEE Bangla
 http://d2k667g61yse6h.cloudfront.net/101.m3u8
@@ -25525,7 +25525,45 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-1 group-title="misc/IN",ZOOM
 https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
 #EXTINF:-1 group-title="misc/IN",Travel XP (Hinde)
-https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+
+
+#EXTINF:-1 group-title="misc/IN",color CINEPLEX
+https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
+#EXTINF:-1 group-title="misc/IN",BBC earth
+https://feed.play.mv/live/10005200/7EsSDh7aX6/1.m3u8
+#EXTINF:-1 group-title="misc/IN",EUROSPORT
+https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
+#EXTINF:-1 group-title="misc/IN",SONY S
+https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
+
+#EXTINF:-1 group-title="misc/IN",SONY S PIX
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
+#EXTINF:-1 group-title="misc/IN",SONY TEN 1
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:-1 group-title="misc/IN",MARVEL HQ
+https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+#EXTINF:-1 group-title="misc/IN",ANIMAX EN
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+#EXTINF:-1 group-title="misc/IN",DIS CH
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+
+
+#EXTINF:-1 group-title="misc/IN",Animal Planet
+https://jio.instream.ml/jio.php?c=Animal_Planet_Hindi&q=400&e=.m3u8
+#EXTINF:-1 group-title="misc/IN",B4U Movies
+https://jio.instream.ml/jio.php?c=B4U_Movies&q=800&e=.m3u8
+#EXTINF:-1 group-title="misc/IN",Colors Cineplex
+https://jio.instream.ml/jio.php?c=Colors_Cineplex_HD&q=800&e=.m3u8
+#EXTINF:-1 group-title="misc/IN",Colors Infinity
+https://jio.instream.ml/jio.php?c=Colors_Infinity_HD&q=800&e=.m3u8
+https://jio.instream.ml/jio.php?c=Living_Foodz&q=800&e=.m3u8
+#EXTINF:-1 group-title="misc/IN",Sony MAX2
+https://jio.instream.ml/jio.php?c=Sony_MAX2&q=600&e=.m3u8
+#EXTINF:-1 group-title="misc/IN",Sony SAB
+https://jio.instream.ml/jio.php?c=Sony_SAB_HD&q=800&e=.m3u8
+#EXTINF:-1 group-title="misc/IN",Zee Classic
+https://jio.instream.ml/jio.php?c=Zee_Classic&q=600&e=.m3u8
+https://jio.instream.ml/jio.php?c=Zee_Cinema&q=600&e=.m3u8
 
 
 #EXTINF:-1 group-title="misc/IN",Animal Planet HD Hindi | ecm
@@ -25540,7 +25578,6 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?to
 #EXTINF:-1 group-title="misc/IN",S Ent | ecm
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 
-#EXTINF:-1 group-title="misc/IN",Star Movies HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 
 
@@ -25586,54 +25623,6 @@ http://tvflix03.ddns.net/ENC-18/index.m3u8
 http://tvflix03.ddns.net/ENC-19/index.m3u8
 #EXTINF:-1 group-title="misc/IN",UTV MOVIES |TATAsky
 http://tvflix03.ddns.net/ENC-20/index.m3u8
-
-
-#EXTINF:-1 group-title="misc/IN",Animal Planet
-https://jio.instream.ml/jio.php?c=Animal_Planet_Hindi&q=400&e=.m3u8
-#EXTINF:-1 group-title="misc/IN",B4U Movies
-https://jio.instream.ml/jio.php?c=B4U_Movies&q=800&e=.m3u8
-#EXTINF:-1 group-title="misc/IN",Colors Cineplex
-https://jio.instream.ml/jio.php?c=Colors_Cineplex_HD&q=800&e=.m3u8
-#EXTINF:-1 group-title="misc/IN",Colors Infinity
-https://jio.instream.ml/jio.php?c=Colors_Infinity_HD&q=800&e=.m3u8
-https://jio.instream.ml/jio.php?c=Living_Foodz&q=800&e=.m3u8
-#EXTINF:-1 group-title="misc/IN",Sony MAX2
-https://jio.instream.ml/jio.php?c=Sony_MAX2&q=600&e=.m3u8
-#EXTINF:-1 group-title="misc/IN",Sony SAB
-https://jio.instream.ml/jio.php?c=Sony_SAB_HD&q=800&e=.m3u8
-#EXTINF:-1 group-title="misc/IN",Zee Classic
-https://jio.instream.ml/jio.php?c=Zee_Classic&q=600&e=.m3u8
-#EXTINF:-1 group-title="misc/IN",Zee Cinema
-https://jio.instream.ml/jio.php?c=Zee_Cinema&q=600&e=.m3u8
-
-
--/-/-/-/-/- 143.244.60.10 -/-/-/-/-/-
-
-http://89.41.180.253:8080/INDIA_HINDI/SONY_MIX/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="misc/IN",AND_PICTURES
-http://143.244.60.10/HINDI__AND_PICTURES_HD/mono.m3u8
-#EXTINF:-1 group-title="misc/IN",B4U_MOVIES
-http://143.244.60.10/HINDI__B4U_MOVIES/mono.m3u8
-#EXTINF:-1 group-title="misc/IN",MN_PLUS
-http://143.244.60.10/HINDI__MN_PLUS_HD/mono.m3u8
-#EXTINF:-1 group-title="misc/IN",MOVIES_NOW
-http://143.244.60.10/HINDI__MOVIES_NOW_HD/mono.m3u8
-#EXTINF:-1 group-title="misc/IN",SONY_MAX_2
-http://143.244.60.10/HINDI__SONY_MAX_2/mono.m3u8
-#EXTINF:-1 group-title="misc/IN",SONY_SAB
-http://143.244.60.10/HINDI__SONY_SAB_HD/mono.m3u8
-#EXTINF:-1 group-title="misc/IN",STAR_BHARAT
-http://143.244.60.10/HINDI__STAR_BHARAT_HD/mono.m3u8
-#EXTINF:-1 group-title="misc/IN",STAR_GOLD
-http://143.244.60.10/HINDI__STAR_GOLD_HD/mono.m3u8
-#EXTINF:-1 group-title="misc/IN",STAR_PLUS
-http://143.244.60.10/HINDI__STAR_PLUS_HD/mono.m3u8
-http://143.244.60.10/HINDI__UTV_HD/mono.m3u8
-#EXTINF:-1 group-title="misc/IN",UTV_MOVIES
-http://143.244.60.10/HINDI__UTV_MOVIES/mono.m3u8
-#EXTINF:-1 group-title="misc/IN",ZEE_ACTION
-http://143.244.60.10/HINDI__ZEE_ACTION/mono.m3u8
 
 
 -/-/-/-/-/- tvflixvip01.ddns.net -/-/-/-/-/-
@@ -25682,7 +25671,6 @@ http://tvflixvip01.ddns.net/HINDI_STAR_UTSAV_MOVIES/index.m3u8?token=test
 http://tvflixvip01.ddns.net/HINDI_UTV_ACTION/index.m3u8?token=test
 http://tvflixvip01.ddns.net/HINDI_UTV_HD/index.m3u8?token=test
 http://tvflixvip01.ddns.net/HINDI_UTV_MOVIES/index.m3u8?token=test
-#EXTINF:-1 group-title="misc/IN",ZEE_ACTION
 http://tvflixvip01.ddns.net/HINDI_ZEE_ACTION/index.m3u8?token=test
 http://tvflixvip01.ddns.net/HINDI_ZEE_ANMOL_CINEMA/index.m3u8?token=test
 http://tvflixvip01.ddns.net/HINDI_ZEE_CINEMA_HD/index.m3u8?token=test
@@ -25695,61 +25683,6 @@ https://tvstream.space/jtv/jtvjiotv.php?c=ABZY_Movies&q=1200&e=.m3u8
 https://tvstream.space/jtv/jtvjiotv.php?c=Box_Cinema&q=1200&e=.m3u8
 https://tvstream.space/jtv/jtvjiotv.php?c=Sony_MAX2&q=1200&e=.m3u8
 https://tvstream.space/jtv/lovE.php?c=Rishtey_Cineplex&q=1200&e=.m3u8
-
--/-/-/-/-
-
-🌐 STBemu Stalker URL: http://new.hook.tm/stalker_portal/c/ 
-✅ Real URL: http://new.hook.tm 
-⚽️ MAC Address: 00:1A:79:00:0B:CA 
-🖥 STB Type: MAG250 
-👤 Username: canelavision@hz3 
-🔐 Password: 8c8e83bfe4913feeebe37e283726e447 
-👥 Max_online: 100000000 
-👁 Connected users: 0 
-🚫 Alert pass: 8888 
-⚙️ Settings Pass: 8080 
-🥇 Tariff Plan: Everything w/18+ 
-🔗 M3U Server: NWbZ1u.ecm.tm 
-📍 Server Locale: flu142202 
-📑 M3U_Link: http://new.hook.tm/get.php?username=canelavision@hz3&password=8c8e83bfe4913feeebe37e283726e447&type=m3u_plus&output=m3u8 
-
-🌐 STBemu Stalker URL: http://new.hook.tm/stalker_portal/c/ 
-✅ Real URL: http://new.hook.tm 
-⚽️ MAC Address: 00:1A:79:00:10:80 
-🖥 STB Type: MAG250 
-👤 Username: IPON02@4zm 
-🔐 Password: 468e82601c19238b1ee21499a6d8625d 
-🎁 Status: SUCCESS 
-👥 Max_online: 100000000 
-👁 Connected users: 0 
-🚫 Alert pass: 8888 
-⚙️ Settings Pass: 8080 
-🥇 Tariff Plan: Everything w/18+ 
-🔗 M3U Server: NWbZ1u.ecm.tm 
-📍 Server Locale: flu142202 
-📑 M3U_Link: http://new.hook.tm/get.php?username=IPON02@4zm&password=468e82601c19238b1ee21499a6d8625d&type=m3u_plus&output=m3u8 
-
-🌐 STBemu Stalker URL: http://new.hook.tm/stalker_portal/c/ 
-✅ Real URL: http://new.hook.tm 
-⚽️ MAC Address: 00:1A:79:00:11:00 
-🖥 STB Type: MAG250 
-🐬 Timezone: America\Toronto 
-🏁 Country: NL  
-👤 Username: EmadJerjees@t6k 
-🔐 Password: f14ae7cd0b001e9c9064b558be3889d0 
-🌍 IP Country:  
-🗓 Created: 2020-08-31 06:56:37 
-🎁 Status: SUCCESS 
-👥 Max_online: 100000000 
-👁 Connected users: 0 
-🚫 Alert pass: 8888 
-⚙️ Settings Pass: 8080 
-🥇 Tariff Plan: Everything w/18+ 
-🔗 M3U Server: NWbZ1u.ecm.tm 
-📍 Server Locale: flu142202 
-📑 M3U_Link: http://new.hook.tm/get.php?username=EmadJerjees@t6k&password=f14ae7cd0b001e9c9064b558be3889d0&type=m3u_plus&output=m3u8 
--/-/-/-/-
-
 
 #EXTINF:-1 group-title="misc/IN",SonyMaxHD |103
 http://103.213.238.194:8080/SonyMaxHD/index.m3u8
@@ -25775,7 +25708,6 @@ https://cdn.cinemabaaz.live/SonyMaxHD/mono.m3u8
 
  group-title="misc/IN",&privatehd
 http://cdn.ihub.live:8080/&privatehd/index.m3u8
-http://cdn.ihub.live:8080/TLCHD/tracks-v1a1/mono.m3u8
  group-title="misc/IN",Sony-MAX-HD
 http://cdn.ihub.live:8080/j-Sony-MAX-HD/tracks-v1a1/mono.m3u8
  group-title="misc/IN",star-gold-hd
@@ -25792,6 +25724,39 @@ http://scontent.1xcdn.xyz/j2/Ten1_HD_HLS.m3u8
 http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
  group-title="misc/IN",SONY TEN 3
 http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
+
+
+-/-/-/-/-
+
+🌐 STBemu Stalker URL: http://new.hook.tm/stalker_portal/c/ 
+✅ Real URL: http://new.hook.tm 
+⚽️ MAC Address: 00:1A:79:00:0B:CA 
+🖥 STB Type: MAG250 
+👤 Username: canelavision@hz3 
+🔐 Password: 8c8e83bfe4913feeebe37e283726e447 
+👥 Max_online: 100000000 
+👁 Connected users: 0 
+🚫 Alert pass: 8888 
+⚙️ Settings Pass: 8080 
+🥇 Tariff Plan: Everything w/18+ 
+🔗 M3U Server: NWbZ1u.ecm.tm 
+📍 Server Locale: flu142202 
+📑 M3U_Link: http://new.hook.tm/get.php?username=canelavision@hz3&password=8c8e83bfe4913feeebe37e283726e447&type=m3u_plus&output=m3u8 
+
+⚽️ MAC Address: 00:1A:79:00:10:80 
+👤 Username: IPON02@4zm 
+🔐 Password: 468e82601c19238b1ee21499a6d8625d 
+🎁 Status: SUCCESS 
+📑 M3U_Link: http://new.hook.tm/get.php?username=IPON02@4zm&password=468e82601c19238b1ee21499a6d8625d&type=m3u_plus&output=m3u8 
+
+⚽️ MAC Address: 00:1A:79:00:11:00 
+🐬 Timezone: America\Toronto 
+🏁 Country: NL  
+👤 Username: EmadJerjees@t6k 
+🔐 Password: f14ae7cd0b001e9c9064b558be3889d0 
+🌍 IP Country:  
+🗓 Created: 2020-08-31 06:56:37 
+📑 M3U_Link: http://new.hook.tm/get.php?username=EmadJerjees@t6k&password=f14ae7cd0b001e9c9064b558be3889d0&type=m3u_plus&output=m3u8 
 
 
 + + + + + https://streamer-1.toffeelive.com + + + + +
