@@ -2071,13 +2071,23 @@ http://gog.daroudaraw.xyz/live/100666696/index.m3u8
 http://gog.daroudaraw.xyz/live/1515000000/index.m3u8
 http://gog.daroudaraw.xyz/live/331210000/index.m3u8
 http://gog.daroudaraw.xyz/live/44619987700/index.m3u8
+
 #EXTINF:-1 group-title="misc/beIN",beIN 3 PRE
 http://gog.daroudaraw.xyz/live/6151278887/index.m3u8
+#EXTINF:-1 group-title="misc/beIN",beIN 3 PRE
+http://55.1-bour.xyz/live/6151278887/index.m3u8
+
 #EXTINF:-1 group-title="misc/beIN",beIN 1 PRE
 http://gog.daroudaraw.xyz/live/6161655/index.m3u8
+#EXTINF:-1 group-title="misc/beIN",beIN 1 PRE
+http://55.1-bour.xyz/live/6161655/index.m3u8
+
 #EXTINF:-1 group-title="misc/beIN",beIN 2 PRE
 http://gog.daroudaraw.xyz/live/616194987/index.m3u8
 http://gog.daroudaraw.xyz/live/6262622200/index.m3u8
+#EXTINF:-1 group-title="misc/beIN",beIN 2 PRE'
+http://55.1-bour.xyz/live/616194987/index.m3u8
+
 #EXTINF:-1 group-title="misc/beIN",beIN 2
 http://gog.daroudaraw.xyz/live/69854211/index.m3u8
 http://gog.daroudaraw.xyz/live/790006600/index.m3u8
