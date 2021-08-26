@@ -2555,6 +2555,17 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="BamarTV",CNN International GB
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1,cnn
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,cnn
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
+#EXTINF:-1,cnn
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
+#EXTINF:-1,cnn
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1,cnn
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_384_216_500k.m3u8
+
 #EXTINF:-1 group-title="BamarTV",CNN NEWSROOM
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
@@ -2591,6 +2602,13 @@ http://loop-hottest-1.roku.wurl.com/manifest/4300.m3u8
 https://loop-party-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="BamarTV",Loop Party'
 http://loop-party-1.roku.wurl.com/manifest/4300.m3u8
+
+#EXTINF:-1,Party Loop
+http://loop-party-1.roku.wurl.com/manifest/4300.m3u8
+#EXTINF:-1,Party Loop
+http://loop-party-1.roku.wurl.com/manifest/3000.m3u8
+#EXTINF:-1,Party Loop
+http://loop-party-1.roku.wurl.com/manifest/2000.m3u8
 
 
 #EXTINF:-1 group-title="BamarTV",MMA TV ES
@@ -3623,7 +3641,11 @@ rtmp://pub.ggboxtv.tw:1936/live/565
 https://cloud-service.best/hplus.php?play&id=73425
 #EXTINF:-1,BBC WORLD NEWS |rsc
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BBC WORLD NEWS
+http://84.22.33.214/bbc/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,CNN |
+http://84.22.33.214/cnn/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CNN |218
 http://218.202.220.2:5000/nn_live.ts?id=CNN
 #EXTINF:-1,CNN |CS
