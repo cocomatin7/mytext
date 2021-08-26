@@ -946,52 +946,69 @@ https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/4/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
-beIN SPORT 2PRE
+#EXTINF:-1 group-title="BamarTV/Sports",beIN SPORT 2PRE
 https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
-truesport HD
+#EXTINF:-1 group-title="BamarTV/Sports",truesport HD
 https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
-truesport HD3
+#EXTINF:-1 group-title="BamarTV/Sports",truesport HD3
 https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
 
 https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8 offline
-FOX SPORTS
+#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORTS
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
-FOX SPORTS2
+#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORTS2
 https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
-FOX SPORTS3
+#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORTS3
 https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
-true PF HD1
+#EXTINF:-1 group-title="BamarTV/Sports",true PF HD1
 https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
-true PF HD2
+#EXTINF:-1 group-title="BamarTV/Sports",true PF HD2
 https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
-true PF HD3
+#EXTINF:-1 group-title="BamarTV/Sports",true PF HD3
 https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8
-true PF HD4
+#EXTINF:-1 group-title="BamarTV/Sports",true PF HD4
 https://cloudserver.server-cdn-streaming.com/live-player/17/live.m3u8
-true PF HD5
+#EXTINF:-1 group-title="BamarTV/Sports",true PF HD5
 https://cloudserver.server-cdn-streaming.com/live-player/18/live.m3u8
-SPORT.TV1
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV1
 https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
-SPORT.TV2
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV2
 https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8
-SPORT.TV3
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV3
 https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8
-SPORT.TV4
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV4
 https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
-SPORT.TV5
+#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV5
 https://cloudserver.server-cdn-streaming.com/live-player/23/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/24/live.m3u8 offline
 PPTV36
 https://cloudserver.server-cdn-streaming.com/live-player/25/live.m3u8
-NET SPORTS 1
+#EXTINF:-1 group-title="BamarTV/Sports",NET SPORTS HD
 https://cloudserver.server-cdn-streaming.com/live-player/26/live.m3u8
-NET SPORTS 2
+NET SPORTS 1
 https://cloudserver.server-cdn-streaming.com/live-player/27/live.m3u8
-NET SPORTS 3
+NET SPORTS 2
 https://cloudserver.server-cdn-streaming.com/live-player/28/live.m3u8
-NET SPORTS 4
+NET SPORTS 3
 https://cloudserver.server-cdn-streaming.com/live-player/29/live.m3u8
+NET SPORTS 4
+https://cloudserver.server-cdn-streaming.com/live-player/30/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",NET SPORTS 5
+https://cloudserver.server-cdn-streaming.com/live-player/31/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",NET SPORTS 6
+https://cloudserver.server-cdn-streaming.com/live-player/32/live.m3u8
+TV32
+https://cloudserver.server-cdn-streaming.com/live-player/33/live.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/34/live.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/35/live.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/36/live.m3u8
+2HD
+https://cloudserver.server-cdn-streaming.com/live-player/37/live.m3u8
+2HD
+https://cloudserver.server-cdn-streaming.com/live-player/38/live.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",2HD
+https://cloudserver.server-cdn-streaming.com/live-player/39/live.m3u8
 
 
 https://d2hjrfld3i5z2y.cloudfront.net/out/v1/55857eeba48c45f4be5b01cea490da78/index.m3u8 < DOWN?
