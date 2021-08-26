@@ -1062,7 +1062,7 @@ http://93.157.62.180/Supersport6/index.m3u8
 #EXTINF:-1 group-title="BamarTV/Sports",Supersport7
 http://93.157.62.180/Supersport7/index.m3u8
 
-
+#EXTINF:-1 group-title="BamarTV/Sports",SK1 EPL
 http://93.157.62.180:80/SK1HD/tracks-v1a1/mono.m3u8
 http://93.157.62.180:80/SK2HD/tracks-v1a1/mono.m3u8
 http://93.157.62.180:80/SK3HD/tracks-v1a1/mono.m3u8
@@ -1070,46 +1070,46 @@ http://93.157.62.180:80/SK4HD/tracks-v1a1/mono.m3u8
 
 
 n.a http://134.19.182.131:8080/edg1_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",E2
+ group-title="BamarTV/Sports",E2
 http://134.19.182.131:8080/edg2_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",E3
+ group-title="BamarTV/Sports",E3
 http://134.19.182.131:8080/edg3_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",E4
+ group-title="BamarTV/Sports",E4
 http://134.19.182.131:8080/edg4_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",E5
+ group-title="BamarTV/Sports",E5
 http://134.19.182.131:8080/edg5_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",E6
+ group-title="BamarTV/Sports",E6
 http://134.19.182.131:8080/edg6_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",E7
+ group-title="BamarTV/Sports",E7
 http://134.19.182.131:8080/edg7_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",ESPN Live
+ group-title="BamarTV/Sports",ESPN Live
 http://134.19.182.131:8080/edg8_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",E9
+ group-title="BamarTV/Sports",E9
 http://134.19.182.131:8080/edg9_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",E10
+ group-title="BamarTV/Sports",E10
 http://134.19.182.131:8080/edg10_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",FOX SOCCER PLUS
+ group-title="BamarTV/Sports",FOX SOCCER PLUS
 http://134.19.182.131:8080/edg11_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",E12
+ group-title="BamarTV/Sports",E12
 http://134.19.182.131:8080/edg12_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",E13
+ group-title="BamarTV/Sports",E13
 http://134.19.182.131:8080/edg13_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",TSN1
+ group-title="BamarTV/Sports",TSN1
 http://134.19.182.131:8080/edg14_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",E15
+ group-title="BamarTV/Sports",E15
 http://134.19.182.131:8080/edg15_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",E16
+ group-title="BamarTV/Sports",E16
 http://134.19.182.131:8080/edg16_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",E17
+ group-title="BamarTV/Sports",E17
 http://134.19.182.131:8080/edg17_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",E18
+ group-title="BamarTV/Sports",E18
 http://134.19.182.131:8080/edg18_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",E19
+ group-title="BamarTV/Sports",E19
 http://134.19.182.131:8080/edg19_2.m3u8
 
 n.a http://134.19.182.131:8080/edg20_2.m3u8
 n.a http://134.19.182.131:8080/edg21_2.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",ESPN 3
+ group-title="BamarTV/Sports",ESPN 3
 http://134.19.182.131:8080/edg22_2.m3u8
 
 
@@ -1122,14 +1122,14 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
 ASSP 4 |96
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
 
-#EXTINF:-1 group-title="BamarTV/Sports",beIN 5 MAX
+ group-title="BamarTV/Sports",beIN 5 MAX
 https://lon-haproxy.angelthump.com/hls/treddd03/index.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",DAZN 2
+ group-title="BamarTV/Sports",DAZN 2
 https://lon-haproxy.angelthump.com/hls/formulaonline/index.m3u8?stream=formulaonline
 N.A
 https://lon-haproxy.angelthump.com/hls/korskks/index.m3u8
 
-Olympic 1
+#EXTINF:-1 group-title="BamarTV/Sports",Olympic 1
 http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
 http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
 http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
@@ -1137,17 +1137,23 @@ http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
 http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
 http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
 http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",OLYMPIC 8
 http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
 http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
-Olympic 10
+#EXTINF:-1 group-title="BamarTV/Sports",Olympic 10
 http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
 http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
 http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
 http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
 http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",OLYMPIC 15
 http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
-Olympic 16
+#EXTINF:-1 group-title="BamarTV/Sports",Olympic 16
 http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
+
+
+http://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 
 
  True Premiere Football HD1 |185
