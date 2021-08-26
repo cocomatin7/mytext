@@ -25449,6 +25449,23 @@ http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-STARPLUS/tracks-v1a1/index.m3u8
 http://89.41.180.253:8080/INDIA_HINDI/SONY_MIX/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 group-title="misc/IN",SonyMaxHD |103
+http://103.213.238.194:8080/SonyMaxHD/index.m3u8
+#EXTINF:-1 group-title="misc/IN",SonyPix |103
+http://103.213.238.194:8080/SonyPix/index.m3u8
+#EXTINF:-1 group-title="misc/IN",SonyTV |103
+http://103.213.238.194:8080/SonyTVHD/index.m3u8
+#EXTINF:-1 group-title="misc/IN",SonyTen1 |103
+http://103.213.238.194:8080/SonyTen1/index.m3u8
+#EXTINF:-1 group-title="misc/IN",SonyTen2 |103
+http://103.213.238.194:8080/SonyTen2/index.m3u8
+#EXTINF:-1 group-title="misc/IN",SonyTen3 |103
+http://103.213.238.194:8080/SonyTen3/index.m3u8
+#EXTINF:-1 group-title="misc/IN",SonySix |103
+http://103.213.238.194:8080/SonySix/index.m3u8
+
+
 -/-/-/-/-/- 143.244.60.10 -/-/-/-/-/-
 
 
@@ -25477,10 +25494,14 @@ http://143.244.60.10/HINDI__UTV_MOVIES/mono.m3u8
 http://143.244.60.10/HINDI__ZEE_ACTION/mono.m3u8
 
 
++ + + + + cdn.ihub.live + + + 
 
-http://cdn.ihub.live:8080/&privatehd/index.m3u8 offline
-http://cdn.ihub.live:8080/j-Sony-MAX-HD/tracks-v1a1/mono.m3u8 offline
-http://cdn.ihub.live:8080/j-star-gold-hd/tracks-v1a1/mono.m3u8 offline
+ group-title="misc/IN",&privatehd
+http://cdn.ihub.live:8080/&privatehd/index.m3u8
+ group-title="misc/IN",Sony-MAX-HD
+http://cdn.ihub.live:8080/j-Sony-MAX-HD/tracks-v1a1/mono.m3u8
+ group-title="misc/IN",star-gold-hd
+http://cdn.ihub.live:8080/j-star-gold-hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="misc/IN",SonyPix
 http://cdn.ihub.live:8080/SonyPix/playlist.m3u8
@@ -25498,6 +25519,19 @@ http://cdn.ihub.live:8080/TLCHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="misc/IN",SonySix
 http://cdn.ihub.live:8080/SonySix/playlist.m3u8
 http://cdn.ihub.live:8080/SonySix/tracks-v1a1/mono.m3u8
+
+http://cdn.ihub.live:8080/&privatehd/index.m3u8 offline
+http://cdn.ihub.live:8080/j-Sony-MAX-HD/tracks-v1a1/mono.m3u8 offline
+http://cdn.ihub.live:8080/j-star-gold-hd/tracks-v1a1/mono.m3u8 offline
+
+#EXTINF:-1 group-title="misc/IN",and-picture-hd
+https://cdn.cinemabaaz.live/j-and-picture-hd/tracks-v1a1/mono.m3u8
+https://cdn.cinemabaaz.live/&privatehd/mono.m3u8
+#EXTINF:-1 group-title="misc/IN",SonyMaxHD
+https://cdn.cinemabaaz.live/SonyMaxHD/mono.m3u8
+
+
++ + + + cloudfront.net + + + 
 
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 group-title="misc/IN",ZEE Bangla
@@ -25580,6 +25614,20 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?t
 
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 
+
++ + + + + http://scontent.1xcdn.xyz + + + + +
+
+ group-title="misc/IN",SONY SIX
+http://scontent.1xcdn.xyz/j2/Six_HD_HLS.m3u8
+NA
+http://scontent.1xcdn.xyz/j2/Ten1_HD_HLS.m3u8
+,SONY TEN 2
+http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
+ group-title="misc/IN",SONY TEN 3
+http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
+
+
++ + + + + tvflix03.ddns.net + + + + +
 
 http://tvflix03.ddns.net/ENC-1/tracks-v1a1/mono.m3u8 N.A.
 #EXTINF:-1 group-title="misc/IN",STAR WORLD HD |TATAsky
@@ -25683,47 +25731,6 @@ https://tvstream.space/jtv/jtvjiotv.php?c=ABZY_Movies&q=1200&e=.m3u8
 https://tvstream.space/jtv/jtvjiotv.php?c=Box_Cinema&q=1200&e=.m3u8
 https://tvstream.space/jtv/jtvjiotv.php?c=Sony_MAX2&q=1200&e=.m3u8
 https://tvstream.space/jtv/lovE.php?c=Rishtey_Cineplex&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="misc/IN",SonyMaxHD |103
-http://103.213.238.194:8080/SonyMaxHD/index.m3u8
-#EXTINF:-1 group-title="misc/IN",SonyPix |103
-http://103.213.238.194:8080/SonyPix/index.m3u8
-#EXTINF:-1 group-title="misc/IN",SonyTV |103
-http://103.213.238.194:8080/SonyTVHD/index.m3u8
-#EXTINF:-1 group-title="misc/IN",SonyTen1 |103
-http://103.213.238.194:8080/SonyTen1/index.m3u8
-#EXTINF:-1 group-title="misc/IN",SonyTen2 |103
-http://103.213.238.194:8080/SonyTen2/index.m3u8
-#EXTINF:-1 group-title="misc/IN",SonyTen3 |103
-http://103.213.238.194:8080/SonyTen3/index.m3u8
-#EXTINF:-1 group-title="misc/IN",SonySix |103
-http://103.213.238.194:8080/SonySix/index.m3u8
-
-
-#EXTINF:-1 group-title="misc/IN",and-picture-hd
-https://cdn.cinemabaaz.live/j-and-picture-hd/tracks-v1a1/mono.m3u8
-https://cdn.cinemabaaz.live/&privatehd/mono.m3u8
-#EXTINF:-1 group-title="misc/IN",SonyMaxHD
-https://cdn.cinemabaaz.live/SonyMaxHD/mono.m3u8
-
- group-title="misc/IN",&privatehd
-http://cdn.ihub.live:8080/&privatehd/index.m3u8
- group-title="misc/IN",Sony-MAX-HD
-http://cdn.ihub.live:8080/j-Sony-MAX-HD/tracks-v1a1/mono.m3u8
- group-title="misc/IN",star-gold-hd
-http://cdn.ihub.live:8080/j-star-gold-hd/tracks-v1a1/mono.m3u8
-
-
-+ + + + + http://scontent.1xcdn.xyz + + + + +
-
- group-title="misc/IN",SONY SIX
-http://scontent.1xcdn.xyz/j2/Six_HD_HLS.m3u8
-NA
-http://scontent.1xcdn.xyz/j2/Ten1_HD_HLS.m3u8
-,SONY TEN 2
-http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
- group-title="misc/IN",SONY TEN 3
-http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
 
 
 -/-/-/-/-
