@@ -5,6 +5,10 @@ x-tvg-url="https://guidexl.tv4.live/"
 00:04:4B:CC:FF:2E < Shield 
 
 
+http://202.150.161.254:4000/play/bein1/index.m3u8
+http://202.150.161.254:4000/play/bein2/index.m3u8
+
+
 http://123iptv.nl:88/get.php?username=test1&password=test2&type=m3u
 Real Url: 123iptv.nl:88     Status: Active    Created: 16/10/2020 1:53:41 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
