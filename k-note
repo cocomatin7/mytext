@@ -16109,11 +16109,77 @@ http://167.172.33.223:9981/stream/channel/5bd7e88f8916a9cd4a7057d908f335df
 + + + + + http://171.4.161.216:9981/extjs.html + + + + + DOWN
 
 
++ + + + + http://182.182.25.117:8000/playlist.m3u8 + + + + +
+
+#EXTINF: group-title="182.182",& Pictures HD @ Rs 19
+http://182.182.25.117:8000/play/a03d/index.m3u8
+#EXTINF: group-title="182.182",& TV HD @ Rs 19
+http://182.182.25.117:8000/play/a03y/index.m3u8
+#EXTINF: group-title="182.182",Animal Planet @ Rs 2
+http://182.182.25.117:8000/play/a03n/index.m3u8
+#EXTINF: group-title="182.182",Cartoon Network @ Rs 4.25
+http://182.182.25.117:8000/play/a03j/index.m3u8
+#EXTINF: group-title="182.182",Colors HD @ Rs 19
+http://182.182.25.117:8000/play/a03r/index.m3u8
+#EXTINF: group-title="182.182",Discovery Channel @ Rs 4
+http://182.182.25.117:8000/play/a03m/index.m3u8
+#EXTINF: group-title="182.182",Disney Channel @ Rs 8
+http://182.182.25.117:8000/play/a03l/index.m3u8
+#EXTINF: group-title="182.182",Eurosport HD @ Rs 6
+http://182.182.25.117:8000/play/a040/index.m3u8
+#EXTINF: group-title="182.182",History TV18 @ Rs 3
+http://182.182.25.117:8000/play/a04b/index.m3u8
+#EXTINF: group-title="182.182",MNX HD @ Rs 9
+http://182.182.25.117:8000/play/a044/index.m3u8
+#EXTINF: group-title="182.182",Movies Now @ Rs 10
+http://182.182.25.117:8000/play/a03t/index.m3u8
+#EXTINF: group-title="182.182",Nat Geo wild @ Rs 1
+http://182.182.25.117:8000/play/a03u/index.m3u8
+#EXTINF: group-title="182.182",National Geographic Channel HD @ Rs 10
+http://182.182.25.117:8000/play/a035/index.m3u8
+#EXTINF: group-title="182.182",Nick @ Rs 6
+http://182.182.25.117:8000/play/a03k/index.m3u8
+#EXTINF: group-title="182.182",Pogo @ Rs 4.25
+http://182.182.25.117:8000/play/a03s/index.m3u8
+#EXTINF: group-title="182.182",SET HD @ Rs 19
+http://182.182.25.117:8000/play/a03c/index.m3u8
+#EXTINF: group-title="182.182",SONY SAB @ Rs 19
+http://182.182.25.117:8000/play/a03q/index.m3u8
+#EXTINF: group-title="182.182",SONY SIX @ Rs 15
+http://182.182.25.117:8000/play/a03o/index.m3u8
+#EXTINF: group-title="182.182",Sony BBC Earth @ Rs 4
+http://182.182.25.117:8000/play/a04d/index.m3u8
+#EXTINF: group-title="182.182",Sony MAX HD @ Rs 17
+http://182.182.25.117:8000/play/a049/index.m3u8
+#EXTINF: group-title="182.182",Sony Ten 1 
+http://182.182.25.117:8000/play/a038/index.m3u8
+#EXTINF: group-title="182.182",Sony Ten 2 @ Rs 15
+http://182.182.25.117:8000/play/a036/index.m3u8
+#EXTINF: group-title="182.182",Sony Ten 3 @ Rs 17
+http://182.182.25.117:8000/play/a037/index.m3u8
+#EXTINF: group-title="182.182",Star Bharat HD @ Rs 19
+http://182.182.25.117:8000/play/a048/index.m3u8
+#EXTINF: group-title="182.182",Star Gold @ Rs 8
+http://182.182.25.117:8000/play/a03h/index.m3u8
+#EXTINF: group-title="182.182",Star Movies HD @ Rs 19
+http://182.182.25.117:8000/play/a042/index.m3u8
+#EXTINF: group-title="182.182",Star Plus HD @ Rs 19
+http://182.182.25.117:8000/play/a039/index.m3u8
+#EXTINF: group-title="182.182",Star Sports 1 HD @ Rs 19
+http://182.182.25.117:8000/play/a03x/index.m3u8
+#EXTINF: group-title="182.182",Star Sports 2 HD @ Rs 19
+http://182.182.25.117:8000/play/a03w/index.m3u8
+#EXTINF: group-title="182.182",Star Sports 3 @ Rs 2
+http://182.182.25.117:8000/play/a03e/index.m3u8
+#EXTINF: group-title="182.182",Zee Action @ Rs 1
+http://182.182.25.117:8000/play/a04c/index.m3u8
+#EXTINF: group-title="182.182",Zee Cinema HD @ Rs 19
+http://182.182.25.117:8000/play/a03b/index.m3u8
+#EXTINF: group-title="182.182",Zee TV HD @ Rs 19
+http://182.182.25.117:8000/play/a03a/index.m3u8
+
+
 + + + + + http://184.82.147.223:9981/playlist/channels + + + + + DOWN? + + + + +
-
-
-
-
 
 + + + + + 188.30.138.25:9981/extjs.html + + + + +
 
