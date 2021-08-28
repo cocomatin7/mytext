@@ -1674,14 +1674,17 @@ http://www.cyfostreams.com/streams/cyfo12.php > http://77.247.109.15/live/s12/pl
 
 https://fpstreams.weebly.com/
 
-#EXTINF:-1 group-title="BamarTV/Sports",FOOTY 1
+#EXTINF:-1 group-title="BamarTV/Sports",RUSH |FOOTY 1
 https://2-fss-2.streamhoster.com/pl_124/205592-2131340-1/chunklist.m3u8
 https://hlsplayer.stream/video/live.html?url=https://2-fss-2.streamhoster.com/pl_124/205592-2131340-1/chunklist.m3u8
+
+#EXTINF:-1 group-title="BamarTV/Sports",FOOTY 2
+https://8920697c2a76.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.695441903029.channel.qo4ey41wLdKV.m3u8
 
 
 #EXTINF:-1 group-title="BamarTV/Sports",S Premier League
 https://d1jliyqx70imb8.cloudfront.net/out/v1/2b69d7c52bc84bbabac2c8fdd6cfde40/index.m3u8
-http://sportyflux.blogspot.com/p/channel-1.html > http://givemenbastreams.com/soccer.php?g=arsenal K- - - arsenal bk
+http://sportyflux.blogspot.com/p/channel-1.html > http://givemenbastreams.com/soccer.php?g=arsenal K- - -
 http://givemenbastreams.com/sports/arsenal.html K- - - arsenal
 http://givemenbastreams.com/nba/arsenal-live-stream > http://givemenbastreams.com/sports/arsenal.html
 
@@ -1689,13 +1692,18 @@ http://givemenbastreams.com/nba/arsenal-live-stream > http://givemenbastreams.co
 http://g.givemenbastreams.com/hls/btsport/playlist.m3u8
 http://g.givemenbastreams.com/hls/btsport/chunks.m3u8
 http://givemenbastreams.com/sports/liverpool.html
-http://givemenbastreams.com/soccer.php?g=liverpool
+http://givemenbastreams.com/soccer.php?g=liverpool K- - -
 
-
+#EXTINF:-1 group-title="BamarTV/Sports",BT SPORT 1HD
+http://g.givemenbastreams.com/hls/btsport/chunks.m3u8
+http://givemenbastreams.com/sports/real.html
+http://givemenbastreams.com/soccer.php?g=real K- - -
 
 
 #EXTINF:-1 group-title="BamarTV/Sports",BT SPORT 1
-http://besmirlalionertps.com.global.prod.fastly.net/hls/bong1.m3u8
+http://dfsbvbdeasregfkbrs.xyz.global.prod.fastly.net/hls/bong1.m3u8
+http://besmirlalionertps.com.global.prod.fastly.net/hls/bong1.m3u8 < down
+
 http://sportyflux.blogspot.com/p/channel-4.html > http://bongstreams.com/game1.php
 
 http://sportyflux.blogspot.com/p/channel-5.html > http://bongstreams.com/game1.php
@@ -1704,6 +1712,7 @@ http://sportyflux.blogspot.com/p/channel-7.html
 http://sportyflux.blogspot.com/p/channel-8.html > http://givemenbastreams.com/soccer.php?g=arsenal > https://d1jliyqx70imb8.cloudfront.net/out/v1/2b69d7c52bc84bbabac2c8fdd6cfde40/index.m3u8
 
 #EXTINF:-1 group-title="BamarTV/Sports",ss F1
+http://dfsbvbdeasregfkbrs.xyz.global.prod.fastly.net/hls/bong4.m3u8
 http://besmirlalionertps.com.global.prod.fastly.net/hls/bong4.m3u8
 http://bongstreams.com/game4.php
 
