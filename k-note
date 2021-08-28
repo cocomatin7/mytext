@@ -1562,28 +1562,28 @@ http://103.159.4.38:5868/SPORTS-13/tracks-v1a1/mono.m3u8
 
 http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="BamarTV",PT_SPORT_TV_1_HD
+#EXTINF:-1 group-title="BamarTV/Sports",PT_SPORT_TV_1_HD
 http://51.15.0.141:88/PT_SPORT_TV_1_HD/index.m3u8
-#EXTINF:-1 group-title="BamarTV",PT_SPORT_TV_2_HD
+#EXTINF:-1 group-title="BamarTV/Sports",PT_SPORT_TV_2_HD
 http://51.15.0.141:88/PT_SPORT_TV_2_HD/index.m3u8
-#EXTINF:-1 group-title="BamarTV",PT_SPORT_TV_3_HD
+#EXTINF:-1 group-title="BamarTV/Sports",PT_SPORT_TV_3_HD
 http://51.15.0.141:88/PT_SPORT_TV_3_HD/index.m3u8
-#EXTINF:-1 group-title="BamarTV",PT_SPORT_TV_4_HD
+#EXTINF:-1 group-title="BamarTV/Sports",PT_SPORT_TV_4_HD
 http://51.15.0.141:88/PT_SPORT_TV_4_HD/index.m3u8
-#EXTINF:-1 group-title="BamarTV",PT_SPORT_TV_5_HD
+#EXTINF:-1 group-title="BamarTV/Sports",PT_SPORT_TV_5_HD
 http://51.15.0.141:88/PT_SPORT_TV_5_HD/index.m3u8
 
-#EXTINF:-1 group-title="BamarTV",beIN SPORTS n'
+#EXTINF:-1 group-title="BamarTV/Sports",beIN SPORTS n'
 http://195.181.163.39:80/DEP_BEIN_DEPORTES/index.m3u8
 
 http://195.181.163.39/DEP_DIRECTV_PLUS/tracks-v1a1/mono.m3u8
 http://195.181.163.39/ECU-DIRECTTV_SP2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="BamarTV",ESPN
+#EXTINF:-1 group-title="BamarTV/Sports",ESPN
 http://195.181.163.39/DEP_ESPN_ARG/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BamarTV",ESPN_2A
+#EXTINF:-1 group-title="BamarTV/Sports",ESPN_2A
 http://195.181.163.39/DEP_ESPN_2_ARG/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BamarTV",ESPN_3A
+#EXTINF:-1 group-title="BamarTV/Sports",ESPN_3A
 http://195.181.163.39/DEP_ESPN_3_ARG/tracks-v1a1/mono.m3u8
 http://195.181.163.39:80/DEP_WIN_SPORTS/index.m3u8
 http://195.181.163.39:80/ESP_GOL_TV_HD/index.m3u8?token=
@@ -1674,12 +1674,12 @@ http://www.cyfostreams.com/streams/cyfo12.php > http://77.247.109.15/live/s12/pl
 
 https://fpstreams.weebly.com/
 
-#EXTINF:-1 group-title="BamarTV",FOOTY 1
-https://hlsplayer.stream/video/live.html?url=https://2-fss-2.streamhoster.com/pl_124/205592-2131340-1/chunklist.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",FOOTY 1
 https://2-fss-2.streamhoster.com/pl_124/205592-2131340-1/chunklist.m3u8
+https://hlsplayer.stream/video/live.html?url=https://2-fss-2.streamhoster.com/pl_124/205592-2131340-1/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="BamarTV", S Premier League
+#EXTINF:-1 group-title="BamarTV/Sports", S Premier League
 https://d1jliyqx70imb8.cloudfront.net/out/v1/2b69d7c52bc84bbabac2c8fdd6cfde40/index.m3u8
 http://sportyflux.blogspot.com/p/channel-1.html > http://givemenbastreams.com/soccer.php?g=arsenal K- - -
 http://givemenbastreams.com/sports/arsenal.html K- - -
