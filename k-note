@@ -5,12 +5,8 @@ x-tvg-url="https://guidexl.tv4.live/"
 00:04:4B:CC:FF:2E < Shield 
 
 
-
-
 http://123iptv.nl:88/get.php?username=test1&password=test2&type=m3u
 Real Url: 123iptv.nl:88     Status: Active    Created: 16/10/2020 1:53:41 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
-
-
 
 https://drive.google.com/file/d/1FZvrmKl4cliccKnZrd1k47JEANkP9DW4/view?usp=sharing
 https://www.googleapis.com/drive/v3/files/1FZvrmKl4cliccKnZrd1k47JEANkP9DW4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -191,8 +187,8 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 group-title="movies",YUPP EN
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 
-
 -/-/-/-/-
+
 http://www.reloltv.com/s/dG
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://www.reloltv.com/play.php?video=http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
@@ -200,7 +196,6 @@ http://www.reloltv.com/play.php?video=http://unilivemtveu-lh.akamaihd.net/i/mtvn
 
 #EXTINF:-1,24/7 Movie
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
-
 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
@@ -453,27 +448,27 @@ http://f4.tvxweb.net:8082/18096/playlist.m3u8
 http://f4.tvxweb.net:8082/18098/playlist.m3u8
 http://f4.tvxweb.net:8082/18099/playlist.m3u8
 
-#EXTINF:-1 group-title="movies",xpremium 1
+ group-title="movies",xpremium 1
 http://f4.tvxweb.net:8082/24263/playlist.m3u8
-#EXTINF:-1,xpremium 2
+,xpremium 2
 http://f4.tvxweb.net:8082/24264/playlist.m3u8
-#EXTINF:-1,xpremium 3
+,xpremium 3
 http://f4.tvxweb.net:8082/24265/playlist.m3u8
-#EXTINF:-1,xpremium 4
+,xpremium 4
 http://f4.tvxweb.net:8082/24266/playlist.m3u8
-#EXTINF:-1,xpremium 5
+,xpremium 5
 http://f4.tvxweb.net:8082/24267/playlist.m3u8
-#EXTINF:-1,xpremium 6
+,xpremium 6
 http://f4.tvxweb.net:8082/24268/playlist.m3u8
-#EXTINF:-1,xpremium 7
+,xpremium 7
 http://f4.tvxweb.net:8082/24269/playlist.m3u8
-#EXTINF:-1,xpremium 8
+,xpremium 8
 http://f4.tvxweb.net:8082/24270/index.m3u8
-#EXTINF:-1,xpremium 9
+,xpremium 9
 http://f4.tvxweb.net:8082/24271/index.m3u8
-#EXTINF:-1,xpremium 10
+,xpremium 10
 http://f4.tvxweb.net:8082/24272/playlist.m3u8
-#EXTINF:-1 group-title="movies",xpremium 11
+ group-title="movies",xpremium 11
 http://f4.tvxweb.net:8082/24273/playlist.m3u8
 
 http://f4.tvxweb.net:8082/24316/playlist.m3u8
@@ -485,17 +480,6 @@ http://f4.tvxweb.net:8082/35976/video.m3u8
 http://f4.tvxweb.net:8082/35977/video.m3u8
 http://f4.tvxweb.net:8082/35979/video.m3u8
 
-
- group-title="movies", ID:Cinemax SD
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=a87ff679a2f3e71d9181a67b7542122c202cb962ac59075b964b07152d234b70
-, ID:HBO SD
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=cfcd208495d565ef66e7dff9f98764da202cb962ac59075b964b07152d234b70
-, ID:HBO Family SD
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=eccbc87e4b5ce2fe28308fd9f2a7baf3202cb962ac59075b964b07152d234b70
-, ID:HBO Hits SD
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862c202cb962ac59075b964b07152d234b70
- group-title="movies", ID:HBO Signature SD
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c4ca4238a0b923820dcc509a6f75849b202cb962ac59075b964b07152d234b70
 
 http://me.zichannels.my.id/ch/family.m3u8
 http://me.zichannels.my.id/ch/hbo.m3u8
@@ -634,10 +618,10 @@ https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/ma
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1,Hollywood Classics
 https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/5e48be49-66f7-4712-9fff-347b1ae7afbd/5.m3u8
-#EXTINF:-1,MOVIES NOW
+,MOVIES NOW
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 http://125.209.89.83:5555/play/a03t/index.m3u8
-#EXTINF:-1,MNX
+,MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
 
@@ -784,8 +768,6 @@ https://streamspass.com/team/ukraine
 https://wowzaprodhd35-lh.akamaihd.net/i/a9af8597_1@355233/master.m3u8
 
 
-
-
 + + + + + BamarTV/Sports + + + + +
 
 >>> ac526d4b58b8f9ce81384d721b35b89b75a198df:k-note1
@@ -827,20 +809,20 @@ https://ritesh.ch/miniproxy/miniproxy.php/https://r-live-cache.akamaized.net/USL
 https://wyjs.tk/index.php/
 
 
-https://i-live-cache.akamaized.net/USL04/H77/H77.isml/.mpd S Euro2020 < need VPN
+https://i-live-cache.akamaized.net/USL04/H77/H77.isml/.mpd S Euro2020 < need VPN ZA
 https://r-live-cache.akamaized.net/USL11/EHD/EHD.isml/.mpd S PremierLeague
 https://r-live-cache.akamaized.net/USL11/S9W/S9W.isml/.mpd S Football
 https://r-live-cache.akamaized.net/USL15/HD3/HD3.isml/.mpd S Football+
 https://1145307264.rsc.cdn77.org/1145307264/Manifest.mpd KIX Movies
 
 
-#EXTINF:-1 group-title="BamarTV/Sports",Canal+ Sport
+ group-title="BamarTV/Sports",Canal+ Sport
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_==gUGBCdy9GcTByc1xGUgwWYuF2Q
-#EXTINF:-1 group-title="BamarTV/Sports",Bein Sport 1 Fr
+ group-title="BamarTV/Sports",Bein Sport 1 Fr
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgEDI0J3bwNlbpVmQ
-#EXTINF:-1 group-title="BamarTV/Sports",Bein Sport 2 Fr
+ group-title="BamarTV/Sports",Bein Sport 2 Fr
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgIDI0J3bwNlbpVmQ
-#EXTINF:-1 group-title="BamarTV/Sports",Bein Sport 3 Fr
+ group-title="BamarTV/Sports",Bein Sport 3 Fr
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgMDI0J3bwNlbpVmQ
 
 #EXTINF:-1 group-title="BamarTV/Sports",beIN SP1
@@ -868,8 +850,6 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist.m3u8
 skynetsports3
 http ://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/true4u/chunklist.m3u8
-
-
 
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist_w1834747878.m3u8
 
@@ -923,7 +903,6 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
 
 http://916309128f3e.sn.mynetname.net:1935/aslive/pptvhd/chunklist_w1517173526.m3u8
-
 
  202.44.228.249
 http://202.44.228.33:1935/aslive/asiseries2/chunklist.m3u8 offline
@@ -991,7 +970,7 @@ https://wowzaprodhd9-lh.akamaihd.net/i/40ce7c2c_1@729045/index_2560000_av-p.m3u8
 
 https://d2hjrfld3i5z2y.cloudfront.net/out/v1/55857eeba48c45f4be5b01cea490da78/index.m3u8
 
-#EXTINF:-1 group-title="BamarTV/Sports",NBCSN
+ group-title="BamarTV/Sports",NBCSN
 http://104.238.222.61/freeabr/bpb2mkrrcbr1s96/chunks.m3u8 
 
 https://cloudserver.server-cdn-streaming.com/live-player/1/live.m3u8 offline
@@ -999,45 +978,45 @@ https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/4/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",beIN SPORT 2PRE
+ group-title="BamarTV/Sports",beIN SPORT 2PRE
 https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",truesport HD
+ group-title="BamarTV/Sports",truesport HD
 https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",truesport HD3
+ group-title="BamarTV/Sports",truesport HD3
 https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
 
 https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8 offline
-#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORTS
+ group-title="BamarTV/Sports",FOX SPORTS
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORTS2
+ group-title="BamarTV/Sports",FOX SPORTS2
 https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",FOX SPORTS3
+ group-title="BamarTV/Sports",FOX SPORTS3
 https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",true PF HD1
+ group-title="BamarTV/Sports",true PF HD1
 https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",true PF HD2
+ group-title="BamarTV/Sports",true PF HD2
 https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",true PF HD3
+ group-title="BamarTV/Sports",true PF HD3
 https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",true PF HD4
+ group-title="BamarTV/Sports",true PF HD4
 https://cloudserver.server-cdn-streaming.com/live-player/17/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",true PF HD5
+ group-title="BamarTV/Sports",true PF HD5
 https://cloudserver.server-cdn-streaming.com/live-player/18/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV1
+ group-title="BamarTV/Sports",SPORT.TV1
 https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV2
+ group-title="BamarTV/Sports",SPORT.TV2
 https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV3
+ group-title="BamarTV/Sports",SPORT.TV3
 https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV4
+ group-title="BamarTV/Sports",SPORT.TV4
 https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",SPORT.TV5
+ group-title="BamarTV/Sports",SPORT.TV5
 https://cloudserver.server-cdn-streaming.com/live-player/23/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/24/live.m3u8 offline
 PPTV36
 https://cloudserver.server-cdn-streaming.com/live-player/25/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",NET SPORTS HD
+ group-title="BamarTV/Sports",NET SPORTS HD
 https://cloudserver.server-cdn-streaming.com/live-player/26/live.m3u8
 NET SPORTS 1
 https://cloudserver.server-cdn-streaming.com/live-player/27/live.m3u8
@@ -1047,9 +1026,9 @@ NET SPORTS 3
 https://cloudserver.server-cdn-streaming.com/live-player/29/live.m3u8
 NET SPORTS 4
 https://cloudserver.server-cdn-streaming.com/live-player/30/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",NET SPORTS 5
+ group-title="BamarTV/Sports",NET SPORTS 5
 https://cloudserver.server-cdn-streaming.com/live-player/31/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",NET SPORTS 6
+ group-title="BamarTV/Sports",NET SPORTS 6
 https://cloudserver.server-cdn-streaming.com/live-player/32/live.m3u8
 TV32
 https://cloudserver.server-cdn-streaming.com/live-player/33/live.m3u8
@@ -1060,7 +1039,7 @@ https://cloudserver.server-cdn-streaming.com/live-player/36/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/37/live.m3u8
 2HD
 https://cloudserver.server-cdn-streaming.com/live-player/38/live.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",2HD
+ group-title="BamarTV/Sports",2HD
 https://cloudserver.server-cdn-streaming.com/live-player/39/live.m3u8
 
 
@@ -1088,15 +1067,15 @@ http://5.101.174.206:9981/stream/channelid/627515210?ticket=2FCFA7B9B74429E407CC
 http://5.101.174.206:9981/stream/channelid/811966825?ticket=4B2F3677ED6FC808E57FF64461C9DA2EAFE2CE4D&profile=webtv-h264-aac-matroska
 
 
-#EXTINF:-1 group-title="BamarTV/Sports",StarSportsSelect1FHD |87
+ group-title="BamarTV/Sports",StarSportsSelect1FHD |87
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist.m3u8
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/chunklist.m3u8
 
-#EXTINF:-1 group-title="BamarTV/Sports",Free sports
+ group-title="BamarTV/Sports",Free sports
 http://89.187.189.58/1195/mono.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",Premier sports 2
+ group-title="BamarTV/Sports",Premier sports 2
 http://89.187.189.58/1194/mono.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",Laliga TV HD
+ group-title="BamarTV/Sports",Laliga TV HD
 http://89.187.189.58/1187/mono.m3u8
 
 #EXTINF:-1 group-title="BamarTV/Sports",Supersport1
