@@ -184,10 +184,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 https://rebrand.ly/h-hit
 #EXTINF:-1 tvg-id="HBO Signature (HD)" group-title="movies", HBO SIGNATURE |org
 https://rebrand.ly/h-sig
-#EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |org (cf)
-https://rebrand.ly/h-red-1
-#EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO' |org* (cf)
-https://rebrand.ly/h-red-2
+https://rebrand.ly/h-red-1 N.A.
+https://rebrand.ly/h-red-2 N.A.
 #EXTINF:-1 tvg-id="HBO HD", HBO |Msia
 https://rebrand.ly/h-bom
 
@@ -230,8 +228,7 @@ https://yamcode.com/raw/family-hbogo
 https://yamcode.com/raw/hits-hbogo
  tvg-id="HBO Signature (HD)", HBO SIGNATURE |Yam
 https://yamcode.com/raw/signature-hbogo
- tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO' |Yam
-https://yamcode.com/raw/red-hbogo
+https://yamcode.com/raw/red-hbogo N.A.
 
 
 #EXTINF:-1 tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX |mm
@@ -270,12 +267,9 @@ https://www.dropbox.com/s/dl/r5rt9qbl0cfya8s/hhit-mm.m3u8
 #EXTINF:-1 tvg-id="HBO Hits (HD)", HBO HiTS |Eng
 https://www.dropbox.com/s/dl/zizod0wibpefity/HIT_EN.m3u8
 
-#EXTINF:-1 tvg-id="RED BY HBO (HD)", RED BY HBO |mm
-https://raw.githubusercontent.com/konanda-sg/mytext/master/hred-mm.m3u8
-#EXTINF:-1 tvg-id="RED BY HBO (HD)", RED BY HBO* |mm
-https://www.dropbox.com/s/dl/73se9a5k528pnir/hred-mm.m3u8
-#EXTINF:-1 tvg-id="RED BY HBO (HD)", RED BY HBO |SP
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/REDNew.m3u8
+https://raw.githubusercontent.com/konanda-sg/mytext/master/hred-mm.m3u8 N.A.
+https://www.dropbox.com/s/dl/73se9a5k528pnir/hred-mm.m3u8 N.A.
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/REDNew.m3u8 N.A.
 
 #EXTINF:-1 tvg-id="HBO Signature (HD)", HBO SIGNATURE |mm
 https://raw.githubusercontent.com/konanda-sg/mytext/master/hsig-mm.m3u8
@@ -287,8 +281,7 @@ https://www.dropbox.com/s/dl/oxhvg4u7b56eqp5/SIG_EN.m3u8
 #EXTINF:-1, 3 idiots MM
 https://www.dropbox.com/s/dl/ce5amspj8nlkk1u/3%20Idiots%20%5B2009%5D%20%28MM%20Sub%29.mp4
 
- Red By HBO HD |103
-http://103.145.252.78/red/index.m3u8
+http://103.145.252.78/red/index.m3u8 N.A.
  CINEMAX HD |103
 http://103.145.252.78/cinemax/index.m3u8
  HBO HD |103
@@ -303,20 +296,14 @@ https://rebrand.ly/H-ci-cf
 https://rebrand.ly/H-fa-cf
  EXTINF:-1 tvg-id="HBO Hits (HD)", HBO HiTS |CF
 https://rebrand.ly/H-hi-cf
- EXTINF:-1 tvg-id="RED BY HBO (HD)", RED BY HBO |CF
-https://rebrand.ly/H-re-cf
+https://rebrand.ly/H-re-cf N.A.
  EXTINF:-1 tvg-id="HBO Signature (HD)" group-title="movies", HBO SIGNATURE |CF
 https://rebrand.ly/H-si-cf
 
-#EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |SE1
-https://rebrand.ly/H-re-se1
-#EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |SE2*
-https://rebrand.ly/H-re-se2
-
- EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |SE3*
-https://rebrand.ly/H-re-se3
-#EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |IP*
-https://rebrand.ly/H-re-ip
+https://rebrand.ly/H-re-se1 N.A.
+https://rebrand.ly/H-re-se2 N.A.
+https://rebrand.ly/H-re-se3 N.A.
+https://rebrand.ly/H-re-ip N.A.
 
 #EXTINF:-1 tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX ||org
 https://rebrand.ly/H-ci-02
@@ -328,10 +315,8 @@ https://rebrand.ly/H-fa-02
 https://rebrand.ly/H-hi-02
 #EXTINF:-1 tvg-id="HBO Signature (HD)", HBO SIGNATURE ||org
 https://rebrand.ly/H-si-02
-#EXTINF:-1 tvg-id="RED BY HBO (HD)", RED BY HBO |org'
-https://rebrand.ly/H-re-01
-#EXTINF:-1 EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO ||org*
-https://rebrand.ly/H-re-02
+https://rebrand.ly/H-re-01 N.A.
+https://rebrand.ly/H-re-02 N.A.
 
  EXTINF:-1 tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX |alt
 https://rebrand.ly/h-ci-alt
@@ -343,8 +328,7 @@ https://rebrand.ly/h-fa-alt
 https://rebrand.ly/h-hi-alt
  EXTINF:-1 tvg-id="HBO Signature (HD)", HBO SIGNATURE |alt
 https://rebrand.ly/h-si-alt
- EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |alt
-https://rebrand.ly/h-re-alt
+https://rebrand.ly/h-re-alt N.A.
  tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX* |alt
 https://zalogi.xyz/exo/playlist/max-mkctvMalingPlaylist.m3u8
  tvg-id="HBO Family (HD)", HBO FAMILY* |alt
@@ -353,8 +337,7 @@ https://zalogi.xyz/exo/playlist/fam-mkctvMalingPlaylist.m3u8
 https://zalogi.xyz/exo/playlist/hits-mkctvMalingPlaylist.m3u8
  tvg-id="HBO Signature (HD)", HBO SIGNATURE* |alt
 https://zalogi.xyz/exo/playlist/sig-mkctvMalingPlaylist.m3u8
- tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO* |alt
-https://zalogi.xyz/exo/playlist/red-mkctvMalingPlaylist.m3u8
+https://zalogi.xyz/exo/playlist/red-mkctvMalingPlaylist.m3u8 N.A.
 
 https://www.dropbox.com/s/dl/zz3he1mu3lilgiz/mkctv_cinemax.m3u8
 https://dl.dropbox.com/s/mz1iezbism3zjy6/hbo.m3u8?dl=1
@@ -367,8 +350,7 @@ https://www.dropbox.com/s/dl/lmx3f8dnbe6xee4/hbo_omahtv.m3u8
 https://www.dropbox.com/s/dl/o9397gnmm0s44ar/mkctv_hbofam.m3u8
 https://www.dropbox.com/s/dl/6wm74beyzd0w9xo/mkctv_hbohit.m3u8
 https://www.dropbox.com/s/dl/fvu91fvkr31yngd/mkctv_hbosig.m3u8
- tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |mkc
-https://www.dropbox.com/s/dl/q09u7xcrpjwi2e4/mkctv_red.m3u8
+https://www.dropbox.com/s/dl/q09u7xcrpjwi2e4/mkctv_red.m3u8 N.A.
 
 ,HBO
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/85
@@ -380,14 +362,12 @@ http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/87
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/88
 ,HBO SIGNATURE
 http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/90
-EXTINF:-1 tvg-name="RED BY HBO (HD)",RED BY HBO |hit
-http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/89
+http://iptvhit.live/projectadrian/MYTV/7xhDoCdOia/89 N.A.
 https://airam-tafir.github.io/hls/movie/hbo-sig.m3u8
  tvg-id="HBO Family (HD)", HBO FAMILY |alwa
 https://alwa.lk21tvonlineid.com/family.m3u8
 https://alwa.lk21tvonlineid.com/hits.m3u8
- tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |alwa
-https://alwa.lk21tvonlineid.com/red.m3u8
+https://alwa.lk21tvonlineid.com/red.m3u8 N.A.
 
  EXTINF:-1 tvg-id="HBO HD" group-title="movies", HBO |boxmv (alt)
 http://boxmovie-th.com/app-api-android/hbo/hbohd2/playlist.m3u8
@@ -399,8 +379,7 @@ http://boxmovie-th.com/app-api-android/hbo/famhd2/playlist.m3u8
 http://boxmovie-th.com/app-api-android/hbo/hitshd2/playlist.m3u8
  EXTINF:-1 tvg-id="HBO Signature (HD)", HBO SIGNATURE |boxmv (alt)
 http://boxmovie-th.com/app-api-android/hbo/sighd2/playlist.m3u8
- EXTINF:-1 tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |boxmv (alt)
-http://boxmovie-th.com/app-api-android/hbo/redhd2/playlist.m3u8
+http://boxmovie-th.com/app-api-android/hbo/redhd2/playlist.m3u8 N.A.
 
  tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX |dootv (alt)
 http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
@@ -412,8 +391,7 @@ http://dootvthai-hd.com/cmd/api/hbo/famhd/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8
  tvg-id="HBO Signature (HD)", HBO SIGNATURE |dootv (alt)
 http://dootvthai-hd.com/cmd/api/hbo/sighd/playlist.m3u8
- tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |dootv (alt)
-http://dootvthai-hd.com/cmd/api/hbo/red/playlist.m3u8
+http://dootvthai-hd.com/cmd/api/hbo/red/playlist.m3u8 N.A.
  tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX |TDB (alt)
 https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/maxhd/playlist.m3u8
  tvg-id="HBO HD", HBO |TDB (alt)
@@ -424,8 +402,7 @@ https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/famhd/playlist.m3u8
 https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/hitshd/playlist.m3u8
  tvg-id="HBO Signature (HD)", HBO SIGNATURE |TDB (alt)
 https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/sighd/playlist.m3u8
- tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |TDB (alt)
-https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/red/playlist.m3u8
+https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/red/playlist.m3u8 N.A.
  tvg-id="HBO HD" group-title="movies", HBO |mkc
 https://mkctv.net/josmkc/hbo.m3u8
  tvg-id="HBO Hits (HD)", HBO HiTS |mkc
@@ -434,8 +411,7 @@ https://mkctv.net/josmkc/hbohits.m3u8
 https://mkctv.net/josmkc/hbofam.m3u8
  tvg-id="HBO Signature (HD)", HBO SIGNATURE |mkc
 https://mkctv.net/josmkc/hbosig.m3u8
- tvg-id="RED BY HBO (HD)", RED BY HBO |mkc
-https://mkctv.net/josmkc/red.m3u8
+https://mkctv.net/josmkc/red.m3u8 N.A.
  tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX |mkc
 https://mkctv.net/josmkc/cinemax.m3u8
  tvg-id="HBO HD" group-title="movies",HBO |db
@@ -447,8 +423,7 @@ https://www.dropbox.com/s/y1p3h8qlgfvctx8/HBOHITSS.m3u8?dl=1
 https://www.dropbox.com/s/5u8m1owjbwvnlqf/HBOFAM.m3u8?dl=1
  tvg-id="CINEMAX (HD)",Cinemax |db
 https://www.dropbox.com/s/nm9vobcwjc1wh6i/CINEMAXX.m3u8?dl=1
- tvg-id="RED BY HBO (HD)" group-title="movies",RED by HBO |db
-https://www.dropbox.com/s/1wmlsklnt5xcfie/REDX.m3u8?dl=1
+https://www.dropbox.com/s/1wmlsklnt5xcfie/REDX.m3u8?dl=1 N.A.
 
  tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX |fdtv
 http://fdtvapps.xyz/channel/cinemax.m3u8
@@ -458,8 +433,7 @@ http://fdtvapps.xyz/channel/hbo.m3u8
 http://fdtvapps.xyz/channel/hbofam.m3u8
  tvg-id="HBO Hits (HD)", HBO HiTS |fdtv
 http://fdtvapps.xyz/channel/hbohits.m3u8
- tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |fdtv
-http://fdtvapps.xyz/channel/red.m3u8
+http://fdtvapps.xyz/channel/red.m3u8 N.A.
 
 http://home-tv.web.id/OYESS/hits.m3u8
 http://home-tv.web.id/OYESS/max.m3u8
@@ -478,8 +452,7 @@ https://jkl.masuk.id/nb/FAMILY/index.m3u8
 https://jkl.masuk.id/nb/HITS/index.m3u8
  tvg-id="HBO Signature (HD)",HBO Signature | jkl
 https://jkl.masuk.id/nb/SIG/index.m3u8
- tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO | jkl
-https://jkl.masuk.id/nb/RED/index.m3u8
+https://jkl.masuk.id/nb/RED/index.m3u8 N.A.
 
 http://f4.tvxweb.net:8082/18086/playlist.m3u8
 
@@ -536,13 +509,11 @@ http://me.zichannels.my.id/ch/hbo.m3u8
 http://me.zichannels.my.id/ch/hits.m3u8
 http://me.zichannels.my.id/ch/max.m3u8
 
- tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |me
-http://me.zichannels.my.id/ch/red.m3u8
+http://me.zichannels.my.id/ch/red.m3u8 N.A.
 http://me.zichannels.my.id/ch/sighd.m3u8
  tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX |ktu
 https://niklive.com/live/ktu/cinemax/playlist.m3u8
- tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |ktu
-https://niklive.com/live/ktu/red_hbo/playlist.m3u8
+https://niklive.com/live/ktu/red_hbo/playlist.m3u8 N.A.
  tvg-id="HBO HD" group-title="movies", HBO |wjb
 http://tv.wajabae.com/uji/hbo.m3u8
  tvg-id="CINEMAX (HD)", CINEMAX |wjb
@@ -553,8 +524,7 @@ http://wajabae.com/tv/hbo_family.m3u8
 http://wajabae.com/tv/hbo_hits.m3u8
  tvg-id="HBO Signature (HD)", HBO SIGNATURE |wjb
 http://wajabae.com/tv/hbo_sig.m3u8
- tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO |wjb
-http://wajabae.com/tv/red_hbo.m3u8
+http://wajabae.com/tv/red_hbo.m3u8 N.A.
  tvg-id="HBO Family (HD)" group-title="movies", HBO FAMILY |onweb
 https://zaltvku.imfast.io/family_onweb.m3u8
 https://zaltvku.imfast.io/HBO.m3u8 < N?
@@ -570,9 +540,8 @@ https://zaltvku.imfast.io/HBOMAX.m3u8
 https://zaltvku.imfast.io/HBOSIG.m3u8
  tvg-id="HBO Hits (HD)", HBO HiTS |onweb
 https://zaltvku.imfast.io/hits_onweb.m3u8
-https://zaltvku.imfast.io/RED.m3u8 < N?
- tvg-id="RED BY HBO (HD)", RED BY HBO |onweb (cf)
-https://zaltvku.imfast.io/red_onweb.m3u8
+https://zaltvku.imfast.io/RED.m3u8 N.A.
+https://zaltvku.imfast.io/red_onweb.m3u8 N.A.
  tvg-id="HBO Signature (HD)" group-title="movies", HBO SIGNATURE |onweb
 https://zaltvku.imfast.io/sig_onweb.m3u8
 
@@ -580,21 +549,18 @@ https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAXNew.m3u8
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOFAMNew.m3u8
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
- tvg-id="RED BY HBO (HD)", RED BY HBO |Pagi
-https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8 N.A.
 https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
- tvg-id="RED BY HBO (HD)", RED BY HBO |zalindo
-https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
+https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8 N.A.
 https://raw.githubusercontent.com/zaltvplayer/play01/master/cinemax.m3u8
 https://raw.githubusercontent.com/zaltvplayer/play01/master/hbo.m3u8
 https://raw.githubusercontent.com/zaltvplayer/play01/master/hbofam.m3u8
 https://raw.githubusercontent.com/zaltvplayer/play01/master/hbohit.m3u8
 https://raw.githubusercontent.com/zaltvplayer/play01/master/hbosig.m3u8
- tvg-id="RED BY HBO (HD)", RED BY HBO |zal
-https://raw.githubusercontent.com/zaltvplayer/play01/master/red.m3u8
+https://raw.githubusercontent.com/zaltvplayer/play01/master/red.m3u8 N.A.
 HBO Hits
 http://riyancoday.xyz/coday_play.m3u8?shinta=WWW.RiyanCoday.XYZ&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862cdcb1439e44bd6685165190fd4c2c4d31
 
@@ -616,8 +582,7 @@ https://ztvthai.online/izeetv/forapptreev/hbo-fam.m3u8
 https://ztvthai.online/izeetv/forapptreev/hbo-hits.m3u8
  tvg-id="HBO Signature (HD)",HBO Signature |TH
 https://ztvthai.online/izeetv/forapptreev/hbo-sig.m3u8
- tvg-id="RED BY HBO (HD)" group-title="movies",HBO Red |TH
-https://ztvthai.online/izeetv/forapptreev/hbo-red.m3u8
+https://ztvthai.online/izeetv/forapptreev/hbo-red.m3u8 N.A.
  tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX /ID
 http://iptv-wow.my.id/tv/hbohd/m3u/max.m3u8
  tvg-id="HBO HD", HBO /ID
@@ -628,8 +593,7 @@ http://iptv-wow.my.id/tv/hbohd/m3u/fam.m3u8
 http://iptv-wow.my.id/tv/hbohd/m3u/hits.m3u8
  tvg-id="HBO Signature (HD)", HBO SIGNATURE /ID
 http://iptv-wow.my.id/tv/hbohd/m3u/sig.m3u8
- tvg-id="RED BY HBO (HD)" group-title="movies", RED BY HBO /ID
-http://iptv-wow.my.id/tv/hbohd/m3u/red.m3u8
+http://iptv-wow.my.id/tv/hbohd/m3u/red.m3u8 N.A.
 https://iptv.burhansyam.com/hbo.m3u8
 https://iptv.burhansyam.com/hbotest/fam.m3u8
 https://iptv.burhansyam.com/hbotest/hbo.m3u8
@@ -645,8 +609,7 @@ http://www.iamntp.com/tv/link/hbo_onweb.m3u8
 http://www.iamntp.com/tv/link/hits_onweb.m3u8
  tvg-id="CINEMAX (HD)", CINEMAX |iamntp
 http://www.iamntp.com/tv/link/max_onweb.m3u
- tvg-id="RED BY HBO (HD)", Red By HBO |iamntp (cf)
-http://www.iamntp.com/tv/link/red_onweb.m3u8
+http://www.iamntp.com/tv/link/red_onweb.m3u8 N.A.
  tvg-id="HBO Signature (HD)" group-title="movies", HBO SIGNATURE |iamntp
 http://www.iamntp.com/tv/link/sig_onweb.m3u8
  tvg-id="CINEMAX (HD)" group-title="movies", Cinemax /onweb
@@ -659,8 +622,7 @@ http://www.iamntp.com/hbo/family_onweb.m3u8
 http://www.iamntp.com/hbo/hits_onweb.m3u8
  tvg-id="HBO Signature (HD)", HBO Signature /onweb
 http://www.iamntp.com/hbo/sig_onweb.m3u8
- tvg-id="RED BY HBO (HD)" group-title="movies", Red By HBO /onweb
-http://www.iamntp.com/hbo/red_onweb.m3u8
+http://www.iamntp.com/hbo/red_onweb.m3u8 N.A.
 https://dootvgun.com/hbotv/hbofam/playlist.m3u8
 https://dootvgun.com/hbotv/hbosig/playlist.m3u8
 https://dootvgun.com/hbotv/hbored/playlist.m3u8
@@ -7285,7 +7247,6 @@ https://cdn1.ufalive.center/app/one31/playlist.m3u8
 https://cdn1.ufalive.center/app/outdoor/playlist.m3u8
 https://cdn1.ufalive.center/app/paramount/playlist.m3u8
 https://cdn1.ufalive.center/app/pptv/playlist.m3u8
-,red by hbo |ufalive
 https://cdn1.ufalive.center/app/red/playlist.m3u8
  tvg-id="SCM HD",scm |ufalive
 https://cdn1.ufalive.center/app/scm/playlist.m3u8
@@ -10166,7 +10127,6 @@ https://streaming.livescorethai.net/iptv/sd-nation.stream/chunks.m3u8
 https://streaming.livescorethai.net/iptv/sd-nbt.stream/chunks.m3u8
 ,nhk premium |freetvdd
 https://streaming.livescorethai.net/iptv/sd-nhkpremium.stream/chunks.m3u8
-,red by hbo |freetvdd
 https://streaming.livescorethai.net/iptv/sd-redalt.stream/chunks.m3u8
 ,skynet sports 1 |freetvdd
 https://streaming.livescorethai.net/iptv/sd-skynetsports1.stream/chunks.m3u8
@@ -10356,7 +10316,6 @@ FIGHTSPORTS
 https://tv4.chang55.com:446/live2/tv4ch44.stream/chunks.m3u8
 EUROSPORT
 https://tv4.chang55.com:446/live2/tv4ch45.stream/chunks.m3u8
- tvg-id="RED BY HBO (HD)",RED BY HBO |chang55
 https://tv4.chang55.com:446/live2/tv4ch47.stream/chunks.m3u8
  tvg-id="HBO Signature (HD)",HBO Signature |chang55
 https://tv4.chang55.com:446/live2/tv4ch48.stream/chunks.m3u8
@@ -10831,7 +10790,6 @@ http://vp2p2s.my6868.cc/50067/index.m3u8
 http://vp2p2s.my6868.cc/50068/index.m3u8 < 
 http://vp2p2s.my6868.cc/50069/index.m3u8
 http://vp2p2s.my6868.cc/50070/index.m3u8 < 
-,RED BY HBO |my6868 *offline
 http://vp2p2s.my6868.cc/50071/index.m3u8
 http://vp2p2s.my6868.cc/50072/index.m3u8 < 
 http://vp2p2s.my6868.cc/50073/index.m3u8 < 
@@ -18298,7 +18256,6 @@ http://54.37.82.205:8081/liveorigin/sd-nbt_720/playlist.m3u8
 http://54.37.82.205:8081/liveorigin/sd-nhkpremium_480/playlist.m3u8
 ,nhk world |54.37
 http://54.37.82.205:8081/liveorigin/sd-nhkworld_720/playlist.m3u8
- tvg-id="RED BY HBO (HD)",RED MM |54.37
 http://54.37.82.205:8081/liveorigin/sd-redalt_480/playlist.m3u8
 ,skynet sports 1 |54.37
 http://54.37.82.205:8081/liveorigin/sd-skynetsports1_480/playlist.m3u8
@@ -21912,7 +21869,6 @@ http://222.255.50.244:9981/stream/channelid/381989781
 http://222.255.50.244:9981/stream/channelid/1861860122
 #EXTINF:-1 group-title="222.255",NHK WORLD HD
 http://222.255.50.244:9981/stream/channelid/1025724749
-#EXTINF:-1 group-title="222.255",Red By HBO HD
 http://222.255.50.244:9981/stream/channelid/1475641224
 #EXTINF:-1 group-title="222.255",Warner HD
 http://222.255.50.244:9981/stream/channelid/1227086666
