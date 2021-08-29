@@ -853,10 +853,14 @@ http://202.44.228.249:1935/aslive/skynetsports1/playlist.m3u8
 http://202.44.228.249:1935/aslive/skynetsports1/index.m3u8
 http://202.44.228.249:1935/aslive/skynetsports1/chunklist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist.m3u8
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist_w2098499287.m3u8
+
 #EXTINF:-1 group-title="BamarTV/Sports",NET SPORTS 2
 http://202.44.228.249:1935/aslive/skynetsports2/chunklist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist.m3u8
 #EXTINF:-1 group-title="BamarTV/Sports",NET SPORTS 3
+http://202.44.228.249:1935/aslive/astrosupersport4/chunklist.m3u8
+http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist_w1549922984.m3u8
 http://202.44.228.249:1935/aslive/skynetsports3/chunklist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports3/chunklist.m3u8
 #EXTINF:-1 group-title="BamarTV/Sports",NET SPORTS 4
@@ -869,17 +873,22 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports5/chunklist.m3u8
 http://202.44.228.249:1935/aslive/skynetsports6/chunklist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports6/chunklist.m3u8
 
-
+#EXTINF:-1 group-title="BamarTV/Sports",UNIVERSAL
 http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8
 http://202.44.228.249:1935/aslive/thrill/chunklist.m3u8
 
 http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklis.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist_w1936282519.m3u8
+http://916309128f3e.sn.mynetname.net:1935/aslive/babytv/chunklist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist.m3u8
 
-http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8 FOX ACTION
+#EXTINF:-1 group-title="BamarTV/Sports",FOX ACTION MOVIES
+http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist.m3u8
+http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
+
 http://916309128f3e.sn.mynetname.net:1935/aslive/pptvhd/chunklist_w1517173526.m3u8
+
 
  202.44.228.249
 http://202.44.228.33:1935/aslive/asiseries2/chunklist.m3u8 offline
