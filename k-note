@@ -5,18 +5,12 @@ x-tvg-url="https://guidexl.tv4.live/"
 00:04:4B:CC:FF:2E < Shield 
 
 
-http://202.150.161.254:4000/play/bein1/index.m3u8
-http://202.150.161.254:4000/play/bein2/index.m3u8
 
 
 http://123iptv.nl:88/get.php?username=test1&password=test2&type=m3u
 Real Url: 123iptv.nl:88     Status: Active    Created: 16/10/2020 1:53:41 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
 
-
-
-
-https://n1.userdrive.me:183/d/z6jr7dat2as5ln23nxjonq3eedbqkhqqs4jxgne56gsl3bat2i5ytfbodrdrvvaokdr424bt/IIn%20This%20Corner%20of%20the%20World%20.720p(CM).mp4 K- - - for few hours
 
 https://drive.google.com/file/d/1FZvrmKl4cliccKnZrd1k47JEANkP9DW4/view?usp=sharing
 https://www.googleapis.com/drive/v3/files/1FZvrmKl4cliccKnZrd1k47JEANkP9DW4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -849,6 +843,10 @@ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 #EXTINF:-1 group-title="BamarTV/Sports",Bein Sport 3 Fr
 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgMDI0J3bwNlbpVmQ
 
+#EXTINF:-1 group-title="BamarTV/Sports",beIN SP1
+http://202.150.161.254:4000/play/bein1/index.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",beIN SP2
+http://202.150.161.254:4000/play/bein2/index.m3u8
 
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
