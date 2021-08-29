@@ -870,6 +870,8 @@ skynetsports2
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist.m3u8
 skynetsports3
 http ://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist.m3u8
+http://916309128f3e.sn.mynetname.net:1935/aslive/true4u/chunklist.m3u8
+
 
 
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist_w1834747878.m3u8
@@ -8297,7 +8299,6 @@ https://eiei.livedoomovie.com/02_PremierHD5_720p/Chunklist.m3u8
 
 #EXTINF:-1 group-title="eiei",true EPL 3
 https://eiei.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-https://mediasv.online/live/trueepl3/playlist.m3u8
 #EXTINF:-1 group-title="eiei",true EPL 4
 https://eiei.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="eiei",true EPL 5
@@ -9467,6 +9468,9 @@ https://mediasv.online/tvchannel_x1/foxsport3/playlist.m3u8?wmsAuthSign=c2VydmVy
 https://mediasv.online/tvchannel_x1/foxsport3/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDIxIDE6MTg6NDQgUE0maGFzaF92YWx1ZT1uYysxVUUwNEZIeUZQMlY0eGhMNXV3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIyJmlkPWNoXzIyNjI1
 #EXTINF:-1 group-title="mediasv",FOX SPORT 3'
 https://mediasv.online/tvchannel_x1/foxsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDIxIDEyOjMxOjIzIFBNJmhhc2hfdmFsdWU9ZHFDMzgydzBaSHRYa0dMR2hBMzBRQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0yMiZpZD1jaF8yOTE4MA==
+
+#EXTINF:-1 group-title="mediasv",FOX Premium
+https://mediasv.online/tvchannel_x1/hd-foxpremium/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDIxIDI6NTQ6MjEgUE0maGFzaF92YWx1ZT1pMEFXZlRIa1BpVGlkMXkzbmgwM2N3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTI2JmlkPWNoXzI4Njgy
 
 #EXTINF:-1 group-title="mediasv",afc
 https://mediasv.online/tvchannel_x2/hd-afc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6Mjc6NTIgQU0maGFzaF92YWx1ZT0vUHhkdUFCNDY4Tkd3bVlVYWY4QXV3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE5JmlkPWNoXzUyNzE3
