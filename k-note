@@ -6414,7 +6414,7 @@ https://178.17.168.42:443/02_MTV_Asia_720p/Chunklist.m3u8
 https://178.17.168.42:443/02_MTV_China_720p/chunklist.m3u8
 https://178.17.168.42:443/02_MTV_Live_HD_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="178.17/TH",MUTV |178
+#EXTINF:-1 tvg-id="4675" group-title="178.17/TH",MUTV |178
 https://178.17.168.42:443/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 group-title="178.17/TH",LFC TV
 https://178.17.168.42:443/02_lfctv_720p/chunklist.m3u8
