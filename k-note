@@ -848,17 +848,19 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist_w183474
 
 #EXTINF:-1 group-title="BamarTV/Sports",NET SPORTS HD
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsportshd/chunklist.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",NET SPORTS 1
+#EXTINF:-1 group-title="BamarTV/Sports",NET SPORTS 1 |202
 http://202.44.228.249:1935/aslive/skynetsports1/playlist.m3u8
 http://202.44.228.249:1935/aslive/skynetsports1/index.m3u8
 http://202.44.228.249:1935/aslive/skynetsports1/chunklist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist_w2098499287.m3u8
 
-#EXTINF:-1 group-title="BamarTV/Sports",NET SPORTS 2
+#EXTINF:-1 group-title="BamarTV/Sports",NET SPORTS 2 |202
+http://202.44.228.249:1935/aslive/skynetsports2/playlist.m3u8
 http://202.44.228.249:1935/aslive/skynetsports2/chunklist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist.m3u8
-#EXTINF:-1 group-title="BamarTV/Sports",NET SPORTS 3
+#EXTINF:-1 group-title="BamarTV/Sports",NET SPORTS 3 |202
+http://202.44.228.249:1935/aslive/astrosupersport4/playlist.m3u8
 http://202.44.228.249:1935/aslive/astrosupersport4/chunklist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist_w1549922984.m3u8
 http://202.44.228.249:1935/aslive/skynetsports3/chunklist.m3u8
