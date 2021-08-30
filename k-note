@@ -1353,10 +1353,6 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.
 #EXTINF:-1 group-title="BamarTV/Sports",eleven_sports_2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 
-
-
-
-
  NBCSN LIVE |offline
 http://cdn.streamspass.club/live/streamsd/playlist.m3u8
 https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/za5cq0ormjrr93u.m3u8?s=OMrxGFA-fGzYWJDWukVijA&e=1612724087
@@ -1441,8 +1437,7 @@ http://v1.oldboz44.com/beinsport11/index.m3u8
 http://v1.oldboz44.com/beinsport12/index.m3u8
 
 
-, BT SPORT 3 LIVE *
-https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/f2s41vu1evpyi2.m3u8?s=BFnbvI6UjrXV2t-rnwyxTg&e=1612724082
+
 
 #EXTINF:-1 group-title="BamarTV/Sports",STAR SPORTS SELECT 1
 http://103.159.4.38:5868/SPORTS-1/tracks-v1a1/mono.m3u8
@@ -1671,10 +1666,21 @@ http://techoreels.com/clip/s1.html < TOR S1
 http://techoreels.com/clip/s3.html < TOR S3
 
 cr7 
+#EXTINF:-1 group-title="BamarTV/Sports",mazy s1 |cr7
 http://ueefa.mazystreams.xyz/live/1/playlist.m3u8?wmsAuthSign=
 http://ueefa.mazystreams.xyz/live/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDE6MDg6MzggUE0maGFzaF92YWx1ZT1uSG00TzduYUNQdzUwbFJQV1RmemZ3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yYTAyOmM3ZjpmMjMwOmJlMDA6MWQ5NjpmNDliOjMxNmQ6ZjNkNyZzdHJtX2xlbj01
 http://mazystreams.xyz/event/norwich-city-vs-leicester-city/s2.php
+
+#EXTINF:-1 group-title="BamarTV/Sports",mazy s1 |cr7
+http://ueefa.mazystreams.xyz/live/2/playlist.m3u8?wmsAuthSign=
 http://ueefa.mazystreams.xyz/live/2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDEyOjQ4OjI0IFBNJmhhc2hfdmFsdWU9T1VrZXZOYWpnQUc4Wm1YdzRMYjJXUT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MmEwMDoyM2M0OjJjOTg6MjUwMTo4MGZlOjFkODA6ZGIzZDphNzEyJnN0cm1fbGVuPTU=
+
+
+
+
+, BT SPORT 3 LIVE *
+https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/f2s41vu1evpyi2.m3u8?s=BFnbvI6UjrXV2t-rnwyxTg&e=1612724082
+
 
 
 Freesport
@@ -1682,8 +1688,10 @@ http://nflsportz.com/embed/1.php?sport=soccer
 
 
 spt live1 < Sportinglive.co
-http://185.53.89.183/hls/pl.m3u8 SL PL
-http://185.53.89.183/hls/main.m3u8 SL main
+#EXTINF:-1 group-title="BamarTV/Sports", SL PL
+http://185.53.89.183/hls/pl.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports", SL main
+http://185.53.89.183/hls/main.m3u8
 
 Freetvlive1
 https://poscitech.club/player/ch61.php < no sound
@@ -1829,8 +1837,6 @@ https://r3-sn-5fo-c37ed54.googleuservideo.com/hdfootball_w1/trueepl5_480p/chunks
 
 #EXTINF:-1 group-title="BamarTV/Sports",astrosupersport
 https://r3-sn-5fo-c37ed63.googleuservideo.com/hdfootball_w4/astrosupersport/chunks.m3u8?nimblesessionid=118381807&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDk6NDk6MjIgQU0maGFzaF92YWx1ZT1OWlZncG9lcUJMb3BycUU3ZU1QNDVnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjkmaWQ9MTMzNTcy
-
-
 
 
 
@@ -2143,12 +2149,16 @@ http://streamwat.ch/custom/player/#http://ocdncdno.xyz/hls/liveovo1.m3u8
 http://streamwat.ch/custom/player/#https://you1sports.com/hls/ep1.m3u8
 https://pol.ptvsportstv.com/ovo/streamsdemo.stream/playlist.m3u8
 
-ovo1
+#EXTINF:-1 group-title="BamarTV/Sports",OVO S1'
 http://157.230.177.161/live/ovo1/playlist.m3u8
-ovo c1
+#EXTINF:-1 group-title="BamarTV/Sports",OVO S1
+http://157.230.176.103/live/ovo1/playlist.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",OVO C1
 http://143.198.187.247/hls/ovochannel1/playlist.m3u8
-
-
+#EXTINF:-1 group-title="BamarTV/Sports",OVO C2
+http://147.182.210.238/live/ovochannel2/playlist.m3u8
+#EXTINF:-1 group-title="BamarTV/Sports",OVO C2'
+http://159.89.82.102/live/ovochannel2/playlist.m3u8
 
 OVO1 http://www.ovostreams.com/1.php << 
 OVO2 http://www.ovostreams.com/2.php
