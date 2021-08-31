@@ -885,8 +885,6 @@ http://202.150.161.254:4000/play/bein1/index.m3u8
 http://202.150.161.254:4000/play/bein2/index.m3u8
 
 
-
-
 Top Fight
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports4/chunklist.m3u8
 Tennis
@@ -942,9 +940,14 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports6/chunklist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8
 http://202.44.228.249:1935/aslive/thrill/chunklist.m3u8
 
+asi ch1
 http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklis.m3u8
+asi ch2
 http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist.m3u8
+asi seri1/ TVN TH
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist_w1936282519.m3u8
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/babytv/chunklist.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist.m3u8
 
@@ -2876,6 +2879,10 @@ https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
 http://gsn-cinevault-70s-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1,cine vault 70s
 https://gsn-cinevault-70s-1-us.vizio.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="BamarTV",screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
 
 #EXTINF:-1 group-title="BamarTV",REDBOX
@@ -26960,7 +26967,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/mono.m3u8
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v2a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/playlist.m3u8
@@ -27013,6 +27019,105 @@ https://y5w8j4a9.ssl.hwcdn.net/zzestsd/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="IN/y5",ZEE CINEMA US*
 https://y5w8j4a9.ssl.hwcdn.net/wion/index.m3u8
 
+#EXTINF:-1,andflix
+http://y5w8j4a9.ssl.hwcdn.net/andflix/tracks-v1a1/index.m3u8
+#EXTINF:-1,classic
+http://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/wion/tracks-v2a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/andflixhd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/andpicshd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/andprivehd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/bigganga/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/bigmagic/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/cinemauk/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/cinemausa/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/classic/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/magic/index.m3u8
+#EXTINF:-1,ZEE Mundo
+http://y5w8j4a9.ssl.hwcdn.net:80/mundohd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/russia/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/wion/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/zcinemahd/index.m3u8
+#EXTINF:-1,ZEE Cafe
+http://y5w8j4a9.ssl.hwcdn.net:80/zeecafehd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/zing/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/zlivingusa_r_prod/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net:80/ztvhdusa/index.m3u8
+
+http://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/bigganga/tracks-v1a1/playlist.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/playlist.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/magic/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/russia/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/wion/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/mono.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/bigganga/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/magic/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/mundohd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/russia/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/wion/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zeecafehd/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
+http://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/index.m3u8
+
+#EXTINF:-1,smileusa
+http://y5w8j4a9.ssl.hwcdn.net/smileusa/index.m3u8
+#EXTINF:-1,Zee Cinema Me
+https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
+#EXTINF:-1,& PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/ztvsdusa/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/ztvme/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/ztalkieshd/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zinguk/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zing/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/world/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/smileusa/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/russia/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/punjabi/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/newsmpcg/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/marathiusa/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/magic/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/kalak/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/etcpnjbiusa/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/classic/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/cinemauk/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/canadahd/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/biharjharkh/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/bigmagic/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/bigganga/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/apacsea/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/mono.m3u8
+#EXTINF:-1,&Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/action/mono.m3u8
 
 + + + + + https://z5amshls.akamaized.net + + + + +
 
