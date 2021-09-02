@@ -5,6 +5,10 @@ x-tvg-url="https://guidexl.tv4.live/"
 00:04:4B:CC:FF:2E < Shield 
 
 
+
+http://gosat.xyz:8080/get.php?username=goone&password=goone&type=m3u
+Real Url: 22288999.xyz:8080     Status: Active    Created: 31/8/2021 4:21:10 PM     Expires: 7/9/2021 5:20:00 PM    Active Connections: 6     Maximum Connections: 100     Formats: "m3u8","ts","rtmp" << 
+
 http://123iptv.nl:88/get.php?username=test1&password=test2&type=m3u
 Real Url: 123iptv.nl:88     Status: Active    Created: 16/10/2020 1:53:41 PM     Expires: Null    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
 
@@ -2038,9 +2042,12 @@ https://sportkart.xyz/ch/scplayer-137.php < no sound?
 
 https://wigistream.to/embed/wokcu16ro5n65d
 
++ + + + + https://soccer-100.club/
+
+https://soccer-100.club/2021/07/07/tv-channel-27/?sport=soccer > https://soccer-100.xyz/embed/scplayer-27.php
 
 
-+ + + + + http://iwizwig.online/ + + + + +
++ + + + + http://iwizwig.online/ + + + + + no sound 
 
 http://iwizwig.online/2021/04/24/watch-stream-43-live-in-hd-free/?sport=soccer > https://nbalaker.xyz/pub/pubstreams-43.php
 
