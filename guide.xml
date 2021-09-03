@@ -92,6 +92,18 @@
     <display-name lang="en">Astro SuperSport 4 HD</display-name>
     <url>http://www.astro.com.my.E</url>
   </channel>
+    <channel id="maishamagicbongo.tz">
+    <display-name lang="en">MAISHA MAGIC BONGO</display-name>
+    <url>http://www.dstv.com</url>
+  </channel>
+  <programme start="20210903100000 +0300" stop="20210903110000 +0300" channel="maishamagicbongo.tz">
+    <title lang="en">NYAVU</title>
+    <desc lang="en">Men about town Owen Wilson and Vince Vaughn's favourite pastime is attending weddings – but most of the time they're not on the guest list!(n)</desc>
+  </programme>
+ <programme start="20210903110000 +0300" stop="20210903120000 +0300" channel="maishamagicbongo.tz">
+    <title lang="en">NYAVU</title>
+    <desc lang="en">Men about town Owen Wilson and Vince Vaughn's favourite pastime is attending weddings – but most of the time they're not on the guest list!(n)</desc>
+  </programme>
   <programme start="20210829004500 +0800" stop="20210829024000 +0800" channel="HBO HD">
     <title lang="en">WEDDING CRASHERS</title>
     <desc lang="en">Men about town Owen Wilson and Vince Vaughn's favourite pastime is attending weddings – but most of the time they're not on the guest list!(n)</desc>
